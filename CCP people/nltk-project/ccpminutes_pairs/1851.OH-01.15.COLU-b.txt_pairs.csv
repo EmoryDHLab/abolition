@@ -1,0 +1,137 @@
+name1,name2
+E. Glover,John Quincy Adams
+E. Glover,Webster
+E. Glover,Seward
+E. Glover,Noyes
+E. Glover,Jenks
+E. Glover,Bey
+E. Glover,Wm. Allen
+E. Glover,Kent
+E. Glover,Baldwin
+E. Glover,Andrew Jackson
+E. Glover,Green
+E. Glover,Saml
+E. Glover,Galloway
+E. Glover,William H. Seward
+E. Glover,Charles H. Langston
+E. Glover,Charles A. Yancey
+John Quincy Adams,Webster
+John Quincy Adams,Seward
+John Quincy Adams,Noyes
+John Quincy Adams,Jenks
+John Quincy Adams,Bey
+John Quincy Adams,Wm. Allen
+John Quincy Adams,Kent
+John Quincy Adams,Baldwin
+John Quincy Adams,Andrew Jackson
+John Quincy Adams,Green
+John Quincy Adams,Saml
+John Quincy Adams,Galloway
+John Quincy Adams,William H. Seward
+John Quincy Adams,Charles H. Langston
+John Quincy Adams,Charles A. Yancey
+Webster,Seward
+Webster,Noyes
+Webster,Jenks
+Webster,Bey
+Webster,Wm. Allen
+Webster,Kent
+Webster,Baldwin
+Webster,Andrew Jackson
+Webster,Green
+Webster,Saml
+Webster,Galloway
+Webster,William H. Seward
+Webster,Charles H. Langston
+Webster,Charles A. Yancey
+Seward,Noyes
+Seward,Jenks
+Seward,Bey
+Seward,Wm. Allen
+Seward,Kent
+Seward,Baldwin
+Seward,Andrew Jackson
+Seward,Green
+Seward,Saml
+Seward,Galloway
+Seward,William H. Seward
+Seward,Charles H. Langston
+Seward,Charles A. Yancey
+Noyes,Jenks
+Noyes,Bey
+Noyes,Wm. Allen
+Noyes,Kent
+Noyes,Baldwin
+Noyes,Andrew Jackson
+Noyes,Green
+Noyes,Saml
+Noyes,Galloway
+Noyes,William H. Seward
+Noyes,Charles H. Langston
+Noyes,Charles A. Yancey
+Jenks,Bey
+Jenks,Wm. Allen
+Jenks,Kent
+Jenks,Baldwin
+Jenks,Andrew Jackson
+Jenks,Green
+Jenks,Saml
+Jenks,Galloway
+Jenks,William H. Seward
+Jenks,Charles H. Langston
+Jenks,Charles A. Yancey
+Bey,Wm. Allen
+Bey,Kent
+Bey,Baldwin
+Bey,Andrew Jackson
+Bey,Green
+Bey,Saml
+Bey,Galloway
+Bey,William H. Seward
+Bey,Charles H. Langston
+Bey,Charles A. Yancey
+Wm. Allen,Kent
+Wm. Allen,Baldwin
+Wm. Allen,Andrew Jackson
+Wm. Allen,Green
+Wm. Allen,Saml
+Wm. Allen,Galloway
+Wm. Allen,William H. Seward
+Wm. Allen,Charles H. Langston
+Wm. Allen,Charles A. Yancey
+Kent,Baldwin
+Kent,Andrew Jackson
+Kent,Green
+Kent,Saml
+Kent,Galloway
+Kent,William H. Seward
+Kent,Charles H. Langston
+Kent,Charles A. Yancey
+Baldwin,Andrew Jackson
+Baldwin,Green
+Baldwin,Saml
+Baldwin,Galloway
+Baldwin,William H. Seward
+Baldwin,Charles H. Langston
+Baldwin,Charles A. Yancey
+Andrew Jackson,Green
+Andrew Jackson,Saml
+Andrew Jackson,Galloway
+Andrew Jackson,William H. Seward
+Andrew Jackson,Charles H. Langston
+Andrew Jackson,Charles A. Yancey
+Green,Saml
+Green,Galloway
+Green,William H. Seward
+Green,Charles H. Langston
+Green,Charles A. Yancey
+Saml,Galloway
+Saml,William H. Seward
+Saml,Charles H. Langston
+Saml,Charles A. Yancey
+Galloway,William H. Seward
+Galloway,Charles H. Langston
+Galloway,Charles A. Yancey
+William H. Seward,Charles H. Langston
+William H. Seward,Charles A. Yancey
+Charles H. Langston,Charles A. Yancey
