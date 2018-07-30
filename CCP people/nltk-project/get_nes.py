@@ -4,7 +4,7 @@ from glob import glob
 from collections import Counter
 from nltk.parse.corenlp import CoreNLPParser
 # before you start this program, run the CoreNLP Server on terminal with this command:
-# java -mx1g -cp "stanford-corenlp-full-2018-02-27/*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -annotators "tokenize,ssplit,pos,lemma,ner
+# java -mx4g -cp "stanford-corenlp-full-2018-02-27/*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -annotators "tokenize,ssplit,pos,lemma,ner
 # visit http:localhost:9000 for debugging purposes
 
 # Collect the csv of all the names in the document
@@ -26,15 +26,34 @@ def get_entities(tagger_output):
 
 tagger = CoreNLPParser(tagtype='ner')
 # open a new csv file and write down the data
-with open('ccp_data.csv', 'w', newline='') as csvfile:
-    newfile = csv.DictWriter(csvfile, fieldnames=['Person', 'Count', 'Year', 'Place', 'filename'],
-                             quoting=csv.QUOTE_MINIMAL)
-    newfile.writeheader()
+# with open('ccp_data.csv', 'w', newline='') as csvfile:
+#     newfile = csv.DictWriter(csvfile, fieldnames=['Person', 'Count', 'Year', 'Place', 'filename'],
+#                              quoting=csv.QUOTE_MINIMAL)
+#     newfile.writeheader()
+#     for f in glob(os.path.join("ccpminutes", '*.txt')):
+#         # collect metadata
+#         filename = f.split("\\")[1]
+#         year = filename.split(".")[0]
+#         place = filename.split(".")[1].split("-")[0] # e.g. NY-10, take NY
+#         entities = Counter()
+#         with open(f, encoding='utf-8') as fin:
+#             for line in fin:
+#                 if line.split():
+#                     try:
+#                         tagged_line = tagger.tag(line.split())
+#                         entities += Counter(get_entities(tagged_line))
+#                     except:
+#                         pass
+#
+#         for name in entities.keys():
+#             newfile.writerow({'Person': name, 'Count': str(entities[name]), 'Year': year, 'Place': place,
+#                               'filename': filename})
+
+
+with open('all_names.csv', 'w', newline='') as csvfile2:
+    newfile2 = csv.writer(csvfile2, quoting=csv.QUOTE_MINIMAL)
+    newfile2.writerow(['File', 'People'])
     for f in glob(os.path.join("ccpminutes", '*.txt')):
-        # collect metadata
-        filename = f.split("\\")[1]
-        year = filename.split(".")[0]
-        place = filename.split(".")[1].split("-")[0] # e.g. NY-10, take NY
         entities = Counter()
         with open(f, encoding='utf-8') as fin:
             for line in fin:
@@ -45,5 +64,4 @@ with open('ccp_data.csv', 'w', newline='') as csvfile:
                     except:
                         pass
 
-        for name in entities.keys():
-            newfile.writerow({'Person': name, 'Count': str(entities[name]), 'Year': year, 'Place': place, 'filename': filename})
+        newfile2.writerow([f.split("\\")[1]] + [name.split("_PERSON")[0] for name in entities.keys()])
