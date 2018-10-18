@@ -1,10 +1,9 @@
-name1,name2
+source,target
 J.W. Allen,Bishop Allen
 J.W. Allen,Cyrus Black
 J.W. Allen,Junius C. Morel
 J.W. Allen,Benjamin Paschall
 J.W. Allen,James Cornish
-J.W. Allen,Allen
 J.W. Allen,Richard Allen
 J.W. Allen,Belfast Burton
 J.W. Allen,Robert Cowley
@@ -78,7 +77,6 @@ Bishop Allen,Cyrus Black
 Bishop Allen,Junius C. Morel
 Bishop Allen,Benjamin Paschall
 Bishop Allen,James Cornish
-Bishop Allen,Allen
 Bishop Allen,Richard Allen
 Bishop Allen,Belfast Burton
 Bishop Allen,Robert Cowley
@@ -151,7 +149,6 @@ Bishop Allen,John Dutton
 Cyrus Black,Junius C. Morel
 Cyrus Black,Benjamin Paschall
 Cyrus Black,James Cornish
-Cyrus Black,Allen
 Cyrus Black,Richard Allen
 Cyrus Black,Belfast Burton
 Cyrus Black,Robert Cowley
@@ -223,7 +220,6 @@ Cyrus Black,Samuel Combegy
 Cyrus Black,John Dutton
 Junius C. Morel,Benjamin Paschall
 Junius C. Morel,James Cornish
-Junius C. Morel,Allen
 Junius C. Morel,Richard Allen
 Junius C. Morel,Belfast Burton
 Junius C. Morel,Robert Cowley
@@ -294,7 +290,6 @@ Junius C. Morel,G. Laws
 Junius C. Morel,Samuel Combegy
 Junius C. Morel,John Dutton
 Benjamin Paschall,James Cornish
-Benjamin Paschall,Allen
 Benjamin Paschall,Richard Allen
 Benjamin Paschall,Belfast Burton
 Benjamin Paschall,Robert Cowley
@@ -364,7 +359,6 @@ Benjamin Paschall,Edward Johnson
 Benjamin Paschall,G. Laws
 Benjamin Paschall,Samuel Combegy
 Benjamin Paschall,John Dutton
-James Cornish,Allen
 James Cornish,Richard Allen
 James Cornish,Belfast Burton
 James Cornish,Robert Cowley
@@ -434,75 +428,6 @@ James Cornish,Edward Johnson
 James Cornish,G. Laws
 James Cornish,Samuel Combegy
 James Cornish,John Dutton
-Allen,Richard Allen
-Allen,Belfast Burton
-Allen,Robert Cowley
-Allen,Wm. S. Whipper
-Allen,Peter Gardiner
-Allen,John Allen
-Allen,James Newman
-Allen,Charles H. Leveck
-Allen,Frederick A. Hinton
-Allen,Austin Steward
-Allen,Jos. Adams
-Allen,George L. Brown
-Allen,C. Augustus
-Allen,George C. Willis
-Allen,Alfred Niger
-Allen,James Deavour
-Allen,Hezekiah Grice
-Allen,Aaron Willoon
-Allen,Abraham D. Shad
-Allen,Arthur M. Waring
-Allen,Wm. Duncan
-Allen,James West
-Allen,Robert Brown
-Allen,William Rogers
-Allen,John Bowers
-Allen,Richard Howell
-Allen,Daniel Peterson
-Allen,Charles Shorts
-Allen,Leven Williams
-Allen,James P. Walker
-Allen,John Robinson
-Allen,Samuel Todd
-Allen,John Arnold
-Allen,Sampson Peters
-Allen,Anthony Campbell
-Allen,Don Carolos Hall
-Allen,Rob
-Allen,Brown
-Allen,Daniel D. Brownhill
-Allen,William Whipper
-Allen,John P. Thompson
-Allen,Samuel D. Potts
-Allen,James Johnson
-Allen,John P. Burr
-Allen,Scipio Sewell
-Allen,Porter
-Allen,Joseph Cassey
-Allen,Shedrich Basset
-Allen,James Gibson
-Allen,Jeremiah Bowser
-Allen,Richard B. Johnson
-Allen,Henry Beckett
-Allen,Peter Mcneal
-Allen,James Bird
-Allen,Abraham Williams
-Allen,Daniel B. Brownhill
-Allen,John B. Sammons
-Allen,Charles W. Gardner
-Allen,Thomas Butler
-Allen,Messrs.Samuel Nickels
-Allen,William James
-Allen,Thomas Channock
-Allen,William C. West
-Allen,Robert Johnson
-Allen,Joshua Brown
-Allen,Edward Johnson
-Allen,G. Laws
-Allen,Samuel Combegy
-Allen,John Dutton
 Richard Allen,Belfast Burton
 Richard Allen,Robert Cowley
 Richard Allen,Wm. S. Whipper

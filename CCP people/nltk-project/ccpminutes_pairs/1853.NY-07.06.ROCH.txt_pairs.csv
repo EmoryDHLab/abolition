@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Frederick Douglass,Harriet Beecher Stowe
 Frederick Douglass,James W. C. Pennington
 Frederick Douglass,Henry M. Wilson
@@ -7,7 +7,6 @@ Frederick Douglass,James Mccune Smith
 Frederick Douglass,Edward V. Clark
 Frederick Douglass,Wm. J. Wilson
 Frederick Douglass,Junius C. Morell
-Frederick Douglass,N. Y.
 Frederick Douglass,John N. Still
 Frederick Douglass,Amos N. Freeman
 Frederick Douglass,Jacob P. Morris
@@ -16,7 +15,6 @@ Frederick Douglass,Stephen Myres
 Frederick Douglass,J W. Loguen
 Frederick Douglass,George T. Downing
 Frederick Douglass,Wm. Joeson
-Frederick Douglass,Providence R. I.
 Frederick Douglass,John N. Smith
 Frederick Douglass,Johm Mercer Langston
 Frederick Douglass,Wm. H. Day
@@ -32,7 +30,6 @@ Frederick Douglass,Robert Morris
 Frederick Douglass,C. L. Remond
 Frederick Douglass,H. O. Wagoner
 Frederick Douglass,E. P. Rogers
-Frederick Douglass,N. J.
 Frederick Douglass,Benjamin Lynch
 Frederick Douglass,Isaac Cross
 Frederick Douglass,Amos Gerry Beman
@@ -51,7 +48,6 @@ Frederick Douglass,T. G. Campbell
 Frederick Douglass,Byrd Parker
 Frederick Douglass,A. G. Beman
 Frederick Douglass,Wm. C. Munroe
-Frederick Douglass,P. M.
 Frederick Douglass,Jehial C. Beman
 Frederick Douglass,President-James W. C. Pennington
 Frederick Douglass,James C. Mccrumbell
@@ -82,6 +78,7 @@ Frederick Douglass,Martin Van Buren
 Frederick Douglass,Ogden Edwards
 Frederick Douglass,Ticonderoga
 Frederick Douglass,Monroe
+Frederick Douglass,Niles Register
 Frederick Douglass,Wm. Eustis
 Frederick Douglass,Morrill
 Frederick Douglass,Charles Pinckney
@@ -110,7 +107,6 @@ Frederick Douglass,T. G. Campbell A. H. Adams
 Frederick Douglass,W. J. Watkins
 Frederick Douglass,J. D. Bonner
 Frederick Douglass,David H. Jackson
-Frederick Douglass,A. N
 Frederick Douglass,Freeman
 Frederick Douglass,J. I. Gaines
 Frederick Douglass,F. T. Newsome
@@ -163,7 +159,6 @@ Frederick Douglass,Augusta
 Frederick Douglass,Jesus
 Frederick Douglass,Christ
 Frederick Douglass,J. H. Wilson
-Frederick Douglass,M. D.
 Frederick Douglass,Henry Mckinney
 Frederick Douglass,Hale
 Frederick Douglass,Julian
@@ -217,6 +212,7 @@ Frederick Douglass,Cornet John Rolt
 Frederick Douglass,Lancaster
 Frederick Douglass,Glover
 Frederick Douglass,Lieutenants Robinson
+Frederick Douglass,Ensign Minty
 Frederick Douglass,Propontis
 Frederick Douglass,Dennett
 Frederick Douglass,Pears
@@ -242,7 +238,6 @@ Harriet Beecher Stowe,James Mccune Smith
 Harriet Beecher Stowe,Edward V. Clark
 Harriet Beecher Stowe,Wm. J. Wilson
 Harriet Beecher Stowe,Junius C. Morell
-Harriet Beecher Stowe,N. Y.
 Harriet Beecher Stowe,John N. Still
 Harriet Beecher Stowe,Amos N. Freeman
 Harriet Beecher Stowe,Jacob P. Morris
@@ -251,7 +246,6 @@ Harriet Beecher Stowe,Stephen Myres
 Harriet Beecher Stowe,J W. Loguen
 Harriet Beecher Stowe,George T. Downing
 Harriet Beecher Stowe,Wm. Joeson
-Harriet Beecher Stowe,Providence R. I.
 Harriet Beecher Stowe,John N. Smith
 Harriet Beecher Stowe,Johm Mercer Langston
 Harriet Beecher Stowe,Wm. H. Day
@@ -267,7 +261,6 @@ Harriet Beecher Stowe,Robert Morris
 Harriet Beecher Stowe,C. L. Remond
 Harriet Beecher Stowe,H. O. Wagoner
 Harriet Beecher Stowe,E. P. Rogers
-Harriet Beecher Stowe,N. J.
 Harriet Beecher Stowe,Benjamin Lynch
 Harriet Beecher Stowe,Isaac Cross
 Harriet Beecher Stowe,Amos Gerry Beman
@@ -286,7 +279,6 @@ Harriet Beecher Stowe,T. G. Campbell
 Harriet Beecher Stowe,Byrd Parker
 Harriet Beecher Stowe,A. G. Beman
 Harriet Beecher Stowe,Wm. C. Munroe
-Harriet Beecher Stowe,P. M.
 Harriet Beecher Stowe,Jehial C. Beman
 Harriet Beecher Stowe,President-James W. C. Pennington
 Harriet Beecher Stowe,James C. Mccrumbell
@@ -317,6 +309,7 @@ Harriet Beecher Stowe,Martin Van Buren
 Harriet Beecher Stowe,Ogden Edwards
 Harriet Beecher Stowe,Ticonderoga
 Harriet Beecher Stowe,Monroe
+Harriet Beecher Stowe,Niles Register
 Harriet Beecher Stowe,Wm. Eustis
 Harriet Beecher Stowe,Morrill
 Harriet Beecher Stowe,Charles Pinckney
@@ -345,7 +338,6 @@ Harriet Beecher Stowe,T. G. Campbell A. H. Adams
 Harriet Beecher Stowe,W. J. Watkins
 Harriet Beecher Stowe,J. D. Bonner
 Harriet Beecher Stowe,David H. Jackson
-Harriet Beecher Stowe,A. N
 Harriet Beecher Stowe,Freeman
 Harriet Beecher Stowe,J. I. Gaines
 Harriet Beecher Stowe,F. T. Newsome
@@ -398,7 +390,6 @@ Harriet Beecher Stowe,Augusta
 Harriet Beecher Stowe,Jesus
 Harriet Beecher Stowe,Christ
 Harriet Beecher Stowe,J. H. Wilson
-Harriet Beecher Stowe,M. D.
 Harriet Beecher Stowe,Henry Mckinney
 Harriet Beecher Stowe,Hale
 Harriet Beecher Stowe,Julian
@@ -452,6 +443,7 @@ Harriet Beecher Stowe,Cornet John Rolt
 Harriet Beecher Stowe,Lancaster
 Harriet Beecher Stowe,Glover
 Harriet Beecher Stowe,Lieutenants Robinson
+Harriet Beecher Stowe,Ensign Minty
 Harriet Beecher Stowe,Propontis
 Harriet Beecher Stowe,Dennett
 Harriet Beecher Stowe,Pears
@@ -476,7 +468,6 @@ James W. C. Pennington,James Mccune Smith
 James W. C. Pennington,Edward V. Clark
 James W. C. Pennington,Wm. J. Wilson
 James W. C. Pennington,Junius C. Morell
-James W. C. Pennington,N. Y.
 James W. C. Pennington,John N. Still
 James W. C. Pennington,Amos N. Freeman
 James W. C. Pennington,Jacob P. Morris
@@ -485,7 +476,6 @@ James W. C. Pennington,Stephen Myres
 James W. C. Pennington,J W. Loguen
 James W. C. Pennington,George T. Downing
 James W. C. Pennington,Wm. Joeson
-James W. C. Pennington,Providence R. I.
 James W. C. Pennington,John N. Smith
 James W. C. Pennington,Johm Mercer Langston
 James W. C. Pennington,Wm. H. Day
@@ -501,7 +491,6 @@ James W. C. Pennington,Robert Morris
 James W. C. Pennington,C. L. Remond
 James W. C. Pennington,H. O. Wagoner
 James W. C. Pennington,E. P. Rogers
-James W. C. Pennington,N. J.
 James W. C. Pennington,Benjamin Lynch
 James W. C. Pennington,Isaac Cross
 James W. C. Pennington,Amos Gerry Beman
@@ -520,7 +509,6 @@ James W. C. Pennington,T. G. Campbell
 James W. C. Pennington,Byrd Parker
 James W. C. Pennington,A. G. Beman
 James W. C. Pennington,Wm. C. Munroe
-James W. C. Pennington,P. M.
 James W. C. Pennington,Jehial C. Beman
 James W. C. Pennington,President-James W. C. Pennington
 James W. C. Pennington,James C. Mccrumbell
@@ -551,6 +539,7 @@ James W. C. Pennington,Martin Van Buren
 James W. C. Pennington,Ogden Edwards
 James W. C. Pennington,Ticonderoga
 James W. C. Pennington,Monroe
+James W. C. Pennington,Niles Register
 James W. C. Pennington,Wm. Eustis
 James W. C. Pennington,Morrill
 James W. C. Pennington,Charles Pinckney
@@ -579,7 +568,6 @@ James W. C. Pennington,T. G. Campbell A. H. Adams
 James W. C. Pennington,W. J. Watkins
 James W. C. Pennington,J. D. Bonner
 James W. C. Pennington,David H. Jackson
-James W. C. Pennington,A. N
 James W. C. Pennington,Freeman
 James W. C. Pennington,J. I. Gaines
 James W. C. Pennington,F. T. Newsome
@@ -632,7 +620,6 @@ James W. C. Pennington,Augusta
 James W. C. Pennington,Jesus
 James W. C. Pennington,Christ
 James W. C. Pennington,J. H. Wilson
-James W. C. Pennington,M. D.
 James W. C. Pennington,Henry Mckinney
 James W. C. Pennington,Hale
 James W. C. Pennington,Julian
@@ -686,6 +673,7 @@ James W. C. Pennington,Cornet John Rolt
 James W. C. Pennington,Lancaster
 James W. C. Pennington,Glover
 James W. C. Pennington,Lieutenants Robinson
+James W. C. Pennington,Ensign Minty
 James W. C. Pennington,Propontis
 James W. C. Pennington,Dennett
 James W. C. Pennington,Pears
@@ -709,7 +697,6 @@ Henry M. Wilson,James Mccune Smith
 Henry M. Wilson,Edward V. Clark
 Henry M. Wilson,Wm. J. Wilson
 Henry M. Wilson,Junius C. Morell
-Henry M. Wilson,N. Y.
 Henry M. Wilson,John N. Still
 Henry M. Wilson,Amos N. Freeman
 Henry M. Wilson,Jacob P. Morris
@@ -718,7 +705,6 @@ Henry M. Wilson,Stephen Myres
 Henry M. Wilson,J W. Loguen
 Henry M. Wilson,George T. Downing
 Henry M. Wilson,Wm. Joeson
-Henry M. Wilson,Providence R. I.
 Henry M. Wilson,John N. Smith
 Henry M. Wilson,Johm Mercer Langston
 Henry M. Wilson,Wm. H. Day
@@ -734,7 +720,6 @@ Henry M. Wilson,Robert Morris
 Henry M. Wilson,C. L. Remond
 Henry M. Wilson,H. O. Wagoner
 Henry M. Wilson,E. P. Rogers
-Henry M. Wilson,N. J.
 Henry M. Wilson,Benjamin Lynch
 Henry M. Wilson,Isaac Cross
 Henry M. Wilson,Amos Gerry Beman
@@ -753,7 +738,6 @@ Henry M. Wilson,T. G. Campbell
 Henry M. Wilson,Byrd Parker
 Henry M. Wilson,A. G. Beman
 Henry M. Wilson,Wm. C. Munroe
-Henry M. Wilson,P. M.
 Henry M. Wilson,Jehial C. Beman
 Henry M. Wilson,President-James W. C. Pennington
 Henry M. Wilson,James C. Mccrumbell
@@ -784,6 +768,7 @@ Henry M. Wilson,Martin Van Buren
 Henry M. Wilson,Ogden Edwards
 Henry M. Wilson,Ticonderoga
 Henry M. Wilson,Monroe
+Henry M. Wilson,Niles Register
 Henry M. Wilson,Wm. Eustis
 Henry M. Wilson,Morrill
 Henry M. Wilson,Charles Pinckney
@@ -812,7 +797,6 @@ Henry M. Wilson,T. G. Campbell A. H. Adams
 Henry M. Wilson,W. J. Watkins
 Henry M. Wilson,J. D. Bonner
 Henry M. Wilson,David H. Jackson
-Henry M. Wilson,A. N
 Henry M. Wilson,Freeman
 Henry M. Wilson,J. I. Gaines
 Henry M. Wilson,F. T. Newsome
@@ -865,7 +849,6 @@ Henry M. Wilson,Augusta
 Henry M. Wilson,Jesus
 Henry M. Wilson,Christ
 Henry M. Wilson,J. H. Wilson
-Henry M. Wilson,M. D.
 Henry M. Wilson,Henry Mckinney
 Henry M. Wilson,Hale
 Henry M. Wilson,Julian
@@ -919,6 +902,7 @@ Henry M. Wilson,Cornet John Rolt
 Henry M. Wilson,Lancaster
 Henry M. Wilson,Glover
 Henry M. Wilson,Lieutenants Robinson
+Henry M. Wilson,Ensign Minty
 Henry M. Wilson,Propontis
 Henry M. Wilson,Dennett
 Henry M. Wilson,Pears
@@ -941,7 +925,6 @@ Charles B. Ray,James Mccune Smith
 Charles B. Ray,Edward V. Clark
 Charles B. Ray,Wm. J. Wilson
 Charles B. Ray,Junius C. Morell
-Charles B. Ray,N. Y.
 Charles B. Ray,John N. Still
 Charles B. Ray,Amos N. Freeman
 Charles B. Ray,Jacob P. Morris
@@ -950,7 +933,6 @@ Charles B. Ray,Stephen Myres
 Charles B. Ray,J W. Loguen
 Charles B. Ray,George T. Downing
 Charles B. Ray,Wm. Joeson
-Charles B. Ray,Providence R. I.
 Charles B. Ray,John N. Smith
 Charles B. Ray,Johm Mercer Langston
 Charles B. Ray,Wm. H. Day
@@ -966,7 +948,6 @@ Charles B. Ray,Robert Morris
 Charles B. Ray,C. L. Remond
 Charles B. Ray,H. O. Wagoner
 Charles B. Ray,E. P. Rogers
-Charles B. Ray,N. J.
 Charles B. Ray,Benjamin Lynch
 Charles B. Ray,Isaac Cross
 Charles B. Ray,Amos Gerry Beman
@@ -985,7 +966,6 @@ Charles B. Ray,T. G. Campbell
 Charles B. Ray,Byrd Parker
 Charles B. Ray,A. G. Beman
 Charles B. Ray,Wm. C. Munroe
-Charles B. Ray,P. M.
 Charles B. Ray,Jehial C. Beman
 Charles B. Ray,President-James W. C. Pennington
 Charles B. Ray,James C. Mccrumbell
@@ -1016,6 +996,7 @@ Charles B. Ray,Martin Van Buren
 Charles B. Ray,Ogden Edwards
 Charles B. Ray,Ticonderoga
 Charles B. Ray,Monroe
+Charles B. Ray,Niles Register
 Charles B. Ray,Wm. Eustis
 Charles B. Ray,Morrill
 Charles B. Ray,Charles Pinckney
@@ -1044,7 +1025,6 @@ Charles B. Ray,T. G. Campbell A. H. Adams
 Charles B. Ray,W. J. Watkins
 Charles B. Ray,J. D. Bonner
 Charles B. Ray,David H. Jackson
-Charles B. Ray,A. N
 Charles B. Ray,Freeman
 Charles B. Ray,J. I. Gaines
 Charles B. Ray,F. T. Newsome
@@ -1097,7 +1077,6 @@ Charles B. Ray,Augusta
 Charles B. Ray,Jesus
 Charles B. Ray,Christ
 Charles B. Ray,J. H. Wilson
-Charles B. Ray,M. D.
 Charles B. Ray,Henry Mckinney
 Charles B. Ray,Hale
 Charles B. Ray,Julian
@@ -1151,6 +1130,7 @@ Charles B. Ray,Cornet John Rolt
 Charles B. Ray,Lancaster
 Charles B. Ray,Glover
 Charles B. Ray,Lieutenants Robinson
+Charles B. Ray,Ensign Minty
 Charles B. Ray,Propontis
 Charles B. Ray,Dennett
 Charles B. Ray,Pears
@@ -1172,7 +1152,6 @@ Charles B. Ray,J.W.C. Pennington
 James Mccune Smith,Edward V. Clark
 James Mccune Smith,Wm. J. Wilson
 James Mccune Smith,Junius C. Morell
-James Mccune Smith,N. Y.
 James Mccune Smith,John N. Still
 James Mccune Smith,Amos N. Freeman
 James Mccune Smith,Jacob P. Morris
@@ -1181,7 +1160,6 @@ James Mccune Smith,Stephen Myres
 James Mccune Smith,J W. Loguen
 James Mccune Smith,George T. Downing
 James Mccune Smith,Wm. Joeson
-James Mccune Smith,Providence R. I.
 James Mccune Smith,John N. Smith
 James Mccune Smith,Johm Mercer Langston
 James Mccune Smith,Wm. H. Day
@@ -1197,7 +1175,6 @@ James Mccune Smith,Robert Morris
 James Mccune Smith,C. L. Remond
 James Mccune Smith,H. O. Wagoner
 James Mccune Smith,E. P. Rogers
-James Mccune Smith,N. J.
 James Mccune Smith,Benjamin Lynch
 James Mccune Smith,Isaac Cross
 James Mccune Smith,Amos Gerry Beman
@@ -1216,7 +1193,6 @@ James Mccune Smith,T. G. Campbell
 James Mccune Smith,Byrd Parker
 James Mccune Smith,A. G. Beman
 James Mccune Smith,Wm. C. Munroe
-James Mccune Smith,P. M.
 James Mccune Smith,Jehial C. Beman
 James Mccune Smith,President-James W. C. Pennington
 James Mccune Smith,James C. Mccrumbell
@@ -1247,6 +1223,7 @@ James Mccune Smith,Martin Van Buren
 James Mccune Smith,Ogden Edwards
 James Mccune Smith,Ticonderoga
 James Mccune Smith,Monroe
+James Mccune Smith,Niles Register
 James Mccune Smith,Wm. Eustis
 James Mccune Smith,Morrill
 James Mccune Smith,Charles Pinckney
@@ -1275,7 +1252,6 @@ James Mccune Smith,T. G. Campbell A. H. Adams
 James Mccune Smith,W. J. Watkins
 James Mccune Smith,J. D. Bonner
 James Mccune Smith,David H. Jackson
-James Mccune Smith,A. N
 James Mccune Smith,Freeman
 James Mccune Smith,J. I. Gaines
 James Mccune Smith,F. T. Newsome
@@ -1328,7 +1304,6 @@ James Mccune Smith,Augusta
 James Mccune Smith,Jesus
 James Mccune Smith,Christ
 James Mccune Smith,J. H. Wilson
-James Mccune Smith,M. D.
 James Mccune Smith,Henry Mckinney
 James Mccune Smith,Hale
 James Mccune Smith,Julian
@@ -1382,6 +1357,7 @@ James Mccune Smith,Cornet John Rolt
 James Mccune Smith,Lancaster
 James Mccune Smith,Glover
 James Mccune Smith,Lieutenants Robinson
+James Mccune Smith,Ensign Minty
 James Mccune Smith,Propontis
 James Mccune Smith,Dennett
 James Mccune Smith,Pears
@@ -1402,7 +1378,6 @@ James Mccune Smith,Boombo
 James Mccune Smith,J.W.C. Pennington
 Edward V. Clark,Wm. J. Wilson
 Edward V. Clark,Junius C. Morell
-Edward V. Clark,N. Y.
 Edward V. Clark,John N. Still
 Edward V. Clark,Amos N. Freeman
 Edward V. Clark,Jacob P. Morris
@@ -1411,7 +1386,6 @@ Edward V. Clark,Stephen Myres
 Edward V. Clark,J W. Loguen
 Edward V. Clark,George T. Downing
 Edward V. Clark,Wm. Joeson
-Edward V. Clark,Providence R. I.
 Edward V. Clark,John N. Smith
 Edward V. Clark,Johm Mercer Langston
 Edward V. Clark,Wm. H. Day
@@ -1427,7 +1401,6 @@ Edward V. Clark,Robert Morris
 Edward V. Clark,C. L. Remond
 Edward V. Clark,H. O. Wagoner
 Edward V. Clark,E. P. Rogers
-Edward V. Clark,N. J.
 Edward V. Clark,Benjamin Lynch
 Edward V. Clark,Isaac Cross
 Edward V. Clark,Amos Gerry Beman
@@ -1446,7 +1419,6 @@ Edward V. Clark,T. G. Campbell
 Edward V. Clark,Byrd Parker
 Edward V. Clark,A. G. Beman
 Edward V. Clark,Wm. C. Munroe
-Edward V. Clark,P. M.
 Edward V. Clark,Jehial C. Beman
 Edward V. Clark,President-James W. C. Pennington
 Edward V. Clark,James C. Mccrumbell
@@ -1477,6 +1449,7 @@ Edward V. Clark,Martin Van Buren
 Edward V. Clark,Ogden Edwards
 Edward V. Clark,Ticonderoga
 Edward V. Clark,Monroe
+Edward V. Clark,Niles Register
 Edward V. Clark,Wm. Eustis
 Edward V. Clark,Morrill
 Edward V. Clark,Charles Pinckney
@@ -1505,7 +1478,6 @@ Edward V. Clark,T. G. Campbell A. H. Adams
 Edward V. Clark,W. J. Watkins
 Edward V. Clark,J. D. Bonner
 Edward V. Clark,David H. Jackson
-Edward V. Clark,A. N
 Edward V. Clark,Freeman
 Edward V. Clark,J. I. Gaines
 Edward V. Clark,F. T. Newsome
@@ -1558,7 +1530,6 @@ Edward V. Clark,Augusta
 Edward V. Clark,Jesus
 Edward V. Clark,Christ
 Edward V. Clark,J. H. Wilson
-Edward V. Clark,M. D.
 Edward V. Clark,Henry Mckinney
 Edward V. Clark,Hale
 Edward V. Clark,Julian
@@ -1612,6 +1583,7 @@ Edward V. Clark,Cornet John Rolt
 Edward V. Clark,Lancaster
 Edward V. Clark,Glover
 Edward V. Clark,Lieutenants Robinson
+Edward V. Clark,Ensign Minty
 Edward V. Clark,Propontis
 Edward V. Clark,Dennett
 Edward V. Clark,Pears
@@ -1631,7 +1603,6 @@ Edward V. Clark,King Boombo
 Edward V. Clark,Boombo
 Edward V. Clark,J.W.C. Pennington
 Wm. J. Wilson,Junius C. Morell
-Wm. J. Wilson,N. Y.
 Wm. J. Wilson,John N. Still
 Wm. J. Wilson,Amos N. Freeman
 Wm. J. Wilson,Jacob P. Morris
@@ -1640,7 +1611,6 @@ Wm. J. Wilson,Stephen Myres
 Wm. J. Wilson,J W. Loguen
 Wm. J. Wilson,George T. Downing
 Wm. J. Wilson,Wm. Joeson
-Wm. J. Wilson,Providence R. I.
 Wm. J. Wilson,John N. Smith
 Wm. J. Wilson,Johm Mercer Langston
 Wm. J. Wilson,Wm. H. Day
@@ -1656,7 +1626,6 @@ Wm. J. Wilson,Robert Morris
 Wm. J. Wilson,C. L. Remond
 Wm. J. Wilson,H. O. Wagoner
 Wm. J. Wilson,E. P. Rogers
-Wm. J. Wilson,N. J.
 Wm. J. Wilson,Benjamin Lynch
 Wm. J. Wilson,Isaac Cross
 Wm. J. Wilson,Amos Gerry Beman
@@ -1675,7 +1644,6 @@ Wm. J. Wilson,T. G. Campbell
 Wm. J. Wilson,Byrd Parker
 Wm. J. Wilson,A. G. Beman
 Wm. J. Wilson,Wm. C. Munroe
-Wm. J. Wilson,P. M.
 Wm. J. Wilson,Jehial C. Beman
 Wm. J. Wilson,President-James W. C. Pennington
 Wm. J. Wilson,James C. Mccrumbell
@@ -1706,6 +1674,7 @@ Wm. J. Wilson,Martin Van Buren
 Wm. J. Wilson,Ogden Edwards
 Wm. J. Wilson,Ticonderoga
 Wm. J. Wilson,Monroe
+Wm. J. Wilson,Niles Register
 Wm. J. Wilson,Wm. Eustis
 Wm. J. Wilson,Morrill
 Wm. J. Wilson,Charles Pinckney
@@ -1734,7 +1703,6 @@ Wm. J. Wilson,T. G. Campbell A. H. Adams
 Wm. J. Wilson,W. J. Watkins
 Wm. J. Wilson,J. D. Bonner
 Wm. J. Wilson,David H. Jackson
-Wm. J. Wilson,A. N
 Wm. J. Wilson,Freeman
 Wm. J. Wilson,J. I. Gaines
 Wm. J. Wilson,F. T. Newsome
@@ -1787,7 +1755,6 @@ Wm. J. Wilson,Augusta
 Wm. J. Wilson,Jesus
 Wm. J. Wilson,Christ
 Wm. J. Wilson,J. H. Wilson
-Wm. J. Wilson,M. D.
 Wm. J. Wilson,Henry Mckinney
 Wm. J. Wilson,Hale
 Wm. J. Wilson,Julian
@@ -1841,6 +1808,7 @@ Wm. J. Wilson,Cornet John Rolt
 Wm. J. Wilson,Lancaster
 Wm. J. Wilson,Glover
 Wm. J. Wilson,Lieutenants Robinson
+Wm. J. Wilson,Ensign Minty
 Wm. J. Wilson,Propontis
 Wm. J. Wilson,Dennett
 Wm. J. Wilson,Pears
@@ -1859,7 +1827,6 @@ Wm. J. Wilson,Roberts
 Wm. J. Wilson,King Boombo
 Wm. J. Wilson,Boombo
 Wm. J. Wilson,J.W.C. Pennington
-Junius C. Morell,N. Y.
 Junius C. Morell,John N. Still
 Junius C. Morell,Amos N. Freeman
 Junius C. Morell,Jacob P. Morris
@@ -1868,7 +1835,6 @@ Junius C. Morell,Stephen Myres
 Junius C. Morell,J W. Loguen
 Junius C. Morell,George T. Downing
 Junius C. Morell,Wm. Joeson
-Junius C. Morell,Providence R. I.
 Junius C. Morell,John N. Smith
 Junius C. Morell,Johm Mercer Langston
 Junius C. Morell,Wm. H. Day
@@ -1884,7 +1850,6 @@ Junius C. Morell,Robert Morris
 Junius C. Morell,C. L. Remond
 Junius C. Morell,H. O. Wagoner
 Junius C. Morell,E. P. Rogers
-Junius C. Morell,N. J.
 Junius C. Morell,Benjamin Lynch
 Junius C. Morell,Isaac Cross
 Junius C. Morell,Amos Gerry Beman
@@ -1903,7 +1868,6 @@ Junius C. Morell,T. G. Campbell
 Junius C. Morell,Byrd Parker
 Junius C. Morell,A. G. Beman
 Junius C. Morell,Wm. C. Munroe
-Junius C. Morell,P. M.
 Junius C. Morell,Jehial C. Beman
 Junius C. Morell,President-James W. C. Pennington
 Junius C. Morell,James C. Mccrumbell
@@ -1934,6 +1898,7 @@ Junius C. Morell,Martin Van Buren
 Junius C. Morell,Ogden Edwards
 Junius C. Morell,Ticonderoga
 Junius C. Morell,Monroe
+Junius C. Morell,Niles Register
 Junius C. Morell,Wm. Eustis
 Junius C. Morell,Morrill
 Junius C. Morell,Charles Pinckney
@@ -1962,7 +1927,6 @@ Junius C. Morell,T. G. Campbell A. H. Adams
 Junius C. Morell,W. J. Watkins
 Junius C. Morell,J. D. Bonner
 Junius C. Morell,David H. Jackson
-Junius C. Morell,A. N
 Junius C. Morell,Freeman
 Junius C. Morell,J. I. Gaines
 Junius C. Morell,F. T. Newsome
@@ -2015,7 +1979,6 @@ Junius C. Morell,Augusta
 Junius C. Morell,Jesus
 Junius C. Morell,Christ
 Junius C. Morell,J. H. Wilson
-Junius C. Morell,M. D.
 Junius C. Morell,Henry Mckinney
 Junius C. Morell,Hale
 Junius C. Morell,Julian
@@ -2069,6 +2032,7 @@ Junius C. Morell,Cornet John Rolt
 Junius C. Morell,Lancaster
 Junius C. Morell,Glover
 Junius C. Morell,Lieutenants Robinson
+Junius C. Morell,Ensign Minty
 Junius C. Morell,Propontis
 Junius C. Morell,Dennett
 Junius C. Morell,Pears
@@ -2087,233 +2051,6 @@ Junius C. Morell,Roberts
 Junius C. Morell,King Boombo
 Junius C. Morell,Boombo
 Junius C. Morell,J.W.C. Pennington
-N. Y.,John N. Still
-N. Y.,Amos N. Freeman
-N. Y.,Jacob P. Morris
-N. Y.,Wm. H. Topp
-N. Y.,Stephen Myres
-N. Y.,J W. Loguen
-N. Y.,George T. Downing
-N. Y.,Wm. Joeson
-N. Y.,Providence R. I.
-N. Y.,John N. Smith
-N. Y.,Johm Mercer Langston
-N. Y.,Wm. H. Day
-N. Y.,David Jenkins
-N. Y.,John I. Gaines
-N. Y.,Charles H. Reason
-N. Y.,J. J. G. Bias
-N. Y.,J. B. Vashon
-N. Y.,Robert Purvis
-N. Y.,David Ruggles
-N. Y.,L. Kelly
-N. Y.,Robert Morris
-N. Y.,C. L. Remond
-N. Y.,H. O. Wagoner
-N. Y.,E. P. Rogers
-N. Y.,N. J.
-N. Y.,Benjamin Lynch
-N. Y.,Isaac Cross
-N. Y.,Amos Gerry Beman
-N. Y.,Jehiel C. Beman
-N. Y.,George W. Francis
-N. Y.,John E. Burr
-N. Y.,Leverett C. Beman
-N. Y.,Amos G. Beman
-N. Y.,John Peck
-N. Y.,Wm. Whipper
-N. Y.,C. Nell
-N. Y.,David Jenkings
-N. Y.,L. A. Grimes
-N. Y.,Stephen Smith
-N. Y.,T. G. Campbell
-N. Y.,Byrd Parker
-N. Y.,A. G. Beman
-N. Y.,Wm. C. Munroe
-N. Y.,P. M.
-N. Y.,Jehial C. Beman
-N. Y.,President-James W. C. Pennington
-N. Y.,James C. Mccrumbell
-N. Y.,John B. Vashon
-N. Y.,John Jones
-N. Y.,Peter H. Clarke
-N. Y.,Chas
-N. Y.,B. Ray
-N. Y.,Charles L. Reason
-N. Y.,J. C. Mccrummell
-N. Y.,C. H. Langston
-N. Y.,J. C. Beman
-N. Y.,Wm. C. Nell
-N. Y.,C. Munroe
-N. Y.,John J. Gaines
-N. Y.,Horace B. Smith
-N. Y.,Edward V. Clarke
-N. Y.,A. N. Freeman
-N. Y.,J. M. Whitfield
-N. Y.,G. B. Vashon
-N. Y.,Savior
-N. Y.,Nathan Sandford
-N. Y.,Robert Clark
-N. Y.,Jay
-N. Y.,Kent
-N. Y.,Peter A. Jay
-N. Y.,Martin Van Buren
-N. Y.,Ogden Edwards
-N. Y.,Ticonderoga
-N. Y.,Monroe
-N. Y.,Wm. Eustis
-N. Y.,Morrill
-N. Y.,Charles Pinckney
-N. Y.,Jackson
-N. Y.,Andrew Jackson
-N. Y.,-- Niles
-N. Y.,Thomas Butler
-N. Y.,Aid-De-Camp
-N. Y.,George B. Vashon
-N. Y.,Wilson
-N. Y.,Benjamin Templeton
-N. Y.,Sumner
-N. Y.,Wm. Wilson
-N. Y.,William J. Wilson
-N. Y.,William Whipper
-N. Y.,J. Mccune Smith
-N. Y.,Lewis Woodson
-N. Y.,Payton Harris
-N. Y.,J. N. Still
-N. Y.,Uriah Boston
-N. Y.,D. B. Bowser
-N. Y.,J. Mercer Langston
-N. Y.,M. M. Clark
-N. Y.,A. M. Sumner
-N. Y.,T. G. Campbell A. H. Adams
-N. Y.,W. J. Watkins
-N. Y.,J. D. Bonner
-N. Y.,David H. Jackson
-N. Y.,A. N
-N. Y.,Freeman
-N. Y.,J. I. Gaines
-N. Y.,F. T. Newsome
-N. Y.,W. C. Munroe
-N. Y.,A. R. Green
-N. Y.,Green
-N. Y.,J. M. Langston
-N. Y.,Gloster
-N. Y.,Harris
-N. Y.,J. G. Bowers
-N. Y.,Downing
-N. Y.,Gordon
-N. Y.,Langston
-N. Y.,G. T. Downing
-N. Y.,Driver
-N. Y.,Jenkins
-N. Y.,George W. Clark
-N. Y.,T. Downing
-N. Y.,Boyd Parker
-N. Y.,William H. Day
-N. Y.,Day
-N. Y.,James M'Cune Smith
-N. Y.,M. F. Newsome
-N. Y.,Cass
-N. Y.,J. Wilson
-N. Y.,Samuel Aaron
-N. Y.,A. Dewey
-N. Y.,H. O. Wagener
-N. Y.,L. Tillman
-N. Y.,Josephus Fowler
-N. Y.,C. B. Ray
-N. Y.,Pennington
-N. Y.,Charles L. Remond
-N. Y.,Bowser
-N. Y.,Smith
-N. Y.,Douglass
-N. Y.,Walker
-N. Y.,L. Woodson
-N. Y.,Woodson
-N. Y.,C. L. Reason
-N. Y.,H. Langston
-N. Y.,Stowe
-N. Y.,Madam
-N. Y.,Garnetts
-N. Y.,Gerrit Smith
-N. Y.,Garrison
-N. Y.,William Lloyd Garrison
-N. Y.,Dear Brethren
-N. Y.,Augusta
-N. Y.,Jesus
-N. Y.,Christ
-N. Y.,J. H. Wilson
-N. Y.,M. D.
-N. Y.,Henry Mckinney
-N. Y.,Hale
-N. Y.,Julian
-N. Y.,Fugitive Bill
-N. Y.,Wil
-N. Y.,Mccrummel
-N. Y.,G. M. Willis
-N. Y.,R. D. Willis
-N. Y.,Gaines
-N. Y.,Whipper
-N. Y.,Kenney
-N. Y.,Joseph C. Holley
-N. Y.,Parker
-N. Y.,W. Whipper
-N. Y.,Bradford King
-N. Y.,T. Thomas
-N. Y.,W. H. Channing
-N. Y.,Francis Thompson
-N. Y.,J. H. Hurley
-N. Y.,J. W. Lewis
-N. Y.,H. C. Smith
-N. Y.,W. C. Nell
-N. Y.,J. B. Sanderson
-N. Y.,Abraham C. Rice
-N. Y.,Jehiel C. Beeman
-N. Y.,Amos G. Beeman
-N. Y.,John Freeman
-N. Y.,James D. Bonner
-N. Y.,John T. Brittain
-N. Y.,W. H. Day
-N. Y.,W. C. Monroe
-N. Y.,Holland
-N. Y.,Boor
-N. Y.,Booress
-N. Y.,Stout
-N. Y.,John Adams
-N. Y.,Caffres
-N. Y.,Stollz
-N. Y.,Slambie
-N. Y.,Islambi
-N. Y.,Makanna
-N. Y.,Kraals
-N. Y.,Gaika
-N. Y.,Dushani
-N. Y.,Kongo
-N. Y.,Cobden
-N. Y.,R. Cobden
-N. Y.,Joseph Sturge
-N. Y.,Birkenhead
-N. Y.,Cornet John Rolt
-N. Y.,Lancaster
-N. Y.,Glover
-N. Y.,Lieutenants Robinson
-N. Y.,Propontis
-N. Y.,Dennett
-N. Y.,Pears
-N. Y.,Julius Caesar
-N. Y.,Cathcart
-N. Y.,John Bull
-N. Y.,John
-N. Y.,W. Mclain
-N. Y.,Mclain
-N. Y.,Anglo Saxon
-N. Y.,Norman
-N. Y.,Saxon
-N. Y.,Heren
-N. Y.,Lyon
-N. Y.,Roberts
-N. Y.,King Boombo
-N. Y.,Boombo
-N. Y.,J.W.C. Pennington
 John N. Still,Amos N. Freeman
 John N. Still,Jacob P. Morris
 John N. Still,Wm. H. Topp
@@ -2321,7 +2058,6 @@ John N. Still,Stephen Myres
 John N. Still,J W. Loguen
 John N. Still,George T. Downing
 John N. Still,Wm. Joeson
-John N. Still,Providence R. I.
 John N. Still,John N. Smith
 John N. Still,Johm Mercer Langston
 John N. Still,Wm. H. Day
@@ -2337,7 +2073,6 @@ John N. Still,Robert Morris
 John N. Still,C. L. Remond
 John N. Still,H. O. Wagoner
 John N. Still,E. P. Rogers
-John N. Still,N. J.
 John N. Still,Benjamin Lynch
 John N. Still,Isaac Cross
 John N. Still,Amos Gerry Beman
@@ -2356,7 +2091,6 @@ John N. Still,T. G. Campbell
 John N. Still,Byrd Parker
 John N. Still,A. G. Beman
 John N. Still,Wm. C. Munroe
-John N. Still,P. M.
 John N. Still,Jehial C. Beman
 John N. Still,President-James W. C. Pennington
 John N. Still,James C. Mccrumbell
@@ -2387,6 +2121,7 @@ John N. Still,Martin Van Buren
 John N. Still,Ogden Edwards
 John N. Still,Ticonderoga
 John N. Still,Monroe
+John N. Still,Niles Register
 John N. Still,Wm. Eustis
 John N. Still,Morrill
 John N. Still,Charles Pinckney
@@ -2415,7 +2150,6 @@ John N. Still,T. G. Campbell A. H. Adams
 John N. Still,W. J. Watkins
 John N. Still,J. D. Bonner
 John N. Still,David H. Jackson
-John N. Still,A. N
 John N. Still,Freeman
 John N. Still,J. I. Gaines
 John N. Still,F. T. Newsome
@@ -2468,7 +2202,6 @@ John N. Still,Augusta
 John N. Still,Jesus
 John N. Still,Christ
 John N. Still,J. H. Wilson
-John N. Still,M. D.
 John N. Still,Henry Mckinney
 John N. Still,Hale
 John N. Still,Julian
@@ -2522,6 +2255,7 @@ John N. Still,Cornet John Rolt
 John N. Still,Lancaster
 John N. Still,Glover
 John N. Still,Lieutenants Robinson
+John N. Still,Ensign Minty
 John N. Still,Propontis
 John N. Still,Dennett
 John N. Still,Pears
@@ -2546,7 +2280,6 @@ Amos N. Freeman,Stephen Myres
 Amos N. Freeman,J W. Loguen
 Amos N. Freeman,George T. Downing
 Amos N. Freeman,Wm. Joeson
-Amos N. Freeman,Providence R. I.
 Amos N. Freeman,John N. Smith
 Amos N. Freeman,Johm Mercer Langston
 Amos N. Freeman,Wm. H. Day
@@ -2562,7 +2295,6 @@ Amos N. Freeman,Robert Morris
 Amos N. Freeman,C. L. Remond
 Amos N. Freeman,H. O. Wagoner
 Amos N. Freeman,E. P. Rogers
-Amos N. Freeman,N. J.
 Amos N. Freeman,Benjamin Lynch
 Amos N. Freeman,Isaac Cross
 Amos N. Freeman,Amos Gerry Beman
@@ -2581,7 +2313,6 @@ Amos N. Freeman,T. G. Campbell
 Amos N. Freeman,Byrd Parker
 Amos N. Freeman,A. G. Beman
 Amos N. Freeman,Wm. C. Munroe
-Amos N. Freeman,P. M.
 Amos N. Freeman,Jehial C. Beman
 Amos N. Freeman,President-James W. C. Pennington
 Amos N. Freeman,James C. Mccrumbell
@@ -2612,6 +2343,7 @@ Amos N. Freeman,Martin Van Buren
 Amos N. Freeman,Ogden Edwards
 Amos N. Freeman,Ticonderoga
 Amos N. Freeman,Monroe
+Amos N. Freeman,Niles Register
 Amos N. Freeman,Wm. Eustis
 Amos N. Freeman,Morrill
 Amos N. Freeman,Charles Pinckney
@@ -2640,7 +2372,6 @@ Amos N. Freeman,T. G. Campbell A. H. Adams
 Amos N. Freeman,W. J. Watkins
 Amos N. Freeman,J. D. Bonner
 Amos N. Freeman,David H. Jackson
-Amos N. Freeman,A. N
 Amos N. Freeman,Freeman
 Amos N. Freeman,J. I. Gaines
 Amos N. Freeman,F. T. Newsome
@@ -2693,7 +2424,6 @@ Amos N. Freeman,Augusta
 Amos N. Freeman,Jesus
 Amos N. Freeman,Christ
 Amos N. Freeman,J. H. Wilson
-Amos N. Freeman,M. D.
 Amos N. Freeman,Henry Mckinney
 Amos N. Freeman,Hale
 Amos N. Freeman,Julian
@@ -2747,6 +2477,7 @@ Amos N. Freeman,Cornet John Rolt
 Amos N. Freeman,Lancaster
 Amos N. Freeman,Glover
 Amos N. Freeman,Lieutenants Robinson
+Amos N. Freeman,Ensign Minty
 Amos N. Freeman,Propontis
 Amos N. Freeman,Dennett
 Amos N. Freeman,Pears
@@ -2770,7 +2501,6 @@ Jacob P. Morris,Stephen Myres
 Jacob P. Morris,J W. Loguen
 Jacob P. Morris,George T. Downing
 Jacob P. Morris,Wm. Joeson
-Jacob P. Morris,Providence R. I.
 Jacob P. Morris,John N. Smith
 Jacob P. Morris,Johm Mercer Langston
 Jacob P. Morris,Wm. H. Day
@@ -2786,7 +2516,6 @@ Jacob P. Morris,Robert Morris
 Jacob P. Morris,C. L. Remond
 Jacob P. Morris,H. O. Wagoner
 Jacob P. Morris,E. P. Rogers
-Jacob P. Morris,N. J.
 Jacob P. Morris,Benjamin Lynch
 Jacob P. Morris,Isaac Cross
 Jacob P. Morris,Amos Gerry Beman
@@ -2805,7 +2534,6 @@ Jacob P. Morris,T. G. Campbell
 Jacob P. Morris,Byrd Parker
 Jacob P. Morris,A. G. Beman
 Jacob P. Morris,Wm. C. Munroe
-Jacob P. Morris,P. M.
 Jacob P. Morris,Jehial C. Beman
 Jacob P. Morris,President-James W. C. Pennington
 Jacob P. Morris,James C. Mccrumbell
@@ -2836,6 +2564,7 @@ Jacob P. Morris,Martin Van Buren
 Jacob P. Morris,Ogden Edwards
 Jacob P. Morris,Ticonderoga
 Jacob P. Morris,Monroe
+Jacob P. Morris,Niles Register
 Jacob P. Morris,Wm. Eustis
 Jacob P. Morris,Morrill
 Jacob P. Morris,Charles Pinckney
@@ -2864,7 +2593,6 @@ Jacob P. Morris,T. G. Campbell A. H. Adams
 Jacob P. Morris,W. J. Watkins
 Jacob P. Morris,J. D. Bonner
 Jacob P. Morris,David H. Jackson
-Jacob P. Morris,A. N
 Jacob P. Morris,Freeman
 Jacob P. Morris,J. I. Gaines
 Jacob P. Morris,F. T. Newsome
@@ -2917,7 +2645,6 @@ Jacob P. Morris,Augusta
 Jacob P. Morris,Jesus
 Jacob P. Morris,Christ
 Jacob P. Morris,J. H. Wilson
-Jacob P. Morris,M. D.
 Jacob P. Morris,Henry Mckinney
 Jacob P. Morris,Hale
 Jacob P. Morris,Julian
@@ -2971,6 +2698,7 @@ Jacob P. Morris,Cornet John Rolt
 Jacob P. Morris,Lancaster
 Jacob P. Morris,Glover
 Jacob P. Morris,Lieutenants Robinson
+Jacob P. Morris,Ensign Minty
 Jacob P. Morris,Propontis
 Jacob P. Morris,Dennett
 Jacob P. Morris,Pears
@@ -2993,7 +2721,6 @@ Wm. H. Topp,Stephen Myres
 Wm. H. Topp,J W. Loguen
 Wm. H. Topp,George T. Downing
 Wm. H. Topp,Wm. Joeson
-Wm. H. Topp,Providence R. I.
 Wm. H. Topp,John N. Smith
 Wm. H. Topp,Johm Mercer Langston
 Wm. H. Topp,Wm. H. Day
@@ -3009,7 +2736,6 @@ Wm. H. Topp,Robert Morris
 Wm. H. Topp,C. L. Remond
 Wm. H. Topp,H. O. Wagoner
 Wm. H. Topp,E. P. Rogers
-Wm. H. Topp,N. J.
 Wm. H. Topp,Benjamin Lynch
 Wm. H. Topp,Isaac Cross
 Wm. H. Topp,Amos Gerry Beman
@@ -3028,7 +2754,6 @@ Wm. H. Topp,T. G. Campbell
 Wm. H. Topp,Byrd Parker
 Wm. H. Topp,A. G. Beman
 Wm. H. Topp,Wm. C. Munroe
-Wm. H. Topp,P. M.
 Wm. H. Topp,Jehial C. Beman
 Wm. H. Topp,President-James W. C. Pennington
 Wm. H. Topp,James C. Mccrumbell
@@ -3059,6 +2784,7 @@ Wm. H. Topp,Martin Van Buren
 Wm. H. Topp,Ogden Edwards
 Wm. H. Topp,Ticonderoga
 Wm. H. Topp,Monroe
+Wm. H. Topp,Niles Register
 Wm. H. Topp,Wm. Eustis
 Wm. H. Topp,Morrill
 Wm. H. Topp,Charles Pinckney
@@ -3087,7 +2813,6 @@ Wm. H. Topp,T. G. Campbell A. H. Adams
 Wm. H. Topp,W. J. Watkins
 Wm. H. Topp,J. D. Bonner
 Wm. H. Topp,David H. Jackson
-Wm. H. Topp,A. N
 Wm. H. Topp,Freeman
 Wm. H. Topp,J. I. Gaines
 Wm. H. Topp,F. T. Newsome
@@ -3140,7 +2865,6 @@ Wm. H. Topp,Augusta
 Wm. H. Topp,Jesus
 Wm. H. Topp,Christ
 Wm. H. Topp,J. H. Wilson
-Wm. H. Topp,M. D.
 Wm. H. Topp,Henry Mckinney
 Wm. H. Topp,Hale
 Wm. H. Topp,Julian
@@ -3194,6 +2918,7 @@ Wm. H. Topp,Cornet John Rolt
 Wm. H. Topp,Lancaster
 Wm. H. Topp,Glover
 Wm. H. Topp,Lieutenants Robinson
+Wm. H. Topp,Ensign Minty
 Wm. H. Topp,Propontis
 Wm. H. Topp,Dennett
 Wm. H. Topp,Pears
@@ -3215,7 +2940,6 @@ Wm. H. Topp,J.W.C. Pennington
 Stephen Myres,J W. Loguen
 Stephen Myres,George T. Downing
 Stephen Myres,Wm. Joeson
-Stephen Myres,Providence R. I.
 Stephen Myres,John N. Smith
 Stephen Myres,Johm Mercer Langston
 Stephen Myres,Wm. H. Day
@@ -3231,7 +2955,6 @@ Stephen Myres,Robert Morris
 Stephen Myres,C. L. Remond
 Stephen Myres,H. O. Wagoner
 Stephen Myres,E. P. Rogers
-Stephen Myres,N. J.
 Stephen Myres,Benjamin Lynch
 Stephen Myres,Isaac Cross
 Stephen Myres,Amos Gerry Beman
@@ -3250,7 +2973,6 @@ Stephen Myres,T. G. Campbell
 Stephen Myres,Byrd Parker
 Stephen Myres,A. G. Beman
 Stephen Myres,Wm. C. Munroe
-Stephen Myres,P. M.
 Stephen Myres,Jehial C. Beman
 Stephen Myres,President-James W. C. Pennington
 Stephen Myres,James C. Mccrumbell
@@ -3281,6 +3003,7 @@ Stephen Myres,Martin Van Buren
 Stephen Myres,Ogden Edwards
 Stephen Myres,Ticonderoga
 Stephen Myres,Monroe
+Stephen Myres,Niles Register
 Stephen Myres,Wm. Eustis
 Stephen Myres,Morrill
 Stephen Myres,Charles Pinckney
@@ -3309,7 +3032,6 @@ Stephen Myres,T. G. Campbell A. H. Adams
 Stephen Myres,W. J. Watkins
 Stephen Myres,J. D. Bonner
 Stephen Myres,David H. Jackson
-Stephen Myres,A. N
 Stephen Myres,Freeman
 Stephen Myres,J. I. Gaines
 Stephen Myres,F. T. Newsome
@@ -3362,7 +3084,6 @@ Stephen Myres,Augusta
 Stephen Myres,Jesus
 Stephen Myres,Christ
 Stephen Myres,J. H. Wilson
-Stephen Myres,M. D.
 Stephen Myres,Henry Mckinney
 Stephen Myres,Hale
 Stephen Myres,Julian
@@ -3416,6 +3137,7 @@ Stephen Myres,Cornet John Rolt
 Stephen Myres,Lancaster
 Stephen Myres,Glover
 Stephen Myres,Lieutenants Robinson
+Stephen Myres,Ensign Minty
 Stephen Myres,Propontis
 Stephen Myres,Dennett
 Stephen Myres,Pears
@@ -3436,7 +3158,6 @@ Stephen Myres,Boombo
 Stephen Myres,J.W.C. Pennington
 J W. Loguen,George T. Downing
 J W. Loguen,Wm. Joeson
-J W. Loguen,Providence R. I.
 J W. Loguen,John N. Smith
 J W. Loguen,Johm Mercer Langston
 J W. Loguen,Wm. H. Day
@@ -3452,7 +3173,6 @@ J W. Loguen,Robert Morris
 J W. Loguen,C. L. Remond
 J W. Loguen,H. O. Wagoner
 J W. Loguen,E. P. Rogers
-J W. Loguen,N. J.
 J W. Loguen,Benjamin Lynch
 J W. Loguen,Isaac Cross
 J W. Loguen,Amos Gerry Beman
@@ -3471,7 +3191,6 @@ J W. Loguen,T. G. Campbell
 J W. Loguen,Byrd Parker
 J W. Loguen,A. G. Beman
 J W. Loguen,Wm. C. Munroe
-J W. Loguen,P. M.
 J W. Loguen,Jehial C. Beman
 J W. Loguen,President-James W. C. Pennington
 J W. Loguen,James C. Mccrumbell
@@ -3502,6 +3221,7 @@ J W. Loguen,Martin Van Buren
 J W. Loguen,Ogden Edwards
 J W. Loguen,Ticonderoga
 J W. Loguen,Monroe
+J W. Loguen,Niles Register
 J W. Loguen,Wm. Eustis
 J W. Loguen,Morrill
 J W. Loguen,Charles Pinckney
@@ -3530,7 +3250,6 @@ J W. Loguen,T. G. Campbell A. H. Adams
 J W. Loguen,W. J. Watkins
 J W. Loguen,J. D. Bonner
 J W. Loguen,David H. Jackson
-J W. Loguen,A. N
 J W. Loguen,Freeman
 J W. Loguen,J. I. Gaines
 J W. Loguen,F. T. Newsome
@@ -3583,7 +3302,6 @@ J W. Loguen,Augusta
 J W. Loguen,Jesus
 J W. Loguen,Christ
 J W. Loguen,J. H. Wilson
-J W. Loguen,M. D.
 J W. Loguen,Henry Mckinney
 J W. Loguen,Hale
 J W. Loguen,Julian
@@ -3637,6 +3355,7 @@ J W. Loguen,Cornet John Rolt
 J W. Loguen,Lancaster
 J W. Loguen,Glover
 J W. Loguen,Lieutenants Robinson
+J W. Loguen,Ensign Minty
 J W. Loguen,Propontis
 J W. Loguen,Dennett
 J W. Loguen,Pears
@@ -3656,7 +3375,6 @@ J W. Loguen,King Boombo
 J W. Loguen,Boombo
 J W. Loguen,J.W.C. Pennington
 George T. Downing,Wm. Joeson
-George T. Downing,Providence R. I.
 George T. Downing,John N. Smith
 George T. Downing,Johm Mercer Langston
 George T. Downing,Wm. H. Day
@@ -3672,7 +3390,6 @@ George T. Downing,Robert Morris
 George T. Downing,C. L. Remond
 George T. Downing,H. O. Wagoner
 George T. Downing,E. P. Rogers
-George T. Downing,N. J.
 George T. Downing,Benjamin Lynch
 George T. Downing,Isaac Cross
 George T. Downing,Amos Gerry Beman
@@ -3691,7 +3408,6 @@ George T. Downing,T. G. Campbell
 George T. Downing,Byrd Parker
 George T. Downing,A. G. Beman
 George T. Downing,Wm. C. Munroe
-George T. Downing,P. M.
 George T. Downing,Jehial C. Beman
 George T. Downing,President-James W. C. Pennington
 George T. Downing,James C. Mccrumbell
@@ -3722,6 +3438,7 @@ George T. Downing,Martin Van Buren
 George T. Downing,Ogden Edwards
 George T. Downing,Ticonderoga
 George T. Downing,Monroe
+George T. Downing,Niles Register
 George T. Downing,Wm. Eustis
 George T. Downing,Morrill
 George T. Downing,Charles Pinckney
@@ -3750,7 +3467,6 @@ George T. Downing,T. G. Campbell A. H. Adams
 George T. Downing,W. J. Watkins
 George T. Downing,J. D. Bonner
 George T. Downing,David H. Jackson
-George T. Downing,A. N
 George T. Downing,Freeman
 George T. Downing,J. I. Gaines
 George T. Downing,F. T. Newsome
@@ -3803,7 +3519,6 @@ George T. Downing,Augusta
 George T. Downing,Jesus
 George T. Downing,Christ
 George T. Downing,J. H. Wilson
-George T. Downing,M. D.
 George T. Downing,Henry Mckinney
 George T. Downing,Hale
 George T. Downing,Julian
@@ -3857,6 +3572,7 @@ George T. Downing,Cornet John Rolt
 George T. Downing,Lancaster
 George T. Downing,Glover
 George T. Downing,Lieutenants Robinson
+George T. Downing,Ensign Minty
 George T. Downing,Propontis
 George T. Downing,Dennett
 George T. Downing,Pears
@@ -3875,7 +3591,6 @@ George T. Downing,Roberts
 George T. Downing,King Boombo
 George T. Downing,Boombo
 George T. Downing,J.W.C. Pennington
-Wm. Joeson,Providence R. I.
 Wm. Joeson,John N. Smith
 Wm. Joeson,Johm Mercer Langston
 Wm. Joeson,Wm. H. Day
@@ -3891,7 +3606,6 @@ Wm. Joeson,Robert Morris
 Wm. Joeson,C. L. Remond
 Wm. Joeson,H. O. Wagoner
 Wm. Joeson,E. P. Rogers
-Wm. Joeson,N. J.
 Wm. Joeson,Benjamin Lynch
 Wm. Joeson,Isaac Cross
 Wm. Joeson,Amos Gerry Beman
@@ -3910,7 +3624,6 @@ Wm. Joeson,T. G. Campbell
 Wm. Joeson,Byrd Parker
 Wm. Joeson,A. G. Beman
 Wm. Joeson,Wm. C. Munroe
-Wm. Joeson,P. M.
 Wm. Joeson,Jehial C. Beman
 Wm. Joeson,President-James W. C. Pennington
 Wm. Joeson,James C. Mccrumbell
@@ -3941,6 +3654,7 @@ Wm. Joeson,Martin Van Buren
 Wm. Joeson,Ogden Edwards
 Wm. Joeson,Ticonderoga
 Wm. Joeson,Monroe
+Wm. Joeson,Niles Register
 Wm. Joeson,Wm. Eustis
 Wm. Joeson,Morrill
 Wm. Joeson,Charles Pinckney
@@ -3969,7 +3683,6 @@ Wm. Joeson,T. G. Campbell A. H. Adams
 Wm. Joeson,W. J. Watkins
 Wm. Joeson,J. D. Bonner
 Wm. Joeson,David H. Jackson
-Wm. Joeson,A. N
 Wm. Joeson,Freeman
 Wm. Joeson,J. I. Gaines
 Wm. Joeson,F. T. Newsome
@@ -4022,7 +3735,6 @@ Wm. Joeson,Augusta
 Wm. Joeson,Jesus
 Wm. Joeson,Christ
 Wm. Joeson,J. H. Wilson
-Wm. Joeson,M. D.
 Wm. Joeson,Henry Mckinney
 Wm. Joeson,Hale
 Wm. Joeson,Julian
@@ -4076,6 +3788,7 @@ Wm. Joeson,Cornet John Rolt
 Wm. Joeson,Lancaster
 Wm. Joeson,Glover
 Wm. Joeson,Lieutenants Robinson
+Wm. Joeson,Ensign Minty
 Wm. Joeson,Propontis
 Wm. Joeson,Dennett
 Wm. Joeson,Pears
@@ -4094,224 +3807,6 @@ Wm. Joeson,Roberts
 Wm. Joeson,King Boombo
 Wm. Joeson,Boombo
 Wm. Joeson,J.W.C. Pennington
-Providence R. I.,John N. Smith
-Providence R. I.,Johm Mercer Langston
-Providence R. I.,Wm. H. Day
-Providence R. I.,David Jenkins
-Providence R. I.,John I. Gaines
-Providence R. I.,Charles H. Reason
-Providence R. I.,J. J. G. Bias
-Providence R. I.,J. B. Vashon
-Providence R. I.,Robert Purvis
-Providence R. I.,David Ruggles
-Providence R. I.,L. Kelly
-Providence R. I.,Robert Morris
-Providence R. I.,C. L. Remond
-Providence R. I.,H. O. Wagoner
-Providence R. I.,E. P. Rogers
-Providence R. I.,N. J.
-Providence R. I.,Benjamin Lynch
-Providence R. I.,Isaac Cross
-Providence R. I.,Amos Gerry Beman
-Providence R. I.,Jehiel C. Beman
-Providence R. I.,George W. Francis
-Providence R. I.,John E. Burr
-Providence R. I.,Leverett C. Beman
-Providence R. I.,Amos G. Beman
-Providence R. I.,John Peck
-Providence R. I.,Wm. Whipper
-Providence R. I.,C. Nell
-Providence R. I.,David Jenkings
-Providence R. I.,L. A. Grimes
-Providence R. I.,Stephen Smith
-Providence R. I.,T. G. Campbell
-Providence R. I.,Byrd Parker
-Providence R. I.,A. G. Beman
-Providence R. I.,Wm. C. Munroe
-Providence R. I.,P. M.
-Providence R. I.,Jehial C. Beman
-Providence R. I.,President-James W. C. Pennington
-Providence R. I.,James C. Mccrumbell
-Providence R. I.,John B. Vashon
-Providence R. I.,John Jones
-Providence R. I.,Peter H. Clarke
-Providence R. I.,Chas
-Providence R. I.,B. Ray
-Providence R. I.,Charles L. Reason
-Providence R. I.,J. C. Mccrummell
-Providence R. I.,C. H. Langston
-Providence R. I.,J. C. Beman
-Providence R. I.,Wm. C. Nell
-Providence R. I.,C. Munroe
-Providence R. I.,John J. Gaines
-Providence R. I.,Horace B. Smith
-Providence R. I.,Edward V. Clarke
-Providence R. I.,A. N. Freeman
-Providence R. I.,J. M. Whitfield
-Providence R. I.,G. B. Vashon
-Providence R. I.,Savior
-Providence R. I.,Nathan Sandford
-Providence R. I.,Robert Clark
-Providence R. I.,Jay
-Providence R. I.,Kent
-Providence R. I.,Peter A. Jay
-Providence R. I.,Martin Van Buren
-Providence R. I.,Ogden Edwards
-Providence R. I.,Ticonderoga
-Providence R. I.,Monroe
-Providence R. I.,Wm. Eustis
-Providence R. I.,Morrill
-Providence R. I.,Charles Pinckney
-Providence R. I.,Jackson
-Providence R. I.,Andrew Jackson
-Providence R. I.,-- Niles
-Providence R. I.,Thomas Butler
-Providence R. I.,Aid-De-Camp
-Providence R. I.,George B. Vashon
-Providence R. I.,Wilson
-Providence R. I.,Benjamin Templeton
-Providence R. I.,Sumner
-Providence R. I.,Wm. Wilson
-Providence R. I.,William J. Wilson
-Providence R. I.,William Whipper
-Providence R. I.,J. Mccune Smith
-Providence R. I.,Lewis Woodson
-Providence R. I.,Payton Harris
-Providence R. I.,J. N. Still
-Providence R. I.,Uriah Boston
-Providence R. I.,D. B. Bowser
-Providence R. I.,J. Mercer Langston
-Providence R. I.,M. M. Clark
-Providence R. I.,A. M. Sumner
-Providence R. I.,T. G. Campbell A. H. Adams
-Providence R. I.,W. J. Watkins
-Providence R. I.,J. D. Bonner
-Providence R. I.,David H. Jackson
-Providence R. I.,A. N
-Providence R. I.,Freeman
-Providence R. I.,J. I. Gaines
-Providence R. I.,F. T. Newsome
-Providence R. I.,W. C. Munroe
-Providence R. I.,A. R. Green
-Providence R. I.,Green
-Providence R. I.,J. M. Langston
-Providence R. I.,Gloster
-Providence R. I.,Harris
-Providence R. I.,J. G. Bowers
-Providence R. I.,Downing
-Providence R. I.,Gordon
-Providence R. I.,Langston
-Providence R. I.,G. T. Downing
-Providence R. I.,Driver
-Providence R. I.,Jenkins
-Providence R. I.,George W. Clark
-Providence R. I.,T. Downing
-Providence R. I.,Boyd Parker
-Providence R. I.,William H. Day
-Providence R. I.,Day
-Providence R. I.,James M'Cune Smith
-Providence R. I.,M. F. Newsome
-Providence R. I.,Cass
-Providence R. I.,J. Wilson
-Providence R. I.,Samuel Aaron
-Providence R. I.,A. Dewey
-Providence R. I.,H. O. Wagener
-Providence R. I.,L. Tillman
-Providence R. I.,Josephus Fowler
-Providence R. I.,C. B. Ray
-Providence R. I.,Pennington
-Providence R. I.,Charles L. Remond
-Providence R. I.,Bowser
-Providence R. I.,Smith
-Providence R. I.,Douglass
-Providence R. I.,Walker
-Providence R. I.,L. Woodson
-Providence R. I.,Woodson
-Providence R. I.,C. L. Reason
-Providence R. I.,H. Langston
-Providence R. I.,Stowe
-Providence R. I.,Madam
-Providence R. I.,Garnetts
-Providence R. I.,Gerrit Smith
-Providence R. I.,Garrison
-Providence R. I.,William Lloyd Garrison
-Providence R. I.,Dear Brethren
-Providence R. I.,Augusta
-Providence R. I.,Jesus
-Providence R. I.,Christ
-Providence R. I.,J. H. Wilson
-Providence R. I.,M. D.
-Providence R. I.,Henry Mckinney
-Providence R. I.,Hale
-Providence R. I.,Julian
-Providence R. I.,Fugitive Bill
-Providence R. I.,Wil
-Providence R. I.,Mccrummel
-Providence R. I.,G. M. Willis
-Providence R. I.,R. D. Willis
-Providence R. I.,Gaines
-Providence R. I.,Whipper
-Providence R. I.,Kenney
-Providence R. I.,Joseph C. Holley
-Providence R. I.,Parker
-Providence R. I.,W. Whipper
-Providence R. I.,Bradford King
-Providence R. I.,T. Thomas
-Providence R. I.,W. H. Channing
-Providence R. I.,Francis Thompson
-Providence R. I.,J. H. Hurley
-Providence R. I.,J. W. Lewis
-Providence R. I.,H. C. Smith
-Providence R. I.,W. C. Nell
-Providence R. I.,J. B. Sanderson
-Providence R. I.,Abraham C. Rice
-Providence R. I.,Jehiel C. Beeman
-Providence R. I.,Amos G. Beeman
-Providence R. I.,John Freeman
-Providence R. I.,James D. Bonner
-Providence R. I.,John T. Brittain
-Providence R. I.,W. H. Day
-Providence R. I.,W. C. Monroe
-Providence R. I.,Holland
-Providence R. I.,Boor
-Providence R. I.,Booress
-Providence R. I.,Stout
-Providence R. I.,John Adams
-Providence R. I.,Caffres
-Providence R. I.,Stollz
-Providence R. I.,Slambie
-Providence R. I.,Islambi
-Providence R. I.,Makanna
-Providence R. I.,Kraals
-Providence R. I.,Gaika
-Providence R. I.,Dushani
-Providence R. I.,Kongo
-Providence R. I.,Cobden
-Providence R. I.,R. Cobden
-Providence R. I.,Joseph Sturge
-Providence R. I.,Birkenhead
-Providence R. I.,Cornet John Rolt
-Providence R. I.,Lancaster
-Providence R. I.,Glover
-Providence R. I.,Lieutenants Robinson
-Providence R. I.,Propontis
-Providence R. I.,Dennett
-Providence R. I.,Pears
-Providence R. I.,Julius Caesar
-Providence R. I.,Cathcart
-Providence R. I.,John Bull
-Providence R. I.,John
-Providence R. I.,W. Mclain
-Providence R. I.,Mclain
-Providence R. I.,Anglo Saxon
-Providence R. I.,Norman
-Providence R. I.,Saxon
-Providence R. I.,Heren
-Providence R. I.,Lyon
-Providence R. I.,Roberts
-Providence R. I.,King Boombo
-Providence R. I.,Boombo
-Providence R. I.,J.W.C. Pennington
 John N. Smith,Johm Mercer Langston
 John N. Smith,Wm. H. Day
 John N. Smith,David Jenkins
@@ -4326,7 +3821,6 @@ John N. Smith,Robert Morris
 John N. Smith,C. L. Remond
 John N. Smith,H. O. Wagoner
 John N. Smith,E. P. Rogers
-John N. Smith,N. J.
 John N. Smith,Benjamin Lynch
 John N. Smith,Isaac Cross
 John N. Smith,Amos Gerry Beman
@@ -4345,7 +3839,6 @@ John N. Smith,T. G. Campbell
 John N. Smith,Byrd Parker
 John N. Smith,A. G. Beman
 John N. Smith,Wm. C. Munroe
-John N. Smith,P. M.
 John N. Smith,Jehial C. Beman
 John N. Smith,President-James W. C. Pennington
 John N. Smith,James C. Mccrumbell
@@ -4376,6 +3869,7 @@ John N. Smith,Martin Van Buren
 John N. Smith,Ogden Edwards
 John N. Smith,Ticonderoga
 John N. Smith,Monroe
+John N. Smith,Niles Register
 John N. Smith,Wm. Eustis
 John N. Smith,Morrill
 John N. Smith,Charles Pinckney
@@ -4404,7 +3898,6 @@ John N. Smith,T. G. Campbell A. H. Adams
 John N. Smith,W. J. Watkins
 John N. Smith,J. D. Bonner
 John N. Smith,David H. Jackson
-John N. Smith,A. N
 John N. Smith,Freeman
 John N. Smith,J. I. Gaines
 John N. Smith,F. T. Newsome
@@ -4457,7 +3950,6 @@ John N. Smith,Augusta
 John N. Smith,Jesus
 John N. Smith,Christ
 John N. Smith,J. H. Wilson
-John N. Smith,M. D.
 John N. Smith,Henry Mckinney
 John N. Smith,Hale
 John N. Smith,Julian
@@ -4511,6 +4003,7 @@ John N. Smith,Cornet John Rolt
 John N. Smith,Lancaster
 John N. Smith,Glover
 John N. Smith,Lieutenants Robinson
+John N. Smith,Ensign Minty
 John N. Smith,Propontis
 John N. Smith,Dennett
 John N. Smith,Pears
@@ -4542,7 +4035,6 @@ Johm Mercer Langston,Robert Morris
 Johm Mercer Langston,C. L. Remond
 Johm Mercer Langston,H. O. Wagoner
 Johm Mercer Langston,E. P. Rogers
-Johm Mercer Langston,N. J.
 Johm Mercer Langston,Benjamin Lynch
 Johm Mercer Langston,Isaac Cross
 Johm Mercer Langston,Amos Gerry Beman
@@ -4561,7 +4053,6 @@ Johm Mercer Langston,T. G. Campbell
 Johm Mercer Langston,Byrd Parker
 Johm Mercer Langston,A. G. Beman
 Johm Mercer Langston,Wm. C. Munroe
-Johm Mercer Langston,P. M.
 Johm Mercer Langston,Jehial C. Beman
 Johm Mercer Langston,President-James W. C. Pennington
 Johm Mercer Langston,James C. Mccrumbell
@@ -4592,6 +4083,7 @@ Johm Mercer Langston,Martin Van Buren
 Johm Mercer Langston,Ogden Edwards
 Johm Mercer Langston,Ticonderoga
 Johm Mercer Langston,Monroe
+Johm Mercer Langston,Niles Register
 Johm Mercer Langston,Wm. Eustis
 Johm Mercer Langston,Morrill
 Johm Mercer Langston,Charles Pinckney
@@ -4620,7 +4112,6 @@ Johm Mercer Langston,T. G. Campbell A. H. Adams
 Johm Mercer Langston,W. J. Watkins
 Johm Mercer Langston,J. D. Bonner
 Johm Mercer Langston,David H. Jackson
-Johm Mercer Langston,A. N
 Johm Mercer Langston,Freeman
 Johm Mercer Langston,J. I. Gaines
 Johm Mercer Langston,F. T. Newsome
@@ -4673,7 +4164,6 @@ Johm Mercer Langston,Augusta
 Johm Mercer Langston,Jesus
 Johm Mercer Langston,Christ
 Johm Mercer Langston,J. H. Wilson
-Johm Mercer Langston,M. D.
 Johm Mercer Langston,Henry Mckinney
 Johm Mercer Langston,Hale
 Johm Mercer Langston,Julian
@@ -4727,6 +4217,7 @@ Johm Mercer Langston,Cornet John Rolt
 Johm Mercer Langston,Lancaster
 Johm Mercer Langston,Glover
 Johm Mercer Langston,Lieutenants Robinson
+Johm Mercer Langston,Ensign Minty
 Johm Mercer Langston,Propontis
 Johm Mercer Langston,Dennett
 Johm Mercer Langston,Pears
@@ -4757,7 +4248,6 @@ Wm. H. Day,Robert Morris
 Wm. H. Day,C. L. Remond
 Wm. H. Day,H. O. Wagoner
 Wm. H. Day,E. P. Rogers
-Wm. H. Day,N. J.
 Wm. H. Day,Benjamin Lynch
 Wm. H. Day,Isaac Cross
 Wm. H. Day,Amos Gerry Beman
@@ -4776,7 +4266,6 @@ Wm. H. Day,T. G. Campbell
 Wm. H. Day,Byrd Parker
 Wm. H. Day,A. G. Beman
 Wm. H. Day,Wm. C. Munroe
-Wm. H. Day,P. M.
 Wm. H. Day,Jehial C. Beman
 Wm. H. Day,President-James W. C. Pennington
 Wm. H. Day,James C. Mccrumbell
@@ -4807,6 +4296,7 @@ Wm. H. Day,Martin Van Buren
 Wm. H. Day,Ogden Edwards
 Wm. H. Day,Ticonderoga
 Wm. H. Day,Monroe
+Wm. H. Day,Niles Register
 Wm. H. Day,Wm. Eustis
 Wm. H. Day,Morrill
 Wm. H. Day,Charles Pinckney
@@ -4835,7 +4325,6 @@ Wm. H. Day,T. G. Campbell A. H. Adams
 Wm. H. Day,W. J. Watkins
 Wm. H. Day,J. D. Bonner
 Wm. H. Day,David H. Jackson
-Wm. H. Day,A. N
 Wm. H. Day,Freeman
 Wm. H. Day,J. I. Gaines
 Wm. H. Day,F. T. Newsome
@@ -4888,7 +4377,6 @@ Wm. H. Day,Augusta
 Wm. H. Day,Jesus
 Wm. H. Day,Christ
 Wm. H. Day,J. H. Wilson
-Wm. H. Day,M. D.
 Wm. H. Day,Henry Mckinney
 Wm. H. Day,Hale
 Wm. H. Day,Julian
@@ -4942,6 +4430,7 @@ Wm. H. Day,Cornet John Rolt
 Wm. H. Day,Lancaster
 Wm. H. Day,Glover
 Wm. H. Day,Lieutenants Robinson
+Wm. H. Day,Ensign Minty
 Wm. H. Day,Propontis
 Wm. H. Day,Dennett
 Wm. H. Day,Pears
@@ -4971,7 +4460,6 @@ David Jenkins,Robert Morris
 David Jenkins,C. L. Remond
 David Jenkins,H. O. Wagoner
 David Jenkins,E. P. Rogers
-David Jenkins,N. J.
 David Jenkins,Benjamin Lynch
 David Jenkins,Isaac Cross
 David Jenkins,Amos Gerry Beman
@@ -4990,7 +4478,6 @@ David Jenkins,T. G. Campbell
 David Jenkins,Byrd Parker
 David Jenkins,A. G. Beman
 David Jenkins,Wm. C. Munroe
-David Jenkins,P. M.
 David Jenkins,Jehial C. Beman
 David Jenkins,President-James W. C. Pennington
 David Jenkins,James C. Mccrumbell
@@ -5021,6 +4508,7 @@ David Jenkins,Martin Van Buren
 David Jenkins,Ogden Edwards
 David Jenkins,Ticonderoga
 David Jenkins,Monroe
+David Jenkins,Niles Register
 David Jenkins,Wm. Eustis
 David Jenkins,Morrill
 David Jenkins,Charles Pinckney
@@ -5049,7 +4537,6 @@ David Jenkins,T. G. Campbell A. H. Adams
 David Jenkins,W. J. Watkins
 David Jenkins,J. D. Bonner
 David Jenkins,David H. Jackson
-David Jenkins,A. N
 David Jenkins,Freeman
 David Jenkins,J. I. Gaines
 David Jenkins,F. T. Newsome
@@ -5102,7 +4589,6 @@ David Jenkins,Augusta
 David Jenkins,Jesus
 David Jenkins,Christ
 David Jenkins,J. H. Wilson
-David Jenkins,M. D.
 David Jenkins,Henry Mckinney
 David Jenkins,Hale
 David Jenkins,Julian
@@ -5156,6 +4642,7 @@ David Jenkins,Cornet John Rolt
 David Jenkins,Lancaster
 David Jenkins,Glover
 David Jenkins,Lieutenants Robinson
+David Jenkins,Ensign Minty
 David Jenkins,Propontis
 David Jenkins,Dennett
 David Jenkins,Pears
@@ -5184,7 +4671,6 @@ John I. Gaines,Robert Morris
 John I. Gaines,C. L. Remond
 John I. Gaines,H. O. Wagoner
 John I. Gaines,E. P. Rogers
-John I. Gaines,N. J.
 John I. Gaines,Benjamin Lynch
 John I. Gaines,Isaac Cross
 John I. Gaines,Amos Gerry Beman
@@ -5203,7 +4689,6 @@ John I. Gaines,T. G. Campbell
 John I. Gaines,Byrd Parker
 John I. Gaines,A. G. Beman
 John I. Gaines,Wm. C. Munroe
-John I. Gaines,P. M.
 John I. Gaines,Jehial C. Beman
 John I. Gaines,President-James W. C. Pennington
 John I. Gaines,James C. Mccrumbell
@@ -5234,6 +4719,7 @@ John I. Gaines,Martin Van Buren
 John I. Gaines,Ogden Edwards
 John I. Gaines,Ticonderoga
 John I. Gaines,Monroe
+John I. Gaines,Niles Register
 John I. Gaines,Wm. Eustis
 John I. Gaines,Morrill
 John I. Gaines,Charles Pinckney
@@ -5262,7 +4748,6 @@ John I. Gaines,T. G. Campbell A. H. Adams
 John I. Gaines,W. J. Watkins
 John I. Gaines,J. D. Bonner
 John I. Gaines,David H. Jackson
-John I. Gaines,A. N
 John I. Gaines,Freeman
 John I. Gaines,J. I. Gaines
 John I. Gaines,F. T. Newsome
@@ -5315,7 +4800,6 @@ John I. Gaines,Augusta
 John I. Gaines,Jesus
 John I. Gaines,Christ
 John I. Gaines,J. H. Wilson
-John I. Gaines,M. D.
 John I. Gaines,Henry Mckinney
 John I. Gaines,Hale
 John I. Gaines,Julian
@@ -5369,6 +4853,7 @@ John I. Gaines,Cornet John Rolt
 John I. Gaines,Lancaster
 John I. Gaines,Glover
 John I. Gaines,Lieutenants Robinson
+John I. Gaines,Ensign Minty
 John I. Gaines,Propontis
 John I. Gaines,Dennett
 John I. Gaines,Pears
@@ -5396,7 +4881,6 @@ Charles H. Reason,Robert Morris
 Charles H. Reason,C. L. Remond
 Charles H. Reason,H. O. Wagoner
 Charles H. Reason,E. P. Rogers
-Charles H. Reason,N. J.
 Charles H. Reason,Benjamin Lynch
 Charles H. Reason,Isaac Cross
 Charles H. Reason,Amos Gerry Beman
@@ -5415,7 +4899,6 @@ Charles H. Reason,T. G. Campbell
 Charles H. Reason,Byrd Parker
 Charles H. Reason,A. G. Beman
 Charles H. Reason,Wm. C. Munroe
-Charles H. Reason,P. M.
 Charles H. Reason,Jehial C. Beman
 Charles H. Reason,President-James W. C. Pennington
 Charles H. Reason,James C. Mccrumbell
@@ -5446,6 +4929,7 @@ Charles H. Reason,Martin Van Buren
 Charles H. Reason,Ogden Edwards
 Charles H. Reason,Ticonderoga
 Charles H. Reason,Monroe
+Charles H. Reason,Niles Register
 Charles H. Reason,Wm. Eustis
 Charles H. Reason,Morrill
 Charles H. Reason,Charles Pinckney
@@ -5474,7 +4958,6 @@ Charles H. Reason,T. G. Campbell A. H. Adams
 Charles H. Reason,W. J. Watkins
 Charles H. Reason,J. D. Bonner
 Charles H. Reason,David H. Jackson
-Charles H. Reason,A. N
 Charles H. Reason,Freeman
 Charles H. Reason,J. I. Gaines
 Charles H. Reason,F. T. Newsome
@@ -5527,7 +5010,6 @@ Charles H. Reason,Augusta
 Charles H. Reason,Jesus
 Charles H. Reason,Christ
 Charles H. Reason,J. H. Wilson
-Charles H. Reason,M. D.
 Charles H. Reason,Henry Mckinney
 Charles H. Reason,Hale
 Charles H. Reason,Julian
@@ -5581,6 +5063,7 @@ Charles H. Reason,Cornet John Rolt
 Charles H. Reason,Lancaster
 Charles H. Reason,Glover
 Charles H. Reason,Lieutenants Robinson
+Charles H. Reason,Ensign Minty
 Charles H. Reason,Propontis
 Charles H. Reason,Dennett
 Charles H. Reason,Pears
@@ -5607,7 +5090,6 @@ J. J. G. Bias,Robert Morris
 J. J. G. Bias,C. L. Remond
 J. J. G. Bias,H. O. Wagoner
 J. J. G. Bias,E. P. Rogers
-J. J. G. Bias,N. J.
 J. J. G. Bias,Benjamin Lynch
 J. J. G. Bias,Isaac Cross
 J. J. G. Bias,Amos Gerry Beman
@@ -5626,7 +5108,6 @@ J. J. G. Bias,T. G. Campbell
 J. J. G. Bias,Byrd Parker
 J. J. G. Bias,A. G. Beman
 J. J. G. Bias,Wm. C. Munroe
-J. J. G. Bias,P. M.
 J. J. G. Bias,Jehial C. Beman
 J. J. G. Bias,President-James W. C. Pennington
 J. J. G. Bias,James C. Mccrumbell
@@ -5657,6 +5138,7 @@ J. J. G. Bias,Martin Van Buren
 J. J. G. Bias,Ogden Edwards
 J. J. G. Bias,Ticonderoga
 J. J. G. Bias,Monroe
+J. J. G. Bias,Niles Register
 J. J. G. Bias,Wm. Eustis
 J. J. G. Bias,Morrill
 J. J. G. Bias,Charles Pinckney
@@ -5685,7 +5167,6 @@ J. J. G. Bias,T. G. Campbell A. H. Adams
 J. J. G. Bias,W. J. Watkins
 J. J. G. Bias,J. D. Bonner
 J. J. G. Bias,David H. Jackson
-J. J. G. Bias,A. N
 J. J. G. Bias,Freeman
 J. J. G. Bias,J. I. Gaines
 J. J. G. Bias,F. T. Newsome
@@ -5738,7 +5219,6 @@ J. J. G. Bias,Augusta
 J. J. G. Bias,Jesus
 J. J. G. Bias,Christ
 J. J. G. Bias,J. H. Wilson
-J. J. G. Bias,M. D.
 J. J. G. Bias,Henry Mckinney
 J. J. G. Bias,Hale
 J. J. G. Bias,Julian
@@ -5792,6 +5272,7 @@ J. J. G. Bias,Cornet John Rolt
 J. J. G. Bias,Lancaster
 J. J. G. Bias,Glover
 J. J. G. Bias,Lieutenants Robinson
+J. J. G. Bias,Ensign Minty
 J. J. G. Bias,Propontis
 J. J. G. Bias,Dennett
 J. J. G. Bias,Pears
@@ -5817,7 +5298,6 @@ J. B. Vashon,Robert Morris
 J. B. Vashon,C. L. Remond
 J. B. Vashon,H. O. Wagoner
 J. B. Vashon,E. P. Rogers
-J. B. Vashon,N. J.
 J. B. Vashon,Benjamin Lynch
 J. B. Vashon,Isaac Cross
 J. B. Vashon,Amos Gerry Beman
@@ -5836,7 +5316,6 @@ J. B. Vashon,T. G. Campbell
 J. B. Vashon,Byrd Parker
 J. B. Vashon,A. G. Beman
 J. B. Vashon,Wm. C. Munroe
-J. B. Vashon,P. M.
 J. B. Vashon,Jehial C. Beman
 J. B. Vashon,President-James W. C. Pennington
 J. B. Vashon,James C. Mccrumbell
@@ -5867,6 +5346,7 @@ J. B. Vashon,Martin Van Buren
 J. B. Vashon,Ogden Edwards
 J. B. Vashon,Ticonderoga
 J. B. Vashon,Monroe
+J. B. Vashon,Niles Register
 J. B. Vashon,Wm. Eustis
 J. B. Vashon,Morrill
 J. B. Vashon,Charles Pinckney
@@ -5895,7 +5375,6 @@ J. B. Vashon,T. G. Campbell A. H. Adams
 J. B. Vashon,W. J. Watkins
 J. B. Vashon,J. D. Bonner
 J. B. Vashon,David H. Jackson
-J. B. Vashon,A. N
 J. B. Vashon,Freeman
 J. B. Vashon,J. I. Gaines
 J. B. Vashon,F. T. Newsome
@@ -5948,7 +5427,6 @@ J. B. Vashon,Augusta
 J. B. Vashon,Jesus
 J. B. Vashon,Christ
 J. B. Vashon,J. H. Wilson
-J. B. Vashon,M. D.
 J. B. Vashon,Henry Mckinney
 J. B. Vashon,Hale
 J. B. Vashon,Julian
@@ -6002,6 +5480,7 @@ J. B. Vashon,Cornet John Rolt
 J. B. Vashon,Lancaster
 J. B. Vashon,Glover
 J. B. Vashon,Lieutenants Robinson
+J. B. Vashon,Ensign Minty
 J. B. Vashon,Propontis
 J. B. Vashon,Dennett
 J. B. Vashon,Pears
@@ -6026,7 +5505,6 @@ Robert Purvis,Robert Morris
 Robert Purvis,C. L. Remond
 Robert Purvis,H. O. Wagoner
 Robert Purvis,E. P. Rogers
-Robert Purvis,N. J.
 Robert Purvis,Benjamin Lynch
 Robert Purvis,Isaac Cross
 Robert Purvis,Amos Gerry Beman
@@ -6045,7 +5523,6 @@ Robert Purvis,T. G. Campbell
 Robert Purvis,Byrd Parker
 Robert Purvis,A. G. Beman
 Robert Purvis,Wm. C. Munroe
-Robert Purvis,P. M.
 Robert Purvis,Jehial C. Beman
 Robert Purvis,President-James W. C. Pennington
 Robert Purvis,James C. Mccrumbell
@@ -6076,6 +5553,7 @@ Robert Purvis,Martin Van Buren
 Robert Purvis,Ogden Edwards
 Robert Purvis,Ticonderoga
 Robert Purvis,Monroe
+Robert Purvis,Niles Register
 Robert Purvis,Wm. Eustis
 Robert Purvis,Morrill
 Robert Purvis,Charles Pinckney
@@ -6104,7 +5582,6 @@ Robert Purvis,T. G. Campbell A. H. Adams
 Robert Purvis,W. J. Watkins
 Robert Purvis,J. D. Bonner
 Robert Purvis,David H. Jackson
-Robert Purvis,A. N
 Robert Purvis,Freeman
 Robert Purvis,J. I. Gaines
 Robert Purvis,F. T. Newsome
@@ -6157,7 +5634,6 @@ Robert Purvis,Augusta
 Robert Purvis,Jesus
 Robert Purvis,Christ
 Robert Purvis,J. H. Wilson
-Robert Purvis,M. D.
 Robert Purvis,Henry Mckinney
 Robert Purvis,Hale
 Robert Purvis,Julian
@@ -6211,6 +5687,7 @@ Robert Purvis,Cornet John Rolt
 Robert Purvis,Lancaster
 Robert Purvis,Glover
 Robert Purvis,Lieutenants Robinson
+Robert Purvis,Ensign Minty
 Robert Purvis,Propontis
 Robert Purvis,Dennett
 Robert Purvis,Pears
@@ -6234,7 +5711,6 @@ David Ruggles,Robert Morris
 David Ruggles,C. L. Remond
 David Ruggles,H. O. Wagoner
 David Ruggles,E. P. Rogers
-David Ruggles,N. J.
 David Ruggles,Benjamin Lynch
 David Ruggles,Isaac Cross
 David Ruggles,Amos Gerry Beman
@@ -6253,7 +5729,6 @@ David Ruggles,T. G. Campbell
 David Ruggles,Byrd Parker
 David Ruggles,A. G. Beman
 David Ruggles,Wm. C. Munroe
-David Ruggles,P. M.
 David Ruggles,Jehial C. Beman
 David Ruggles,President-James W. C. Pennington
 David Ruggles,James C. Mccrumbell
@@ -6284,6 +5759,7 @@ David Ruggles,Martin Van Buren
 David Ruggles,Ogden Edwards
 David Ruggles,Ticonderoga
 David Ruggles,Monroe
+David Ruggles,Niles Register
 David Ruggles,Wm. Eustis
 David Ruggles,Morrill
 David Ruggles,Charles Pinckney
@@ -6312,7 +5788,6 @@ David Ruggles,T. G. Campbell A. H. Adams
 David Ruggles,W. J. Watkins
 David Ruggles,J. D. Bonner
 David Ruggles,David H. Jackson
-David Ruggles,A. N
 David Ruggles,Freeman
 David Ruggles,J. I. Gaines
 David Ruggles,F. T. Newsome
@@ -6365,7 +5840,6 @@ David Ruggles,Augusta
 David Ruggles,Jesus
 David Ruggles,Christ
 David Ruggles,J. H. Wilson
-David Ruggles,M. D.
 David Ruggles,Henry Mckinney
 David Ruggles,Hale
 David Ruggles,Julian
@@ -6419,6 +5893,7 @@ David Ruggles,Cornet John Rolt
 David Ruggles,Lancaster
 David Ruggles,Glover
 David Ruggles,Lieutenants Robinson
+David Ruggles,Ensign Minty
 David Ruggles,Propontis
 David Ruggles,Dennett
 David Ruggles,Pears
@@ -6441,7 +5916,6 @@ L. Kelly,Robert Morris
 L. Kelly,C. L. Remond
 L. Kelly,H. O. Wagoner
 L. Kelly,E. P. Rogers
-L. Kelly,N. J.
 L. Kelly,Benjamin Lynch
 L. Kelly,Isaac Cross
 L. Kelly,Amos Gerry Beman
@@ -6460,7 +5934,6 @@ L. Kelly,T. G. Campbell
 L. Kelly,Byrd Parker
 L. Kelly,A. G. Beman
 L. Kelly,Wm. C. Munroe
-L. Kelly,P. M.
 L. Kelly,Jehial C. Beman
 L. Kelly,President-James W. C. Pennington
 L. Kelly,James C. Mccrumbell
@@ -6491,6 +5964,7 @@ L. Kelly,Martin Van Buren
 L. Kelly,Ogden Edwards
 L. Kelly,Ticonderoga
 L. Kelly,Monroe
+L. Kelly,Niles Register
 L. Kelly,Wm. Eustis
 L. Kelly,Morrill
 L. Kelly,Charles Pinckney
@@ -6519,7 +5993,6 @@ L. Kelly,T. G. Campbell A. H. Adams
 L. Kelly,W. J. Watkins
 L. Kelly,J. D. Bonner
 L. Kelly,David H. Jackson
-L. Kelly,A. N
 L. Kelly,Freeman
 L. Kelly,J. I. Gaines
 L. Kelly,F. T. Newsome
@@ -6572,7 +6045,6 @@ L. Kelly,Augusta
 L. Kelly,Jesus
 L. Kelly,Christ
 L. Kelly,J. H. Wilson
-L. Kelly,M. D.
 L. Kelly,Henry Mckinney
 L. Kelly,Hale
 L. Kelly,Julian
@@ -6626,6 +6098,7 @@ L. Kelly,Cornet John Rolt
 L. Kelly,Lancaster
 L. Kelly,Glover
 L. Kelly,Lieutenants Robinson
+L. Kelly,Ensign Minty
 L. Kelly,Propontis
 L. Kelly,Dennett
 L. Kelly,Pears
@@ -6647,7 +6120,6 @@ L. Kelly,J.W.C. Pennington
 Robert Morris,C. L. Remond
 Robert Morris,H. O. Wagoner
 Robert Morris,E. P. Rogers
-Robert Morris,N. J.
 Robert Morris,Benjamin Lynch
 Robert Morris,Isaac Cross
 Robert Morris,Amos Gerry Beman
@@ -6666,7 +6138,6 @@ Robert Morris,T. G. Campbell
 Robert Morris,Byrd Parker
 Robert Morris,A. G. Beman
 Robert Morris,Wm. C. Munroe
-Robert Morris,P. M.
 Robert Morris,Jehial C. Beman
 Robert Morris,President-James W. C. Pennington
 Robert Morris,James C. Mccrumbell
@@ -6697,6 +6168,7 @@ Robert Morris,Martin Van Buren
 Robert Morris,Ogden Edwards
 Robert Morris,Ticonderoga
 Robert Morris,Monroe
+Robert Morris,Niles Register
 Robert Morris,Wm. Eustis
 Robert Morris,Morrill
 Robert Morris,Charles Pinckney
@@ -6725,7 +6197,6 @@ Robert Morris,T. G. Campbell A. H. Adams
 Robert Morris,W. J. Watkins
 Robert Morris,J. D. Bonner
 Robert Morris,David H. Jackson
-Robert Morris,A. N
 Robert Morris,Freeman
 Robert Morris,J. I. Gaines
 Robert Morris,F. T. Newsome
@@ -6778,7 +6249,6 @@ Robert Morris,Augusta
 Robert Morris,Jesus
 Robert Morris,Christ
 Robert Morris,J. H. Wilson
-Robert Morris,M. D.
 Robert Morris,Henry Mckinney
 Robert Morris,Hale
 Robert Morris,Julian
@@ -6832,6 +6302,7 @@ Robert Morris,Cornet John Rolt
 Robert Morris,Lancaster
 Robert Morris,Glover
 Robert Morris,Lieutenants Robinson
+Robert Morris,Ensign Minty
 Robert Morris,Propontis
 Robert Morris,Dennett
 Robert Morris,Pears
@@ -6852,7 +6323,6 @@ Robert Morris,Boombo
 Robert Morris,J.W.C. Pennington
 C. L. Remond,H. O. Wagoner
 C. L. Remond,E. P. Rogers
-C. L. Remond,N. J.
 C. L. Remond,Benjamin Lynch
 C. L. Remond,Isaac Cross
 C. L. Remond,Amos Gerry Beman
@@ -6871,7 +6341,6 @@ C. L. Remond,T. G. Campbell
 C. L. Remond,Byrd Parker
 C. L. Remond,A. G. Beman
 C. L. Remond,Wm. C. Munroe
-C. L. Remond,P. M.
 C. L. Remond,Jehial C. Beman
 C. L. Remond,President-James W. C. Pennington
 C. L. Remond,James C. Mccrumbell
@@ -6902,6 +6371,7 @@ C. L. Remond,Martin Van Buren
 C. L. Remond,Ogden Edwards
 C. L. Remond,Ticonderoga
 C. L. Remond,Monroe
+C. L. Remond,Niles Register
 C. L. Remond,Wm. Eustis
 C. L. Remond,Morrill
 C. L. Remond,Charles Pinckney
@@ -6930,7 +6400,6 @@ C. L. Remond,T. G. Campbell A. H. Adams
 C. L. Remond,W. J. Watkins
 C. L. Remond,J. D. Bonner
 C. L. Remond,David H. Jackson
-C. L. Remond,A. N
 C. L. Remond,Freeman
 C. L. Remond,J. I. Gaines
 C. L. Remond,F. T. Newsome
@@ -6983,7 +6452,6 @@ C. L. Remond,Augusta
 C. L. Remond,Jesus
 C. L. Remond,Christ
 C. L. Remond,J. H. Wilson
-C. L. Remond,M. D.
 C. L. Remond,Henry Mckinney
 C. L. Remond,Hale
 C. L. Remond,Julian
@@ -7037,6 +6505,7 @@ C. L. Remond,Cornet John Rolt
 C. L. Remond,Lancaster
 C. L. Remond,Glover
 C. L. Remond,Lieutenants Robinson
+C. L. Remond,Ensign Minty
 C. L. Remond,Propontis
 C. L. Remond,Dennett
 C. L. Remond,Pears
@@ -7056,7 +6525,6 @@ C. L. Remond,King Boombo
 C. L. Remond,Boombo
 C. L. Remond,J.W.C. Pennington
 H. O. Wagoner,E. P. Rogers
-H. O. Wagoner,N. J.
 H. O. Wagoner,Benjamin Lynch
 H. O. Wagoner,Isaac Cross
 H. O. Wagoner,Amos Gerry Beman
@@ -7075,7 +6543,6 @@ H. O. Wagoner,T. G. Campbell
 H. O. Wagoner,Byrd Parker
 H. O. Wagoner,A. G. Beman
 H. O. Wagoner,Wm. C. Munroe
-H. O. Wagoner,P. M.
 H. O. Wagoner,Jehial C. Beman
 H. O. Wagoner,President-James W. C. Pennington
 H. O. Wagoner,James C. Mccrumbell
@@ -7106,6 +6573,7 @@ H. O. Wagoner,Martin Van Buren
 H. O. Wagoner,Ogden Edwards
 H. O. Wagoner,Ticonderoga
 H. O. Wagoner,Monroe
+H. O. Wagoner,Niles Register
 H. O. Wagoner,Wm. Eustis
 H. O. Wagoner,Morrill
 H. O. Wagoner,Charles Pinckney
@@ -7134,7 +6602,6 @@ H. O. Wagoner,T. G. Campbell A. H. Adams
 H. O. Wagoner,W. J. Watkins
 H. O. Wagoner,J. D. Bonner
 H. O. Wagoner,David H. Jackson
-H. O. Wagoner,A. N
 H. O. Wagoner,Freeman
 H. O. Wagoner,J. I. Gaines
 H. O. Wagoner,F. T. Newsome
@@ -7187,7 +6654,6 @@ H. O. Wagoner,Augusta
 H. O. Wagoner,Jesus
 H. O. Wagoner,Christ
 H. O. Wagoner,J. H. Wilson
-H. O. Wagoner,M. D.
 H. O. Wagoner,Henry Mckinney
 H. O. Wagoner,Hale
 H. O. Wagoner,Julian
@@ -7241,6 +6707,7 @@ H. O. Wagoner,Cornet John Rolt
 H. O. Wagoner,Lancaster
 H. O. Wagoner,Glover
 H. O. Wagoner,Lieutenants Robinson
+H. O. Wagoner,Ensign Minty
 H. O. Wagoner,Propontis
 H. O. Wagoner,Dennett
 H. O. Wagoner,Pears
@@ -7259,7 +6726,6 @@ H. O. Wagoner,Roberts
 H. O. Wagoner,King Boombo
 H. O. Wagoner,Boombo
 H. O. Wagoner,J.W.C. Pennington
-E. P. Rogers,N. J.
 E. P. Rogers,Benjamin Lynch
 E. P. Rogers,Isaac Cross
 E. P. Rogers,Amos Gerry Beman
@@ -7278,7 +6744,6 @@ E. P. Rogers,T. G. Campbell
 E. P. Rogers,Byrd Parker
 E. P. Rogers,A. G. Beman
 E. P. Rogers,Wm. C. Munroe
-E. P. Rogers,P. M.
 E. P. Rogers,Jehial C. Beman
 E. P. Rogers,President-James W. C. Pennington
 E. P. Rogers,James C. Mccrumbell
@@ -7309,6 +6774,7 @@ E. P. Rogers,Martin Van Buren
 E. P. Rogers,Ogden Edwards
 E. P. Rogers,Ticonderoga
 E. P. Rogers,Monroe
+E. P. Rogers,Niles Register
 E. P. Rogers,Wm. Eustis
 E. P. Rogers,Morrill
 E. P. Rogers,Charles Pinckney
@@ -7337,7 +6803,6 @@ E. P. Rogers,T. G. Campbell A. H. Adams
 E. P. Rogers,W. J. Watkins
 E. P. Rogers,J. D. Bonner
 E. P. Rogers,David H. Jackson
-E. P. Rogers,A. N
 E. P. Rogers,Freeman
 E. P. Rogers,J. I. Gaines
 E. P. Rogers,F. T. Newsome
@@ -7390,7 +6855,6 @@ E. P. Rogers,Augusta
 E. P. Rogers,Jesus
 E. P. Rogers,Christ
 E. P. Rogers,J. H. Wilson
-E. P. Rogers,M. D.
 E. P. Rogers,Henry Mckinney
 E. P. Rogers,Hale
 E. P. Rogers,Julian
@@ -7444,6 +6908,7 @@ E. P. Rogers,Cornet John Rolt
 E. P. Rogers,Lancaster
 E. P. Rogers,Glover
 E. P. Rogers,Lieutenants Robinson
+E. P. Rogers,Ensign Minty
 E. P. Rogers,Propontis
 E. P. Rogers,Dennett
 E. P. Rogers,Pears
@@ -7462,208 +6927,6 @@ E. P. Rogers,Roberts
 E. P. Rogers,King Boombo
 E. P. Rogers,Boombo
 E. P. Rogers,J.W.C. Pennington
-N. J.,Benjamin Lynch
-N. J.,Isaac Cross
-N. J.,Amos Gerry Beman
-N. J.,Jehiel C. Beman
-N. J.,George W. Francis
-N. J.,John E. Burr
-N. J.,Leverett C. Beman
-N. J.,Amos G. Beman
-N. J.,John Peck
-N. J.,Wm. Whipper
-N. J.,C. Nell
-N. J.,David Jenkings
-N. J.,L. A. Grimes
-N. J.,Stephen Smith
-N. J.,T. G. Campbell
-N. J.,Byrd Parker
-N. J.,A. G. Beman
-N. J.,Wm. C. Munroe
-N. J.,P. M.
-N. J.,Jehial C. Beman
-N. J.,President-James W. C. Pennington
-N. J.,James C. Mccrumbell
-N. J.,John B. Vashon
-N. J.,John Jones
-N. J.,Peter H. Clarke
-N. J.,Chas
-N. J.,B. Ray
-N. J.,Charles L. Reason
-N. J.,J. C. Mccrummell
-N. J.,C. H. Langston
-N. J.,J. C. Beman
-N. J.,Wm. C. Nell
-N. J.,C. Munroe
-N. J.,John J. Gaines
-N. J.,Horace B. Smith
-N. J.,Edward V. Clarke
-N. J.,A. N. Freeman
-N. J.,J. M. Whitfield
-N. J.,G. B. Vashon
-N. J.,Savior
-N. J.,Nathan Sandford
-N. J.,Robert Clark
-N. J.,Jay
-N. J.,Kent
-N. J.,Peter A. Jay
-N. J.,Martin Van Buren
-N. J.,Ogden Edwards
-N. J.,Ticonderoga
-N. J.,Monroe
-N. J.,Wm. Eustis
-N. J.,Morrill
-N. J.,Charles Pinckney
-N. J.,Jackson
-N. J.,Andrew Jackson
-N. J.,-- Niles
-N. J.,Thomas Butler
-N. J.,Aid-De-Camp
-N. J.,George B. Vashon
-N. J.,Wilson
-N. J.,Benjamin Templeton
-N. J.,Sumner
-N. J.,Wm. Wilson
-N. J.,William J. Wilson
-N. J.,William Whipper
-N. J.,J. Mccune Smith
-N. J.,Lewis Woodson
-N. J.,Payton Harris
-N. J.,J. N. Still
-N. J.,Uriah Boston
-N. J.,D. B. Bowser
-N. J.,J. Mercer Langston
-N. J.,M. M. Clark
-N. J.,A. M. Sumner
-N. J.,T. G. Campbell A. H. Adams
-N. J.,W. J. Watkins
-N. J.,J. D. Bonner
-N. J.,David H. Jackson
-N. J.,A. N
-N. J.,Freeman
-N. J.,J. I. Gaines
-N. J.,F. T. Newsome
-N. J.,W. C. Munroe
-N. J.,A. R. Green
-N. J.,Green
-N. J.,J. M. Langston
-N. J.,Gloster
-N. J.,Harris
-N. J.,J. G. Bowers
-N. J.,Downing
-N. J.,Gordon
-N. J.,Langston
-N. J.,G. T. Downing
-N. J.,Driver
-N. J.,Jenkins
-N. J.,George W. Clark
-N. J.,T. Downing
-N. J.,Boyd Parker
-N. J.,William H. Day
-N. J.,Day
-N. J.,James M'Cune Smith
-N. J.,M. F. Newsome
-N. J.,Cass
-N. J.,J. Wilson
-N. J.,Samuel Aaron
-N. J.,A. Dewey
-N. J.,H. O. Wagener
-N. J.,L. Tillman
-N. J.,Josephus Fowler
-N. J.,C. B. Ray
-N. J.,Pennington
-N. J.,Charles L. Remond
-N. J.,Bowser
-N. J.,Smith
-N. J.,Douglass
-N. J.,Walker
-N. J.,L. Woodson
-N. J.,Woodson
-N. J.,C. L. Reason
-N. J.,H. Langston
-N. J.,Stowe
-N. J.,Madam
-N. J.,Garnetts
-N. J.,Gerrit Smith
-N. J.,Garrison
-N. J.,William Lloyd Garrison
-N. J.,Dear Brethren
-N. J.,Augusta
-N. J.,Jesus
-N. J.,Christ
-N. J.,J. H. Wilson
-N. J.,M. D.
-N. J.,Henry Mckinney
-N. J.,Hale
-N. J.,Julian
-N. J.,Fugitive Bill
-N. J.,Wil
-N. J.,Mccrummel
-N. J.,G. M. Willis
-N. J.,R. D. Willis
-N. J.,Gaines
-N. J.,Whipper
-N. J.,Kenney
-N. J.,Joseph C. Holley
-N. J.,Parker
-N. J.,W. Whipper
-N. J.,Bradford King
-N. J.,T. Thomas
-N. J.,W. H. Channing
-N. J.,Francis Thompson
-N. J.,J. H. Hurley
-N. J.,J. W. Lewis
-N. J.,H. C. Smith
-N. J.,W. C. Nell
-N. J.,J. B. Sanderson
-N. J.,Abraham C. Rice
-N. J.,Jehiel C. Beeman
-N. J.,Amos G. Beeman
-N. J.,John Freeman
-N. J.,James D. Bonner
-N. J.,John T. Brittain
-N. J.,W. H. Day
-N. J.,W. C. Monroe
-N. J.,Holland
-N. J.,Boor
-N. J.,Booress
-N. J.,Stout
-N. J.,John Adams
-N. J.,Caffres
-N. J.,Stollz
-N. J.,Slambie
-N. J.,Islambi
-N. J.,Makanna
-N. J.,Kraals
-N. J.,Gaika
-N. J.,Dushani
-N. J.,Kongo
-N. J.,Cobden
-N. J.,R. Cobden
-N. J.,Joseph Sturge
-N. J.,Birkenhead
-N. J.,Cornet John Rolt
-N. J.,Lancaster
-N. J.,Glover
-N. J.,Lieutenants Robinson
-N. J.,Propontis
-N. J.,Dennett
-N. J.,Pears
-N. J.,Julius Caesar
-N. J.,Cathcart
-N. J.,John Bull
-N. J.,John
-N. J.,W. Mclain
-N. J.,Mclain
-N. J.,Anglo Saxon
-N. J.,Norman
-N. J.,Saxon
-N. J.,Heren
-N. J.,Lyon
-N. J.,Roberts
-N. J.,King Boombo
-N. J.,Boombo
-N. J.,J.W.C. Pennington
 Benjamin Lynch,Isaac Cross
 Benjamin Lynch,Amos Gerry Beman
 Benjamin Lynch,Jehiel C. Beman
@@ -7681,7 +6944,6 @@ Benjamin Lynch,T. G. Campbell
 Benjamin Lynch,Byrd Parker
 Benjamin Lynch,A. G. Beman
 Benjamin Lynch,Wm. C. Munroe
-Benjamin Lynch,P. M.
 Benjamin Lynch,Jehial C. Beman
 Benjamin Lynch,President-James W. C. Pennington
 Benjamin Lynch,James C. Mccrumbell
@@ -7712,6 +6974,7 @@ Benjamin Lynch,Martin Van Buren
 Benjamin Lynch,Ogden Edwards
 Benjamin Lynch,Ticonderoga
 Benjamin Lynch,Monroe
+Benjamin Lynch,Niles Register
 Benjamin Lynch,Wm. Eustis
 Benjamin Lynch,Morrill
 Benjamin Lynch,Charles Pinckney
@@ -7740,7 +7003,6 @@ Benjamin Lynch,T. G. Campbell A. H. Adams
 Benjamin Lynch,W. J. Watkins
 Benjamin Lynch,J. D. Bonner
 Benjamin Lynch,David H. Jackson
-Benjamin Lynch,A. N
 Benjamin Lynch,Freeman
 Benjamin Lynch,J. I. Gaines
 Benjamin Lynch,F. T. Newsome
@@ -7793,7 +7055,6 @@ Benjamin Lynch,Augusta
 Benjamin Lynch,Jesus
 Benjamin Lynch,Christ
 Benjamin Lynch,J. H. Wilson
-Benjamin Lynch,M. D.
 Benjamin Lynch,Henry Mckinney
 Benjamin Lynch,Hale
 Benjamin Lynch,Julian
@@ -7847,6 +7108,7 @@ Benjamin Lynch,Cornet John Rolt
 Benjamin Lynch,Lancaster
 Benjamin Lynch,Glover
 Benjamin Lynch,Lieutenants Robinson
+Benjamin Lynch,Ensign Minty
 Benjamin Lynch,Propontis
 Benjamin Lynch,Dennett
 Benjamin Lynch,Pears
@@ -7881,7 +7143,6 @@ Isaac Cross,T. G. Campbell
 Isaac Cross,Byrd Parker
 Isaac Cross,A. G. Beman
 Isaac Cross,Wm. C. Munroe
-Isaac Cross,P. M.
 Isaac Cross,Jehial C. Beman
 Isaac Cross,President-James W. C. Pennington
 Isaac Cross,James C. Mccrumbell
@@ -7912,6 +7173,7 @@ Isaac Cross,Martin Van Buren
 Isaac Cross,Ogden Edwards
 Isaac Cross,Ticonderoga
 Isaac Cross,Monroe
+Isaac Cross,Niles Register
 Isaac Cross,Wm. Eustis
 Isaac Cross,Morrill
 Isaac Cross,Charles Pinckney
@@ -7940,7 +7202,6 @@ Isaac Cross,T. G. Campbell A. H. Adams
 Isaac Cross,W. J. Watkins
 Isaac Cross,J. D. Bonner
 Isaac Cross,David H. Jackson
-Isaac Cross,A. N
 Isaac Cross,Freeman
 Isaac Cross,J. I. Gaines
 Isaac Cross,F. T. Newsome
@@ -7993,7 +7254,6 @@ Isaac Cross,Augusta
 Isaac Cross,Jesus
 Isaac Cross,Christ
 Isaac Cross,J. H. Wilson
-Isaac Cross,M. D.
 Isaac Cross,Henry Mckinney
 Isaac Cross,Hale
 Isaac Cross,Julian
@@ -8047,6 +7307,7 @@ Isaac Cross,Cornet John Rolt
 Isaac Cross,Lancaster
 Isaac Cross,Glover
 Isaac Cross,Lieutenants Robinson
+Isaac Cross,Ensign Minty
 Isaac Cross,Propontis
 Isaac Cross,Dennett
 Isaac Cross,Pears
@@ -8080,7 +7341,6 @@ Amos Gerry Beman,T. G. Campbell
 Amos Gerry Beman,Byrd Parker
 Amos Gerry Beman,A. G. Beman
 Amos Gerry Beman,Wm. C. Munroe
-Amos Gerry Beman,P. M.
 Amos Gerry Beman,Jehial C. Beman
 Amos Gerry Beman,President-James W. C. Pennington
 Amos Gerry Beman,James C. Mccrumbell
@@ -8111,6 +7371,7 @@ Amos Gerry Beman,Martin Van Buren
 Amos Gerry Beman,Ogden Edwards
 Amos Gerry Beman,Ticonderoga
 Amos Gerry Beman,Monroe
+Amos Gerry Beman,Niles Register
 Amos Gerry Beman,Wm. Eustis
 Amos Gerry Beman,Morrill
 Amos Gerry Beman,Charles Pinckney
@@ -8139,7 +7400,6 @@ Amos Gerry Beman,T. G. Campbell A. H. Adams
 Amos Gerry Beman,W. J. Watkins
 Amos Gerry Beman,J. D. Bonner
 Amos Gerry Beman,David H. Jackson
-Amos Gerry Beman,A. N
 Amos Gerry Beman,Freeman
 Amos Gerry Beman,J. I. Gaines
 Amos Gerry Beman,F. T. Newsome
@@ -8192,7 +7452,6 @@ Amos Gerry Beman,Augusta
 Amos Gerry Beman,Jesus
 Amos Gerry Beman,Christ
 Amos Gerry Beman,J. H. Wilson
-Amos Gerry Beman,M. D.
 Amos Gerry Beman,Henry Mckinney
 Amos Gerry Beman,Hale
 Amos Gerry Beman,Julian
@@ -8246,6 +7505,7 @@ Amos Gerry Beman,Cornet John Rolt
 Amos Gerry Beman,Lancaster
 Amos Gerry Beman,Glover
 Amos Gerry Beman,Lieutenants Robinson
+Amos Gerry Beman,Ensign Minty
 Amos Gerry Beman,Propontis
 Amos Gerry Beman,Dennett
 Amos Gerry Beman,Pears
@@ -8278,7 +7538,6 @@ Jehiel C. Beman,T. G. Campbell
 Jehiel C. Beman,Byrd Parker
 Jehiel C. Beman,A. G. Beman
 Jehiel C. Beman,Wm. C. Munroe
-Jehiel C. Beman,P. M.
 Jehiel C. Beman,Jehial C. Beman
 Jehiel C. Beman,President-James W. C. Pennington
 Jehiel C. Beman,James C. Mccrumbell
@@ -8309,6 +7568,7 @@ Jehiel C. Beman,Martin Van Buren
 Jehiel C. Beman,Ogden Edwards
 Jehiel C. Beman,Ticonderoga
 Jehiel C. Beman,Monroe
+Jehiel C. Beman,Niles Register
 Jehiel C. Beman,Wm. Eustis
 Jehiel C. Beman,Morrill
 Jehiel C. Beman,Charles Pinckney
@@ -8337,7 +7597,6 @@ Jehiel C. Beman,T. G. Campbell A. H. Adams
 Jehiel C. Beman,W. J. Watkins
 Jehiel C. Beman,J. D. Bonner
 Jehiel C. Beman,David H. Jackson
-Jehiel C. Beman,A. N
 Jehiel C. Beman,Freeman
 Jehiel C. Beman,J. I. Gaines
 Jehiel C. Beman,F. T. Newsome
@@ -8390,7 +7649,6 @@ Jehiel C. Beman,Augusta
 Jehiel C. Beman,Jesus
 Jehiel C. Beman,Christ
 Jehiel C. Beman,J. H. Wilson
-Jehiel C. Beman,M. D.
 Jehiel C. Beman,Henry Mckinney
 Jehiel C. Beman,Hale
 Jehiel C. Beman,Julian
@@ -8444,6 +7702,7 @@ Jehiel C. Beman,Cornet John Rolt
 Jehiel C. Beman,Lancaster
 Jehiel C. Beman,Glover
 Jehiel C. Beman,Lieutenants Robinson
+Jehiel C. Beman,Ensign Minty
 Jehiel C. Beman,Propontis
 Jehiel C. Beman,Dennett
 Jehiel C. Beman,Pears
@@ -8475,7 +7734,6 @@ George W. Francis,T. G. Campbell
 George W. Francis,Byrd Parker
 George W. Francis,A. G. Beman
 George W. Francis,Wm. C. Munroe
-George W. Francis,P. M.
 George W. Francis,Jehial C. Beman
 George W. Francis,President-James W. C. Pennington
 George W. Francis,James C. Mccrumbell
@@ -8506,6 +7764,7 @@ George W. Francis,Martin Van Buren
 George W. Francis,Ogden Edwards
 George W. Francis,Ticonderoga
 George W. Francis,Monroe
+George W. Francis,Niles Register
 George W. Francis,Wm. Eustis
 George W. Francis,Morrill
 George W. Francis,Charles Pinckney
@@ -8534,7 +7793,6 @@ George W. Francis,T. G. Campbell A. H. Adams
 George W. Francis,W. J. Watkins
 George W. Francis,J. D. Bonner
 George W. Francis,David H. Jackson
-George W. Francis,A. N
 George W. Francis,Freeman
 George W. Francis,J. I. Gaines
 George W. Francis,F. T. Newsome
@@ -8587,7 +7845,6 @@ George W. Francis,Augusta
 George W. Francis,Jesus
 George W. Francis,Christ
 George W. Francis,J. H. Wilson
-George W. Francis,M. D.
 George W. Francis,Henry Mckinney
 George W. Francis,Hale
 George W. Francis,Julian
@@ -8641,6 +7898,7 @@ George W. Francis,Cornet John Rolt
 George W. Francis,Lancaster
 George W. Francis,Glover
 George W. Francis,Lieutenants Robinson
+George W. Francis,Ensign Minty
 George W. Francis,Propontis
 George W. Francis,Dennett
 George W. Francis,Pears
@@ -8671,7 +7929,6 @@ John E. Burr,T. G. Campbell
 John E. Burr,Byrd Parker
 John E. Burr,A. G. Beman
 John E. Burr,Wm. C. Munroe
-John E. Burr,P. M.
 John E. Burr,Jehial C. Beman
 John E. Burr,President-James W. C. Pennington
 John E. Burr,James C. Mccrumbell
@@ -8702,6 +7959,7 @@ John E. Burr,Martin Van Buren
 John E. Burr,Ogden Edwards
 John E. Burr,Ticonderoga
 John E. Burr,Monroe
+John E. Burr,Niles Register
 John E. Burr,Wm. Eustis
 John E. Burr,Morrill
 John E. Burr,Charles Pinckney
@@ -8730,7 +7988,6 @@ John E. Burr,T. G. Campbell A. H. Adams
 John E. Burr,W. J. Watkins
 John E. Burr,J. D. Bonner
 John E. Burr,David H. Jackson
-John E. Burr,A. N
 John E. Burr,Freeman
 John E. Burr,J. I. Gaines
 John E. Burr,F. T. Newsome
@@ -8783,7 +8040,6 @@ John E. Burr,Augusta
 John E. Burr,Jesus
 John E. Burr,Christ
 John E. Burr,J. H. Wilson
-John E. Burr,M. D.
 John E. Burr,Henry Mckinney
 John E. Burr,Hale
 John E. Burr,Julian
@@ -8837,6 +8093,7 @@ John E. Burr,Cornet John Rolt
 John E. Burr,Lancaster
 John E. Burr,Glover
 John E. Burr,Lieutenants Robinson
+John E. Burr,Ensign Minty
 John E. Burr,Propontis
 John E. Burr,Dennett
 John E. Burr,Pears
@@ -8866,7 +8123,6 @@ Leverett C. Beman,T. G. Campbell
 Leverett C. Beman,Byrd Parker
 Leverett C. Beman,A. G. Beman
 Leverett C. Beman,Wm. C. Munroe
-Leverett C. Beman,P. M.
 Leverett C. Beman,Jehial C. Beman
 Leverett C. Beman,President-James W. C. Pennington
 Leverett C. Beman,James C. Mccrumbell
@@ -8897,6 +8153,7 @@ Leverett C. Beman,Martin Van Buren
 Leverett C. Beman,Ogden Edwards
 Leverett C. Beman,Ticonderoga
 Leverett C. Beman,Monroe
+Leverett C. Beman,Niles Register
 Leverett C. Beman,Wm. Eustis
 Leverett C. Beman,Morrill
 Leverett C. Beman,Charles Pinckney
@@ -8925,7 +8182,6 @@ Leverett C. Beman,T. G. Campbell A. H. Adams
 Leverett C. Beman,W. J. Watkins
 Leverett C. Beman,J. D. Bonner
 Leverett C. Beman,David H. Jackson
-Leverett C. Beman,A. N
 Leverett C. Beman,Freeman
 Leverett C. Beman,J. I. Gaines
 Leverett C. Beman,F. T. Newsome
@@ -8978,7 +8234,6 @@ Leverett C. Beman,Augusta
 Leverett C. Beman,Jesus
 Leverett C. Beman,Christ
 Leverett C. Beman,J. H. Wilson
-Leverett C. Beman,M. D.
 Leverett C. Beman,Henry Mckinney
 Leverett C. Beman,Hale
 Leverett C. Beman,Julian
@@ -9032,6 +8287,7 @@ Leverett C. Beman,Cornet John Rolt
 Leverett C. Beman,Lancaster
 Leverett C. Beman,Glover
 Leverett C. Beman,Lieutenants Robinson
+Leverett C. Beman,Ensign Minty
 Leverett C. Beman,Propontis
 Leverett C. Beman,Dennett
 Leverett C. Beman,Pears
@@ -9060,7 +8316,6 @@ Amos G. Beman,T. G. Campbell
 Amos G. Beman,Byrd Parker
 Amos G. Beman,A. G. Beman
 Amos G. Beman,Wm. C. Munroe
-Amos G. Beman,P. M.
 Amos G. Beman,Jehial C. Beman
 Amos G. Beman,President-James W. C. Pennington
 Amos G. Beman,James C. Mccrumbell
@@ -9091,6 +8346,7 @@ Amos G. Beman,Martin Van Buren
 Amos G. Beman,Ogden Edwards
 Amos G. Beman,Ticonderoga
 Amos G. Beman,Monroe
+Amos G. Beman,Niles Register
 Amos G. Beman,Wm. Eustis
 Amos G. Beman,Morrill
 Amos G. Beman,Charles Pinckney
@@ -9119,7 +8375,6 @@ Amos G. Beman,T. G. Campbell A. H. Adams
 Amos G. Beman,W. J. Watkins
 Amos G. Beman,J. D. Bonner
 Amos G. Beman,David H. Jackson
-Amos G. Beman,A. N
 Amos G. Beman,Freeman
 Amos G. Beman,J. I. Gaines
 Amos G. Beman,F. T. Newsome
@@ -9172,7 +8427,6 @@ Amos G. Beman,Augusta
 Amos G. Beman,Jesus
 Amos G. Beman,Christ
 Amos G. Beman,J. H. Wilson
-Amos G. Beman,M. D.
 Amos G. Beman,Henry Mckinney
 Amos G. Beman,Hale
 Amos G. Beman,Julian
@@ -9226,6 +8480,7 @@ Amos G. Beman,Cornet John Rolt
 Amos G. Beman,Lancaster
 Amos G. Beman,Glover
 Amos G. Beman,Lieutenants Robinson
+Amos G. Beman,Ensign Minty
 Amos G. Beman,Propontis
 Amos G. Beman,Dennett
 Amos G. Beman,Pears
@@ -9253,7 +8508,6 @@ John Peck,T. G. Campbell
 John Peck,Byrd Parker
 John Peck,A. G. Beman
 John Peck,Wm. C. Munroe
-John Peck,P. M.
 John Peck,Jehial C. Beman
 John Peck,President-James W. C. Pennington
 John Peck,James C. Mccrumbell
@@ -9284,6 +8538,7 @@ John Peck,Martin Van Buren
 John Peck,Ogden Edwards
 John Peck,Ticonderoga
 John Peck,Monroe
+John Peck,Niles Register
 John Peck,Wm. Eustis
 John Peck,Morrill
 John Peck,Charles Pinckney
@@ -9312,7 +8567,6 @@ John Peck,T. G. Campbell A. H. Adams
 John Peck,W. J. Watkins
 John Peck,J. D. Bonner
 John Peck,David H. Jackson
-John Peck,A. N
 John Peck,Freeman
 John Peck,J. I. Gaines
 John Peck,F. T. Newsome
@@ -9365,7 +8619,6 @@ John Peck,Augusta
 John Peck,Jesus
 John Peck,Christ
 John Peck,J. H. Wilson
-John Peck,M. D.
 John Peck,Henry Mckinney
 John Peck,Hale
 John Peck,Julian
@@ -9419,6 +8672,7 @@ John Peck,Cornet John Rolt
 John Peck,Lancaster
 John Peck,Glover
 John Peck,Lieutenants Robinson
+John Peck,Ensign Minty
 John Peck,Propontis
 John Peck,Dennett
 John Peck,Pears
@@ -9445,7 +8699,6 @@ Wm. Whipper,T. G. Campbell
 Wm. Whipper,Byrd Parker
 Wm. Whipper,A. G. Beman
 Wm. Whipper,Wm. C. Munroe
-Wm. Whipper,P. M.
 Wm. Whipper,Jehial C. Beman
 Wm. Whipper,President-James W. C. Pennington
 Wm. Whipper,James C. Mccrumbell
@@ -9476,6 +8729,7 @@ Wm. Whipper,Martin Van Buren
 Wm. Whipper,Ogden Edwards
 Wm. Whipper,Ticonderoga
 Wm. Whipper,Monroe
+Wm. Whipper,Niles Register
 Wm. Whipper,Wm. Eustis
 Wm. Whipper,Morrill
 Wm. Whipper,Charles Pinckney
@@ -9504,7 +8758,6 @@ Wm. Whipper,T. G. Campbell A. H. Adams
 Wm. Whipper,W. J. Watkins
 Wm. Whipper,J. D. Bonner
 Wm. Whipper,David H. Jackson
-Wm. Whipper,A. N
 Wm. Whipper,Freeman
 Wm. Whipper,J. I. Gaines
 Wm. Whipper,F. T. Newsome
@@ -9557,7 +8810,6 @@ Wm. Whipper,Augusta
 Wm. Whipper,Jesus
 Wm. Whipper,Christ
 Wm. Whipper,J. H. Wilson
-Wm. Whipper,M. D.
 Wm. Whipper,Henry Mckinney
 Wm. Whipper,Hale
 Wm. Whipper,Julian
@@ -9611,6 +8863,7 @@ Wm. Whipper,Cornet John Rolt
 Wm. Whipper,Lancaster
 Wm. Whipper,Glover
 Wm. Whipper,Lieutenants Robinson
+Wm. Whipper,Ensign Minty
 Wm. Whipper,Propontis
 Wm. Whipper,Dennett
 Wm. Whipper,Pears
@@ -9636,7 +8889,6 @@ C. Nell,T. G. Campbell
 C. Nell,Byrd Parker
 C. Nell,A. G. Beman
 C. Nell,Wm. C. Munroe
-C. Nell,P. M.
 C. Nell,Jehial C. Beman
 C. Nell,President-James W. C. Pennington
 C. Nell,James C. Mccrumbell
@@ -9667,6 +8919,7 @@ C. Nell,Martin Van Buren
 C. Nell,Ogden Edwards
 C. Nell,Ticonderoga
 C. Nell,Monroe
+C. Nell,Niles Register
 C. Nell,Wm. Eustis
 C. Nell,Morrill
 C. Nell,Charles Pinckney
@@ -9695,7 +8948,6 @@ C. Nell,T. G. Campbell A. H. Adams
 C. Nell,W. J. Watkins
 C. Nell,J. D. Bonner
 C. Nell,David H. Jackson
-C. Nell,A. N
 C. Nell,Freeman
 C. Nell,J. I. Gaines
 C. Nell,F. T. Newsome
@@ -9748,7 +9000,6 @@ C. Nell,Augusta
 C. Nell,Jesus
 C. Nell,Christ
 C. Nell,J. H. Wilson
-C. Nell,M. D.
 C. Nell,Henry Mckinney
 C. Nell,Hale
 C. Nell,Julian
@@ -9802,6 +9053,7 @@ C. Nell,Cornet John Rolt
 C. Nell,Lancaster
 C. Nell,Glover
 C. Nell,Lieutenants Robinson
+C. Nell,Ensign Minty
 C. Nell,Propontis
 C. Nell,Dennett
 C. Nell,Pears
@@ -9826,7 +9078,6 @@ David Jenkings,T. G. Campbell
 David Jenkings,Byrd Parker
 David Jenkings,A. G. Beman
 David Jenkings,Wm. C. Munroe
-David Jenkings,P. M.
 David Jenkings,Jehial C. Beman
 David Jenkings,President-James W. C. Pennington
 David Jenkings,James C. Mccrumbell
@@ -9857,6 +9108,7 @@ David Jenkings,Martin Van Buren
 David Jenkings,Ogden Edwards
 David Jenkings,Ticonderoga
 David Jenkings,Monroe
+David Jenkings,Niles Register
 David Jenkings,Wm. Eustis
 David Jenkings,Morrill
 David Jenkings,Charles Pinckney
@@ -9885,7 +9137,6 @@ David Jenkings,T. G. Campbell A. H. Adams
 David Jenkings,W. J. Watkins
 David Jenkings,J. D. Bonner
 David Jenkings,David H. Jackson
-David Jenkings,A. N
 David Jenkings,Freeman
 David Jenkings,J. I. Gaines
 David Jenkings,F. T. Newsome
@@ -9938,7 +9189,6 @@ David Jenkings,Augusta
 David Jenkings,Jesus
 David Jenkings,Christ
 David Jenkings,J. H. Wilson
-David Jenkings,M. D.
 David Jenkings,Henry Mckinney
 David Jenkings,Hale
 David Jenkings,Julian
@@ -9992,6 +9242,7 @@ David Jenkings,Cornet John Rolt
 David Jenkings,Lancaster
 David Jenkings,Glover
 David Jenkings,Lieutenants Robinson
+David Jenkings,Ensign Minty
 David Jenkings,Propontis
 David Jenkings,Dennett
 David Jenkings,Pears
@@ -10015,7 +9266,6 @@ L. A. Grimes,T. G. Campbell
 L. A. Grimes,Byrd Parker
 L. A. Grimes,A. G. Beman
 L. A. Grimes,Wm. C. Munroe
-L. A. Grimes,P. M.
 L. A. Grimes,Jehial C. Beman
 L. A. Grimes,President-James W. C. Pennington
 L. A. Grimes,James C. Mccrumbell
@@ -10046,6 +9296,7 @@ L. A. Grimes,Martin Van Buren
 L. A. Grimes,Ogden Edwards
 L. A. Grimes,Ticonderoga
 L. A. Grimes,Monroe
+L. A. Grimes,Niles Register
 L. A. Grimes,Wm. Eustis
 L. A. Grimes,Morrill
 L. A. Grimes,Charles Pinckney
@@ -10074,7 +9325,6 @@ L. A. Grimes,T. G. Campbell A. H. Adams
 L. A. Grimes,W. J. Watkins
 L. A. Grimes,J. D. Bonner
 L. A. Grimes,David H. Jackson
-L. A. Grimes,A. N
 L. A. Grimes,Freeman
 L. A. Grimes,J. I. Gaines
 L. A. Grimes,F. T. Newsome
@@ -10127,7 +9377,6 @@ L. A. Grimes,Augusta
 L. A. Grimes,Jesus
 L. A. Grimes,Christ
 L. A. Grimes,J. H. Wilson
-L. A. Grimes,M. D.
 L. A. Grimes,Henry Mckinney
 L. A. Grimes,Hale
 L. A. Grimes,Julian
@@ -10181,6 +9430,7 @@ L. A. Grimes,Cornet John Rolt
 L. A. Grimes,Lancaster
 L. A. Grimes,Glover
 L. A. Grimes,Lieutenants Robinson
+L. A. Grimes,Ensign Minty
 L. A. Grimes,Propontis
 L. A. Grimes,Dennett
 L. A. Grimes,Pears
@@ -10203,7 +9453,6 @@ Stephen Smith,T. G. Campbell
 Stephen Smith,Byrd Parker
 Stephen Smith,A. G. Beman
 Stephen Smith,Wm. C. Munroe
-Stephen Smith,P. M.
 Stephen Smith,Jehial C. Beman
 Stephen Smith,President-James W. C. Pennington
 Stephen Smith,James C. Mccrumbell
@@ -10234,6 +9483,7 @@ Stephen Smith,Martin Van Buren
 Stephen Smith,Ogden Edwards
 Stephen Smith,Ticonderoga
 Stephen Smith,Monroe
+Stephen Smith,Niles Register
 Stephen Smith,Wm. Eustis
 Stephen Smith,Morrill
 Stephen Smith,Charles Pinckney
@@ -10262,7 +9512,6 @@ Stephen Smith,T. G. Campbell A. H. Adams
 Stephen Smith,W. J. Watkins
 Stephen Smith,J. D. Bonner
 Stephen Smith,David H. Jackson
-Stephen Smith,A. N
 Stephen Smith,Freeman
 Stephen Smith,J. I. Gaines
 Stephen Smith,F. T. Newsome
@@ -10315,7 +9564,6 @@ Stephen Smith,Augusta
 Stephen Smith,Jesus
 Stephen Smith,Christ
 Stephen Smith,J. H. Wilson
-Stephen Smith,M. D.
 Stephen Smith,Henry Mckinney
 Stephen Smith,Hale
 Stephen Smith,Julian
@@ -10369,6 +9617,7 @@ Stephen Smith,Cornet John Rolt
 Stephen Smith,Lancaster
 Stephen Smith,Glover
 Stephen Smith,Lieutenants Robinson
+Stephen Smith,Ensign Minty
 Stephen Smith,Propontis
 Stephen Smith,Dennett
 Stephen Smith,Pears
@@ -10390,7 +9639,6 @@ Stephen Smith,J.W.C. Pennington
 T. G. Campbell,Byrd Parker
 T. G. Campbell,A. G. Beman
 T. G. Campbell,Wm. C. Munroe
-T. G. Campbell,P. M.
 T. G. Campbell,Jehial C. Beman
 T. G. Campbell,President-James W. C. Pennington
 T. G. Campbell,James C. Mccrumbell
@@ -10421,6 +9669,7 @@ T. G. Campbell,Martin Van Buren
 T. G. Campbell,Ogden Edwards
 T. G. Campbell,Ticonderoga
 T. G. Campbell,Monroe
+T. G. Campbell,Niles Register
 T. G. Campbell,Wm. Eustis
 T. G. Campbell,Morrill
 T. G. Campbell,Charles Pinckney
@@ -10449,7 +9698,6 @@ T. G. Campbell,T. G. Campbell A. H. Adams
 T. G. Campbell,W. J. Watkins
 T. G. Campbell,J. D. Bonner
 T. G. Campbell,David H. Jackson
-T. G. Campbell,A. N
 T. G. Campbell,Freeman
 T. G. Campbell,J. I. Gaines
 T. G. Campbell,F. T. Newsome
@@ -10502,7 +9750,6 @@ T. G. Campbell,Augusta
 T. G. Campbell,Jesus
 T. G. Campbell,Christ
 T. G. Campbell,J. H. Wilson
-T. G. Campbell,M. D.
 T. G. Campbell,Henry Mckinney
 T. G. Campbell,Hale
 T. G. Campbell,Julian
@@ -10556,6 +9803,7 @@ T. G. Campbell,Cornet John Rolt
 T. G. Campbell,Lancaster
 T. G. Campbell,Glover
 T. G. Campbell,Lieutenants Robinson
+T. G. Campbell,Ensign Minty
 T. G. Campbell,Propontis
 T. G. Campbell,Dennett
 T. G. Campbell,Pears
@@ -10576,7 +9824,6 @@ T. G. Campbell,Boombo
 T. G. Campbell,J.W.C. Pennington
 Byrd Parker,A. G. Beman
 Byrd Parker,Wm. C. Munroe
-Byrd Parker,P. M.
 Byrd Parker,Jehial C. Beman
 Byrd Parker,President-James W. C. Pennington
 Byrd Parker,James C. Mccrumbell
@@ -10607,6 +9854,7 @@ Byrd Parker,Martin Van Buren
 Byrd Parker,Ogden Edwards
 Byrd Parker,Ticonderoga
 Byrd Parker,Monroe
+Byrd Parker,Niles Register
 Byrd Parker,Wm. Eustis
 Byrd Parker,Morrill
 Byrd Parker,Charles Pinckney
@@ -10635,7 +9883,6 @@ Byrd Parker,T. G. Campbell A. H. Adams
 Byrd Parker,W. J. Watkins
 Byrd Parker,J. D. Bonner
 Byrd Parker,David H. Jackson
-Byrd Parker,A. N
 Byrd Parker,Freeman
 Byrd Parker,J. I. Gaines
 Byrd Parker,F. T. Newsome
@@ -10688,7 +9935,6 @@ Byrd Parker,Augusta
 Byrd Parker,Jesus
 Byrd Parker,Christ
 Byrd Parker,J. H. Wilson
-Byrd Parker,M. D.
 Byrd Parker,Henry Mckinney
 Byrd Parker,Hale
 Byrd Parker,Julian
@@ -10742,6 +9988,7 @@ Byrd Parker,Cornet John Rolt
 Byrd Parker,Lancaster
 Byrd Parker,Glover
 Byrd Parker,Lieutenants Robinson
+Byrd Parker,Ensign Minty
 Byrd Parker,Propontis
 Byrd Parker,Dennett
 Byrd Parker,Pears
@@ -10761,7 +10008,6 @@ Byrd Parker,King Boombo
 Byrd Parker,Boombo
 Byrd Parker,J.W.C. Pennington
 A. G. Beman,Wm. C. Munroe
-A. G. Beman,P. M.
 A. G. Beman,Jehial C. Beman
 A. G. Beman,President-James W. C. Pennington
 A. G. Beman,James C. Mccrumbell
@@ -10792,6 +10038,7 @@ A. G. Beman,Martin Van Buren
 A. G. Beman,Ogden Edwards
 A. G. Beman,Ticonderoga
 A. G. Beman,Monroe
+A. G. Beman,Niles Register
 A. G. Beman,Wm. Eustis
 A. G. Beman,Morrill
 A. G. Beman,Charles Pinckney
@@ -10820,7 +10067,6 @@ A. G. Beman,T. G. Campbell A. H. Adams
 A. G. Beman,W. J. Watkins
 A. G. Beman,J. D. Bonner
 A. G. Beman,David H. Jackson
-A. G. Beman,A. N
 A. G. Beman,Freeman
 A. G. Beman,J. I. Gaines
 A. G. Beman,F. T. Newsome
@@ -10873,7 +10119,6 @@ A. G. Beman,Augusta
 A. G. Beman,Jesus
 A. G. Beman,Christ
 A. G. Beman,J. H. Wilson
-A. G. Beman,M. D.
 A. G. Beman,Henry Mckinney
 A. G. Beman,Hale
 A. G. Beman,Julian
@@ -10927,6 +10172,7 @@ A. G. Beman,Cornet John Rolt
 A. G. Beman,Lancaster
 A. G. Beman,Glover
 A. G. Beman,Lieutenants Robinson
+A. G. Beman,Ensign Minty
 A. G. Beman,Propontis
 A. G. Beman,Dennett
 A. G. Beman,Pears
@@ -10945,7 +10191,6 @@ A. G. Beman,Roberts
 A. G. Beman,King Boombo
 A. G. Beman,Boombo
 A. G. Beman,J.W.C. Pennington
-Wm. C. Munroe,P. M.
 Wm. C. Munroe,Jehial C. Beman
 Wm. C. Munroe,President-James W. C. Pennington
 Wm. C. Munroe,James C. Mccrumbell
@@ -10976,6 +10221,7 @@ Wm. C. Munroe,Martin Van Buren
 Wm. C. Munroe,Ogden Edwards
 Wm. C. Munroe,Ticonderoga
 Wm. C. Munroe,Monroe
+Wm. C. Munroe,Niles Register
 Wm. C. Munroe,Wm. Eustis
 Wm. C. Munroe,Morrill
 Wm. C. Munroe,Charles Pinckney
@@ -11004,7 +10250,6 @@ Wm. C. Munroe,T. G. Campbell A. H. Adams
 Wm. C. Munroe,W. J. Watkins
 Wm. C. Munroe,J. D. Bonner
 Wm. C. Munroe,David H. Jackson
-Wm. C. Munroe,A. N
 Wm. C. Munroe,Freeman
 Wm. C. Munroe,J. I. Gaines
 Wm. C. Munroe,F. T. Newsome
@@ -11057,7 +10302,6 @@ Wm. C. Munroe,Augusta
 Wm. C. Munroe,Jesus
 Wm. C. Munroe,Christ
 Wm. C. Munroe,J. H. Wilson
-Wm. C. Munroe,M. D.
 Wm. C. Munroe,Henry Mckinney
 Wm. C. Munroe,Hale
 Wm. C. Munroe,Julian
@@ -11111,6 +10355,7 @@ Wm. C. Munroe,Cornet John Rolt
 Wm. C. Munroe,Lancaster
 Wm. C. Munroe,Glover
 Wm. C. Munroe,Lieutenants Robinson
+Wm. C. Munroe,Ensign Minty
 Wm. C. Munroe,Propontis
 Wm. C. Munroe,Dennett
 Wm. C. Munroe,Pears
@@ -11129,189 +10374,6 @@ Wm. C. Munroe,Roberts
 Wm. C. Munroe,King Boombo
 Wm. C. Munroe,Boombo
 Wm. C. Munroe,J.W.C. Pennington
-P. M.,Jehial C. Beman
-P. M.,President-James W. C. Pennington
-P. M.,James C. Mccrumbell
-P. M.,John B. Vashon
-P. M.,John Jones
-P. M.,Peter H. Clarke
-P. M.,Chas
-P. M.,B. Ray
-P. M.,Charles L. Reason
-P. M.,J. C. Mccrummell
-P. M.,C. H. Langston
-P. M.,J. C. Beman
-P. M.,Wm. C. Nell
-P. M.,C. Munroe
-P. M.,John J. Gaines
-P. M.,Horace B. Smith
-P. M.,Edward V. Clarke
-P. M.,A. N. Freeman
-P. M.,J. M. Whitfield
-P. M.,G. B. Vashon
-P. M.,Savior
-P. M.,Nathan Sandford
-P. M.,Robert Clark
-P. M.,Jay
-P. M.,Kent
-P. M.,Peter A. Jay
-P. M.,Martin Van Buren
-P. M.,Ogden Edwards
-P. M.,Ticonderoga
-P. M.,Monroe
-P. M.,Wm. Eustis
-P. M.,Morrill
-P. M.,Charles Pinckney
-P. M.,Jackson
-P. M.,Andrew Jackson
-P. M.,-- Niles
-P. M.,Thomas Butler
-P. M.,Aid-De-Camp
-P. M.,George B. Vashon
-P. M.,Wilson
-P. M.,Benjamin Templeton
-P. M.,Sumner
-P. M.,Wm. Wilson
-P. M.,William J. Wilson
-P. M.,William Whipper
-P. M.,J. Mccune Smith
-P. M.,Lewis Woodson
-P. M.,Payton Harris
-P. M.,J. N. Still
-P. M.,Uriah Boston
-P. M.,D. B. Bowser
-P. M.,J. Mercer Langston
-P. M.,M. M. Clark
-P. M.,A. M. Sumner
-P. M.,T. G. Campbell A. H. Adams
-P. M.,W. J. Watkins
-P. M.,J. D. Bonner
-P. M.,David H. Jackson
-P. M.,A. N
-P. M.,Freeman
-P. M.,J. I. Gaines
-P. M.,F. T. Newsome
-P. M.,W. C. Munroe
-P. M.,A. R. Green
-P. M.,Green
-P. M.,J. M. Langston
-P. M.,Gloster
-P. M.,Harris
-P. M.,J. G. Bowers
-P. M.,Downing
-P. M.,Gordon
-P. M.,Langston
-P. M.,G. T. Downing
-P. M.,Driver
-P. M.,Jenkins
-P. M.,George W. Clark
-P. M.,T. Downing
-P. M.,Boyd Parker
-P. M.,William H. Day
-P. M.,Day
-P. M.,James M'Cune Smith
-P. M.,M. F. Newsome
-P. M.,Cass
-P. M.,J. Wilson
-P. M.,Samuel Aaron
-P. M.,A. Dewey
-P. M.,H. O. Wagener
-P. M.,L. Tillman
-P. M.,Josephus Fowler
-P. M.,C. B. Ray
-P. M.,Pennington
-P. M.,Charles L. Remond
-P. M.,Bowser
-P. M.,Smith
-P. M.,Douglass
-P. M.,Walker
-P. M.,L. Woodson
-P. M.,Woodson
-P. M.,C. L. Reason
-P. M.,H. Langston
-P. M.,Stowe
-P. M.,Madam
-P. M.,Garnetts
-P. M.,Gerrit Smith
-P. M.,Garrison
-P. M.,William Lloyd Garrison
-P. M.,Dear Brethren
-P. M.,Augusta
-P. M.,Jesus
-P. M.,Christ
-P. M.,J. H. Wilson
-P. M.,M. D.
-P. M.,Henry Mckinney
-P. M.,Hale
-P. M.,Julian
-P. M.,Fugitive Bill
-P. M.,Wil
-P. M.,Mccrummel
-P. M.,G. M. Willis
-P. M.,R. D. Willis
-P. M.,Gaines
-P. M.,Whipper
-P. M.,Kenney
-P. M.,Joseph C. Holley
-P. M.,Parker
-P. M.,W. Whipper
-P. M.,Bradford King
-P. M.,T. Thomas
-P. M.,W. H. Channing
-P. M.,Francis Thompson
-P. M.,J. H. Hurley
-P. M.,J. W. Lewis
-P. M.,H. C. Smith
-P. M.,W. C. Nell
-P. M.,J. B. Sanderson
-P. M.,Abraham C. Rice
-P. M.,Jehiel C. Beeman
-P. M.,Amos G. Beeman
-P. M.,John Freeman
-P. M.,James D. Bonner
-P. M.,John T. Brittain
-P. M.,W. H. Day
-P. M.,W. C. Monroe
-P. M.,Holland
-P. M.,Boor
-P. M.,Booress
-P. M.,Stout
-P. M.,John Adams
-P. M.,Caffres
-P. M.,Stollz
-P. M.,Slambie
-P. M.,Islambi
-P. M.,Makanna
-P. M.,Kraals
-P. M.,Gaika
-P. M.,Dushani
-P. M.,Kongo
-P. M.,Cobden
-P. M.,R. Cobden
-P. M.,Joseph Sturge
-P. M.,Birkenhead
-P. M.,Cornet John Rolt
-P. M.,Lancaster
-P. M.,Glover
-P. M.,Lieutenants Robinson
-P. M.,Propontis
-P. M.,Dennett
-P. M.,Pears
-P. M.,Julius Caesar
-P. M.,Cathcart
-P. M.,John Bull
-P. M.,John
-P. M.,W. Mclain
-P. M.,Mclain
-P. M.,Anglo Saxon
-P. M.,Norman
-P. M.,Saxon
-P. M.,Heren
-P. M.,Lyon
-P. M.,Roberts
-P. M.,King Boombo
-P. M.,Boombo
-P. M.,J.W.C. Pennington
 Jehial C. Beman,President-James W. C. Pennington
 Jehial C. Beman,James C. Mccrumbell
 Jehial C. Beman,John B. Vashon
@@ -11341,6 +10403,7 @@ Jehial C. Beman,Martin Van Buren
 Jehial C. Beman,Ogden Edwards
 Jehial C. Beman,Ticonderoga
 Jehial C. Beman,Monroe
+Jehial C. Beman,Niles Register
 Jehial C. Beman,Wm. Eustis
 Jehial C. Beman,Morrill
 Jehial C. Beman,Charles Pinckney
@@ -11369,7 +10432,6 @@ Jehial C. Beman,T. G. Campbell A. H. Adams
 Jehial C. Beman,W. J. Watkins
 Jehial C. Beman,J. D. Bonner
 Jehial C. Beman,David H. Jackson
-Jehial C. Beman,A. N
 Jehial C. Beman,Freeman
 Jehial C. Beman,J. I. Gaines
 Jehial C. Beman,F. T. Newsome
@@ -11422,7 +10484,6 @@ Jehial C. Beman,Augusta
 Jehial C. Beman,Jesus
 Jehial C. Beman,Christ
 Jehial C. Beman,J. H. Wilson
-Jehial C. Beman,M. D.
 Jehial C. Beman,Henry Mckinney
 Jehial C. Beman,Hale
 Jehial C. Beman,Julian
@@ -11476,6 +10537,7 @@ Jehial C. Beman,Cornet John Rolt
 Jehial C. Beman,Lancaster
 Jehial C. Beman,Glover
 Jehial C. Beman,Lieutenants Robinson
+Jehial C. Beman,Ensign Minty
 Jehial C. Beman,Propontis
 Jehial C. Beman,Dennett
 Jehial C. Beman,Pears
@@ -11522,6 +10584,7 @@ President-James W. C. Pennington,Martin Van Buren
 President-James W. C. Pennington,Ogden Edwards
 President-James W. C. Pennington,Ticonderoga
 President-James W. C. Pennington,Monroe
+President-James W. C. Pennington,Niles Register
 President-James W. C. Pennington,Wm. Eustis
 President-James W. C. Pennington,Morrill
 President-James W. C. Pennington,Charles Pinckney
@@ -11550,7 +10613,6 @@ President-James W. C. Pennington,T. G. Campbell A. H. Adams
 President-James W. C. Pennington,W. J. Watkins
 President-James W. C. Pennington,J. D. Bonner
 President-James W. C. Pennington,David H. Jackson
-President-James W. C. Pennington,A. N
 President-James W. C. Pennington,Freeman
 President-James W. C. Pennington,J. I. Gaines
 President-James W. C. Pennington,F. T. Newsome
@@ -11603,7 +10665,6 @@ President-James W. C. Pennington,Augusta
 President-James W. C. Pennington,Jesus
 President-James W. C. Pennington,Christ
 President-James W. C. Pennington,J. H. Wilson
-President-James W. C. Pennington,M. D.
 President-James W. C. Pennington,Henry Mckinney
 President-James W. C. Pennington,Hale
 President-James W. C. Pennington,Julian
@@ -11657,6 +10718,7 @@ President-James W. C. Pennington,Cornet John Rolt
 President-James W. C. Pennington,Lancaster
 President-James W. C. Pennington,Glover
 President-James W. C. Pennington,Lieutenants Robinson
+President-James W. C. Pennington,Ensign Minty
 President-James W. C. Pennington,Propontis
 President-James W. C. Pennington,Dennett
 President-James W. C. Pennington,Pears
@@ -11702,6 +10764,7 @@ James C. Mccrumbell,Martin Van Buren
 James C. Mccrumbell,Ogden Edwards
 James C. Mccrumbell,Ticonderoga
 James C. Mccrumbell,Monroe
+James C. Mccrumbell,Niles Register
 James C. Mccrumbell,Wm. Eustis
 James C. Mccrumbell,Morrill
 James C. Mccrumbell,Charles Pinckney
@@ -11730,7 +10793,6 @@ James C. Mccrumbell,T. G. Campbell A. H. Adams
 James C. Mccrumbell,W. J. Watkins
 James C. Mccrumbell,J. D. Bonner
 James C. Mccrumbell,David H. Jackson
-James C. Mccrumbell,A. N
 James C. Mccrumbell,Freeman
 James C. Mccrumbell,J. I. Gaines
 James C. Mccrumbell,F. T. Newsome
@@ -11783,7 +10845,6 @@ James C. Mccrumbell,Augusta
 James C. Mccrumbell,Jesus
 James C. Mccrumbell,Christ
 James C. Mccrumbell,J. H. Wilson
-James C. Mccrumbell,M. D.
 James C. Mccrumbell,Henry Mckinney
 James C. Mccrumbell,Hale
 James C. Mccrumbell,Julian
@@ -11837,6 +10898,7 @@ James C. Mccrumbell,Cornet John Rolt
 James C. Mccrumbell,Lancaster
 James C. Mccrumbell,Glover
 James C. Mccrumbell,Lieutenants Robinson
+James C. Mccrumbell,Ensign Minty
 James C. Mccrumbell,Propontis
 James C. Mccrumbell,Dennett
 James C. Mccrumbell,Pears
@@ -11881,6 +10943,7 @@ John B. Vashon,Martin Van Buren
 John B. Vashon,Ogden Edwards
 John B. Vashon,Ticonderoga
 John B. Vashon,Monroe
+John B. Vashon,Niles Register
 John B. Vashon,Wm. Eustis
 John B. Vashon,Morrill
 John B. Vashon,Charles Pinckney
@@ -11909,7 +10972,6 @@ John B. Vashon,T. G. Campbell A. H. Adams
 John B. Vashon,W. J. Watkins
 John B. Vashon,J. D. Bonner
 John B. Vashon,David H. Jackson
-John B. Vashon,A. N
 John B. Vashon,Freeman
 John B. Vashon,J. I. Gaines
 John B. Vashon,F. T. Newsome
@@ -11962,7 +11024,6 @@ John B. Vashon,Augusta
 John B. Vashon,Jesus
 John B. Vashon,Christ
 John B. Vashon,J. H. Wilson
-John B. Vashon,M. D.
 John B. Vashon,Henry Mckinney
 John B. Vashon,Hale
 John B. Vashon,Julian
@@ -12016,6 +11077,7 @@ John B. Vashon,Cornet John Rolt
 John B. Vashon,Lancaster
 John B. Vashon,Glover
 John B. Vashon,Lieutenants Robinson
+John B. Vashon,Ensign Minty
 John B. Vashon,Propontis
 John B. Vashon,Dennett
 John B. Vashon,Pears
@@ -12059,6 +11121,7 @@ John Jones,Martin Van Buren
 John Jones,Ogden Edwards
 John Jones,Ticonderoga
 John Jones,Monroe
+John Jones,Niles Register
 John Jones,Wm. Eustis
 John Jones,Morrill
 John Jones,Charles Pinckney
@@ -12087,7 +11150,6 @@ John Jones,T. G. Campbell A. H. Adams
 John Jones,W. J. Watkins
 John Jones,J. D. Bonner
 John Jones,David H. Jackson
-John Jones,A. N
 John Jones,Freeman
 John Jones,J. I. Gaines
 John Jones,F. T. Newsome
@@ -12140,7 +11202,6 @@ John Jones,Augusta
 John Jones,Jesus
 John Jones,Christ
 John Jones,J. H. Wilson
-John Jones,M. D.
 John Jones,Henry Mckinney
 John Jones,Hale
 John Jones,Julian
@@ -12194,6 +11255,7 @@ John Jones,Cornet John Rolt
 John Jones,Lancaster
 John Jones,Glover
 John Jones,Lieutenants Robinson
+John Jones,Ensign Minty
 John Jones,Propontis
 John Jones,Dennett
 John Jones,Pears
@@ -12236,6 +11298,7 @@ Peter H. Clarke,Martin Van Buren
 Peter H. Clarke,Ogden Edwards
 Peter H. Clarke,Ticonderoga
 Peter H. Clarke,Monroe
+Peter H. Clarke,Niles Register
 Peter H. Clarke,Wm. Eustis
 Peter H. Clarke,Morrill
 Peter H. Clarke,Charles Pinckney
@@ -12264,7 +11327,6 @@ Peter H. Clarke,T. G. Campbell A. H. Adams
 Peter H. Clarke,W. J. Watkins
 Peter H. Clarke,J. D. Bonner
 Peter H. Clarke,David H. Jackson
-Peter H. Clarke,A. N
 Peter H. Clarke,Freeman
 Peter H. Clarke,J. I. Gaines
 Peter H. Clarke,F. T. Newsome
@@ -12317,7 +11379,6 @@ Peter H. Clarke,Augusta
 Peter H. Clarke,Jesus
 Peter H. Clarke,Christ
 Peter H. Clarke,J. H. Wilson
-Peter H. Clarke,M. D.
 Peter H. Clarke,Henry Mckinney
 Peter H. Clarke,Hale
 Peter H. Clarke,Julian
@@ -12371,6 +11432,7 @@ Peter H. Clarke,Cornet John Rolt
 Peter H. Clarke,Lancaster
 Peter H. Clarke,Glover
 Peter H. Clarke,Lieutenants Robinson
+Peter H. Clarke,Ensign Minty
 Peter H. Clarke,Propontis
 Peter H. Clarke,Dennett
 Peter H. Clarke,Pears
@@ -12412,6 +11474,7 @@ Chas,Martin Van Buren
 Chas,Ogden Edwards
 Chas,Ticonderoga
 Chas,Monroe
+Chas,Niles Register
 Chas,Wm. Eustis
 Chas,Morrill
 Chas,Charles Pinckney
@@ -12440,7 +11503,6 @@ Chas,T. G. Campbell A. H. Adams
 Chas,W. J. Watkins
 Chas,J. D. Bonner
 Chas,David H. Jackson
-Chas,A. N
 Chas,Freeman
 Chas,J. I. Gaines
 Chas,F. T. Newsome
@@ -12493,7 +11555,6 @@ Chas,Augusta
 Chas,Jesus
 Chas,Christ
 Chas,J. H. Wilson
-Chas,M. D.
 Chas,Henry Mckinney
 Chas,Hale
 Chas,Julian
@@ -12547,6 +11608,7 @@ Chas,Cornet John Rolt
 Chas,Lancaster
 Chas,Glover
 Chas,Lieutenants Robinson
+Chas,Ensign Minty
 Chas,Propontis
 Chas,Dennett
 Chas,Pears
@@ -12587,6 +11649,7 @@ B. Ray,Martin Van Buren
 B. Ray,Ogden Edwards
 B. Ray,Ticonderoga
 B. Ray,Monroe
+B. Ray,Niles Register
 B. Ray,Wm. Eustis
 B. Ray,Morrill
 B. Ray,Charles Pinckney
@@ -12615,7 +11678,6 @@ B. Ray,T. G. Campbell A. H. Adams
 B. Ray,W. J. Watkins
 B. Ray,J. D. Bonner
 B. Ray,David H. Jackson
-B. Ray,A. N
 B. Ray,Freeman
 B. Ray,J. I. Gaines
 B. Ray,F. T. Newsome
@@ -12668,7 +11730,6 @@ B. Ray,Augusta
 B. Ray,Jesus
 B. Ray,Christ
 B. Ray,J. H. Wilson
-B. Ray,M. D.
 B. Ray,Henry Mckinney
 B. Ray,Hale
 B. Ray,Julian
@@ -12722,6 +11783,7 @@ B. Ray,Cornet John Rolt
 B. Ray,Lancaster
 B. Ray,Glover
 B. Ray,Lieutenants Robinson
+B. Ray,Ensign Minty
 B. Ray,Propontis
 B. Ray,Dennett
 B. Ray,Pears
@@ -12761,6 +11823,7 @@ Charles L. Reason,Martin Van Buren
 Charles L. Reason,Ogden Edwards
 Charles L. Reason,Ticonderoga
 Charles L. Reason,Monroe
+Charles L. Reason,Niles Register
 Charles L. Reason,Wm. Eustis
 Charles L. Reason,Morrill
 Charles L. Reason,Charles Pinckney
@@ -12789,7 +11852,6 @@ Charles L. Reason,T. G. Campbell A. H. Adams
 Charles L. Reason,W. J. Watkins
 Charles L. Reason,J. D. Bonner
 Charles L. Reason,David H. Jackson
-Charles L. Reason,A. N
 Charles L. Reason,Freeman
 Charles L. Reason,J. I. Gaines
 Charles L. Reason,F. T. Newsome
@@ -12842,7 +11904,6 @@ Charles L. Reason,Augusta
 Charles L. Reason,Jesus
 Charles L. Reason,Christ
 Charles L. Reason,J. H. Wilson
-Charles L. Reason,M. D.
 Charles L. Reason,Henry Mckinney
 Charles L. Reason,Hale
 Charles L. Reason,Julian
@@ -12896,6 +11957,7 @@ Charles L. Reason,Cornet John Rolt
 Charles L. Reason,Lancaster
 Charles L. Reason,Glover
 Charles L. Reason,Lieutenants Robinson
+Charles L. Reason,Ensign Minty
 Charles L. Reason,Propontis
 Charles L. Reason,Dennett
 Charles L. Reason,Pears
@@ -12934,6 +11996,7 @@ J. C. Mccrummell,Martin Van Buren
 J. C. Mccrummell,Ogden Edwards
 J. C. Mccrummell,Ticonderoga
 J. C. Mccrummell,Monroe
+J. C. Mccrummell,Niles Register
 J. C. Mccrummell,Wm. Eustis
 J. C. Mccrummell,Morrill
 J. C. Mccrummell,Charles Pinckney
@@ -12962,7 +12025,6 @@ J. C. Mccrummell,T. G. Campbell A. H. Adams
 J. C. Mccrummell,W. J. Watkins
 J. C. Mccrummell,J. D. Bonner
 J. C. Mccrummell,David H. Jackson
-J. C. Mccrummell,A. N
 J. C. Mccrummell,Freeman
 J. C. Mccrummell,J. I. Gaines
 J. C. Mccrummell,F. T. Newsome
@@ -13015,7 +12077,6 @@ J. C. Mccrummell,Augusta
 J. C. Mccrummell,Jesus
 J. C. Mccrummell,Christ
 J. C. Mccrummell,J. H. Wilson
-J. C. Mccrummell,M. D.
 J. C. Mccrummell,Henry Mckinney
 J. C. Mccrummell,Hale
 J. C. Mccrummell,Julian
@@ -13069,6 +12130,7 @@ J. C. Mccrummell,Cornet John Rolt
 J. C. Mccrummell,Lancaster
 J. C. Mccrummell,Glover
 J. C. Mccrummell,Lieutenants Robinson
+J. C. Mccrummell,Ensign Minty
 J. C. Mccrummell,Propontis
 J. C. Mccrummell,Dennett
 J. C. Mccrummell,Pears
@@ -13106,6 +12168,7 @@ C. H. Langston,Martin Van Buren
 C. H. Langston,Ogden Edwards
 C. H. Langston,Ticonderoga
 C. H. Langston,Monroe
+C. H. Langston,Niles Register
 C. H. Langston,Wm. Eustis
 C. H. Langston,Morrill
 C. H. Langston,Charles Pinckney
@@ -13134,7 +12197,6 @@ C. H. Langston,T. G. Campbell A. H. Adams
 C. H. Langston,W. J. Watkins
 C. H. Langston,J. D. Bonner
 C. H. Langston,David H. Jackson
-C. H. Langston,A. N
 C. H. Langston,Freeman
 C. H. Langston,J. I. Gaines
 C. H. Langston,F. T. Newsome
@@ -13187,7 +12249,6 @@ C. H. Langston,Augusta
 C. H. Langston,Jesus
 C. H. Langston,Christ
 C. H. Langston,J. H. Wilson
-C. H. Langston,M. D.
 C. H. Langston,Henry Mckinney
 C. H. Langston,Hale
 C. H. Langston,Julian
@@ -13241,6 +12302,7 @@ C. H. Langston,Cornet John Rolt
 C. H. Langston,Lancaster
 C. H. Langston,Glover
 C. H. Langston,Lieutenants Robinson
+C. H. Langston,Ensign Minty
 C. H. Langston,Propontis
 C. H. Langston,Dennett
 C. H. Langston,Pears
@@ -13277,6 +12339,7 @@ J. C. Beman,Martin Van Buren
 J. C. Beman,Ogden Edwards
 J. C. Beman,Ticonderoga
 J. C. Beman,Monroe
+J. C. Beman,Niles Register
 J. C. Beman,Wm. Eustis
 J. C. Beman,Morrill
 J. C. Beman,Charles Pinckney
@@ -13305,7 +12368,6 @@ J. C. Beman,T. G. Campbell A. H. Adams
 J. C. Beman,W. J. Watkins
 J. C. Beman,J. D. Bonner
 J. C. Beman,David H. Jackson
-J. C. Beman,A. N
 J. C. Beman,Freeman
 J. C. Beman,J. I. Gaines
 J. C. Beman,F. T. Newsome
@@ -13358,7 +12420,6 @@ J. C. Beman,Augusta
 J. C. Beman,Jesus
 J. C. Beman,Christ
 J. C. Beman,J. H. Wilson
-J. C. Beman,M. D.
 J. C. Beman,Henry Mckinney
 J. C. Beman,Hale
 J. C. Beman,Julian
@@ -13412,6 +12473,7 @@ J. C. Beman,Cornet John Rolt
 J. C. Beman,Lancaster
 J. C. Beman,Glover
 J. C. Beman,Lieutenants Robinson
+J. C. Beman,Ensign Minty
 J. C. Beman,Propontis
 J. C. Beman,Dennett
 J. C. Beman,Pears
@@ -13447,6 +12509,7 @@ Wm. C. Nell,Martin Van Buren
 Wm. C. Nell,Ogden Edwards
 Wm. C. Nell,Ticonderoga
 Wm. C. Nell,Monroe
+Wm. C. Nell,Niles Register
 Wm. C. Nell,Wm. Eustis
 Wm. C. Nell,Morrill
 Wm. C. Nell,Charles Pinckney
@@ -13475,7 +12538,6 @@ Wm. C. Nell,T. G. Campbell A. H. Adams
 Wm. C. Nell,W. J. Watkins
 Wm. C. Nell,J. D. Bonner
 Wm. C. Nell,David H. Jackson
-Wm. C. Nell,A. N
 Wm. C. Nell,Freeman
 Wm. C. Nell,J. I. Gaines
 Wm. C. Nell,F. T. Newsome
@@ -13528,7 +12590,6 @@ Wm. C. Nell,Augusta
 Wm. C. Nell,Jesus
 Wm. C. Nell,Christ
 Wm. C. Nell,J. H. Wilson
-Wm. C. Nell,M. D.
 Wm. C. Nell,Henry Mckinney
 Wm. C. Nell,Hale
 Wm. C. Nell,Julian
@@ -13582,6 +12643,7 @@ Wm. C. Nell,Cornet John Rolt
 Wm. C. Nell,Lancaster
 Wm. C. Nell,Glover
 Wm. C. Nell,Lieutenants Robinson
+Wm. C. Nell,Ensign Minty
 Wm. C. Nell,Propontis
 Wm. C. Nell,Dennett
 Wm. C. Nell,Pears
@@ -13616,6 +12678,7 @@ C. Munroe,Martin Van Buren
 C. Munroe,Ogden Edwards
 C. Munroe,Ticonderoga
 C. Munroe,Monroe
+C. Munroe,Niles Register
 C. Munroe,Wm. Eustis
 C. Munroe,Morrill
 C. Munroe,Charles Pinckney
@@ -13644,7 +12707,6 @@ C. Munroe,T. G. Campbell A. H. Adams
 C. Munroe,W. J. Watkins
 C. Munroe,J. D. Bonner
 C. Munroe,David H. Jackson
-C. Munroe,A. N
 C. Munroe,Freeman
 C. Munroe,J. I. Gaines
 C. Munroe,F. T. Newsome
@@ -13697,7 +12759,6 @@ C. Munroe,Augusta
 C. Munroe,Jesus
 C. Munroe,Christ
 C. Munroe,J. H. Wilson
-C. Munroe,M. D.
 C. Munroe,Henry Mckinney
 C. Munroe,Hale
 C. Munroe,Julian
@@ -13751,6 +12812,7 @@ C. Munroe,Cornet John Rolt
 C. Munroe,Lancaster
 C. Munroe,Glover
 C. Munroe,Lieutenants Robinson
+C. Munroe,Ensign Minty
 C. Munroe,Propontis
 C. Munroe,Dennett
 C. Munroe,Pears
@@ -13784,6 +12846,7 @@ John J. Gaines,Martin Van Buren
 John J. Gaines,Ogden Edwards
 John J. Gaines,Ticonderoga
 John J. Gaines,Monroe
+John J. Gaines,Niles Register
 John J. Gaines,Wm. Eustis
 John J. Gaines,Morrill
 John J. Gaines,Charles Pinckney
@@ -13812,7 +12875,6 @@ John J. Gaines,T. G. Campbell A. H. Adams
 John J. Gaines,W. J. Watkins
 John J. Gaines,J. D. Bonner
 John J. Gaines,David H. Jackson
-John J. Gaines,A. N
 John J. Gaines,Freeman
 John J. Gaines,J. I. Gaines
 John J. Gaines,F. T. Newsome
@@ -13865,7 +12927,6 @@ John J. Gaines,Augusta
 John J. Gaines,Jesus
 John J. Gaines,Christ
 John J. Gaines,J. H. Wilson
-John J. Gaines,M. D.
 John J. Gaines,Henry Mckinney
 John J. Gaines,Hale
 John J. Gaines,Julian
@@ -13919,6 +12980,7 @@ John J. Gaines,Cornet John Rolt
 John J. Gaines,Lancaster
 John J. Gaines,Glover
 John J. Gaines,Lieutenants Robinson
+John J. Gaines,Ensign Minty
 John J. Gaines,Propontis
 John J. Gaines,Dennett
 John J. Gaines,Pears
@@ -13951,6 +13013,7 @@ Horace B. Smith,Martin Van Buren
 Horace B. Smith,Ogden Edwards
 Horace B. Smith,Ticonderoga
 Horace B. Smith,Monroe
+Horace B. Smith,Niles Register
 Horace B. Smith,Wm. Eustis
 Horace B. Smith,Morrill
 Horace B. Smith,Charles Pinckney
@@ -13979,7 +13042,6 @@ Horace B. Smith,T. G. Campbell A. H. Adams
 Horace B. Smith,W. J. Watkins
 Horace B. Smith,J. D. Bonner
 Horace B. Smith,David H. Jackson
-Horace B. Smith,A. N
 Horace B. Smith,Freeman
 Horace B. Smith,J. I. Gaines
 Horace B. Smith,F. T. Newsome
@@ -14032,7 +13094,6 @@ Horace B. Smith,Augusta
 Horace B. Smith,Jesus
 Horace B. Smith,Christ
 Horace B. Smith,J. H. Wilson
-Horace B. Smith,M. D.
 Horace B. Smith,Henry Mckinney
 Horace B. Smith,Hale
 Horace B. Smith,Julian
@@ -14086,6 +13147,7 @@ Horace B. Smith,Cornet John Rolt
 Horace B. Smith,Lancaster
 Horace B. Smith,Glover
 Horace B. Smith,Lieutenants Robinson
+Horace B. Smith,Ensign Minty
 Horace B. Smith,Propontis
 Horace B. Smith,Dennett
 Horace B. Smith,Pears
@@ -14117,6 +13179,7 @@ Edward V. Clarke,Martin Van Buren
 Edward V. Clarke,Ogden Edwards
 Edward V. Clarke,Ticonderoga
 Edward V. Clarke,Monroe
+Edward V. Clarke,Niles Register
 Edward V. Clarke,Wm. Eustis
 Edward V. Clarke,Morrill
 Edward V. Clarke,Charles Pinckney
@@ -14145,7 +13208,6 @@ Edward V. Clarke,T. G. Campbell A. H. Adams
 Edward V. Clarke,W. J. Watkins
 Edward V. Clarke,J. D. Bonner
 Edward V. Clarke,David H. Jackson
-Edward V. Clarke,A. N
 Edward V. Clarke,Freeman
 Edward V. Clarke,J. I. Gaines
 Edward V. Clarke,F. T. Newsome
@@ -14198,7 +13260,6 @@ Edward V. Clarke,Augusta
 Edward V. Clarke,Jesus
 Edward V. Clarke,Christ
 Edward V. Clarke,J. H. Wilson
-Edward V. Clarke,M. D.
 Edward V. Clarke,Henry Mckinney
 Edward V. Clarke,Hale
 Edward V. Clarke,Julian
@@ -14252,6 +13313,7 @@ Edward V. Clarke,Cornet John Rolt
 Edward V. Clarke,Lancaster
 Edward V. Clarke,Glover
 Edward V. Clarke,Lieutenants Robinson
+Edward V. Clarke,Ensign Minty
 Edward V. Clarke,Propontis
 Edward V. Clarke,Dennett
 Edward V. Clarke,Pears
@@ -14282,6 +13344,7 @@ A. N. Freeman,Martin Van Buren
 A. N. Freeman,Ogden Edwards
 A. N. Freeman,Ticonderoga
 A. N. Freeman,Monroe
+A. N. Freeman,Niles Register
 A. N. Freeman,Wm. Eustis
 A. N. Freeman,Morrill
 A. N. Freeman,Charles Pinckney
@@ -14310,7 +13373,6 @@ A. N. Freeman,T. G. Campbell A. H. Adams
 A. N. Freeman,W. J. Watkins
 A. N. Freeman,J. D. Bonner
 A. N. Freeman,David H. Jackson
-A. N. Freeman,A. N
 A. N. Freeman,Freeman
 A. N. Freeman,J. I. Gaines
 A. N. Freeman,F. T. Newsome
@@ -14363,7 +13425,6 @@ A. N. Freeman,Augusta
 A. N. Freeman,Jesus
 A. N. Freeman,Christ
 A. N. Freeman,J. H. Wilson
-A. N. Freeman,M. D.
 A. N. Freeman,Henry Mckinney
 A. N. Freeman,Hale
 A. N. Freeman,Julian
@@ -14417,6 +13478,7 @@ A. N. Freeman,Cornet John Rolt
 A. N. Freeman,Lancaster
 A. N. Freeman,Glover
 A. N. Freeman,Lieutenants Robinson
+A. N. Freeman,Ensign Minty
 A. N. Freeman,Propontis
 A. N. Freeman,Dennett
 A. N. Freeman,Pears
@@ -14446,6 +13508,7 @@ J. M. Whitfield,Martin Van Buren
 J. M. Whitfield,Ogden Edwards
 J. M. Whitfield,Ticonderoga
 J. M. Whitfield,Monroe
+J. M. Whitfield,Niles Register
 J. M. Whitfield,Wm. Eustis
 J. M. Whitfield,Morrill
 J. M. Whitfield,Charles Pinckney
@@ -14474,7 +13537,6 @@ J. M. Whitfield,T. G. Campbell A. H. Adams
 J. M. Whitfield,W. J. Watkins
 J. M. Whitfield,J. D. Bonner
 J. M. Whitfield,David H. Jackson
-J. M. Whitfield,A. N
 J. M. Whitfield,Freeman
 J. M. Whitfield,J. I. Gaines
 J. M. Whitfield,F. T. Newsome
@@ -14527,7 +13589,6 @@ J. M. Whitfield,Augusta
 J. M. Whitfield,Jesus
 J. M. Whitfield,Christ
 J. M. Whitfield,J. H. Wilson
-J. M. Whitfield,M. D.
 J. M. Whitfield,Henry Mckinney
 J. M. Whitfield,Hale
 J. M. Whitfield,Julian
@@ -14581,6 +13642,7 @@ J. M. Whitfield,Cornet John Rolt
 J. M. Whitfield,Lancaster
 J. M. Whitfield,Glover
 J. M. Whitfield,Lieutenants Robinson
+J. M. Whitfield,Ensign Minty
 J. M. Whitfield,Propontis
 J. M. Whitfield,Dennett
 J. M. Whitfield,Pears
@@ -14609,6 +13671,7 @@ G. B. Vashon,Martin Van Buren
 G. B. Vashon,Ogden Edwards
 G. B. Vashon,Ticonderoga
 G. B. Vashon,Monroe
+G. B. Vashon,Niles Register
 G. B. Vashon,Wm. Eustis
 G. B. Vashon,Morrill
 G. B. Vashon,Charles Pinckney
@@ -14637,7 +13700,6 @@ G. B. Vashon,T. G. Campbell A. H. Adams
 G. B. Vashon,W. J. Watkins
 G. B. Vashon,J. D. Bonner
 G. B. Vashon,David H. Jackson
-G. B. Vashon,A. N
 G. B. Vashon,Freeman
 G. B. Vashon,J. I. Gaines
 G. B. Vashon,F. T. Newsome
@@ -14690,7 +13752,6 @@ G. B. Vashon,Augusta
 G. B. Vashon,Jesus
 G. B. Vashon,Christ
 G. B. Vashon,J. H. Wilson
-G. B. Vashon,M. D.
 G. B. Vashon,Henry Mckinney
 G. B. Vashon,Hale
 G. B. Vashon,Julian
@@ -14744,6 +13805,7 @@ G. B. Vashon,Cornet John Rolt
 G. B. Vashon,Lancaster
 G. B. Vashon,Glover
 G. B. Vashon,Lieutenants Robinson
+G. B. Vashon,Ensign Minty
 G. B. Vashon,Propontis
 G. B. Vashon,Dennett
 G. B. Vashon,Pears
@@ -14771,6 +13833,7 @@ Savior,Martin Van Buren
 Savior,Ogden Edwards
 Savior,Ticonderoga
 Savior,Monroe
+Savior,Niles Register
 Savior,Wm. Eustis
 Savior,Morrill
 Savior,Charles Pinckney
@@ -14799,7 +13862,6 @@ Savior,T. G. Campbell A. H. Adams
 Savior,W. J. Watkins
 Savior,J. D. Bonner
 Savior,David H. Jackson
-Savior,A. N
 Savior,Freeman
 Savior,J. I. Gaines
 Savior,F. T. Newsome
@@ -14852,7 +13914,6 @@ Savior,Augusta
 Savior,Jesus
 Savior,Christ
 Savior,J. H. Wilson
-Savior,M. D.
 Savior,Henry Mckinney
 Savior,Hale
 Savior,Julian
@@ -14906,6 +13967,7 @@ Savior,Cornet John Rolt
 Savior,Lancaster
 Savior,Glover
 Savior,Lieutenants Robinson
+Savior,Ensign Minty
 Savior,Propontis
 Savior,Dennett
 Savior,Pears
@@ -14932,6 +13994,7 @@ Nathan Sandford,Martin Van Buren
 Nathan Sandford,Ogden Edwards
 Nathan Sandford,Ticonderoga
 Nathan Sandford,Monroe
+Nathan Sandford,Niles Register
 Nathan Sandford,Wm. Eustis
 Nathan Sandford,Morrill
 Nathan Sandford,Charles Pinckney
@@ -14960,7 +14023,6 @@ Nathan Sandford,T. G. Campbell A. H. Adams
 Nathan Sandford,W. J. Watkins
 Nathan Sandford,J. D. Bonner
 Nathan Sandford,David H. Jackson
-Nathan Sandford,A. N
 Nathan Sandford,Freeman
 Nathan Sandford,J. I. Gaines
 Nathan Sandford,F. T. Newsome
@@ -15013,7 +14075,6 @@ Nathan Sandford,Augusta
 Nathan Sandford,Jesus
 Nathan Sandford,Christ
 Nathan Sandford,J. H. Wilson
-Nathan Sandford,M. D.
 Nathan Sandford,Henry Mckinney
 Nathan Sandford,Hale
 Nathan Sandford,Julian
@@ -15067,6 +14128,7 @@ Nathan Sandford,Cornet John Rolt
 Nathan Sandford,Lancaster
 Nathan Sandford,Glover
 Nathan Sandford,Lieutenants Robinson
+Nathan Sandford,Ensign Minty
 Nathan Sandford,Propontis
 Nathan Sandford,Dennett
 Nathan Sandford,Pears
@@ -15092,6 +14154,7 @@ Robert Clark,Martin Van Buren
 Robert Clark,Ogden Edwards
 Robert Clark,Ticonderoga
 Robert Clark,Monroe
+Robert Clark,Niles Register
 Robert Clark,Wm. Eustis
 Robert Clark,Morrill
 Robert Clark,Charles Pinckney
@@ -15120,7 +14183,6 @@ Robert Clark,T. G. Campbell A. H. Adams
 Robert Clark,W. J. Watkins
 Robert Clark,J. D. Bonner
 Robert Clark,David H. Jackson
-Robert Clark,A. N
 Robert Clark,Freeman
 Robert Clark,J. I. Gaines
 Robert Clark,F. T. Newsome
@@ -15173,7 +14235,6 @@ Robert Clark,Augusta
 Robert Clark,Jesus
 Robert Clark,Christ
 Robert Clark,J. H. Wilson
-Robert Clark,M. D.
 Robert Clark,Henry Mckinney
 Robert Clark,Hale
 Robert Clark,Julian
@@ -15227,6 +14288,7 @@ Robert Clark,Cornet John Rolt
 Robert Clark,Lancaster
 Robert Clark,Glover
 Robert Clark,Lieutenants Robinson
+Robert Clark,Ensign Minty
 Robert Clark,Propontis
 Robert Clark,Dennett
 Robert Clark,Pears
@@ -15251,6 +14313,7 @@ Jay,Martin Van Buren
 Jay,Ogden Edwards
 Jay,Ticonderoga
 Jay,Monroe
+Jay,Niles Register
 Jay,Wm. Eustis
 Jay,Morrill
 Jay,Charles Pinckney
@@ -15279,7 +14342,6 @@ Jay,T. G. Campbell A. H. Adams
 Jay,W. J. Watkins
 Jay,J. D. Bonner
 Jay,David H. Jackson
-Jay,A. N
 Jay,Freeman
 Jay,J. I. Gaines
 Jay,F. T. Newsome
@@ -15332,7 +14394,6 @@ Jay,Augusta
 Jay,Jesus
 Jay,Christ
 Jay,J. H. Wilson
-Jay,M. D.
 Jay,Henry Mckinney
 Jay,Hale
 Jay,Julian
@@ -15386,6 +14447,7 @@ Jay,Cornet John Rolt
 Jay,Lancaster
 Jay,Glover
 Jay,Lieutenants Robinson
+Jay,Ensign Minty
 Jay,Propontis
 Jay,Dennett
 Jay,Pears
@@ -15409,6 +14471,7 @@ Kent,Martin Van Buren
 Kent,Ogden Edwards
 Kent,Ticonderoga
 Kent,Monroe
+Kent,Niles Register
 Kent,Wm. Eustis
 Kent,Morrill
 Kent,Charles Pinckney
@@ -15437,7 +14500,6 @@ Kent,T. G. Campbell A. H. Adams
 Kent,W. J. Watkins
 Kent,J. D. Bonner
 Kent,David H. Jackson
-Kent,A. N
 Kent,Freeman
 Kent,J. I. Gaines
 Kent,F. T. Newsome
@@ -15490,7 +14552,6 @@ Kent,Augusta
 Kent,Jesus
 Kent,Christ
 Kent,J. H. Wilson
-Kent,M. D.
 Kent,Henry Mckinney
 Kent,Hale
 Kent,Julian
@@ -15544,6 +14605,7 @@ Kent,Cornet John Rolt
 Kent,Lancaster
 Kent,Glover
 Kent,Lieutenants Robinson
+Kent,Ensign Minty
 Kent,Propontis
 Kent,Dennett
 Kent,Pears
@@ -15566,6 +14628,7 @@ Peter A. Jay,Martin Van Buren
 Peter A. Jay,Ogden Edwards
 Peter A. Jay,Ticonderoga
 Peter A. Jay,Monroe
+Peter A. Jay,Niles Register
 Peter A. Jay,Wm. Eustis
 Peter A. Jay,Morrill
 Peter A. Jay,Charles Pinckney
@@ -15594,7 +14657,6 @@ Peter A. Jay,T. G. Campbell A. H. Adams
 Peter A. Jay,W. J. Watkins
 Peter A. Jay,J. D. Bonner
 Peter A. Jay,David H. Jackson
-Peter A. Jay,A. N
 Peter A. Jay,Freeman
 Peter A. Jay,J. I. Gaines
 Peter A. Jay,F. T. Newsome
@@ -15647,7 +14709,6 @@ Peter A. Jay,Augusta
 Peter A. Jay,Jesus
 Peter A. Jay,Christ
 Peter A. Jay,J. H. Wilson
-Peter A. Jay,M. D.
 Peter A. Jay,Henry Mckinney
 Peter A. Jay,Hale
 Peter A. Jay,Julian
@@ -15701,6 +14762,7 @@ Peter A. Jay,Cornet John Rolt
 Peter A. Jay,Lancaster
 Peter A. Jay,Glover
 Peter A. Jay,Lieutenants Robinson
+Peter A. Jay,Ensign Minty
 Peter A. Jay,Propontis
 Peter A. Jay,Dennett
 Peter A. Jay,Pears
@@ -15722,6 +14784,7 @@ Peter A. Jay,J.W.C. Pennington
 Martin Van Buren,Ogden Edwards
 Martin Van Buren,Ticonderoga
 Martin Van Buren,Monroe
+Martin Van Buren,Niles Register
 Martin Van Buren,Wm. Eustis
 Martin Van Buren,Morrill
 Martin Van Buren,Charles Pinckney
@@ -15750,7 +14813,6 @@ Martin Van Buren,T. G. Campbell A. H. Adams
 Martin Van Buren,W. J. Watkins
 Martin Van Buren,J. D. Bonner
 Martin Van Buren,David H. Jackson
-Martin Van Buren,A. N
 Martin Van Buren,Freeman
 Martin Van Buren,J. I. Gaines
 Martin Van Buren,F. T. Newsome
@@ -15803,7 +14865,6 @@ Martin Van Buren,Augusta
 Martin Van Buren,Jesus
 Martin Van Buren,Christ
 Martin Van Buren,J. H. Wilson
-Martin Van Buren,M. D.
 Martin Van Buren,Henry Mckinney
 Martin Van Buren,Hale
 Martin Van Buren,Julian
@@ -15857,6 +14918,7 @@ Martin Van Buren,Cornet John Rolt
 Martin Van Buren,Lancaster
 Martin Van Buren,Glover
 Martin Van Buren,Lieutenants Robinson
+Martin Van Buren,Ensign Minty
 Martin Van Buren,Propontis
 Martin Van Buren,Dennett
 Martin Van Buren,Pears
@@ -15877,6 +14939,7 @@ Martin Van Buren,Boombo
 Martin Van Buren,J.W.C. Pennington
 Ogden Edwards,Ticonderoga
 Ogden Edwards,Monroe
+Ogden Edwards,Niles Register
 Ogden Edwards,Wm. Eustis
 Ogden Edwards,Morrill
 Ogden Edwards,Charles Pinckney
@@ -15905,7 +14968,6 @@ Ogden Edwards,T. G. Campbell A. H. Adams
 Ogden Edwards,W. J. Watkins
 Ogden Edwards,J. D. Bonner
 Ogden Edwards,David H. Jackson
-Ogden Edwards,A. N
 Ogden Edwards,Freeman
 Ogden Edwards,J. I. Gaines
 Ogden Edwards,F. T. Newsome
@@ -15958,7 +15020,6 @@ Ogden Edwards,Augusta
 Ogden Edwards,Jesus
 Ogden Edwards,Christ
 Ogden Edwards,J. H. Wilson
-Ogden Edwards,M. D.
 Ogden Edwards,Henry Mckinney
 Ogden Edwards,Hale
 Ogden Edwards,Julian
@@ -16012,6 +15073,7 @@ Ogden Edwards,Cornet John Rolt
 Ogden Edwards,Lancaster
 Ogden Edwards,Glover
 Ogden Edwards,Lieutenants Robinson
+Ogden Edwards,Ensign Minty
 Ogden Edwards,Propontis
 Ogden Edwards,Dennett
 Ogden Edwards,Pears
@@ -16031,6 +15093,7 @@ Ogden Edwards,King Boombo
 Ogden Edwards,Boombo
 Ogden Edwards,J.W.C. Pennington
 Ticonderoga,Monroe
+Ticonderoga,Niles Register
 Ticonderoga,Wm. Eustis
 Ticonderoga,Morrill
 Ticonderoga,Charles Pinckney
@@ -16059,7 +15122,6 @@ Ticonderoga,T. G. Campbell A. H. Adams
 Ticonderoga,W. J. Watkins
 Ticonderoga,J. D. Bonner
 Ticonderoga,David H. Jackson
-Ticonderoga,A. N
 Ticonderoga,Freeman
 Ticonderoga,J. I. Gaines
 Ticonderoga,F. T. Newsome
@@ -16112,7 +15174,6 @@ Ticonderoga,Augusta
 Ticonderoga,Jesus
 Ticonderoga,Christ
 Ticonderoga,J. H. Wilson
-Ticonderoga,M. D.
 Ticonderoga,Henry Mckinney
 Ticonderoga,Hale
 Ticonderoga,Julian
@@ -16166,6 +15227,7 @@ Ticonderoga,Cornet John Rolt
 Ticonderoga,Lancaster
 Ticonderoga,Glover
 Ticonderoga,Lieutenants Robinson
+Ticonderoga,Ensign Minty
 Ticonderoga,Propontis
 Ticonderoga,Dennett
 Ticonderoga,Pears
@@ -16184,6 +15246,7 @@ Ticonderoga,Roberts
 Ticonderoga,King Boombo
 Ticonderoga,Boombo
 Ticonderoga,J.W.C. Pennington
+Monroe,Niles Register
 Monroe,Wm. Eustis
 Monroe,Morrill
 Monroe,Charles Pinckney
@@ -16212,7 +15275,6 @@ Monroe,T. G. Campbell A. H. Adams
 Monroe,W. J. Watkins
 Monroe,J. D. Bonner
 Monroe,David H. Jackson
-Monroe,A. N
 Monroe,Freeman
 Monroe,J. I. Gaines
 Monroe,F. T. Newsome
@@ -16265,7 +15327,6 @@ Monroe,Augusta
 Monroe,Jesus
 Monroe,Christ
 Monroe,J. H. Wilson
-Monroe,M. D.
 Monroe,Henry Mckinney
 Monroe,Hale
 Monroe,Julian
@@ -16319,6 +15380,7 @@ Monroe,Cornet John Rolt
 Monroe,Lancaster
 Monroe,Glover
 Monroe,Lieutenants Robinson
+Monroe,Ensign Minty
 Monroe,Propontis
 Monroe,Dennett
 Monroe,Pears
@@ -16337,6 +15399,158 @@ Monroe,Roberts
 Monroe,King Boombo
 Monroe,Boombo
 Monroe,J.W.C. Pennington
+Niles Register,Wm. Eustis
+Niles Register,Morrill
+Niles Register,Charles Pinckney
+Niles Register,Jackson
+Niles Register,Andrew Jackson
+Niles Register,-- Niles
+Niles Register,Thomas Butler
+Niles Register,Aid-De-Camp
+Niles Register,George B. Vashon
+Niles Register,Wilson
+Niles Register,Benjamin Templeton
+Niles Register,Sumner
+Niles Register,Wm. Wilson
+Niles Register,William J. Wilson
+Niles Register,William Whipper
+Niles Register,J. Mccune Smith
+Niles Register,Lewis Woodson
+Niles Register,Payton Harris
+Niles Register,J. N. Still
+Niles Register,Uriah Boston
+Niles Register,D. B. Bowser
+Niles Register,J. Mercer Langston
+Niles Register,M. M. Clark
+Niles Register,A. M. Sumner
+Niles Register,T. G. Campbell A. H. Adams
+Niles Register,W. J. Watkins
+Niles Register,J. D. Bonner
+Niles Register,David H. Jackson
+Niles Register,Freeman
+Niles Register,J. I. Gaines
+Niles Register,F. T. Newsome
+Niles Register,W. C. Munroe
+Niles Register,A. R. Green
+Niles Register,Green
+Niles Register,J. M. Langston
+Niles Register,Gloster
+Niles Register,Harris
+Niles Register,J. G. Bowers
+Niles Register,Downing
+Niles Register,Gordon
+Niles Register,Langston
+Niles Register,G. T. Downing
+Niles Register,Driver
+Niles Register,Jenkins
+Niles Register,George W. Clark
+Niles Register,T. Downing
+Niles Register,Boyd Parker
+Niles Register,William H. Day
+Niles Register,Day
+Niles Register,James M'Cune Smith
+Niles Register,M. F. Newsome
+Niles Register,Cass
+Niles Register,J. Wilson
+Niles Register,Samuel Aaron
+Niles Register,A. Dewey
+Niles Register,H. O. Wagener
+Niles Register,L. Tillman
+Niles Register,Josephus Fowler
+Niles Register,C. B. Ray
+Niles Register,Pennington
+Niles Register,Charles L. Remond
+Niles Register,Bowser
+Niles Register,Smith
+Niles Register,Douglass
+Niles Register,Walker
+Niles Register,L. Woodson
+Niles Register,Woodson
+Niles Register,C. L. Reason
+Niles Register,H. Langston
+Niles Register,Stowe
+Niles Register,Madam
+Niles Register,Garnetts
+Niles Register,Gerrit Smith
+Niles Register,Garrison
+Niles Register,William Lloyd Garrison
+Niles Register,Dear Brethren
+Niles Register,Augusta
+Niles Register,Jesus
+Niles Register,Christ
+Niles Register,J. H. Wilson
+Niles Register,Henry Mckinney
+Niles Register,Hale
+Niles Register,Julian
+Niles Register,Fugitive Bill
+Niles Register,Wil
+Niles Register,Mccrummel
+Niles Register,G. M. Willis
+Niles Register,R. D. Willis
+Niles Register,Gaines
+Niles Register,Whipper
+Niles Register,Kenney
+Niles Register,Joseph C. Holley
+Niles Register,Parker
+Niles Register,W. Whipper
+Niles Register,Bradford King
+Niles Register,T. Thomas
+Niles Register,W. H. Channing
+Niles Register,Francis Thompson
+Niles Register,J. H. Hurley
+Niles Register,J. W. Lewis
+Niles Register,H. C. Smith
+Niles Register,W. C. Nell
+Niles Register,J. B. Sanderson
+Niles Register,Abraham C. Rice
+Niles Register,Jehiel C. Beeman
+Niles Register,Amos G. Beeman
+Niles Register,John Freeman
+Niles Register,James D. Bonner
+Niles Register,John T. Brittain
+Niles Register,W. H. Day
+Niles Register,W. C. Monroe
+Niles Register,Holland
+Niles Register,Boor
+Niles Register,Booress
+Niles Register,Stout
+Niles Register,John Adams
+Niles Register,Caffres
+Niles Register,Stollz
+Niles Register,Slambie
+Niles Register,Islambi
+Niles Register,Makanna
+Niles Register,Kraals
+Niles Register,Gaika
+Niles Register,Dushani
+Niles Register,Kongo
+Niles Register,Cobden
+Niles Register,R. Cobden
+Niles Register,Joseph Sturge
+Niles Register,Birkenhead
+Niles Register,Cornet John Rolt
+Niles Register,Lancaster
+Niles Register,Glover
+Niles Register,Lieutenants Robinson
+Niles Register,Ensign Minty
+Niles Register,Propontis
+Niles Register,Dennett
+Niles Register,Pears
+Niles Register,Julius Caesar
+Niles Register,Cathcart
+Niles Register,John Bull
+Niles Register,John
+Niles Register,W. Mclain
+Niles Register,Mclain
+Niles Register,Anglo Saxon
+Niles Register,Norman
+Niles Register,Saxon
+Niles Register,Heren
+Niles Register,Lyon
+Niles Register,Roberts
+Niles Register,King Boombo
+Niles Register,Boombo
+Niles Register,J.W.C. Pennington
 Wm. Eustis,Morrill
 Wm. Eustis,Charles Pinckney
 Wm. Eustis,Jackson
@@ -16364,7 +15578,6 @@ Wm. Eustis,T. G. Campbell A. H. Adams
 Wm. Eustis,W. J. Watkins
 Wm. Eustis,J. D. Bonner
 Wm. Eustis,David H. Jackson
-Wm. Eustis,A. N
 Wm. Eustis,Freeman
 Wm. Eustis,J. I. Gaines
 Wm. Eustis,F. T. Newsome
@@ -16417,7 +15630,6 @@ Wm. Eustis,Augusta
 Wm. Eustis,Jesus
 Wm. Eustis,Christ
 Wm. Eustis,J. H. Wilson
-Wm. Eustis,M. D.
 Wm. Eustis,Henry Mckinney
 Wm. Eustis,Hale
 Wm. Eustis,Julian
@@ -16471,6 +15683,7 @@ Wm. Eustis,Cornet John Rolt
 Wm. Eustis,Lancaster
 Wm. Eustis,Glover
 Wm. Eustis,Lieutenants Robinson
+Wm. Eustis,Ensign Minty
 Wm. Eustis,Propontis
 Wm. Eustis,Dennett
 Wm. Eustis,Pears
@@ -16515,7 +15728,6 @@ Morrill,T. G. Campbell A. H. Adams
 Morrill,W. J. Watkins
 Morrill,J. D. Bonner
 Morrill,David H. Jackson
-Morrill,A. N
 Morrill,Freeman
 Morrill,J. I. Gaines
 Morrill,F. T. Newsome
@@ -16568,7 +15780,6 @@ Morrill,Augusta
 Morrill,Jesus
 Morrill,Christ
 Morrill,J. H. Wilson
-Morrill,M. D.
 Morrill,Henry Mckinney
 Morrill,Hale
 Morrill,Julian
@@ -16622,6 +15833,7 @@ Morrill,Cornet John Rolt
 Morrill,Lancaster
 Morrill,Glover
 Morrill,Lieutenants Robinson
+Morrill,Ensign Minty
 Morrill,Propontis
 Morrill,Dennett
 Morrill,Pears
@@ -16665,7 +15877,6 @@ Charles Pinckney,T. G. Campbell A. H. Adams
 Charles Pinckney,W. J. Watkins
 Charles Pinckney,J. D. Bonner
 Charles Pinckney,David H. Jackson
-Charles Pinckney,A. N
 Charles Pinckney,Freeman
 Charles Pinckney,J. I. Gaines
 Charles Pinckney,F. T. Newsome
@@ -16718,7 +15929,6 @@ Charles Pinckney,Augusta
 Charles Pinckney,Jesus
 Charles Pinckney,Christ
 Charles Pinckney,J. H. Wilson
-Charles Pinckney,M. D.
 Charles Pinckney,Henry Mckinney
 Charles Pinckney,Hale
 Charles Pinckney,Julian
@@ -16772,6 +15982,7 @@ Charles Pinckney,Cornet John Rolt
 Charles Pinckney,Lancaster
 Charles Pinckney,Glover
 Charles Pinckney,Lieutenants Robinson
+Charles Pinckney,Ensign Minty
 Charles Pinckney,Propontis
 Charles Pinckney,Dennett
 Charles Pinckney,Pears
@@ -16814,7 +16025,6 @@ Jackson,T. G. Campbell A. H. Adams
 Jackson,W. J. Watkins
 Jackson,J. D. Bonner
 Jackson,David H. Jackson
-Jackson,A. N
 Jackson,Freeman
 Jackson,J. I. Gaines
 Jackson,F. T. Newsome
@@ -16867,7 +16077,6 @@ Jackson,Augusta
 Jackson,Jesus
 Jackson,Christ
 Jackson,J. H. Wilson
-Jackson,M. D.
 Jackson,Henry Mckinney
 Jackson,Hale
 Jackson,Julian
@@ -16921,6 +16130,7 @@ Jackson,Cornet John Rolt
 Jackson,Lancaster
 Jackson,Glover
 Jackson,Lieutenants Robinson
+Jackson,Ensign Minty
 Jackson,Propontis
 Jackson,Dennett
 Jackson,Pears
@@ -16962,7 +16172,6 @@ Andrew Jackson,T. G. Campbell A. H. Adams
 Andrew Jackson,W. J. Watkins
 Andrew Jackson,J. D. Bonner
 Andrew Jackson,David H. Jackson
-Andrew Jackson,A. N
 Andrew Jackson,Freeman
 Andrew Jackson,J. I. Gaines
 Andrew Jackson,F. T. Newsome
@@ -17015,7 +16224,6 @@ Andrew Jackson,Augusta
 Andrew Jackson,Jesus
 Andrew Jackson,Christ
 Andrew Jackson,J. H. Wilson
-Andrew Jackson,M. D.
 Andrew Jackson,Henry Mckinney
 Andrew Jackson,Hale
 Andrew Jackson,Julian
@@ -17069,6 +16277,7 @@ Andrew Jackson,Cornet John Rolt
 Andrew Jackson,Lancaster
 Andrew Jackson,Glover
 Andrew Jackson,Lieutenants Robinson
+Andrew Jackson,Ensign Minty
 Andrew Jackson,Propontis
 Andrew Jackson,Dennett
 Andrew Jackson,Pears
@@ -17109,7 +16318,6 @@ Andrew Jackson,J.W.C. Pennington
 -- Niles,W. J. Watkins
 -- Niles,J. D. Bonner
 -- Niles,David H. Jackson
--- Niles,A. N
 -- Niles,Freeman
 -- Niles,J. I. Gaines
 -- Niles,F. T. Newsome
@@ -17162,7 +16370,6 @@ Andrew Jackson,J.W.C. Pennington
 -- Niles,Jesus
 -- Niles,Christ
 -- Niles,J. H. Wilson
--- Niles,M. D.
 -- Niles,Henry Mckinney
 -- Niles,Hale
 -- Niles,Julian
@@ -17216,6 +16423,7 @@ Andrew Jackson,J.W.C. Pennington
 -- Niles,Lancaster
 -- Niles,Glover
 -- Niles,Lieutenants Robinson
+-- Niles,Ensign Minty
 -- Niles,Propontis
 -- Niles,Dennett
 -- Niles,Pears
@@ -17255,7 +16463,6 @@ Thomas Butler,T. G. Campbell A. H. Adams
 Thomas Butler,W. J. Watkins
 Thomas Butler,J. D. Bonner
 Thomas Butler,David H. Jackson
-Thomas Butler,A. N
 Thomas Butler,Freeman
 Thomas Butler,J. I. Gaines
 Thomas Butler,F. T. Newsome
@@ -17308,7 +16515,6 @@ Thomas Butler,Augusta
 Thomas Butler,Jesus
 Thomas Butler,Christ
 Thomas Butler,J. H. Wilson
-Thomas Butler,M. D.
 Thomas Butler,Henry Mckinney
 Thomas Butler,Hale
 Thomas Butler,Julian
@@ -17362,6 +16568,7 @@ Thomas Butler,Cornet John Rolt
 Thomas Butler,Lancaster
 Thomas Butler,Glover
 Thomas Butler,Lieutenants Robinson
+Thomas Butler,Ensign Minty
 Thomas Butler,Propontis
 Thomas Butler,Dennett
 Thomas Butler,Pears
@@ -17400,7 +16607,6 @@ Aid-De-Camp,T. G. Campbell A. H. Adams
 Aid-De-Camp,W. J. Watkins
 Aid-De-Camp,J. D. Bonner
 Aid-De-Camp,David H. Jackson
-Aid-De-Camp,A. N
 Aid-De-Camp,Freeman
 Aid-De-Camp,J. I. Gaines
 Aid-De-Camp,F. T. Newsome
@@ -17453,7 +16659,6 @@ Aid-De-Camp,Augusta
 Aid-De-Camp,Jesus
 Aid-De-Camp,Christ
 Aid-De-Camp,J. H. Wilson
-Aid-De-Camp,M. D.
 Aid-De-Camp,Henry Mckinney
 Aid-De-Camp,Hale
 Aid-De-Camp,Julian
@@ -17507,6 +16712,7 @@ Aid-De-Camp,Cornet John Rolt
 Aid-De-Camp,Lancaster
 Aid-De-Camp,Glover
 Aid-De-Camp,Lieutenants Robinson
+Aid-De-Camp,Ensign Minty
 Aid-De-Camp,Propontis
 Aid-De-Camp,Dennett
 Aid-De-Camp,Pears
@@ -17544,7 +16750,6 @@ George B. Vashon,T. G. Campbell A. H. Adams
 George B. Vashon,W. J. Watkins
 George B. Vashon,J. D. Bonner
 George B. Vashon,David H. Jackson
-George B. Vashon,A. N
 George B. Vashon,Freeman
 George B. Vashon,J. I. Gaines
 George B. Vashon,F. T. Newsome
@@ -17597,7 +16802,6 @@ George B. Vashon,Augusta
 George B. Vashon,Jesus
 George B. Vashon,Christ
 George B. Vashon,J. H. Wilson
-George B. Vashon,M. D.
 George B. Vashon,Henry Mckinney
 George B. Vashon,Hale
 George B. Vashon,Julian
@@ -17651,6 +16855,7 @@ George B. Vashon,Cornet John Rolt
 George B. Vashon,Lancaster
 George B. Vashon,Glover
 George B. Vashon,Lieutenants Robinson
+George B. Vashon,Ensign Minty
 George B. Vashon,Propontis
 George B. Vashon,Dennett
 George B. Vashon,Pears
@@ -17687,7 +16892,6 @@ Wilson,T. G. Campbell A. H. Adams
 Wilson,W. J. Watkins
 Wilson,J. D. Bonner
 Wilson,David H. Jackson
-Wilson,A. N
 Wilson,Freeman
 Wilson,J. I. Gaines
 Wilson,F. T. Newsome
@@ -17740,7 +16944,6 @@ Wilson,Augusta
 Wilson,Jesus
 Wilson,Christ
 Wilson,J. H. Wilson
-Wilson,M. D.
 Wilson,Henry Mckinney
 Wilson,Hale
 Wilson,Julian
@@ -17794,6 +16997,7 @@ Wilson,Cornet John Rolt
 Wilson,Lancaster
 Wilson,Glover
 Wilson,Lieutenants Robinson
+Wilson,Ensign Minty
 Wilson,Propontis
 Wilson,Dennett
 Wilson,Pears
@@ -17829,7 +17033,6 @@ Benjamin Templeton,T. G. Campbell A. H. Adams
 Benjamin Templeton,W. J. Watkins
 Benjamin Templeton,J. D. Bonner
 Benjamin Templeton,David H. Jackson
-Benjamin Templeton,A. N
 Benjamin Templeton,Freeman
 Benjamin Templeton,J. I. Gaines
 Benjamin Templeton,F. T. Newsome
@@ -17882,7 +17085,6 @@ Benjamin Templeton,Augusta
 Benjamin Templeton,Jesus
 Benjamin Templeton,Christ
 Benjamin Templeton,J. H. Wilson
-Benjamin Templeton,M. D.
 Benjamin Templeton,Henry Mckinney
 Benjamin Templeton,Hale
 Benjamin Templeton,Julian
@@ -17936,6 +17138,7 @@ Benjamin Templeton,Cornet John Rolt
 Benjamin Templeton,Lancaster
 Benjamin Templeton,Glover
 Benjamin Templeton,Lieutenants Robinson
+Benjamin Templeton,Ensign Minty
 Benjamin Templeton,Propontis
 Benjamin Templeton,Dennett
 Benjamin Templeton,Pears
@@ -17970,7 +17173,6 @@ Sumner,T. G. Campbell A. H. Adams
 Sumner,W. J. Watkins
 Sumner,J. D. Bonner
 Sumner,David H. Jackson
-Sumner,A. N
 Sumner,Freeman
 Sumner,J. I. Gaines
 Sumner,F. T. Newsome
@@ -18023,7 +17225,6 @@ Sumner,Augusta
 Sumner,Jesus
 Sumner,Christ
 Sumner,J. H. Wilson
-Sumner,M. D.
 Sumner,Henry Mckinney
 Sumner,Hale
 Sumner,Julian
@@ -18077,6 +17278,7 @@ Sumner,Cornet John Rolt
 Sumner,Lancaster
 Sumner,Glover
 Sumner,Lieutenants Robinson
+Sumner,Ensign Minty
 Sumner,Propontis
 Sumner,Dennett
 Sumner,Pears
@@ -18110,7 +17312,6 @@ Wm. Wilson,T. G. Campbell A. H. Adams
 Wm. Wilson,W. J. Watkins
 Wm. Wilson,J. D. Bonner
 Wm. Wilson,David H. Jackson
-Wm. Wilson,A. N
 Wm. Wilson,Freeman
 Wm. Wilson,J. I. Gaines
 Wm. Wilson,F. T. Newsome
@@ -18163,7 +17364,6 @@ Wm. Wilson,Augusta
 Wm. Wilson,Jesus
 Wm. Wilson,Christ
 Wm. Wilson,J. H. Wilson
-Wm. Wilson,M. D.
 Wm. Wilson,Henry Mckinney
 Wm. Wilson,Hale
 Wm. Wilson,Julian
@@ -18217,6 +17417,7 @@ Wm. Wilson,Cornet John Rolt
 Wm. Wilson,Lancaster
 Wm. Wilson,Glover
 Wm. Wilson,Lieutenants Robinson
+Wm. Wilson,Ensign Minty
 Wm. Wilson,Propontis
 Wm. Wilson,Dennett
 Wm. Wilson,Pears
@@ -18249,7 +17450,6 @@ William J. Wilson,T. G. Campbell A. H. Adams
 William J. Wilson,W. J. Watkins
 William J. Wilson,J. D. Bonner
 William J. Wilson,David H. Jackson
-William J. Wilson,A. N
 William J. Wilson,Freeman
 William J. Wilson,J. I. Gaines
 William J. Wilson,F. T. Newsome
@@ -18302,7 +17502,6 @@ William J. Wilson,Augusta
 William J. Wilson,Jesus
 William J. Wilson,Christ
 William J. Wilson,J. H. Wilson
-William J. Wilson,M. D.
 William J. Wilson,Henry Mckinney
 William J. Wilson,Hale
 William J. Wilson,Julian
@@ -18356,6 +17555,7 @@ William J. Wilson,Cornet John Rolt
 William J. Wilson,Lancaster
 William J. Wilson,Glover
 William J. Wilson,Lieutenants Robinson
+William J. Wilson,Ensign Minty
 William J. Wilson,Propontis
 William J. Wilson,Dennett
 William J. Wilson,Pears
@@ -18387,7 +17587,6 @@ William Whipper,T. G. Campbell A. H. Adams
 William Whipper,W. J. Watkins
 William Whipper,J. D. Bonner
 William Whipper,David H. Jackson
-William Whipper,A. N
 William Whipper,Freeman
 William Whipper,J. I. Gaines
 William Whipper,F. T. Newsome
@@ -18440,7 +17639,6 @@ William Whipper,Augusta
 William Whipper,Jesus
 William Whipper,Christ
 William Whipper,J. H. Wilson
-William Whipper,M. D.
 William Whipper,Henry Mckinney
 William Whipper,Hale
 William Whipper,Julian
@@ -18494,6 +17692,7 @@ William Whipper,Cornet John Rolt
 William Whipper,Lancaster
 William Whipper,Glover
 William Whipper,Lieutenants Robinson
+William Whipper,Ensign Minty
 William Whipper,Propontis
 William Whipper,Dennett
 William Whipper,Pears
@@ -18524,7 +17723,6 @@ J. Mccune Smith,T. G. Campbell A. H. Adams
 J. Mccune Smith,W. J. Watkins
 J. Mccune Smith,J. D. Bonner
 J. Mccune Smith,David H. Jackson
-J. Mccune Smith,A. N
 J. Mccune Smith,Freeman
 J. Mccune Smith,J. I. Gaines
 J. Mccune Smith,F. T. Newsome
@@ -18577,7 +17775,6 @@ J. Mccune Smith,Augusta
 J. Mccune Smith,Jesus
 J. Mccune Smith,Christ
 J. Mccune Smith,J. H. Wilson
-J. Mccune Smith,M. D.
 J. Mccune Smith,Henry Mckinney
 J. Mccune Smith,Hale
 J. Mccune Smith,Julian
@@ -18631,6 +17828,7 @@ J. Mccune Smith,Cornet John Rolt
 J. Mccune Smith,Lancaster
 J. Mccune Smith,Glover
 J. Mccune Smith,Lieutenants Robinson
+J. Mccune Smith,Ensign Minty
 J. Mccune Smith,Propontis
 J. Mccune Smith,Dennett
 J. Mccune Smith,Pears
@@ -18660,7 +17858,6 @@ Lewis Woodson,T. G. Campbell A. H. Adams
 Lewis Woodson,W. J. Watkins
 Lewis Woodson,J. D. Bonner
 Lewis Woodson,David H. Jackson
-Lewis Woodson,A. N
 Lewis Woodson,Freeman
 Lewis Woodson,J. I. Gaines
 Lewis Woodson,F. T. Newsome
@@ -18713,7 +17910,6 @@ Lewis Woodson,Augusta
 Lewis Woodson,Jesus
 Lewis Woodson,Christ
 Lewis Woodson,J. H. Wilson
-Lewis Woodson,M. D.
 Lewis Woodson,Henry Mckinney
 Lewis Woodson,Hale
 Lewis Woodson,Julian
@@ -18767,6 +17963,7 @@ Lewis Woodson,Cornet John Rolt
 Lewis Woodson,Lancaster
 Lewis Woodson,Glover
 Lewis Woodson,Lieutenants Robinson
+Lewis Woodson,Ensign Minty
 Lewis Woodson,Propontis
 Lewis Woodson,Dennett
 Lewis Woodson,Pears
@@ -18795,7 +17992,6 @@ Payton Harris,T. G. Campbell A. H. Adams
 Payton Harris,W. J. Watkins
 Payton Harris,J. D. Bonner
 Payton Harris,David H. Jackson
-Payton Harris,A. N
 Payton Harris,Freeman
 Payton Harris,J. I. Gaines
 Payton Harris,F. T. Newsome
@@ -18848,7 +18044,6 @@ Payton Harris,Augusta
 Payton Harris,Jesus
 Payton Harris,Christ
 Payton Harris,J. H. Wilson
-Payton Harris,M. D.
 Payton Harris,Henry Mckinney
 Payton Harris,Hale
 Payton Harris,Julian
@@ -18902,6 +18097,7 @@ Payton Harris,Cornet John Rolt
 Payton Harris,Lancaster
 Payton Harris,Glover
 Payton Harris,Lieutenants Robinson
+Payton Harris,Ensign Minty
 Payton Harris,Propontis
 Payton Harris,Dennett
 Payton Harris,Pears
@@ -18929,7 +18125,6 @@ J. N. Still,T. G. Campbell A. H. Adams
 J. N. Still,W. J. Watkins
 J. N. Still,J. D. Bonner
 J. N. Still,David H. Jackson
-J. N. Still,A. N
 J. N. Still,Freeman
 J. N. Still,J. I. Gaines
 J. N. Still,F. T. Newsome
@@ -18982,7 +18177,6 @@ J. N. Still,Augusta
 J. N. Still,Jesus
 J. N. Still,Christ
 J. N. Still,J. H. Wilson
-J. N. Still,M. D.
 J. N. Still,Henry Mckinney
 J. N. Still,Hale
 J. N. Still,Julian
@@ -19036,6 +18230,7 @@ J. N. Still,Cornet John Rolt
 J. N. Still,Lancaster
 J. N. Still,Glover
 J. N. Still,Lieutenants Robinson
+J. N. Still,Ensign Minty
 J. N. Still,Propontis
 J. N. Still,Dennett
 J. N. Still,Pears
@@ -19062,7 +18257,6 @@ Uriah Boston,T. G. Campbell A. H. Adams
 Uriah Boston,W. J. Watkins
 Uriah Boston,J. D. Bonner
 Uriah Boston,David H. Jackson
-Uriah Boston,A. N
 Uriah Boston,Freeman
 Uriah Boston,J. I. Gaines
 Uriah Boston,F. T. Newsome
@@ -19115,7 +18309,6 @@ Uriah Boston,Augusta
 Uriah Boston,Jesus
 Uriah Boston,Christ
 Uriah Boston,J. H. Wilson
-Uriah Boston,M. D.
 Uriah Boston,Henry Mckinney
 Uriah Boston,Hale
 Uriah Boston,Julian
@@ -19169,6 +18362,7 @@ Uriah Boston,Cornet John Rolt
 Uriah Boston,Lancaster
 Uriah Boston,Glover
 Uriah Boston,Lieutenants Robinson
+Uriah Boston,Ensign Minty
 Uriah Boston,Propontis
 Uriah Boston,Dennett
 Uriah Boston,Pears
@@ -19194,7 +18388,6 @@ D. B. Bowser,T. G. Campbell A. H. Adams
 D. B. Bowser,W. J. Watkins
 D. B. Bowser,J. D. Bonner
 D. B. Bowser,David H. Jackson
-D. B. Bowser,A. N
 D. B. Bowser,Freeman
 D. B. Bowser,J. I. Gaines
 D. B. Bowser,F. T. Newsome
@@ -19247,7 +18440,6 @@ D. B. Bowser,Augusta
 D. B. Bowser,Jesus
 D. B. Bowser,Christ
 D. B. Bowser,J. H. Wilson
-D. B. Bowser,M. D.
 D. B. Bowser,Henry Mckinney
 D. B. Bowser,Hale
 D. B. Bowser,Julian
@@ -19301,6 +18493,7 @@ D. B. Bowser,Cornet John Rolt
 D. B. Bowser,Lancaster
 D. B. Bowser,Glover
 D. B. Bowser,Lieutenants Robinson
+D. B. Bowser,Ensign Minty
 D. B. Bowser,Propontis
 D. B. Bowser,Dennett
 D. B. Bowser,Pears
@@ -19325,7 +18518,6 @@ J. Mercer Langston,T. G. Campbell A. H. Adams
 J. Mercer Langston,W. J. Watkins
 J. Mercer Langston,J. D. Bonner
 J. Mercer Langston,David H. Jackson
-J. Mercer Langston,A. N
 J. Mercer Langston,Freeman
 J. Mercer Langston,J. I. Gaines
 J. Mercer Langston,F. T. Newsome
@@ -19378,7 +18570,6 @@ J. Mercer Langston,Augusta
 J. Mercer Langston,Jesus
 J. Mercer Langston,Christ
 J. Mercer Langston,J. H. Wilson
-J. Mercer Langston,M. D.
 J. Mercer Langston,Henry Mckinney
 J. Mercer Langston,Hale
 J. Mercer Langston,Julian
@@ -19432,6 +18623,7 @@ J. Mercer Langston,Cornet John Rolt
 J. Mercer Langston,Lancaster
 J. Mercer Langston,Glover
 J. Mercer Langston,Lieutenants Robinson
+J. Mercer Langston,Ensign Minty
 J. Mercer Langston,Propontis
 J. Mercer Langston,Dennett
 J. Mercer Langston,Pears
@@ -19455,7 +18647,6 @@ M. M. Clark,T. G. Campbell A. H. Adams
 M. M. Clark,W. J. Watkins
 M. M. Clark,J. D. Bonner
 M. M. Clark,David H. Jackson
-M. M. Clark,A. N
 M. M. Clark,Freeman
 M. M. Clark,J. I. Gaines
 M. M. Clark,F. T. Newsome
@@ -19508,7 +18699,6 @@ M. M. Clark,Augusta
 M. M. Clark,Jesus
 M. M. Clark,Christ
 M. M. Clark,J. H. Wilson
-M. M. Clark,M. D.
 M. M. Clark,Henry Mckinney
 M. M. Clark,Hale
 M. M. Clark,Julian
@@ -19562,6 +18752,7 @@ M. M. Clark,Cornet John Rolt
 M. M. Clark,Lancaster
 M. M. Clark,Glover
 M. M. Clark,Lieutenants Robinson
+M. M. Clark,Ensign Minty
 M. M. Clark,Propontis
 M. M. Clark,Dennett
 M. M. Clark,Pears
@@ -19584,7 +18775,6 @@ A. M. Sumner,T. G. Campbell A. H. Adams
 A. M. Sumner,W. J. Watkins
 A. M. Sumner,J. D. Bonner
 A. M. Sumner,David H. Jackson
-A. M. Sumner,A. N
 A. M. Sumner,Freeman
 A. M. Sumner,J. I. Gaines
 A. M. Sumner,F. T. Newsome
@@ -19637,7 +18827,6 @@ A. M. Sumner,Augusta
 A. M. Sumner,Jesus
 A. M. Sumner,Christ
 A. M. Sumner,J. H. Wilson
-A. M. Sumner,M. D.
 A. M. Sumner,Henry Mckinney
 A. M. Sumner,Hale
 A. M. Sumner,Julian
@@ -19691,6 +18880,7 @@ A. M. Sumner,Cornet John Rolt
 A. M. Sumner,Lancaster
 A. M. Sumner,Glover
 A. M. Sumner,Lieutenants Robinson
+A. M. Sumner,Ensign Minty
 A. M. Sumner,Propontis
 A. M. Sumner,Dennett
 A. M. Sumner,Pears
@@ -19712,7 +18902,6 @@ A. M. Sumner,J.W.C. Pennington
 T. G. Campbell A. H. Adams,W. J. Watkins
 T. G. Campbell A. H. Adams,J. D. Bonner
 T. G. Campbell A. H. Adams,David H. Jackson
-T. G. Campbell A. H. Adams,A. N
 T. G. Campbell A. H. Adams,Freeman
 T. G. Campbell A. H. Adams,J. I. Gaines
 T. G. Campbell A. H. Adams,F. T. Newsome
@@ -19765,7 +18954,6 @@ T. G. Campbell A. H. Adams,Augusta
 T. G. Campbell A. H. Adams,Jesus
 T. G. Campbell A. H. Adams,Christ
 T. G. Campbell A. H. Adams,J. H. Wilson
-T. G. Campbell A. H. Adams,M. D.
 T. G. Campbell A. H. Adams,Henry Mckinney
 T. G. Campbell A. H. Adams,Hale
 T. G. Campbell A. H. Adams,Julian
@@ -19819,6 +19007,7 @@ T. G. Campbell A. H. Adams,Cornet John Rolt
 T. G. Campbell A. H. Adams,Lancaster
 T. G. Campbell A. H. Adams,Glover
 T. G. Campbell A. H. Adams,Lieutenants Robinson
+T. G. Campbell A. H. Adams,Ensign Minty
 T. G. Campbell A. H. Adams,Propontis
 T. G. Campbell A. H. Adams,Dennett
 T. G. Campbell A. H. Adams,Pears
@@ -19839,7 +19028,6 @@ T. G. Campbell A. H. Adams,Boombo
 T. G. Campbell A. H. Adams,J.W.C. Pennington
 W. J. Watkins,J. D. Bonner
 W. J. Watkins,David H. Jackson
-W. J. Watkins,A. N
 W. J. Watkins,Freeman
 W. J. Watkins,J. I. Gaines
 W. J. Watkins,F. T. Newsome
@@ -19892,7 +19080,6 @@ W. J. Watkins,Augusta
 W. J. Watkins,Jesus
 W. J. Watkins,Christ
 W. J. Watkins,J. H. Wilson
-W. J. Watkins,M. D.
 W. J. Watkins,Henry Mckinney
 W. J. Watkins,Hale
 W. J. Watkins,Julian
@@ -19946,6 +19133,7 @@ W. J. Watkins,Cornet John Rolt
 W. J. Watkins,Lancaster
 W. J. Watkins,Glover
 W. J. Watkins,Lieutenants Robinson
+W. J. Watkins,Ensign Minty
 W. J. Watkins,Propontis
 W. J. Watkins,Dennett
 W. J. Watkins,Pears
@@ -19965,7 +19153,6 @@ W. J. Watkins,King Boombo
 W. J. Watkins,Boombo
 W. J. Watkins,J.W.C. Pennington
 J. D. Bonner,David H. Jackson
-J. D. Bonner,A. N
 J. D. Bonner,Freeman
 J. D. Bonner,J. I. Gaines
 J. D. Bonner,F. T. Newsome
@@ -20018,7 +19205,6 @@ J. D. Bonner,Augusta
 J. D. Bonner,Jesus
 J. D. Bonner,Christ
 J. D. Bonner,J. H. Wilson
-J. D. Bonner,M. D.
 J. D. Bonner,Henry Mckinney
 J. D. Bonner,Hale
 J. D. Bonner,Julian
@@ -20072,6 +19258,7 @@ J. D. Bonner,Cornet John Rolt
 J. D. Bonner,Lancaster
 J. D. Bonner,Glover
 J. D. Bonner,Lieutenants Robinson
+J. D. Bonner,Ensign Minty
 J. D. Bonner,Propontis
 J. D. Bonner,Dennett
 J. D. Bonner,Pears
@@ -20090,7 +19277,6 @@ J. D. Bonner,Roberts
 J. D. Bonner,King Boombo
 J. D. Bonner,Boombo
 J. D. Bonner,J.W.C. Pennington
-David H. Jackson,A. N
 David H. Jackson,Freeman
 David H. Jackson,J. I. Gaines
 David H. Jackson,F. T. Newsome
@@ -20143,7 +19329,6 @@ David H. Jackson,Augusta
 David H. Jackson,Jesus
 David H. Jackson,Christ
 David H. Jackson,J. H. Wilson
-David H. Jackson,M. D.
 David H. Jackson,Henry Mckinney
 David H. Jackson,Hale
 David H. Jackson,Julian
@@ -20197,6 +19382,7 @@ David H. Jackson,Cornet John Rolt
 David H. Jackson,Lancaster
 David H. Jackson,Glover
 David H. Jackson,Lieutenants Robinson
+David H. Jackson,Ensign Minty
 David H. Jackson,Propontis
 David H. Jackson,Dennett
 David H. Jackson,Pears
@@ -20215,130 +19401,6 @@ David H. Jackson,Roberts
 David H. Jackson,King Boombo
 David H. Jackson,Boombo
 David H. Jackson,J.W.C. Pennington
-A. N,Freeman
-A. N,J. I. Gaines
-A. N,F. T. Newsome
-A. N,W. C. Munroe
-A. N,A. R. Green
-A. N,Green
-A. N,J. M. Langston
-A. N,Gloster
-A. N,Harris
-A. N,J. G. Bowers
-A. N,Downing
-A. N,Gordon
-A. N,Langston
-A. N,G. T. Downing
-A. N,Driver
-A. N,Jenkins
-A. N,George W. Clark
-A. N,T. Downing
-A. N,Boyd Parker
-A. N,William H. Day
-A. N,Day
-A. N,James M'Cune Smith
-A. N,M. F. Newsome
-A. N,Cass
-A. N,J. Wilson
-A. N,Samuel Aaron
-A. N,A. Dewey
-A. N,H. O. Wagener
-A. N,L. Tillman
-A. N,Josephus Fowler
-A. N,C. B. Ray
-A. N,Pennington
-A. N,Charles L. Remond
-A. N,Bowser
-A. N,Smith
-A. N,Douglass
-A. N,Walker
-A. N,L. Woodson
-A. N,Woodson
-A. N,C. L. Reason
-A. N,H. Langston
-A. N,Stowe
-A. N,Madam
-A. N,Garnetts
-A. N,Gerrit Smith
-A. N,Garrison
-A. N,William Lloyd Garrison
-A. N,Dear Brethren
-A. N,Augusta
-A. N,Jesus
-A. N,Christ
-A. N,J. H. Wilson
-A. N,M. D.
-A. N,Henry Mckinney
-A. N,Hale
-A. N,Julian
-A. N,Fugitive Bill
-A. N,Wil
-A. N,Mccrummel
-A. N,G. M. Willis
-A. N,R. D. Willis
-A. N,Gaines
-A. N,Whipper
-A. N,Kenney
-A. N,Joseph C. Holley
-A. N,Parker
-A. N,W. Whipper
-A. N,Bradford King
-A. N,T. Thomas
-A. N,W. H. Channing
-A. N,Francis Thompson
-A. N,J. H. Hurley
-A. N,J. W. Lewis
-A. N,H. C. Smith
-A. N,W. C. Nell
-A. N,J. B. Sanderson
-A. N,Abraham C. Rice
-A. N,Jehiel C. Beeman
-A. N,Amos G. Beeman
-A. N,John Freeman
-A. N,James D. Bonner
-A. N,John T. Brittain
-A. N,W. H. Day
-A. N,W. C. Monroe
-A. N,Holland
-A. N,Boor
-A. N,Booress
-A. N,Stout
-A. N,John Adams
-A. N,Caffres
-A. N,Stollz
-A. N,Slambie
-A. N,Islambi
-A. N,Makanna
-A. N,Kraals
-A. N,Gaika
-A. N,Dushani
-A. N,Kongo
-A. N,Cobden
-A. N,R. Cobden
-A. N,Joseph Sturge
-A. N,Birkenhead
-A. N,Cornet John Rolt
-A. N,Lancaster
-A. N,Glover
-A. N,Lieutenants Robinson
-A. N,Propontis
-A. N,Dennett
-A. N,Pears
-A. N,Julius Caesar
-A. N,Cathcart
-A. N,John Bull
-A. N,John
-A. N,W. Mclain
-A. N,Mclain
-A. N,Anglo Saxon
-A. N,Norman
-A. N,Saxon
-A. N,Heren
-A. N,Lyon
-A. N,Roberts
-A. N,King Boombo
-A. N,Boombo
-A. N,J.W.C. Pennington
 Freeman,J. I. Gaines
 Freeman,F. T. Newsome
 Freeman,W. C. Munroe
@@ -20390,7 +19452,6 @@ Freeman,Augusta
 Freeman,Jesus
 Freeman,Christ
 Freeman,J. H. Wilson
-Freeman,M. D.
 Freeman,Henry Mckinney
 Freeman,Hale
 Freeman,Julian
@@ -20444,6 +19505,7 @@ Freeman,Cornet John Rolt
 Freeman,Lancaster
 Freeman,Glover
 Freeman,Lieutenants Robinson
+Freeman,Ensign Minty
 Freeman,Propontis
 Freeman,Dennett
 Freeman,Pears
@@ -20512,7 +19574,6 @@ J. I. Gaines,Augusta
 J. I. Gaines,Jesus
 J. I. Gaines,Christ
 J. I. Gaines,J. H. Wilson
-J. I. Gaines,M. D.
 J. I. Gaines,Henry Mckinney
 J. I. Gaines,Hale
 J. I. Gaines,Julian
@@ -20566,6 +19627,7 @@ J. I. Gaines,Cornet John Rolt
 J. I. Gaines,Lancaster
 J. I. Gaines,Glover
 J. I. Gaines,Lieutenants Robinson
+J. I. Gaines,Ensign Minty
 J. I. Gaines,Propontis
 J. I. Gaines,Dennett
 J. I. Gaines,Pears
@@ -20633,7 +19695,6 @@ F. T. Newsome,Augusta
 F. T. Newsome,Jesus
 F. T. Newsome,Christ
 F. T. Newsome,J. H. Wilson
-F. T. Newsome,M. D.
 F. T. Newsome,Henry Mckinney
 F. T. Newsome,Hale
 F. T. Newsome,Julian
@@ -20687,6 +19748,7 @@ F. T. Newsome,Cornet John Rolt
 F. T. Newsome,Lancaster
 F. T. Newsome,Glover
 F. T. Newsome,Lieutenants Robinson
+F. T. Newsome,Ensign Minty
 F. T. Newsome,Propontis
 F. T. Newsome,Dennett
 F. T. Newsome,Pears
@@ -20753,7 +19815,6 @@ W. C. Munroe,Augusta
 W. C. Munroe,Jesus
 W. C. Munroe,Christ
 W. C. Munroe,J. H. Wilson
-W. C. Munroe,M. D.
 W. C. Munroe,Henry Mckinney
 W. C. Munroe,Hale
 W. C. Munroe,Julian
@@ -20807,6 +19868,7 @@ W. C. Munroe,Cornet John Rolt
 W. C. Munroe,Lancaster
 W. C. Munroe,Glover
 W. C. Munroe,Lieutenants Robinson
+W. C. Munroe,Ensign Minty
 W. C. Munroe,Propontis
 W. C. Munroe,Dennett
 W. C. Munroe,Pears
@@ -20872,7 +19934,6 @@ A. R. Green,Augusta
 A. R. Green,Jesus
 A. R. Green,Christ
 A. R. Green,J. H. Wilson
-A. R. Green,M. D.
 A. R. Green,Henry Mckinney
 A. R. Green,Hale
 A. R. Green,Julian
@@ -20926,6 +19987,7 @@ A. R. Green,Cornet John Rolt
 A. R. Green,Lancaster
 A. R. Green,Glover
 A. R. Green,Lieutenants Robinson
+A. R. Green,Ensign Minty
 A. R. Green,Propontis
 A. R. Green,Dennett
 A. R. Green,Pears
@@ -20990,7 +20052,6 @@ Green,Augusta
 Green,Jesus
 Green,Christ
 Green,J. H. Wilson
-Green,M. D.
 Green,Henry Mckinney
 Green,Hale
 Green,Julian
@@ -21044,6 +20105,7 @@ Green,Cornet John Rolt
 Green,Lancaster
 Green,Glover
 Green,Lieutenants Robinson
+Green,Ensign Minty
 Green,Propontis
 Green,Dennett
 Green,Pears
@@ -21107,7 +20169,6 @@ J. M. Langston,Augusta
 J. M. Langston,Jesus
 J. M. Langston,Christ
 J. M. Langston,J. H. Wilson
-J. M. Langston,M. D.
 J. M. Langston,Henry Mckinney
 J. M. Langston,Hale
 J. M. Langston,Julian
@@ -21161,6 +20222,7 @@ J. M. Langston,Cornet John Rolt
 J. M. Langston,Lancaster
 J. M. Langston,Glover
 J. M. Langston,Lieutenants Robinson
+J. M. Langston,Ensign Minty
 J. M. Langston,Propontis
 J. M. Langston,Dennett
 J. M. Langston,Pears
@@ -21223,7 +20285,6 @@ Gloster,Augusta
 Gloster,Jesus
 Gloster,Christ
 Gloster,J. H. Wilson
-Gloster,M. D.
 Gloster,Henry Mckinney
 Gloster,Hale
 Gloster,Julian
@@ -21277,6 +20338,7 @@ Gloster,Cornet John Rolt
 Gloster,Lancaster
 Gloster,Glover
 Gloster,Lieutenants Robinson
+Gloster,Ensign Minty
 Gloster,Propontis
 Gloster,Dennett
 Gloster,Pears
@@ -21338,7 +20400,6 @@ Harris,Augusta
 Harris,Jesus
 Harris,Christ
 Harris,J. H. Wilson
-Harris,M. D.
 Harris,Henry Mckinney
 Harris,Hale
 Harris,Julian
@@ -21392,6 +20453,7 @@ Harris,Cornet John Rolt
 Harris,Lancaster
 Harris,Glover
 Harris,Lieutenants Robinson
+Harris,Ensign Minty
 Harris,Propontis
 Harris,Dennett
 Harris,Pears
@@ -21452,7 +20514,6 @@ J. G. Bowers,Augusta
 J. G. Bowers,Jesus
 J. G. Bowers,Christ
 J. G. Bowers,J. H. Wilson
-J. G. Bowers,M. D.
 J. G. Bowers,Henry Mckinney
 J. G. Bowers,Hale
 J. G. Bowers,Julian
@@ -21506,6 +20567,7 @@ J. G. Bowers,Cornet John Rolt
 J. G. Bowers,Lancaster
 J. G. Bowers,Glover
 J. G. Bowers,Lieutenants Robinson
+J. G. Bowers,Ensign Minty
 J. G. Bowers,Propontis
 J. G. Bowers,Dennett
 J. G. Bowers,Pears
@@ -21565,7 +20627,6 @@ Downing,Augusta
 Downing,Jesus
 Downing,Christ
 Downing,J. H. Wilson
-Downing,M. D.
 Downing,Henry Mckinney
 Downing,Hale
 Downing,Julian
@@ -21619,6 +20680,7 @@ Downing,Cornet John Rolt
 Downing,Lancaster
 Downing,Glover
 Downing,Lieutenants Robinson
+Downing,Ensign Minty
 Downing,Propontis
 Downing,Dennett
 Downing,Pears
@@ -21677,7 +20739,6 @@ Gordon,Augusta
 Gordon,Jesus
 Gordon,Christ
 Gordon,J. H. Wilson
-Gordon,M. D.
 Gordon,Henry Mckinney
 Gordon,Hale
 Gordon,Julian
@@ -21731,6 +20792,7 @@ Gordon,Cornet John Rolt
 Gordon,Lancaster
 Gordon,Glover
 Gordon,Lieutenants Robinson
+Gordon,Ensign Minty
 Gordon,Propontis
 Gordon,Dennett
 Gordon,Pears
@@ -21788,7 +20850,6 @@ Langston,Augusta
 Langston,Jesus
 Langston,Christ
 Langston,J. H. Wilson
-Langston,M. D.
 Langston,Henry Mckinney
 Langston,Hale
 Langston,Julian
@@ -21842,6 +20903,7 @@ Langston,Cornet John Rolt
 Langston,Lancaster
 Langston,Glover
 Langston,Lieutenants Robinson
+Langston,Ensign Minty
 Langston,Propontis
 Langston,Dennett
 Langston,Pears
@@ -21898,7 +20960,6 @@ G. T. Downing,Augusta
 G. T. Downing,Jesus
 G. T. Downing,Christ
 G. T. Downing,J. H. Wilson
-G. T. Downing,M. D.
 G. T. Downing,Henry Mckinney
 G. T. Downing,Hale
 G. T. Downing,Julian
@@ -21952,6 +21013,7 @@ G. T. Downing,Cornet John Rolt
 G. T. Downing,Lancaster
 G. T. Downing,Glover
 G. T. Downing,Lieutenants Robinson
+G. T. Downing,Ensign Minty
 G. T. Downing,Propontis
 G. T. Downing,Dennett
 G. T. Downing,Pears
@@ -22007,7 +21069,6 @@ Driver,Augusta
 Driver,Jesus
 Driver,Christ
 Driver,J. H. Wilson
-Driver,M. D.
 Driver,Henry Mckinney
 Driver,Hale
 Driver,Julian
@@ -22061,6 +21122,7 @@ Driver,Cornet John Rolt
 Driver,Lancaster
 Driver,Glover
 Driver,Lieutenants Robinson
+Driver,Ensign Minty
 Driver,Propontis
 Driver,Dennett
 Driver,Pears
@@ -22115,7 +21177,6 @@ Jenkins,Augusta
 Jenkins,Jesus
 Jenkins,Christ
 Jenkins,J. H. Wilson
-Jenkins,M. D.
 Jenkins,Henry Mckinney
 Jenkins,Hale
 Jenkins,Julian
@@ -22169,6 +21230,7 @@ Jenkins,Cornet John Rolt
 Jenkins,Lancaster
 Jenkins,Glover
 Jenkins,Lieutenants Robinson
+Jenkins,Ensign Minty
 Jenkins,Propontis
 Jenkins,Dennett
 Jenkins,Pears
@@ -22222,7 +21284,6 @@ George W. Clark,Augusta
 George W. Clark,Jesus
 George W. Clark,Christ
 George W. Clark,J. H. Wilson
-George W. Clark,M. D.
 George W. Clark,Henry Mckinney
 George W. Clark,Hale
 George W. Clark,Julian
@@ -22276,6 +21337,7 @@ George W. Clark,Cornet John Rolt
 George W. Clark,Lancaster
 George W. Clark,Glover
 George W. Clark,Lieutenants Robinson
+George W. Clark,Ensign Minty
 George W. Clark,Propontis
 George W. Clark,Dennett
 George W. Clark,Pears
@@ -22328,7 +21390,6 @@ T. Downing,Augusta
 T. Downing,Jesus
 T. Downing,Christ
 T. Downing,J. H. Wilson
-T. Downing,M. D.
 T. Downing,Henry Mckinney
 T. Downing,Hale
 T. Downing,Julian
@@ -22382,6 +21443,7 @@ T. Downing,Cornet John Rolt
 T. Downing,Lancaster
 T. Downing,Glover
 T. Downing,Lieutenants Robinson
+T. Downing,Ensign Minty
 T. Downing,Propontis
 T. Downing,Dennett
 T. Downing,Pears
@@ -22433,7 +21495,6 @@ Boyd Parker,Augusta
 Boyd Parker,Jesus
 Boyd Parker,Christ
 Boyd Parker,J. H. Wilson
-Boyd Parker,M. D.
 Boyd Parker,Henry Mckinney
 Boyd Parker,Hale
 Boyd Parker,Julian
@@ -22487,6 +21548,7 @@ Boyd Parker,Cornet John Rolt
 Boyd Parker,Lancaster
 Boyd Parker,Glover
 Boyd Parker,Lieutenants Robinson
+Boyd Parker,Ensign Minty
 Boyd Parker,Propontis
 Boyd Parker,Dennett
 Boyd Parker,Pears
@@ -22537,7 +21599,6 @@ William H. Day,Augusta
 William H. Day,Jesus
 William H. Day,Christ
 William H. Day,J. H. Wilson
-William H. Day,M. D.
 William H. Day,Henry Mckinney
 William H. Day,Hale
 William H. Day,Julian
@@ -22591,6 +21652,7 @@ William H. Day,Cornet John Rolt
 William H. Day,Lancaster
 William H. Day,Glover
 William H. Day,Lieutenants Robinson
+William H. Day,Ensign Minty
 William H. Day,Propontis
 William H. Day,Dennett
 William H. Day,Pears
@@ -22640,7 +21702,6 @@ Day,Augusta
 Day,Jesus
 Day,Christ
 Day,J. H. Wilson
-Day,M. D.
 Day,Henry Mckinney
 Day,Hale
 Day,Julian
@@ -22694,6 +21755,7 @@ Day,Cornet John Rolt
 Day,Lancaster
 Day,Glover
 Day,Lieutenants Robinson
+Day,Ensign Minty
 Day,Propontis
 Day,Dennett
 Day,Pears
@@ -22742,7 +21804,6 @@ James M'Cune Smith,Augusta
 James M'Cune Smith,Jesus
 James M'Cune Smith,Christ
 James M'Cune Smith,J. H. Wilson
-James M'Cune Smith,M. D.
 James M'Cune Smith,Henry Mckinney
 James M'Cune Smith,Hale
 James M'Cune Smith,Julian
@@ -22796,6 +21857,7 @@ James M'Cune Smith,Cornet John Rolt
 James M'Cune Smith,Lancaster
 James M'Cune Smith,Glover
 James M'Cune Smith,Lieutenants Robinson
+James M'Cune Smith,Ensign Minty
 James M'Cune Smith,Propontis
 James M'Cune Smith,Dennett
 James M'Cune Smith,Pears
@@ -22843,7 +21905,6 @@ M. F. Newsome,Augusta
 M. F. Newsome,Jesus
 M. F. Newsome,Christ
 M. F. Newsome,J. H. Wilson
-M. F. Newsome,M. D.
 M. F. Newsome,Henry Mckinney
 M. F. Newsome,Hale
 M. F. Newsome,Julian
@@ -22897,6 +21958,7 @@ M. F. Newsome,Cornet John Rolt
 M. F. Newsome,Lancaster
 M. F. Newsome,Glover
 M. F. Newsome,Lieutenants Robinson
+M. F. Newsome,Ensign Minty
 M. F. Newsome,Propontis
 M. F. Newsome,Dennett
 M. F. Newsome,Pears
@@ -22943,7 +22005,6 @@ Cass,Augusta
 Cass,Jesus
 Cass,Christ
 Cass,J. H. Wilson
-Cass,M. D.
 Cass,Henry Mckinney
 Cass,Hale
 Cass,Julian
@@ -22997,6 +22058,7 @@ Cass,Cornet John Rolt
 Cass,Lancaster
 Cass,Glover
 Cass,Lieutenants Robinson
+Cass,Ensign Minty
 Cass,Propontis
 Cass,Dennett
 Cass,Pears
@@ -23042,7 +22104,6 @@ J. Wilson,Augusta
 J. Wilson,Jesus
 J. Wilson,Christ
 J. Wilson,J. H. Wilson
-J. Wilson,M. D.
 J. Wilson,Henry Mckinney
 J. Wilson,Hale
 J. Wilson,Julian
@@ -23096,6 +22157,7 @@ J. Wilson,Cornet John Rolt
 J. Wilson,Lancaster
 J. Wilson,Glover
 J. Wilson,Lieutenants Robinson
+J. Wilson,Ensign Minty
 J. Wilson,Propontis
 J. Wilson,Dennett
 J. Wilson,Pears
@@ -23140,7 +22202,6 @@ Samuel Aaron,Augusta
 Samuel Aaron,Jesus
 Samuel Aaron,Christ
 Samuel Aaron,J. H. Wilson
-Samuel Aaron,M. D.
 Samuel Aaron,Henry Mckinney
 Samuel Aaron,Hale
 Samuel Aaron,Julian
@@ -23194,6 +22255,7 @@ Samuel Aaron,Cornet John Rolt
 Samuel Aaron,Lancaster
 Samuel Aaron,Glover
 Samuel Aaron,Lieutenants Robinson
+Samuel Aaron,Ensign Minty
 Samuel Aaron,Propontis
 Samuel Aaron,Dennett
 Samuel Aaron,Pears
@@ -23237,7 +22299,6 @@ A. Dewey,Augusta
 A. Dewey,Jesus
 A. Dewey,Christ
 A. Dewey,J. H. Wilson
-A. Dewey,M. D.
 A. Dewey,Henry Mckinney
 A. Dewey,Hale
 A. Dewey,Julian
@@ -23291,6 +22352,7 @@ A. Dewey,Cornet John Rolt
 A. Dewey,Lancaster
 A. Dewey,Glover
 A. Dewey,Lieutenants Robinson
+A. Dewey,Ensign Minty
 A. Dewey,Propontis
 A. Dewey,Dennett
 A. Dewey,Pears
@@ -23333,7 +22395,6 @@ H. O. Wagener,Augusta
 H. O. Wagener,Jesus
 H. O. Wagener,Christ
 H. O. Wagener,J. H. Wilson
-H. O. Wagener,M. D.
 H. O. Wagener,Henry Mckinney
 H. O. Wagener,Hale
 H. O. Wagener,Julian
@@ -23387,6 +22448,7 @@ H. O. Wagener,Cornet John Rolt
 H. O. Wagener,Lancaster
 H. O. Wagener,Glover
 H. O. Wagener,Lieutenants Robinson
+H. O. Wagener,Ensign Minty
 H. O. Wagener,Propontis
 H. O. Wagener,Dennett
 H. O. Wagener,Pears
@@ -23428,7 +22490,6 @@ L. Tillman,Augusta
 L. Tillman,Jesus
 L. Tillman,Christ
 L. Tillman,J. H. Wilson
-L. Tillman,M. D.
 L. Tillman,Henry Mckinney
 L. Tillman,Hale
 L. Tillman,Julian
@@ -23482,6 +22543,7 @@ L. Tillman,Cornet John Rolt
 L. Tillman,Lancaster
 L. Tillman,Glover
 L. Tillman,Lieutenants Robinson
+L. Tillman,Ensign Minty
 L. Tillman,Propontis
 L. Tillman,Dennett
 L. Tillman,Pears
@@ -23522,7 +22584,6 @@ Josephus Fowler,Augusta
 Josephus Fowler,Jesus
 Josephus Fowler,Christ
 Josephus Fowler,J. H. Wilson
-Josephus Fowler,M. D.
 Josephus Fowler,Henry Mckinney
 Josephus Fowler,Hale
 Josephus Fowler,Julian
@@ -23576,6 +22637,7 @@ Josephus Fowler,Cornet John Rolt
 Josephus Fowler,Lancaster
 Josephus Fowler,Glover
 Josephus Fowler,Lieutenants Robinson
+Josephus Fowler,Ensign Minty
 Josephus Fowler,Propontis
 Josephus Fowler,Dennett
 Josephus Fowler,Pears
@@ -23615,7 +22677,6 @@ C. B. Ray,Augusta
 C. B. Ray,Jesus
 C. B. Ray,Christ
 C. B. Ray,J. H. Wilson
-C. B. Ray,M. D.
 C. B. Ray,Henry Mckinney
 C. B. Ray,Hale
 C. B. Ray,Julian
@@ -23669,6 +22730,7 @@ C. B. Ray,Cornet John Rolt
 C. B. Ray,Lancaster
 C. B. Ray,Glover
 C. B. Ray,Lieutenants Robinson
+C. B. Ray,Ensign Minty
 C. B. Ray,Propontis
 C. B. Ray,Dennett
 C. B. Ray,Pears
@@ -23707,7 +22769,6 @@ Pennington,Augusta
 Pennington,Jesus
 Pennington,Christ
 Pennington,J. H. Wilson
-Pennington,M. D.
 Pennington,Henry Mckinney
 Pennington,Hale
 Pennington,Julian
@@ -23761,6 +22822,7 @@ Pennington,Cornet John Rolt
 Pennington,Lancaster
 Pennington,Glover
 Pennington,Lieutenants Robinson
+Pennington,Ensign Minty
 Pennington,Propontis
 Pennington,Dennett
 Pennington,Pears
@@ -23798,7 +22860,6 @@ Charles L. Remond,Augusta
 Charles L. Remond,Jesus
 Charles L. Remond,Christ
 Charles L. Remond,J. H. Wilson
-Charles L. Remond,M. D.
 Charles L. Remond,Henry Mckinney
 Charles L. Remond,Hale
 Charles L. Remond,Julian
@@ -23852,6 +22913,7 @@ Charles L. Remond,Cornet John Rolt
 Charles L. Remond,Lancaster
 Charles L. Remond,Glover
 Charles L. Remond,Lieutenants Robinson
+Charles L. Remond,Ensign Minty
 Charles L. Remond,Propontis
 Charles L. Remond,Dennett
 Charles L. Remond,Pears
@@ -23888,7 +22950,6 @@ Bowser,Augusta
 Bowser,Jesus
 Bowser,Christ
 Bowser,J. H. Wilson
-Bowser,M. D.
 Bowser,Henry Mckinney
 Bowser,Hale
 Bowser,Julian
@@ -23942,6 +23003,7 @@ Bowser,Cornet John Rolt
 Bowser,Lancaster
 Bowser,Glover
 Bowser,Lieutenants Robinson
+Bowser,Ensign Minty
 Bowser,Propontis
 Bowser,Dennett
 Bowser,Pears
@@ -23977,7 +23039,6 @@ Smith,Augusta
 Smith,Jesus
 Smith,Christ
 Smith,J. H. Wilson
-Smith,M. D.
 Smith,Henry Mckinney
 Smith,Hale
 Smith,Julian
@@ -24031,6 +23092,7 @@ Smith,Cornet John Rolt
 Smith,Lancaster
 Smith,Glover
 Smith,Lieutenants Robinson
+Smith,Ensign Minty
 Smith,Propontis
 Smith,Dennett
 Smith,Pears
@@ -24065,7 +23127,6 @@ Douglass,Augusta
 Douglass,Jesus
 Douglass,Christ
 Douglass,J. H. Wilson
-Douglass,M. D.
 Douglass,Henry Mckinney
 Douglass,Hale
 Douglass,Julian
@@ -24119,6 +23180,7 @@ Douglass,Cornet John Rolt
 Douglass,Lancaster
 Douglass,Glover
 Douglass,Lieutenants Robinson
+Douglass,Ensign Minty
 Douglass,Propontis
 Douglass,Dennett
 Douglass,Pears
@@ -24152,7 +23214,6 @@ Walker,Augusta
 Walker,Jesus
 Walker,Christ
 Walker,J. H. Wilson
-Walker,M. D.
 Walker,Henry Mckinney
 Walker,Hale
 Walker,Julian
@@ -24206,6 +23267,7 @@ Walker,Cornet John Rolt
 Walker,Lancaster
 Walker,Glover
 Walker,Lieutenants Robinson
+Walker,Ensign Minty
 Walker,Propontis
 Walker,Dennett
 Walker,Pears
@@ -24238,7 +23300,6 @@ L. Woodson,Augusta
 L. Woodson,Jesus
 L. Woodson,Christ
 L. Woodson,J. H. Wilson
-L. Woodson,M. D.
 L. Woodson,Henry Mckinney
 L. Woodson,Hale
 L. Woodson,Julian
@@ -24292,6 +23353,7 @@ L. Woodson,Cornet John Rolt
 L. Woodson,Lancaster
 L. Woodson,Glover
 L. Woodson,Lieutenants Robinson
+L. Woodson,Ensign Minty
 L. Woodson,Propontis
 L. Woodson,Dennett
 L. Woodson,Pears
@@ -24323,7 +23385,6 @@ Woodson,Augusta
 Woodson,Jesus
 Woodson,Christ
 Woodson,J. H. Wilson
-Woodson,M. D.
 Woodson,Henry Mckinney
 Woodson,Hale
 Woodson,Julian
@@ -24377,6 +23438,7 @@ Woodson,Cornet John Rolt
 Woodson,Lancaster
 Woodson,Glover
 Woodson,Lieutenants Robinson
+Woodson,Ensign Minty
 Woodson,Propontis
 Woodson,Dennett
 Woodson,Pears
@@ -24407,7 +23469,6 @@ C. L. Reason,Augusta
 C. L. Reason,Jesus
 C. L. Reason,Christ
 C. L. Reason,J. H. Wilson
-C. L. Reason,M. D.
 C. L. Reason,Henry Mckinney
 C. L. Reason,Hale
 C. L. Reason,Julian
@@ -24461,6 +23522,7 @@ C. L. Reason,Cornet John Rolt
 C. L. Reason,Lancaster
 C. L. Reason,Glover
 C. L. Reason,Lieutenants Robinson
+C. L. Reason,Ensign Minty
 C. L. Reason,Propontis
 C. L. Reason,Dennett
 C. L. Reason,Pears
@@ -24490,7 +23552,6 @@ H. Langston,Augusta
 H. Langston,Jesus
 H. Langston,Christ
 H. Langston,J. H. Wilson
-H. Langston,M. D.
 H. Langston,Henry Mckinney
 H. Langston,Hale
 H. Langston,Julian
@@ -24544,6 +23605,7 @@ H. Langston,Cornet John Rolt
 H. Langston,Lancaster
 H. Langston,Glover
 H. Langston,Lieutenants Robinson
+H. Langston,Ensign Minty
 H. Langston,Propontis
 H. Langston,Dennett
 H. Langston,Pears
@@ -24572,7 +23634,6 @@ Stowe,Augusta
 Stowe,Jesus
 Stowe,Christ
 Stowe,J. H. Wilson
-Stowe,M. D.
 Stowe,Henry Mckinney
 Stowe,Hale
 Stowe,Julian
@@ -24626,6 +23687,7 @@ Stowe,Cornet John Rolt
 Stowe,Lancaster
 Stowe,Glover
 Stowe,Lieutenants Robinson
+Stowe,Ensign Minty
 Stowe,Propontis
 Stowe,Dennett
 Stowe,Pears
@@ -24653,7 +23715,6 @@ Madam,Augusta
 Madam,Jesus
 Madam,Christ
 Madam,J. H. Wilson
-Madam,M. D.
 Madam,Henry Mckinney
 Madam,Hale
 Madam,Julian
@@ -24707,6 +23768,7 @@ Madam,Cornet John Rolt
 Madam,Lancaster
 Madam,Glover
 Madam,Lieutenants Robinson
+Madam,Ensign Minty
 Madam,Propontis
 Madam,Dennett
 Madam,Pears
@@ -24733,7 +23795,6 @@ Garnetts,Augusta
 Garnetts,Jesus
 Garnetts,Christ
 Garnetts,J. H. Wilson
-Garnetts,M. D.
 Garnetts,Henry Mckinney
 Garnetts,Hale
 Garnetts,Julian
@@ -24787,6 +23848,7 @@ Garnetts,Cornet John Rolt
 Garnetts,Lancaster
 Garnetts,Glover
 Garnetts,Lieutenants Robinson
+Garnetts,Ensign Minty
 Garnetts,Propontis
 Garnetts,Dennett
 Garnetts,Pears
@@ -24812,7 +23874,6 @@ Gerrit Smith,Augusta
 Gerrit Smith,Jesus
 Gerrit Smith,Christ
 Gerrit Smith,J. H. Wilson
-Gerrit Smith,M. D.
 Gerrit Smith,Henry Mckinney
 Gerrit Smith,Hale
 Gerrit Smith,Julian
@@ -24866,6 +23927,7 @@ Gerrit Smith,Cornet John Rolt
 Gerrit Smith,Lancaster
 Gerrit Smith,Glover
 Gerrit Smith,Lieutenants Robinson
+Gerrit Smith,Ensign Minty
 Gerrit Smith,Propontis
 Gerrit Smith,Dennett
 Gerrit Smith,Pears
@@ -24890,7 +23952,6 @@ Garrison,Augusta
 Garrison,Jesus
 Garrison,Christ
 Garrison,J. H. Wilson
-Garrison,M. D.
 Garrison,Henry Mckinney
 Garrison,Hale
 Garrison,Julian
@@ -24944,6 +24005,7 @@ Garrison,Cornet John Rolt
 Garrison,Lancaster
 Garrison,Glover
 Garrison,Lieutenants Robinson
+Garrison,Ensign Minty
 Garrison,Propontis
 Garrison,Dennett
 Garrison,Pears
@@ -24967,7 +24029,6 @@ William Lloyd Garrison,Augusta
 William Lloyd Garrison,Jesus
 William Lloyd Garrison,Christ
 William Lloyd Garrison,J. H. Wilson
-William Lloyd Garrison,M. D.
 William Lloyd Garrison,Henry Mckinney
 William Lloyd Garrison,Hale
 William Lloyd Garrison,Julian
@@ -25021,6 +24082,7 @@ William Lloyd Garrison,Cornet John Rolt
 William Lloyd Garrison,Lancaster
 William Lloyd Garrison,Glover
 William Lloyd Garrison,Lieutenants Robinson
+William Lloyd Garrison,Ensign Minty
 William Lloyd Garrison,Propontis
 William Lloyd Garrison,Dennett
 William Lloyd Garrison,Pears
@@ -25043,7 +24105,6 @@ Dear Brethren,Augusta
 Dear Brethren,Jesus
 Dear Brethren,Christ
 Dear Brethren,J. H. Wilson
-Dear Brethren,M. D.
 Dear Brethren,Henry Mckinney
 Dear Brethren,Hale
 Dear Brethren,Julian
@@ -25097,6 +24158,7 @@ Dear Brethren,Cornet John Rolt
 Dear Brethren,Lancaster
 Dear Brethren,Glover
 Dear Brethren,Lieutenants Robinson
+Dear Brethren,Ensign Minty
 Dear Brethren,Propontis
 Dear Brethren,Dennett
 Dear Brethren,Pears
@@ -25118,7 +24180,6 @@ Dear Brethren,J.W.C. Pennington
 Augusta,Jesus
 Augusta,Christ
 Augusta,J. H. Wilson
-Augusta,M. D.
 Augusta,Henry Mckinney
 Augusta,Hale
 Augusta,Julian
@@ -25172,6 +24233,7 @@ Augusta,Cornet John Rolt
 Augusta,Lancaster
 Augusta,Glover
 Augusta,Lieutenants Robinson
+Augusta,Ensign Minty
 Augusta,Propontis
 Augusta,Dennett
 Augusta,Pears
@@ -25192,7 +24254,6 @@ Augusta,Boombo
 Augusta,J.W.C. Pennington
 Jesus,Christ
 Jesus,J. H. Wilson
-Jesus,M. D.
 Jesus,Henry Mckinney
 Jesus,Hale
 Jesus,Julian
@@ -25246,6 +24307,7 @@ Jesus,Cornet John Rolt
 Jesus,Lancaster
 Jesus,Glover
 Jesus,Lieutenants Robinson
+Jesus,Ensign Minty
 Jesus,Propontis
 Jesus,Dennett
 Jesus,Pears
@@ -25265,7 +24327,6 @@ Jesus,King Boombo
 Jesus,Boombo
 Jesus,J.W.C. Pennington
 Christ,J. H. Wilson
-Christ,M. D.
 Christ,Henry Mckinney
 Christ,Hale
 Christ,Julian
@@ -25319,6 +24380,7 @@ Christ,Cornet John Rolt
 Christ,Lancaster
 Christ,Glover
 Christ,Lieutenants Robinson
+Christ,Ensign Minty
 Christ,Propontis
 Christ,Dennett
 Christ,Pears
@@ -25337,7 +24399,6 @@ Christ,Roberts
 Christ,King Boombo
 Christ,Boombo
 Christ,J.W.C. Pennington
-J. H. Wilson,M. D.
 J. H. Wilson,Henry Mckinney
 J. H. Wilson,Hale
 J. H. Wilson,Julian
@@ -25391,6 +24452,7 @@ J. H. Wilson,Cornet John Rolt
 J. H. Wilson,Lancaster
 J. H. Wilson,Glover
 J. H. Wilson,Lieutenants Robinson
+J. H. Wilson,Ensign Minty
 J. H. Wilson,Propontis
 J. H. Wilson,Dennett
 J. H. Wilson,Pears
@@ -25409,77 +24471,6 @@ J. H. Wilson,Roberts
 J. H. Wilson,King Boombo
 J. H. Wilson,Boombo
 J. H. Wilson,J.W.C. Pennington
-M. D.,Henry Mckinney
-M. D.,Hale
-M. D.,Julian
-M. D.,Fugitive Bill
-M. D.,Wil
-M. D.,Mccrummel
-M. D.,G. M. Willis
-M. D.,R. D. Willis
-M. D.,Gaines
-M. D.,Whipper
-M. D.,Kenney
-M. D.,Joseph C. Holley
-M. D.,Parker
-M. D.,W. Whipper
-M. D.,Bradford King
-M. D.,T. Thomas
-M. D.,W. H. Channing
-M. D.,Francis Thompson
-M. D.,J. H. Hurley
-M. D.,J. W. Lewis
-M. D.,H. C. Smith
-M. D.,W. C. Nell
-M. D.,J. B. Sanderson
-M. D.,Abraham C. Rice
-M. D.,Jehiel C. Beeman
-M. D.,Amos G. Beeman
-M. D.,John Freeman
-M. D.,James D. Bonner
-M. D.,John T. Brittain
-M. D.,W. H. Day
-M. D.,W. C. Monroe
-M. D.,Holland
-M. D.,Boor
-M. D.,Booress
-M. D.,Stout
-M. D.,John Adams
-M. D.,Caffres
-M. D.,Stollz
-M. D.,Slambie
-M. D.,Islambi
-M. D.,Makanna
-M. D.,Kraals
-M. D.,Gaika
-M. D.,Dushani
-M. D.,Kongo
-M. D.,Cobden
-M. D.,R. Cobden
-M. D.,Joseph Sturge
-M. D.,Birkenhead
-M. D.,Cornet John Rolt
-M. D.,Lancaster
-M. D.,Glover
-M. D.,Lieutenants Robinson
-M. D.,Propontis
-M. D.,Dennett
-M. D.,Pears
-M. D.,Julius Caesar
-M. D.,Cathcart
-M. D.,John Bull
-M. D.,John
-M. D.,W. Mclain
-M. D.,Mclain
-M. D.,Anglo Saxon
-M. D.,Norman
-M. D.,Saxon
-M. D.,Heren
-M. D.,Lyon
-M. D.,Roberts
-M. D.,King Boombo
-M. D.,Boombo
-M. D.,J.W.C. Pennington
 Henry Mckinney,Hale
 Henry Mckinney,Julian
 Henry Mckinney,Fugitive Bill
@@ -25532,6 +24523,7 @@ Henry Mckinney,Cornet John Rolt
 Henry Mckinney,Lancaster
 Henry Mckinney,Glover
 Henry Mckinney,Lieutenants Robinson
+Henry Mckinney,Ensign Minty
 Henry Mckinney,Propontis
 Henry Mckinney,Dennett
 Henry Mckinney,Pears
@@ -25601,6 +24593,7 @@ Hale,Cornet John Rolt
 Hale,Lancaster
 Hale,Glover
 Hale,Lieutenants Robinson
+Hale,Ensign Minty
 Hale,Propontis
 Hale,Dennett
 Hale,Pears
@@ -25669,6 +24662,7 @@ Julian,Cornet John Rolt
 Julian,Lancaster
 Julian,Glover
 Julian,Lieutenants Robinson
+Julian,Ensign Minty
 Julian,Propontis
 Julian,Dennett
 Julian,Pears
@@ -25736,6 +24730,7 @@ Fugitive Bill,Cornet John Rolt
 Fugitive Bill,Lancaster
 Fugitive Bill,Glover
 Fugitive Bill,Lieutenants Robinson
+Fugitive Bill,Ensign Minty
 Fugitive Bill,Propontis
 Fugitive Bill,Dennett
 Fugitive Bill,Pears
@@ -25802,6 +24797,7 @@ Wil,Cornet John Rolt
 Wil,Lancaster
 Wil,Glover
 Wil,Lieutenants Robinson
+Wil,Ensign Minty
 Wil,Propontis
 Wil,Dennett
 Wil,Pears
@@ -25867,6 +24863,7 @@ Mccrummel,Cornet John Rolt
 Mccrummel,Lancaster
 Mccrummel,Glover
 Mccrummel,Lieutenants Robinson
+Mccrummel,Ensign Minty
 Mccrummel,Propontis
 Mccrummel,Dennett
 Mccrummel,Pears
@@ -25931,6 +24928,7 @@ G. M. Willis,Cornet John Rolt
 G. M. Willis,Lancaster
 G. M. Willis,Glover
 G. M. Willis,Lieutenants Robinson
+G. M. Willis,Ensign Minty
 G. M. Willis,Propontis
 G. M. Willis,Dennett
 G. M. Willis,Pears
@@ -25994,6 +24992,7 @@ R. D. Willis,Cornet John Rolt
 R. D. Willis,Lancaster
 R. D. Willis,Glover
 R. D. Willis,Lieutenants Robinson
+R. D. Willis,Ensign Minty
 R. D. Willis,Propontis
 R. D. Willis,Dennett
 R. D. Willis,Pears
@@ -26056,6 +25055,7 @@ Gaines,Cornet John Rolt
 Gaines,Lancaster
 Gaines,Glover
 Gaines,Lieutenants Robinson
+Gaines,Ensign Minty
 Gaines,Propontis
 Gaines,Dennett
 Gaines,Pears
@@ -26117,6 +25117,7 @@ Whipper,Cornet John Rolt
 Whipper,Lancaster
 Whipper,Glover
 Whipper,Lieutenants Robinson
+Whipper,Ensign Minty
 Whipper,Propontis
 Whipper,Dennett
 Whipper,Pears
@@ -26177,6 +25178,7 @@ Kenney,Cornet John Rolt
 Kenney,Lancaster
 Kenney,Glover
 Kenney,Lieutenants Robinson
+Kenney,Ensign Minty
 Kenney,Propontis
 Kenney,Dennett
 Kenney,Pears
@@ -26236,6 +25238,7 @@ Joseph C. Holley,Cornet John Rolt
 Joseph C. Holley,Lancaster
 Joseph C. Holley,Glover
 Joseph C. Holley,Lieutenants Robinson
+Joseph C. Holley,Ensign Minty
 Joseph C. Holley,Propontis
 Joseph C. Holley,Dennett
 Joseph C. Holley,Pears
@@ -26294,6 +25297,7 @@ Parker,Cornet John Rolt
 Parker,Lancaster
 Parker,Glover
 Parker,Lieutenants Robinson
+Parker,Ensign Minty
 Parker,Propontis
 Parker,Dennett
 Parker,Pears
@@ -26351,6 +25355,7 @@ W. Whipper,Cornet John Rolt
 W. Whipper,Lancaster
 W. Whipper,Glover
 W. Whipper,Lieutenants Robinson
+W. Whipper,Ensign Minty
 W. Whipper,Propontis
 W. Whipper,Dennett
 W. Whipper,Pears
@@ -26407,6 +25412,7 @@ Bradford King,Cornet John Rolt
 Bradford King,Lancaster
 Bradford King,Glover
 Bradford King,Lieutenants Robinson
+Bradford King,Ensign Minty
 Bradford King,Propontis
 Bradford King,Dennett
 Bradford King,Pears
@@ -26462,6 +25468,7 @@ T. Thomas,Cornet John Rolt
 T. Thomas,Lancaster
 T. Thomas,Glover
 T. Thomas,Lieutenants Robinson
+T. Thomas,Ensign Minty
 T. Thomas,Propontis
 T. Thomas,Dennett
 T. Thomas,Pears
@@ -26516,6 +25523,7 @@ W. H. Channing,Cornet John Rolt
 W. H. Channing,Lancaster
 W. H. Channing,Glover
 W. H. Channing,Lieutenants Robinson
+W. H. Channing,Ensign Minty
 W. H. Channing,Propontis
 W. H. Channing,Dennett
 W. H. Channing,Pears
@@ -26569,6 +25577,7 @@ Francis Thompson,Cornet John Rolt
 Francis Thompson,Lancaster
 Francis Thompson,Glover
 Francis Thompson,Lieutenants Robinson
+Francis Thompson,Ensign Minty
 Francis Thompson,Propontis
 Francis Thompson,Dennett
 Francis Thompson,Pears
@@ -26621,6 +25630,7 @@ J. H. Hurley,Cornet John Rolt
 J. H. Hurley,Lancaster
 J. H. Hurley,Glover
 J. H. Hurley,Lieutenants Robinson
+J. H. Hurley,Ensign Minty
 J. H. Hurley,Propontis
 J. H. Hurley,Dennett
 J. H. Hurley,Pears
@@ -26672,6 +25682,7 @@ J. W. Lewis,Cornet John Rolt
 J. W. Lewis,Lancaster
 J. W. Lewis,Glover
 J. W. Lewis,Lieutenants Robinson
+J. W. Lewis,Ensign Minty
 J. W. Lewis,Propontis
 J. W. Lewis,Dennett
 J. W. Lewis,Pears
@@ -26722,6 +25733,7 @@ H. C. Smith,Cornet John Rolt
 H. C. Smith,Lancaster
 H. C. Smith,Glover
 H. C. Smith,Lieutenants Robinson
+H. C. Smith,Ensign Minty
 H. C. Smith,Propontis
 H. C. Smith,Dennett
 H. C. Smith,Pears
@@ -26771,6 +25783,7 @@ W. C. Nell,Cornet John Rolt
 W. C. Nell,Lancaster
 W. C. Nell,Glover
 W. C. Nell,Lieutenants Robinson
+W. C. Nell,Ensign Minty
 W. C. Nell,Propontis
 W. C. Nell,Dennett
 W. C. Nell,Pears
@@ -26819,6 +25832,7 @@ J. B. Sanderson,Cornet John Rolt
 J. B. Sanderson,Lancaster
 J. B. Sanderson,Glover
 J. B. Sanderson,Lieutenants Robinson
+J. B. Sanderson,Ensign Minty
 J. B. Sanderson,Propontis
 J. B. Sanderson,Dennett
 J. B. Sanderson,Pears
@@ -26866,6 +25880,7 @@ Abraham C. Rice,Cornet John Rolt
 Abraham C. Rice,Lancaster
 Abraham C. Rice,Glover
 Abraham C. Rice,Lieutenants Robinson
+Abraham C. Rice,Ensign Minty
 Abraham C. Rice,Propontis
 Abraham C. Rice,Dennett
 Abraham C. Rice,Pears
@@ -26912,6 +25927,7 @@ Jehiel C. Beeman,Cornet John Rolt
 Jehiel C. Beeman,Lancaster
 Jehiel C. Beeman,Glover
 Jehiel C. Beeman,Lieutenants Robinson
+Jehiel C. Beeman,Ensign Minty
 Jehiel C. Beeman,Propontis
 Jehiel C. Beeman,Dennett
 Jehiel C. Beeman,Pears
@@ -26957,6 +25973,7 @@ Amos G. Beeman,Cornet John Rolt
 Amos G. Beeman,Lancaster
 Amos G. Beeman,Glover
 Amos G. Beeman,Lieutenants Robinson
+Amos G. Beeman,Ensign Minty
 Amos G. Beeman,Propontis
 Amos G. Beeman,Dennett
 Amos G. Beeman,Pears
@@ -27001,6 +26018,7 @@ John Freeman,Cornet John Rolt
 John Freeman,Lancaster
 John Freeman,Glover
 John Freeman,Lieutenants Robinson
+John Freeman,Ensign Minty
 John Freeman,Propontis
 John Freeman,Dennett
 John Freeman,Pears
@@ -27044,6 +26062,7 @@ James D. Bonner,Cornet John Rolt
 James D. Bonner,Lancaster
 James D. Bonner,Glover
 James D. Bonner,Lieutenants Robinson
+James D. Bonner,Ensign Minty
 James D. Bonner,Propontis
 James D. Bonner,Dennett
 James D. Bonner,Pears
@@ -27086,6 +26105,7 @@ John T. Brittain,Cornet John Rolt
 John T. Brittain,Lancaster
 John T. Brittain,Glover
 John T. Brittain,Lieutenants Robinson
+John T. Brittain,Ensign Minty
 John T. Brittain,Propontis
 John T. Brittain,Dennett
 John T. Brittain,Pears
@@ -27127,6 +26147,7 @@ W. H. Day,Cornet John Rolt
 W. H. Day,Lancaster
 W. H. Day,Glover
 W. H. Day,Lieutenants Robinson
+W. H. Day,Ensign Minty
 W. H. Day,Propontis
 W. H. Day,Dennett
 W. H. Day,Pears
@@ -27167,6 +26188,7 @@ W. C. Monroe,Cornet John Rolt
 W. C. Monroe,Lancaster
 W. C. Monroe,Glover
 W. C. Monroe,Lieutenants Robinson
+W. C. Monroe,Ensign Minty
 W. C. Monroe,Propontis
 W. C. Monroe,Dennett
 W. C. Monroe,Pears
@@ -27206,6 +26228,7 @@ Holland,Cornet John Rolt
 Holland,Lancaster
 Holland,Glover
 Holland,Lieutenants Robinson
+Holland,Ensign Minty
 Holland,Propontis
 Holland,Dennett
 Holland,Pears
@@ -27244,6 +26267,7 @@ Boor,Cornet John Rolt
 Boor,Lancaster
 Boor,Glover
 Boor,Lieutenants Robinson
+Boor,Ensign Minty
 Boor,Propontis
 Boor,Dennett
 Boor,Pears
@@ -27281,6 +26305,7 @@ Booress,Cornet John Rolt
 Booress,Lancaster
 Booress,Glover
 Booress,Lieutenants Robinson
+Booress,Ensign Minty
 Booress,Propontis
 Booress,Dennett
 Booress,Pears
@@ -27317,6 +26342,7 @@ Stout,Cornet John Rolt
 Stout,Lancaster
 Stout,Glover
 Stout,Lieutenants Robinson
+Stout,Ensign Minty
 Stout,Propontis
 Stout,Dennett
 Stout,Pears
@@ -27352,6 +26378,7 @@ John Adams,Cornet John Rolt
 John Adams,Lancaster
 John Adams,Glover
 John Adams,Lieutenants Robinson
+John Adams,Ensign Minty
 John Adams,Propontis
 John Adams,Dennett
 John Adams,Pears
@@ -27386,6 +26413,7 @@ Caffres,Cornet John Rolt
 Caffres,Lancaster
 Caffres,Glover
 Caffres,Lieutenants Robinson
+Caffres,Ensign Minty
 Caffres,Propontis
 Caffres,Dennett
 Caffres,Pears
@@ -27419,6 +26447,7 @@ Stollz,Cornet John Rolt
 Stollz,Lancaster
 Stollz,Glover
 Stollz,Lieutenants Robinson
+Stollz,Ensign Minty
 Stollz,Propontis
 Stollz,Dennett
 Stollz,Pears
@@ -27451,6 +26480,7 @@ Slambie,Cornet John Rolt
 Slambie,Lancaster
 Slambie,Glover
 Slambie,Lieutenants Robinson
+Slambie,Ensign Minty
 Slambie,Propontis
 Slambie,Dennett
 Slambie,Pears
@@ -27482,6 +26512,7 @@ Islambi,Cornet John Rolt
 Islambi,Lancaster
 Islambi,Glover
 Islambi,Lieutenants Robinson
+Islambi,Ensign Minty
 Islambi,Propontis
 Islambi,Dennett
 Islambi,Pears
@@ -27512,6 +26543,7 @@ Makanna,Cornet John Rolt
 Makanna,Lancaster
 Makanna,Glover
 Makanna,Lieutenants Robinson
+Makanna,Ensign Minty
 Makanna,Propontis
 Makanna,Dennett
 Makanna,Pears
@@ -27541,6 +26573,7 @@ Kraals,Cornet John Rolt
 Kraals,Lancaster
 Kraals,Glover
 Kraals,Lieutenants Robinson
+Kraals,Ensign Minty
 Kraals,Propontis
 Kraals,Dennett
 Kraals,Pears
@@ -27569,6 +26602,7 @@ Gaika,Cornet John Rolt
 Gaika,Lancaster
 Gaika,Glover
 Gaika,Lieutenants Robinson
+Gaika,Ensign Minty
 Gaika,Propontis
 Gaika,Dennett
 Gaika,Pears
@@ -27596,6 +26630,7 @@ Dushani,Cornet John Rolt
 Dushani,Lancaster
 Dushani,Glover
 Dushani,Lieutenants Robinson
+Dushani,Ensign Minty
 Dushani,Propontis
 Dushani,Dennett
 Dushani,Pears
@@ -27622,6 +26657,7 @@ Kongo,Cornet John Rolt
 Kongo,Lancaster
 Kongo,Glover
 Kongo,Lieutenants Robinson
+Kongo,Ensign Minty
 Kongo,Propontis
 Kongo,Dennett
 Kongo,Pears
@@ -27647,6 +26683,7 @@ Cobden,Cornet John Rolt
 Cobden,Lancaster
 Cobden,Glover
 Cobden,Lieutenants Robinson
+Cobden,Ensign Minty
 Cobden,Propontis
 Cobden,Dennett
 Cobden,Pears
@@ -27671,6 +26708,7 @@ R. Cobden,Cornet John Rolt
 R. Cobden,Lancaster
 R. Cobden,Glover
 R. Cobden,Lieutenants Robinson
+R. Cobden,Ensign Minty
 R. Cobden,Propontis
 R. Cobden,Dennett
 R. Cobden,Pears
@@ -27694,6 +26732,7 @@ Joseph Sturge,Cornet John Rolt
 Joseph Sturge,Lancaster
 Joseph Sturge,Glover
 Joseph Sturge,Lieutenants Robinson
+Joseph Sturge,Ensign Minty
 Joseph Sturge,Propontis
 Joseph Sturge,Dennett
 Joseph Sturge,Pears
@@ -27716,6 +26755,7 @@ Birkenhead,Cornet John Rolt
 Birkenhead,Lancaster
 Birkenhead,Glover
 Birkenhead,Lieutenants Robinson
+Birkenhead,Ensign Minty
 Birkenhead,Propontis
 Birkenhead,Dennett
 Birkenhead,Pears
@@ -27737,6 +26777,7 @@ Birkenhead,J.W.C. Pennington
 Cornet John Rolt,Lancaster
 Cornet John Rolt,Glover
 Cornet John Rolt,Lieutenants Robinson
+Cornet John Rolt,Ensign Minty
 Cornet John Rolt,Propontis
 Cornet John Rolt,Dennett
 Cornet John Rolt,Pears
@@ -27757,6 +26798,7 @@ Cornet John Rolt,Boombo
 Cornet John Rolt,J.W.C. Pennington
 Lancaster,Glover
 Lancaster,Lieutenants Robinson
+Lancaster,Ensign Minty
 Lancaster,Propontis
 Lancaster,Dennett
 Lancaster,Pears
@@ -27776,6 +26818,7 @@ Lancaster,King Boombo
 Lancaster,Boombo
 Lancaster,J.W.C. Pennington
 Glover,Lieutenants Robinson
+Glover,Ensign Minty
 Glover,Propontis
 Glover,Dennett
 Glover,Pears
@@ -27794,6 +26837,7 @@ Glover,Roberts
 Glover,King Boombo
 Glover,Boombo
 Glover,J.W.C. Pennington
+Lieutenants Robinson,Ensign Minty
 Lieutenants Robinson,Propontis
 Lieutenants Robinson,Dennett
 Lieutenants Robinson,Pears
@@ -27812,6 +26856,24 @@ Lieutenants Robinson,Roberts
 Lieutenants Robinson,King Boombo
 Lieutenants Robinson,Boombo
 Lieutenants Robinson,J.W.C. Pennington
+Ensign Minty,Propontis
+Ensign Minty,Dennett
+Ensign Minty,Pears
+Ensign Minty,Julius Caesar
+Ensign Minty,Cathcart
+Ensign Minty,John Bull
+Ensign Minty,John
+Ensign Minty,W. Mclain
+Ensign Minty,Mclain
+Ensign Minty,Anglo Saxon
+Ensign Minty,Norman
+Ensign Minty,Saxon
+Ensign Minty,Heren
+Ensign Minty,Lyon
+Ensign Minty,Roberts
+Ensign Minty,King Boombo
+Ensign Minty,Boombo
+Ensign Minty,J.W.C. Pennington
 Propontis,Dennett
 Propontis,Pears
 Propontis,Julius Caesar

@@ -3,7 +3,8 @@ import csv
 from glob import glob
 from collections import Counter
 from nltk.parse.corenlp import CoreNLPParser
-""" Collecting names for both formats: all_names.csv and ccp_data.csv
+""" 
+Collecting names for both formats: ccp_adjacency_list.csv and ccp_data.csv
 Before you start this program, run the CoreNLP Server on terminal with this command:
 java -mx4g -cp "stanford-corenlp-full-2018-02-27/*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -annotators "tokenize,ssplit,pos,lemma,ner
 visit http:localhost:9000 for debugging purposes
@@ -31,13 +32,13 @@ def get_entities(tagger_output):
 
 tagger = CoreNLPParser(tagtype='ner')
 
-with open('ccp_people.csv', 'w', newline='') as csvfile:
+with open('ccp_people.csv', 'w', newline='') as ccp_people:
     """ Collect the csv of all the names in the document
     ccp_people columns: Name, Year, Place, filename
     """
-    newfile = csv.DictWriter(csvfile, fieldnames=['Person', 'Count', 'Year', 'Place', 'filename'],
+    cppp_writer = csv.DictWriter(ccp_people, fieldnames=['Person', 'Count', 'Year', 'Place', 'filename'],
                              quoting=csv.QUOTE_MINIMAL)
-    newfile.writeheader()
+    cppp_writer.writeheader()
     for f in glob(os.path.join("ccpminutes", '*.txt')):
         filename = f.split("\\")[1]
         year = filename.split(".")[0]
@@ -53,7 +54,7 @@ with open('ccp_people.csv', 'w', newline='') as csvfile:
                         pass
 
         for name in entities.keys():
-            newfile.writerow({'Person': name, 'Count': str(entities[name]), 'Year': year, 'Place': place,
+            cppp_writer.writerow({'Person': name, 'Count': str(entities[name]), 'Year': year, 'Place': place,
                               'filename': filename})
 
 

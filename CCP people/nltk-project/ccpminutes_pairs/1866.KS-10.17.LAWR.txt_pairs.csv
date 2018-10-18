@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Leavenworth,Frazer
 Leavenworth,H. H. Thomas
 Leavenworth,William L. Smith
@@ -66,7 +66,6 @@ Leavenworth,Lawrence
 Leavenworth,H.H. Thomas
 Leavenworth,Siegel
 Leavenworth,H. Jenerals
-Leavenworth,Wyandotte
 Leavenworth,N. Duffin
 Leavenworth,Garnett
 Frazer,H. H. Thomas
@@ -135,7 +134,6 @@ Frazer,Lawrence
 Frazer,H.H. Thomas
 Frazer,Siegel
 Frazer,H. Jenerals
-Frazer,Wyandotte
 Frazer,N. Duffin
 Frazer,Garnett
 H. H. Thomas,William L. Smith
@@ -203,7 +201,6 @@ H. H. Thomas,Lawrence
 H. H. Thomas,H.H. Thomas
 H. H. Thomas,Siegel
 H. H. Thomas,H. Jenerals
-H. H. Thomas,Wyandotte
 H. H. Thomas,N. Duffin
 H. H. Thomas,Garnett
 William L. Smith,E. L. Bradley
@@ -270,7 +267,6 @@ William L. Smith,Lawrence
 William L. Smith,H.H. Thomas
 William L. Smith,Siegel
 William L. Smith,H. Jenerals
-William L. Smith,Wyandotte
 William L. Smith,N. Duffin
 William L. Smith,Garnett
 E. L. Bradley,Henry Jenerals
@@ -336,7 +332,6 @@ E. L. Bradley,Lawrence
 E. L. Bradley,H.H. Thomas
 E. L. Bradley,Siegel
 E. L. Bradley,H. Jenerals
-E. L. Bradley,Wyandotte
 E. L. Bradley,N. Duffin
 E. L. Bradley,Garnett
 Henry Jenerals,Levi Mitchell
@@ -401,7 +396,6 @@ Henry Jenerals,Lawrence
 Henry Jenerals,H.H. Thomas
 Henry Jenerals,Siegel
 Henry Jenerals,H. Jenerals
-Henry Jenerals,Wyandotte
 Henry Jenerals,N. Duffin
 Henry Jenerals,Garnett
 Levi Mitchell,John Anderson
@@ -465,7 +459,6 @@ Levi Mitchell,Lawrence
 Levi Mitchell,H.H. Thomas
 Levi Mitchell,Siegel
 Levi Mitchell,H. Jenerals
-Levi Mitchell,Wyandotte
 Levi Mitchell,N. Duffin
 Levi Mitchell,Garnett
 John Anderson,Edward Murray
@@ -528,7 +521,6 @@ John Anderson,Lawrence
 John Anderson,H.H. Thomas
 John Anderson,Siegel
 John Anderson,H. Jenerals
-John Anderson,Wyandotte
 John Anderson,N. Duffin
 John Anderson,Garnett
 Edward Murray,Charles Anderson
@@ -590,7 +582,6 @@ Edward Murray,Lawrence
 Edward Murray,H.H. Thomas
 Edward Murray,Siegel
 Edward Murray,H. Jenerals
-Edward Murray,Wyandotte
 Edward Murray,N. Duffin
 Edward Murray,Garnett
 Charles Anderson,Samuel Williamson
@@ -651,7 +642,6 @@ Charles Anderson,Lawrence
 Charles Anderson,H.H. Thomas
 Charles Anderson,Siegel
 Charles Anderson,H. Jenerals
-Charles Anderson,Wyandotte
 Charles Anderson,N. Duffin
 Charles Anderson,Garnett
 Samuel Williamson,Nathaniel Williamson
@@ -711,7 +701,6 @@ Samuel Williamson,Lawrence
 Samuel Williamson,H.H. Thomas
 Samuel Williamson,Siegel
 Samuel Williamson,H. Jenerals
-Samuel Williamson,Wyandotte
 Samuel Williamson,N. Duffin
 Samuel Williamson,Garnett
 Nathaniel Williamson,T. J. Baskerville
@@ -770,7 +759,6 @@ Nathaniel Williamson,Lawrence
 Nathaniel Williamson,H.H. Thomas
 Nathaniel Williamson,Siegel
 Nathaniel Williamson,H. Jenerals
-Nathaniel Williamson,Wyandotte
 Nathaniel Williamson,N. Duffin
 Nathaniel Williamson,Garnett
 T. J. Baskerville,Samuel Clark
@@ -828,7 +816,6 @@ T. J. Baskerville,Lawrence
 T. J. Baskerville,H.H. Thomas
 T. J. Baskerville,Siegel
 T. J. Baskerville,H. Jenerals
-T. J. Baskerville,Wyandotte
 T. J. Baskerville,N. Duffin
 T. J. Baskerville,Garnett
 Samuel Clark,Henry Johnson
@@ -885,7 +872,6 @@ Samuel Clark,Lawrence
 Samuel Clark,H.H. Thomas
 Samuel Clark,Siegel
 Samuel Clark,H. Jenerals
-Samuel Clark,Wyandotte
 Samuel Clark,N. Duffin
 Samuel Clark,Garnett
 Henry Johnson,George Moore
@@ -941,7 +927,6 @@ Henry Johnson,Lawrence
 Henry Johnson,H.H. Thomas
 Henry Johnson,Siegel
 Henry Johnson,H. Jenerals
-Henry Johnson,Wyandotte
 Henry Johnson,N. Duffin
 Henry Johnson,Garnett
 George Moore,George Bradley
@@ -996,7 +981,6 @@ George Moore,Lawrence
 George Moore,H.H. Thomas
 George Moore,Siegel
 George Moore,H. Jenerals
-George Moore,Wyandotte
 George Moore,N. Duffin
 George Moore,Garnett
 George Bradley,George Williams
@@ -1050,7 +1034,6 @@ George Bradley,Lawrence
 George Bradley,H.H. Thomas
 George Bradley,Siegel
 George Bradley,H. Jenerals
-George Bradley,Wyandotte
 George Bradley,N. Duffin
 George Bradley,Garnett
 George Williams,H. Robinson
@@ -1103,7 +1086,6 @@ George Williams,Lawrence
 George Williams,H.H. Thomas
 George Williams,Siegel
 George Williams,H. Jenerals
-George Williams,Wyandotte
 George Williams,N. Duffin
 George Williams,Garnett
 H. Robinson,William Johnson
@@ -1155,7 +1137,6 @@ H. Robinson,Lawrence
 H. Robinson,H.H. Thomas
 H. Robinson,Siegel
 H. Robinson,H. Jenerals
-H. Robinson,Wyandotte
 H. Robinson,N. Duffin
 H. Robinson,Garnett
 William Johnson,Harrison Mcdowell
@@ -1206,7 +1187,6 @@ William Johnson,Lawrence
 William Johnson,H.H. Thomas
 William Johnson,Siegel
 William Johnson,H. Jenerals
-William Johnson,Wyandotte
 William Johnson,N. Duffin
 William Johnson,Garnett
 Harrison Mcdowell,Carter
@@ -1256,7 +1236,6 @@ Harrison Mcdowell,Lawrence
 Harrison Mcdowell,H.H. Thomas
 Harrison Mcdowell,Siegel
 Harrison Mcdowell,H. Jenerals
-Harrison Mcdowell,Wyandotte
 Harrison Mcdowell,N. Duffin
 Harrison Mcdowell,Garnett
 Carter,John Butler
@@ -1305,7 +1284,6 @@ Carter,Lawrence
 Carter,H.H. Thomas
 Carter,Siegel
 Carter,H. Jenerals
-Carter,Wyandotte
 Carter,N. Duffin
 Carter,Garnett
 John Butler,Nathan Duffin
@@ -1353,7 +1331,6 @@ John Butler,Lawrence
 John Butler,H.H. Thomas
 John Butler,Siegel
 John Butler,H. Jenerals
-John Butler,Wyandotte
 John Butler,N. Duffin
 John Butler,Garnett
 Nathan Duffin,G. H. Parker
@@ -1400,7 +1377,6 @@ Nathan Duffin,Lawrence
 Nathan Duffin,H.H. Thomas
 Nathan Duffin,Siegel
 Nathan Duffin,H. Jenerals
-Nathan Duffin,Wyandotte
 Nathan Duffin,N. Duffin
 Nathan Duffin,Garnett
 G. H. Parker,George Russell
@@ -1446,7 +1422,6 @@ G. H. Parker,Lawrence
 G. H. Parker,H.H. Thomas
 G. H. Parker,Siegel
 G. H. Parker,H. Jenerals
-G. H. Parker,Wyandotte
 G. H. Parker,N. Duffin
 G. H. Parker,Garnett
 George Russell,W.D. Matthews
@@ -1491,7 +1466,6 @@ George Russell,Lawrence
 George Russell,H.H. Thomas
 George Russell,Siegel
 George Russell,H. Jenerals
-George Russell,Wyandotte
 George Russell,N. Duffin
 George Russell,Garnett
 W.D. Matthews,Richard Page
@@ -1535,7 +1509,6 @@ W.D. Matthews,Lawrence
 W.D. Matthews,H.H. Thomas
 W.D. Matthews,Siegel
 W.D. Matthews,H. Jenerals
-W.D. Matthews,Wyandotte
 W.D. Matthews,N. Duffin
 W.D. Matthews,Garnett
 Richard Page,N. Harris
@@ -1578,7 +1551,6 @@ Richard Page,Lawrence
 Richard Page,H.H. Thomas
 Richard Page,Siegel
 Richard Page,H. Jenerals
-Richard Page,Wyandotte
 Richard Page,N. Duffin
 Richard Page,Garnett
 N. Harris,Jackson Johnson
@@ -1620,7 +1592,6 @@ N. Harris,Lawrence
 N. Harris,H.H. Thomas
 N. Harris,Siegel
 N. Harris,H. Jenerals
-N. Harris,Wyandotte
 N. Harris,N. Duffin
 N. Harris,Garnett
 Jackson Johnson,C.H. Langston
@@ -1661,7 +1632,6 @@ Jackson Johnson,Lawrence
 Jackson Johnson,H.H. Thomas
 Jackson Johnson,Siegel
 Jackson Johnson,H. Jenerals
-Jackson Johnson,Wyandotte
 Jackson Johnson,N. Duffin
 Jackson Johnson,Garnett
 C.H. Langston,George Cunningham
@@ -1701,7 +1671,6 @@ C.H. Langston,Lawrence
 C.H. Langston,H.H. Thomas
 C.H. Langston,Siegel
 C.H. Langston,H. Jenerals
-C.H. Langston,Wyandotte
 C.H. Langston,N. Duffin
 C.H. Langston,Garnett
 George Cunningham,John Johnson
@@ -1740,7 +1709,6 @@ George Cunningham,Lawrence
 George Cunningham,H.H. Thomas
 George Cunningham,Siegel
 George Cunningham,H. Jenerals
-George Cunningham,Wyandotte
 George Cunningham,N. Duffin
 George Cunningham,Garnett
 John Johnson,E.L. Bradley
@@ -1778,7 +1746,6 @@ John Johnson,Lawrence
 John Johnson,H.H. Thomas
 John Johnson,Siegel
 John Johnson,H. Jenerals
-John Johnson,Wyandotte
 John Johnson,N. Duffin
 John Johnson,Garnett
 E.L. Bradley,Anderson Morris
@@ -1815,7 +1782,6 @@ E.L. Bradley,Lawrence
 E.L. Bradley,H.H. Thomas
 E.L. Bradley,Siegel
 E.L. Bradley,H. Jenerals
-E.L. Bradley,Wyandotte
 E.L. Bradley,N. Duffin
 E.L. Bradley,Garnett
 Anderson Morris,Edward Hill
@@ -1851,7 +1817,6 @@ Anderson Morris,Lawrence
 Anderson Morris,H.H. Thomas
 Anderson Morris,Siegel
 Anderson Morris,H. Jenerals
-Anderson Morris,Wyandotte
 Anderson Morris,N. Duffin
 Anderson Morris,Garnett
 Edward Hill,Benjamin Wright
@@ -1886,7 +1851,6 @@ Edward Hill,Lawrence
 Edward Hill,H.H. Thomas
 Edward Hill,Siegel
 Edward Hill,H. Jenerals
-Edward Hill,Wyandotte
 Edward Hill,N. Duffin
 Edward Hill,Garnett
 Benjamin Wright,H.C. Hayden
@@ -1920,7 +1884,6 @@ Benjamin Wright,Lawrence
 Benjamin Wright,H.H. Thomas
 Benjamin Wright,Siegel
 Benjamin Wright,H. Jenerals
-Benjamin Wright,Wyandotte
 Benjamin Wright,N. Duffin
 Benjamin Wright,Garnett
 H.C. Hayden,John Berry
@@ -1953,7 +1916,6 @@ H.C. Hayden,Lawrence
 H.C. Hayden,H.H. Thomas
 H.C. Hayden,Siegel
 H.C. Hayden,H. Jenerals
-H.C. Hayden,Wyandotte
 H.C. Hayden,N. Duffin
 H.C. Hayden,Garnett
 John Berry,G.B. Gray
@@ -1985,7 +1947,6 @@ John Berry,Lawrence
 John Berry,H.H. Thomas
 John Berry,Siegel
 John Berry,H. Jenerals
-John Berry,Wyandotte
 John Berry,N. Duffin
 John Berry,Garnett
 G.B. Gray,A. Johnson
@@ -2016,7 +1977,6 @@ G.B. Gray,Lawrence
 G.B. Gray,H.H. Thomas
 G.B. Gray,Siegel
 G.B. Gray,H. Jenerals
-G.B. Gray,Wyandotte
 G.B. Gray,N. Duffin
 G.B. Gray,Garnett
 A. Johnson,Albert Mcadams
@@ -2046,7 +2006,6 @@ A. Johnson,Lawrence
 A. Johnson,H.H. Thomas
 A. Johnson,Siegel
 A. Johnson,H. Jenerals
-A. Johnson,Wyandotte
 A. Johnson,N. Duffin
 A. Johnson,Garnett
 Albert Mcadams,Brown
@@ -2075,7 +2034,6 @@ Albert Mcadams,Lawrence
 Albert Mcadams,H.H. Thomas
 Albert Mcadams,Siegel
 Albert Mcadams,H. Jenerals
-Albert Mcadams,Wyandotte
 Albert Mcadams,N. Duffin
 Albert Mcadams,Garnett
 Brown,Isaac Smith
@@ -2103,7 +2061,6 @@ Brown,Lawrence
 Brown,H.H. Thomas
 Brown,Siegel
 Brown,H. Jenerals
-Brown,Wyandotte
 Brown,N. Duffin
 Brown,Garnett
 Isaac Smith,Hiram Johnson
@@ -2130,7 +2087,6 @@ Isaac Smith,Lawrence
 Isaac Smith,H.H. Thomas
 Isaac Smith,Siegel
 Isaac Smith,H. Jenerals
-Isaac Smith,Wyandotte
 Isaac Smith,N. Duffin
 Isaac Smith,Garnett
 Hiram Johnson,Thomas Letcher
@@ -2156,7 +2112,6 @@ Hiram Johnson,Lawrence
 Hiram Johnson,H.H. Thomas
 Hiram Johnson,Siegel
 Hiram Johnson,H. Jenerals
-Hiram Johnson,Wyandotte
 Hiram Johnson,N. Duffin
 Hiram Johnson,Garnett
 Thomas Letcher,Monroe Williams
@@ -2181,7 +2136,6 @@ Thomas Letcher,Lawrence
 Thomas Letcher,H.H. Thomas
 Thomas Letcher,Siegel
 Thomas Letcher,H. Jenerals
-Thomas Letcher,Wyandotte
 Thomas Letcher,N. Duffin
 Thomas Letcher,Garnett
 Monroe Williams,H. C. Hayden
@@ -2205,7 +2159,6 @@ Monroe Williams,Lawrence
 Monroe Williams,H.H. Thomas
 Monroe Williams,Siegel
 Monroe Williams,H. Jenerals
-Monroe Williams,Wyandotte
 Monroe Williams,N. Duffin
 Monroe Williams,Garnett
 H. C. Hayden,G. B. Gray
@@ -2228,7 +2181,6 @@ H. C. Hayden,Lawrence
 H. C. Hayden,H.H. Thomas
 H. C. Hayden,Siegel
 H. C. Hayden,H. Jenerals
-H. C. Hayden,Wyandotte
 H. C. Hayden,N. Duffin
 H. C. Hayden,Garnett
 G. B. Gray,C. H. Langston
@@ -2250,7 +2202,6 @@ G. B. Gray,Lawrence
 G. B. Gray,H.H. Thomas
 G. B. Gray,Siegel
 G. B. Gray,H. Jenerals
-G. B. Gray,Wyandotte
 G. B. Gray,N. Duffin
 G. B. Gray,Garnett
 C. H. Langston,William D. Matthews
@@ -2271,7 +2222,6 @@ C. H. Langston,Lawrence
 C. H. Langston,H.H. Thomas
 C. H. Langston,Siegel
 C. H. Langston,H. Jenerals
-C. H. Langston,Wyandotte
 C. H. Langston,N. Duffin
 C. H. Langston,Garnett
 William D. Matthews,Daniel Stone
@@ -2291,7 +2241,6 @@ William D. Matthews,Lawrence
 William D. Matthews,H.H. Thomas
 William D. Matthews,Siegel
 William D. Matthews,H. Jenerals
-William D. Matthews,Wyandotte
 William D. Matthews,N. Duffin
 William D. Matthews,Garnett
 Daniel Stone,Henry Jennerals
@@ -2310,7 +2259,6 @@ Daniel Stone,Lawrence
 Daniel Stone,H.H. Thomas
 Daniel Stone,Siegel
 Daniel Stone,H. Jenerals
-Daniel Stone,Wyandotte
 Daniel Stone,N. Duffin
 Daniel Stone,Garnett
 Henry Jennerals,W. L. Smith
@@ -2328,7 +2276,6 @@ Henry Jennerals,Lawrence
 Henry Jennerals,H.H. Thomas
 Henry Jennerals,Siegel
 Henry Jennerals,H. Jenerals
-Henry Jennerals,Wyandotte
 Henry Jennerals,N. Duffin
 Henry Jennerals,Garnett
 W. L. Smith,Bradley
@@ -2345,7 +2292,6 @@ W. L. Smith,Lawrence
 W. L. Smith,H.H. Thomas
 W. L. Smith,Siegel
 W. L. Smith,H. Jenerals
-W. L. Smith,Wyandotte
 W. L. Smith,N. Duffin
 W. L. Smith,Garnett
 Bradley,Andy Johnson
@@ -2361,7 +2307,6 @@ Bradley,Lawrence
 Bradley,H.H. Thomas
 Bradley,Siegel
 Bradley,H. Jenerals
-Bradley,Wyandotte
 Bradley,N. Duffin
 Bradley,Garnett
 Andy Johnson,S.C. Pomeroy
@@ -2376,7 +2321,6 @@ Andy Johnson,Lawrence
 Andy Johnson,H.H. Thomas
 Andy Johnson,Siegel
 Andy Johnson,H. Jenerals
-Andy Johnson,Wyandotte
 Andy Johnson,N. Duffin
 Andy Johnson,Garnett
 S.C. Pomeroy,Sidney Clark
@@ -2390,7 +2334,6 @@ S.C. Pomeroy,Lawrence
 S.C. Pomeroy,H.H. Thomas
 S.C. Pomeroy,Siegel
 S.C. Pomeroy,H. Jenerals
-S.C. Pomeroy,Wyandotte
 S.C. Pomeroy,N. Duffin
 S.C. Pomeroy,Garnett
 Sidney Clark,Jefferson Davis
@@ -2403,7 +2346,6 @@ Sidney Clark,Lawrence
 Sidney Clark,H.H. Thomas
 Sidney Clark,Siegel
 Sidney Clark,H. Jenerals
-Sidney Clark,Wyandotte
 Sidney Clark,N. Duffin
 Sidney Clark,Garnett
 Jefferson Davis,J. C. Breckenridge
@@ -2415,7 +2357,6 @@ Jefferson Davis,Lawrence
 Jefferson Davis,H.H. Thomas
 Jefferson Davis,Siegel
 Jefferson Davis,H. Jenerals
-Jefferson Davis,Wyandotte
 Jefferson Davis,N. Duffin
 Jefferson Davis,Garnett
 J. C. Breckenridge,William H. Seward
@@ -2426,7 +2367,6 @@ J. C. Breckenridge,Lawrence
 J. C. Breckenridge,H.H. Thomas
 J. C. Breckenridge,Siegel
 J. C. Breckenridge,H. Jenerals
-J. C. Breckenridge,Wyandotte
 J. C. Breckenridge,N. Duffin
 J. C. Breckenridge,Garnett
 William H. Seward,Bunker Hill
@@ -2436,7 +2376,6 @@ William H. Seward,Lawrence
 William H. Seward,H.H. Thomas
 William H. Seward,Siegel
 William H. Seward,H. Jenerals
-William H. Seward,Wyandotte
 William H. Seward,N. Duffin
 William H. Seward,Garnett
 Bunker Hill,Wm. D. Matthews
@@ -2445,7 +2384,6 @@ Bunker Hill,Lawrence
 Bunker Hill,H.H. Thomas
 Bunker Hill,Siegel
 Bunker Hill,H. Jenerals
-Bunker Hill,Wyandotte
 Bunker Hill,N. Duffin
 Bunker Hill,Garnett
 Wm. D. Matthews,H. C Hayden
@@ -2453,34 +2391,26 @@ Wm. D. Matthews,Lawrence
 Wm. D. Matthews,H.H. Thomas
 Wm. D. Matthews,Siegel
 Wm. D. Matthews,H. Jenerals
-Wm. D. Matthews,Wyandotte
 Wm. D. Matthews,N. Duffin
 Wm. D. Matthews,Garnett
 H. C Hayden,Lawrence
 H. C Hayden,H.H. Thomas
 H. C Hayden,Siegel
 H. C Hayden,H. Jenerals
-H. C Hayden,Wyandotte
 H. C Hayden,N. Duffin
 H. C Hayden,Garnett
 Lawrence,H.H. Thomas
 Lawrence,Siegel
 Lawrence,H. Jenerals
-Lawrence,Wyandotte
 Lawrence,N. Duffin
 Lawrence,Garnett
 H.H. Thomas,Siegel
 H.H. Thomas,H. Jenerals
-H.H. Thomas,Wyandotte
 H.H. Thomas,N. Duffin
 H.H. Thomas,Garnett
 Siegel,H. Jenerals
-Siegel,Wyandotte
 Siegel,N. Duffin
 Siegel,Garnett
-H. Jenerals,Wyandotte
 H. Jenerals,N. Duffin
 H. Jenerals,Garnett
-Wyandotte,N. Duffin
-Wyandotte,Garnett
 N. Duffin,Garnett

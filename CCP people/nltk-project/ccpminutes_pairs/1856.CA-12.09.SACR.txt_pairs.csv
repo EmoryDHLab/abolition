@@ -1,4 +1,4 @@
-name1,name2
+source,target
 J. H. Townsend,J. B. Sanderson
 J. H. Townsend,F. G. Barbadoes
 J. H. Townsend,W. H. Newby
@@ -62,7 +62,6 @@ J. H. Townsend,C. M. Wilson
 J. H. Townsend,I. P. Gibbs
 J. H. Townsend,C. A. Gibson
 J. H. Townsend,W. H. Harper
-J. H. Townsend,H. F. Smithl
 J. H. Townsend,N. F. Henry
 J. H. Townsend,Detter
 J. H. Townsend,Sanderson
@@ -223,7 +222,6 @@ J. H. Townsend,J. D. Guillard
 J. H. Townsend,A. Oldham
 J. H. Townsend,E. H. Duplex
 J. H. Townsend,G. R. Symes
-J. H. Townsend,A. Jackson
 J. H. Townsend,Howard
 J. H. Townsend,B. Sanderson
 J. H. Townsend,E. Waters
@@ -315,7 +313,6 @@ J. B. Sanderson,C. M. Wilson
 J. B. Sanderson,I. P. Gibbs
 J. B. Sanderson,C. A. Gibson
 J. B. Sanderson,W. H. Harper
-J. B. Sanderson,H. F. Smithl
 J. B. Sanderson,N. F. Henry
 J. B. Sanderson,Detter
 J. B. Sanderson,Sanderson
@@ -476,7 +473,6 @@ J. B. Sanderson,J. D. Guillard
 J. B. Sanderson,A. Oldham
 J. B. Sanderson,E. H. Duplex
 J. B. Sanderson,G. R. Symes
-J. B. Sanderson,A. Jackson
 J. B. Sanderson,Howard
 J. B. Sanderson,B. Sanderson
 J. B. Sanderson,E. Waters
@@ -567,7 +563,6 @@ F. G. Barbadoes,C. M. Wilson
 F. G. Barbadoes,I. P. Gibbs
 F. G. Barbadoes,C. A. Gibson
 F. G. Barbadoes,W. H. Harper
-F. G. Barbadoes,H. F. Smithl
 F. G. Barbadoes,N. F. Henry
 F. G. Barbadoes,Detter
 F. G. Barbadoes,Sanderson
@@ -728,7 +723,6 @@ F. G. Barbadoes,J. D. Guillard
 F. G. Barbadoes,A. Oldham
 F. G. Barbadoes,E. H. Duplex
 F. G. Barbadoes,G. R. Symes
-F. G. Barbadoes,A. Jackson
 F. G. Barbadoes,Howard
 F. G. Barbadoes,B. Sanderson
 F. G. Barbadoes,E. Waters
@@ -818,7 +812,6 @@ W. H. Newby,C. M. Wilson
 W. H. Newby,I. P. Gibbs
 W. H. Newby,C. A. Gibson
 W. H. Newby,W. H. Harper
-W. H. Newby,H. F. Smithl
 W. H. Newby,N. F. Henry
 W. H. Newby,Detter
 W. H. Newby,Sanderson
@@ -979,7 +972,6 @@ W. H. Newby,J. D. Guillard
 W. H. Newby,A. Oldham
 W. H. Newby,E. H. Duplex
 W. H. Newby,G. R. Symes
-W. H. Newby,A. Jackson
 W. H. Newby,Howard
 W. H. Newby,B. Sanderson
 W. H. Newby,E. Waters
@@ -1068,7 +1060,6 @@ Vosburgh,C. M. Wilson
 Vosburgh,I. P. Gibbs
 Vosburgh,C. A. Gibson
 Vosburgh,W. H. Harper
-Vosburgh,H. F. Smithl
 Vosburgh,N. F. Henry
 Vosburgh,Detter
 Vosburgh,Sanderson
@@ -1229,7 +1220,6 @@ Vosburgh,J. D. Guillard
 Vosburgh,A. Oldham
 Vosburgh,E. H. Duplex
 Vosburgh,G. R. Symes
-Vosburgh,A. Jackson
 Vosburgh,Howard
 Vosburgh,B. Sanderson
 Vosburgh,E. Waters
@@ -1317,7 +1307,6 @@ Thomas Detter,C. M. Wilson
 Thomas Detter,I. P. Gibbs
 Thomas Detter,C. A. Gibson
 Thomas Detter,W. H. Harper
-Thomas Detter,H. F. Smithl
 Thomas Detter,N. F. Henry
 Thomas Detter,Detter
 Thomas Detter,Sanderson
@@ -1478,7 +1467,6 @@ Thomas Detter,J. D. Guillard
 Thomas Detter,A. Oldham
 Thomas Detter,E. H. Duplex
 Thomas Detter,G. R. Symes
-Thomas Detter,A. Jackson
 Thomas Detter,Howard
 Thomas Detter,B. Sanderson
 Thomas Detter,E. Waters
@@ -1565,7 +1553,6 @@ M. S. Haynes,C. M. Wilson
 M. S. Haynes,I. P. Gibbs
 M. S. Haynes,C. A. Gibson
 M. S. Haynes,W. H. Harper
-M. S. Haynes,H. F. Smithl
 M. S. Haynes,N. F. Henry
 M. S. Haynes,Detter
 M. S. Haynes,Sanderson
@@ -1726,7 +1713,6 @@ M. S. Haynes,J. D. Guillard
 M. S. Haynes,A. Oldham
 M. S. Haynes,E. H. Duplex
 M. S. Haynes,G. R. Symes
-M. S. Haynes,A. Jackson
 M. S. Haynes,Howard
 M. S. Haynes,B. Sanderson
 M. S. Haynes,E. Waters
@@ -1812,7 +1798,6 @@ E. K. Phelps,C. M. Wilson
 E. K. Phelps,I. P. Gibbs
 E. K. Phelps,C. A. Gibson
 E. K. Phelps,W. H. Harper
-E. K. Phelps,H. F. Smithl
 E. K. Phelps,N. F. Henry
 E. K. Phelps,Detter
 E. K. Phelps,Sanderson
@@ -1973,7 +1958,6 @@ E. K. Phelps,J. D. Guillard
 E. K. Phelps,A. Oldham
 E. K. Phelps,E. H. Duplex
 E. K. Phelps,G. R. Symes
-E. K. Phelps,A. Jackson
 E. K. Phelps,Howard
 E. K. Phelps,B. Sanderson
 E. K. Phelps,E. Waters
@@ -2058,7 +2042,6 @@ A. E. Dennison,C. M. Wilson
 A. E. Dennison,I. P. Gibbs
 A. E. Dennison,C. A. Gibson
 A. E. Dennison,W. H. Harper
-A. E. Dennison,H. F. Smithl
 A. E. Dennison,N. F. Henry
 A. E. Dennison,Detter
 A. E. Dennison,Sanderson
@@ -2219,7 +2202,6 @@ A. E. Dennison,J. D. Guillard
 A. E. Dennison,A. Oldham
 A. E. Dennison,E. H. Duplex
 A. E. Dennison,G. R. Symes
-A. E. Dennison,A. Jackson
 A. E. Dennison,Howard
 A. E. Dennison,B. Sanderson
 A. E. Dennison,E. Waters
@@ -2303,7 +2285,6 @@ Jacob Francis,C. M. Wilson
 Jacob Francis,I. P. Gibbs
 Jacob Francis,C. A. Gibson
 Jacob Francis,W. H. Harper
-Jacob Francis,H. F. Smithl
 Jacob Francis,N. F. Henry
 Jacob Francis,Detter
 Jacob Francis,Sanderson
@@ -2464,7 +2445,6 @@ Jacob Francis,J. D. Guillard
 Jacob Francis,A. Oldham
 Jacob Francis,E. H. Duplex
 Jacob Francis,G. R. Symes
-Jacob Francis,A. Jackson
 Jacob Francis,Howard
 Jacob Francis,B. Sanderson
 Jacob Francis,E. Waters
@@ -2547,7 +2527,6 @@ W. Miller,C. M. Wilson
 W. Miller,I. P. Gibbs
 W. Miller,C. A. Gibson
 W. Miller,W. H. Harper
-W. Miller,H. F. Smithl
 W. Miller,N. F. Henry
 W. Miller,Detter
 W. Miller,Sanderson
@@ -2708,7 +2687,6 @@ W. Miller,J. D. Guillard
 W. Miller,A. Oldham
 W. Miller,E. H. Duplex
 W. Miller,G. R. Symes
-W. Miller,A. Jackson
 W. Miller,Howard
 W. Miller,B. Sanderson
 W. Miller,E. Waters
@@ -2790,7 +2768,6 @@ A. Sisco,C. M. Wilson
 A. Sisco,I. P. Gibbs
 A. Sisco,C. A. Gibson
 A. Sisco,W. H. Harper
-A. Sisco,H. F. Smithl
 A. Sisco,N. F. Henry
 A. Sisco,Detter
 A. Sisco,Sanderson
@@ -2951,7 +2928,6 @@ A. Sisco,J. D. Guillard
 A. Sisco,A. Oldham
 A. Sisco,E. H. Duplex
 A. Sisco,G. R. Symes
-A. Sisco,A. Jackson
 A. Sisco,Howard
 A. Sisco,B. Sanderson
 A. Sisco,E. Waters
@@ -3032,7 +3008,6 @@ B. B. Young,C. M. Wilson
 B. B. Young,I. P. Gibbs
 B. B. Young,C. A. Gibson
 B. B. Young,W. H. Harper
-B. B. Young,H. F. Smithl
 B. B. Young,N. F. Henry
 B. B. Young,Detter
 B. B. Young,Sanderson
@@ -3193,7 +3168,6 @@ B. B. Young,J. D. Guillard
 B. B. Young,A. Oldham
 B. B. Young,E. H. Duplex
 B. B. Young,G. R. Symes
-B. B. Young,A. Jackson
 B. B. Young,Howard
 B. B. Young,B. Sanderson
 B. B. Young,E. Waters
@@ -3273,7 +3247,6 @@ E. Vincent,C. M. Wilson
 E. Vincent,I. P. Gibbs
 E. Vincent,C. A. Gibson
 E. Vincent,W. H. Harper
-E. Vincent,H. F. Smithl
 E. Vincent,N. F. Henry
 E. Vincent,Detter
 E. Vincent,Sanderson
@@ -3434,7 +3407,6 @@ E. Vincent,J. D. Guillard
 E. Vincent,A. Oldham
 E. Vincent,E. H. Duplex
 E. Vincent,G. R. Symes
-E. Vincent,A. Jackson
 E. Vincent,Howard
 E. Vincent,B. Sanderson
 E. Vincent,E. Waters
@@ -3513,7 +3485,6 @@ T. J. Vosburgh,C. M. Wilson
 T. J. Vosburgh,I. P. Gibbs
 T. J. Vosburgh,C. A. Gibson
 T. J. Vosburgh,W. H. Harper
-T. J. Vosburgh,H. F. Smithl
 T. J. Vosburgh,N. F. Henry
 T. J. Vosburgh,Detter
 T. J. Vosburgh,Sanderson
@@ -3674,7 +3645,6 @@ T. J. Vosburgh,J. D. Guillard
 T. J. Vosburgh,A. Oldham
 T. J. Vosburgh,E. H. Duplex
 T. J. Vosburgh,G. R. Symes
-T. J. Vosburgh,A. Jackson
 T. J. Vosburgh,Howard
 T. J. Vosburgh,B. Sanderson
 T. J. Vosburgh,E. Waters
@@ -3752,7 +3722,6 @@ M. J. Brown,C. M. Wilson
 M. J. Brown,I. P. Gibbs
 M. J. Brown,C. A. Gibson
 M. J. Brown,W. H. Harper
-M. J. Brown,H. F. Smithl
 M. J. Brown,N. F. Henry
 M. J. Brown,Detter
 M. J. Brown,Sanderson
@@ -3913,7 +3882,6 @@ M. J. Brown,J. D. Guillard
 M. J. Brown,A. Oldham
 M. J. Brown,E. H. Duplex
 M. J. Brown,G. R. Symes
-M. J. Brown,A. Jackson
 M. J. Brown,Howard
 M. J. Brown,B. Sanderson
 M. J. Brown,E. Waters
@@ -3990,7 +3958,6 @@ E. A. Booth,C. M. Wilson
 E. A. Booth,I. P. Gibbs
 E. A. Booth,C. A. Gibson
 E. A. Booth,W. H. Harper
-E. A. Booth,H. F. Smithl
 E. A. Booth,N. F. Henry
 E. A. Booth,Detter
 E. A. Booth,Sanderson
@@ -4151,7 +4118,6 @@ E. A. Booth,J. D. Guillard
 E. A. Booth,A. Oldham
 E. A. Booth,E. H. Duplex
 E. A. Booth,G. R. Symes
-E. A. Booth,A. Jackson
 E. A. Booth,Howard
 E. A. Booth,B. Sanderson
 E. A. Booth,E. Waters
@@ -4227,7 +4193,6 @@ R. A. Hall,C. M. Wilson
 R. A. Hall,I. P. Gibbs
 R. A. Hall,C. A. Gibson
 R. A. Hall,W. H. Harper
-R. A. Hall,H. F. Smithl
 R. A. Hall,N. F. Henry
 R. A. Hall,Detter
 R. A. Hall,Sanderson
@@ -4388,7 +4353,6 @@ R. A. Hall,J. D. Guillard
 R. A. Hall,A. Oldham
 R. A. Hall,E. H. Duplex
 R. A. Hall,G. R. Symes
-R. A. Hall,A. Jackson
 R. A. Hall,Howard
 R. A. Hall,B. Sanderson
 R. A. Hall,E. Waters
@@ -4463,7 +4427,6 @@ G. F. Fletcher,C. M. Wilson
 G. F. Fletcher,I. P. Gibbs
 G. F. Fletcher,C. A. Gibson
 G. F. Fletcher,W. H. Harper
-G. F. Fletcher,H. F. Smithl
 G. F. Fletcher,N. F. Henry
 G. F. Fletcher,Detter
 G. F. Fletcher,Sanderson
@@ -4624,7 +4587,6 @@ G. F. Fletcher,J. D. Guillard
 G. F. Fletcher,A. Oldham
 G. F. Fletcher,E. H. Duplex
 G. F. Fletcher,G. R. Symes
-G. F. Fletcher,A. Jackson
 G. F. Fletcher,Howard
 G. F. Fletcher,B. Sanderson
 G. F. Fletcher,E. Waters
@@ -4698,7 +4660,6 @@ J. M. Flowers,C. M. Wilson
 J. M. Flowers,I. P. Gibbs
 J. M. Flowers,C. A. Gibson
 J. M. Flowers,W. H. Harper
-J. M. Flowers,H. F. Smithl
 J. M. Flowers,N. F. Henry
 J. M. Flowers,Detter
 J. M. Flowers,Sanderson
@@ -4859,7 +4820,6 @@ J. M. Flowers,J. D. Guillard
 J. M. Flowers,A. Oldham
 J. M. Flowers,E. H. Duplex
 J. M. Flowers,G. R. Symes
-J. M. Flowers,A. Jackson
 J. M. Flowers,Howard
 J. M. Flowers,B. Sanderson
 J. M. Flowers,E. Waters
@@ -4932,7 +4892,6 @@ Wm. H. Hall,C. M. Wilson
 Wm. H. Hall,I. P. Gibbs
 Wm. H. Hall,C. A. Gibson
 Wm. H. Hall,W. H. Harper
-Wm. H. Hall,H. F. Smithl
 Wm. H. Hall,N. F. Henry
 Wm. H. Hall,Detter
 Wm. H. Hall,Sanderson
@@ -5093,7 +5052,6 @@ Wm. H. Hall,J. D. Guillard
 Wm. H. Hall,A. Oldham
 Wm. H. Hall,E. H. Duplex
 Wm. H. Hall,G. R. Symes
-Wm. H. Hall,A. Jackson
 Wm. H. Hall,Howard
 Wm. H. Hall,B. Sanderson
 Wm. H. Hall,E. Waters
@@ -5165,7 +5123,6 @@ Andrew Collins,C. M. Wilson
 Andrew Collins,I. P. Gibbs
 Andrew Collins,C. A. Gibson
 Andrew Collins,W. H. Harper
-Andrew Collins,H. F. Smithl
 Andrew Collins,N. F. Henry
 Andrew Collins,Detter
 Andrew Collins,Sanderson
@@ -5326,7 +5283,6 @@ Andrew Collins,J. D. Guillard
 Andrew Collins,A. Oldham
 Andrew Collins,E. H. Duplex
 Andrew Collins,G. R. Symes
-Andrew Collins,A. Jackson
 Andrew Collins,Howard
 Andrew Collins,B. Sanderson
 Andrew Collins,E. Waters
@@ -5397,7 +5353,6 @@ G. B. Brown,C. M. Wilson
 G. B. Brown,I. P. Gibbs
 G. B. Brown,C. A. Gibson
 G. B. Brown,W. H. Harper
-G. B. Brown,H. F. Smithl
 G. B. Brown,N. F. Henry
 G. B. Brown,Detter
 G. B. Brown,Sanderson
@@ -5558,7 +5513,6 @@ G. B. Brown,J. D. Guillard
 G. B. Brown,A. Oldham
 G. B. Brown,E. H. Duplex
 G. B. Brown,G. R. Symes
-G. B. Brown,A. Jackson
 G. B. Brown,Howard
 G. B. Brown,B. Sanderson
 G. B. Brown,E. Waters
@@ -5628,7 +5582,6 @@ F. Hutfield,C. M. Wilson
 F. Hutfield,I. P. Gibbs
 F. Hutfield,C. A. Gibson
 F. Hutfield,W. H. Harper
-F. Hutfield,H. F. Smithl
 F. Hutfield,N. F. Henry
 F. Hutfield,Detter
 F. Hutfield,Sanderson
@@ -5789,7 +5742,6 @@ F. Hutfield,J. D. Guillard
 F. Hutfield,A. Oldham
 F. Hutfield,E. H. Duplex
 F. Hutfield,G. R. Symes
-F. Hutfield,A. Jackson
 F. Hutfield,Howard
 F. Hutfield,B. Sanderson
 F. Hutfield,E. Waters
@@ -5858,7 +5810,6 @@ John Buckner,C. M. Wilson
 John Buckner,I. P. Gibbs
 John Buckner,C. A. Gibson
 John Buckner,W. H. Harper
-John Buckner,H. F. Smithl
 John Buckner,N. F. Henry
 John Buckner,Detter
 John Buckner,Sanderson
@@ -6019,7 +5970,6 @@ John Buckner,J. D. Guillard
 John Buckner,A. Oldham
 John Buckner,E. H. Duplex
 John Buckner,G. R. Symes
-John Buckner,A. Jackson
 John Buckner,Howard
 John Buckner,B. Sanderson
 John Buckner,E. Waters
@@ -6087,7 +6037,6 @@ G. W. Booth,C. M. Wilson
 G. W. Booth,I. P. Gibbs
 G. W. Booth,C. A. Gibson
 G. W. Booth,W. H. Harper
-G. W. Booth,H. F. Smithl
 G. W. Booth,N. F. Henry
 G. W. Booth,Detter
 G. W. Booth,Sanderson
@@ -6248,7 +6197,6 @@ G. W. Booth,J. D. Guillard
 G. W. Booth,A. Oldham
 G. W. Booth,E. H. Duplex
 G. W. Booth,G. R. Symes
-G. W. Booth,A. Jackson
 G. W. Booth,Howard
 G. W. Booth,B. Sanderson
 G. W. Booth,E. Waters
@@ -6315,7 +6263,6 @@ F. Lawrence,C. M. Wilson
 F. Lawrence,I. P. Gibbs
 F. Lawrence,C. A. Gibson
 F. Lawrence,W. H. Harper
-F. Lawrence,H. F. Smithl
 F. Lawrence,N. F. Henry
 F. Lawrence,Detter
 F. Lawrence,Sanderson
@@ -6476,7 +6423,6 @@ F. Lawrence,J. D. Guillard
 F. Lawrence,A. Oldham
 F. Lawrence,E. H. Duplex
 F. Lawrence,G. R. Symes
-F. Lawrence,A. Jackson
 F. Lawrence,Howard
 F. Lawrence,B. Sanderson
 F. Lawrence,E. Waters
@@ -6542,7 +6488,6 @@ J. C. Mortimer,C. M. Wilson
 J. C. Mortimer,I. P. Gibbs
 J. C. Mortimer,C. A. Gibson
 J. C. Mortimer,W. H. Harper
-J. C. Mortimer,H. F. Smithl
 J. C. Mortimer,N. F. Henry
 J. C. Mortimer,Detter
 J. C. Mortimer,Sanderson
@@ -6703,7 +6648,6 @@ J. C. Mortimer,J. D. Guillard
 J. C. Mortimer,A. Oldham
 J. C. Mortimer,E. H. Duplex
 J. C. Mortimer,G. R. Symes
-J. C. Mortimer,A. Jackson
 J. C. Mortimer,Howard
 J. C. Mortimer,B. Sanderson
 J. C. Mortimer,E. Waters
@@ -6768,7 +6712,6 @@ J. B. Handy,C. M. Wilson
 J. B. Handy,I. P. Gibbs
 J. B. Handy,C. A. Gibson
 J. B. Handy,W. H. Harper
-J. B. Handy,H. F. Smithl
 J. B. Handy,N. F. Henry
 J. B. Handy,Detter
 J. B. Handy,Sanderson
@@ -6929,7 +6872,6 @@ J. B. Handy,J. D. Guillard
 J. B. Handy,A. Oldham
 J. B. Handy,E. H. Duplex
 J. B. Handy,G. R. Symes
-J. B. Handy,A. Jackson
 J. B. Handy,Howard
 J. B. Handy,B. Sanderson
 J. B. Handy,E. Waters
@@ -6993,7 +6935,6 @@ James Hubbard,C. M. Wilson
 James Hubbard,I. P. Gibbs
 James Hubbard,C. A. Gibson
 James Hubbard,W. H. Harper
-James Hubbard,H. F. Smithl
 James Hubbard,N. F. Henry
 James Hubbard,Detter
 James Hubbard,Sanderson
@@ -7154,7 +7095,6 @@ James Hubbard,J. D. Guillard
 James Hubbard,A. Oldham
 James Hubbard,E. H. Duplex
 James Hubbard,G. R. Symes
-James Hubbard,A. Jackson
 James Hubbard,Howard
 James Hubbard,B. Sanderson
 James Hubbard,E. Waters
@@ -7217,7 +7157,6 @@ R. W. Freman,C. M. Wilson
 R. W. Freman,I. P. Gibbs
 R. W. Freman,C. A. Gibson
 R. W. Freman,W. H. Harper
-R. W. Freman,H. F. Smithl
 R. W. Freman,N. F. Henry
 R. W. Freman,Detter
 R. W. Freman,Sanderson
@@ -7378,7 +7317,6 @@ R. W. Freman,J. D. Guillard
 R. W. Freman,A. Oldham
 R. W. Freman,E. H. Duplex
 R. W. Freman,G. R. Symes
-R. W. Freman,A. Jackson
 R. W. Freman,Howard
 R. W. Freman,B. Sanderson
 R. W. Freman,E. Waters
@@ -7440,7 +7378,6 @@ S. Holmes,C. M. Wilson
 S. Holmes,I. P. Gibbs
 S. Holmes,C. A. Gibson
 S. Holmes,W. H. Harper
-S. Holmes,H. F. Smithl
 S. Holmes,N. F. Henry
 S. Holmes,Detter
 S. Holmes,Sanderson
@@ -7601,7 +7538,6 @@ S. Holmes,J. D. Guillard
 S. Holmes,A. Oldham
 S. Holmes,E. H. Duplex
 S. Holmes,G. R. Symes
-S. Holmes,A. Jackson
 S. Holmes,Howard
 S. Holmes,B. Sanderson
 S. Holmes,E. Waters
@@ -7662,7 +7598,6 @@ David Lewis,C. M. Wilson
 David Lewis,I. P. Gibbs
 David Lewis,C. A. Gibson
 David Lewis,W. H. Harper
-David Lewis,H. F. Smithl
 David Lewis,N. F. Henry
 David Lewis,Detter
 David Lewis,Sanderson
@@ -7823,7 +7758,6 @@ David Lewis,J. D. Guillard
 David Lewis,A. Oldham
 David Lewis,E. H. Duplex
 David Lewis,G. R. Symes
-David Lewis,A. Jackson
 David Lewis,Howard
 David Lewis,B. Sanderson
 David Lewis,E. Waters
@@ -7883,7 +7817,6 @@ John Wilmot,C. M. Wilson
 John Wilmot,I. P. Gibbs
 John Wilmot,C. A. Gibson
 John Wilmot,W. H. Harper
-John Wilmot,H. F. Smithl
 John Wilmot,N. F. Henry
 John Wilmot,Detter
 John Wilmot,Sanderson
@@ -8044,7 +7977,6 @@ John Wilmot,J. D. Guillard
 John Wilmot,A. Oldham
 John Wilmot,E. H. Duplex
 John Wilmot,G. R. Symes
-John Wilmot,A. Jackson
 John Wilmot,Howard
 John Wilmot,B. Sanderson
 John Wilmot,E. Waters
@@ -8103,7 +8035,6 @@ W. M. Newby,C. M. Wilson
 W. M. Newby,I. P. Gibbs
 W. M. Newby,C. A. Gibson
 W. M. Newby,W. H. Harper
-W. M. Newby,H. F. Smithl
 W. M. Newby,N. F. Henry
 W. M. Newby,Detter
 W. M. Newby,Sanderson
@@ -8264,7 +8195,6 @@ W. M. Newby,J. D. Guillard
 W. M. Newby,A. Oldham
 W. M. Newby,E. H. Duplex
 W. M. Newby,G. R. Symes
-W. M. Newby,A. Jackson
 W. M. Newby,Howard
 W. M. Newby,B. Sanderson
 W. M. Newby,E. Waters
@@ -8322,7 +8252,6 @@ J. J. Moore,C. M. Wilson
 J. J. Moore,I. P. Gibbs
 J. J. Moore,C. A. Gibson
 J. J. Moore,W. H. Harper
-J. J. Moore,H. F. Smithl
 J. J. Moore,N. F. Henry
 J. J. Moore,Detter
 J. J. Moore,Sanderson
@@ -8483,7 +8412,6 @@ J. J. Moore,J. D. Guillard
 J. J. Moore,A. Oldham
 J. J. Moore,E. H. Duplex
 J. J. Moore,G. R. Symes
-J. J. Moore,A. Jackson
 J. J. Moore,Howard
 J. J. Moore,B. Sanderson
 J. J. Moore,E. Waters
@@ -8540,7 +8468,6 @@ E. J. Johnson,C. M. Wilson
 E. J. Johnson,I. P. Gibbs
 E. J. Johnson,C. A. Gibson
 E. J. Johnson,W. H. Harper
-E. J. Johnson,H. F. Smithl
 E. J. Johnson,N. F. Henry
 E. J. Johnson,Detter
 E. J. Johnson,Sanderson
@@ -8701,7 +8628,6 @@ E. J. Johnson,J. D. Guillard
 E. J. Johnson,A. Oldham
 E. J. Johnson,E. H. Duplex
 E. J. Johnson,G. R. Symes
-E. J. Johnson,A. Jackson
 E. J. Johnson,Howard
 E. J. Johnson,B. Sanderson
 E. J. Johnson,E. Waters
@@ -8757,7 +8683,6 @@ A. G. Dennison,C. M. Wilson
 A. G. Dennison,I. P. Gibbs
 A. G. Dennison,C. A. Gibson
 A. G. Dennison,W. H. Harper
-A. G. Dennison,H. F. Smithl
 A. G. Dennison,N. F. Henry
 A. G. Dennison,Detter
 A. G. Dennison,Sanderson
@@ -8918,7 +8843,6 @@ A. G. Dennison,J. D. Guillard
 A. G. Dennison,A. Oldham
 A. G. Dennison,E. H. Duplex
 A. G. Dennison,G. R. Symes
-A. G. Dennison,A. Jackson
 A. G. Dennison,Howard
 A. G. Dennison,B. Sanderson
 A. G. Dennison,E. Waters
@@ -8973,7 +8897,6 @@ G. W. Gordon,C. M. Wilson
 G. W. Gordon,I. P. Gibbs
 G. W. Gordon,C. A. Gibson
 G. W. Gordon,W. H. Harper
-G. W. Gordon,H. F. Smithl
 G. W. Gordon,N. F. Henry
 G. W. Gordon,Detter
 G. W. Gordon,Sanderson
@@ -9134,7 +9057,6 @@ G. W. Gordon,J. D. Guillard
 G. W. Gordon,A. Oldham
 G. W. Gordon,E. H. Duplex
 G. W. Gordon,G. R. Symes
-G. W. Gordon,A. Jackson
 G. W. Gordon,Howard
 G. W. Gordon,B. Sanderson
 G. W. Gordon,E. Waters
@@ -9188,7 +9110,6 @@ C. B. Bass,C. M. Wilson
 C. B. Bass,I. P. Gibbs
 C. B. Bass,C. A. Gibson
 C. B. Bass,W. H. Harper
-C. B. Bass,H. F. Smithl
 C. B. Bass,N. F. Henry
 C. B. Bass,Detter
 C. B. Bass,Sanderson
@@ -9349,7 +9270,6 @@ C. B. Bass,J. D. Guillard
 C. B. Bass,A. Oldham
 C. B. Bass,E. H. Duplex
 C. B. Bass,G. R. Symes
-C. B. Bass,A. Jackson
 C. B. Bass,Howard
 C. B. Bass,B. Sanderson
 C. B. Bass,E. Waters
@@ -9402,7 +9322,6 @@ H. M. Collins,C. M. Wilson
 H. M. Collins,I. P. Gibbs
 H. M. Collins,C. A. Gibson
 H. M. Collins,W. H. Harper
-H. M. Collins,H. F. Smithl
 H. M. Collins,N. F. Henry
 H. M. Collins,Detter
 H. M. Collins,Sanderson
@@ -9563,7 +9482,6 @@ H. M. Collins,J. D. Guillard
 H. M. Collins,A. Oldham
 H. M. Collins,E. H. Duplex
 H. M. Collins,G. R. Symes
-H. M. Collins,A. Jackson
 H. M. Collins,Howard
 H. M. Collins,B. Sanderson
 H. M. Collins,E. Waters
@@ -9615,7 +9533,6 @@ Peter Anderson,C. M. Wilson
 Peter Anderson,I. P. Gibbs
 Peter Anderson,C. A. Gibson
 Peter Anderson,W. H. Harper
-Peter Anderson,H. F. Smithl
 Peter Anderson,N. F. Henry
 Peter Anderson,Detter
 Peter Anderson,Sanderson
@@ -9776,7 +9693,6 @@ Peter Anderson,J. D. Guillard
 Peter Anderson,A. Oldham
 Peter Anderson,E. H. Duplex
 Peter Anderson,G. R. Symes
-Peter Anderson,A. Jackson
 Peter Anderson,Howard
 Peter Anderson,B. Sanderson
 Peter Anderson,E. Waters
@@ -9827,7 +9743,6 @@ Wm. F. Courts,C. M. Wilson
 Wm. F. Courts,I. P. Gibbs
 Wm. F. Courts,C. A. Gibson
 Wm. F. Courts,W. H. Harper
-Wm. F. Courts,H. F. Smithl
 Wm. F. Courts,N. F. Henry
 Wm. F. Courts,Detter
 Wm. F. Courts,Sanderson
@@ -9988,7 +9903,6 @@ Wm. F. Courts,J. D. Guillard
 Wm. F. Courts,A. Oldham
 Wm. F. Courts,E. H. Duplex
 Wm. F. Courts,G. R. Symes
-Wm. F. Courts,A. Jackson
 Wm. F. Courts,Howard
 Wm. F. Courts,B. Sanderson
 Wm. F. Courts,E. Waters
@@ -10038,7 +9952,6 @@ F. R. Carter,C. M. Wilson
 F. R. Carter,I. P. Gibbs
 F. R. Carter,C. A. Gibson
 F. R. Carter,W. H. Harper
-F. R. Carter,H. F. Smithl
 F. R. Carter,N. F. Henry
 F. R. Carter,Detter
 F. R. Carter,Sanderson
@@ -10199,7 +10112,6 @@ F. R. Carter,J. D. Guillard
 F. R. Carter,A. Oldham
 F. R. Carter,E. H. Duplex
 F. R. Carter,G. R. Symes
-F. R. Carter,A. Jackson
 F. R. Carter,Howard
 F. R. Carter,B. Sanderson
 F. R. Carter,E. Waters
@@ -10248,7 +10160,6 @@ Nathan Pointer,C. M. Wilson
 Nathan Pointer,I. P. Gibbs
 Nathan Pointer,C. A. Gibson
 Nathan Pointer,W. H. Harper
-Nathan Pointer,H. F. Smithl
 Nathan Pointer,N. F. Henry
 Nathan Pointer,Detter
 Nathan Pointer,Sanderson
@@ -10409,7 +10320,6 @@ Nathan Pointer,J. D. Guillard
 Nathan Pointer,A. Oldham
 Nathan Pointer,E. H. Duplex
 Nathan Pointer,G. R. Symes
-Nathan Pointer,A. Jackson
 Nathan Pointer,Howard
 Nathan Pointer,B. Sanderson
 Nathan Pointer,E. Waters
@@ -10457,7 +10367,6 @@ E. H. Parker,C. M. Wilson
 E. H. Parker,I. P. Gibbs
 E. H. Parker,C. A. Gibson
 E. H. Parker,W. H. Harper
-E. H. Parker,H. F. Smithl
 E. H. Parker,N. F. Henry
 E. H. Parker,Detter
 E. H. Parker,Sanderson
@@ -10618,7 +10527,6 @@ E. H. Parker,J. D. Guillard
 E. H. Parker,A. Oldham
 E. H. Parker,E. H. Duplex
 E. H. Parker,G. R. Symes
-E. H. Parker,A. Jackson
 E. H. Parker,Howard
 E. H. Parker,B. Sanderson
 E. H. Parker,E. Waters
@@ -10665,7 +10573,6 @@ M. W. Gibbs,C. M. Wilson
 M. W. Gibbs,I. P. Gibbs
 M. W. Gibbs,C. A. Gibson
 M. W. Gibbs,W. H. Harper
-M. W. Gibbs,H. F. Smithl
 M. W. Gibbs,N. F. Henry
 M. W. Gibbs,Detter
 M. W. Gibbs,Sanderson
@@ -10826,7 +10733,6 @@ M. W. Gibbs,J. D. Guillard
 M. W. Gibbs,A. Oldham
 M. W. Gibbs,E. H. Duplex
 M. W. Gibbs,G. R. Symes
-M. W. Gibbs,A. Jackson
 M. W. Gibbs,Howard
 M. W. Gibbs,B. Sanderson
 M. W. Gibbs,E. Waters
@@ -10872,7 +10778,6 @@ C. H. Mcdougall,C. M. Wilson
 C. H. Mcdougall,I. P. Gibbs
 C. H. Mcdougall,C. A. Gibson
 C. H. Mcdougall,W. H. Harper
-C. H. Mcdougall,H. F. Smithl
 C. H. Mcdougall,N. F. Henry
 C. H. Mcdougall,Detter
 C. H. Mcdougall,Sanderson
@@ -11033,7 +10938,6 @@ C. H. Mcdougall,J. D. Guillard
 C. H. Mcdougall,A. Oldham
 C. H. Mcdougall,E. H. Duplex
 C. H. Mcdougall,G. R. Symes
-C. H. Mcdougall,A. Jackson
 C. H. Mcdougall,Howard
 C. H. Mcdougall,B. Sanderson
 C. H. Mcdougall,E. Waters
@@ -11078,7 +10982,6 @@ D. P. Stokes,C. M. Wilson
 D. P. Stokes,I. P. Gibbs
 D. P. Stokes,C. A. Gibson
 D. P. Stokes,W. H. Harper
-D. P. Stokes,H. F. Smithl
 D. P. Stokes,N. F. Henry
 D. P. Stokes,Detter
 D. P. Stokes,Sanderson
@@ -11239,7 +11142,6 @@ D. P. Stokes,J. D. Guillard
 D. P. Stokes,A. Oldham
 D. P. Stokes,E. H. Duplex
 D. P. Stokes,G. R. Symes
-D. P. Stokes,A. Jackson
 D. P. Stokes,Howard
 D. P. Stokes,B. Sanderson
 D. P. Stokes,E. Waters
@@ -11283,7 +11185,6 @@ Daniel Seals,C. M. Wilson
 Daniel Seals,I. P. Gibbs
 Daniel Seals,C. A. Gibson
 Daniel Seals,W. H. Harper
-Daniel Seals,H. F. Smithl
 Daniel Seals,N. F. Henry
 Daniel Seals,Detter
 Daniel Seals,Sanderson
@@ -11444,7 +11345,6 @@ Daniel Seals,J. D. Guillard
 Daniel Seals,A. Oldham
 Daniel Seals,E. H. Duplex
 Daniel Seals,G. R. Symes
-Daniel Seals,A. Jackson
 Daniel Seals,Howard
 Daniel Seals,B. Sanderson
 Daniel Seals,E. Waters
@@ -11487,7 +11387,6 @@ Charles Satchel,C. M. Wilson
 Charles Satchel,I. P. Gibbs
 Charles Satchel,C. A. Gibson
 Charles Satchel,W. H. Harper
-Charles Satchel,H. F. Smithl
 Charles Satchel,N. F. Henry
 Charles Satchel,Detter
 Charles Satchel,Sanderson
@@ -11648,7 +11547,6 @@ Charles Satchel,J. D. Guillard
 Charles Satchel,A. Oldham
 Charles Satchel,E. H. Duplex
 Charles Satchel,G. R. Symes
-Charles Satchel,A. Jackson
 Charles Satchel,Howard
 Charles Satchel,B. Sanderson
 Charles Satchel,E. Waters
@@ -11690,7 +11588,6 @@ J. E. Brown,C. M. Wilson
 J. E. Brown,I. P. Gibbs
 J. E. Brown,C. A. Gibson
 J. E. Brown,W. H. Harper
-J. E. Brown,H. F. Smithl
 J. E. Brown,N. F. Henry
 J. E. Brown,Detter
 J. E. Brown,Sanderson
@@ -11851,7 +11748,6 @@ J. E. Brown,J. D. Guillard
 J. E. Brown,A. Oldham
 J. E. Brown,E. H. Duplex
 J. E. Brown,G. R. Symes
-J. E. Brown,A. Jackson
 J. E. Brown,Howard
 J. E. Brown,B. Sanderson
 J. E. Brown,E. Waters
@@ -11892,7 +11788,6 @@ W. H. Hall,C. M. Wilson
 W. H. Hall,I. P. Gibbs
 W. H. Hall,C. A. Gibson
 W. H. Hall,W. H. Harper
-W. H. Hall,H. F. Smithl
 W. H. Hall,N. F. Henry
 W. H. Hall,Detter
 W. H. Hall,Sanderson
@@ -12053,7 +11948,6 @@ W. H. Hall,J. D. Guillard
 W. H. Hall,A. Oldham
 W. H. Hall,E. H. Duplex
 W. H. Hall,G. R. Symes
-W. H. Hall,A. Jackson
 W. H. Hall,Howard
 W. H. Hall,B. Sanderson
 W. H. Hall,E. Waters
@@ -12093,7 +11987,6 @@ J. B. Johnson,C. M. Wilson
 J. B. Johnson,I. P. Gibbs
 J. B. Johnson,C. A. Gibson
 J. B. Johnson,W. H. Harper
-J. B. Johnson,H. F. Smithl
 J. B. Johnson,N. F. Henry
 J. B. Johnson,Detter
 J. B. Johnson,Sanderson
@@ -12254,7 +12147,6 @@ J. B. Johnson,J. D. Guillard
 J. B. Johnson,A. Oldham
 J. B. Johnson,E. H. Duplex
 J. B. Johnson,G. R. Symes
-J. B. Johnson,A. Jackson
 J. B. Johnson,Howard
 J. B. Johnson,B. Sanderson
 J. B. Johnson,E. Waters
@@ -12293,7 +12185,6 @@ Alex. Ferguson,C. M. Wilson
 Alex. Ferguson,I. P. Gibbs
 Alex. Ferguson,C. A. Gibson
 Alex. Ferguson,W. H. Harper
-Alex. Ferguson,H. F. Smithl
 Alex. Ferguson,N. F. Henry
 Alex. Ferguson,Detter
 Alex. Ferguson,Sanderson
@@ -12454,7 +12345,6 @@ Alex. Ferguson,J. D. Guillard
 Alex. Ferguson,A. Oldham
 Alex. Ferguson,E. H. Duplex
 Alex. Ferguson,G. R. Symes
-Alex. Ferguson,A. Jackson
 Alex. Ferguson,Howard
 Alex. Ferguson,B. Sanderson
 Alex. Ferguson,E. Waters
@@ -12492,7 +12382,6 @@ Mariposa,C. M. Wilson
 Mariposa,I. P. Gibbs
 Mariposa,C. A. Gibson
 Mariposa,W. H. Harper
-Mariposa,H. F. Smithl
 Mariposa,N. F. Henry
 Mariposa,Detter
 Mariposa,Sanderson
@@ -12653,7 +12542,6 @@ Mariposa,J. D. Guillard
 Mariposa,A. Oldham
 Mariposa,E. H. Duplex
 Mariposa,G. R. Symes
-Mariposa,A. Jackson
 Mariposa,Howard
 Mariposa,B. Sanderson
 Mariposa,E. Waters
@@ -12690,7 +12578,6 @@ Thomas Duff,C. M. Wilson
 Thomas Duff,I. P. Gibbs
 Thomas Duff,C. A. Gibson
 Thomas Duff,W. H. Harper
-Thomas Duff,H. F. Smithl
 Thomas Duff,N. F. Henry
 Thomas Duff,Detter
 Thomas Duff,Sanderson
@@ -12851,7 +12738,6 @@ Thomas Duff,J. D. Guillard
 Thomas Duff,A. Oldham
 Thomas Duff,E. H. Duplex
 Thomas Duff,G. R. Symes
-Thomas Duff,A. Jackson
 Thomas Duff,Howard
 Thomas Duff,B. Sanderson
 Thomas Duff,E. Waters
@@ -12887,7 +12773,6 @@ Sam,C. M. Wilson
 Sam,I. P. Gibbs
 Sam,C. A. Gibson
 Sam,W. H. Harper
-Sam,H. F. Smithl
 Sam,N. F. Henry
 Sam,Detter
 Sam,Sanderson
@@ -13048,7 +12933,6 @@ Sam,J. D. Guillard
 Sam,A. Oldham
 Sam,E. H. Duplex
 Sam,G. R. Symes
-Sam,A. Jackson
 Sam,Howard
 Sam,B. Sanderson
 Sam,E. Waters
@@ -13083,7 +12967,6 @@ B. Hyer,C. M. Wilson
 B. Hyer,I. P. Gibbs
 B. Hyer,C. A. Gibson
 B. Hyer,W. H. Harper
-B. Hyer,H. F. Smithl
 B. Hyer,N. F. Henry
 B. Hyer,Detter
 B. Hyer,Sanderson
@@ -13244,7 +13127,6 @@ B. Hyer,J. D. Guillard
 B. Hyer,A. Oldham
 B. Hyer,E. H. Duplex
 B. Hyer,G. R. Symes
-B. Hyer,A. Jackson
 B. Hyer,Howard
 B. Hyer,B. Sanderson
 B. Hyer,E. Waters
@@ -13278,7 +13160,6 @@ Wm. Robinson,C. M. Wilson
 Wm. Robinson,I. P. Gibbs
 Wm. Robinson,C. A. Gibson
 Wm. Robinson,W. H. Harper
-Wm. Robinson,H. F. Smithl
 Wm. Robinson,N. F. Henry
 Wm. Robinson,Detter
 Wm. Robinson,Sanderson
@@ -13439,7 +13320,6 @@ Wm. Robinson,J. D. Guillard
 Wm. Robinson,A. Oldham
 Wm. Robinson,E. H. Duplex
 Wm. Robinson,G. R. Symes
-Wm. Robinson,A. Jackson
 Wm. Robinson,Howard
 Wm. Robinson,B. Sanderson
 Wm. Robinson,E. Waters
@@ -13472,7 +13352,6 @@ Wm. Robinson,Lucius
 C. M. Wilson,I. P. Gibbs
 C. M. Wilson,C. A. Gibson
 C. M. Wilson,W. H. Harper
-C. M. Wilson,H. F. Smithl
 C. M. Wilson,N. F. Henry
 C. M. Wilson,Detter
 C. M. Wilson,Sanderson
@@ -13633,7 +13512,6 @@ C. M. Wilson,J. D. Guillard
 C. M. Wilson,A. Oldham
 C. M. Wilson,E. H. Duplex
 C. M. Wilson,G. R. Symes
-C. M. Wilson,A. Jackson
 C. M. Wilson,Howard
 C. M. Wilson,B. Sanderson
 C. M. Wilson,E. Waters
@@ -13665,7 +13543,6 @@ C. M. Wilson,J. Moore
 C. M. Wilson,Lucius
 I. P. Gibbs,C. A. Gibson
 I. P. Gibbs,W. H. Harper
-I. P. Gibbs,H. F. Smithl
 I. P. Gibbs,N. F. Henry
 I. P. Gibbs,Detter
 I. P. Gibbs,Sanderson
@@ -13826,7 +13703,6 @@ I. P. Gibbs,J. D. Guillard
 I. P. Gibbs,A. Oldham
 I. P. Gibbs,E. H. Duplex
 I. P. Gibbs,G. R. Symes
-I. P. Gibbs,A. Jackson
 I. P. Gibbs,Howard
 I. P. Gibbs,B. Sanderson
 I. P. Gibbs,E. Waters
@@ -13857,7 +13733,6 @@ I. P. Gibbs,J W. H. Newby
 I. P. Gibbs,J. Moore
 I. P. Gibbs,Lucius
 C. A. Gibson,W. H. Harper
-C. A. Gibson,H. F. Smithl
 C. A. Gibson,N. F. Henry
 C. A. Gibson,Detter
 C. A. Gibson,Sanderson
@@ -14018,7 +13893,6 @@ C. A. Gibson,J. D. Guillard
 C. A. Gibson,A. Oldham
 C. A. Gibson,E. H. Duplex
 C. A. Gibson,G. R. Symes
-C. A. Gibson,A. Jackson
 C. A. Gibson,Howard
 C. A. Gibson,B. Sanderson
 C. A. Gibson,E. Waters
@@ -14048,7 +13922,6 @@ C. A. Gibson,J.J. Underwood
 C. A. Gibson,J W. H. Newby
 C. A. Gibson,J. Moore
 C. A. Gibson,Lucius
-W. H. Harper,H. F. Smithl
 W. H. Harper,N. F. Henry
 W. H. Harper,Detter
 W. H. Harper,Sanderson
@@ -14209,7 +14082,6 @@ W. H. Harper,J. D. Guillard
 W. H. Harper,A. Oldham
 W. H. Harper,E. H. Duplex
 W. H. Harper,G. R. Symes
-W. H. Harper,A. Jackson
 W. H. Harper,Howard
 W. H. Harper,B. Sanderson
 W. H. Harper,E. Waters
@@ -14239,196 +14111,6 @@ W. H. Harper,J.J. Underwood
 W. H. Harper,J W. H. Newby
 W. H. Harper,J. Moore
 W. H. Harper,Lucius
-H. F. Smithl,N. F. Henry
-H. F. Smithl,Detter
-H. F. Smithl,Sanderson
-H. F. Smithl,Newby
-H. F. Smithl,W. Booth
-H. F. Smithl,Townsend
-H. F. Smithl,Lewis
-H. F. Smithl,Henry
-H. F. Smithl,Moore
-H. F. Smithl,Townsends
-H. F. Smithl,W.H. Harper
-H. F. Smithl,E. R. Phelps
-H. F. Smithl,Duff
-H. F. Smithl,Aaron Sisco
-H. F. Smithl,Napa
-H. F. Smithl,I. Gibbs
-H. F. Smithl,Richard Hall
-H. F. Smithl,S. B. Hyer
-H. F. Smithl,G. W. Miller
-H. F. Smithl,W. F. Courts
-H. F. Smithl,W. D. Moses
-H. F. Smithl,H. Harper
-H. F. Smithl,H. Hall
-H. F. Smithl,B. Young
-H. F. Smithl,H.T. Smith
-H. F. Smithl,T. Duff
-H. F. Smithl,F.G. Barbadoes
-H. F. Smithl,H. Newby
-H. F. Smithl,J.B. Sanderson
-H. F. Smithl,F.J. Vosburgh
-H. F. Smithl,S. Howard
-H. F. Smithl,J.J. Moore
-H. F. Smithl,Mitchell S. Haynes
-H. F. Smithl,Francis
-H. F. Smithl,Jacob
-H. F. Smithl,Newport F. Henry
-H. F. Smithl,Nelson
-H. F. Smithl,God
-H. F. Smithl,T. Detter
-H. F. Smithl,R. Hall
-H. F. Smithl,J. Francis
-H. F. Smithl,A. Ferguson
-H. F. Smithl,A. Collins
-H. F. Smithl,F. Henry
-H. F. Smithl,Booth
-H. F. Smithl,F. Hatfield
-H. F. Smithl,F. J. Vosburgh
-H. F. Smithl,Ferguson
-H. F. Smithl,El Dorado
-H. F. Smithl,D. Lewis
-H. F. Smithl,A. Furguson
-H. F. Smithl,C. H. Wilson
-H. F. Smithl,Emory Waters
-H. F. Smithl,F. J. Wosburgh
-H. F. Smithl,Hall
-H. F. Smithl,Lewis Mortimore
-H. F. Smithl,Charles Gibson
-H. F. Smithl,Gordon
-H. F. Smithl,David Seals
-H. F. Smithl,George W. Booth
-H. F. Smithl,Lawrence
-H. F. Smithl,N. Henry
-H. F. Smithl,J. F. Lawrence
-H. F. Smithl,Charles M. Wilson
-H. F. Smithl,William H. Thomas
-H. F. Smithl,Anderson
-H. F. Smithl,Barbadoes
-H. F. Smithl,Robinson
-H. F. Smithl,Patrick -Rsb- Henry
-H. F. Smithl,J. Hubbard
-H. F. Smithl,George Gordon
-H. F. Smithl,Brooks
-H. F. Smithl,Handy
-H. F. Smithl,Daniel Webster
-H. F. Smithl,Isaiah Gibbs
-H. F. Smithl,P. Anderson
-H. F. Smithl,Armstead Pollock
-H. F. Smithl,William Quinn
-H. F. Smithl,George Anderson
-H. F. Smithl,James Butler
-H. F. Smithl,J. Smith
-H. F. Smithl,C. Smith
-H. F. Smithl,J. Moss
-H. F. Smithl,P. Williams
-H. F. Smithl,Ray
-H. F. Smithl,Quinn
-H. F. Smithl,Butler
-H. F. Smithl,Phelps
-H. F. Smithl,Hayne
-H. F. Smithl,Thomas
-H. F. Smithl,Wilmot
-H. F. Smithl,Harper
-H. F. Smithl,Hyer
-H. F. Smithl,Frank Hatfield
-H. F. Smithl,J. Brown
-H. F. Smithl,R. H. Hall
-H. F. Smithl,Geo
-H. F. Smithl,W. H. Thomas
-H. F. Smithl,Miller
-H. F. Smithl,Wilson
-H. F. Smithl,Hubbard
-H. F. Smithl,E. P. Duplex
-H. F. Smithl,Jane R. Fortie
-H. F. Smithl,Jane R
-H. F. Smithl,Fortie
-H. F. Smithl,D. Wills
-H. F. Smithl,W. J. Bird
-H. F. Smithl,Kenedy
-H. F. Smithl,William Rich
-H. F. Smithl,Isaac Flood
-H. F. Smithl,John Paterson
-H. F. Smithl,W.H. Holmes
-H. F. Smithl,Peter Blackstone
-H. F. Smithl,James Allen
-H. F. Smithl,R. Tilghman
-H. F. Smithl,Matthias Cooper
-H. F. Smithl,Wilson Freeman
-H. F. Smithl,G. Brooks
-H. F. Smithl,William Hough
-H. F. Smithl,H. W. Hall
-H. F. Smithl,Hatfield
-H. F. Smithl,Thomas J.Ricks
-H. F. Smithl,Manuel Quivas
-H. F. Smithl,Stephen Hilman
-H. F. Smithl,Joseph Adams
-H. F. Smithl,L. A. Munroe
-H. F. Smithl,H. M. Pennington
-H. F. Smithl,Jacob Sinclair
-H. F. Smithl,E. Halton
-H. F. Smithl,Jordon Caselev
-H. F. Smithl,James H. Hubbard
-H. F. Smithl,Edward A. Booth
-H. F. Smithl,James Howard
-H. F. Smithl,Isaiah P. Gibbs
-H. F. Smithl,Joseph G. Underwood
-H. F. Smithl,Dudlop
-H. F. Smithl,J. B. Starkey
-H. F. Smithl,George W. Gordon
-H. F. Smithl,W. C. Patrick
-H. F. Smithl,M. Campbell
-H. F. Smithl,Samuel B. Hyer
-H. F. Smithl,John Black
-H. F. Smithl,D. Brown
-H. F. Smithl,J. J. Butler
-H. F. Smithl,T. W. Burgess
-H. F. Smithl,Elisha Banks
-H. F. Smithl,J. J. Pindall
-H. F. Smithl,E. D. Vincent
-H. F. Smithl,Charles W. Hall
-H. F. Smithl,Samuel Kunee
-H. F. Smithl,George W. Johnson
-H. F. Smithl,Benjamin Franklin
-H. F. Smithl,Nathan Furbert
-H. F. Smithl,Alfred J. White
-H. F. Smithl,H. T. Smith
-H. F. Smithl,R. Banks
-H. F. Smithl,J. D. Guillard
-H. F. Smithl,A. Oldham
-H. F. Smithl,E. H. Duplex
-H. F. Smithl,G. R. Symes
-H. F. Smithl,A. Jackson
-H. F. Smithl,Howard
-H. F. Smithl,B. Sanderson
-H. F. Smithl,E. Waters
-H. F. Smithl,Jefferson
-H. F. Smithl,Collins
-H. F. Smithl,Haynes
-H. F. Smithl,Moses
-H. F. Smithl,Jackson
-H. F. Smithl,Herbert
-H. F. Smithl,James King Of Wm.
-H. F. Smithl,Duplex
-H. F. Smithl,Washington
-H. F. Smithl,M. S. Hayne
-H. F. Smithl,George R. Symes
-H. F. Smithl,Joseph J. Underwood
-H. F. Smithl,Flowers
-H. F. Smithl,Newbys
-H. F. Smithl,William H. Hall
-H. F. Smithl,Smith
-H. F. Smithl,J. Howard
-H. F. Smithl,Secy
-H. F. Smithl,H. F. Smith
-H. F. Smithl,M. S. Hayes
-H. F. Smithl,J. W. H. Newby
-H. F. Smithl,Michigan Bluff
-H. F. Smithl,J.J. Underwood
-H. F. Smithl,J W. H. Newby
-H. F. Smithl,J. Moore
-H. F. Smithl,Lucius
 N. F. Henry,Detter
 N. F. Henry,Sanderson
 N. F. Henry,Newby
@@ -14588,7 +14270,6 @@ N. F. Henry,J. D. Guillard
 N. F. Henry,A. Oldham
 N. F. Henry,E. H. Duplex
 N. F. Henry,G. R. Symes
-N. F. Henry,A. Jackson
 N. F. Henry,Howard
 N. F. Henry,B. Sanderson
 N. F. Henry,E. Waters
@@ -14776,7 +14457,6 @@ Detter,J. D. Guillard
 Detter,A. Oldham
 Detter,E. H. Duplex
 Detter,G. R. Symes
-Detter,A. Jackson
 Detter,Howard
 Detter,B. Sanderson
 Detter,E. Waters
@@ -14963,7 +14643,6 @@ Sanderson,J. D. Guillard
 Sanderson,A. Oldham
 Sanderson,E. H. Duplex
 Sanderson,G. R. Symes
-Sanderson,A. Jackson
 Sanderson,Howard
 Sanderson,B. Sanderson
 Sanderson,E. Waters
@@ -15149,7 +14828,6 @@ Newby,J. D. Guillard
 Newby,A. Oldham
 Newby,E. H. Duplex
 Newby,G. R. Symes
-Newby,A. Jackson
 Newby,Howard
 Newby,B. Sanderson
 Newby,E. Waters
@@ -15334,7 +15012,6 @@ W. Booth,J. D. Guillard
 W. Booth,A. Oldham
 W. Booth,E. H. Duplex
 W. Booth,G. R. Symes
-W. Booth,A. Jackson
 W. Booth,Howard
 W. Booth,B. Sanderson
 W. Booth,E. Waters
@@ -15518,7 +15195,6 @@ Townsend,J. D. Guillard
 Townsend,A. Oldham
 Townsend,E. H. Duplex
 Townsend,G. R. Symes
-Townsend,A. Jackson
 Townsend,Howard
 Townsend,B. Sanderson
 Townsend,E. Waters
@@ -15701,7 +15377,6 @@ Lewis,J. D. Guillard
 Lewis,A. Oldham
 Lewis,E. H. Duplex
 Lewis,G. R. Symes
-Lewis,A. Jackson
 Lewis,Howard
 Lewis,B. Sanderson
 Lewis,E. Waters
@@ -15883,7 +15558,6 @@ Henry,J. D. Guillard
 Henry,A. Oldham
 Henry,E. H. Duplex
 Henry,G. R. Symes
-Henry,A. Jackson
 Henry,Howard
 Henry,B. Sanderson
 Henry,E. Waters
@@ -16064,7 +15738,6 @@ Moore,J. D. Guillard
 Moore,A. Oldham
 Moore,E. H. Duplex
 Moore,G. R. Symes
-Moore,A. Jackson
 Moore,Howard
 Moore,B. Sanderson
 Moore,E. Waters
@@ -16244,7 +15917,6 @@ Townsends,J. D. Guillard
 Townsends,A. Oldham
 Townsends,E. H. Duplex
 Townsends,G. R. Symes
-Townsends,A. Jackson
 Townsends,Howard
 Townsends,B. Sanderson
 Townsends,E. Waters
@@ -16423,7 +16095,6 @@ W.H. Harper,J. D. Guillard
 W.H. Harper,A. Oldham
 W.H. Harper,E. H. Duplex
 W.H. Harper,G. R. Symes
-W.H. Harper,A. Jackson
 W.H. Harper,Howard
 W.H. Harper,B. Sanderson
 W.H. Harper,E. Waters
@@ -16601,7 +16272,6 @@ E. R. Phelps,J. D. Guillard
 E. R. Phelps,A. Oldham
 E. R. Phelps,E. H. Duplex
 E. R. Phelps,G. R. Symes
-E. R. Phelps,A. Jackson
 E. R. Phelps,Howard
 E. R. Phelps,B. Sanderson
 E. R. Phelps,E. Waters
@@ -16778,7 +16448,6 @@ Duff,J. D. Guillard
 Duff,A. Oldham
 Duff,E. H. Duplex
 Duff,G. R. Symes
-Duff,A. Jackson
 Duff,Howard
 Duff,B. Sanderson
 Duff,E. Waters
@@ -16954,7 +16623,6 @@ Aaron Sisco,J. D. Guillard
 Aaron Sisco,A. Oldham
 Aaron Sisco,E. H. Duplex
 Aaron Sisco,G. R. Symes
-Aaron Sisco,A. Jackson
 Aaron Sisco,Howard
 Aaron Sisco,B. Sanderson
 Aaron Sisco,E. Waters
@@ -17129,7 +16797,6 @@ Napa,J. D. Guillard
 Napa,A. Oldham
 Napa,E. H. Duplex
 Napa,G. R. Symes
-Napa,A. Jackson
 Napa,Howard
 Napa,B. Sanderson
 Napa,E. Waters
@@ -17303,7 +16970,6 @@ I. Gibbs,J. D. Guillard
 I. Gibbs,A. Oldham
 I. Gibbs,E. H. Duplex
 I. Gibbs,G. R. Symes
-I. Gibbs,A. Jackson
 I. Gibbs,Howard
 I. Gibbs,B. Sanderson
 I. Gibbs,E. Waters
@@ -17476,7 +17142,6 @@ Richard Hall,J. D. Guillard
 Richard Hall,A. Oldham
 Richard Hall,E. H. Duplex
 Richard Hall,G. R. Symes
-Richard Hall,A. Jackson
 Richard Hall,Howard
 Richard Hall,B. Sanderson
 Richard Hall,E. Waters
@@ -17648,7 +17313,6 @@ S. B. Hyer,J. D. Guillard
 S. B. Hyer,A. Oldham
 S. B. Hyer,E. H. Duplex
 S. B. Hyer,G. R. Symes
-S. B. Hyer,A. Jackson
 S. B. Hyer,Howard
 S. B. Hyer,B. Sanderson
 S. B. Hyer,E. Waters
@@ -17819,7 +17483,6 @@ G. W. Miller,J. D. Guillard
 G. W. Miller,A. Oldham
 G. W. Miller,E. H. Duplex
 G. W. Miller,G. R. Symes
-G. W. Miller,A. Jackson
 G. W. Miller,Howard
 G. W. Miller,B. Sanderson
 G. W. Miller,E. Waters
@@ -17989,7 +17652,6 @@ W. F. Courts,J. D. Guillard
 W. F. Courts,A. Oldham
 W. F. Courts,E. H. Duplex
 W. F. Courts,G. R. Symes
-W. F. Courts,A. Jackson
 W. F. Courts,Howard
 W. F. Courts,B. Sanderson
 W. F. Courts,E. Waters
@@ -18158,7 +17820,6 @@ W. D. Moses,J. D. Guillard
 W. D. Moses,A. Oldham
 W. D. Moses,E. H. Duplex
 W. D. Moses,G. R. Symes
-W. D. Moses,A. Jackson
 W. D. Moses,Howard
 W. D. Moses,B. Sanderson
 W. D. Moses,E. Waters
@@ -18326,7 +17987,6 @@ H. Harper,J. D. Guillard
 H. Harper,A. Oldham
 H. Harper,E. H. Duplex
 H. Harper,G. R. Symes
-H. Harper,A. Jackson
 H. Harper,Howard
 H. Harper,B. Sanderson
 H. Harper,E. Waters
@@ -18493,7 +18153,6 @@ H. Hall,J. D. Guillard
 H. Hall,A. Oldham
 H. Hall,E. H. Duplex
 H. Hall,G. R. Symes
-H. Hall,A. Jackson
 H. Hall,Howard
 H. Hall,B. Sanderson
 H. Hall,E. Waters
@@ -18659,7 +18318,6 @@ B. Young,J. D. Guillard
 B. Young,A. Oldham
 B. Young,E. H. Duplex
 B. Young,G. R. Symes
-B. Young,A. Jackson
 B. Young,Howard
 B. Young,B. Sanderson
 B. Young,E. Waters
@@ -18824,7 +18482,6 @@ H.T. Smith,J. D. Guillard
 H.T. Smith,A. Oldham
 H.T. Smith,E. H. Duplex
 H.T. Smith,G. R. Symes
-H.T. Smith,A. Jackson
 H.T. Smith,Howard
 H.T. Smith,B. Sanderson
 H.T. Smith,E. Waters
@@ -18988,7 +18645,6 @@ T. Duff,J. D. Guillard
 T. Duff,A. Oldham
 T. Duff,E. H. Duplex
 T. Duff,G. R. Symes
-T. Duff,A. Jackson
 T. Duff,Howard
 T. Duff,B. Sanderson
 T. Duff,E. Waters
@@ -19151,7 +18807,6 @@ F.G. Barbadoes,J. D. Guillard
 F.G. Barbadoes,A. Oldham
 F.G. Barbadoes,E. H. Duplex
 F.G. Barbadoes,G. R. Symes
-F.G. Barbadoes,A. Jackson
 F.G. Barbadoes,Howard
 F.G. Barbadoes,B. Sanderson
 F.G. Barbadoes,E. Waters
@@ -19313,7 +18968,6 @@ H. Newby,J. D. Guillard
 H. Newby,A. Oldham
 H. Newby,E. H. Duplex
 H. Newby,G. R. Symes
-H. Newby,A. Jackson
 H. Newby,Howard
 H. Newby,B. Sanderson
 H. Newby,E. Waters
@@ -19474,7 +19128,6 @@ J.B. Sanderson,J. D. Guillard
 J.B. Sanderson,A. Oldham
 J.B. Sanderson,E. H. Duplex
 J.B. Sanderson,G. R. Symes
-J.B. Sanderson,A. Jackson
 J.B. Sanderson,Howard
 J.B. Sanderson,B. Sanderson
 J.B. Sanderson,E. Waters
@@ -19634,7 +19287,6 @@ F.J. Vosburgh,J. D. Guillard
 F.J. Vosburgh,A. Oldham
 F.J. Vosburgh,E. H. Duplex
 F.J. Vosburgh,G. R. Symes
-F.J. Vosburgh,A. Jackson
 F.J. Vosburgh,Howard
 F.J. Vosburgh,B. Sanderson
 F.J. Vosburgh,E. Waters
@@ -19793,7 +19445,6 @@ S. Howard,J. D. Guillard
 S. Howard,A. Oldham
 S. Howard,E. H. Duplex
 S. Howard,G. R. Symes
-S. Howard,A. Jackson
 S. Howard,Howard
 S. Howard,B. Sanderson
 S. Howard,E. Waters
@@ -19951,7 +19602,6 @@ J.J. Moore,J. D. Guillard
 J.J. Moore,A. Oldham
 J.J. Moore,E. H. Duplex
 J.J. Moore,G. R. Symes
-J.J. Moore,A. Jackson
 J.J. Moore,Howard
 J.J. Moore,B. Sanderson
 J.J. Moore,E. Waters
@@ -20108,7 +19758,6 @@ Mitchell S. Haynes,J. D. Guillard
 Mitchell S. Haynes,A. Oldham
 Mitchell S. Haynes,E. H. Duplex
 Mitchell S. Haynes,G. R. Symes
-Mitchell S. Haynes,A. Jackson
 Mitchell S. Haynes,Howard
 Mitchell S. Haynes,B. Sanderson
 Mitchell S. Haynes,E. Waters
@@ -20264,7 +19913,6 @@ Francis,J. D. Guillard
 Francis,A. Oldham
 Francis,E. H. Duplex
 Francis,G. R. Symes
-Francis,A. Jackson
 Francis,Howard
 Francis,B. Sanderson
 Francis,E. Waters
@@ -20419,7 +20067,6 @@ Jacob,J. D. Guillard
 Jacob,A. Oldham
 Jacob,E. H. Duplex
 Jacob,G. R. Symes
-Jacob,A. Jackson
 Jacob,Howard
 Jacob,B. Sanderson
 Jacob,E. Waters
@@ -20573,7 +20220,6 @@ Newport F. Henry,J. D. Guillard
 Newport F. Henry,A. Oldham
 Newport F. Henry,E. H. Duplex
 Newport F. Henry,G. R. Symes
-Newport F. Henry,A. Jackson
 Newport F. Henry,Howard
 Newport F. Henry,B. Sanderson
 Newport F. Henry,E. Waters
@@ -20726,7 +20372,6 @@ Nelson,J. D. Guillard
 Nelson,A. Oldham
 Nelson,E. H. Duplex
 Nelson,G. R. Symes
-Nelson,A. Jackson
 Nelson,Howard
 Nelson,B. Sanderson
 Nelson,E. Waters
@@ -20878,7 +20523,6 @@ God,J. D. Guillard
 God,A. Oldham
 God,E. H. Duplex
 God,G. R. Symes
-God,A. Jackson
 God,Howard
 God,B. Sanderson
 God,E. Waters
@@ -21029,7 +20673,6 @@ T. Detter,J. D. Guillard
 T. Detter,A. Oldham
 T. Detter,E. H. Duplex
 T. Detter,G. R. Symes
-T. Detter,A. Jackson
 T. Detter,Howard
 T. Detter,B. Sanderson
 T. Detter,E. Waters
@@ -21179,7 +20822,6 @@ R. Hall,J. D. Guillard
 R. Hall,A. Oldham
 R. Hall,E. H. Duplex
 R. Hall,G. R. Symes
-R. Hall,A. Jackson
 R. Hall,Howard
 R. Hall,B. Sanderson
 R. Hall,E. Waters
@@ -21328,7 +20970,6 @@ J. Francis,J. D. Guillard
 J. Francis,A. Oldham
 J. Francis,E. H. Duplex
 J. Francis,G. R. Symes
-J. Francis,A. Jackson
 J. Francis,Howard
 J. Francis,B. Sanderson
 J. Francis,E. Waters
@@ -21476,7 +21117,6 @@ A. Ferguson,J. D. Guillard
 A. Ferguson,A. Oldham
 A. Ferguson,E. H. Duplex
 A. Ferguson,G. R. Symes
-A. Ferguson,A. Jackson
 A. Ferguson,Howard
 A. Ferguson,B. Sanderson
 A. Ferguson,E. Waters
@@ -21623,7 +21263,6 @@ A. Collins,J. D. Guillard
 A. Collins,A. Oldham
 A. Collins,E. H. Duplex
 A. Collins,G. R. Symes
-A. Collins,A. Jackson
 A. Collins,Howard
 A. Collins,B. Sanderson
 A. Collins,E. Waters
@@ -21769,7 +21408,6 @@ F. Henry,J. D. Guillard
 F. Henry,A. Oldham
 F. Henry,E. H. Duplex
 F. Henry,G. R. Symes
-F. Henry,A. Jackson
 F. Henry,Howard
 F. Henry,B. Sanderson
 F. Henry,E. Waters
@@ -21914,7 +21552,6 @@ Booth,J. D. Guillard
 Booth,A. Oldham
 Booth,E. H. Duplex
 Booth,G. R. Symes
-Booth,A. Jackson
 Booth,Howard
 Booth,B. Sanderson
 Booth,E. Waters
@@ -22058,7 +21695,6 @@ F. Hatfield,J. D. Guillard
 F. Hatfield,A. Oldham
 F. Hatfield,E. H. Duplex
 F. Hatfield,G. R. Symes
-F. Hatfield,A. Jackson
 F. Hatfield,Howard
 F. Hatfield,B. Sanderson
 F. Hatfield,E. Waters
@@ -22201,7 +21837,6 @@ F. J. Vosburgh,J. D. Guillard
 F. J. Vosburgh,A. Oldham
 F. J. Vosburgh,E. H. Duplex
 F. J. Vosburgh,G. R. Symes
-F. J. Vosburgh,A. Jackson
 F. J. Vosburgh,Howard
 F. J. Vosburgh,B. Sanderson
 F. J. Vosburgh,E. Waters
@@ -22343,7 +21978,6 @@ Ferguson,J. D. Guillard
 Ferguson,A. Oldham
 Ferguson,E. H. Duplex
 Ferguson,G. R. Symes
-Ferguson,A. Jackson
 Ferguson,Howard
 Ferguson,B. Sanderson
 Ferguson,E. Waters
@@ -22484,7 +22118,6 @@ El Dorado,J. D. Guillard
 El Dorado,A. Oldham
 El Dorado,E. H. Duplex
 El Dorado,G. R. Symes
-El Dorado,A. Jackson
 El Dorado,Howard
 El Dorado,B. Sanderson
 El Dorado,E. Waters
@@ -22624,7 +22257,6 @@ D. Lewis,J. D. Guillard
 D. Lewis,A. Oldham
 D. Lewis,E. H. Duplex
 D. Lewis,G. R. Symes
-D. Lewis,A. Jackson
 D. Lewis,Howard
 D. Lewis,B. Sanderson
 D. Lewis,E. Waters
@@ -22763,7 +22395,6 @@ A. Furguson,J. D. Guillard
 A. Furguson,A. Oldham
 A. Furguson,E. H. Duplex
 A. Furguson,G. R. Symes
-A. Furguson,A. Jackson
 A. Furguson,Howard
 A. Furguson,B. Sanderson
 A. Furguson,E. Waters
@@ -22901,7 +22532,6 @@ C. H. Wilson,J. D. Guillard
 C. H. Wilson,A. Oldham
 C. H. Wilson,E. H. Duplex
 C. H. Wilson,G. R. Symes
-C. H. Wilson,A. Jackson
 C. H. Wilson,Howard
 C. H. Wilson,B. Sanderson
 C. H. Wilson,E. Waters
@@ -23038,7 +22668,6 @@ Emory Waters,J. D. Guillard
 Emory Waters,A. Oldham
 Emory Waters,E. H. Duplex
 Emory Waters,G. R. Symes
-Emory Waters,A. Jackson
 Emory Waters,Howard
 Emory Waters,B. Sanderson
 Emory Waters,E. Waters
@@ -23174,7 +22803,6 @@ F. J. Wosburgh,J. D. Guillard
 F. J. Wosburgh,A. Oldham
 F. J. Wosburgh,E. H. Duplex
 F. J. Wosburgh,G. R. Symes
-F. J. Wosburgh,A. Jackson
 F. J. Wosburgh,Howard
 F. J. Wosburgh,B. Sanderson
 F. J. Wosburgh,E. Waters
@@ -23309,7 +22937,6 @@ Hall,J. D. Guillard
 Hall,A. Oldham
 Hall,E. H. Duplex
 Hall,G. R. Symes
-Hall,A. Jackson
 Hall,Howard
 Hall,B. Sanderson
 Hall,E. Waters
@@ -23443,7 +23070,6 @@ Lewis Mortimore,J. D. Guillard
 Lewis Mortimore,A. Oldham
 Lewis Mortimore,E. H. Duplex
 Lewis Mortimore,G. R. Symes
-Lewis Mortimore,A. Jackson
 Lewis Mortimore,Howard
 Lewis Mortimore,B. Sanderson
 Lewis Mortimore,E. Waters
@@ -23576,7 +23202,6 @@ Charles Gibson,J. D. Guillard
 Charles Gibson,A. Oldham
 Charles Gibson,E. H. Duplex
 Charles Gibson,G. R. Symes
-Charles Gibson,A. Jackson
 Charles Gibson,Howard
 Charles Gibson,B. Sanderson
 Charles Gibson,E. Waters
@@ -23708,7 +23333,6 @@ Gordon,J. D. Guillard
 Gordon,A. Oldham
 Gordon,E. H. Duplex
 Gordon,G. R. Symes
-Gordon,A. Jackson
 Gordon,Howard
 Gordon,B. Sanderson
 Gordon,E. Waters
@@ -23839,7 +23463,6 @@ David Seals,J. D. Guillard
 David Seals,A. Oldham
 David Seals,E. H. Duplex
 David Seals,G. R. Symes
-David Seals,A. Jackson
 David Seals,Howard
 David Seals,B. Sanderson
 David Seals,E. Waters
@@ -23969,7 +23592,6 @@ George W. Booth,J. D. Guillard
 George W. Booth,A. Oldham
 George W. Booth,E. H. Duplex
 George W. Booth,G. R. Symes
-George W. Booth,A. Jackson
 George W. Booth,Howard
 George W. Booth,B. Sanderson
 George W. Booth,E. Waters
@@ -24098,7 +23720,6 @@ Lawrence,J. D. Guillard
 Lawrence,A. Oldham
 Lawrence,E. H. Duplex
 Lawrence,G. R. Symes
-Lawrence,A. Jackson
 Lawrence,Howard
 Lawrence,B. Sanderson
 Lawrence,E. Waters
@@ -24226,7 +23847,6 @@ N. Henry,J. D. Guillard
 N. Henry,A. Oldham
 N. Henry,E. H. Duplex
 N. Henry,G. R. Symes
-N. Henry,A. Jackson
 N. Henry,Howard
 N. Henry,B. Sanderson
 N. Henry,E. Waters
@@ -24353,7 +23973,6 @@ J. F. Lawrence,J. D. Guillard
 J. F. Lawrence,A. Oldham
 J. F. Lawrence,E. H. Duplex
 J. F. Lawrence,G. R. Symes
-J. F. Lawrence,A. Jackson
 J. F. Lawrence,Howard
 J. F. Lawrence,B. Sanderson
 J. F. Lawrence,E. Waters
@@ -24479,7 +24098,6 @@ Charles M. Wilson,J. D. Guillard
 Charles M. Wilson,A. Oldham
 Charles M. Wilson,E. H. Duplex
 Charles M. Wilson,G. R. Symes
-Charles M. Wilson,A. Jackson
 Charles M. Wilson,Howard
 Charles M. Wilson,B. Sanderson
 Charles M. Wilson,E. Waters
@@ -24604,7 +24222,6 @@ William H. Thomas,J. D. Guillard
 William H. Thomas,A. Oldham
 William H. Thomas,E. H. Duplex
 William H. Thomas,G. R. Symes
-William H. Thomas,A. Jackson
 William H. Thomas,Howard
 William H. Thomas,B. Sanderson
 William H. Thomas,E. Waters
@@ -24728,7 +24345,6 @@ Anderson,J. D. Guillard
 Anderson,A. Oldham
 Anderson,E. H. Duplex
 Anderson,G. R. Symes
-Anderson,A. Jackson
 Anderson,Howard
 Anderson,B. Sanderson
 Anderson,E. Waters
@@ -24851,7 +24467,6 @@ Barbadoes,J. D. Guillard
 Barbadoes,A. Oldham
 Barbadoes,E. H. Duplex
 Barbadoes,G. R. Symes
-Barbadoes,A. Jackson
 Barbadoes,Howard
 Barbadoes,B. Sanderson
 Barbadoes,E. Waters
@@ -24973,7 +24588,6 @@ Robinson,J. D. Guillard
 Robinson,A. Oldham
 Robinson,E. H. Duplex
 Robinson,G. R. Symes
-Robinson,A. Jackson
 Robinson,Howard
 Robinson,B. Sanderson
 Robinson,E. Waters
@@ -25094,7 +24708,6 @@ Patrick -Rsb- Henry,J. D. Guillard
 Patrick -Rsb- Henry,A. Oldham
 Patrick -Rsb- Henry,E. H. Duplex
 Patrick -Rsb- Henry,G. R. Symes
-Patrick -Rsb- Henry,A. Jackson
 Patrick -Rsb- Henry,Howard
 Patrick -Rsb- Henry,B. Sanderson
 Patrick -Rsb- Henry,E. Waters
@@ -25214,7 +24827,6 @@ J. Hubbard,J. D. Guillard
 J. Hubbard,A. Oldham
 J. Hubbard,E. H. Duplex
 J. Hubbard,G. R. Symes
-J. Hubbard,A. Jackson
 J. Hubbard,Howard
 J. Hubbard,B. Sanderson
 J. Hubbard,E. Waters
@@ -25333,7 +24945,6 @@ George Gordon,J. D. Guillard
 George Gordon,A. Oldham
 George Gordon,E. H. Duplex
 George Gordon,G. R. Symes
-George Gordon,A. Jackson
 George Gordon,Howard
 George Gordon,B. Sanderson
 George Gordon,E. Waters
@@ -25451,7 +25062,6 @@ Brooks,J. D. Guillard
 Brooks,A. Oldham
 Brooks,E. H. Duplex
 Brooks,G. R. Symes
-Brooks,A. Jackson
 Brooks,Howard
 Brooks,B. Sanderson
 Brooks,E. Waters
@@ -25568,7 +25178,6 @@ Handy,J. D. Guillard
 Handy,A. Oldham
 Handy,E. H. Duplex
 Handy,G. R. Symes
-Handy,A. Jackson
 Handy,Howard
 Handy,B. Sanderson
 Handy,E. Waters
@@ -25684,7 +25293,6 @@ Daniel Webster,J. D. Guillard
 Daniel Webster,A. Oldham
 Daniel Webster,E. H. Duplex
 Daniel Webster,G. R. Symes
-Daniel Webster,A. Jackson
 Daniel Webster,Howard
 Daniel Webster,B. Sanderson
 Daniel Webster,E. Waters
@@ -25799,7 +25407,6 @@ Isaiah Gibbs,J. D. Guillard
 Isaiah Gibbs,A. Oldham
 Isaiah Gibbs,E. H. Duplex
 Isaiah Gibbs,G. R. Symes
-Isaiah Gibbs,A. Jackson
 Isaiah Gibbs,Howard
 Isaiah Gibbs,B. Sanderson
 Isaiah Gibbs,E. Waters
@@ -25913,7 +25520,6 @@ P. Anderson,J. D. Guillard
 P. Anderson,A. Oldham
 P. Anderson,E. H. Duplex
 P. Anderson,G. R. Symes
-P. Anderson,A. Jackson
 P. Anderson,Howard
 P. Anderson,B. Sanderson
 P. Anderson,E. Waters
@@ -26026,7 +25632,6 @@ Armstead Pollock,J. D. Guillard
 Armstead Pollock,A. Oldham
 Armstead Pollock,E. H. Duplex
 Armstead Pollock,G. R. Symes
-Armstead Pollock,A. Jackson
 Armstead Pollock,Howard
 Armstead Pollock,B. Sanderson
 Armstead Pollock,E. Waters
@@ -26138,7 +25743,6 @@ William Quinn,J. D. Guillard
 William Quinn,A. Oldham
 William Quinn,E. H. Duplex
 William Quinn,G. R. Symes
-William Quinn,A. Jackson
 William Quinn,Howard
 William Quinn,B. Sanderson
 William Quinn,E. Waters
@@ -26249,7 +25853,6 @@ George Anderson,J. D. Guillard
 George Anderson,A. Oldham
 George Anderson,E. H. Duplex
 George Anderson,G. R. Symes
-George Anderson,A. Jackson
 George Anderson,Howard
 George Anderson,B. Sanderson
 George Anderson,E. Waters
@@ -26359,7 +25962,6 @@ James Butler,J. D. Guillard
 James Butler,A. Oldham
 James Butler,E. H. Duplex
 James Butler,G. R. Symes
-James Butler,A. Jackson
 James Butler,Howard
 James Butler,B. Sanderson
 James Butler,E. Waters
@@ -26468,7 +26070,6 @@ J. Smith,J. D. Guillard
 J. Smith,A. Oldham
 J. Smith,E. H. Duplex
 J. Smith,G. R. Symes
-J. Smith,A. Jackson
 J. Smith,Howard
 J. Smith,B. Sanderson
 J. Smith,E. Waters
@@ -26576,7 +26177,6 @@ C. Smith,J. D. Guillard
 C. Smith,A. Oldham
 C. Smith,E. H. Duplex
 C. Smith,G. R. Symes
-C. Smith,A. Jackson
 C. Smith,Howard
 C. Smith,B. Sanderson
 C. Smith,E. Waters
@@ -26683,7 +26283,6 @@ J. Moss,J. D. Guillard
 J. Moss,A. Oldham
 J. Moss,E. H. Duplex
 J. Moss,G. R. Symes
-J. Moss,A. Jackson
 J. Moss,Howard
 J. Moss,B. Sanderson
 J. Moss,E. Waters
@@ -26789,7 +26388,6 @@ P. Williams,J. D. Guillard
 P. Williams,A. Oldham
 P. Williams,E. H. Duplex
 P. Williams,G. R. Symes
-P. Williams,A. Jackson
 P. Williams,Howard
 P. Williams,B. Sanderson
 P. Williams,E. Waters
@@ -26894,7 +26492,6 @@ Ray,J. D. Guillard
 Ray,A. Oldham
 Ray,E. H. Duplex
 Ray,G. R. Symes
-Ray,A. Jackson
 Ray,Howard
 Ray,B. Sanderson
 Ray,E. Waters
@@ -26998,7 +26595,6 @@ Quinn,J. D. Guillard
 Quinn,A. Oldham
 Quinn,E. H. Duplex
 Quinn,G. R. Symes
-Quinn,A. Jackson
 Quinn,Howard
 Quinn,B. Sanderson
 Quinn,E. Waters
@@ -27101,7 +26697,6 @@ Butler,J. D. Guillard
 Butler,A. Oldham
 Butler,E. H. Duplex
 Butler,G. R. Symes
-Butler,A. Jackson
 Butler,Howard
 Butler,B. Sanderson
 Butler,E. Waters
@@ -27203,7 +26798,6 @@ Phelps,J. D. Guillard
 Phelps,A. Oldham
 Phelps,E. H. Duplex
 Phelps,G. R. Symes
-Phelps,A. Jackson
 Phelps,Howard
 Phelps,B. Sanderson
 Phelps,E. Waters
@@ -27304,7 +26898,6 @@ Hayne,J. D. Guillard
 Hayne,A. Oldham
 Hayne,E. H. Duplex
 Hayne,G. R. Symes
-Hayne,A. Jackson
 Hayne,Howard
 Hayne,B. Sanderson
 Hayne,E. Waters
@@ -27404,7 +26997,6 @@ Thomas,J. D. Guillard
 Thomas,A. Oldham
 Thomas,E. H. Duplex
 Thomas,G. R. Symes
-Thomas,A. Jackson
 Thomas,Howard
 Thomas,B. Sanderson
 Thomas,E. Waters
@@ -27503,7 +27095,6 @@ Wilmot,J. D. Guillard
 Wilmot,A. Oldham
 Wilmot,E. H. Duplex
 Wilmot,G. R. Symes
-Wilmot,A. Jackson
 Wilmot,Howard
 Wilmot,B. Sanderson
 Wilmot,E. Waters
@@ -27601,7 +27192,6 @@ Harper,J. D. Guillard
 Harper,A. Oldham
 Harper,E. H. Duplex
 Harper,G. R. Symes
-Harper,A. Jackson
 Harper,Howard
 Harper,B. Sanderson
 Harper,E. Waters
@@ -27698,7 +27288,6 @@ Hyer,J. D. Guillard
 Hyer,A. Oldham
 Hyer,E. H. Duplex
 Hyer,G. R. Symes
-Hyer,A. Jackson
 Hyer,Howard
 Hyer,B. Sanderson
 Hyer,E. Waters
@@ -27794,7 +27383,6 @@ Frank Hatfield,J. D. Guillard
 Frank Hatfield,A. Oldham
 Frank Hatfield,E. H. Duplex
 Frank Hatfield,G. R. Symes
-Frank Hatfield,A. Jackson
 Frank Hatfield,Howard
 Frank Hatfield,B. Sanderson
 Frank Hatfield,E. Waters
@@ -27889,7 +27477,6 @@ J. Brown,J. D. Guillard
 J. Brown,A. Oldham
 J. Brown,E. H. Duplex
 J. Brown,G. R. Symes
-J. Brown,A. Jackson
 J. Brown,Howard
 J. Brown,B. Sanderson
 J. Brown,E. Waters
@@ -27983,7 +27570,6 @@ R. H. Hall,J. D. Guillard
 R. H. Hall,A. Oldham
 R. H. Hall,E. H. Duplex
 R. H. Hall,G. R. Symes
-R. H. Hall,A. Jackson
 R. H. Hall,Howard
 R. H. Hall,B. Sanderson
 R. H. Hall,E. Waters
@@ -28076,7 +27662,6 @@ Geo,J. D. Guillard
 Geo,A. Oldham
 Geo,E. H. Duplex
 Geo,G. R. Symes
-Geo,A. Jackson
 Geo,Howard
 Geo,B. Sanderson
 Geo,E. Waters
@@ -28168,7 +27753,6 @@ W. H. Thomas,J. D. Guillard
 W. H. Thomas,A. Oldham
 W. H. Thomas,E. H. Duplex
 W. H. Thomas,G. R. Symes
-W. H. Thomas,A. Jackson
 W. H. Thomas,Howard
 W. H. Thomas,B. Sanderson
 W. H. Thomas,E. Waters
@@ -28259,7 +27843,6 @@ Miller,J. D. Guillard
 Miller,A. Oldham
 Miller,E. H. Duplex
 Miller,G. R. Symes
-Miller,A. Jackson
 Miller,Howard
 Miller,B. Sanderson
 Miller,E. Waters
@@ -28349,7 +27932,6 @@ Wilson,J. D. Guillard
 Wilson,A. Oldham
 Wilson,E. H. Duplex
 Wilson,G. R. Symes
-Wilson,A. Jackson
 Wilson,Howard
 Wilson,B. Sanderson
 Wilson,E. Waters
@@ -28438,7 +28020,6 @@ Hubbard,J. D. Guillard
 Hubbard,A. Oldham
 Hubbard,E. H. Duplex
 Hubbard,G. R. Symes
-Hubbard,A. Jackson
 Hubbard,Howard
 Hubbard,B. Sanderson
 Hubbard,E. Waters
@@ -28526,7 +28107,6 @@ E. P. Duplex,J. D. Guillard
 E. P. Duplex,A. Oldham
 E. P. Duplex,E. H. Duplex
 E. P. Duplex,G. R. Symes
-E. P. Duplex,A. Jackson
 E. P. Duplex,Howard
 E. P. Duplex,B. Sanderson
 E. P. Duplex,E. Waters
@@ -28613,7 +28193,6 @@ Jane R. Fortie,J. D. Guillard
 Jane R. Fortie,A. Oldham
 Jane R. Fortie,E. H. Duplex
 Jane R. Fortie,G. R. Symes
-Jane R. Fortie,A. Jackson
 Jane R. Fortie,Howard
 Jane R. Fortie,B. Sanderson
 Jane R. Fortie,E. Waters
@@ -28699,7 +28278,6 @@ Jane R,J. D. Guillard
 Jane R,A. Oldham
 Jane R,E. H. Duplex
 Jane R,G. R. Symes
-Jane R,A. Jackson
 Jane R,Howard
 Jane R,B. Sanderson
 Jane R,E. Waters
@@ -28784,7 +28362,6 @@ Fortie,J. D. Guillard
 Fortie,A. Oldham
 Fortie,E. H. Duplex
 Fortie,G. R. Symes
-Fortie,A. Jackson
 Fortie,Howard
 Fortie,B. Sanderson
 Fortie,E. Waters
@@ -28868,7 +28445,6 @@ D. Wills,J. D. Guillard
 D. Wills,A. Oldham
 D. Wills,E. H. Duplex
 D. Wills,G. R. Symes
-D. Wills,A. Jackson
 D. Wills,Howard
 D. Wills,B. Sanderson
 D. Wills,E. Waters
@@ -28951,7 +28527,6 @@ W. J. Bird,J. D. Guillard
 W. J. Bird,A. Oldham
 W. J. Bird,E. H. Duplex
 W. J. Bird,G. R. Symes
-W. J. Bird,A. Jackson
 W. J. Bird,Howard
 W. J. Bird,B. Sanderson
 W. J. Bird,E. Waters
@@ -29033,7 +28608,6 @@ Kenedy,J. D. Guillard
 Kenedy,A. Oldham
 Kenedy,E. H. Duplex
 Kenedy,G. R. Symes
-Kenedy,A. Jackson
 Kenedy,Howard
 Kenedy,B. Sanderson
 Kenedy,E. Waters
@@ -29114,7 +28688,6 @@ William Rich,J. D. Guillard
 William Rich,A. Oldham
 William Rich,E. H. Duplex
 William Rich,G. R. Symes
-William Rich,A. Jackson
 William Rich,Howard
 William Rich,B. Sanderson
 William Rich,E. Waters
@@ -29194,7 +28767,6 @@ Isaac Flood,J. D. Guillard
 Isaac Flood,A. Oldham
 Isaac Flood,E. H. Duplex
 Isaac Flood,G. R. Symes
-Isaac Flood,A. Jackson
 Isaac Flood,Howard
 Isaac Flood,B. Sanderson
 Isaac Flood,E. Waters
@@ -29273,7 +28845,6 @@ John Paterson,J. D. Guillard
 John Paterson,A. Oldham
 John Paterson,E. H. Duplex
 John Paterson,G. R. Symes
-John Paterson,A. Jackson
 John Paterson,Howard
 John Paterson,B. Sanderson
 John Paterson,E. Waters
@@ -29351,7 +28922,6 @@ W.H. Holmes,J. D. Guillard
 W.H. Holmes,A. Oldham
 W.H. Holmes,E. H. Duplex
 W.H. Holmes,G. R. Symes
-W.H. Holmes,A. Jackson
 W.H. Holmes,Howard
 W.H. Holmes,B. Sanderson
 W.H. Holmes,E. Waters
@@ -29428,7 +28998,6 @@ Peter Blackstone,J. D. Guillard
 Peter Blackstone,A. Oldham
 Peter Blackstone,E. H. Duplex
 Peter Blackstone,G. R. Symes
-Peter Blackstone,A. Jackson
 Peter Blackstone,Howard
 Peter Blackstone,B. Sanderson
 Peter Blackstone,E. Waters
@@ -29504,7 +29073,6 @@ James Allen,J. D. Guillard
 James Allen,A. Oldham
 James Allen,E. H. Duplex
 James Allen,G. R. Symes
-James Allen,A. Jackson
 James Allen,Howard
 James Allen,B. Sanderson
 James Allen,E. Waters
@@ -29579,7 +29147,6 @@ R. Tilghman,J. D. Guillard
 R. Tilghman,A. Oldham
 R. Tilghman,E. H. Duplex
 R. Tilghman,G. R. Symes
-R. Tilghman,A. Jackson
 R. Tilghman,Howard
 R. Tilghman,B. Sanderson
 R. Tilghman,E. Waters
@@ -29653,7 +29220,6 @@ Matthias Cooper,J. D. Guillard
 Matthias Cooper,A. Oldham
 Matthias Cooper,E. H. Duplex
 Matthias Cooper,G. R. Symes
-Matthias Cooper,A. Jackson
 Matthias Cooper,Howard
 Matthias Cooper,B. Sanderson
 Matthias Cooper,E. Waters
@@ -29726,7 +29292,6 @@ Wilson Freeman,J. D. Guillard
 Wilson Freeman,A. Oldham
 Wilson Freeman,E. H. Duplex
 Wilson Freeman,G. R. Symes
-Wilson Freeman,A. Jackson
 Wilson Freeman,Howard
 Wilson Freeman,B. Sanderson
 Wilson Freeman,E. Waters
@@ -29798,7 +29363,6 @@ G. Brooks,J. D. Guillard
 G. Brooks,A. Oldham
 G. Brooks,E. H. Duplex
 G. Brooks,G. R. Symes
-G. Brooks,A. Jackson
 G. Brooks,Howard
 G. Brooks,B. Sanderson
 G. Brooks,E. Waters
@@ -29869,7 +29433,6 @@ William Hough,J. D. Guillard
 William Hough,A. Oldham
 William Hough,E. H. Duplex
 William Hough,G. R. Symes
-William Hough,A. Jackson
 William Hough,Howard
 William Hough,B. Sanderson
 William Hough,E. Waters
@@ -29939,7 +29502,6 @@ H. W. Hall,J. D. Guillard
 H. W. Hall,A. Oldham
 H. W. Hall,E. H. Duplex
 H. W. Hall,G. R. Symes
-H. W. Hall,A. Jackson
 H. W. Hall,Howard
 H. W. Hall,B. Sanderson
 H. W. Hall,E. Waters
@@ -30008,7 +29570,6 @@ Hatfield,J. D. Guillard
 Hatfield,A. Oldham
 Hatfield,E. H. Duplex
 Hatfield,G. R. Symes
-Hatfield,A. Jackson
 Hatfield,Howard
 Hatfield,B. Sanderson
 Hatfield,E. Waters
@@ -30076,7 +29637,6 @@ Thomas J.Ricks,J. D. Guillard
 Thomas J.Ricks,A. Oldham
 Thomas J.Ricks,E. H. Duplex
 Thomas J.Ricks,G. R. Symes
-Thomas J.Ricks,A. Jackson
 Thomas J.Ricks,Howard
 Thomas J.Ricks,B. Sanderson
 Thomas J.Ricks,E. Waters
@@ -30143,7 +29703,6 @@ Manuel Quivas,J. D. Guillard
 Manuel Quivas,A. Oldham
 Manuel Quivas,E. H. Duplex
 Manuel Quivas,G. R. Symes
-Manuel Quivas,A. Jackson
 Manuel Quivas,Howard
 Manuel Quivas,B. Sanderson
 Manuel Quivas,E. Waters
@@ -30209,7 +29768,6 @@ Stephen Hilman,J. D. Guillard
 Stephen Hilman,A. Oldham
 Stephen Hilman,E. H. Duplex
 Stephen Hilman,G. R. Symes
-Stephen Hilman,A. Jackson
 Stephen Hilman,Howard
 Stephen Hilman,B. Sanderson
 Stephen Hilman,E. Waters
@@ -30274,7 +29832,6 @@ Joseph Adams,J. D. Guillard
 Joseph Adams,A. Oldham
 Joseph Adams,E. H. Duplex
 Joseph Adams,G. R. Symes
-Joseph Adams,A. Jackson
 Joseph Adams,Howard
 Joseph Adams,B. Sanderson
 Joseph Adams,E. Waters
@@ -30338,7 +29895,6 @@ L. A. Munroe,J. D. Guillard
 L. A. Munroe,A. Oldham
 L. A. Munroe,E. H. Duplex
 L. A. Munroe,G. R. Symes
-L. A. Munroe,A. Jackson
 L. A. Munroe,Howard
 L. A. Munroe,B. Sanderson
 L. A. Munroe,E. Waters
@@ -30401,7 +29957,6 @@ H. M. Pennington,J. D. Guillard
 H. M. Pennington,A. Oldham
 H. M. Pennington,E. H. Duplex
 H. M. Pennington,G. R. Symes
-H. M. Pennington,A. Jackson
 H. M. Pennington,Howard
 H. M. Pennington,B. Sanderson
 H. M. Pennington,E. Waters
@@ -30463,7 +30018,6 @@ Jacob Sinclair,J. D. Guillard
 Jacob Sinclair,A. Oldham
 Jacob Sinclair,E. H. Duplex
 Jacob Sinclair,G. R. Symes
-Jacob Sinclair,A. Jackson
 Jacob Sinclair,Howard
 Jacob Sinclair,B. Sanderson
 Jacob Sinclair,E. Waters
@@ -30524,7 +30078,6 @@ E. Halton,J. D. Guillard
 E. Halton,A. Oldham
 E. Halton,E. H. Duplex
 E. Halton,G. R. Symes
-E. Halton,A. Jackson
 E. Halton,Howard
 E. Halton,B. Sanderson
 E. Halton,E. Waters
@@ -30584,7 +30137,6 @@ Jordon Caselev,J. D. Guillard
 Jordon Caselev,A. Oldham
 Jordon Caselev,E. H. Duplex
 Jordon Caselev,G. R. Symes
-Jordon Caselev,A. Jackson
 Jordon Caselev,Howard
 Jordon Caselev,B. Sanderson
 Jordon Caselev,E. Waters
@@ -30643,7 +30195,6 @@ James H. Hubbard,J. D. Guillard
 James H. Hubbard,A. Oldham
 James H. Hubbard,E. H. Duplex
 James H. Hubbard,G. R. Symes
-James H. Hubbard,A. Jackson
 James H. Hubbard,Howard
 James H. Hubbard,B. Sanderson
 James H. Hubbard,E. Waters
@@ -30701,7 +30252,6 @@ Edward A. Booth,J. D. Guillard
 Edward A. Booth,A. Oldham
 Edward A. Booth,E. H. Duplex
 Edward A. Booth,G. R. Symes
-Edward A. Booth,A. Jackson
 Edward A. Booth,Howard
 Edward A. Booth,B. Sanderson
 Edward A. Booth,E. Waters
@@ -30758,7 +30308,6 @@ James Howard,J. D. Guillard
 James Howard,A. Oldham
 James Howard,E. H. Duplex
 James Howard,G. R. Symes
-James Howard,A. Jackson
 James Howard,Howard
 James Howard,B. Sanderson
 James Howard,E. Waters
@@ -30814,7 +30363,6 @@ Isaiah P. Gibbs,J. D. Guillard
 Isaiah P. Gibbs,A. Oldham
 Isaiah P. Gibbs,E. H. Duplex
 Isaiah P. Gibbs,G. R. Symes
-Isaiah P. Gibbs,A. Jackson
 Isaiah P. Gibbs,Howard
 Isaiah P. Gibbs,B. Sanderson
 Isaiah P. Gibbs,E. Waters
@@ -30869,7 +30417,6 @@ Joseph G. Underwood,J. D. Guillard
 Joseph G. Underwood,A. Oldham
 Joseph G. Underwood,E. H. Duplex
 Joseph G. Underwood,G. R. Symes
-Joseph G. Underwood,A. Jackson
 Joseph G. Underwood,Howard
 Joseph G. Underwood,B. Sanderson
 Joseph G. Underwood,E. Waters
@@ -30923,7 +30470,6 @@ Dudlop,J. D. Guillard
 Dudlop,A. Oldham
 Dudlop,E. H. Duplex
 Dudlop,G. R. Symes
-Dudlop,A. Jackson
 Dudlop,Howard
 Dudlop,B. Sanderson
 Dudlop,E. Waters
@@ -30976,7 +30522,6 @@ J. B. Starkey,J. D. Guillard
 J. B. Starkey,A. Oldham
 J. B. Starkey,E. H. Duplex
 J. B. Starkey,G. R. Symes
-J. B. Starkey,A. Jackson
 J. B. Starkey,Howard
 J. B. Starkey,B. Sanderson
 J. B. Starkey,E. Waters
@@ -31028,7 +30573,6 @@ George W. Gordon,J. D. Guillard
 George W. Gordon,A. Oldham
 George W. Gordon,E. H. Duplex
 George W. Gordon,G. R. Symes
-George W. Gordon,A. Jackson
 George W. Gordon,Howard
 George W. Gordon,B. Sanderson
 George W. Gordon,E. Waters
@@ -31079,7 +30623,6 @@ W. C. Patrick,J. D. Guillard
 W. C. Patrick,A. Oldham
 W. C. Patrick,E. H. Duplex
 W. C. Patrick,G. R. Symes
-W. C. Patrick,A. Jackson
 W. C. Patrick,Howard
 W. C. Patrick,B. Sanderson
 W. C. Patrick,E. Waters
@@ -31129,7 +30672,6 @@ M. Campbell,J. D. Guillard
 M. Campbell,A. Oldham
 M. Campbell,E. H. Duplex
 M. Campbell,G. R. Symes
-M. Campbell,A. Jackson
 M. Campbell,Howard
 M. Campbell,B. Sanderson
 M. Campbell,E. Waters
@@ -31178,7 +30720,6 @@ Samuel B. Hyer,J. D. Guillard
 Samuel B. Hyer,A. Oldham
 Samuel B. Hyer,E. H. Duplex
 Samuel B. Hyer,G. R. Symes
-Samuel B. Hyer,A. Jackson
 Samuel B. Hyer,Howard
 Samuel B. Hyer,B. Sanderson
 Samuel B. Hyer,E. Waters
@@ -31226,7 +30767,6 @@ John Black,J. D. Guillard
 John Black,A. Oldham
 John Black,E. H. Duplex
 John Black,G. R. Symes
-John Black,A. Jackson
 John Black,Howard
 John Black,B. Sanderson
 John Black,E. Waters
@@ -31273,7 +30813,6 @@ D. Brown,J. D. Guillard
 D. Brown,A. Oldham
 D. Brown,E. H. Duplex
 D. Brown,G. R. Symes
-D. Brown,A. Jackson
 D. Brown,Howard
 D. Brown,B. Sanderson
 D. Brown,E. Waters
@@ -31319,7 +30858,6 @@ J. J. Butler,J. D. Guillard
 J. J. Butler,A. Oldham
 J. J. Butler,E. H. Duplex
 J. J. Butler,G. R. Symes
-J. J. Butler,A. Jackson
 J. J. Butler,Howard
 J. J. Butler,B. Sanderson
 J. J. Butler,E. Waters
@@ -31364,7 +30902,6 @@ T. W. Burgess,J. D. Guillard
 T. W. Burgess,A. Oldham
 T. W. Burgess,E. H. Duplex
 T. W. Burgess,G. R. Symes
-T. W. Burgess,A. Jackson
 T. W. Burgess,Howard
 T. W. Burgess,B. Sanderson
 T. W. Burgess,E. Waters
@@ -31408,7 +30945,6 @@ Elisha Banks,J. D. Guillard
 Elisha Banks,A. Oldham
 Elisha Banks,E. H. Duplex
 Elisha Banks,G. R. Symes
-Elisha Banks,A. Jackson
 Elisha Banks,Howard
 Elisha Banks,B. Sanderson
 Elisha Banks,E. Waters
@@ -31451,7 +30987,6 @@ J. J. Pindall,J. D. Guillard
 J. J. Pindall,A. Oldham
 J. J. Pindall,E. H. Duplex
 J. J. Pindall,G. R. Symes
-J. J. Pindall,A. Jackson
 J. J. Pindall,Howard
 J. J. Pindall,B. Sanderson
 J. J. Pindall,E. Waters
@@ -31493,7 +31028,6 @@ E. D. Vincent,J. D. Guillard
 E. D. Vincent,A. Oldham
 E. D. Vincent,E. H. Duplex
 E. D. Vincent,G. R. Symes
-E. D. Vincent,A. Jackson
 E. D. Vincent,Howard
 E. D. Vincent,B. Sanderson
 E. D. Vincent,E. Waters
@@ -31534,7 +31068,6 @@ Charles W. Hall,J. D. Guillard
 Charles W. Hall,A. Oldham
 Charles W. Hall,E. H. Duplex
 Charles W. Hall,G. R. Symes
-Charles W. Hall,A. Jackson
 Charles W. Hall,Howard
 Charles W. Hall,B. Sanderson
 Charles W. Hall,E. Waters
@@ -31574,7 +31107,6 @@ Samuel Kunee,J. D. Guillard
 Samuel Kunee,A. Oldham
 Samuel Kunee,E. H. Duplex
 Samuel Kunee,G. R. Symes
-Samuel Kunee,A. Jackson
 Samuel Kunee,Howard
 Samuel Kunee,B. Sanderson
 Samuel Kunee,E. Waters
@@ -31613,7 +31145,6 @@ George W. Johnson,J. D. Guillard
 George W. Johnson,A. Oldham
 George W. Johnson,E. H. Duplex
 George W. Johnson,G. R. Symes
-George W. Johnson,A. Jackson
 George W. Johnson,Howard
 George W. Johnson,B. Sanderson
 George W. Johnson,E. Waters
@@ -31651,7 +31182,6 @@ Benjamin Franklin,J. D. Guillard
 Benjamin Franklin,A. Oldham
 Benjamin Franklin,E. H. Duplex
 Benjamin Franklin,G. R. Symes
-Benjamin Franklin,A. Jackson
 Benjamin Franklin,Howard
 Benjamin Franklin,B. Sanderson
 Benjamin Franklin,E. Waters
@@ -31688,7 +31218,6 @@ Nathan Furbert,J. D. Guillard
 Nathan Furbert,A. Oldham
 Nathan Furbert,E. H. Duplex
 Nathan Furbert,G. R. Symes
-Nathan Furbert,A. Jackson
 Nathan Furbert,Howard
 Nathan Furbert,B. Sanderson
 Nathan Furbert,E. Waters
@@ -31724,7 +31253,6 @@ Alfred J. White,J. D. Guillard
 Alfred J. White,A. Oldham
 Alfred J. White,E. H. Duplex
 Alfred J. White,G. R. Symes
-Alfred J. White,A. Jackson
 Alfred J. White,Howard
 Alfred J. White,B. Sanderson
 Alfred J. White,E. Waters
@@ -31759,7 +31287,6 @@ H. T. Smith,J. D. Guillard
 H. T. Smith,A. Oldham
 H. T. Smith,E. H. Duplex
 H. T. Smith,G. R. Symes
-H. T. Smith,A. Jackson
 H. T. Smith,Howard
 H. T. Smith,B. Sanderson
 H. T. Smith,E. Waters
@@ -31793,7 +31320,6 @@ R. Banks,J. D. Guillard
 R. Banks,A. Oldham
 R. Banks,E. H. Duplex
 R. Banks,G. R. Symes
-R. Banks,A. Jackson
 R. Banks,Howard
 R. Banks,B. Sanderson
 R. Banks,E. Waters
@@ -31826,7 +31352,6 @@ R. Banks,Lucius
 J. D. Guillard,A. Oldham
 J. D. Guillard,E. H. Duplex
 J. D. Guillard,G. R. Symes
-J. D. Guillard,A. Jackson
 J. D. Guillard,Howard
 J. D. Guillard,B. Sanderson
 J. D. Guillard,E. Waters
@@ -31858,7 +31383,6 @@ J. D. Guillard,J. Moore
 J. D. Guillard,Lucius
 A. Oldham,E. H. Duplex
 A. Oldham,G. R. Symes
-A. Oldham,A. Jackson
 A. Oldham,Howard
 A. Oldham,B. Sanderson
 A. Oldham,E. Waters
@@ -31889,7 +31413,6 @@ A. Oldham,J W. H. Newby
 A. Oldham,J. Moore
 A. Oldham,Lucius
 E. H. Duplex,G. R. Symes
-E. H. Duplex,A. Jackson
 E. H. Duplex,Howard
 E. H. Duplex,B. Sanderson
 E. H. Duplex,E. Waters
@@ -31919,7 +31442,6 @@ E. H. Duplex,J.J. Underwood
 E. H. Duplex,J W. H. Newby
 E. H. Duplex,J. Moore
 E. H. Duplex,Lucius
-G. R. Symes,A. Jackson
 G. R. Symes,Howard
 G. R. Symes,B. Sanderson
 G. R. Symes,E. Waters
@@ -31949,35 +31471,6 @@ G. R. Symes,J.J. Underwood
 G. R. Symes,J W. H. Newby
 G. R. Symes,J. Moore
 G. R. Symes,Lucius
-A. Jackson,Howard
-A. Jackson,B. Sanderson
-A. Jackson,E. Waters
-A. Jackson,Jefferson
-A. Jackson,Collins
-A. Jackson,Haynes
-A. Jackson,Moses
-A. Jackson,Jackson
-A. Jackson,Herbert
-A. Jackson,James King Of Wm.
-A. Jackson,Duplex
-A. Jackson,Washington
-A. Jackson,M. S. Hayne
-A. Jackson,George R. Symes
-A. Jackson,Joseph J. Underwood
-A. Jackson,Flowers
-A. Jackson,Newbys
-A. Jackson,William H. Hall
-A. Jackson,Smith
-A. Jackson,J. Howard
-A. Jackson,Secy
-A. Jackson,H. F. Smith
-A. Jackson,M. S. Hayes
-A. Jackson,J. W. H. Newby
-A. Jackson,Michigan Bluff
-A. Jackson,J.J. Underwood
-A. Jackson,J W. H. Newby
-A. Jackson,J. Moore
-A. Jackson,Lucius
 Howard,B. Sanderson
 Howard,E. Waters
 Howard,Jefferson

@@ -1,9 +1,8 @@
-name1,name2
+source,target
 Anthony,R. Francis
 Anthony,T. S. Wright
 Anthony,C. B. Ray
 Anthony,Sedgwick Wright
-Anthony,Charles B. Ray
 Anthony,Jeremiah Powers
 Anthony,James M'Cune Smith
 Anthony,H. H. Garnet
@@ -23,7 +22,6 @@ Anthony,W. B. Powell
 R. Francis,T. S. Wright
 R. Francis,C. B. Ray
 R. Francis,Sedgwick Wright
-R. Francis,Charles B. Ray
 R. Francis,Jeremiah Powers
 R. Francis,James M'Cune Smith
 R. Francis,H. H. Garnet
@@ -42,7 +40,6 @@ R. Francis,U. B. Vidal
 R. Francis,W. B. Powell
 T. S. Wright,C. B. Ray
 T. S. Wright,Sedgwick Wright
-T. S. Wright,Charles B. Ray
 T. S. Wright,Jeremiah Powers
 T. S. Wright,James M'Cune Smith
 T. S. Wright,H. H. Garnet
@@ -60,7 +57,6 @@ T. S. Wright,Rich
 T. S. Wright,U. B. Vidal
 T. S. Wright,W. B. Powell
 C. B. Ray,Sedgwick Wright
-C. B. Ray,Charles B. Ray
 C. B. Ray,Jeremiah Powers
 C. B. Ray,James M'Cune Smith
 C. B. Ray,H. H. Garnet
@@ -77,7 +73,6 @@ C. B. Ray,J. M'Cune Smith
 C. B. Ray,Rich
 C. B. Ray,U. B. Vidal
 C. B. Ray,W. B. Powell
-Sedgwick Wright,Charles B. Ray
 Sedgwick Wright,Jeremiah Powers
 Sedgwick Wright,James M'Cune Smith
 Sedgwick Wright,H. H. Garnet
@@ -94,22 +89,6 @@ Sedgwick Wright,J. M'Cune Smith
 Sedgwick Wright,Rich
 Sedgwick Wright,U. B. Vidal
 Sedgwick Wright,W. B. Powell
-Charles B. Ray,Jeremiah Powers
-Charles B. Ray,James M'Cune Smith
-Charles B. Ray,H. H. Garnet
-Charles B. Ray,Thompson
-Charles B. Ray,Bouck
-Charles B. Ray,Garnet
-Charles B. Ray,William P. Johnson
-Charles B. Ray,Ulysses B. Vidal
-Charles B. Ray,Johnson
-Charles B. Ray,V.
-Charles B. Ray,Moulton
-Charles B. Ray,William P. Powell
-Charles B. Ray,J. M'Cune Smith
-Charles B. Ray,Rich
-Charles B. Ray,U. B. Vidal
-Charles B. Ray,W. B. Powell
 Jeremiah Powers,James M'Cune Smith
 Jeremiah Powers,H. H. Garnet
 Jeremiah Powers,Thompson

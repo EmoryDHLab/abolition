@@ -1,26 +1,12 @@
-name1,name2
-Frederick Douglass,C. H. Tandy
+source,target
 Frederick Douglass,S. J. Hollensworth
-Frederick Douglass,J. G. Sterrett
 Frederick Douglass,J. B. Maginnis
-Frederick Douglass,Jesse Lawson
-Frederick Douglass,J. E. O'Hara
-Frederick Douglass,Samuel J. Lewis
 Frederick Douglass,J. L. Sweres
-Frederick Douglass,H. Price Williams
-Frederick Douglass,H. L. Shrewsbury
-Frederick Douglass,W. H. Young
 Frederick Douglass,Henry Scroff
-Frederick Douglass,Mack Henson
 Frederick Douglass,L. A. Martinet Virginia
-Frederick Douglass,G. M. Arnold
 Frederick Douglass,A. V. Cooper
-Frederick Douglass,G. W. Hollinger
 Frederick Douglass,G. H. Ruffin
-Frederick Douglass,J. W. Birney
-Frederick Douglass,J. W. Randolph
 Frederick Douglass,J. M. Gregory
-Frederick Douglass,D. C.
 Frederick Douglass,W. Keats
 Frederick Douglass,G.H. Clark
 Frederick Douglass,W.G. Robinson
@@ -35,61 +21,13 @@ Frederick Douglass,O'Connell
 Frederick Douglass,Noah
 Frederick Douglass,Woolsey
 Frederick Douglass,Cromwell
-C. H. Tandy,S. J. Hollensworth
-C. H. Tandy,J. G. Sterrett
-C. H. Tandy,J. B. Maginnis
-C. H. Tandy,Jesse Lawson
-C. H. Tandy,J. E. O'Hara
-C. H. Tandy,Samuel J. Lewis
-C. H. Tandy,J. L. Sweres
-C. H. Tandy,H. Price Williams
-C. H. Tandy,H. L. Shrewsbury
-C. H. Tandy,W. H. Young
-C. H. Tandy,Henry Scroff
-C. H. Tandy,Mack Henson
-C. H. Tandy,L. A. Martinet Virginia
-C. H. Tandy,G. M. Arnold
-C. H. Tandy,A. V. Cooper
-C. H. Tandy,G. W. Hollinger
-C. H. Tandy,G. H. Ruffin
-C. H. Tandy,J. W. Birney
-C. H. Tandy,J. W. Randolph
-C. H. Tandy,J. M. Gregory
-C. H. Tandy,D. C.
-C. H. Tandy,W. Keats
-C. H. Tandy,G.H. Clark
-C. H. Tandy,W.G. Robinson
-C. H. Tandy,John C. Calhoun
-C. H. Tandy,Calhoun
-C. H. Tandy,Stevens
-C. H. Tandy,Sumner
-C. H. Tandy,Wade
-C. H. Tandy,Freedman
-C. H. Tandy,Guiteau
-C. H. Tandy,O'Connell
-C. H. Tandy,Noah
-C. H. Tandy,Woolsey
-C. H. Tandy,Cromwell
-S. J. Hollensworth,J. G. Sterrett
 S. J. Hollensworth,J. B. Maginnis
-S. J. Hollensworth,Jesse Lawson
-S. J. Hollensworth,J. E. O'Hara
-S. J. Hollensworth,Samuel J. Lewis
 S. J. Hollensworth,J. L. Sweres
-S. J. Hollensworth,H. Price Williams
-S. J. Hollensworth,H. L. Shrewsbury
-S. J. Hollensworth,W. H. Young
 S. J. Hollensworth,Henry Scroff
-S. J. Hollensworth,Mack Henson
 S. J. Hollensworth,L. A. Martinet Virginia
-S. J. Hollensworth,G. M. Arnold
 S. J. Hollensworth,A. V. Cooper
-S. J. Hollensworth,G. W. Hollinger
 S. J. Hollensworth,G. H. Ruffin
-S. J. Hollensworth,J. W. Birney
-S. J. Hollensworth,J. W. Randolph
 S. J. Hollensworth,J. M. Gregory
-S. J. Hollensworth,D. C.
 S. J. Hollensworth,W. Keats
 S. J. Hollensworth,G.H. Clark
 S. J. Hollensworth,W.G. Robinson
@@ -104,57 +42,12 @@ S. J. Hollensworth,O'Connell
 S. J. Hollensworth,Noah
 S. J. Hollensworth,Woolsey
 S. J. Hollensworth,Cromwell
-J. G. Sterrett,J. B. Maginnis
-J. G. Sterrett,Jesse Lawson
-J. G. Sterrett,J. E. O'Hara
-J. G. Sterrett,Samuel J. Lewis
-J. G. Sterrett,J. L. Sweres
-J. G. Sterrett,H. Price Williams
-J. G. Sterrett,H. L. Shrewsbury
-J. G. Sterrett,W. H. Young
-J. G. Sterrett,Henry Scroff
-J. G. Sterrett,Mack Henson
-J. G. Sterrett,L. A. Martinet Virginia
-J. G. Sterrett,G. M. Arnold
-J. G. Sterrett,A. V. Cooper
-J. G. Sterrett,G. W. Hollinger
-J. G. Sterrett,G. H. Ruffin
-J. G. Sterrett,J. W. Birney
-J. G. Sterrett,J. W. Randolph
-J. G. Sterrett,J. M. Gregory
-J. G. Sterrett,D. C.
-J. G. Sterrett,W. Keats
-J. G. Sterrett,G.H. Clark
-J. G. Sterrett,W.G. Robinson
-J. G. Sterrett,John C. Calhoun
-J. G. Sterrett,Calhoun
-J. G. Sterrett,Stevens
-J. G. Sterrett,Sumner
-J. G. Sterrett,Wade
-J. G. Sterrett,Freedman
-J. G. Sterrett,Guiteau
-J. G. Sterrett,O'Connell
-J. G. Sterrett,Noah
-J. G. Sterrett,Woolsey
-J. G. Sterrett,Cromwell
-J. B. Maginnis,Jesse Lawson
-J. B. Maginnis,J. E. O'Hara
-J. B. Maginnis,Samuel J. Lewis
 J. B. Maginnis,J. L. Sweres
-J. B. Maginnis,H. Price Williams
-J. B. Maginnis,H. L. Shrewsbury
-J. B. Maginnis,W. H. Young
 J. B. Maginnis,Henry Scroff
-J. B. Maginnis,Mack Henson
 J. B. Maginnis,L. A. Martinet Virginia
-J. B. Maginnis,G. M. Arnold
 J. B. Maginnis,A. V. Cooper
-J. B. Maginnis,G. W. Hollinger
 J. B. Maginnis,G. H. Ruffin
-J. B. Maginnis,J. W. Birney
-J. B. Maginnis,J. W. Randolph
 J. B. Maginnis,J. M. Gregory
-J. B. Maginnis,D. C.
 J. B. Maginnis,W. Keats
 J. B. Maginnis,G.H. Clark
 J. B. Maginnis,W.G. Robinson
@@ -169,110 +62,11 @@ J. B. Maginnis,O'Connell
 J. B. Maginnis,Noah
 J. B. Maginnis,Woolsey
 J. B. Maginnis,Cromwell
-Jesse Lawson,J. E. O'Hara
-Jesse Lawson,Samuel J. Lewis
-Jesse Lawson,J. L. Sweres
-Jesse Lawson,H. Price Williams
-Jesse Lawson,H. L. Shrewsbury
-Jesse Lawson,W. H. Young
-Jesse Lawson,Henry Scroff
-Jesse Lawson,Mack Henson
-Jesse Lawson,L. A. Martinet Virginia
-Jesse Lawson,G. M. Arnold
-Jesse Lawson,A. V. Cooper
-Jesse Lawson,G. W. Hollinger
-Jesse Lawson,G. H. Ruffin
-Jesse Lawson,J. W. Birney
-Jesse Lawson,J. W. Randolph
-Jesse Lawson,J. M. Gregory
-Jesse Lawson,D. C.
-Jesse Lawson,W. Keats
-Jesse Lawson,G.H. Clark
-Jesse Lawson,W.G. Robinson
-Jesse Lawson,John C. Calhoun
-Jesse Lawson,Calhoun
-Jesse Lawson,Stevens
-Jesse Lawson,Sumner
-Jesse Lawson,Wade
-Jesse Lawson,Freedman
-Jesse Lawson,Guiteau
-Jesse Lawson,O'Connell
-Jesse Lawson,Noah
-Jesse Lawson,Woolsey
-Jesse Lawson,Cromwell
-J. E. O'Hara,Samuel J. Lewis
-J. E. O'Hara,J. L. Sweres
-J. E. O'Hara,H. Price Williams
-J. E. O'Hara,H. L. Shrewsbury
-J. E. O'Hara,W. H. Young
-J. E. O'Hara,Henry Scroff
-J. E. O'Hara,Mack Henson
-J. E. O'Hara,L. A. Martinet Virginia
-J. E. O'Hara,G. M. Arnold
-J. E. O'Hara,A. V. Cooper
-J. E. O'Hara,G. W. Hollinger
-J. E. O'Hara,G. H. Ruffin
-J. E. O'Hara,J. W. Birney
-J. E. O'Hara,J. W. Randolph
-J. E. O'Hara,J. M. Gregory
-J. E. O'Hara,D. C.
-J. E. O'Hara,W. Keats
-J. E. O'Hara,G.H. Clark
-J. E. O'Hara,W.G. Robinson
-J. E. O'Hara,John C. Calhoun
-J. E. O'Hara,Calhoun
-J. E. O'Hara,Stevens
-J. E. O'Hara,Sumner
-J. E. O'Hara,Wade
-J. E. O'Hara,Freedman
-J. E. O'Hara,Guiteau
-J. E. O'Hara,O'Connell
-J. E. O'Hara,Noah
-J. E. O'Hara,Woolsey
-J. E. O'Hara,Cromwell
-Samuel J. Lewis,J. L. Sweres
-Samuel J. Lewis,H. Price Williams
-Samuel J. Lewis,H. L. Shrewsbury
-Samuel J. Lewis,W. H. Young
-Samuel J. Lewis,Henry Scroff
-Samuel J. Lewis,Mack Henson
-Samuel J. Lewis,L. A. Martinet Virginia
-Samuel J. Lewis,G. M. Arnold
-Samuel J. Lewis,A. V. Cooper
-Samuel J. Lewis,G. W. Hollinger
-Samuel J. Lewis,G. H. Ruffin
-Samuel J. Lewis,J. W. Birney
-Samuel J. Lewis,J. W. Randolph
-Samuel J. Lewis,J. M. Gregory
-Samuel J. Lewis,D. C.
-Samuel J. Lewis,W. Keats
-Samuel J. Lewis,G.H. Clark
-Samuel J. Lewis,W.G. Robinson
-Samuel J. Lewis,John C. Calhoun
-Samuel J. Lewis,Calhoun
-Samuel J. Lewis,Stevens
-Samuel J. Lewis,Sumner
-Samuel J. Lewis,Wade
-Samuel J. Lewis,Freedman
-Samuel J. Lewis,Guiteau
-Samuel J. Lewis,O'Connell
-Samuel J. Lewis,Noah
-Samuel J. Lewis,Woolsey
-Samuel J. Lewis,Cromwell
-J. L. Sweres,H. Price Williams
-J. L. Sweres,H. L. Shrewsbury
-J. L. Sweres,W. H. Young
 J. L. Sweres,Henry Scroff
-J. L. Sweres,Mack Henson
 J. L. Sweres,L. A. Martinet Virginia
-J. L. Sweres,G. M. Arnold
 J. L. Sweres,A. V. Cooper
-J. L. Sweres,G. W. Hollinger
 J. L. Sweres,G. H. Ruffin
-J. L. Sweres,J. W. Birney
-J. L. Sweres,J. W. Randolph
 J. L. Sweres,J. M. Gregory
-J. L. Sweres,D. C.
 J. L. Sweres,W. Keats
 J. L. Sweres,G.H. Clark
 J. L. Sweres,W.G. Robinson
@@ -287,94 +81,10 @@ J. L. Sweres,O'Connell
 J. L. Sweres,Noah
 J. L. Sweres,Woolsey
 J. L. Sweres,Cromwell
-H. Price Williams,H. L. Shrewsbury
-H. Price Williams,W. H. Young
-H. Price Williams,Henry Scroff
-H. Price Williams,Mack Henson
-H. Price Williams,L. A. Martinet Virginia
-H. Price Williams,G. M. Arnold
-H. Price Williams,A. V. Cooper
-H. Price Williams,G. W. Hollinger
-H. Price Williams,G. H. Ruffin
-H. Price Williams,J. W. Birney
-H. Price Williams,J. W. Randolph
-H. Price Williams,J. M. Gregory
-H. Price Williams,D. C.
-H. Price Williams,W. Keats
-H. Price Williams,G.H. Clark
-H. Price Williams,W.G. Robinson
-H. Price Williams,John C. Calhoun
-H. Price Williams,Calhoun
-H. Price Williams,Stevens
-H. Price Williams,Sumner
-H. Price Williams,Wade
-H. Price Williams,Freedman
-H. Price Williams,Guiteau
-H. Price Williams,O'Connell
-H. Price Williams,Noah
-H. Price Williams,Woolsey
-H. Price Williams,Cromwell
-H. L. Shrewsbury,W. H. Young
-H. L. Shrewsbury,Henry Scroff
-H. L. Shrewsbury,Mack Henson
-H. L. Shrewsbury,L. A. Martinet Virginia
-H. L. Shrewsbury,G. M. Arnold
-H. L. Shrewsbury,A. V. Cooper
-H. L. Shrewsbury,G. W. Hollinger
-H. L. Shrewsbury,G. H. Ruffin
-H. L. Shrewsbury,J. W. Birney
-H. L. Shrewsbury,J. W. Randolph
-H. L. Shrewsbury,J. M. Gregory
-H. L. Shrewsbury,D. C.
-H. L. Shrewsbury,W. Keats
-H. L. Shrewsbury,G.H. Clark
-H. L. Shrewsbury,W.G. Robinson
-H. L. Shrewsbury,John C. Calhoun
-H. L. Shrewsbury,Calhoun
-H. L. Shrewsbury,Stevens
-H. L. Shrewsbury,Sumner
-H. L. Shrewsbury,Wade
-H. L. Shrewsbury,Freedman
-H. L. Shrewsbury,Guiteau
-H. L. Shrewsbury,O'Connell
-H. L. Shrewsbury,Noah
-H. L. Shrewsbury,Woolsey
-H. L. Shrewsbury,Cromwell
-W. H. Young,Henry Scroff
-W. H. Young,Mack Henson
-W. H. Young,L. A. Martinet Virginia
-W. H. Young,G. M. Arnold
-W. H. Young,A. V. Cooper
-W. H. Young,G. W. Hollinger
-W. H. Young,G. H. Ruffin
-W. H. Young,J. W. Birney
-W. H. Young,J. W. Randolph
-W. H. Young,J. M. Gregory
-W. H. Young,D. C.
-W. H. Young,W. Keats
-W. H. Young,G.H. Clark
-W. H. Young,W.G. Robinson
-W. H. Young,John C. Calhoun
-W. H. Young,Calhoun
-W. H. Young,Stevens
-W. H. Young,Sumner
-W. H. Young,Wade
-W. H. Young,Freedman
-W. H. Young,Guiteau
-W. H. Young,O'Connell
-W. H. Young,Noah
-W. H. Young,Woolsey
-W. H. Young,Cromwell
-Henry Scroff,Mack Henson
 Henry Scroff,L. A. Martinet Virginia
-Henry Scroff,G. M. Arnold
 Henry Scroff,A. V. Cooper
-Henry Scroff,G. W. Hollinger
 Henry Scroff,G. H. Ruffin
-Henry Scroff,J. W. Birney
-Henry Scroff,J. W. Randolph
 Henry Scroff,J. M. Gregory
-Henry Scroff,D. C.
 Henry Scroff,W. Keats
 Henry Scroff,G.H. Clark
 Henry Scroff,W.G. Robinson
@@ -389,37 +99,9 @@ Henry Scroff,O'Connell
 Henry Scroff,Noah
 Henry Scroff,Woolsey
 Henry Scroff,Cromwell
-Mack Henson,L. A. Martinet Virginia
-Mack Henson,G. M. Arnold
-Mack Henson,A. V. Cooper
-Mack Henson,G. W. Hollinger
-Mack Henson,G. H. Ruffin
-Mack Henson,J. W. Birney
-Mack Henson,J. W. Randolph
-Mack Henson,J. M. Gregory
-Mack Henson,D. C.
-Mack Henson,W. Keats
-Mack Henson,G.H. Clark
-Mack Henson,W.G. Robinson
-Mack Henson,John C. Calhoun
-Mack Henson,Calhoun
-Mack Henson,Stevens
-Mack Henson,Sumner
-Mack Henson,Wade
-Mack Henson,Freedman
-Mack Henson,Guiteau
-Mack Henson,O'Connell
-Mack Henson,Noah
-Mack Henson,Woolsey
-Mack Henson,Cromwell
-L. A. Martinet Virginia,G. M. Arnold
 L. A. Martinet Virginia,A. V. Cooper
-L. A. Martinet Virginia,G. W. Hollinger
 L. A. Martinet Virginia,G. H. Ruffin
-L. A. Martinet Virginia,J. W. Birney
-L. A. Martinet Virginia,J. W. Randolph
 L. A. Martinet Virginia,J. M. Gregory
-L. A. Martinet Virginia,D. C.
 L. A. Martinet Virginia,W. Keats
 L. A. Martinet Virginia,G.H. Clark
 L. A. Martinet Virginia,W.G. Robinson
@@ -434,33 +116,8 @@ L. A. Martinet Virginia,O'Connell
 L. A. Martinet Virginia,Noah
 L. A. Martinet Virginia,Woolsey
 L. A. Martinet Virginia,Cromwell
-G. M. Arnold,A. V. Cooper
-G. M. Arnold,G. W. Hollinger
-G. M. Arnold,G. H. Ruffin
-G. M. Arnold,J. W. Birney
-G. M. Arnold,J. W. Randolph
-G. M. Arnold,J. M. Gregory
-G. M. Arnold,D. C.
-G. M. Arnold,W. Keats
-G. M. Arnold,G.H. Clark
-G. M. Arnold,W.G. Robinson
-G. M. Arnold,John C. Calhoun
-G. M. Arnold,Calhoun
-G. M. Arnold,Stevens
-G. M. Arnold,Sumner
-G. M. Arnold,Wade
-G. M. Arnold,Freedman
-G. M. Arnold,Guiteau
-G. M. Arnold,O'Connell
-G. M. Arnold,Noah
-G. M. Arnold,Woolsey
-G. M. Arnold,Cromwell
-A. V. Cooper,G. W. Hollinger
 A. V. Cooper,G. H. Ruffin
-A. V. Cooper,J. W. Birney
-A. V. Cooper,J. W. Randolph
 A. V. Cooper,J. M. Gregory
-A. V. Cooper,D. C.
 A. V. Cooper,W. Keats
 A. V. Cooper,G.H. Clark
 A. V. Cooper,W.G. Robinson
@@ -475,29 +132,7 @@ A. V. Cooper,O'Connell
 A. V. Cooper,Noah
 A. V. Cooper,Woolsey
 A. V. Cooper,Cromwell
-G. W. Hollinger,G. H. Ruffin
-G. W. Hollinger,J. W. Birney
-G. W. Hollinger,J. W. Randolph
-G. W. Hollinger,J. M. Gregory
-G. W. Hollinger,D. C.
-G. W. Hollinger,W. Keats
-G. W. Hollinger,G.H. Clark
-G. W. Hollinger,W.G. Robinson
-G. W. Hollinger,John C. Calhoun
-G. W. Hollinger,Calhoun
-G. W. Hollinger,Stevens
-G. W. Hollinger,Sumner
-G. W. Hollinger,Wade
-G. W. Hollinger,Freedman
-G. W. Hollinger,Guiteau
-G. W. Hollinger,O'Connell
-G. W. Hollinger,Noah
-G. W. Hollinger,Woolsey
-G. W. Hollinger,Cromwell
-G. H. Ruffin,J. W. Birney
-G. H. Ruffin,J. W. Randolph
 G. H. Ruffin,J. M. Gregory
-G. H. Ruffin,D. C.
 G. H. Ruffin,W. Keats
 G. H. Ruffin,G.H. Clark
 G. H. Ruffin,W.G. Robinson
@@ -512,40 +147,6 @@ G. H. Ruffin,O'Connell
 G. H. Ruffin,Noah
 G. H. Ruffin,Woolsey
 G. H. Ruffin,Cromwell
-J. W. Birney,J. W. Randolph
-J. W. Birney,J. M. Gregory
-J. W. Birney,D. C.
-J. W. Birney,W. Keats
-J. W. Birney,G.H. Clark
-J. W. Birney,W.G. Robinson
-J. W. Birney,John C. Calhoun
-J. W. Birney,Calhoun
-J. W. Birney,Stevens
-J. W. Birney,Sumner
-J. W. Birney,Wade
-J. W. Birney,Freedman
-J. W. Birney,Guiteau
-J. W. Birney,O'Connell
-J. W. Birney,Noah
-J. W. Birney,Woolsey
-J. W. Birney,Cromwell
-J. W. Randolph,J. M. Gregory
-J. W. Randolph,D. C.
-J. W. Randolph,W. Keats
-J. W. Randolph,G.H. Clark
-J. W. Randolph,W.G. Robinson
-J. W. Randolph,John C. Calhoun
-J. W. Randolph,Calhoun
-J. W. Randolph,Stevens
-J. W. Randolph,Sumner
-J. W. Randolph,Wade
-J. W. Randolph,Freedman
-J. W. Randolph,Guiteau
-J. W. Randolph,O'Connell
-J. W. Randolph,Noah
-J. W. Randolph,Woolsey
-J. W. Randolph,Cromwell
-J. M. Gregory,D. C.
 J. M. Gregory,W. Keats
 J. M. Gregory,G.H. Clark
 J. M. Gregory,W.G. Robinson
@@ -560,20 +161,6 @@ J. M. Gregory,O'Connell
 J. M. Gregory,Noah
 J. M. Gregory,Woolsey
 J. M. Gregory,Cromwell
-D. C.,W. Keats
-D. C.,G.H. Clark
-D. C.,W.G. Robinson
-D. C.,John C. Calhoun
-D. C.,Calhoun
-D. C.,Stevens
-D. C.,Sumner
-D. C.,Wade
-D. C.,Freedman
-D. C.,Guiteau
-D. C.,O'Connell
-D. C.,Noah
-D. C.,Woolsey
-D. C.,Cromwell
 W. Keats,G.H. Clark
 W. Keats,W.G. Robinson
 W. Keats,John C. Calhoun

@@ -1,4 +1,4 @@
-name1,name2
+source,target
 John A. Warren,J. G. Britton
 John A. Warren,W. J. Greenly
 John A. Warren,J. Callihan
@@ -20,7 +20,6 @@ John A. Warren,D. Dudly
 John A. Warren,Bartholomew
 John A. Warren,J. J. Fitzgerald
 John A. Warren,B. Crider
-John A. Warren,Wm.
 John A. Warren,Anderson
 John A. Warren,S. Jones
 John A. Warren,E. Weaver
@@ -55,7 +54,6 @@ J. G. Britton,D. Dudly
 J. G. Britton,Bartholomew
 J. G. Britton,J. J. Fitzgerald
 J. G. Britton,B. Crider
-J. G. Britton,Wm.
 J. G. Britton,Anderson
 J. G. Britton,S. Jones
 J. G. Britton,E. Weaver
@@ -89,7 +87,6 @@ W. J. Greenly,D. Dudly
 W. J. Greenly,Bartholomew
 W. J. Greenly,J. J. Fitzgerald
 W. J. Greenly,B. Crider
-W. J. Greenly,Wm.
 W. J. Greenly,Anderson
 W. J. Greenly,S. Jones
 W. J. Greenly,E. Weaver
@@ -122,7 +119,6 @@ J. Callihan,D. Dudly
 J. Callihan,Bartholomew
 J. Callihan,J. J. Fitzgerald
 J. Callihan,B. Crider
-J. Callihan,Wm.
 J. Callihan,Anderson
 J. Callihan,S. Jones
 J. Callihan,E. Weaver
@@ -154,7 +150,6 @@ T. Bushrod,D. Dudly
 T. Bushrod,Bartholomew
 T. Bushrod,J. J. Fitzgerald
 T. Bushrod,B. Crider
-T. Bushrod,Wm.
 T. Bushrod,Anderson
 T. Bushrod,S. Jones
 T. Bushrod,E. Weaver
@@ -185,7 +180,6 @@ W. H. Manly,D. Dudly
 W. H. Manly,Bartholomew
 W. H. Manly,J. J. Fitzgerald
 W. H. Manly,B. Crider
-W. H. Manly,Wm.
 W. H. Manly,Anderson
 W. H. Manly,S. Jones
 W. H. Manly,E. Weaver
@@ -215,7 +209,6 @@ P. B. Delany,D. Dudly
 P. B. Delany,Bartholomew
 P. B. Delany,J. J. Fitzgerald
 P. B. Delany,B. Crider
-P. B. Delany,Wm.
 P. B. Delany,Anderson
 P. B. Delany,S. Jones
 P. B. Delany,E. Weaver
@@ -244,7 +237,6 @@ J. L. Johnson,D. Dudly
 J. L. Johnson,Bartholomew
 J. L. Johnson,J. J. Fitzgerald
 J. L. Johnson,B. Crider
-J. L. Johnson,Wm.
 J. L. Johnson,Anderson
 J. L. Johnson,S. Jones
 J. L. Johnson,E. Weaver
@@ -272,7 +264,6 @@ J. H. Bundy,D. Dudly
 J. H. Bundy,Bartholomew
 J. H. Bundy,J. J. Fitzgerald
 J. H. Bundy,B. Crider
-J. H. Bundy,Wm.
 J. H. Bundy,Anderson
 J. H. Bundy,S. Jones
 J. H. Bundy,E. Weaver
@@ -299,7 +290,6 @@ W. H. Carter,D. Dudly
 W. H. Carter,Bartholomew
 W. H. Carter,J. J. Fitzgerald
 W. H. Carter,B. Crider
-W. H. Carter,Wm.
 W. H. Carter,Anderson
 W. H. Carter,S. Jones
 W. H. Carter,E. Weaver
@@ -325,7 +315,6 @@ J. Mitchell,D. Dudly
 J. Mitchell,Bartholomew
 J. Mitchell,J. J. Fitzgerald
 J. Mitchell,B. Crider
-J. Mitchell,Wm.
 J. Mitchell,Anderson
 J. Mitchell,S. Jones
 J. Mitchell,E. Weaver
@@ -350,7 +339,6 @@ J. Morgan,D. Dudly
 J. Morgan,Bartholomew
 J. Morgan,J. J. Fitzgerald
 J. Morgan,B. Crider
-J. Morgan,Wm.
 J. Morgan,Anderson
 J. Morgan,S. Jones
 J. Morgan,E. Weaver
@@ -374,7 +362,6 @@ Floyd,D. Dudly
 Floyd,Bartholomew
 Floyd,J. J. Fitzgerald
 Floyd,B. Crider
-Floyd,Wm.
 Floyd,Anderson
 Floyd,S. Jones
 Floyd,E. Weaver
@@ -397,7 +384,6 @@ J. A. Warren,D. Dudly
 J. A. Warren,Bartholomew
 J. A. Warren,J. J. Fitzgerald
 J. A. Warren,B. Crider
-J. A. Warren,Wm.
 J. A. Warren,Anderson
 J. A. Warren,S. Jones
 J. A. Warren,E. Weaver
@@ -419,7 +405,6 @@ Clark,D. Dudly
 Clark,Bartholomew
 Clark,J. J. Fitzgerald
 Clark,B. Crider
-Clark,Wm.
 Clark,Anderson
 Clark,S. Jones
 Clark,E. Weaver
@@ -440,7 +425,6 @@ W. Couzins,D. Dudly
 W. Couzins,Bartholomew
 W. Couzins,J. J. Fitzgerald
 W. Couzins,B. Crider
-W. Couzins,Wm.
 W. Couzins,Anderson
 W. Couzins,S. Jones
 W. Couzins,E. Weaver
@@ -460,7 +444,6 @@ W. Chandler,D. Dudly
 W. Chandler,Bartholomew
 W. Chandler,J. J. Fitzgerald
 W. Chandler,B. Crider
-W. Chandler,Wm.
 W. Chandler,Anderson
 W. Chandler,S. Jones
 W. Chandler,E. Weaver
@@ -479,7 +462,6 @@ D. Johnson,D. Dudly
 D. Johnson,Bartholomew
 D. Johnson,J. J. Fitzgerald
 D. Johnson,B. Crider
-D. Johnson,Wm.
 D. Johnson,Anderson
 D. Johnson,S. Jones
 D. Johnson,E. Weaver
@@ -497,7 +479,6 @@ D. Johnson,J. Manly
 D. Dudly,Bartholomew
 D. Dudly,J. J. Fitzgerald
 D. Dudly,B. Crider
-D. Dudly,Wm.
 D. Dudly,Anderson
 D. Dudly,S. Jones
 D. Dudly,E. Weaver
@@ -514,7 +495,6 @@ D. Dudly,W. T. Boyd
 D. Dudly,J. Manly
 Bartholomew,J. J. Fitzgerald
 Bartholomew,B. Crider
-Bartholomew,Wm.
 Bartholomew,Anderson
 Bartholomew,S. Jones
 Bartholomew,E. Weaver
@@ -530,7 +510,6 @@ Bartholomew,D. N. Mcdowell
 Bartholomew,W. T. Boyd
 Bartholomew,J. Manly
 J. J. Fitzgerald,B. Crider
-J. J. Fitzgerald,Wm.
 J. J. Fitzgerald,Anderson
 J. J. Fitzgerald,S. Jones
 J. J. Fitzgerald,E. Weaver
@@ -545,7 +524,6 @@ J. J. Fitzgerald,John Morgan
 J. J. Fitzgerald,D. N. Mcdowell
 J. J. Fitzgerald,W. T. Boyd
 J. J. Fitzgerald,J. Manly
-B. Crider,Wm.
 B. Crider,Anderson
 B. Crider,S. Jones
 B. Crider,E. Weaver
@@ -560,20 +538,6 @@ B. Crider,John Morgan
 B. Crider,D. N. Mcdowell
 B. Crider,W. T. Boyd
 B. Crider,J. Manly
-Wm.,Anderson
-Wm.,S. Jones
-Wm.,E. Weaver
-Wm.,Posey
-Wm.,Gibson
-Wm.,J. M. Brown
-Wm.,J. B. Delany
-Wm.,Blanks
-Wm.,J. Merriwether
-Wm.,John G. Britton
-Wm.,John Morgan
-Wm.,D. N. Mcdowell
-Wm.,W. T. Boyd
-Wm.,J. Manly
 Anderson,S. Jones
 Anderson,E. Weaver
 Anderson,Posey

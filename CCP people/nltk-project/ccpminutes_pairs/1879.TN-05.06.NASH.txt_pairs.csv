@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Rufus H. Darby,P.B.S. Pinchback
 Rufus H. Darby,John R. Lynch
 Rufus H. Darby,Lewis
@@ -277,9 +277,7 @@ Rufus H. Darby,Bonaparte
 Rufus H. Darby,Sherman
 Rufus H. Darby,Barnum
 Rufus H. Darby,Mo -- Deaths
-Rufus H. Darby,M. D.
 Rufus H. Darby,Wm. Stewart
-Rufus H. Darby,N. J.
 Rufus H. Darby,Jonathan
 Rufus H. Darby,Josh Billings
 Rufus H. Darby,Simmons
@@ -287,7 +285,6 @@ Rufus H. Darby,Payne
 Rufus H. Darby,Blyden
 Rufus H. Darby,Edmonia Lewis
 Rufus H. Darby,Langston
-Rufus H. Darby,Nathan
 Rufus H. Darby,John Chinaman
 Rufus H. Darby,John
 Rufus H. Darby,Harper
@@ -718,9 +715,7 @@ P.B.S. Pinchback,Bonaparte
 P.B.S. Pinchback,Sherman
 P.B.S. Pinchback,Barnum
 P.B.S. Pinchback,Mo -- Deaths
-P.B.S. Pinchback,M. D.
 P.B.S. Pinchback,Wm. Stewart
-P.B.S. Pinchback,N. J.
 P.B.S. Pinchback,Jonathan
 P.B.S. Pinchback,Josh Billings
 P.B.S. Pinchback,Simmons
@@ -728,7 +723,6 @@ P.B.S. Pinchback,Payne
 P.B.S. Pinchback,Blyden
 P.B.S. Pinchback,Edmonia Lewis
 P.B.S. Pinchback,Langston
-P.B.S. Pinchback,Nathan
 P.B.S. Pinchback,John Chinaman
 P.B.S. Pinchback,John
 P.B.S. Pinchback,Harper
@@ -1158,9 +1152,7 @@ John R. Lynch,Bonaparte
 John R. Lynch,Sherman
 John R. Lynch,Barnum
 John R. Lynch,Mo -- Deaths
-John R. Lynch,M. D.
 John R. Lynch,Wm. Stewart
-John R. Lynch,N. J.
 John R. Lynch,Jonathan
 John R. Lynch,Josh Billings
 John R. Lynch,Simmons
@@ -1168,7 +1160,6 @@ John R. Lynch,Payne
 John R. Lynch,Blyden
 John R. Lynch,Edmonia Lewis
 John R. Lynch,Langston
-John R. Lynch,Nathan
 John R. Lynch,John Chinaman
 John R. Lynch,John
 John R. Lynch,Harper
@@ -1597,9 +1588,7 @@ Lewis,Bonaparte
 Lewis,Sherman
 Lewis,Barnum
 Lewis,Mo -- Deaths
-Lewis,M. D.
 Lewis,Wm. Stewart
-Lewis,N. J.
 Lewis,Jonathan
 Lewis,Josh Billings
 Lewis,Simmons
@@ -1607,7 +1596,6 @@ Lewis,Payne
 Lewis,Blyden
 Lewis,Edmonia Lewis
 Lewis,Langston
-Lewis,Nathan
 Lewis,John Chinaman
 Lewis,John
 Lewis,Harper
@@ -2035,9 +2023,7 @@ Bentley,Bonaparte
 Bentley,Sherman
 Bentley,Barnum
 Bentley,Mo -- Deaths
-Bentley,M. D.
 Bentley,Wm. Stewart
-Bentley,N. J.
 Bentley,Jonathan
 Bentley,Josh Billings
 Bentley,Simmons
@@ -2045,7 +2031,6 @@ Bentley,Payne
 Bentley,Blyden
 Bentley,Edmonia Lewis
 Bentley,Langston
-Bentley,Nathan
 Bentley,John Chinaman
 Bentley,John
 Bentley,Harper
@@ -2472,9 +2457,7 @@ Nicholas,Bonaparte
 Nicholas,Sherman
 Nicholas,Barnum
 Nicholas,Mo -- Deaths
-Nicholas,M. D.
 Nicholas,Wm. Stewart
-Nicholas,N. J.
 Nicholas,Jonathan
 Nicholas,Josh Billings
 Nicholas,Simmons
@@ -2482,7 +2465,6 @@ Nicholas,Payne
 Nicholas,Blyden
 Nicholas,Edmonia Lewis
 Nicholas,Langston
-Nicholas,Nathan
 Nicholas,John Chinaman
 Nicholas,John
 Nicholas,Harper
@@ -2908,9 +2890,7 @@ Lynch,Bonaparte
 Lynch,Sherman
 Lynch,Barnum
 Lynch,Mo -- Deaths
-Lynch,M. D.
 Lynch,Wm. Stewart
-Lynch,N. J.
 Lynch,Jonathan
 Lynch,Josh Billings
 Lynch,Simmons
@@ -2918,7 +2898,6 @@ Lynch,Payne
 Lynch,Blyden
 Lynch,Edmonia Lewis
 Lynch,Langston
-Lynch,Nathan
 Lynch,John Chinaman
 Lynch,John
 Lynch,Harper
@@ -3343,9 +3322,7 @@ W. Cromwell,Bonaparte
 W. Cromwell,Sherman
 W. Cromwell,Barnum
 W. Cromwell,Mo -- Deaths
-W. Cromwell,M. D.
 W. Cromwell,Wm. Stewart
-W. Cromwell,N. J.
 W. Cromwell,Jonathan
 W. Cromwell,Josh Billings
 W. Cromwell,Simmons
@@ -3353,7 +3330,6 @@ W. Cromwell,Payne
 W. Cromwell,Blyden
 W. Cromwell,Edmonia Lewis
 W. Cromwell,Langston
-W. Cromwell,Nathan
 W. Cromwell,John Chinaman
 W. Cromwell,John
 W. Cromwell,Harper
@@ -3777,9 +3753,7 @@ F. L. Barnett,Bonaparte
 F. L. Barnett,Sherman
 F. L. Barnett,Barnum
 F. L. Barnett,Mo -- Deaths
-F. L. Barnett,M. D.
 F. L. Barnett,Wm. Stewart
-F. L. Barnett,N. J.
 F. L. Barnett,Jonathan
 F. L. Barnett,Josh Billings
 F. L. Barnett,Simmons
@@ -3787,7 +3761,6 @@ F. L. Barnett,Payne
 F. L. Barnett,Blyden
 F. L. Barnett,Edmonia Lewis
 F. L. Barnett,Langston
-F. L. Barnett,Nathan
 F. L. Barnett,John Chinaman
 F. L. Barnett,John
 F. L. Barnett,Harper
@@ -4210,9 +4183,7 @@ G. W. Le Vere,Bonaparte
 G. W. Le Vere,Sherman
 G. W. Le Vere,Barnum
 G. W. Le Vere,Mo -- Deaths
-G. W. Le Vere,M. D.
 G. W. Le Vere,Wm. Stewart
-G. W. Le Vere,N. J.
 G. W. Le Vere,Jonathan
 G. W. Le Vere,Josh Billings
 G. W. Le Vere,Simmons
@@ -4220,7 +4191,6 @@ G. W. Le Vere,Payne
 G. W. Le Vere,Blyden
 G. W. Le Vere,Edmonia Lewis
 G. W. Le Vere,Langston
-G. W. Le Vere,Nathan
 G. W. Le Vere,John Chinaman
 G. W. Le Vere,John
 G. W. Le Vere,Harper
@@ -4642,9 +4612,7 @@ J. Henri Burch,Bonaparte
 J. Henri Burch,Sherman
 J. Henri Burch,Barnum
 J. Henri Burch,Mo -- Deaths
-J. Henri Burch,M. D.
 J. Henri Burch,Wm. Stewart
-J. Henri Burch,N. J.
 J. Henri Burch,Jonathan
 J. Henri Burch,Josh Billings
 J. Henri Burch,Simmons
@@ -4652,7 +4620,6 @@ J. Henri Burch,Payne
 J. Henri Burch,Blyden
 J. Henri Burch,Edmonia Lewis
 J. Henri Burch,Langston
-J. Henri Burch,Nathan
 J. Henri Burch,John Chinaman
 J. Henri Burch,John
 J. Henri Burch,Harper
@@ -5073,9 +5040,7 @@ Robert Nicholas,Bonaparte
 Robert Nicholas,Sherman
 Robert Nicholas,Barnum
 Robert Nicholas,Mo -- Deaths
-Robert Nicholas,M. D.
 Robert Nicholas,Wm. Stewart
-Robert Nicholas,N. J.
 Robert Nicholas,Jonathan
 Robert Nicholas,Josh Billings
 Robert Nicholas,Simmons
@@ -5083,7 +5048,6 @@ Robert Nicholas,Payne
 Robert Nicholas,Blyden
 Robert Nicholas,Edmonia Lewis
 Robert Nicholas,Langston
-Robert Nicholas,Nathan
 Robert Nicholas,John Chinaman
 Robert Nicholas,John
 Robert Nicholas,Harper
@@ -5503,9 +5467,7 @@ John D. Lewis,Bonaparte
 John D. Lewis,Sherman
 John D. Lewis,Barnum
 John D. Lewis,Mo -- Deaths
-John D. Lewis,M. D.
 John D. Lewis,Wm. Stewart
-John D. Lewis,N. J.
 John D. Lewis,Jonathan
 John D. Lewis,Josh Billings
 John D. Lewis,Simmons
@@ -5513,7 +5475,6 @@ John D. Lewis,Payne
 John D. Lewis,Blyden
 John D. Lewis,Edmonia Lewis
 John D. Lewis,Langston
-John D. Lewis,Nathan
 John D. Lewis,John Chinaman
 John D. Lewis,John
 John D. Lewis,Harper
@@ -5932,9 +5893,7 @@ C. O. H. Thomas,Bonaparte
 C. O. H. Thomas,Sherman
 C. O. H. Thomas,Barnum
 C. O. H. Thomas,Mo -- Deaths
-C. O. H. Thomas,M. D.
 C. O. H. Thomas,Wm. Stewart
-C. O. H. Thomas,N. J.
 C. O. H. Thomas,Jonathan
 C. O. H. Thomas,Josh Billings
 C. O. H. Thomas,Simmons
@@ -5942,7 +5901,6 @@ C. O. H. Thomas,Payne
 C. O. H. Thomas,Blyden
 C. O. H. Thomas,Edmonia Lewis
 C. O. H. Thomas,Langston
-C. O. H. Thomas,Nathan
 C. O. H. Thomas,John Chinaman
 C. O. H. Thomas,John
 C. O. H. Thomas,Harper
@@ -6360,9 +6318,7 @@ Allan Allensworth,Bonaparte
 Allan Allensworth,Sherman
 Allan Allensworth,Barnum
 Allan Allensworth,Mo -- Deaths
-Allan Allensworth,M. D.
 Allan Allensworth,Wm. Stewart
-Allan Allensworth,N. J.
 Allan Allensworth,Jonathan
 Allan Allensworth,Josh Billings
 Allan Allensworth,Simmons
@@ -6370,7 +6326,6 @@ Allan Allensworth,Payne
 Allan Allensworth,Blyden
 Allan Allensworth,Edmonia Lewis
 Allan Allensworth,Langston
-Allan Allensworth,Nathan
 Allan Allensworth,John Chinaman
 Allan Allensworth,John
 Allan Allensworth,Harper
@@ -6787,9 +6742,7 @@ D. Lewis,Bonaparte
 D. Lewis,Sherman
 D. Lewis,Barnum
 D. Lewis,Mo -- Deaths
-D. Lewis,M. D.
 D. Lewis,Wm. Stewart
-D. Lewis,N. J.
 D. Lewis,Jonathan
 D. Lewis,Josh Billings
 D. Lewis,Simmons
@@ -6797,7 +6750,6 @@ D. Lewis,Payne
 D. Lewis,Blyden
 D. Lewis,Edmonia Lewis
 D. Lewis,Langston
-D. Lewis,Nathan
 D. Lewis,John Chinaman
 D. Lewis,John
 D. Lewis,Harper
@@ -7213,9 +7165,7 @@ James D. Kennedy,Bonaparte
 James D. Kennedy,Sherman
 James D. Kennedy,Barnum
 James D. Kennedy,Mo -- Deaths
-James D. Kennedy,M. D.
 James D. Kennedy,Wm. Stewart
-James D. Kennedy,N. J.
 James D. Kennedy,Jonathan
 James D. Kennedy,Josh Billings
 James D. Kennedy,Simmons
@@ -7223,7 +7173,6 @@ James D. Kennedy,Payne
 James D. Kennedy,Blyden
 James D. Kennedy,Edmonia Lewis
 James D. Kennedy,Langston
-James D. Kennedy,Nathan
 James D. Kennedy,John Chinaman
 James D. Kennedy,John
 James D. Kennedy,Harper
@@ -7638,9 +7587,7 @@ Richard Allen,Bonaparte
 Richard Allen,Sherman
 Richard Allen,Barnum
 Richard Allen,Mo -- Deaths
-Richard Allen,M. D.
 Richard Allen,Wm. Stewart
-Richard Allen,N. J.
 Richard Allen,Jonathan
 Richard Allen,Josh Billings
 Richard Allen,Simmons
@@ -7648,7 +7595,6 @@ Richard Allen,Payne
 Richard Allen,Blyden
 Richard Allen,Edmonia Lewis
 Richard Allen,Langston
-Richard Allen,Nathan
 Richard Allen,John Chinaman
 Richard Allen,John
 Richard Allen,Harper
@@ -8062,9 +8008,7 @@ H. Thomas,Bonaparte
 H. Thomas,Sherman
 H. Thomas,Barnum
 H. Thomas,Mo -- Deaths
-H. Thomas,M. D.
 H. Thomas,Wm. Stewart
-H. Thomas,N. J.
 H. Thomas,Jonathan
 H. Thomas,Josh Billings
 H. Thomas,Simmons
@@ -8072,7 +8016,6 @@ H. Thomas,Payne
 H. Thomas,Blyden
 H. Thomas,Edmonia Lewis
 H. Thomas,Langston
-H. Thomas,Nathan
 H. Thomas,John Chinaman
 H. Thomas,John
 H. Thomas,Harper
@@ -8485,9 +8428,7 @@ R. R. Wright,Bonaparte
 R. R. Wright,Sherman
 R. R. Wright,Barnum
 R. R. Wright,Mo -- Deaths
-R. R. Wright,M. D.
 R. R. Wright,Wm. Stewart
-R. R. Wright,N. J.
 R. R. Wright,Jonathan
 R. R. Wright,Josh Billings
 R. R. Wright,Simmons
@@ -8495,7 +8436,6 @@ R. R. Wright,Payne
 R. R. Wright,Blyden
 R. R. Wright,Edmonia Lewis
 R. R. Wright,Langston
-R. R. Wright,Nathan
 R. R. Wright,John Chinaman
 R. R. Wright,John
 R. R. Wright,Harper
@@ -8907,9 +8847,7 @@ Pinchback,Bonaparte
 Pinchback,Sherman
 Pinchback,Barnum
 Pinchback,Mo -- Deaths
-Pinchback,M. D.
 Pinchback,Wm. Stewart
-Pinchback,N. J.
 Pinchback,Jonathan
 Pinchback,Josh Billings
 Pinchback,Simmons
@@ -8917,7 +8855,6 @@ Pinchback,Payne
 Pinchback,Blyden
 Pinchback,Edmonia Lewis
 Pinchback,Langston
-Pinchback,Nathan
 Pinchback,John Chinaman
 Pinchback,John
 Pinchback,Harper
@@ -9328,9 +9265,7 @@ J,Bonaparte
 J,Sherman
 J,Barnum
 J,Mo -- Deaths
-J,M. D.
 J,Wm. Stewart
-J,N. J.
 J,Jonathan
 J,Josh Billings
 J,Simmons
@@ -9338,7 +9273,6 @@ J,Payne
 J,Blyden
 J,Edmonia Lewis
 J,Langston
-J,Nathan
 J,John Chinaman
 J,John
 J,Harper
@@ -9748,9 +9682,7 @@ W. Washington,Bonaparte
 W. Washington,Sherman
 W. Washington,Barnum
 W. Washington,Mo -- Deaths
-W. Washington,M. D.
 W. Washington,Wm. Stewart
-W. Washington,N. J.
 W. Washington,Jonathan
 W. Washington,Josh Billings
 W. Washington,Simmons
@@ -9758,7 +9690,6 @@ W. Washington,Payne
 W. Washington,Blyden
 W. Washington,Edmonia Lewis
 W. Washington,Langston
-W. Washington,Nathan
 W. Washington,John Chinaman
 W. Washington,John
 W. Washington,Harper
@@ -10167,9 +10098,7 @@ H.C. Binford,Bonaparte
 H.C. Binford,Sherman
 H.C. Binford,Barnum
 H.C. Binford,Mo -- Deaths
-H.C. Binford,M. D.
 H.C. Binford,Wm. Stewart
-H.C. Binford,N. J.
 H.C. Binford,Jonathan
 H.C. Binford,Josh Billings
 H.C. Binford,Simmons
@@ -10177,7 +10106,6 @@ H.C. Binford,Payne
 H.C. Binford,Blyden
 H.C. Binford,Edmonia Lewis
 H.C. Binford,Langston
-H.C. Binford,Nathan
 H.C. Binford,John Chinaman
 H.C. Binford,John
 H.C. Binford,Harper
@@ -10585,9 +10513,7 @@ Courtland,Bonaparte
 Courtland,Sherman
 Courtland,Barnum
 Courtland,Mo -- Deaths
-Courtland,M. D.
 Courtland,Wm. Stewart
-Courtland,N. J.
 Courtland,Jonathan
 Courtland,Josh Billings
 Courtland,Simmons
@@ -10595,7 +10521,6 @@ Courtland,Payne
 Courtland,Blyden
 Courtland,Edmonia Lewis
 Courtland,Langston
-Courtland,Nathan
 Courtland,John Chinaman
 Courtland,John
 Courtland,Harper
@@ -11002,9 +10927,7 @@ Edward Pope,Bonaparte
 Edward Pope,Sherman
 Edward Pope,Barnum
 Edward Pope,Mo -- Deaths
-Edward Pope,M. D.
 Edward Pope,Wm. Stewart
-Edward Pope,N. J.
 Edward Pope,Jonathan
 Edward Pope,Josh Billings
 Edward Pope,Simmons
@@ -11012,7 +10935,6 @@ Edward Pope,Payne
 Edward Pope,Blyden
 Edward Pope,Edmonia Lewis
 Edward Pope,Langston
-Edward Pope,Nathan
 Edward Pope,John Chinaman
 Edward Pope,John
 Edward Pope,Harper
@@ -11418,9 +11340,7 @@ Samuel Lowery,Bonaparte
 Samuel Lowery,Sherman
 Samuel Lowery,Barnum
 Samuel Lowery,Mo -- Deaths
-Samuel Lowery,M. D.
 Samuel Lowery,Wm. Stewart
-Samuel Lowery,N. J.
 Samuel Lowery,Jonathan
 Samuel Lowery,Josh Billings
 Samuel Lowery,Simmons
@@ -11428,7 +11348,6 @@ Samuel Lowery,Payne
 Samuel Lowery,Blyden
 Samuel Lowery,Edmonia Lewis
 Samuel Lowery,Langston
-Samuel Lowery,Nathan
 Samuel Lowery,John Chinaman
 Samuel Lowery,John
 Samuel Lowery,Harper
@@ -11833,9 +11752,7 @@ W. O,Bonaparte
 W. O,Sherman
 W. O,Barnum
 W. O,Mo -- Deaths
-W. O,M. D.
 W. O,Wm. Stewart
-W. O,N. J.
 W. O,Jonathan
 W. O,Josh Billings
 W. O,Simmons
@@ -11843,7 +11760,6 @@ W. O,Payne
 W. O,Blyden
 W. O,Edmonia Lewis
 W. O,Langston
-W. O,Nathan
 W. O,John Chinaman
 W. O,John
 W. O,Harper
@@ -12247,9 +12163,7 @@ W.H. Mcalpine,Bonaparte
 W.H. Mcalpine,Sherman
 W.H. Mcalpine,Barnum
 W.H. Mcalpine,Mo -- Deaths
-W.H. Mcalpine,M. D.
 W.H. Mcalpine,Wm. Stewart
-W.H. Mcalpine,N. J.
 W.H. Mcalpine,Jonathan
 W.H. Mcalpine,Josh Billings
 W.H. Mcalpine,Simmons
@@ -12257,7 +12171,6 @@ W.H. Mcalpine,Payne
 W.H. Mcalpine,Blyden
 W.H. Mcalpine,Edmonia Lewis
 W.H. Mcalpine,Langston
-W.H. Mcalpine,Nathan
 W.H. Mcalpine,John Chinaman
 W.H. Mcalpine,John
 W.H. Mcalpine,Harper
@@ -12660,9 +12573,7 @@ Marion,Bonaparte
 Marion,Sherman
 Marion,Barnum
 Marion,Mo -- Deaths
-Marion,M. D.
 Marion,Wm. Stewart
-Marion,N. J.
 Marion,Jonathan
 Marion,Josh Billings
 Marion,Simmons
@@ -12670,7 +12581,6 @@ Marion,Payne
 Marion,Blyden
 Marion,Edmonia Lewis
 Marion,Langston
-Marion,Nathan
 Marion,John Chinaman
 Marion,John
 Marion,Harper
@@ -13072,9 +12982,7 @@ David Wilson,Bonaparte
 David Wilson,Sherman
 David Wilson,Barnum
 David Wilson,Mo -- Deaths
-David Wilson,M. D.
 David Wilson,Wm. Stewart
-David Wilson,N. J.
 David Wilson,Jonathan
 David Wilson,Josh Billings
 David Wilson,Simmons
@@ -13082,7 +12990,6 @@ David Wilson,Payne
 David Wilson,Blyden
 David Wilson,Edmonia Lewis
 David Wilson,Langston
-David Wilson,Nathan
 David Wilson,John Chinaman
 David Wilson,John
 David Wilson,Harper
@@ -13483,9 +13390,7 @@ M. Goodloe,Bonaparte
 M. Goodloe,Sherman
 M. Goodloe,Barnum
 M. Goodloe,Mo -- Deaths
-M. Goodloe,M. D.
 M. Goodloe,Wm. Stewart
-M. Goodloe,N. J.
 M. Goodloe,Jonathan
 M. Goodloe,Josh Billings
 M. Goodloe,Simmons
@@ -13493,7 +13398,6 @@ M. Goodloe,Payne
 M. Goodloe,Blyden
 M. Goodloe,Edmonia Lewis
 M. Goodloe,Langston
-M. Goodloe,Nathan
 M. Goodloe,John Chinaman
 M. Goodloe,John
 M. Goodloe,Harper
@@ -13893,9 +13797,7 @@ G. S. W. Lewis,Bonaparte
 G. S. W. Lewis,Sherman
 G. S. W. Lewis,Barnum
 G. S. W. Lewis,Mo -- Deaths
-G. S. W. Lewis,M. D.
 G. S. W. Lewis,Wm. Stewart
-G. S. W. Lewis,N. J.
 G. S. W. Lewis,Jonathan
 G. S. W. Lewis,Josh Billings
 G. S. W. Lewis,Simmons
@@ -13903,7 +13805,6 @@ G. S. W. Lewis,Payne
 G. S. W. Lewis,Blyden
 G. S. W. Lewis,Edmonia Lewis
 G. S. W. Lewis,Langston
-G. S. W. Lewis,Nathan
 G. S. W. Lewis,John Chinaman
 G. S. W. Lewis,John
 G. S. W. Lewis,Harper
@@ -14302,9 +14203,7 @@ Stephens,Bonaparte
 Stephens,Sherman
 Stephens,Barnum
 Stephens,Mo -- Deaths
-Stephens,M. D.
 Stephens,Wm. Stewart
-Stephens,N. J.
 Stephens,Jonathan
 Stephens,Josh Billings
 Stephens,Simmons
@@ -14312,7 +14211,6 @@ Stephens,Payne
 Stephens,Blyden
 Stephens,Edmonia Lewis
 Stephens,Langston
-Stephens,Nathan
 Stephens,John Chinaman
 Stephens,John
 Stephens,Harper
@@ -14710,9 +14608,7 @@ J.H. Thomason,Bonaparte
 J.H. Thomason,Sherman
 J.H. Thomason,Barnum
 J.H. Thomason,Mo -- Deaths
-J.H. Thomason,M. D.
 J.H. Thomason,Wm. Stewart
-J.H. Thomason,N. J.
 J.H. Thomason,Jonathan
 J.H. Thomason,Josh Billings
 J.H. Thomason,Simmons
@@ -14720,7 +14616,6 @@ J.H. Thomason,Payne
 J.H. Thomason,Blyden
 J.H. Thomason,Edmonia Lewis
 J.H. Thomason,Langston
-J.H. Thomason,Nathan
 J.H. Thomason,John Chinaman
 J.H. Thomason,John
 J.H. Thomason,Harper
@@ -15117,9 +15012,7 @@ S.P. Smith,Bonaparte
 S.P. Smith,Sherman
 S.P. Smith,Barnum
 S.P. Smith,Mo -- Deaths
-S.P. Smith,M. D.
 S.P. Smith,Wm. Stewart
-S.P. Smith,N. J.
 S.P. Smith,Jonathan
 S.P. Smith,Josh Billings
 S.P. Smith,Simmons
@@ -15127,7 +15020,6 @@ S.P. Smith,Payne
 S.P. Smith,Blyden
 S.P. Smith,Edmonia Lewis
 S.P. Smith,Langston
-S.P. Smith,Nathan
 S.P. Smith,John Chinaman
 S.P. Smith,John
 S.P. Smith,Harper
@@ -15523,9 +15415,7 @@ Stevenson,Bonaparte
 Stevenson,Sherman
 Stevenson,Barnum
 Stevenson,Mo -- Deaths
-Stevenson,M. D.
 Stevenson,Wm. Stewart
-Stevenson,N. J.
 Stevenson,Jonathan
 Stevenson,Josh Billings
 Stevenson,Simmons
@@ -15533,7 +15423,6 @@ Stevenson,Payne
 Stevenson,Blyden
 Stevenson,Edmonia Lewis
 Stevenson,Langston
-Stevenson,Nathan
 Stevenson,John Chinaman
 Stevenson,John
 Stevenson,Harper
@@ -15928,9 +15817,7 @@ Jackson,Bonaparte
 Jackson,Sherman
 Jackson,Barnum
 Jackson,Mo -- Deaths
-Jackson,M. D.
 Jackson,Wm. Stewart
-Jackson,N. J.
 Jackson,Jonathan
 Jackson,Josh Billings
 Jackson,Simmons
@@ -15938,7 +15825,6 @@ Jackson,Payne
 Jackson,Blyden
 Jackson,Edmonia Lewis
 Jackson,Langston
-Jackson,Nathan
 Jackson,John Chinaman
 Jackson,John
 Jackson,Harper
@@ -16332,9 +16218,7 @@ Peter C. Murphy,Bonaparte
 Peter C. Murphy,Sherman
 Peter C. Murphy,Barnum
 Peter C. Murphy,Mo -- Deaths
-Peter C. Murphy,M. D.
 Peter C. Murphy,Wm. Stewart
-Peter C. Murphy,N. J.
 Peter C. Murphy,Jonathan
 Peter C. Murphy,Josh Billings
 Peter C. Murphy,Simmons
@@ -16342,7 +16226,6 @@ Peter C. Murphy,Payne
 Peter C. Murphy,Blyden
 Peter C. Murphy,Edmonia Lewis
 Peter C. Murphy,Langston
-Peter C. Murphy,Nathan
 Peter C. Murphy,John Chinaman
 Peter C. Murphy,John
 Peter C. Murphy,Harper
@@ -16735,9 +16618,7 @@ David Ripley,Bonaparte
 David Ripley,Sherman
 David Ripley,Barnum
 David Ripley,Mo -- Deaths
-David Ripley,M. D.
 David Ripley,Wm. Stewart
-David Ripley,N. J.
 David Ripley,Jonathan
 David Ripley,Josh Billings
 David Ripley,Simmons
@@ -16745,7 +16626,6 @@ David Ripley,Payne
 David Ripley,Blyden
 David Ripley,Edmonia Lewis
 David Ripley,Langston
-David Ripley,Nathan
 David Ripley,John Chinaman
 David Ripley,John
 David Ripley,Harper
@@ -17137,9 +17017,7 @@ W.H. Ashe,Bonaparte
 W.H. Ashe,Sherman
 W.H. Ashe,Barnum
 W.H. Ashe,Mo -- Deaths
-W.H. Ashe,M. D.
 W.H. Ashe,Wm. Stewart
-W.H. Ashe,N. J.
 W.H. Ashe,Jonathan
 W.H. Ashe,Josh Billings
 W.H. Ashe,Simmons
@@ -17147,7 +17025,6 @@ W.H. Ashe,Payne
 W.H. Ashe,Blyden
 W.H. Ashe,Edmonia Lewis
 W.H. Ashe,Langston
-W.H. Ashe,Nathan
 W.H. Ashe,John Chinaman
 W.H. Ashe,John
 W.H. Ashe,Harper
@@ -17538,9 +17415,7 @@ L.W. Cummins,Bonaparte
 L.W. Cummins,Sherman
 L.W. Cummins,Barnum
 L.W. Cummins,Mo -- Deaths
-L.W. Cummins,M. D.
 L.W. Cummins,Wm. Stewart
-L.W. Cummins,N. J.
 L.W. Cummins,Jonathan
 L.W. Cummins,Josh Billings
 L.W. Cummins,Simmons
@@ -17548,7 +17423,6 @@ L.W. Cummins,Payne
 L.W. Cummins,Blyden
 L.W. Cummins,Edmonia Lewis
 L.W. Cummins,Langston
-L.W. Cummins,Nathan
 L.W. Cummins,John Chinaman
 L.W. Cummins,John
 L.W. Cummins,Harper
@@ -17938,9 +17812,7 @@ H. V. Cashin,Bonaparte
 H. V. Cashin,Sherman
 H. V. Cashin,Barnum
 H. V. Cashin,Mo -- Deaths
-H. V. Cashin,M. D.
 H. V. Cashin,Wm. Stewart
-H. V. Cashin,N. J.
 H. V. Cashin,Jonathan
 H. V. Cashin,Josh Billings
 H. V. Cashin,Simmons
@@ -17948,7 +17820,6 @@ H. V. Cashin,Payne
 H. V. Cashin,Blyden
 H. V. Cashin,Edmonia Lewis
 H. V. Cashin,Langston
-H. V. Cashin,Nathan
 H. V. Cashin,John Chinaman
 H. V. Cashin,John
 H. V. Cashin,Harper
@@ -18337,9 +18208,7 @@ Montgomery,Bonaparte
 Montgomery,Sherman
 Montgomery,Barnum
 Montgomery,Mo -- Deaths
-Montgomery,M. D.
 Montgomery,Wm. Stewart
-Montgomery,N. J.
 Montgomery,Jonathan
 Montgomery,Josh Billings
 Montgomery,Simmons
@@ -18347,7 +18216,6 @@ Montgomery,Payne
 Montgomery,Blyden
 Montgomery,Edmonia Lewis
 Montgomery,Langston
-Montgomery,Nathan
 Montgomery,John Chinaman
 Montgomery,John
 Montgomery,Harper
@@ -18735,9 +18603,7 @@ P.J. Crenshaw,Bonaparte
 P.J. Crenshaw,Sherman
 P.J. Crenshaw,Barnum
 P.J. Crenshaw,Mo -- Deaths
-P.J. Crenshaw,M. D.
 P.J. Crenshaw,Wm. Stewart
-P.J. Crenshaw,N. J.
 P.J. Crenshaw,Jonathan
 P.J. Crenshaw,Josh Billings
 P.J. Crenshaw,Simmons
@@ -18745,7 +18611,6 @@ P.J. Crenshaw,Payne
 P.J. Crenshaw,Blyden
 P.J. Crenshaw,Edmonia Lewis
 P.J. Crenshaw,Langston
-P.J. Crenshaw,Nathan
 P.J. Crenshaw,John Chinaman
 P.J. Crenshaw,John
 P.J. Crenshaw,Harper
@@ -19132,9 +18997,7 @@ J. P. Jones,Bonaparte
 J. P. Jones,Sherman
 J. P. Jones,Barnum
 J. P. Jones,Mo -- Deaths
-J. P. Jones,M. D.
 J. P. Jones,Wm. Stewart
-J. P. Jones,N. J.
 J. P. Jones,Jonathan
 J. P. Jones,Josh Billings
 J. P. Jones,Simmons
@@ -19142,7 +19005,6 @@ J. P. Jones,Payne
 J. P. Jones,Blyden
 J. P. Jones,Edmonia Lewis
 J. P. Jones,Langston
-J. P. Jones,Nathan
 J. P. Jones,John Chinaman
 J. P. Jones,John
 J. P. Jones,Harper
@@ -19528,9 +19390,7 @@ Watson,Bonaparte
 Watson,Sherman
 Watson,Barnum
 Watson,Mo -- Deaths
-Watson,M. D.
 Watson,Wm. Stewart
-Watson,N. J.
 Watson,Jonathan
 Watson,Josh Billings
 Watson,Simmons
@@ -19538,7 +19398,6 @@ Watson,Payne
 Watson,Blyden
 Watson,Edmonia Lewis
 Watson,Langston
-Watson,Nathan
 Watson,John Chinaman
 Watson,John
 Watson,Harper
@@ -19923,9 +19782,7 @@ J. R. Rowland,Bonaparte
 J. R. Rowland,Sherman
 J. R. Rowland,Barnum
 J. R. Rowland,Mo -- Deaths
-J. R. Rowland,M. D.
 J. R. Rowland,Wm. Stewart
-J. R. Rowland,N. J.
 J. R. Rowland,Jonathan
 J. R. Rowland,Josh Billings
 J. R. Rowland,Simmons
@@ -19933,7 +19790,6 @@ J. R. Rowland,Payne
 J. R. Rowland,Blyden
 J. R. Rowland,Edmonia Lewis
 J. R. Rowland,Langston
-J. R. Rowland,Nathan
 J. R. Rowland,John Chinaman
 J. R. Rowland,John
 J. R. Rowland,Harper
@@ -20317,9 +20173,7 @@ J. T. Jenifer,Bonaparte
 J. T. Jenifer,Sherman
 J. T. Jenifer,Barnum
 J. T. Jenifer,Mo -- Deaths
-J. T. Jenifer,M. D.
 J. T. Jenifer,Wm. Stewart
-J. T. Jenifer,N. J.
 J. T. Jenifer,Jonathan
 J. T. Jenifer,Josh Billings
 J. T. Jenifer,Simmons
@@ -20327,7 +20181,6 @@ J. T. Jenifer,Payne
 J. T. Jenifer,Blyden
 J. T. Jenifer,Edmonia Lewis
 J. T. Jenifer,Langston
-J. T. Jenifer,Nathan
 J. T. Jenifer,John Chinaman
 J. T. Jenifer,John
 J. T. Jenifer,Harper
@@ -20710,9 +20563,7 @@ H. W. Wadkins,Bonaparte
 H. W. Wadkins,Sherman
 H. W. Wadkins,Barnum
 H. W. Wadkins,Mo -- Deaths
-H. W. Wadkins,M. D.
 H. W. Wadkins,Wm. Stewart
-H. W. Wadkins,N. J.
 H. W. Wadkins,Jonathan
 H. W. Wadkins,Josh Billings
 H. W. Wadkins,Simmons
@@ -20720,7 +20571,6 @@ H. W. Wadkins,Payne
 H. W. Wadkins,Blyden
 H. W. Wadkins,Edmonia Lewis
 H. W. Wadkins,Langston
-H. W. Wadkins,Nathan
 H. W. Wadkins,John Chinaman
 H. W. Wadkins,John
 H. W. Wadkins,Harper
@@ -21102,9 +20952,7 @@ George N. Perkins,Bonaparte
 George N. Perkins,Sherman
 George N. Perkins,Barnum
 George N. Perkins,Mo -- Deaths
-George N. Perkins,M. D.
 George N. Perkins,Wm. Stewart
-George N. Perkins,N. J.
 George N. Perkins,Jonathan
 George N. Perkins,Josh Billings
 George N. Perkins,Simmons
@@ -21112,7 +20960,6 @@ George N. Perkins,Payne
 George N. Perkins,Blyden
 George N. Perkins,Edmonia Lewis
 George N. Perkins,Langston
-George N. Perkins,Nathan
 George N. Perkins,John Chinaman
 George N. Perkins,John
 George N. Perkins,Harper
@@ -21493,9 +21340,7 @@ G. B. Antoine,Bonaparte
 G. B. Antoine,Sherman
 G. B. Antoine,Barnum
 G. B. Antoine,Mo -- Deaths
-G. B. Antoine,M. D.
 G. B. Antoine,Wm. Stewart
-G. B. Antoine,N. J.
 G. B. Antoine,Jonathan
 G. B. Antoine,Josh Billings
 G. B. Antoine,Simmons
@@ -21503,7 +21348,6 @@ G. B. Antoine,Payne
 G. B. Antoine,Blyden
 G. B. Antoine,Edmonia Lewis
 G. B. Antoine,Langston
-G. B. Antoine,Nathan
 G. B. Antoine,John Chinaman
 G. B. Antoine,John
 G. B. Antoine,Harper
@@ -21883,9 +21727,7 @@ Isaac Gillem,Bonaparte
 Isaac Gillem,Sherman
 Isaac Gillem,Barnum
 Isaac Gillem,Mo -- Deaths
-Isaac Gillem,M. D.
 Isaac Gillem,Wm. Stewart
-Isaac Gillem,N. J.
 Isaac Gillem,Jonathan
 Isaac Gillem,Josh Billings
 Isaac Gillem,Simmons
@@ -21893,7 +21735,6 @@ Isaac Gillem,Payne
 Isaac Gillem,Blyden
 Isaac Gillem,Edmonia Lewis
 Isaac Gillem,Langston
-Isaac Gillem,Nathan
 Isaac Gillem,John Chinaman
 Isaac Gillem,John
 Isaac Gillem,Harper
@@ -22272,9 +22113,7 @@ David A. Robinson,Bonaparte
 David A. Robinson,Sherman
 David A. Robinson,Barnum
 David A. Robinson,Mo -- Deaths
-David A. Robinson,M. D.
 David A. Robinson,Wm. Stewart
-David A. Robinson,N. J.
 David A. Robinson,Jonathan
 David A. Robinson,Josh Billings
 David A. Robinson,Simmons
@@ -22282,7 +22121,6 @@ David A. Robinson,Payne
 David A. Robinson,Blyden
 David A. Robinson,Edmonia Lewis
 David A. Robinson,Langston
-David A. Robinson,Nathan
 David A. Robinson,John Chinaman
 David A. Robinson,John
 David A. Robinson,Harper
@@ -22660,9 +22498,7 @@ M.G. Turner,Bonaparte
 M.G. Turner,Sherman
 M.G. Turner,Barnum
 M.G. Turner,Mo -- Deaths
-M.G. Turner,M. D.
 M.G. Turner,Wm. Stewart
-M.G. Turner,N. J.
 M.G. Turner,Jonathan
 M.G. Turner,Josh Billings
 M.G. Turner,Simmons
@@ -22670,7 +22506,6 @@ M.G. Turner,Payne
 M.G. Turner,Blyden
 M.G. Turner,Edmonia Lewis
 M.G. Turner,Langston
-M.G. Turner,Nathan
 M.G. Turner,John Chinaman
 M.G. Turner,John
 M.G. Turner,Harper
@@ -23047,9 +22882,7 @@ H. B. Robinson,Bonaparte
 H. B. Robinson,Sherman
 H. B. Robinson,Barnum
 H. B. Robinson,Mo -- Deaths
-H. B. Robinson,M. D.
 H. B. Robinson,Wm. Stewart
-H. B. Robinson,N. J.
 H. B. Robinson,Jonathan
 H. B. Robinson,Josh Billings
 H. B. Robinson,Simmons
@@ -23057,7 +22890,6 @@ H. B. Robinson,Payne
 H. B. Robinson,Blyden
 H. B. Robinson,Edmonia Lewis
 H. B. Robinson,Langston
-H. B. Robinson,Nathan
 H. B. Robinson,John Chinaman
 H. B. Robinson,John
 H. B. Robinson,Harper
@@ -23433,9 +23265,7 @@ Helena,Bonaparte
 Helena,Sherman
 Helena,Barnum
 Helena,Mo -- Deaths
-Helena,M. D.
 Helena,Wm. Stewart
-Helena,N. J.
 Helena,Jonathan
 Helena,Josh Billings
 Helena,Simmons
@@ -23443,7 +23273,6 @@ Helena,Payne
 Helena,Blyden
 Helena,Edmonia Lewis
 Helena,Langston
-Helena,Nathan
 Helena,John Chinaman
 Helena,John
 Helena,Harper
@@ -23818,9 +23647,7 @@ S. H. Holland,Bonaparte
 S. H. Holland,Sherman
 S. H. Holland,Barnum
 S. H. Holland,Mo -- Deaths
-S. H. Holland,M. D.
 S. H. Holland,Wm. Stewart
-S. H. Holland,N. J.
 S. H. Holland,Jonathan
 S. H. Holland,Josh Billings
 S. H. Holland,Simmons
@@ -23828,7 +23655,6 @@ S. H. Holland,Payne
 S. H. Holland,Blyden
 S. H. Holland,Edmonia Lewis
 S. H. Holland,Langston
-S. H. Holland,Nathan
 S. H. Holland,John Chinaman
 S. H. Holland,John
 S. H. Holland,Harper
@@ -24202,9 +24028,7 @@ L. H. Holsey,Bonaparte
 L. H. Holsey,Sherman
 L. H. Holsey,Barnum
 L. H. Holsey,Mo -- Deaths
-L. H. Holsey,M. D.
 L. H. Holsey,Wm. Stewart
-L. H. Holsey,N. J.
 L. H. Holsey,Jonathan
 L. H. Holsey,Josh Billings
 L. H. Holsey,Simmons
@@ -24212,7 +24036,6 @@ L. H. Holsey,Payne
 L. H. Holsey,Blyden
 L. H. Holsey,Edmonia Lewis
 L. H. Holsey,Langston
-L. H. Holsey,Nathan
 L. H. Holsey,John Chinaman
 L. H. Holsey,John
 L. H. Holsey,Harper
@@ -24585,9 +24408,7 @@ C. C. Wimbush,Bonaparte
 C. C. Wimbush,Sherman
 C. C. Wimbush,Barnum
 C. C. Wimbush,Mo -- Deaths
-C. C. Wimbush,M. D.
 C. C. Wimbush,Wm. Stewart
-C. C. Wimbush,N. J.
 C. C. Wimbush,Jonathan
 C. C. Wimbush,Josh Billings
 C. C. Wimbush,Simmons
@@ -24595,7 +24416,6 @@ C. C. Wimbush,Payne
 C. C. Wimbush,Blyden
 C. C. Wimbush,Edmonia Lewis
 C. C. Wimbush,Langston
-C. C. Wimbush,Nathan
 C. C. Wimbush,John Chinaman
 C. C. Wimbush,John
 C. C. Wimbush,Harper
@@ -24967,9 +24787,7 @@ J. H. Wood,Bonaparte
 J. H. Wood,Sherman
 J. H. Wood,Barnum
 J. H. Wood,Mo -- Deaths
-J. H. Wood,M. D.
 J. H. Wood,Wm. Stewart
-J. H. Wood,N. J.
 J. H. Wood,Jonathan
 J. H. Wood,Josh Billings
 J. H. Wood,Simmons
@@ -24977,7 +24795,6 @@ J. H. Wood,Payne
 J. H. Wood,Blyden
 J. H. Wood,Edmonia Lewis
 J. H. Wood,Langston
-J. H. Wood,Nathan
 J. H. Wood,John Chinaman
 J. H. Wood,John
 J. H. Wood,Harper
@@ -25348,9 +25165,7 @@ S. C. Upshaw,Bonaparte
 S. C. Upshaw,Sherman
 S. C. Upshaw,Barnum
 S. C. Upshaw,Mo -- Deaths
-S. C. Upshaw,M. D.
 S. C. Upshaw,Wm. Stewart
-S. C. Upshaw,N. J.
 S. C. Upshaw,Jonathan
 S. C. Upshaw,Josh Billings
 S. C. Upshaw,Simmons
@@ -25358,7 +25173,6 @@ S. C. Upshaw,Payne
 S. C. Upshaw,Blyden
 S. C. Upshaw,Edmonia Lewis
 S. C. Upshaw,Langston
-S. C. Upshaw,Nathan
 S. C. Upshaw,John Chinaman
 S. C. Upshaw,John
 S. C. Upshaw,Harper
@@ -25728,9 +25542,7 @@ W. B. Higginbotham,Bonaparte
 W. B. Higginbotham,Sherman
 W. B. Higginbotham,Barnum
 W. B. Higginbotham,Mo -- Deaths
-W. B. Higginbotham,M. D.
 W. B. Higginbotham,Wm. Stewart
-W. B. Higginbotham,N. J.
 W. B. Higginbotham,Jonathan
 W. B. Higginbotham,Josh Billings
 W. B. Higginbotham,Simmons
@@ -25738,7 +25550,6 @@ W. B. Higginbotham,Payne
 W. B. Higginbotham,Blyden
 W. B. Higginbotham,Edmonia Lewis
 W. B. Higginbotham,Langston
-W. B. Higginbotham,Nathan
 W. B. Higginbotham,John Chinaman
 W. B. Higginbotham,John
 W. B. Higginbotham,Harper
@@ -26107,9 +25918,7 @@ Madison Blount,Bonaparte
 Madison Blount,Sherman
 Madison Blount,Barnum
 Madison Blount,Mo -- Deaths
-Madison Blount,M. D.
 Madison Blount,Wm. Stewart
-Madison Blount,N. J.
 Madison Blount,Jonathan
 Madison Blount,Josh Billings
 Madison Blount,Simmons
@@ -26117,7 +25926,6 @@ Madison Blount,Payne
 Madison Blount,Blyden
 Madison Blount,Edmonia Lewis
 Madison Blount,Langston
-Madison Blount,Nathan
 Madison Blount,John Chinaman
 Madison Blount,John
 Madison Blount,Harper
@@ -26485,9 +26293,7 @@ J. H. Delamotta,Bonaparte
 J. H. Delamotta,Sherman
 J. H. Delamotta,Barnum
 J. H. Delamotta,Mo -- Deaths
-J. H. Delamotta,M. D.
 J. H. Delamotta,Wm. Stewart
-J. H. Delamotta,N. J.
 J. H. Delamotta,Jonathan
 J. H. Delamotta,Josh Billings
 J. H. Delamotta,Simmons
@@ -26495,7 +26301,6 @@ J. H. Delamotta,Payne
 J. H. Delamotta,Blyden
 J. H. Delamotta,Edmonia Lewis
 J. H. Delamotta,Langston
-J. H. Delamotta,Nathan
 J. H. Delamotta,John Chinaman
 J. H. Delamotta,John
 J. H. Delamotta,Harper
@@ -26862,9 +26667,7 @@ Toby Stewart,Bonaparte
 Toby Stewart,Sherman
 Toby Stewart,Barnum
 Toby Stewart,Mo -- Deaths
-Toby Stewart,M. D.
 Toby Stewart,Wm. Stewart
-Toby Stewart,N. J.
 Toby Stewart,Jonathan
 Toby Stewart,Josh Billings
 Toby Stewart,Simmons
@@ -26872,7 +26675,6 @@ Toby Stewart,Payne
 Toby Stewart,Blyden
 Toby Stewart,Edmonia Lewis
 Toby Stewart,Langston
-Toby Stewart,Nathan
 Toby Stewart,John Chinaman
 Toby Stewart,John
 Toby Stewart,Harper
@@ -27238,9 +27040,7 @@ Clinton,Bonaparte
 Clinton,Sherman
 Clinton,Barnum
 Clinton,Mo -- Deaths
-Clinton,M. D.
 Clinton,Wm. Stewart
-Clinton,N. J.
 Clinton,Jonathan
 Clinton,Josh Billings
 Clinton,Simmons
@@ -27248,7 +27048,6 @@ Clinton,Payne
 Clinton,Blyden
 Clinton,Edmonia Lewis
 Clinton,Langston
-Clinton,Nathan
 Clinton,John Chinaman
 Clinton,John
 Clinton,Harper
@@ -27613,9 +27412,7 @@ George Valentine,Bonaparte
 George Valentine,Sherman
 George Valentine,Barnum
 George Valentine,Mo -- Deaths
-George Valentine,M. D.
 George Valentine,Wm. Stewart
-George Valentine,N. J.
 George Valentine,Jonathan
 George Valentine,Josh Billings
 George Valentine,Simmons
@@ -27623,7 +27420,6 @@ George Valentine,Payne
 George Valentine,Blyden
 George Valentine,Edmonia Lewis
 George Valentine,Langston
-George Valentine,Nathan
 George Valentine,John Chinaman
 George Valentine,John
 George Valentine,Harper
@@ -27987,9 +27783,7 @@ J. W. Brooks,Bonaparte
 J. W. Brooks,Sherman
 J. W. Brooks,Barnum
 J. W. Brooks,Mo -- Deaths
-J. W. Brooks,M. D.
 J. W. Brooks,Wm. Stewart
-J. W. Brooks,N. J.
 J. W. Brooks,Jonathan
 J. W. Brooks,Josh Billings
 J. W. Brooks,Simmons
@@ -27997,7 +27791,6 @@ J. W. Brooks,Payne
 J. W. Brooks,Blyden
 J. W. Brooks,Edmonia Lewis
 J. W. Brooks,Langston
-J. W. Brooks,Nathan
 J. W. Brooks,John Chinaman
 J. W. Brooks,John
 J. W. Brooks,Harper
@@ -28360,9 +28153,7 @@ Moses H. Bentley,Bonaparte
 Moses H. Bentley,Sherman
 Moses H. Bentley,Barnum
 Moses H. Bentley,Mo -- Deaths
-Moses H. Bentley,M. D.
 Moses H. Bentley,Wm. Stewart
-Moses H. Bentley,N. J.
 Moses H. Bentley,Jonathan
 Moses H. Bentley,Josh Billings
 Moses H. Bentley,Simmons
@@ -28370,7 +28161,6 @@ Moses H. Bentley,Payne
 Moses H. Bentley,Blyden
 Moses H. Bentley,Edmonia Lewis
 Moses H. Bentley,Langston
-Moses H. Bentley,Nathan
 Moses H. Bentley,John Chinaman
 Moses H. Bentley,John
 Moses H. Bentley,Harper
@@ -28732,9 +28522,7 @@ W. A. Pledger,Bonaparte
 W. A. Pledger,Sherman
 W. A. Pledger,Barnum
 W. A. Pledger,Mo -- Deaths
-W. A. Pledger,M. D.
 W. A. Pledger,Wm. Stewart
-W. A. Pledger,N. J.
 W. A. Pledger,Jonathan
 W. A. Pledger,Josh Billings
 W. A. Pledger,Simmons
@@ -28742,7 +28530,6 @@ W. A. Pledger,Payne
 W. A. Pledger,Blyden
 W. A. Pledger,Edmonia Lewis
 W. A. Pledger,Langston
-W. A. Pledger,Nathan
 W. A. Pledger,John Chinaman
 W. A. Pledger,John
 W. A. Pledger,Harper
@@ -29103,9 +28890,7 @@ Cutnbert,Bonaparte
 Cutnbert,Sherman
 Cutnbert,Barnum
 Cutnbert,Mo -- Deaths
-Cutnbert,M. D.
 Cutnbert,Wm. Stewart
-Cutnbert,N. J.
 Cutnbert,Jonathan
 Cutnbert,Josh Billings
 Cutnbert,Simmons
@@ -29113,7 +28898,6 @@ Cutnbert,Payne
 Cutnbert,Blyden
 Cutnbert,Edmonia Lewis
 Cutnbert,Langston
-Cutnbert,Nathan
 Cutnbert,John Chinaman
 Cutnbert,John
 Cutnbert,Harper
@@ -29473,9 +29257,7 @@ J. J. Bird,Bonaparte
 J. J. Bird,Sherman
 J. J. Bird,Barnum
 J. J. Bird,Mo -- Deaths
-J. J. Bird,M. D.
 J. J. Bird,Wm. Stewart
-J. J. Bird,N. J.
 J. J. Bird,Jonathan
 J. J. Bird,Josh Billings
 J. J. Bird,Simmons
@@ -29483,7 +29265,6 @@ J. J. Bird,Payne
 J. J. Bird,Blyden
 J. J. Bird,Edmonia Lewis
 J. J. Bird,Langston
-J. J. Bird,Nathan
 J. J. Bird,John Chinaman
 J. J. Bird,John
 J. J. Bird,Harper
@@ -29842,9 +29623,7 @@ R. Nicholas,Bonaparte
 R. Nicholas,Sherman
 R. Nicholas,Barnum
 R. Nicholas,Mo -- Deaths
-R. Nicholas,M. D.
 R. Nicholas,Wm. Stewart
-R. Nicholas,N. J.
 R. Nicholas,Jonathan
 R. Nicholas,Josh Billings
 R. Nicholas,Simmons
@@ -29852,7 +29631,6 @@ R. Nicholas,Payne
 R. Nicholas,Blyden
 R. Nicholas,Edmonia Lewis
 R. Nicholas,Langston
-R. Nicholas,Nathan
 R. Nicholas,John Chinaman
 R. Nicholas,John
 R. Nicholas,Harper
@@ -30210,9 +29988,7 @@ J. W. James,Bonaparte
 J. W. James,Sherman
 J. W. James,Barnum
 J. W. James,Mo -- Deaths
-J. W. James,M. D.
 J. W. James,Wm. Stewart
-J. W. James,N. J.
 J. W. James,Jonathan
 J. W. James,Josh Billings
 J. W. James,Simmons
@@ -30220,7 +29996,6 @@ J. W. James,Payne
 J. W. James,Blyden
 J. W. James,Edmonia Lewis
 J. W. James,Langston
-J. W. James,Nathan
 J. W. James,John Chinaman
 J. W. James,John
 J. W. James,Harper
@@ -30577,9 +30352,7 @@ F. D. Morton,Bonaparte
 F. D. Morton,Sherman
 F. D. Morton,Barnum
 F. D. Morton,Mo -- Deaths
-F. D. Morton,M. D.
 F. D. Morton,Wm. Stewart
-F. D. Morton,N. J.
 F. D. Morton,Jonathan
 F. D. Morton,Josh Billings
 F. D. Morton,Simmons
@@ -30587,7 +30360,6 @@ F. D. Morton,Payne
 F. D. Morton,Blyden
 F. D. Morton,Edmonia Lewis
 F. D. Morton,Langston
-F. D. Morton,Nathan
 F. D. Morton,John Chinaman
 F. D. Morton,John
 F. D. Morton,Harper
@@ -30943,9 +30715,7 @@ W. H. Anderson,Bonaparte
 W. H. Anderson,Sherman
 W. H. Anderson,Barnum
 W. H. Anderson,Mo -- Deaths
-W. H. Anderson,M. D.
 W. H. Anderson,Wm. Stewart
-W. H. Anderson,N. J.
 W. H. Anderson,Jonathan
 W. H. Anderson,Josh Billings
 W. H. Anderson,Simmons
@@ -30953,7 +30723,6 @@ W. H. Anderson,Payne
 W. H. Anderson,Blyden
 W. H. Anderson,Edmonia Lewis
 W. H. Anderson,Langston
-W. H. Anderson,Nathan
 W. H. Anderson,John Chinaman
 W. H. Anderson,John
 W. H. Anderson,Harper
@@ -31308,9 +31077,7 @@ Greene Mcfarland,Bonaparte
 Greene Mcfarland,Sherman
 Greene Mcfarland,Barnum
 Greene Mcfarland,Mo -- Deaths
-Greene Mcfarland,M. D.
 Greene Mcfarland,Wm. Stewart
-Greene Mcfarland,N. J.
 Greene Mcfarland,Jonathan
 Greene Mcfarland,Josh Billings
 Greene Mcfarland,Simmons
@@ -31318,7 +31085,6 @@ Greene Mcfarland,Payne
 Greene Mcfarland,Blyden
 Greene Mcfarland,Edmonia Lewis
 Greene Mcfarland,Langston
-Greene Mcfarland,Nathan
 Greene Mcfarland,John Chinaman
 Greene Mcfarland,John
 Greene Mcfarland,Harper
@@ -31672,9 +31438,7 @@ S. Daniels,Bonaparte
 S. Daniels,Sherman
 S. Daniels,Barnum
 S. Daniels,Mo -- Deaths
-S. Daniels,M. D.
 S. Daniels,Wm. Stewart
-S. Daniels,N. J.
 S. Daniels,Jonathan
 S. Daniels,Josh Billings
 S. Daniels,Simmons
@@ -31682,7 +31446,6 @@ S. Daniels,Payne
 S. Daniels,Blyden
 S. Daniels,Edmonia Lewis
 S. Daniels,Langston
-S. Daniels,Nathan
 S. Daniels,John Chinaman
 S. Daniels,John
 S. Daniels,Harper
@@ -32035,9 +31798,7 @@ P. W. Johnson,Bonaparte
 P. W. Johnson,Sherman
 P. W. Johnson,Barnum
 P. W. Johnson,Mo -- Deaths
-P. W. Johnson,M. D.
 P. W. Johnson,Wm. Stewart
-P. W. Johnson,N. J.
 P. W. Johnson,Jonathan
 P. W. Johnson,Josh Billings
 P. W. Johnson,Simmons
@@ -32045,7 +31806,6 @@ P. W. Johnson,Payne
 P. W. Johnson,Blyden
 P. W. Johnson,Edmonia Lewis
 P. W. Johnson,Langston
-P. W. Johnson,Nathan
 P. W. Johnson,John Chinaman
 P. W. Johnson,John
 P. W. Johnson,Harper
@@ -32397,9 +32157,7 @@ J. A. Braboy,Bonaparte
 J. A. Braboy,Sherman
 J. A. Braboy,Barnum
 J. A. Braboy,Mo -- Deaths
-J. A. Braboy,M. D.
 J. A. Braboy,Wm. Stewart
-J. A. Braboy,N. J.
 J. A. Braboy,Jonathan
 J. A. Braboy,Josh Billings
 J. A. Braboy,Simmons
@@ -32407,7 +32165,6 @@ J. A. Braboy,Payne
 J. A. Braboy,Blyden
 J. A. Braboy,Edmonia Lewis
 J. A. Braboy,Langston
-J. A. Braboy,Nathan
 J. A. Braboy,John Chinaman
 J. A. Braboy,John
 J. A. Braboy,Harper
@@ -32758,9 +32515,7 @@ G. L. Knox,Bonaparte
 G. L. Knox,Sherman
 G. L. Knox,Barnum
 G. L. Knox,Mo -- Deaths
-G. L. Knox,M. D.
 G. L. Knox,Wm. Stewart
-G. L. Knox,N. J.
 G. L. Knox,Jonathan
 G. L. Knox,Josh Billings
 G. L. Knox,Simmons
@@ -32768,7 +32523,6 @@ G. L. Knox,Payne
 G. L. Knox,Blyden
 G. L. Knox,Edmonia Lewis
 G. L. Knox,Langston
-G. L. Knox,Nathan
 G. L. Knox,John Chinaman
 G. L. Knox,John
 G. L. Knox,Harper
@@ -33118,9 +32872,7 @@ J. H. Clay,Bonaparte
 J. H. Clay,Sherman
 J. H. Clay,Barnum
 J. H. Clay,Mo -- Deaths
-J. H. Clay,M. D.
 J. H. Clay,Wm. Stewart
-J. H. Clay,N. J.
 J. H. Clay,Jonathan
 J. H. Clay,Josh Billings
 J. H. Clay,Simmons
@@ -33128,7 +32880,6 @@ J. H. Clay,Payne
 J. H. Clay,Blyden
 J. H. Clay,Edmonia Lewis
 J. H. Clay,Langston
-J. H. Clay,Nathan
 J. H. Clay,John Chinaman
 J. H. Clay,John
 J. H. Clay,Harper
@@ -33477,9 +33228,7 @@ J. H. Walker,Bonaparte
 J. H. Walker,Sherman
 J. H. Walker,Barnum
 J. H. Walker,Mo -- Deaths
-J. H. Walker,M. D.
 J. H. Walker,Wm. Stewart
-J. H. Walker,N. J.
 J. H. Walker,Jonathan
 J. H. Walker,Josh Billings
 J. H. Walker,Simmons
@@ -33487,7 +33236,6 @@ J. H. Walker,Payne
 J. H. Walker,Blyden
 J. H. Walker,Edmonia Lewis
 J. H. Walker,Langston
-J. H. Walker,Nathan
 J. H. Walker,John Chinaman
 J. H. Walker,John
 J. H. Walker,Harper
@@ -33835,9 +33583,7 @@ Emmet Stewart,Bonaparte
 Emmet Stewart,Sherman
 Emmet Stewart,Barnum
 Emmet Stewart,Mo -- Deaths
-Emmet Stewart,M. D.
 Emmet Stewart,Wm. Stewart
-Emmet Stewart,N. J.
 Emmet Stewart,Jonathan
 Emmet Stewart,Josh Billings
 Emmet Stewart,Simmons
@@ -33845,7 +33591,6 @@ Emmet Stewart,Payne
 Emmet Stewart,Blyden
 Emmet Stewart,Edmonia Lewis
 Emmet Stewart,Langston
-Emmet Stewart,Nathan
 Emmet Stewart,John Chinaman
 Emmet Stewart,John
 Emmet Stewart,Harper
@@ -34192,9 +33937,7 @@ J. W. Stewart,Bonaparte
 J. W. Stewart,Sherman
 J. W. Stewart,Barnum
 J. W. Stewart,Mo -- Deaths
-J. W. Stewart,M. D.
 J. W. Stewart,Wm. Stewart
-J. W. Stewart,N. J.
 J. W. Stewart,Jonathan
 J. W. Stewart,Josh Billings
 J. W. Stewart,Simmons
@@ -34202,7 +33945,6 @@ J. W. Stewart,Payne
 J. W. Stewart,Blyden
 J. W. Stewart,Edmonia Lewis
 J. W. Stewart,Langston
-J. W. Stewart,Nathan
 J. W. Stewart,John Chinaman
 J. W. Stewart,John
 J. W. Stewart,Harper
@@ -34548,9 +34290,7 @@ T. W. Henderson,Bonaparte
 T. W. Henderson,Sherman
 T. W. Henderson,Barnum
 T. W. Henderson,Mo -- Deaths
-T. W. Henderson,M. D.
 T. W. Henderson,Wm. Stewart
-T. W. Henderson,N. J.
 T. W. Henderson,Jonathan
 T. W. Henderson,Josh Billings
 T. W. Henderson,Simmons
@@ -34558,7 +34298,6 @@ T. W. Henderson,Payne
 T. W. Henderson,Blyden
 T. W. Henderson,Edmonia Lewis
 T. W. Henderson,Langston
-T. W. Henderson,Nathan
 T. W. Henderson,John Chinaman
 T. W. Henderson,John
 T. W. Henderson,Harper
@@ -34903,9 +34642,7 @@ W. H. Nicholl,Bonaparte
 W. H. Nicholl,Sherman
 W. H. Nicholl,Barnum
 W. H. Nicholl,Mo -- Deaths
-W. H. Nicholl,M. D.
 W. H. Nicholl,Wm. Stewart
-W. H. Nicholl,N. J.
 W. H. Nicholl,Jonathan
 W. H. Nicholl,Josh Billings
 W. H. Nicholl,Simmons
@@ -34913,7 +34650,6 @@ W. H. Nicholl,Payne
 W. H. Nicholl,Blyden
 W. H. Nicholl,Edmonia Lewis
 W. H. Nicholl,Langston
-W. H. Nicholl,Nathan
 W. H. Nicholl,John Chinaman
 W. H. Nicholl,John
 W. H. Nicholl,Harper
@@ -35257,9 +34993,7 @@ Horace Lewis,Bonaparte
 Horace Lewis,Sherman
 Horace Lewis,Barnum
 Horace Lewis,Mo -- Deaths
-Horace Lewis,M. D.
 Horace Lewis,Wm. Stewart
-Horace Lewis,N. J.
 Horace Lewis,Jonathan
 Horace Lewis,Josh Billings
 Horace Lewis,Simmons
@@ -35267,7 +35001,6 @@ Horace Lewis,Payne
 Horace Lewis,Blyden
 Horace Lewis,Edmonia Lewis
 Horace Lewis,Langston
-Horace Lewis,Nathan
 Horace Lewis,John Chinaman
 Horace Lewis,John
 Horace Lewis,Harper
@@ -35610,9 +35343,7 @@ G. W. Darden,Bonaparte
 G. W. Darden,Sherman
 G. W. Darden,Barnum
 G. W. Darden,Mo -- Deaths
-G. W. Darden,M. D.
 G. W. Darden,Wm. Stewart
-G. W. Darden,N. J.
 G. W. Darden,Jonathan
 G. W. Darden,Josh Billings
 G. W. Darden,Simmons
@@ -35620,7 +35351,6 @@ G. W. Darden,Payne
 G. W. Darden,Blyden
 G. W. Darden,Edmonia Lewis
 G. W. Darden,Langston
-G. W. Darden,Nathan
 G. W. Darden,John Chinaman
 G. W. Darden,John
 G. W. Darden,Harper
@@ -35962,9 +35692,7 @@ Bishop Miles,Bonaparte
 Bishop Miles,Sherman
 Bishop Miles,Barnum
 Bishop Miles,Mo -- Deaths
-Bishop Miles,M. D.
 Bishop Miles,Wm. Stewart
-Bishop Miles,N. J.
 Bishop Miles,Jonathan
 Bishop Miles,Josh Billings
 Bishop Miles,Simmons
@@ -35972,7 +35700,6 @@ Bishop Miles,Payne
 Bishop Miles,Blyden
 Bishop Miles,Edmonia Lewis
 Bishop Miles,Langston
-Bishop Miles,Nathan
 Bishop Miles,John Chinaman
 Bishop Miles,John
 Bishop Miles,Harper
@@ -36313,9 +36040,7 @@ John Garnett,Bonaparte
 John Garnett,Sherman
 John Garnett,Barnum
 John Garnett,Mo -- Deaths
-John Garnett,M. D.
 John Garnett,Wm. Stewart
-John Garnett,N. J.
 John Garnett,Jonathan
 John Garnett,Josh Billings
 John Garnett,Simmons
@@ -36323,7 +36048,6 @@ John Garnett,Payne
 John Garnett,Blyden
 John Garnett,Edmonia Lewis
 John Garnett,Langston
-John Garnett,Nathan
 John Garnett,John Chinaman
 John Garnett,John
 John Garnett,Harper
@@ -36663,9 +36387,7 @@ J. F. C. Snarden,Bonaparte
 J. F. C. Snarden,Sherman
 J. F. C. Snarden,Barnum
 J. F. C. Snarden,Mo -- Deaths
-J. F. C. Snarden,M. D.
 J. F. C. Snarden,Wm. Stewart
-J. F. C. Snarden,N. J.
 J. F. C. Snarden,Jonathan
 J. F. C. Snarden,Josh Billings
 J. F. C. Snarden,Simmons
@@ -36673,7 +36395,6 @@ J. F. C. Snarden,Payne
 J. F. C. Snarden,Blyden
 J. F. C. Snarden,Edmonia Lewis
 J. F. C. Snarden,Langston
-J. F. C. Snarden,Nathan
 J. F. C. Snarden,John Chinaman
 J. F. C. Snarden,John
 J. F. C. Snarden,Harper
@@ -37012,9 +36733,7 @@ P. B. S. Pinchback,Bonaparte
 P. B. S. Pinchback,Sherman
 P. B. S. Pinchback,Barnum
 P. B. S. Pinchback,Mo -- Deaths
-P. B. S. Pinchback,M. D.
 P. B. S. Pinchback,Wm. Stewart
-P. B. S. Pinchback,N. J.
 P. B. S. Pinchback,Jonathan
 P. B. S. Pinchback,Josh Billings
 P. B. S. Pinchback,Simmons
@@ -37022,7 +36741,6 @@ P. B. S. Pinchback,Payne
 P. B. S. Pinchback,Blyden
 P. B. S. Pinchback,Edmonia Lewis
 P. B. S. Pinchback,Langston
-P. B. S. Pinchback,Nathan
 P. B. S. Pinchback,John Chinaman
 P. B. S. Pinchback,John
 P. B. S. Pinchback,Harper
@@ -37360,9 +37078,7 @@ James Lewis,Bonaparte
 James Lewis,Sherman
 James Lewis,Barnum
 James Lewis,Mo -- Deaths
-James Lewis,M. D.
 James Lewis,Wm. Stewart
-James Lewis,N. J.
 James Lewis,Jonathan
 James Lewis,Josh Billings
 James Lewis,Simmons
@@ -37370,7 +37086,6 @@ James Lewis,Payne
 James Lewis,Blyden
 James Lewis,Edmonia Lewis
 James Lewis,Langston
-James Lewis,Nathan
 James Lewis,John Chinaman
 James Lewis,John
 James Lewis,Harper
@@ -37707,9 +37422,7 @@ Lewis T. Kenner,Bonaparte
 Lewis T. Kenner,Sherman
 Lewis T. Kenner,Barnum
 Lewis T. Kenner,Mo -- Deaths
-Lewis T. Kenner,M. D.
 Lewis T. Kenner,Wm. Stewart
-Lewis T. Kenner,N. J.
 Lewis T. Kenner,Jonathan
 Lewis T. Kenner,Josh Billings
 Lewis T. Kenner,Simmons
@@ -37717,7 +37430,6 @@ Lewis T. Kenner,Payne
 Lewis T. Kenner,Blyden
 Lewis T. Kenner,Edmonia Lewis
 Lewis T. Kenner,Langston
-Lewis T. Kenner,Nathan
 Lewis T. Kenner,John Chinaman
 Lewis T. Kenner,John
 Lewis T. Kenner,Harper
@@ -38053,9 +37765,7 @@ Chas,Bonaparte
 Chas,Sherman
 Chas,Barnum
 Chas,Mo -- Deaths
-Chas,M. D.
 Chas,Wm. Stewart
-Chas,N. J.
 Chas,Jonathan
 Chas,Josh Billings
 Chas,Simmons
@@ -38063,7 +37773,6 @@ Chas,Payne
 Chas,Blyden
 Chas,Edmonia Lewis
 Chas,Langston
-Chas,Nathan
 Chas,John Chinaman
 Chas,John
 Chas,Harper
@@ -38398,9 +38107,7 @@ A. Burgeois,Bonaparte
 A. Burgeois,Sherman
 A. Burgeois,Barnum
 A. Burgeois,Mo -- Deaths
-A. Burgeois,M. D.
 A. Burgeois,Wm. Stewart
-A. Burgeois,N. J.
 A. Burgeois,Jonathan
 A. Burgeois,Josh Billings
 A. Burgeois,Simmons
@@ -38408,7 +38115,6 @@ A. Burgeois,Payne
 A. Burgeois,Blyden
 A. Burgeois,Edmonia Lewis
 A. Burgeois,Langston
-A. Burgeois,Nathan
 A. Burgeois,John Chinaman
 A. Burgeois,John
 A. Burgeois,Harper
@@ -38742,9 +38448,7 @@ S. E. Hardy,Bonaparte
 S. E. Hardy,Sherman
 S. E. Hardy,Barnum
 S. E. Hardy,Mo -- Deaths
-S. E. Hardy,M. D.
 S. E. Hardy,Wm. Stewart
-S. E. Hardy,N. J.
 S. E. Hardy,Jonathan
 S. E. Hardy,Josh Billings
 S. E. Hardy,Simmons
@@ -38752,7 +38456,6 @@ S. E. Hardy,Payne
 S. E. Hardy,Blyden
 S. E. Hardy,Edmonia Lewis
 S. E. Hardy,Langston
-S. E. Hardy,Nathan
 S. E. Hardy,John Chinaman
 S. E. Hardy,John
 S. E. Hardy,Harper
@@ -39085,9 +38788,7 @@ St. Paul,Bonaparte
 St. Paul,Sherman
 St. Paul,Barnum
 St. Paul,Mo -- Deaths
-St. Paul,M. D.
 St. Paul,Wm. Stewart
-St. Paul,N. J.
 St. Paul,Jonathan
 St. Paul,Josh Billings
 St. Paul,Simmons
@@ -39095,7 +38796,6 @@ St. Paul,Payne
 St. Paul,Blyden
 St. Paul,Edmonia Lewis
 St. Paul,Langston
-St. Paul,Nathan
 St. Paul,John Chinaman
 St. Paul,John
 St. Paul,Harper
@@ -39427,9 +39127,7 @@ J. R. Lynch,Bonaparte
 J. R. Lynch,Sherman
 J. R. Lynch,Barnum
 J. R. Lynch,Mo -- Deaths
-J. R. Lynch,M. D.
 J. R. Lynch,Wm. Stewart
-J. R. Lynch,N. J.
 J. R. Lynch,Jonathan
 J. R. Lynch,Josh Billings
 J. R. Lynch,Simmons
@@ -39437,7 +39135,6 @@ J. R. Lynch,Payne
 J. R. Lynch,Blyden
 J. R. Lynch,Edmonia Lewis
 J. R. Lynch,Langston
-J. R. Lynch,Nathan
 J. R. Lynch,John Chinaman
 J. R. Lynch,John
 J. R. Lynch,Harper
@@ -39768,9 +39465,7 @@ R. W. Fitzhugh,Bonaparte
 R. W. Fitzhugh,Sherman
 R. W. Fitzhugh,Barnum
 R. W. Fitzhugh,Mo -- Deaths
-R. W. Fitzhugh,M. D.
 R. W. Fitzhugh,Wm. Stewart
-R. W. Fitzhugh,N. J.
 R. W. Fitzhugh,Jonathan
 R. W. Fitzhugh,Josh Billings
 R. W. Fitzhugh,Simmons
@@ -39778,7 +39473,6 @@ R. W. Fitzhugh,Payne
 R. W. Fitzhugh,Blyden
 R. W. Fitzhugh,Edmonia Lewis
 R. W. Fitzhugh,Langston
-R. W. Fitzhugh,Nathan
 R. W. Fitzhugh,John Chinaman
 R. W. Fitzhugh,John
 R. W. Fitzhugh,Harper
@@ -40108,9 +39802,7 @@ Theo,Bonaparte
 Theo,Sherman
 Theo,Barnum
 Theo,Mo -- Deaths
-Theo,M. D.
 Theo,Wm. Stewart
-Theo,N. J.
 Theo,Jonathan
 Theo,Josh Billings
 Theo,Simmons
@@ -40118,7 +39810,6 @@ Theo,Payne
 Theo,Blyden
 Theo,Edmonia Lewis
 Theo,Langston
-Theo,Nathan
 Theo,John Chinaman
 Theo,John
 Theo,Harper
@@ -40447,9 +40138,7 @@ H. Greene,Bonaparte
 H. Greene,Sherman
 H. Greene,Barnum
 H. Greene,Mo -- Deaths
-H. Greene,M. D.
 H. Greene,Wm. Stewart
-H. Greene,N. J.
 H. Greene,Jonathan
 H. Greene,Josh Billings
 H. Greene,Simmons
@@ -40457,7 +40146,6 @@ H. Greene,Payne
 H. Greene,Blyden
 H. Greene,Edmonia Lewis
 H. Greene,Langston
-H. Greene,Nathan
 H. Greene,John Chinaman
 H. Greene,John
 H. Greene,Harper
@@ -40785,9 +40473,7 @@ Thomas Richardson,Bonaparte
 Thomas Richardson,Sherman
 Thomas Richardson,Barnum
 Thomas Richardson,Mo -- Deaths
-Thomas Richardson,M. D.
 Thomas Richardson,Wm. Stewart
-Thomas Richardson,N. J.
 Thomas Richardson,Jonathan
 Thomas Richardson,Josh Billings
 Thomas Richardson,Simmons
@@ -40795,7 +40481,6 @@ Thomas Richardson,Payne
 Thomas Richardson,Blyden
 Thomas Richardson,Edmonia Lewis
 Thomas Richardson,Langston
-Thomas Richardson,Nathan
 Thomas Richardson,John Chinaman
 Thomas Richardson,John
 Thomas Richardson,Harper
@@ -41122,9 +40807,7 @@ Port Gibson,Bonaparte
 Port Gibson,Sherman
 Port Gibson,Barnum
 Port Gibson,Mo -- Deaths
-Port Gibson,M. D.
 Port Gibson,Wm. Stewart
-Port Gibson,N. J.
 Port Gibson,Jonathan
 Port Gibson,Josh Billings
 Port Gibson,Simmons
@@ -41132,7 +40815,6 @@ Port Gibson,Payne
 Port Gibson,Blyden
 Port Gibson,Edmonia Lewis
 Port Gibson,Langston
-Port Gibson,Nathan
 Port Gibson,John Chinaman
 Port Gibson,John
 Port Gibson,Harper
@@ -41458,9 +41140,7 @@ J. H. Buftord,Bonaparte
 J. H. Buftord,Sherman
 J. H. Buftord,Barnum
 J. H. Buftord,Mo -- Deaths
-J. H. Buftord,M. D.
 J. H. Buftord,Wm. Stewart
-J. H. Buftord,N. J.
 J. H. Buftord,Jonathan
 J. H. Buftord,Josh Billings
 J. H. Buftord,Simmons
@@ -41468,7 +41148,6 @@ J. H. Buftord,Payne
 J. H. Buftord,Blyden
 J. H. Buftord,Edmonia Lewis
 J. H. Buftord,Langston
-J. H. Buftord,Nathan
 J. H. Buftord,John Chinaman
 J. H. Buftord,John
 J. H. Buftord,Harper
@@ -41793,9 +41472,7 @@ W. H. Maury,Bonaparte
 W. H. Maury,Sherman
 W. H. Maury,Barnum
 W. H. Maury,Mo -- Deaths
-W. H. Maury,M. D.
 W. H. Maury,Wm. Stewart
-W. H. Maury,N. J.
 W. H. Maury,Jonathan
 W. H. Maury,Josh Billings
 W. H. Maury,Simmons
@@ -41803,7 +41480,6 @@ W. H. Maury,Payne
 W. H. Maury,Blyden
 W. H. Maury,Edmonia Lewis
 W. H. Maury,Langston
-W. H. Maury,Nathan
 W. H. Maury,John Chinaman
 W. H. Maury,John
 W. H. Maury,Harper
@@ -42127,9 +41803,7 @@ B. G. Booth,Bonaparte
 B. G. Booth,Sherman
 B. G. Booth,Barnum
 B. G. Booth,Mo -- Deaths
-B. G. Booth,M. D.
 B. G. Booth,Wm. Stewart
-B. G. Booth,N. J.
 B. G. Booth,Jonathan
 B. G. Booth,Josh Billings
 B. G. Booth,Simmons
@@ -42137,7 +41811,6 @@ B. G. Booth,Payne
 B. G. Booth,Blyden
 B. G. Booth,Edmonia Lewis
 B. G. Booth,Langston
-B. G. Booth,Nathan
 B. G. Booth,John Chinaman
 B. G. Booth,John
 B. G. Booth,Harper
@@ -42460,9 +42133,7 @@ J.C. Mathews,Bonaparte
 J.C. Mathews,Sherman
 J.C. Mathews,Barnum
 J.C. Mathews,Mo -- Deaths
-J.C. Mathews,M. D.
 J.C. Mathews,Wm. Stewart
-J.C. Mathews,N. J.
 J.C. Mathews,Jonathan
 J.C. Mathews,Josh Billings
 J.C. Mathews,Simmons
@@ -42470,7 +42141,6 @@ J.C. Mathews,Payne
 J.C. Mathews,Blyden
 J.C. Mathews,Edmonia Lewis
 J.C. Mathews,Langston
-J.C. Mathews,Nathan
 J.C. Mathews,John Chinaman
 J.C. Mathews,John
 J.C. Mathews,Harper
@@ -42792,9 +42462,7 @@ R. Lawton,Bonaparte
 R. Lawton,Sherman
 R. Lawton,Barnum
 R. Lawton,Mo -- Deaths
-R. Lawton,M. D.
 R. Lawton,Wm. Stewart
-R. Lawton,N. J.
 R. Lawton,Jonathan
 R. Lawton,Josh Billings
 R. Lawton,Simmons
@@ -42802,7 +42470,6 @@ R. Lawton,Payne
 R. Lawton,Blyden
 R. Lawton,Edmonia Lewis
 R. Lawton,Langston
-R. Lawton,Nathan
 R. Lawton,John Chinaman
 R. Lawton,John
 R. Lawton,Harper
@@ -43123,9 +42790,7 @@ J. W. Wilson,Bonaparte
 J. W. Wilson,Sherman
 J. W. Wilson,Barnum
 J. W. Wilson,Mo -- Deaths
-J. W. Wilson,M. D.
 J. W. Wilson,Wm. Stewart
-J. W. Wilson,N. J.
 J. W. Wilson,Jonathan
 J. W. Wilson,Josh Billings
 J. W. Wilson,Simmons
@@ -43133,7 +42798,6 @@ J. W. Wilson,Payne
 J. W. Wilson,Blyden
 J. W. Wilson,Edmonia Lewis
 J. W. Wilson,Langston
-J. W. Wilson,Nathan
 J. W. Wilson,John Chinaman
 J. W. Wilson,John
 J. W. Wilson,Harper
@@ -43453,9 +43117,7 @@ H. G. Newsom,Bonaparte
 H. G. Newsom,Sherman
 H. G. Newsom,Barnum
 H. G. Newsom,Mo -- Deaths
-H. G. Newsom,M. D.
 H. G. Newsom,Wm. Stewart
-H. G. Newsom,N. J.
 H. G. Newsom,Jonathan
 H. G. Newsom,Josh Billings
 H. G. Newsom,Simmons
@@ -43463,7 +43125,6 @@ H. G. Newsom,Payne
 H. G. Newsom,Blyden
 H. G. Newsom,Edmonia Lewis
 H. G. Newsom,Langston
-H. G. Newsom,Nathan
 H. G. Newsom,John Chinaman
 H. G. Newsom,John
 H. G. Newsom,Harper
@@ -43782,9 +43443,7 @@ Hastings,Bonaparte
 Hastings,Sherman
 Hastings,Barnum
 Hastings,Mo -- Deaths
-Hastings,M. D.
 Hastings,Wm. Stewart
-Hastings,N. J.
 Hastings,Jonathan
 Hastings,Josh Billings
 Hastings,Simmons
@@ -43792,7 +43451,6 @@ Hastings,Payne
 Hastings,Blyden
 Hastings,Edmonia Lewis
 Hastings,Langston
-Hastings,Nathan
 Hastings,John Chinaman
 Hastings,John
 Hastings,Harper
@@ -44110,9 +43768,7 @@ Robert Harlan,Bonaparte
 Robert Harlan,Sherman
 Robert Harlan,Barnum
 Robert Harlan,Mo -- Deaths
-Robert Harlan,M. D.
 Robert Harlan,Wm. Stewart
-Robert Harlan,N. J.
 Robert Harlan,Jonathan
 Robert Harlan,Josh Billings
 Robert Harlan,Simmons
@@ -44120,7 +43776,6 @@ Robert Harlan,Payne
 Robert Harlan,Blyden
 Robert Harlan,Edmonia Lewis
 Robert Harlan,Langston
-Robert Harlan,Nathan
 Robert Harlan,John Chinaman
 Robert Harlan,John
 Robert Harlan,Harper
@@ -44437,9 +44092,7 @@ D. Jones,Bonaparte
 D. Jones,Sherman
 D. Jones,Barnum
 D. Jones,Mo -- Deaths
-D. Jones,M. D.
 D. Jones,Wm. Stewart
-D. Jones,N. J.
 D. Jones,Jonathan
 D. Jones,Josh Billings
 D. Jones,Simmons
@@ -44447,7 +44100,6 @@ D. Jones,Payne
 D. Jones,Blyden
 D. Jones,Edmonia Lewis
 D. Jones,Langston
-D. Jones,Nathan
 D. Jones,John Chinaman
 D. Jones,John
 D. Jones,Harper
@@ -44763,9 +44415,7 @@ J. D. Lewis,Bonaparte
 J. D. Lewis,Sherman
 J. D. Lewis,Barnum
 J. D. Lewis,Mo -- Deaths
-J. D. Lewis,M. D.
 J. D. Lewis,Wm. Stewart
-J. D. Lewis,N. J.
 J. D. Lewis,Jonathan
 J. D. Lewis,Josh Billings
 J. D. Lewis,Simmons
@@ -44773,7 +44423,6 @@ J. D. Lewis,Payne
 J. D. Lewis,Blyden
 J. D. Lewis,Edmonia Lewis
 J. D. Lewis,Langston
-J. D. Lewis,Nathan
 J. D. Lewis,John Chinaman
 J. D. Lewis,John
 J. D. Lewis,Harper
@@ -45088,9 +44737,7 @@ F. J. Loudin,Bonaparte
 F. J. Loudin,Sherman
 F. J. Loudin,Barnum
 F. J. Loudin,Mo -- Deaths
-F. J. Loudin,M. D.
 F. J. Loudin,Wm. Stewart
-F. J. Loudin,N. J.
 F. J. Loudin,Jonathan
 F. J. Loudin,Josh Billings
 F. J. Loudin,Simmons
@@ -45098,7 +44745,6 @@ F. J. Loudin,Payne
 F. J. Loudin,Blyden
 F. J. Loudin,Edmonia Lewis
 F. J. Loudin,Langston
-F. J. Loudin,Nathan
 F. J. Loudin,John Chinaman
 F. J. Loudin,John
 F. J. Loudin,Harper
@@ -45412,9 +45058,7 @@ C. V. Wiley,Bonaparte
 C. V. Wiley,Sherman
 C. V. Wiley,Barnum
 C. V. Wiley,Mo -- Deaths
-C. V. Wiley,M. D.
 C. V. Wiley,Wm. Stewart
-C. V. Wiley,N. J.
 C. V. Wiley,Jonathan
 C. V. Wiley,Josh Billings
 C. V. Wiley,Simmons
@@ -45422,7 +45066,6 @@ C. V. Wiley,Payne
 C. V. Wiley,Blyden
 C. V. Wiley,Edmonia Lewis
 C. V. Wiley,Langston
-C. V. Wiley,Nathan
 C. V. Wiley,John Chinaman
 C. V. Wiley,John
 C. V. Wiley,Harper
@@ -45735,9 +45378,7 @@ J. H. Rainey,Bonaparte
 J. H. Rainey,Sherman
 J. H. Rainey,Barnum
 J. H. Rainey,Mo -- Deaths
-J. H. Rainey,M. D.
 J. H. Rainey,Wm. Stewart
-J. H. Rainey,N. J.
 J. H. Rainey,Jonathan
 J. H. Rainey,Josh Billings
 J. H. Rainey,Simmons
@@ -45745,7 +45386,6 @@ J. H. Rainey,Payne
 J. H. Rainey,Blyden
 J. H. Rainey,Edmonia Lewis
 J. H. Rainey,Langston
-J. H. Rainey,Nathan
 J. H. Rainey,John Chinaman
 J. H. Rainey,John
 J. H. Rainey,Harper
@@ -46057,9 +45697,7 @@ S. F. Griffin,Bonaparte
 S. F. Griffin,Sherman
 S. F. Griffin,Barnum
 S. F. Griffin,Mo -- Deaths
-S. F. Griffin,M. D.
 S. F. Griffin,Wm. Stewart
-S. F. Griffin,N. J.
 S. F. Griffin,Jonathan
 S. F. Griffin,Josh Billings
 S. F. Griffin,Simmons
@@ -46067,7 +45705,6 @@ S. F. Griffin,Payne
 S. F. Griffin,Blyden
 S. F. Griffin,Edmonia Lewis
 S. F. Griffin,Langston
-S. F. Griffin,Nathan
 S. F. Griffin,John Chinaman
 S. F. Griffin,John
 S. F. Griffin,Harper
@@ -46378,9 +46015,7 @@ D. E. Asbury,Bonaparte
 D. E. Asbury,Sherman
 D. E. Asbury,Barnum
 D. E. Asbury,Mo -- Deaths
-D. E. Asbury,M. D.
 D. E. Asbury,Wm. Stewart
-D. E. Asbury,N. J.
 D. E. Asbury,Jonathan
 D. E. Asbury,Josh Billings
 D. E. Asbury,Simmons
@@ -46388,7 +46023,6 @@ D. E. Asbury,Payne
 D. E. Asbury,Blyden
 D. E. Asbury,Edmonia Lewis
 D. E. Asbury,Langston
-D. E. Asbury,Nathan
 D. E. Asbury,John Chinaman
 D. E. Asbury,John
 D. E. Asbury,Harper
@@ -46698,9 +46332,7 @@ J. B. Bosley,Bonaparte
 J. B. Bosley,Sherman
 J. B. Bosley,Barnum
 J. B. Bosley,Mo -- Deaths
-J. B. Bosley,M. D.
 J. B. Bosley,Wm. Stewart
-J. B. Bosley,N. J.
 J. B. Bosley,Jonathan
 J. B. Bosley,Josh Billings
 J. B. Bosley,Simmons
@@ -46708,7 +46340,6 @@ J. B. Bosley,Payne
 J. B. Bosley,Blyden
 J. B. Bosley,Edmonia Lewis
 J. B. Bosley,Langston
-J. B. Bosley,Nathan
 J. B. Bosley,John Chinaman
 J. B. Bosley,John
 J. B. Bosley,Harper
@@ -47017,9 +46648,7 @@ Wm. Sumner,Bonaparte
 Wm. Sumner,Sherman
 Wm. Sumner,Barnum
 Wm. Sumner,Mo -- Deaths
-Wm. Sumner,M. D.
 Wm. Sumner,Wm. Stewart
-Wm. Sumner,N. J.
 Wm. Sumner,Jonathan
 Wm. Sumner,Josh Billings
 Wm. Sumner,Simmons
@@ -47027,7 +46656,6 @@ Wm. Sumner,Payne
 Wm. Sumner,Blyden
 Wm. Sumner,Edmonia Lewis
 Wm. Sumner,Langston
-Wm. Sumner,Nathan
 Wm. Sumner,John Chinaman
 Wm. Sumner,John
 Wm. Sumner,Harper
@@ -47335,9 +46963,7 @@ T. A. Sykes,Bonaparte
 T. A. Sykes,Sherman
 T. A. Sykes,Barnum
 T. A. Sykes,Mo -- Deaths
-T. A. Sykes,M. D.
 T. A. Sykes,Wm. Stewart
-T. A. Sykes,N. J.
 T. A. Sykes,Jonathan
 T. A. Sykes,Josh Billings
 T. A. Sykes,Simmons
@@ -47345,7 +46971,6 @@ T. A. Sykes,Payne
 T. A. Sykes,Blyden
 T. A. Sykes,Edmonia Lewis
 T. A. Sykes,Langston
-T. A. Sykes,Nathan
 T. A. Sykes,John Chinaman
 T. A. Sykes,John
 T. A. Sykes,Harper
@@ -47652,9 +47277,7 @@ Isaac Lane,Bonaparte
 Isaac Lane,Sherman
 Isaac Lane,Barnum
 Isaac Lane,Mo -- Deaths
-Isaac Lane,M. D.
 Isaac Lane,Wm. Stewart
-Isaac Lane,N. J.
 Isaac Lane,Jonathan
 Isaac Lane,Josh Billings
 Isaac Lane,Simmons
@@ -47662,7 +47285,6 @@ Isaac Lane,Payne
 Isaac Lane,Blyden
 Isaac Lane,Edmonia Lewis
 Isaac Lane,Langston
-Isaac Lane,Nathan
 Isaac Lane,John Chinaman
 Isaac Lane,John
 Isaac Lane,Harper
@@ -47968,9 +47590,7 @@ R. F. Boyd,Bonaparte
 R. F. Boyd,Sherman
 R. F. Boyd,Barnum
 R. F. Boyd,Mo -- Deaths
-R. F. Boyd,M. D.
 R. F. Boyd,Wm. Stewart
-R. F. Boyd,N. J.
 R. F. Boyd,Jonathan
 R. F. Boyd,Josh Billings
 R. F. Boyd,Simmons
@@ -47978,7 +47598,6 @@ R. F. Boyd,Payne
 R. F. Boyd,Blyden
 R. F. Boyd,Edmonia Lewis
 R. F. Boyd,Langston
-R. F. Boyd,Nathan
 R. F. Boyd,John Chinaman
 R. F. Boyd,John
 R. F. Boyd,Harper
@@ -48283,9 +47902,7 @@ J. H. Hendricks,Bonaparte
 J. H. Hendricks,Sherman
 J. H. Hendricks,Barnum
 J. H. Hendricks,Mo -- Deaths
-J. H. Hendricks,M. D.
 J. H. Hendricks,Wm. Stewart
-J. H. Hendricks,N. J.
 J. H. Hendricks,Jonathan
 J. H. Hendricks,Josh Billings
 J. H. Hendricks,Simmons
@@ -48293,7 +47910,6 @@ J. H. Hendricks,Payne
 J. H. Hendricks,Blyden
 J. H. Hendricks,Edmonia Lewis
 J. H. Hendricks,Langston
-J. H. Hendricks,Nathan
 J. H. Hendricks,John Chinaman
 J. H. Hendricks,John
 J. H. Hendricks,Harper
@@ -48597,9 +48213,7 @@ G. H. Shafer,Bonaparte
 G. H. Shafer,Sherman
 G. H. Shafer,Barnum
 G. H. Shafer,Mo -- Deaths
-G. H. Shafer,M. D.
 G. H. Shafer,Wm. Stewart
-G. H. Shafer,N. J.
 G. H. Shafer,Jonathan
 G. H. Shafer,Josh Billings
 G. H. Shafer,Simmons
@@ -48607,7 +48221,6 @@ G. H. Shafer,Payne
 G. H. Shafer,Blyden
 G. H. Shafer,Edmonia Lewis
 G. H. Shafer,Langston
-G. H. Shafer,Nathan
 G. H. Shafer,John Chinaman
 G. H. Shafer,John
 G. H. Shafer,Harper
@@ -48910,9 +48523,7 @@ J. W. Grant,Bonaparte
 J. W. Grant,Sherman
 J. W. Grant,Barnum
 J. W. Grant,Mo -- Deaths
-J. W. Grant,M. D.
 J. W. Grant,Wm. Stewart
-J. W. Grant,N. J.
 J. W. Grant,Jonathan
 J. W. Grant,Josh Billings
 J. W. Grant,Simmons
@@ -48920,7 +48531,6 @@ J. W. Grant,Payne
 J. W. Grant,Blyden
 J. W. Grant,Edmonia Lewis
 J. W. Grant,Langston
-J. W. Grant,Nathan
 J. W. Grant,John Chinaman
 J. W. Grant,John
 J. W. Grant,Harper
@@ -49222,9 +48832,7 @@ T. W. Lott,Bonaparte
 T. W. Lott,Sherman
 T. W. Lott,Barnum
 T. W. Lott,Mo -- Deaths
-T. W. Lott,M. D.
 T. W. Lott,Wm. Stewart
-T. W. Lott,N. J.
 T. W. Lott,Jonathan
 T. W. Lott,Josh Billings
 T. W. Lott,Simmons
@@ -49232,7 +48840,6 @@ T. W. Lott,Payne
 T. W. Lott,Blyden
 T. W. Lott,Edmonia Lewis
 T. W. Lott,Langston
-T. W. Lott,Nathan
 T. W. Lott,John Chinaman
 T. W. Lott,John
 T. W. Lott,Harper
@@ -49533,9 +49140,7 @@ D. W. Williams,Bonaparte
 D. W. Williams,Sherman
 D. W. Williams,Barnum
 D. W. Williams,Mo -- Deaths
-D. W. Williams,M. D.
 D. W. Williams,Wm. Stewart
-D. W. Williams,N. J.
 D. W. Williams,Jonathan
 D. W. Williams,Josh Billings
 D. W. Williams,Simmons
@@ -49543,7 +49148,6 @@ D. W. Williams,Payne
 D. W. Williams,Blyden
 D. W. Williams,Edmonia Lewis
 D. W. Williams,Langston
-D. W. Williams,Nathan
 D. W. Williams,John Chinaman
 D. W. Williams,John
 D. W. Williams,Harper
@@ -49843,9 +49447,7 @@ L. A. Roberts,Bonaparte
 L. A. Roberts,Sherman
 L. A. Roberts,Barnum
 L. A. Roberts,Mo -- Deaths
-L. A. Roberts,M. D.
 L. A. Roberts,Wm. Stewart
-L. A. Roberts,N. J.
 L. A. Roberts,Jonathan
 L. A. Roberts,Josh Billings
 L. A. Roberts,Simmons
@@ -49853,7 +49455,6 @@ L. A. Roberts,Payne
 L. A. Roberts,Blyden
 L. A. Roberts,Edmonia Lewis
 L. A. Roberts,Langston
-L. A. Roberts,Nathan
 L. A. Roberts,John Chinaman
 L. A. Roberts,John
 L. A. Roberts,Harper
@@ -50152,9 +49753,7 @@ J. H. Kelley,Bonaparte
 J. H. Kelley,Sherman
 J. H. Kelley,Barnum
 J. H. Kelley,Mo -- Deaths
-J. H. Kelley,M. D.
 J. H. Kelley,Wm. Stewart
-J. H. Kelley,N. J.
 J. H. Kelley,Jonathan
 J. H. Kelley,Josh Billings
 J. H. Kelley,Simmons
@@ -50162,7 +49761,6 @@ J. H. Kelley,Payne
 J. H. Kelley,Blyden
 J. H. Kelley,Edmonia Lewis
 J. H. Kelley,Langston
-J. H. Kelley,Nathan
 J. H. Kelley,John Chinaman
 J. H. Kelley,John
 J. H. Kelley,Harper
@@ -50460,9 +50058,7 @@ J. F. Mckinley,Bonaparte
 J. F. Mckinley,Sherman
 J. F. Mckinley,Barnum
 J. F. Mckinley,Mo -- Deaths
-J. F. Mckinley,M. D.
 J. F. Mckinley,Wm. Stewart
-J. F. Mckinley,N. J.
 J. F. Mckinley,Jonathan
 J. F. Mckinley,Josh Billings
 J. F. Mckinley,Simmons
@@ -50470,7 +50066,6 @@ J. F. Mckinley,Payne
 J. F. Mckinley,Blyden
 J. F. Mckinley,Edmonia Lewis
 J. F. Mckinley,Langston
-J. F. Mckinley,Nathan
 J. F. Mckinley,John Chinaman
 J. F. Mckinley,John
 J. F. Mckinley,Harper
@@ -50767,9 +50362,7 @@ W. C. Hodge,Bonaparte
 W. C. Hodge,Sherman
 W. C. Hodge,Barnum
 W. C. Hodge,Mo -- Deaths
-W. C. Hodge,M. D.
 W. C. Hodge,Wm. Stewart
-W. C. Hodge,N. J.
 W. C. Hodge,Jonathan
 W. C. Hodge,Josh Billings
 W. C. Hodge,Simmons
@@ -50777,7 +50370,6 @@ W. C. Hodge,Payne
 W. C. Hodge,Blyden
 W. C. Hodge,Edmonia Lewis
 W. C. Hodge,Langston
-W. C. Hodge,Nathan
 W. C. Hodge,John Chinaman
 W. C. Hodge,John
 W. C. Hodge,Harper
@@ -51073,9 +50665,7 @@ H. H.Thompson,Bonaparte
 H. H.Thompson,Sherman
 H. H.Thompson,Barnum
 H. H.Thompson,Mo -- Deaths
-H. H.Thompson,M. D.
 H. H.Thompson,Wm. Stewart
-H. H.Thompson,N. J.
 H. H.Thompson,Jonathan
 H. H.Thompson,Josh Billings
 H. H.Thompson,Simmons
@@ -51083,7 +50673,6 @@ H. H.Thompson,Payne
 H. H.Thompson,Blyden
 H. H.Thompson,Edmonia Lewis
 H. H.Thompson,Langston
-H. H.Thompson,Nathan
 H. H.Thompson,John Chinaman
 H. H.Thompson,John
 H. H.Thompson,Harper
@@ -51378,9 +50967,7 @@ Randall Brown,Bonaparte
 Randall Brown,Sherman
 Randall Brown,Barnum
 Randall Brown,Mo -- Deaths
-Randall Brown,M. D.
 Randall Brown,Wm. Stewart
-Randall Brown,N. J.
 Randall Brown,Jonathan
 Randall Brown,Josh Billings
 Randall Brown,Simmons
@@ -51388,7 +50975,6 @@ Randall Brown,Payne
 Randall Brown,Blyden
 Randall Brown,Edmonia Lewis
 Randall Brown,Langston
-Randall Brown,Nathan
 Randall Brown,John Chinaman
 Randall Brown,John
 Randall Brown,Harper
@@ -51682,9 +51268,7 @@ J. M. Smith,Bonaparte
 J. M. Smith,Sherman
 J. M. Smith,Barnum
 J. M. Smith,Mo -- Deaths
-J. M. Smith,M. D.
 J. M. Smith,Wm. Stewart
-J. M. Smith,N. J.
 J. M. Smith,Jonathan
 J. M. Smith,Josh Billings
 J. M. Smith,Simmons
@@ -51692,7 +51276,6 @@ J. M. Smith,Payne
 J. M. Smith,Blyden
 J. M. Smith,Edmonia Lewis
 J. M. Smith,Langston
-J. M. Smith,Nathan
 J. M. Smith,John Chinaman
 J. M. Smith,John
 J. M. Smith,Harper
@@ -51985,9 +51568,7 @@ A. J. Carr,Bonaparte
 A. J. Carr,Sherman
 A. J. Carr,Barnum
 A. J. Carr,Mo -- Deaths
-A. J. Carr,M. D.
 A. J. Carr,Wm. Stewart
-A. J. Carr,N. J.
 A. J. Carr,Jonathan
 A. J. Carr,Josh Billings
 A. J. Carr,Simmons
@@ -51995,7 +51576,6 @@ A. J. Carr,Payne
 A. J. Carr,Blyden
 A. J. Carr,Edmonia Lewis
 A. J. Carr,Langston
-A. J. Carr,Nathan
 A. J. Carr,John Chinaman
 A. J. Carr,John
 A. J. Carr,Harper
@@ -52287,9 +51867,7 @@ B. A. J. Nixon,Bonaparte
 B. A. J. Nixon,Sherman
 B. A. J. Nixon,Barnum
 B. A. J. Nixon,Mo -- Deaths
-B. A. J. Nixon,M. D.
 B. A. J. Nixon,Wm. Stewart
-B. A. J. Nixon,N. J.
 B. A. J. Nixon,Jonathan
 B. A. J. Nixon,Josh Billings
 B. A. J. Nixon,Simmons
@@ -52297,7 +51875,6 @@ B. A. J. Nixon,Payne
 B. A. J. Nixon,Blyden
 B. A. J. Nixon,Edmonia Lewis
 B. A. J. Nixon,Langston
-B. A. J. Nixon,Nathan
 B. A. J. Nixon,John Chinaman
 B. A. J. Nixon,John
 B. A. J. Nixon,Harper
@@ -52588,9 +52165,7 @@ M. F. Womack,Bonaparte
 M. F. Womack,Sherman
 M. F. Womack,Barnum
 M. F. Womack,Mo -- Deaths
-M. F. Womack,M. D.
 M. F. Womack,Wm. Stewart
-M. F. Womack,N. J.
 M. F. Womack,Jonathan
 M. F. Womack,Josh Billings
 M. F. Womack,Simmons
@@ -52598,7 +52173,6 @@ M. F. Womack,Payne
 M. F. Womack,Blyden
 M. F. Womack,Edmonia Lewis
 M. F. Womack,Langston
-M. F. Womack,Nathan
 M. F. Womack,John Chinaman
 M. F. Womack,John
 M. F. Womack,Harper
@@ -52888,9 +52462,7 @@ A. N. C. Williams,Bonaparte
 A. N. C. Williams,Sherman
 A. N. C. Williams,Barnum
 A. N. C. Williams,Mo -- Deaths
-A. N. C. Williams,M. D.
 A. N. C. Williams,Wm. Stewart
-A. N. C. Williams,N. J.
 A. N. C. Williams,Jonathan
 A. N. C. Williams,Josh Billings
 A. N. C. Williams,Simmons
@@ -52898,7 +52470,6 @@ A. N. C. Williams,Payne
 A. N. C. Williams,Blyden
 A. N. C. Williams,Edmonia Lewis
 A. N. C. Williams,Langston
-A. N. C. Williams,Nathan
 A. N. C. Williams,John Chinaman
 A. N. C. Williams,John
 A. N. C. Williams,Harper
@@ -53187,9 +52758,7 @@ W. A. Henderson,Bonaparte
 W. A. Henderson,Sherman
 W. A. Henderson,Barnum
 W. A. Henderson,Mo -- Deaths
-W. A. Henderson,M. D.
 W. A. Henderson,Wm. Stewart
-W. A. Henderson,N. J.
 W. A. Henderson,Jonathan
 W. A. Henderson,Josh Billings
 W. A. Henderson,Simmons
@@ -53197,7 +52766,6 @@ W. A. Henderson,Payne
 W. A. Henderson,Blyden
 W. A. Henderson,Edmonia Lewis
 W. A. Henderson,Langston
-W. A. Henderson,Nathan
 W. A. Henderson,John Chinaman
 W. A. Henderson,John
 W. A. Henderson,Harper
@@ -53485,9 +53053,7 @@ B. J. Hadley,Bonaparte
 B. J. Hadley,Sherman
 B. J. Hadley,Barnum
 B. J. Hadley,Mo -- Deaths
-B. J. Hadley,M. D.
 B. J. Hadley,Wm. Stewart
-B. J. Hadley,N. J.
 B. J. Hadley,Jonathan
 B. J. Hadley,Josh Billings
 B. J. Hadley,Simmons
@@ -53495,7 +53061,6 @@ B. J. Hadley,Payne
 B. J. Hadley,Blyden
 B. J. Hadley,Edmonia Lewis
 B. J. Hadley,Langston
-B. J. Hadley,Nathan
 B. J. Hadley,John Chinaman
 B. J. Hadley,John
 B. J. Hadley,Harper
@@ -53782,9 +53347,7 @@ J. H. Burrus,Bonaparte
 J. H. Burrus,Sherman
 J. H. Burrus,Barnum
 J. H. Burrus,Mo -- Deaths
-J. H. Burrus,M. D.
 J. H. Burrus,Wm. Stewart
-J. H. Burrus,N. J.
 J. H. Burrus,Jonathan
 J. H. Burrus,Josh Billings
 J. H. Burrus,Simmons
@@ -53792,7 +53355,6 @@ J. H. Burrus,Payne
 J. H. Burrus,Blyden
 J. H. Burrus,Edmonia Lewis
 J. H. Burrus,Langston
-J. H. Burrus,Nathan
 J. H. Burrus,John Chinaman
 J. H. Burrus,John
 J. H. Burrus,Harper
@@ -54078,9 +53640,7 @@ D. Wadkins,Bonaparte
 D. Wadkins,Sherman
 D. Wadkins,Barnum
 D. Wadkins,Mo -- Deaths
-D. Wadkins,M. D.
 D. Wadkins,Wm. Stewart
-D. Wadkins,N. J.
 D. Wadkins,Jonathan
 D. Wadkins,Josh Billings
 D. Wadkins,Simmons
@@ -54088,7 +53648,6 @@ D. Wadkins,Payne
 D. Wadkins,Blyden
 D. Wadkins,Edmonia Lewis
 D. Wadkins,Langston
-D. Wadkins,Nathan
 D. Wadkins,John Chinaman
 D. Wadkins,John
 D. Wadkins,Harper
@@ -54373,9 +53932,7 @@ W. F. Yardley,Bonaparte
 W. F. Yardley,Sherman
 W. F. Yardley,Barnum
 W. F. Yardley,Mo -- Deaths
-W. F. Yardley,M. D.
 W. F. Yardley,Wm. Stewart
-W. F. Yardley,N. J.
 W. F. Yardley,Jonathan
 W. F. Yardley,Josh Billings
 W. F. Yardley,Simmons
@@ -54383,7 +53940,6 @@ W. F. Yardley,Payne
 W. F. Yardley,Blyden
 W. F. Yardley,Edmonia Lewis
 W. F. Yardley,Langston
-W. F. Yardley,Nathan
 W. F. Yardley,John Chinaman
 W. F. Yardley,John
 W. F. Yardley,Harper
@@ -54667,9 +54223,7 @@ G. W. Levere,Bonaparte
 G. W. Levere,Sherman
 G. W. Levere,Barnum
 G. W. Levere,Mo -- Deaths
-G. W. Levere,M. D.
 G. W. Levere,Wm. Stewart
-G. W. Levere,N. J.
 G. W. Levere,Jonathan
 G. W. Levere,Josh Billings
 G. W. Levere,Simmons
@@ -54677,7 +54231,6 @@ G. W. Levere,Payne
 G. W. Levere,Blyden
 G. W. Levere,Edmonia Lewis
 G. W. Levere,Langston
-G. W. Levere,Nathan
 G. W. Levere,John Chinaman
 G. W. Levere,John
 G. W. Levere,Harper
@@ -54960,9 +54513,7 @@ J. C. Napier,Bonaparte
 J. C. Napier,Sherman
 J. C. Napier,Barnum
 J. C. Napier,Mo -- Deaths
-J. C. Napier,M. D.
 J. C. Napier,Wm. Stewart
-J. C. Napier,N. J.
 J. C. Napier,Jonathan
 J. C. Napier,Josh Billings
 J. C. Napier,Simmons
@@ -54970,7 +54521,6 @@ J. C. Napier,Payne
 J. C. Napier,Blyden
 J. C. Napier,Edmonia Lewis
 J. C. Napier,Langston
-J. C. Napier,Nathan
 J. C. Napier,John Chinaman
 J. C. Napier,John
 J. C. Napier,Harper
@@ -55252,9 +54802,7 @@ W. F. Anderson,Bonaparte
 W. F. Anderson,Sherman
 W. F. Anderson,Barnum
 W. F. Anderson,Mo -- Deaths
-W. F. Anderson,M. D.
 W. F. Anderson,Wm. Stewart
-W. F. Anderson,N. J.
 W. F. Anderson,Jonathan
 W. F. Anderson,Josh Billings
 W. F. Anderson,Simmons
@@ -55262,7 +54810,6 @@ W. F. Anderson,Payne
 W. F. Anderson,Blyden
 W. F. Anderson,Edmonia Lewis
 W. F. Anderson,Langston
-W. F. Anderson,Nathan
 W. F. Anderson,John Chinaman
 W. F. Anderson,John
 W. F. Anderson,Harper
@@ -55543,9 +55090,7 @@ B. F. Williams,Bonaparte
 B. F. Williams,Sherman
 B. F. Williams,Barnum
 B. F. Williams,Mo -- Deaths
-B. F. Williams,M. D.
 B. F. Williams,Wm. Stewart
-B. F. Williams,N. J.
 B. F. Williams,Jonathan
 B. F. Williams,Josh Billings
 B. F. Williams,Simmons
@@ -55553,7 +55098,6 @@ B. F. Williams,Payne
 B. F. Williams,Blyden
 B. F. Williams,Edmonia Lewis
 B. F. Williams,Langston
-B. F. Williams,Nathan
 B. F. Williams,John Chinaman
 B. F. Williams,John
 B. F. Williams,Harper
@@ -55833,9 +55377,7 @@ J. R. Taylor,Bonaparte
 J. R. Taylor,Sherman
 J. R. Taylor,Barnum
 J. R. Taylor,Mo -- Deaths
-J. R. Taylor,M. D.
 J. R. Taylor,Wm. Stewart
-J. R. Taylor,N. J.
 J. R. Taylor,Jonathan
 J. R. Taylor,Josh Billings
 J. R. Taylor,Simmons
@@ -55843,7 +55385,6 @@ J. R. Taylor,Payne
 J. R. Taylor,Blyden
 J. R. Taylor,Edmonia Lewis
 J. R. Taylor,Langston
-J. R. Taylor,Nathan
 J. R. Taylor,John Chinaman
 J. R. Taylor,John
 J. R. Taylor,Harper
@@ -56122,9 +55663,7 @@ N. W. Cuney,Bonaparte
 N. W. Cuney,Sherman
 N. W. Cuney,Barnum
 N. W. Cuney,Mo -- Deaths
-N. W. Cuney,M. D.
 N. W. Cuney,Wm. Stewart
-N. W. Cuney,N. J.
 N. W. Cuney,Jonathan
 N. W. Cuney,Josh Billings
 N. W. Cuney,Simmons
@@ -56132,7 +55671,6 @@ N. W. Cuney,Payne
 N. W. Cuney,Blyden
 N. W. Cuney,Edmonia Lewis
 N. W. Cuney,Langston
-N. W. Cuney,Nathan
 N. W. Cuney,John Chinaman
 N. W. Cuney,John
 N. W. Cuney,Harper
@@ -56410,9 +55948,7 @@ E. H. Anderson,Bonaparte
 E. H. Anderson,Sherman
 E. H. Anderson,Barnum
 E. H. Anderson,Mo -- Deaths
-E. H. Anderson,M. D.
 E. H. Anderson,Wm. Stewart
-E. H. Anderson,N. J.
 E. H. Anderson,Jonathan
 E. H. Anderson,Josh Billings
 E. H. Anderson,Simmons
@@ -56420,7 +55956,6 @@ E. H. Anderson,Payne
 E. H. Anderson,Blyden
 E. H. Anderson,Edmonia Lewis
 E. H. Anderson,Langston
-E. H. Anderson,Nathan
 E. H. Anderson,John Chinaman
 E. H. Anderson,John
 E. H. Anderson,Harper
@@ -56697,9 +56232,7 @@ R. A. Perkins,Bonaparte
 R. A. Perkins,Sherman
 R. A. Perkins,Barnum
 R. A. Perkins,Mo -- Deaths
-R. A. Perkins,M. D.
 R. A. Perkins,Wm. Stewart
-R. A. Perkins,N. J.
 R. A. Perkins,Jonathan
 R. A. Perkins,Josh Billings
 R. A. Perkins,Simmons
@@ -56707,7 +56240,6 @@ R. A. Perkins,Payne
 R. A. Perkins,Blyden
 R. A. Perkins,Edmonia Lewis
 R. A. Perkins,Langston
-R. A. Perkins,Nathan
 R. A. Perkins,John Chinaman
 R. A. Perkins,John
 R. A. Perkins,Harper
@@ -56983,9 +56515,7 @@ J. W. Cromwell,Bonaparte
 J. W. Cromwell,Sherman
 J. W. Cromwell,Barnum
 J. W. Cromwell,Mo -- Deaths
-J. W. Cromwell,M. D.
 J. W. Cromwell,Wm. Stewart
-J. W. Cromwell,N. J.
 J. W. Cromwell,Jonathan
 J. W. Cromwell,Josh Billings
 J. W. Cromwell,Simmons
@@ -56993,7 +56523,6 @@ J. W. Cromwell,Payne
 J. W. Cromwell,Blyden
 J. W. Cromwell,Edmonia Lewis
 J. W. Cromwell,Langston
-J. W. Cromwell,Nathan
 J. W. Cromwell,John Chinaman
 J. W. Cromwell,John
 J. W. Cromwell,Harper
@@ -57268,9 +56797,7 @@ John W. Averitt,Bonaparte
 John W. Averitt,Sherman
 John W. Averitt,Barnum
 John W. Averitt,Mo -- Deaths
-John W. Averitt,M. D.
 John W. Averitt,Wm. Stewart
-John W. Averitt,N. J.
 John W. Averitt,Jonathan
 John W. Averitt,Josh Billings
 John W. Averitt,Simmons
@@ -57278,7 +56805,6 @@ John W. Averitt,Payne
 John W. Averitt,Blyden
 John W. Averitt,Edmonia Lewis
 John W. Averitt,Langston
-John W. Averitt,Nathan
 John W. Averitt,John Chinaman
 John W. Averitt,John
 John W. Averitt,Harper
@@ -57552,9 +57078,7 @@ J. H. S. Parker,Bonaparte
 J. H. S. Parker,Sherman
 J. H. S. Parker,Barnum
 J. H. S. Parker,Mo -- Deaths
-J. H. S. Parker,M. D.
 J. H. S. Parker,Wm. Stewart
-J. H. S. Parker,N. J.
 J. H. S. Parker,Jonathan
 J. H. S. Parker,Josh Billings
 J. H. S. Parker,Simmons
@@ -57562,7 +57086,6 @@ J. H. S. Parker,Payne
 J. H. S. Parker,Blyden
 J. H. S. Parker,Edmonia Lewis
 J. H. S. Parker,Langston
-J. H. S. Parker,Nathan
 J. H. S. Parker,John Chinaman
 J. H. S. Parker,John
 J. H. S. Parker,Harper
@@ -57835,9 +57358,7 @@ G. W. Gentry,Bonaparte
 G. W. Gentry,Sherman
 G. W. Gentry,Barnum
 G. W. Gentry,Mo -- Deaths
-G. W. Gentry,M. D.
 G. W. Gentry,Wm. Stewart
-G. W. Gentry,N. J.
 G. W. Gentry,Jonathan
 G. W. Gentry,Josh Billings
 G. W. Gentry,Simmons
@@ -57845,7 +57366,6 @@ G. W. Gentry,Payne
 G. W. Gentry,Blyden
 G. W. Gentry,Edmonia Lewis
 G. W. Gentry,Langston
-G. W. Gentry,Nathan
 G. W. Gentry,John Chinaman
 G. W. Gentry,John
 G. W. Gentry,Harper
@@ -58117,9 +57637,7 @@ Williams,Bonaparte
 Williams,Sherman
 Williams,Barnum
 Williams,Mo -- Deaths
-Williams,M. D.
 Williams,Wm. Stewart
-Williams,N. J.
 Williams,Jonathan
 Williams,Josh Billings
 Williams,Simmons
@@ -58127,7 +57645,6 @@ Williams,Payne
 Williams,Blyden
 Williams,Edmonia Lewis
 Williams,Langston
-Williams,Nathan
 Williams,John Chinaman
 Williams,John
 Williams,Harper
@@ -58398,9 +57915,7 @@ Ex-Congressman Rainey,Bonaparte
 Ex-Congressman Rainey,Sherman
 Ex-Congressman Rainey,Barnum
 Ex-Congressman Rainey,Mo -- Deaths
-Ex-Congressman Rainey,M. D.
 Ex-Congressman Rainey,Wm. Stewart
-Ex-Congressman Rainey,N. J.
 Ex-Congressman Rainey,Jonathan
 Ex-Congressman Rainey,Josh Billings
 Ex-Congressman Rainey,Simmons
@@ -58408,7 +57923,6 @@ Ex-Congressman Rainey,Payne
 Ex-Congressman Rainey,Blyden
 Ex-Congressman Rainey,Edmonia Lewis
 Ex-Congressman Rainey,Langston
-Ex-Congressman Rainey,Nathan
 Ex-Congressman Rainey,John Chinaman
 Ex-Congressman Rainey,John
 Ex-Congressman Rainey,Harper
@@ -58678,9 +58192,7 @@ Daniel Wadkins,Bonaparte
 Daniel Wadkins,Sherman
 Daniel Wadkins,Barnum
 Daniel Wadkins,Mo -- Deaths
-Daniel Wadkins,M. D.
 Daniel Wadkins,Wm. Stewart
-Daniel Wadkins,N. J.
 Daniel Wadkins,Jonathan
 Daniel Wadkins,Josh Billings
 Daniel Wadkins,Simmons
@@ -58688,7 +58200,6 @@ Daniel Wadkins,Payne
 Daniel Wadkins,Blyden
 Daniel Wadkins,Edmonia Lewis
 Daniel Wadkins,Langston
-Daniel Wadkins,Nathan
 Daniel Wadkins,John Chinaman
 Daniel Wadkins,John
 Daniel Wadkins,Harper
@@ -58957,9 +58468,7 @@ M. H. Bentley,Bonaparte
 M. H. Bentley,Sherman
 M. H. Bentley,Barnum
 M. H. Bentley,Mo -- Deaths
-M. H. Bentley,M. D.
 M. H. Bentley,Wm. Stewart
-M. H. Bentley,N. J.
 M. H. Bentley,Jonathan
 M. H. Bentley,Josh Billings
 M. H. Bentley,Simmons
@@ -58967,7 +58476,6 @@ M. H. Bentley,Payne
 M. H. Bentley,Blyden
 M. H. Bentley,Edmonia Lewis
 M. H. Bentley,Langston
-M. H. Bentley,Nathan
 M. H. Bentley,John Chinaman
 M. H. Bentley,John
 M. H. Bentley,Harper
@@ -59235,9 +58743,7 @@ Jesus,Bonaparte
 Jesus,Sherman
 Jesus,Barnum
 Jesus,Mo -- Deaths
-Jesus,M. D.
 Jesus,Wm. Stewart
-Jesus,N. J.
 Jesus,Jonathan
 Jesus,Josh Billings
 Jesus,Simmons
@@ -59245,7 +58751,6 @@ Jesus,Payne
 Jesus,Blyden
 Jesus,Edmonia Lewis
 Jesus,Langston
-Jesus,Nathan
 Jesus,John Chinaman
 Jesus,John
 Jesus,Harper
@@ -59512,9 +59017,7 @@ Maggie Porter,Bonaparte
 Maggie Porter,Sherman
 Maggie Porter,Barnum
 Maggie Porter,Mo -- Deaths
-Maggie Porter,M. D.
 Maggie Porter,Wm. Stewart
-Maggie Porter,N. J.
 Maggie Porter,Jonathan
 Maggie Porter,Josh Billings
 Maggie Porter,Simmons
@@ -59522,7 +59025,6 @@ Maggie Porter,Payne
 Maggie Porter,Blyden
 Maggie Porter,Edmonia Lewis
 Maggie Porter,Langston
-Maggie Porter,Nathan
 Maggie Porter,John Chinaman
 Maggie Porter,John
 Maggie Porter,Harper
@@ -59788,9 +59290,7 @@ G. M. Gordon,Bonaparte
 G. M. Gordon,Sherman
 G. M. Gordon,Barnum
 G. M. Gordon,Mo -- Deaths
-G. M. Gordon,M. D.
 G. M. Gordon,Wm. Stewart
-G. M. Gordon,N. J.
 G. M. Gordon,Jonathan
 G. M. Gordon,Josh Billings
 G. M. Gordon,Simmons
@@ -59798,7 +59298,6 @@ G. M. Gordon,Payne
 G. M. Gordon,Blyden
 G. M. Gordon,Edmonia Lewis
 G. M. Gordon,Langston
-G. M. Gordon,Nathan
 G. M. Gordon,John Chinaman
 G. M. Gordon,John
 G. M. Gordon,Harper
@@ -60063,9 +59562,7 @@ H. D. Alexander,Bonaparte
 H. D. Alexander,Sherman
 H. D. Alexander,Barnum
 H. D. Alexander,Mo -- Deaths
-H. D. Alexander,M. D.
 H. D. Alexander,Wm. Stewart
-H. D. Alexander,N. J.
 H. D. Alexander,Jonathan
 H. D. Alexander,Josh Billings
 H. D. Alexander,Simmons
@@ -60073,7 +59570,6 @@ H. D. Alexander,Payne
 H. D. Alexander,Blyden
 H. D. Alexander,Edmonia Lewis
 H. D. Alexander,Langston
-H. D. Alexander,Nathan
 H. D. Alexander,John Chinaman
 H. D. Alexander,John
 H. D. Alexander,Harper
@@ -60337,9 +59833,7 @@ B. W. Thomas,Bonaparte
 B. W. Thomas,Sherman
 B. W. Thomas,Barnum
 B. W. Thomas,Mo -- Deaths
-B. W. Thomas,M. D.
 B. W. Thomas,Wm. Stewart
-B. W. Thomas,N. J.
 B. W. Thomas,Jonathan
 B. W. Thomas,Josh Billings
 B. W. Thomas,Simmons
@@ -60347,7 +59841,6 @@ B. W. Thomas,Payne
 B. W. Thomas,Blyden
 B. W. Thomas,Edmonia Lewis
 B. W. Thomas,Langston
-B. W. Thomas,Nathan
 B. W. Thomas,John Chinaman
 B. W. Thomas,John
 B. W. Thomas,Harper
@@ -60610,9 +60103,7 @@ Calvin Anderson,Bonaparte
 Calvin Anderson,Sherman
 Calvin Anderson,Barnum
 Calvin Anderson,Mo -- Deaths
-Calvin Anderson,M. D.
 Calvin Anderson,Wm. Stewart
-Calvin Anderson,N. J.
 Calvin Anderson,Jonathan
 Calvin Anderson,Josh Billings
 Calvin Anderson,Simmons
@@ -60620,7 +60111,6 @@ Calvin Anderson,Payne
 Calvin Anderson,Blyden
 Calvin Anderson,Edmonia Lewis
 Calvin Anderson,Langston
-Calvin Anderson,Nathan
 Calvin Anderson,John Chinaman
 Calvin Anderson,John
 Calvin Anderson,Harper
@@ -60882,9 +60372,7 @@ Rainey,Bonaparte
 Rainey,Sherman
 Rainey,Barnum
 Rainey,Mo -- Deaths
-Rainey,M. D.
 Rainey,Wm. Stewart
-Rainey,N. J.
 Rainey,Jonathan
 Rainey,Josh Billings
 Rainey,Simmons
@@ -60892,7 +60380,6 @@ Rainey,Payne
 Rainey,Blyden
 Rainey,Edmonia Lewis
 Rainey,Langston
-Rainey,Nathan
 Rainey,John Chinaman
 Rainey,John
 Rainey,Harper
@@ -61153,9 +60640,7 @@ Gooch,Bonaparte
 Gooch,Sherman
 Gooch,Barnum
 Gooch,Mo -- Deaths
-Gooch,M. D.
 Gooch,Wm. Stewart
-Gooch,N. J.
 Gooch,Jonathan
 Gooch,Josh Billings
 Gooch,Simmons
@@ -61163,7 +60648,6 @@ Gooch,Payne
 Gooch,Blyden
 Gooch,Edmonia Lewis
 Gooch,Langston
-Gooch,Nathan
 Gooch,John Chinaman
 Gooch,John
 Gooch,Harper
@@ -61423,9 +60907,7 @@ John Merry,Bonaparte
 John Merry,Sherman
 John Merry,Barnum
 John Merry,Mo -- Deaths
-John Merry,M. D.
 John Merry,Wm. Stewart
-John Merry,N. J.
 John Merry,Jonathan
 John Merry,Josh Billings
 John Merry,Simmons
@@ -61433,7 +60915,6 @@ John Merry,Payne
 John Merry,Blyden
 John Merry,Edmonia Lewis
 John Merry,Langston
-John Merry,Nathan
 John Merry,John Chinaman
 John Merry,John
 John Merry,Harper
@@ -61692,9 +61173,7 @@ Pledger,Bonaparte
 Pledger,Sherman
 Pledger,Barnum
 Pledger,Mo -- Deaths
-Pledger,M. D.
 Pledger,Wm. Stewart
-Pledger,N. J.
 Pledger,Jonathan
 Pledger,Josh Billings
 Pledger,Simmons
@@ -61702,7 +61181,6 @@ Pledger,Payne
 Pledger,Blyden
 Pledger,Edmonia Lewis
 Pledger,Langston
-Pledger,Nathan
 Pledger,John Chinaman
 Pledger,John
 Pledger,Harper
@@ -61960,9 +61438,7 @@ Cushing,Bonaparte
 Cushing,Sherman
 Cushing,Barnum
 Cushing,Mo -- Deaths
-Cushing,M. D.
 Cushing,Wm. Stewart
-Cushing,N. J.
 Cushing,Jonathan
 Cushing,Josh Billings
 Cushing,Simmons
@@ -61970,7 +61446,6 @@ Cushing,Payne
 Cushing,Blyden
 Cushing,Edmonia Lewis
 Cushing,Langston
-Cushing,Nathan
 Cushing,John Chinaman
 Cushing,John
 Cushing,Harper
@@ -62227,9 +61702,7 @@ James T. Rapier,Bonaparte
 James T. Rapier,Sherman
 James T. Rapier,Barnum
 James T. Rapier,Mo -- Deaths
-James T. Rapier,M. D.
 James T. Rapier,Wm. Stewart
-James T. Rapier,N. J.
 James T. Rapier,Jonathan
 James T. Rapier,Josh Billings
 James T. Rapier,Simmons
@@ -62237,7 +61710,6 @@ James T. Rapier,Payne
 James T. Rapier,Blyden
 James T. Rapier,Edmonia Lewis
 James T. Rapier,Langston
-James T. Rapier,Nathan
 James T. Rapier,John Chinaman
 James T. Rapier,John
 James T. Rapier,Harper
@@ -62493,9 +61965,7 @@ P. J. Crenshaw,Bonaparte
 P. J. Crenshaw,Sherman
 P. J. Crenshaw,Barnum
 P. J. Crenshaw,Mo -- Deaths
-P. J. Crenshaw,M. D.
 P. J. Crenshaw,Wm. Stewart
-P. J. Crenshaw,N. J.
 P. J. Crenshaw,Jonathan
 P. J. Crenshaw,Josh Billings
 P. J. Crenshaw,Simmons
@@ -62503,7 +61973,6 @@ P. J. Crenshaw,Payne
 P. J. Crenshaw,Blyden
 P. J. Crenshaw,Edmonia Lewis
 P. J. Crenshaw,Langston
-P. J. Crenshaw,Nathan
 P. J. Crenshaw,John Chinaman
 P. J. Crenshaw,John
 P. J. Crenshaw,Harper
@@ -62758,9 +62227,7 @@ W. H. Mcalpin,Bonaparte
 W. H. Mcalpin,Sherman
 W. H. Mcalpin,Barnum
 W. H. Mcalpin,Mo -- Deaths
-W. H. Mcalpin,M. D.
 W. H. Mcalpin,Wm. Stewart
-W. H. Mcalpin,N. J.
 W. H. Mcalpin,Jonathan
 W. H. Mcalpin,Josh Billings
 W. H. Mcalpin,Simmons
@@ -62768,7 +62235,6 @@ W. H. Mcalpin,Payne
 W. H. Mcalpin,Blyden
 W. H. Mcalpin,Edmonia Lewis
 W. H. Mcalpin,Langston
-W. H. Mcalpin,Nathan
 W. H. Mcalpin,John Chinaman
 W. H. Mcalpin,John
 W. H. Mcalpin,Harper
@@ -63022,9 +62488,7 @@ W. H. Council,Bonaparte
 W. H. Council,Sherman
 W. H. Council,Barnum
 W. H. Council,Mo -- Deaths
-W. H. Council,M. D.
 W. H. Council,Wm. Stewart
-W. H. Council,N. J.
 W. H. Council,Jonathan
 W. H. Council,Josh Billings
 W. H. Council,Simmons
@@ -63032,7 +62496,6 @@ W. H. Council,Payne
 W. H. Council,Blyden
 W. H. Council,Edmonia Lewis
 W. H. Council,Langston
-W. H. Council,Nathan
 W. H. Council,John Chinaman
 W. H. Council,John
 W. H. Council,Harper
@@ -63285,9 +62748,7 @@ George M. Perkins,Bonaparte
 George M. Perkins,Sherman
 George M. Perkins,Barnum
 George M. Perkins,Mo -- Deaths
-George M. Perkins,M. D.
 George M. Perkins,Wm. Stewart
-George M. Perkins,N. J.
 George M. Perkins,Jonathan
 George M. Perkins,Josh Billings
 George M. Perkins,Simmons
@@ -63295,7 +62756,6 @@ George M. Perkins,Payne
 George M. Perkins,Blyden
 George M. Perkins,Edmonia Lewis
 George M. Perkins,Langston
-George M. Perkins,Nathan
 George M. Perkins,John Chinaman
 George M. Perkins,John
 George M. Perkins,Harper
@@ -63547,9 +63007,7 @@ Taylor Miller,Bonaparte
 Taylor Miller,Sherman
 Taylor Miller,Barnum
 Taylor Miller,Mo -- Deaths
-Taylor Miller,M. D.
 Taylor Miller,Wm. Stewart
-Taylor Miller,N. J.
 Taylor Miller,Jonathan
 Taylor Miller,Josh Billings
 Taylor Miller,Simmons
@@ -63557,7 +63015,6 @@ Taylor Miller,Payne
 Taylor Miller,Blyden
 Taylor Miller,Edmonia Lewis
 Taylor Miller,Langston
-Taylor Miller,Nathan
 Taylor Miller,John Chinaman
 Taylor Miller,John
 Taylor Miller,Harper
@@ -63808,9 +63265,7 @@ J. H. Hopkins,Bonaparte
 J. H. Hopkins,Sherman
 J. H. Hopkins,Barnum
 J. H. Hopkins,Mo -- Deaths
-J. H. Hopkins,M. D.
 J. H. Hopkins,Wm. Stewart
-J. H. Hopkins,N. J.
 J. H. Hopkins,Jonathan
 J. H. Hopkins,Josh Billings
 J. H. Hopkins,Simmons
@@ -63818,7 +63273,6 @@ J. H. Hopkins,Payne
 J. H. Hopkins,Blyden
 J. H. Hopkins,Edmonia Lewis
 J. H. Hopkins,Langston
-J. H. Hopkins,Nathan
 J. H. Hopkins,John Chinaman
 J. H. Hopkins,John
 J. H. Hopkins,Harper
@@ -64068,9 +63522,7 @@ A. T. Augusta,Bonaparte
 A. T. Augusta,Sherman
 A. T. Augusta,Barnum
 A. T. Augusta,Mo -- Deaths
-A. T. Augusta,M. D.
 A. T. Augusta,Wm. Stewart
-A. T. Augusta,N. J.
 A. T. Augusta,Jonathan
 A. T. Augusta,Josh Billings
 A. T. Augusta,Simmons
@@ -64078,7 +63530,6 @@ A. T. Augusta,Payne
 A. T. Augusta,Blyden
 A. T. Augusta,Edmonia Lewis
 A. T. Augusta,Langston
-A. T. Augusta,Nathan
 A. T. Augusta,John Chinaman
 A. T. Augusta,John
 A. T. Augusta,Harper
@@ -64327,9 +63778,7 @@ Augusta,Bonaparte
 Augusta,Sherman
 Augusta,Barnum
 Augusta,Mo -- Deaths
-Augusta,M. D.
 Augusta,Wm. Stewart
-Augusta,N. J.
 Augusta,Jonathan
 Augusta,Josh Billings
 Augusta,Simmons
@@ -64337,7 +63786,6 @@ Augusta,Payne
 Augusta,Blyden
 Augusta,Edmonia Lewis
 Augusta,Langston
-Augusta,Nathan
 Augusta,John Chinaman
 Augusta,John
 Augusta,Harper
@@ -64585,9 +64033,7 @@ Cromwell,Bonaparte
 Cromwell,Sherman
 Cromwell,Barnum
 Cromwell,Mo -- Deaths
-Cromwell,M. D.
 Cromwell,Wm. Stewart
-Cromwell,N. J.
 Cromwell,Jonathan
 Cromwell,Josh Billings
 Cromwell,Simmons
@@ -64595,7 +64041,6 @@ Cromwell,Payne
 Cromwell,Blyden
 Cromwell,Edmonia Lewis
 Cromwell,Langston
-Cromwell,Nathan
 Cromwell,John Chinaman
 Cromwell,John
 Cromwell,Harper
@@ -64842,9 +64287,7 @@ J. C. Corbin,Bonaparte
 J. C. Corbin,Sherman
 J. C. Corbin,Barnum
 J. C. Corbin,Mo -- Deaths
-J. C. Corbin,M. D.
 J. C. Corbin,Wm. Stewart
-J. C. Corbin,N. J.
 J. C. Corbin,Jonathan
 J. C. Corbin,Josh Billings
 J. C. Corbin,Simmons
@@ -64852,7 +64295,6 @@ J. C. Corbin,Payne
 J. C. Corbin,Blyden
 J. C. Corbin,Edmonia Lewis
 J. C. Corbin,Langston
-J. C. Corbin,Nathan
 J. C. Corbin,John Chinaman
 J. C. Corbin,John
 J. C. Corbin,Harper
@@ -65098,9 +64540,7 @@ M. W. Gibbs,Bonaparte
 M. W. Gibbs,Sherman
 M. W. Gibbs,Barnum
 M. W. Gibbs,Mo -- Deaths
-M. W. Gibbs,M. D.
 M. W. Gibbs,Wm. Stewart
-M. W. Gibbs,N. J.
 M. W. Gibbs,Jonathan
 M. W. Gibbs,Josh Billings
 M. W. Gibbs,Simmons
@@ -65108,7 +64548,6 @@ M. W. Gibbs,Payne
 M. W. Gibbs,Blyden
 M. W. Gibbs,Edmonia Lewis
 M. W. Gibbs,Langston
-M. W. Gibbs,Nathan
 M. W. Gibbs,John Chinaman
 M. W. Gibbs,John
 M. W. Gibbs,Harper
@@ -65353,9 +64792,7 @@ W. H. Ashe,Bonaparte
 W. H. Ashe,Sherman
 W. H. Ashe,Barnum
 W. H. Ashe,Mo -- Deaths
-W. H. Ashe,M. D.
 W. H. Ashe,Wm. Stewart
-W. H. Ashe,N. J.
 W. H. Ashe,Jonathan
 W. H. Ashe,Josh Billings
 W. H. Ashe,Simmons
@@ -65363,7 +64800,6 @@ W. H. Ashe,Payne
 W. H. Ashe,Blyden
 W. H. Ashe,Edmonia Lewis
 W. H. Ashe,Langston
-W. H. Ashe,Nathan
 W. H. Ashe,John Chinaman
 W. H. Ashe,John
 W. H. Ashe,Harper
@@ -65607,9 +65043,7 @@ William Still,Bonaparte
 William Still,Sherman
 William Still,Barnum
 William Still,Mo -- Deaths
-William Still,M. D.
 William Still,Wm. Stewart
-William Still,N. J.
 William Still,Jonathan
 William Still,Josh Billings
 William Still,Simmons
@@ -65617,7 +65051,6 @@ William Still,Payne
 William Still,Blyden
 William Still,Edmonia Lewis
 William Still,Langston
-William Still,Nathan
 William Still,John Chinaman
 William Still,John
 William Still,Harper
@@ -65860,9 +65293,7 @@ T.W. Henderson,Bonaparte
 T.W. Henderson,Sherman
 T.W. Henderson,Barnum
 T.W. Henderson,Mo -- Deaths
-T.W. Henderson,M. D.
 T.W. Henderson,Wm. Stewart
-T.W. Henderson,N. J.
 T.W. Henderson,Jonathan
 T.W. Henderson,Josh Billings
 T.W. Henderson,Simmons
@@ -65870,7 +65301,6 @@ T.W. Henderson,Payne
 T.W. Henderson,Blyden
 T.W. Henderson,Edmonia Lewis
 T.W. Henderson,Langston
-T.W. Henderson,Nathan
 T.W. Henderson,John Chinaman
 T.W. Henderson,John
 T.W. Henderson,Harper
@@ -66112,9 +65542,7 @@ H. C. Binford,Bonaparte
 H. C. Binford,Sherman
 H. C. Binford,Barnum
 H. C. Binford,Mo -- Deaths
-H. C. Binford,M. D.
 H. C. Binford,Wm. Stewart
-H. C. Binford,N. J.
 H. C. Binford,Jonathan
 H. C. Binford,Josh Billings
 H. C. Binford,Simmons
@@ -66122,7 +65550,6 @@ H. C. Binford,Payne
 H. C. Binford,Blyden
 H. C. Binford,Edmonia Lewis
 H. C. Binford,Langston
-H. C. Binford,Nathan
 H. C. Binford,John Chinaman
 H. C. Binford,John
 H. C. Binford,Harper
@@ -66363,9 +65790,7 @@ T. H. Green,Bonaparte
 T. H. Green,Sherman
 T. H. Green,Barnum
 T. H. Green,Mo -- Deaths
-T. H. Green,M. D.
 T. H. Green,Wm. Stewart
-T. H. Green,N. J.
 T. H. Green,Jonathan
 T. H. Green,Josh Billings
 T. H. Green,Simmons
@@ -66373,7 +65798,6 @@ T. H. Green,Payne
 T. H. Green,Blyden
 T. H. Green,Edmonia Lewis
 T. H. Green,Langston
-T. H. Green,Nathan
 T. H. Green,John Chinaman
 T. H. Green,John
 T. H. Green,Harper
@@ -66613,9 +66037,7 @@ W. H. Nichol,Bonaparte
 W. H. Nichol,Sherman
 W. H. Nichol,Barnum
 W. H. Nichol,Mo -- Deaths
-W. H. Nichol,M. D.
 W. H. Nichol,Wm. Stewart
-W. H. Nichol,N. J.
 W. H. Nichol,Jonathan
 W. H. Nichol,Josh Billings
 W. H. Nichol,Simmons
@@ -66623,7 +66045,6 @@ W. H. Nichol,Payne
 W. H. Nichol,Blyden
 W. H. Nichol,Edmonia Lewis
 W. H. Nichol,Langston
-W. H. Nichol,Nathan
 W. H. Nichol,John Chinaman
 W. H. Nichol,John
 W. H. Nichol,Harper
@@ -66862,9 +66283,7 @@ John J. Bird,Bonaparte
 John J. Bird,Sherman
 John J. Bird,Barnum
 John J. Bird,Mo -- Deaths
-John J. Bird,M. D.
 John J. Bird,Wm. Stewart
-John J. Bird,N. J.
 John J. Bird,Jonathan
 John J. Bird,Josh Billings
 John J. Bird,Simmons
@@ -66872,7 +66291,6 @@ John J. Bird,Payne
 John J. Bird,Blyden
 John J. Bird,Edmonia Lewis
 John J. Bird,Langston
-John J. Bird,Nathan
 John J. Bird,John Chinaman
 John J. Bird,John
 John J. Bird,Harper
@@ -67110,9 +66528,7 @@ Louis T. Kenner,Bonaparte
 Louis T. Kenner,Sherman
 Louis T. Kenner,Barnum
 Louis T. Kenner,Mo -- Deaths
-Louis T. Kenner,M. D.
 Louis T. Kenner,Wm. Stewart
-Louis T. Kenner,N. J.
 Louis T. Kenner,Jonathan
 Louis T. Kenner,Josh Billings
 Louis T. Kenner,Simmons
@@ -67120,7 +66536,6 @@ Louis T. Kenner,Payne
 Louis T. Kenner,Blyden
 Louis T. Kenner,Edmonia Lewis
 Louis T. Kenner,Langston
-Louis T. Kenner,Nathan
 Louis T. Kenner,John Chinaman
 Louis T. Kenner,John
 Louis T. Kenner,Harper
@@ -67357,9 +66772,7 @@ Perkins,Bonaparte
 Perkins,Sherman
 Perkins,Barnum
 Perkins,Mo -- Deaths
-Perkins,M. D.
 Perkins,Wm. Stewart
-Perkins,N. J.
 Perkins,Jonathan
 Perkins,Josh Billings
 Perkins,Simmons
@@ -67367,7 +66780,6 @@ Perkins,Payne
 Perkins,Blyden
 Perkins,Edmonia Lewis
 Perkins,Langston
-Perkins,Nathan
 Perkins,John Chinaman
 Perkins,John
 Perkins,Harper
@@ -67603,9 +67015,7 @@ W. H. Mcalpine,Bonaparte
 W. H. Mcalpine,Sherman
 W. H. Mcalpine,Barnum
 W. H. Mcalpine,Mo -- Deaths
-W. H. Mcalpine,M. D.
 W. H. Mcalpine,Wm. Stewart
-W. H. Mcalpine,N. J.
 W. H. Mcalpine,Jonathan
 W. H. Mcalpine,Josh Billings
 W. H. Mcalpine,Simmons
@@ -67613,7 +67023,6 @@ W. H. Mcalpine,Payne
 W. H. Mcalpine,Blyden
 W. H. Mcalpine,Edmonia Lewis
 W. H. Mcalpine,Langston
-W. H. Mcalpine,Nathan
 W. H. Mcalpine,John Chinaman
 W. H. Mcalpine,John
 W. H. Mcalpine,Harper
@@ -67848,9 +67257,7 @@ J. H. Bufford,Bonaparte
 J. H. Bufford,Sherman
 J. H. Bufford,Barnum
 J. H. Bufford,Mo -- Deaths
-J. H. Bufford,M. D.
 J. H. Bufford,Wm. Stewart
-J. H. Bufford,N. J.
 J. H. Bufford,Jonathan
 J. H. Bufford,Josh Billings
 J. H. Bufford,Simmons
@@ -67858,7 +67265,6 @@ J. H. Bufford,Payne
 J. H. Bufford,Blyden
 J. H. Bufford,Edmonia Lewis
 J. H. Bufford,Langston
-J. H. Bufford,Nathan
 J. H. Bufford,John Chinaman
 J. H. Bufford,John
 J. H. Bufford,Harper
@@ -68092,9 +67498,7 @@ J. F. C. Snowden,Bonaparte
 J. F. C. Snowden,Sherman
 J. F. C. Snowden,Barnum
 J. F. C. Snowden,Mo -- Deaths
-J. F. C. Snowden,M. D.
 J. F. C. Snowden,Wm. Stewart
-J. F. C. Snowden,N. J.
 J. F. C. Snowden,Jonathan
 J. F. C. Snowden,Josh Billings
 J. F. C. Snowden,Simmons
@@ -68102,7 +67506,6 @@ J. F. C. Snowden,Payne
 J. F. C. Snowden,Blyden
 J. F. C. Snowden,Edmonia Lewis
 J. F. C. Snowden,Langston
-J. F. C. Snowden,Nathan
 J. F. C. Snowden,John Chinaman
 J. F. C. Snowden,John
 J. F. C. Snowden,Harper
@@ -68335,9 +67738,7 @@ C. A. Bourgeois,Bonaparte
 C. A. Bourgeois,Sherman
 C. A. Bourgeois,Barnum
 C. A. Bourgeois,Mo -- Deaths
-C. A. Bourgeois,M. D.
 C. A. Bourgeois,Wm. Stewart
-C. A. Bourgeois,N. J.
 C. A. Bourgeois,Jonathan
 C. A. Bourgeois,Josh Billings
 C. A. Bourgeois,Simmons
@@ -68345,7 +67746,6 @@ C. A. Bourgeois,Payne
 C. A. Bourgeois,Blyden
 C. A. Bourgeois,Edmonia Lewis
 C. A. Bourgeois,Langston
-C. A. Bourgeois,Nathan
 C. A. Bourgeois,John Chinaman
 C. A. Bourgeois,John
 C. A. Bourgeois,Harper
@@ -68577,9 +67977,7 @@ W. R. Lawton,Bonaparte
 W. R. Lawton,Sherman
 W. R. Lawton,Barnum
 W. R. Lawton,Mo -- Deaths
-W. R. Lawton,M. D.
 W. R. Lawton,Wm. Stewart
-W. R. Lawton,N. J.
 W. R. Lawton,Jonathan
 W. R. Lawton,Josh Billings
 W. R. Lawton,Simmons
@@ -68587,7 +67985,6 @@ W. R. Lawton,Payne
 W. R. Lawton,Blyden
 W. R. Lawton,Edmonia Lewis
 W. R. Lawton,Langston
-W. R. Lawton,Nathan
 W. R. Lawton,John Chinaman
 W. R. Lawton,John
 W. R. Lawton,Harper
@@ -68818,9 +68215,7 @@ J. H. Delamotte,Bonaparte
 J. H. Delamotte,Sherman
 J. H. Delamotte,Barnum
 J. H. Delamotte,Mo -- Deaths
-J. H. Delamotte,M. D.
 J. H. Delamotte,Wm. Stewart
-J. H. Delamotte,N. J.
 J. H. Delamotte,Jonathan
 J. H. Delamotte,Josh Billings
 J. H. Delamotte,Simmons
@@ -68828,7 +68223,6 @@ J. H. Delamotte,Payne
 J. H. Delamotte,Blyden
 J. H. Delamotte,Edmonia Lewis
 J. H. Delamotte,Langston
-J. H. Delamotte,Nathan
 J. H. Delamotte,John Chinaman
 J. H. Delamotte,John
 J. H. Delamotte,Harper
@@ -69058,9 +68452,7 @@ Harlan,Bonaparte
 Harlan,Sherman
 Harlan,Barnum
 Harlan,Mo -- Deaths
-Harlan,M. D.
 Harlan,Wm. Stewart
-Harlan,N. J.
 Harlan,Jonathan
 Harlan,Josh Billings
 Harlan,Simmons
@@ -69068,7 +68460,6 @@ Harlan,Payne
 Harlan,Blyden
 Harlan,Edmonia Lewis
 Harlan,Langston
-Harlan,Nathan
 Harlan,John Chinaman
 Harlan,John
 Harlan,Harper
@@ -69297,9 +68688,7 @@ William H. Miles,Bonaparte
 William H. Miles,Sherman
 William H. Miles,Barnum
 William H. Miles,Mo -- Deaths
-William H. Miles,M. D.
 William H. Miles,Wm. Stewart
-William H. Miles,N. J.
 William H. Miles,Jonathan
 William H. Miles,Josh Billings
 William H. Miles,Simmons
@@ -69307,7 +68696,6 @@ William H. Miles,Payne
 William H. Miles,Blyden
 William H. Miles,Edmonia Lewis
 William H. Miles,Langston
-William H. Miles,Nathan
 William H. Miles,John Chinaman
 William H. Miles,John
 William H. Miles,Harper
@@ -69535,9 +68923,7 @@ D. Kennedy,Bonaparte
 D. Kennedy,Sherman
 D. Kennedy,Barnum
 D. Kennedy,Mo -- Deaths
-D. Kennedy,M. D.
 D. Kennedy,Wm. Stewart
-D. Kennedy,N. J.
 D. Kennedy,Jonathan
 D. Kennedy,Josh Billings
 D. Kennedy,Simmons
@@ -69545,7 +68931,6 @@ D. Kennedy,Payne
 D. Kennedy,Blyden
 D. Kennedy,Edmonia Lewis
 D. Kennedy,Langston
-D. Kennedy,Nathan
 D. Kennedy,John Chinaman
 D. Kennedy,John
 D. Kennedy,Harper
@@ -69772,9 +69157,7 @@ W. James,Bonaparte
 W. James,Sherman
 W. James,Barnum
 W. James,Mo -- Deaths
-W. James,M. D.
 W. James,Wm. Stewart
-W. James,N. J.
 W. James,Jonathan
 W. James,Josh Billings
 W. James,Simmons
@@ -69782,7 +69165,6 @@ W. James,Payne
 W. James,Blyden
 W. James,Edmonia Lewis
 W. James,Langston
-W. James,Nathan
 W. James,John Chinaman
 W. James,John
 W. James,Harper
@@ -70008,9 +69390,7 @@ S. E Hardy,Bonaparte
 S. E Hardy,Sherman
 S. E Hardy,Barnum
 S. E Hardy,Mo -- Deaths
-S. E Hardy,M. D.
 S. E Hardy,Wm. Stewart
-S. E Hardy,N. J.
 S. E Hardy,Jonathan
 S. E Hardy,Josh Billings
 S. E Hardy,Simmons
@@ -70018,7 +69398,6 @@ S. E Hardy,Payne
 S. E Hardy,Blyden
 S. E Hardy,Edmonia Lewis
 S. E Hardy,Langston
-S. E Hardy,Nathan
 S. E Hardy,John Chinaman
 S. E Hardy,John
 S. E Hardy,Harper
@@ -70243,9 +69622,7 @@ J. T. Rapier,Bonaparte
 J. T. Rapier,Sherman
 J. T. Rapier,Barnum
 J. T. Rapier,Mo -- Deaths
-J. T. Rapier,M. D.
 J. T. Rapier,Wm. Stewart
-J. T. Rapier,N. J.
 J. T. Rapier,Jonathan
 J. T. Rapier,Josh Billings
 J. T. Rapier,Simmons
@@ -70253,7 +69630,6 @@ J. T. Rapier,Payne
 J. T. Rapier,Blyden
 J. T. Rapier,Edmonia Lewis
 J. T. Rapier,Langston
-J. T. Rapier,Nathan
 J. T. Rapier,John Chinaman
 J. T. Rapier,John
 J. T. Rapier,Harper
@@ -70477,9 +69853,7 @@ George W. Perkins,Bonaparte
 George W. Perkins,Sherman
 George W. Perkins,Barnum
 George W. Perkins,Mo -- Deaths
-George W. Perkins,M. D.
 George W. Perkins,Wm. Stewart
-George W. Perkins,N. J.
 George W. Perkins,Jonathan
 George W. Perkins,Josh Billings
 George W. Perkins,Simmons
@@ -70487,7 +69861,6 @@ George W. Perkins,Payne
 George W. Perkins,Blyden
 George W. Perkins,Edmonia Lewis
 George W. Perkins,Langston
-George W. Perkins,Nathan
 George W. Perkins,John Chinaman
 George W. Perkins,John
 George W. Perkins,Harper
@@ -70710,9 +70083,7 @@ John Averitt,Bonaparte
 John Averitt,Sherman
 John Averitt,Barnum
 John Averitt,Mo -- Deaths
-John Averitt,M. D.
 John Averitt,Wm. Stewart
-John Averitt,N. J.
 John Averitt,Jonathan
 John Averitt,Josh Billings
 John Averitt,Simmons
@@ -70720,7 +70091,6 @@ John Averitt,Payne
 John Averitt,Blyden
 John Averitt,Edmonia Lewis
 John Averitt,Langston
-John Averitt,Nathan
 John Averitt,John Chinaman
 John Averitt,John
 John Averitt,Harper
@@ -70942,9 +70312,7 @@ M. G. Champlin,Bonaparte
 M. G. Champlin,Sherman
 M. G. Champlin,Barnum
 M. G. Champlin,Mo -- Deaths
-M. G. Champlin,M. D.
 M. G. Champlin,Wm. Stewart
-M. G. Champlin,N. J.
 M. G. Champlin,Jonathan
 M. G. Champlin,Josh Billings
 M. G. Champlin,Simmons
@@ -70952,7 +70320,6 @@ M. G. Champlin,Payne
 M. G. Champlin,Blyden
 M. G. Champlin,Edmonia Lewis
 M. G. Champlin,Langston
-M. G. Champlin,Nathan
 M. G. Champlin,John Chinaman
 M. G. Champlin,John
 M. G. Champlin,Harper
@@ -71173,9 +70540,7 @@ James N. Hayne,Bonaparte
 James N. Hayne,Sherman
 James N. Hayne,Barnum
 James N. Hayne,Mo -- Deaths
-James N. Hayne,M. D.
 James N. Hayne,Wm. Stewart
-James N. Hayne,N. J.
 James N. Hayne,Jonathan
 James N. Hayne,Josh Billings
 James N. Hayne,Simmons
@@ -71183,7 +70548,6 @@ James N. Hayne,Payne
 James N. Hayne,Blyden
 James N. Hayne,Edmonia Lewis
 James N. Hayne,Langston
-James N. Hayne,Nathan
 James N. Hayne,John Chinaman
 James N. Hayne,John
 James N. Hayne,Harper
@@ -71403,9 +70767,7 @@ H. Burrus,Bonaparte
 H. Burrus,Sherman
 H. Burrus,Barnum
 H. Burrus,Mo -- Deaths
-H. Burrus,M. D.
 H. Burrus,Wm. Stewart
-H. Burrus,N. J.
 H. Burrus,Jonathan
 H. Burrus,Josh Billings
 H. Burrus,Simmons
@@ -71413,7 +70775,6 @@ H. Burrus,Payne
 H. Burrus,Blyden
 H. Burrus,Edmonia Lewis
 H. Burrus,Langston
-H. Burrus,Nathan
 H. Burrus,John Chinaman
 H. Burrus,John
 H. Burrus,Harper
@@ -71632,9 +70993,7 @@ J. D. Kennedy,Bonaparte
 J. D. Kennedy,Sherman
 J. D. Kennedy,Barnum
 J. D. Kennedy,Mo -- Deaths
-J. D. Kennedy,M. D.
 J. D. Kennedy,Wm. Stewart
-J. D. Kennedy,N. J.
 J. D. Kennedy,Jonathan
 J. D. Kennedy,Josh Billings
 J. D. Kennedy,Simmons
@@ -71642,7 +71001,6 @@ J. D. Kennedy,Payne
 J. D. Kennedy,Blyden
 J. D. Kennedy,Edmonia Lewis
 J. D. Kennedy,Langston
-J. D. Kennedy,Nathan
 J. D. Kennedy,John Chinaman
 J. D. Kennedy,John
 J. D. Kennedy,Harper
@@ -71860,9 +71218,7 @@ R. Allen,Bonaparte
 R. Allen,Sherman
 R. Allen,Barnum
 R. Allen,Mo -- Deaths
-R. Allen,M. D.
 R. Allen,Wm. Stewart
-R. Allen,N. J.
 R. Allen,Jonathan
 R. Allen,Josh Billings
 R. Allen,Simmons
@@ -71870,7 +71226,6 @@ R. Allen,Payne
 R. Allen,Blyden
 R. Allen,Edmonia Lewis
 R. Allen,Langston
-R. Allen,Nathan
 R. Allen,John Chinaman
 R. Allen,John
 R. Allen,Harper
@@ -72087,9 +71442,7 @@ Thomas,Bonaparte
 Thomas,Sherman
 Thomas,Barnum
 Thomas,Mo -- Deaths
-Thomas,M. D.
 Thomas,Wm. Stewart
-Thomas,N. J.
 Thomas,Jonathan
 Thomas,Josh Billings
 Thomas,Simmons
@@ -72097,7 +71450,6 @@ Thomas,Payne
 Thomas,Blyden
 Thomas,Edmonia Lewis
 Thomas,Langston
-Thomas,Nathan
 Thomas,John Chinaman
 Thomas,John
 Thomas,Harper
@@ -72313,9 +71665,7 @@ Stewart,Bonaparte
 Stewart,Sherman
 Stewart,Barnum
 Stewart,Mo -- Deaths
-Stewart,M. D.
 Stewart,Wm. Stewart
-Stewart,N. J.
 Stewart,Jonathan
 Stewart,Josh Billings
 Stewart,Simmons
@@ -72323,7 +71673,6 @@ Stewart,Payne
 Stewart,Blyden
 Stewart,Edmonia Lewis
 Stewart,Langston
-Stewart,Nathan
 Stewart,John Chinaman
 Stewart,John
 Stewart,Harper
@@ -72538,9 +71887,7 @@ G. H. Shaffer,Bonaparte
 G. H. Shaffer,Sherman
 G. H. Shaffer,Barnum
 G. H. Shaffer,Mo -- Deaths
-G. H. Shaffer,M. D.
 G. H. Shaffer,Wm. Stewart
-G. H. Shaffer,N. J.
 G. H. Shaffer,Jonathan
 G. H. Shaffer,Josh Billings
 G. H. Shaffer,Simmons
@@ -72548,7 +71895,6 @@ G. H. Shaffer,Payne
 G. H. Shaffer,Blyden
 G. H. Shaffer,Edmonia Lewis
 G. H. Shaffer,Langston
-G. H. Shaffer,Nathan
 G. H. Shaffer,John Chinaman
 G. H. Shaffer,John
 G. H. Shaffer,Harper
@@ -72762,9 +72108,7 @@ Windom,Bonaparte
 Windom,Sherman
 Windom,Barnum
 Windom,Mo -- Deaths
-Windom,M. D.
 Windom,Wm. Stewart
-Windom,N. J.
 Windom,Jonathan
 Windom,Josh Billings
 Windom,Simmons
@@ -72772,7 +72116,6 @@ Windom,Payne
 Windom,Blyden
 Windom,Edmonia Lewis
 Windom,Langston
-Windom,Nathan
 Windom,John Chinaman
 Windom,John
 Windom,Harper
@@ -72985,9 +72328,7 @@ U. S. Grant,Bonaparte
 U. S. Grant,Sherman
 U. S. Grant,Barnum
 U. S. Grant,Mo -- Deaths
-U. S. Grant,M. D.
 U. S. Grant,Wm. Stewart
-U. S. Grant,N. J.
 U. S. Grant,Jonathan
 U. S. Grant,Josh Billings
 U. S. Grant,Simmons
@@ -72995,7 +72336,6 @@ U. S. Grant,Payne
 U. S. Grant,Blyden
 U. S. Grant,Edmonia Lewis
 U. S. Grant,Langston
-U. S. Grant,Nathan
 U. S. Grant,John Chinaman
 U. S. Grant,John
 U. S. Grant,Harper
@@ -73207,9 +72547,7 @@ P. C. Murphy,Bonaparte
 P. C. Murphy,Sherman
 P. C. Murphy,Barnum
 P. C. Murphy,Mo -- Deaths
-P. C. Murphy,M. D.
 P. C. Murphy,Wm. Stewart
-P. C. Murphy,N. J.
 P. C. Murphy,Jonathan
 P. C. Murphy,Josh Billings
 P. C. Murphy,Simmons
@@ -73217,7 +72555,6 @@ P. C. Murphy,Payne
 P. C. Murphy,Blyden
 P. C. Murphy,Edmonia Lewis
 P. C. Murphy,Langston
-P. C. Murphy,Nathan
 P. C. Murphy,John Chinaman
 P. C. Murphy,John
 P. C. Murphy,Harper
@@ -73428,9 +72765,7 @@ Burrus,Bonaparte
 Burrus,Sherman
 Burrus,Barnum
 Burrus,Mo -- Deaths
-Burrus,M. D.
 Burrus,Wm. Stewart
-Burrus,N. J.
 Burrus,Jonathan
 Burrus,Josh Billings
 Burrus,Simmons
@@ -73438,7 +72773,6 @@ Burrus,Payne
 Burrus,Blyden
 Burrus,Edmonia Lewis
 Burrus,Langston
-Burrus,Nathan
 Burrus,John Chinaman
 Burrus,John
 Burrus,Harper
@@ -73648,9 +72982,7 @@ Bird,Bonaparte
 Bird,Sherman
 Bird,Barnum
 Bird,Mo -- Deaths
-Bird,M. D.
 Bird,Wm. Stewart
-Bird,N. J.
 Bird,Jonathan
 Bird,Josh Billings
 Bird,Simmons
@@ -73658,7 +72990,6 @@ Bird,Payne
 Bird,Blyden
 Bird,Edmonia Lewis
 Bird,Langston
-Bird,Nathan
 Bird,John Chinaman
 Bird,John
 Bird,Harper
@@ -73867,9 +73198,7 @@ J. H. Rapier,Bonaparte
 J. H. Rapier,Sherman
 J. H. Rapier,Barnum
 J. H. Rapier,Mo -- Deaths
-J. H. Rapier,M. D.
 J. H. Rapier,Wm. Stewart
-J. H. Rapier,N. J.
 J. H. Rapier,Jonathan
 J. H. Rapier,Josh Billings
 J. H. Rapier,Simmons
@@ -73877,7 +73206,6 @@ J. H. Rapier,Payne
 J. H. Rapier,Blyden
 J. H. Rapier,Edmonia Lewis
 J. H. Rapier,Langston
-J. H. Rapier,Nathan
 J. H. Rapier,John Chinaman
 J. H. Rapier,John
 J. H. Rapier,Harper
@@ -74085,9 +73413,7 @@ G. W. Shafer,Bonaparte
 G. W. Shafer,Sherman
 G. W. Shafer,Barnum
 G. W. Shafer,Mo -- Deaths
-G. W. Shafer,M. D.
 G. W. Shafer,Wm. Stewart
-G. W. Shafer,N. J.
 G. W. Shafer,Jonathan
 G. W. Shafer,Josh Billings
 G. W. Shafer,Simmons
@@ -74095,7 +73421,6 @@ G. W. Shafer,Payne
 G. W. Shafer,Blyden
 G. W. Shafer,Edmonia Lewis
 G. W. Shafer,Langston
-G. W. Shafer,Nathan
 G. W. Shafer,John Chinaman
 G. W. Shafer,John
 G. W. Shafer,Harper
@@ -74302,9 +73627,7 @@ St. John,Bonaparte
 St. John,Sherman
 St. John,Barnum
 St. John,Mo -- Deaths
-St. John,M. D.
 St. John,Wm. Stewart
-St. John,N. J.
 St. John,Jonathan
 St. John,Josh Billings
 St. John,Simmons
@@ -74312,7 +73635,6 @@ St. John,Payne
 St. John,Blyden
 St. John,Edmonia Lewis
 St. John,Langston
-St. John,Nathan
 St. John,John Chinaman
 St. John,John
 St. John,Harper
@@ -74518,9 +73840,7 @@ John A. Clay,Bonaparte
 John A. Clay,Sherman
 John A. Clay,Barnum
 John A. Clay,Mo -- Deaths
-John A. Clay,M. D.
 John A. Clay,Wm. Stewart
-John A. Clay,N. J.
 John A. Clay,Jonathan
 John A. Clay,Josh Billings
 John A. Clay,Simmons
@@ -74528,7 +73848,6 @@ John A. Clay,Payne
 John A. Clay,Blyden
 John A. Clay,Edmonia Lewis
 John A. Clay,Langston
-John A. Clay,Nathan
 John A. Clay,John Chinaman
 John A. Clay,John
 John A. Clay,Harper
@@ -74733,9 +74052,7 @@ Tom Paine,Bonaparte
 Tom Paine,Sherman
 Tom Paine,Barnum
 Tom Paine,Mo -- Deaths
-Tom Paine,M. D.
 Tom Paine,Wm. Stewart
-Tom Paine,N. J.
 Tom Paine,Jonathan
 Tom Paine,Josh Billings
 Tom Paine,Simmons
@@ -74743,7 +74060,6 @@ Tom Paine,Payne
 Tom Paine,Blyden
 Tom Paine,Edmonia Lewis
 Tom Paine,Langston
-Tom Paine,Nathan
 Tom Paine,John Chinaman
 Tom Paine,John
 Tom Paine,Harper
@@ -74947,9 +74263,7 @@ Fred,Bonaparte
 Fred,Sherman
 Fred,Barnum
 Fred,Mo -- Deaths
-Fred,M. D.
 Fred,Wm. Stewart
-Fred,N. J.
 Fred,Jonathan
 Fred,Josh Billings
 Fred,Simmons
@@ -74957,7 +74271,6 @@ Fred,Payne
 Fred,Blyden
 Fred,Edmonia Lewis
 Fred,Langston
-Fred,Nathan
 Fred,John Chinaman
 Fred,John
 Fred,Harper
@@ -75160,9 +74473,7 @@ Douglass,Bonaparte
 Douglass,Sherman
 Douglass,Barnum
 Douglass,Mo -- Deaths
-Douglass,M. D.
 Douglass,Wm. Stewart
-Douglass,N. J.
 Douglass,Jonathan
 Douglass,Josh Billings
 Douglass,Simmons
@@ -75170,7 +74481,6 @@ Douglass,Payne
 Douglass,Blyden
 Douglass,Edmonia Lewis
 Douglass,Langston
-Douglass,Nathan
 Douglass,John Chinaman
 Douglass,John
 Douglass,Harper
@@ -75372,9 +74682,7 @@ Wm. R. Lawton,Bonaparte
 Wm. R. Lawton,Sherman
 Wm. R. Lawton,Barnum
 Wm. R. Lawton,Mo -- Deaths
-Wm. R. Lawton,M. D.
 Wm. R. Lawton,Wm. Stewart
-Wm. R. Lawton,N. J.
 Wm. R. Lawton,Jonathan
 Wm. R. Lawton,Josh Billings
 Wm. R. Lawton,Simmons
@@ -75382,7 +74690,6 @@ Wm. R. Lawton,Payne
 Wm. R. Lawton,Blyden
 Wm. R. Lawton,Edmonia Lewis
 Wm. R. Lawton,Langston
-Wm. R. Lawton,Nathan
 Wm. R. Lawton,John Chinaman
 Wm. R. Lawton,John
 Wm. R. Lawton,Harper
@@ -75583,9 +74890,7 @@ Roberts,Bonaparte
 Roberts,Sherman
 Roberts,Barnum
 Roberts,Mo -- Deaths
-Roberts,M. D.
 Roberts,Wm. Stewart
-Roberts,N. J.
 Roberts,Jonathan
 Roberts,Josh Billings
 Roberts,Simmons
@@ -75593,7 +74898,6 @@ Roberts,Payne
 Roberts,Blyden
 Roberts,Edmonia Lewis
 Roberts,Langston
-Roberts,Nathan
 Roberts,John Chinaman
 Roberts,John
 Roberts,Harper
@@ -75793,9 +75097,7 @@ G. H. Shafler,Bonaparte
 G. H. Shafler,Sherman
 G. H. Shafler,Barnum
 G. H. Shafler,Mo -- Deaths
-G. H. Shafler,M. D.
 G. H. Shafler,Wm. Stewart
-G. H. Shafler,N. J.
 G. H. Shafler,Jonathan
 G. H. Shafler,Josh Billings
 G. H. Shafler,Simmons
@@ -75803,7 +75105,6 @@ G. H. Shafler,Payne
 G. H. Shafler,Blyden
 G. H. Shafler,Edmonia Lewis
 G. H. Shafler,Langston
-G. H. Shafler,Nathan
 G. H. Shafler,John Chinaman
 G. H. Shafler,John
 G. H. Shafler,Harper
@@ -76002,9 +75303,7 @@ Ferdinand L. Barnett,Bonaparte
 Ferdinand L. Barnett,Sherman
 Ferdinand L. Barnett,Barnum
 Ferdinand L. Barnett,Mo -- Deaths
-Ferdinand L. Barnett,M. D.
 Ferdinand L. Barnett,Wm. Stewart
-Ferdinand L. Barnett,N. J.
 Ferdinand L. Barnett,Jonathan
 Ferdinand L. Barnett,Josh Billings
 Ferdinand L. Barnett,Simmons
@@ -76012,7 +75311,6 @@ Ferdinand L. Barnett,Payne
 Ferdinand L. Barnett,Blyden
 Ferdinand L. Barnett,Edmonia Lewis
 Ferdinand L. Barnett,Langston
-Ferdinand L. Barnett,Nathan
 Ferdinand L. Barnett,John Chinaman
 Ferdinand L. Barnett,John
 Ferdinand L. Barnett,Harper
@@ -76210,9 +75508,7 @@ H. W. Ward,Bonaparte
 H. W. Ward,Sherman
 H. W. Ward,Barnum
 H. W. Ward,Mo -- Deaths
-H. W. Ward,M. D.
 H. W. Ward,Wm. Stewart
-H. W. Ward,N. J.
 H. W. Ward,Jonathan
 H. W. Ward,Josh Billings
 H. W. Ward,Simmons
@@ -76220,7 +75516,6 @@ H. W. Ward,Payne
 H. W. Ward,Blyden
 H. W. Ward,Edmonia Lewis
 H. W. Ward,Langston
-H. W. Ward,Nathan
 H. W. Ward,John Chinaman
 H. W. Ward,John
 H. W. Ward,Harper
@@ -76417,9 +75712,7 @@ M. G. Turner,Bonaparte
 M. G. Turner,Sherman
 M. G. Turner,Barnum
 M. G. Turner,Mo -- Deaths
-M. G. Turner,M. D.
 M. G. Turner,Wm. Stewart
-M. G. Turner,N. J.
 M. G. Turner,Jonathan
 M. G. Turner,Josh Billings
 M. G. Turner,Simmons
@@ -76427,7 +75720,6 @@ M. G. Turner,Payne
 M. G. Turner,Blyden
 M. G. Turner,Edmonia Lewis
 M. G. Turner,Langston
-M. G. Turner,Nathan
 M. G. Turner,John Chinaman
 M. G. Turner,John
 M. G. Turner,Harper
@@ -76623,9 +75915,7 @@ Benjamin F. Butler,Bonaparte
 Benjamin F. Butler,Sherman
 Benjamin F. Butler,Barnum
 Benjamin F. Butler,Mo -- Deaths
-Benjamin F. Butler,M. D.
 Benjamin F. Butler,Wm. Stewart
-Benjamin F. Butler,N. J.
 Benjamin F. Butler,Jonathan
 Benjamin F. Butler,Josh Billings
 Benjamin F. Butler,Simmons
@@ -76633,7 +75923,6 @@ Benjamin F. Butler,Payne
 Benjamin F. Butler,Blyden
 Benjamin F. Butler,Edmonia Lewis
 Benjamin F. Butler,Langston
-Benjamin F. Butler,Nathan
 Benjamin F. Butler,John Chinaman
 Benjamin F. Butler,John
 Benjamin F. Butler,Harper
@@ -76828,9 +76117,7 @@ Zach Chandler,Bonaparte
 Zach Chandler,Sherman
 Zach Chandler,Barnum
 Zach Chandler,Mo -- Deaths
-Zach Chandler,M. D.
 Zach Chandler,Wm. Stewart
-Zach Chandler,N. J.
 Zach Chandler,Jonathan
 Zach Chandler,Josh Billings
 Zach Chandler,Simmons
@@ -76838,7 +76125,6 @@ Zach Chandler,Payne
 Zach Chandler,Blyden
 Zach Chandler,Edmonia Lewis
 Zach Chandler,Langston
-Zach Chandler,Nathan
 Zach Chandler,John Chinaman
 Zach Chandler,John
 Zach Chandler,Harper
@@ -77032,9 +76318,7 @@ Mason,Bonaparte
 Mason,Sherman
 Mason,Barnum
 Mason,Mo -- Deaths
-Mason,M. D.
 Mason,Wm. Stewart
-Mason,N. J.
 Mason,Jonathan
 Mason,Josh Billings
 Mason,Simmons
@@ -77042,7 +76326,6 @@ Mason,Payne
 Mason,Blyden
 Mason,Edmonia Lewis
 Mason,Langston
-Mason,Nathan
 Mason,John Chinaman
 Mason,John
 Mason,Harper
@@ -77235,9 +76518,7 @@ Dixon,Bonaparte
 Dixon,Sherman
 Dixon,Barnum
 Dixon,Mo -- Deaths
-Dixon,M. D.
 Dixon,Wm. Stewart
-Dixon,N. J.
 Dixon,Jonathan
 Dixon,Josh Billings
 Dixon,Simmons
@@ -77245,7 +76526,6 @@ Dixon,Payne
 Dixon,Blyden
 Dixon,Edmonia Lewis
 Dixon,Langston
-Dixon,Nathan
 Dixon,John Chinaman
 Dixon,John
 Dixon,Harper
@@ -77437,9 +76717,7 @@ Devens,Bonaparte
 Devens,Sherman
 Devens,Barnum
 Devens,Mo -- Deaths
-Devens,M. D.
 Devens,Wm. Stewart
-Devens,N. J.
 Devens,Jonathan
 Devens,Josh Billings
 Devens,Simmons
@@ -77447,7 +76725,6 @@ Devens,Payne
 Devens,Blyden
 Devens,Edmonia Lewis
 Devens,Langston
-Devens,Nathan
 Devens,John Chinaman
 Devens,John
 Devens,Harper
@@ -77638,9 +76915,7 @@ H. V. Robinson,Bonaparte
 H. V. Robinson,Sherman
 H. V. Robinson,Barnum
 H. V. Robinson,Mo -- Deaths
-H. V. Robinson,M. D.
 H. V. Robinson,Wm. Stewart
-H. V. Robinson,N. J.
 H. V. Robinson,Jonathan
 H. V. Robinson,Josh Billings
 H. V. Robinson,Simmons
@@ -77648,7 +76923,6 @@ H. V. Robinson,Payne
 H. V. Robinson,Blyden
 H. V. Robinson,Edmonia Lewis
 H. V. Robinson,Langston
-H. V. Robinson,Nathan
 H. V. Robinson,John Chinaman
 H. V. Robinson,John
 H. V. Robinson,Harper
@@ -77838,9 +77112,7 @@ Robinson,Bonaparte
 Robinson,Sherman
 Robinson,Barnum
 Robinson,Mo -- Deaths
-Robinson,M. D.
 Robinson,Wm. Stewart
-Robinson,N. J.
 Robinson,Jonathan
 Robinson,Josh Billings
 Robinson,Simmons
@@ -77848,7 +77120,6 @@ Robinson,Payne
 Robinson,Blyden
 Robinson,Edmonia Lewis
 Robinson,Langston
-Robinson,Nathan
 Robinson,John Chinaman
 Robinson,John
 Robinson,Harper
@@ -78037,9 +77308,7 @@ D. Wilson,Bonaparte
 D. Wilson,Sherman
 D. Wilson,Barnum
 D. Wilson,Mo -- Deaths
-D. Wilson,M. D.
 D. Wilson,Wm. Stewart
-D. Wilson,N. J.
 D. Wilson,Jonathan
 D. Wilson,Josh Billings
 D. Wilson,Simmons
@@ -78047,7 +77316,6 @@ D. Wilson,Payne
 D. Wilson,Blyden
 D. Wilson,Edmonia Lewis
 D. Wilson,Langston
-D. Wilson,Nathan
 D. Wilson,John Chinaman
 D. Wilson,John
 D. Wilson,Harper
@@ -78235,9 +77503,7 @@ J. Gillem,Bonaparte
 J. Gillem,Sherman
 J. Gillem,Barnum
 J. Gillem,Mo -- Deaths
-J. Gillem,M. D.
 J. Gillem,Wm. Stewart
-J. Gillem,N. J.
 J. Gillem,Jonathan
 J. Gillem,Josh Billings
 J. Gillem,Simmons
@@ -78245,7 +77511,6 @@ J. Gillem,Payne
 J. Gillem,Blyden
 J. Gillem,Edmonia Lewis
 J. Gillem,Langston
-J. Gillem,Nathan
 J. Gillem,John Chinaman
 J. Gillem,John
 J. Gillem,Harper
@@ -78432,9 +77697,7 @@ Wylie,Bonaparte
 Wylie,Sherman
 Wylie,Barnum
 Wylie,Mo -- Deaths
-Wylie,M. D.
 Wylie,Wm. Stewart
-Wylie,N. J.
 Wylie,Jonathan
 Wylie,Josh Billings
 Wylie,Simmons
@@ -78442,7 +77705,6 @@ Wylie,Payne
 Wylie,Blyden
 Wylie,Edmonia Lewis
 Wylie,Langston
-Wylie,Nathan
 Wylie,John Chinaman
 Wylie,John
 Wylie,Harper
@@ -78628,9 +77890,7 @@ B. T. Tanner,Bonaparte
 B. T. Tanner,Sherman
 B. T. Tanner,Barnum
 B. T. Tanner,Mo -- Deaths
-B. T. Tanner,M. D.
 B. T. Tanner,Wm. Stewart
-B. T. Tanner,N. J.
 B. T. Tanner,Jonathan
 B. T. Tanner,Josh Billings
 B. T. Tanner,Simmons
@@ -78638,7 +77898,6 @@ B. T. Tanner,Payne
 B. T. Tanner,Blyden
 B. T. Tanner,Edmonia Lewis
 B. T. Tanner,Langston
-B. T. Tanner,Nathan
 B. T. Tanner,John Chinaman
 B. T. Tanner,John
 B. T. Tanner,Harper
@@ -78823,9 +78082,7 @@ T. Richardson,Bonaparte
 T. Richardson,Sherman
 T. Richardson,Barnum
 T. Richardson,Mo -- Deaths
-T. Richardson,M. D.
 T. Richardson,Wm. Stewart
-T. Richardson,N. J.
 T. Richardson,Jonathan
 T. Richardson,Josh Billings
 T. Richardson,Simmons
@@ -78833,7 +78090,6 @@ T. Richardson,Payne
 T. Richardson,Blyden
 T. Richardson,Edmonia Lewis
 T. Richardson,Langston
-T. Richardson,Nathan
 T. Richardson,John Chinaman
 T. Richardson,John
 T. Richardson,Harper
@@ -79017,9 +78273,7 @@ Theodore H. Green,Bonaparte
 Theodore H. Green,Sherman
 Theodore H. Green,Barnum
 Theodore H. Green,Mo -- Deaths
-Theodore H. Green,M. D.
 Theodore H. Green,Wm. Stewart
-Theodore H. Green,N. J.
 Theodore H. Green,Jonathan
 Theodore H. Green,Josh Billings
 Theodore H. Green,Simmons
@@ -79027,7 +78281,6 @@ Theodore H. Green,Payne
 Theodore H. Green,Blyden
 Theodore H. Green,Edmonia Lewis
 Theodore H. Green,Langston
-Theodore H. Green,Nathan
 Theodore H. Green,John Chinaman
 Theodore H. Green,John
 Theodore H. Green,Harper
@@ -79210,9 +78463,7 @@ John A. Logan,Bonaparte
 John A. Logan,Sherman
 John A. Logan,Barnum
 John A. Logan,Mo -- Deaths
-John A. Logan,M. D.
 John A. Logan,Wm. Stewart
-John A. Logan,N. J.
 John A. Logan,Jonathan
 John A. Logan,Josh Billings
 John A. Logan,Simmons
@@ -79220,7 +78471,6 @@ John A. Logan,Payne
 John A. Logan,Blyden
 John A. Logan,Edmonia Lewis
 John A. Logan,Langston
-John A. Logan,Nathan
 John A. Logan,John Chinaman
 John A. Logan,John
 John A. Logan,Harper
@@ -79402,9 +78652,7 @@ North,Bonaparte
 North,Sherman
 North,Barnum
 North,Mo -- Deaths
-North,M. D.
 North,Wm. Stewart
-North,N. J.
 North,Jonathan
 North,Josh Billings
 North,Simmons
@@ -79412,7 +78660,6 @@ North,Payne
 North,Blyden
 North,Edmonia Lewis
 North,Langston
-North,Nathan
 North,John Chinaman
 North,John
 North,Harper
@@ -79593,9 +78840,7 @@ Iatter,Bonaparte
 Iatter,Sherman
 Iatter,Barnum
 Iatter,Mo -- Deaths
-Iatter,M. D.
 Iatter,Wm. Stewart
-Iatter,N. J.
 Iatter,Jonathan
 Iatter,Josh Billings
 Iatter,Simmons
@@ -79603,7 +78848,6 @@ Iatter,Payne
 Iatter,Blyden
 Iatter,Edmonia Lewis
 Iatter,Langston
-Iatter,Nathan
 Iatter,John Chinaman
 Iatter,John
 Iatter,Harper
@@ -79783,9 +79027,7 @@ Speaker,Bonaparte
 Speaker,Sherman
 Speaker,Barnum
 Speaker,Mo -- Deaths
-Speaker,M. D.
 Speaker,Wm. Stewart
-Speaker,N. J.
 Speaker,Jonathan
 Speaker,Josh Billings
 Speaker,Simmons
@@ -79793,7 +79035,6 @@ Speaker,Payne
 Speaker,Blyden
 Speaker,Edmonia Lewis
 Speaker,Langston
-Speaker,Nathan
 Speaker,John Chinaman
 Speaker,John
 Speaker,Harper
@@ -79972,9 +79213,7 @@ Gentry,Bonaparte
 Gentry,Sherman
 Gentry,Barnum
 Gentry,Mo -- Deaths
-Gentry,M. D.
 Gentry,Wm. Stewart
-Gentry,N. J.
 Gentry,Jonathan
 Gentry,Josh Billings
 Gentry,Simmons
@@ -79982,7 +79221,6 @@ Gentry,Payne
 Gentry,Blyden
 Gentry,Edmonia Lewis
 Gentry,Langston
-Gentry,Nathan
 Gentry,John Chinaman
 Gentry,John
 Gentry,Harper
@@ -80160,9 +79398,7 @@ Marks,Bonaparte
 Marks,Sherman
 Marks,Barnum
 Marks,Mo -- Deaths
-Marks,M. D.
 Marks,Wm. Stewart
-Marks,N. J.
 Marks,Jonathan
 Marks,Josh Billings
 Marks,Simmons
@@ -80170,7 +79406,6 @@ Marks,Payne
 Marks,Blyden
 Marks,Edmonia Lewis
 Marks,Langston
-Marks,Nathan
 Marks,John Chinaman
 Marks,John
 Marks,Harper
@@ -80347,9 +79582,7 @@ Gaines,Bonaparte
 Gaines,Sherman
 Gaines,Barnum
 Gaines,Mo -- Deaths
-Gaines,M. D.
 Gaines,Wm. Stewart
-Gaines,N. J.
 Gaines,Jonathan
 Gaines,Josh Billings
 Gaines,Simmons
@@ -80357,7 +79590,6 @@ Gaines,Payne
 Gaines,Blyden
 Gaines,Edmonia Lewis
 Gaines,Langston
-Gaines,Nathan
 Gaines,John Chinaman
 Gaines,John
 Gaines,Harper
@@ -80533,9 +79765,7 @@ J.J. Bird,Bonaparte
 J.J. Bird,Sherman
 J.J. Bird,Barnum
 J.J. Bird,Mo -- Deaths
-J.J. Bird,M. D.
 J.J. Bird,Wm. Stewart
-J.J. Bird,N. J.
 J.J. Bird,Jonathan
 J.J. Bird,Josh Billings
 J.J. Bird,Simmons
@@ -80543,7 +79773,6 @@ J.J. Bird,Payne
 J.J. Bird,Blyden
 J.J. Bird,Edmonia Lewis
 J.J. Bird,Langston
-J.J. Bird,Nathan
 J.J. Bird,John Chinaman
 J.J. Bird,John
 J.J. Bird,Harper
@@ -80718,9 +79947,7 @@ J.T. Rapier,Bonaparte
 J.T. Rapier,Sherman
 J.T. Rapier,Barnum
 J.T. Rapier,Mo -- Deaths
-J.T. Rapier,M. D.
 J.T. Rapier,Wm. Stewart
-J.T. Rapier,N. J.
 J.T. Rapier,Jonathan
 J.T. Rapier,Josh Billings
 J.T. Rapier,Simmons
@@ -80728,7 +79955,6 @@ J.T. Rapier,Payne
 J.T. Rapier,Blyden
 J.T. Rapier,Edmonia Lewis
 J.T. Rapier,Langston
-J.T. Rapier,Nathan
 J.T. Rapier,John Chinaman
 J.T. Rapier,John
 J.T. Rapier,Harper
@@ -80902,9 +80128,7 @@ W. H. Bentley,Bonaparte
 W. H. Bentley,Sherman
 W. H. Bentley,Barnum
 W. H. Bentley,Mo -- Deaths
-W. H. Bentley,M. D.
 W. H. Bentley,Wm. Stewart
-W. H. Bentley,N. J.
 W. H. Bentley,Jonathan
 W. H. Bentley,Josh Billings
 W. H. Bentley,Simmons
@@ -80912,7 +80136,6 @@ W. H. Bentley,Payne
 W. H. Bentley,Blyden
 W. H. Bentley,Edmonia Lewis
 W. H. Bentley,Langston
-W. H. Bentley,Nathan
 W. H. Bentley,John Chinaman
 W. H. Bentley,John
 W. H. Bentley,Harper
@@ -81085,9 +80308,7 @@ J.W. James,Bonaparte
 J.W. James,Sherman
 J.W. James,Barnum
 J.W. James,Mo -- Deaths
-J.W. James,M. D.
 J.W. James,Wm. Stewart
-J.W. James,N. J.
 J.W. James,Jonathan
 J.W. James,Josh Billings
 J.W. James,Simmons
@@ -81095,7 +80316,6 @@ J.W. James,Payne
 J.W. James,Blyden
 J.W. James,Edmonia Lewis
 J.W. James,Langston
-J.W. James,Nathan
 J.W. James,John Chinaman
 J.W. James,John
 J.W. James,Harper
@@ -81267,9 +80487,7 @@ Allan,Bonaparte
 Allan,Sherman
 Allan,Barnum
 Allan,Mo -- Deaths
-Allan,M. D.
 Allan,Wm. Stewart
-Allan,N. J.
 Allan,Jonathan
 Allan,Josh Billings
 Allan,Simmons
@@ -81277,7 +80495,6 @@ Allan,Payne
 Allan,Blyden
 Allan,Edmonia Lewis
 Allan,Langston
-Allan,Nathan
 Allan,John Chinaman
 Allan,John
 Allan,Harper
@@ -81448,9 +80665,7 @@ Allensworth,Bonaparte
 Allensworth,Sherman
 Allensworth,Barnum
 Allensworth,Mo -- Deaths
-Allensworth,M. D.
 Allensworth,Wm. Stewart
-Allensworth,N. J.
 Allensworth,Jonathan
 Allensworth,Josh Billings
 Allensworth,Simmons
@@ -81458,7 +80673,6 @@ Allensworth,Payne
 Allensworth,Blyden
 Allensworth,Edmonia Lewis
 Allensworth,Langston
-Allensworth,Nathan
 Allensworth,John Chinaman
 Allensworth,John
 Allensworth,Harper
@@ -81628,9 +80842,7 @@ Rives,Bonaparte
 Rives,Sherman
 Rives,Barnum
 Rives,Mo -- Deaths
-Rives,M. D.
 Rives,Wm. Stewart
-Rives,N. J.
 Rives,Jonathan
 Rives,Josh Billings
 Rives,Simmons
@@ -81638,7 +80850,6 @@ Rives,Payne
 Rives,Blyden
 Rives,Edmonia Lewis
 Rives,Langston
-Rives,Nathan
 Rives,John Chinaman
 Rives,John
 Rives,Harper
@@ -81807,9 +81018,7 @@ J.H. Burrus,Bonaparte
 J.H. Burrus,Sherman
 J.H. Burrus,Barnum
 J.H. Burrus,Mo -- Deaths
-J.H. Burrus,M. D.
 J.H. Burrus,Wm. Stewart
-J.H. Burrus,N. J.
 J.H. Burrus,Jonathan
 J.H. Burrus,Josh Billings
 J.H. Burrus,Simmons
@@ -81817,7 +81026,6 @@ J.H. Burrus,Payne
 J.H. Burrus,Blyden
 J.H. Burrus,Edmonia Lewis
 J.H. Burrus,Langston
-J.H. Burrus,Nathan
 J.H. Burrus,John Chinaman
 J.H. Burrus,John
 J.H. Burrus,Harper
@@ -81985,9 +81193,7 @@ C. Napier,Bonaparte
 C. Napier,Sherman
 C. Napier,Barnum
 C. Napier,Mo -- Deaths
-C. Napier,M. D.
 C. Napier,Wm. Stewart
-C. Napier,N. J.
 C. Napier,Jonathan
 C. Napier,Josh Billings
 C. Napier,Simmons
@@ -81995,7 +81201,6 @@ C. Napier,Payne
 C. Napier,Blyden
 C. Napier,Edmonia Lewis
 C. Napier,Langston
-C. Napier,Nathan
 C. Napier,John Chinaman
 C. Napier,John
 C. Napier,Harper
@@ -82162,9 +81367,7 @@ W. Wilson,Bonaparte
 W. Wilson,Sherman
 W. Wilson,Barnum
 W. Wilson,Mo -- Deaths
-W. Wilson,M. D.
 W. Wilson,Wm. Stewart
-W. Wilson,N. J.
 W. Wilson,Jonathan
 W. Wilson,Josh Billings
 W. Wilson,Simmons
@@ -82172,7 +81375,6 @@ W. Wilson,Payne
 W. Wilson,Blyden
 W. Wilson,Edmonia Lewis
 W. Wilson,Langston
-W. Wilson,Nathan
 W. Wilson,John Chinaman
 W. Wilson,John
 W. Wilson,Harper
@@ -82338,9 +81540,7 @@ R.R. Wright,Bonaparte
 R.R. Wright,Sherman
 R.R. Wright,Barnum
 R.R. Wright,Mo -- Deaths
-R.R. Wright,M. D.
 R.R. Wright,Wm. Stewart
-R.R. Wright,N. J.
 R.R. Wright,Jonathan
 R.R. Wright,Josh Billings
 R.R. Wright,Simmons
@@ -82348,7 +81548,6 @@ R.R. Wright,Payne
 R.R. Wright,Blyden
 R.R. Wright,Edmonia Lewis
 R.R. Wright,Langston
-R.R. Wright,Nathan
 R.R. Wright,John Chinaman
 R.R. Wright,John
 R.R. Wright,Harper
@@ -82513,9 +81712,7 @@ H. Rainey,Bonaparte
 H. Rainey,Sherman
 H. Rainey,Barnum
 H. Rainey,Mo -- Deaths
-H. Rainey,M. D.
 H. Rainey,Wm. Stewart
-H. Rainey,N. J.
 H. Rainey,Jonathan
 H. Rainey,Josh Billings
 H. Rainey,Simmons
@@ -82523,7 +81720,6 @@ H. Rainey,Payne
 H. Rainey,Blyden
 H. Rainey,Edmonia Lewis
 H. Rainey,Langston
-H. Rainey,Nathan
 H. Rainey,John Chinaman
 H. Rainey,John
 H. Rainey,Harper
@@ -82687,9 +81883,7 @@ H. Burch,Bonaparte
 H. Burch,Sherman
 H. Burch,Barnum
 H. Burch,Mo -- Deaths
-H. Burch,M. D.
 H. Burch,Wm. Stewart
-H. Burch,N. J.
 H. Burch,Jonathan
 H. Burch,Josh Billings
 H. Burch,Simmons
@@ -82697,7 +81891,6 @@ H. Burch,Payne
 H. Burch,Blyden
 H. Burch,Edmonia Lewis
 H. Burch,Langston
-H. Burch,Nathan
 H. Burch,John Chinaman
 H. Burch,John
 H. Burch,Harper
@@ -82860,9 +82053,7 @@ J. C. Embry,Bonaparte
 J. C. Embry,Sherman
 J. C. Embry,Barnum
 J. C. Embry,Mo -- Deaths
-J. C. Embry,M. D.
 J. C. Embry,Wm. Stewart
-J. C. Embry,N. J.
 J. C. Embry,Jonathan
 J. C. Embry,Josh Billings
 J. C. Embry,Simmons
@@ -82870,7 +82061,6 @@ J. C. Embry,Payne
 J. C. Embry,Blyden
 J. C. Embry,Edmonia Lewis
 J. C. Embry,Langston
-J. C. Embry,Nathan
 J. C. Embry,John Chinaman
 J. C. Embry,John
 J. C. Embry,Harper
@@ -83032,9 +82222,7 @@ T. Green,Bonaparte
 T. Green,Sherman
 T. Green,Barnum
 T. Green,Mo -- Deaths
-T. Green,M. D.
 T. Green,Wm. Stewart
-T. Green,N. J.
 T. Green,Jonathan
 T. Green,Josh Billings
 T. Green,Simmons
@@ -83042,7 +82230,6 @@ T. Green,Payne
 T. Green,Blyden
 T. Green,Edmonia Lewis
 T. Green,Langston
-T. Green,Nathan
 T. Green,John Chinaman
 T. Green,John
 T. Green,Harper
@@ -83203,9 +82390,7 @@ Grant,Bonaparte
 Grant,Sherman
 Grant,Barnum
 Grant,Mo -- Deaths
-Grant,M. D.
 Grant,Wm. Stewart
-Grant,N. J.
 Grant,Jonathan
 Grant,Josh Billings
 Grant,Simmons
@@ -83213,7 +82398,6 @@ Grant,Payne
 Grant,Blyden
 Grant,Edmonia Lewis
 Grant,Langston
-Grant,Nathan
 Grant,John Chinaman
 Grant,John
 Grant,Harper
@@ -83373,9 +82557,7 @@ Toussaint,Bonaparte
 Toussaint,Sherman
 Toussaint,Barnum
 Toussaint,Mo -- Deaths
-Toussaint,M. D.
 Toussaint,Wm. Stewart
-Toussaint,N. J.
 Toussaint,Jonathan
 Toussaint,Josh Billings
 Toussaint,Simmons
@@ -83383,7 +82565,6 @@ Toussaint,Payne
 Toussaint,Blyden
 Toussaint,Edmonia Lewis
 Toussaint,Langston
-Toussaint,Nathan
 Toussaint,John Chinaman
 Toussaint,John
 Toussaint,Harper
@@ -83542,9 +82723,7 @@ Dessalines,Bonaparte
 Dessalines,Sherman
 Dessalines,Barnum
 Dessalines,Mo -- Deaths
-Dessalines,M. D.
 Dessalines,Wm. Stewart
-Dessalines,N. J.
 Dessalines,Jonathan
 Dessalines,Josh Billings
 Dessalines,Simmons
@@ -83552,7 +82731,6 @@ Dessalines,Payne
 Dessalines,Blyden
 Dessalines,Edmonia Lewis
 Dessalines,Langston
-Dessalines,Nathan
 Dessalines,John Chinaman
 Dessalines,John
 Dessalines,Harper
@@ -83710,9 +82888,7 @@ Christophe,Bonaparte
 Christophe,Sherman
 Christophe,Barnum
 Christophe,Mo -- Deaths
-Christophe,M. D.
 Christophe,Wm. Stewart
-Christophe,N. J.
 Christophe,Jonathan
 Christophe,Josh Billings
 Christophe,Simmons
@@ -83720,7 +82896,6 @@ Christophe,Payne
 Christophe,Blyden
 Christophe,Edmonia Lewis
 Christophe,Langston
-Christophe,Nathan
 Christophe,John Chinaman
 Christophe,John
 Christophe,Harper
@@ -83877,9 +83052,7 @@ Christophe,R. Harlan
 Bonaparte,Sherman
 Bonaparte,Barnum
 Bonaparte,Mo -- Deaths
-Bonaparte,M. D.
 Bonaparte,Wm. Stewart
-Bonaparte,N. J.
 Bonaparte,Jonathan
 Bonaparte,Josh Billings
 Bonaparte,Simmons
@@ -83887,7 +83060,6 @@ Bonaparte,Payne
 Bonaparte,Blyden
 Bonaparte,Edmonia Lewis
 Bonaparte,Langston
-Bonaparte,Nathan
 Bonaparte,John Chinaman
 Bonaparte,John
 Bonaparte,Harper
@@ -84043,9 +83215,7 @@ Bonaparte,B. R. Taylor
 Bonaparte,R. Harlan
 Sherman,Barnum
 Sherman,Mo -- Deaths
-Sherman,M. D.
 Sherman,Wm. Stewart
-Sherman,N. J.
 Sherman,Jonathan
 Sherman,Josh Billings
 Sherman,Simmons
@@ -84053,7 +83223,6 @@ Sherman,Payne
 Sherman,Blyden
 Sherman,Edmonia Lewis
 Sherman,Langston
-Sherman,Nathan
 Sherman,John Chinaman
 Sherman,John
 Sherman,Harper
@@ -84208,9 +83377,7 @@ Sherman,G. Mcfariand
 Sherman,B. R. Taylor
 Sherman,R. Harlan
 Barnum,Mo -- Deaths
-Barnum,M. D.
 Barnum,Wm. Stewart
-Barnum,N. J.
 Barnum,Jonathan
 Barnum,Josh Billings
 Barnum,Simmons
@@ -84218,7 +83385,6 @@ Barnum,Payne
 Barnum,Blyden
 Barnum,Edmonia Lewis
 Barnum,Langston
-Barnum,Nathan
 Barnum,John Chinaman
 Barnum,John
 Barnum,Harper
@@ -84372,9 +83538,7 @@ Barnum,R. Nichols
 Barnum,G. Mcfariand
 Barnum,B. R. Taylor
 Barnum,R. Harlan
-Mo -- Deaths,M. D.
 Mo -- Deaths,Wm. Stewart
-Mo -- Deaths,N. J.
 Mo -- Deaths,Jonathan
 Mo -- Deaths,Josh Billings
 Mo -- Deaths,Simmons
@@ -84382,7 +83546,6 @@ Mo -- Deaths,Payne
 Mo -- Deaths,Blyden
 Mo -- Deaths,Edmonia Lewis
 Mo -- Deaths,Langston
-Mo -- Deaths,Nathan
 Mo -- Deaths,John Chinaman
 Mo -- Deaths,John
 Mo -- Deaths,Harper
@@ -84536,170 +83699,6 @@ Mo -- Deaths,R. Nichols
 Mo -- Deaths,G. Mcfariand
 Mo -- Deaths,B. R. Taylor
 Mo -- Deaths,R. Harlan
-M. D.,Wm. Stewart
-M. D.,N. J.
-M. D.,Jonathan
-M. D.,Josh Billings
-M. D.,Simmons
-M. D.,Payne
-M. D.,Blyden
-M. D.,Edmonia Lewis
-M. D.,Langston
-M. D.,Nathan
-M. D.,John Chinaman
-M. D.,John
-M. D.,Harper
-M. D.,W. Forney
-M. D.,Frederick Douglass
-M. D.,Samuel R. Ward
-M. D.,Henry Bibb
-M. D.,William Wells Brown
-M. D.,J. W. Loguen
-M. D.,S. C. Armstrong
-M. D.,John G. Fee
-M. D.,E. M. Cravath
-M. D.,E. A. Ware
-M. D.,E. P. Lord
-M. D.,G. Stanly Pope
-M. D.,W. S. Alexander
-M. D.,B. F. Lee
-M. D.,J. N. Rendall
-M. D.,M. Perkins
-M. D.,W. P. Pledger
-M. D.,Allen Allansworth
-M. D.,John H. Johnson
-M. D.,Daniel Jones
-M. D.,A. Perkins
-M. D.,H. Bufford
-M. D.,J. F. C. Snoden
-M. D.,C. A. Burgos
-M. D.,S.E. Hardy
-M. D.,Robt
-M. D.,Simon Daniels
-M. D.,Knox
-M. D.,C. Braboy
-M. D.,H. Walker
-M. D.,J. W. Johnson
-M. D.,G. Mcfarland
-M. D.,G. H. Clay
-M. D.,Bennett Stewart
-M. D.,Archie
-M. D.,E. R. Belcher
-M. D.,Elbert Head
-M. D.,Horace King
-M. D.,P. J. Carter
-M. D.,R.G.L. Paige
-M. D.,J. G. Baugh
-M. D.,W. P. Ryder
-M. D.,W. B. Townsend
-M. D.,J. M. Brown
-M. D.,P. C
-M. D.,Murphy
-M. D.,Perry Mathews
-M. D.,G. W. Braxdall
-M. D.,M. Turner
-M. D.,Davis North
-M. D.,J. W. Hughes
-M. D.,Andrew Hubbard
-M. D.,Moses Dickson
-M. D.,J. J. Bruce
-M. D.,James Matlocler
-M. D.,Burley Jones
-M. D.,C. R. Coleman
-M. D.,John Lang
-M. D.,G. W
-M. D.,Dupee
-M. D.,Jesus Christ
-M. D.,Christ
-M. D.,Gregory
-M. D.,Leo Xiii
-M. D.,T. Tanner
-M. D.,R. F.
-M. D.,Bishop Onderdonk
-M. D.,Calvin
-M. D.,Saviour
-M. D.,Stroud
-M. D.,Eccles
-M. D.,Francis Daniel Pastorious
-M. D.,Anna
-M. D.,Klosterman
-M. D.,Pastorious
-M. D.,Westcott
-M. D.,Ralph Sandeford
-M. D.,Daniel Benedict
-M. D.,L. Boyd
-M. D.,Wesley
-M. D.,A. G. Ferr
-M. D.,M. E. Church
-M. D.,Hannibal
-M. D.,Chang
-M. D.,Creuzot
-M. D.,H. H. Garnett
-M. D.,John Brown
-M. D.,Harris
-M. D.,Theo H. Greene
-M. D.,Adam
-M. D.,Noah
-M. D.,Gideon
-M. D.,Volsci
-M. D.,Putnam
-M. D.,Sumner
-M. D.,Daniel O ' Connell
-M. D.,Robert E. Lee
-M. D.,Napoleon
-M. D.,Wm. H. Miles
-M. D.,David A
-M. D.,Sam
-M. D.,Lowery
-M. D.,C. G. Wimbush
-M. D.,W. James Indiana
-M. D.,Taney
-M. D.,Horace Greeley
-M. D.,Abraham Lincoln
-M. D.,J. H. Burch
-M. D.,W. R. L Awton
-M. D.,John Avertt
-M. D.,F.L. Barnett
-M. D.,A. J. Nixon
-M. D.,A. F. A. Pope
-M. D.,W. F. Yeardlev
-M. D.,J.M. Smith
-M. D.,J. Mckinly
-M. D.,H. H. Thompson
-M. D.,J. H. Kelly
-M. D.,M. F. Wamack
-M. D.,D. Watkins
-M. D.,S. Griffith
-M. D.,Richardson
-M. D.,J. C. Matthews
-M. D.,A. Allensworth
-M. D.,F. B. S. Pinchback
-M. D.,J. Lewis
-M. D.,L.T. Kenner
-M. D.,Charles A. Burgeois
-M. D.,W. Gibbs
-M. D.,J. R. Rolland
-M. D.,H. W. Watkins
-M. D.,F. B. Antoine
-M. D.,J. P. J
-M. D.,J.T. Jenifer
-M. D.,Isaac Gillam
-M. D.,D. S. Brandon
-M. D.,W. O. Lynch
-M. D.,J. M. Goodloe
-M. D.,J. H. Thomason
-M. D.,S. Lowry
-M. D.,W. J. Stevens
-M. D.,P. C. Murphv
-M. D.,L. W. Cummins
-M. D.,E.D. Pope
-M. D.,C.C. Wimbush
-M. D.,M. Bentley
-M. D.,R. Nichols
-M. D.,G. Mcfariand
-M. D.,B. R. Taylor
-M. D.,R. Harlan
-Wm. Stewart,N. J.
 Wm. Stewart,Jonathan
 Wm. Stewart,Josh Billings
 Wm. Stewart,Simmons
@@ -84707,7 +83706,6 @@ Wm. Stewart,Payne
 Wm. Stewart,Blyden
 Wm. Stewart,Edmonia Lewis
 Wm. Stewart,Langston
-Wm. Stewart,Nathan
 Wm. Stewart,John Chinaman
 Wm. Stewart,John
 Wm. Stewart,Harper
@@ -84861,174 +83859,12 @@ Wm. Stewart,R. Nichols
 Wm. Stewart,G. Mcfariand
 Wm. Stewart,B. R. Taylor
 Wm. Stewart,R. Harlan
-N. J.,Jonathan
-N. J.,Josh Billings
-N. J.,Simmons
-N. J.,Payne
-N. J.,Blyden
-N. J.,Edmonia Lewis
-N. J.,Langston
-N. J.,Nathan
-N. J.,John Chinaman
-N. J.,John
-N. J.,Harper
-N. J.,W. Forney
-N. J.,Frederick Douglass
-N. J.,Samuel R. Ward
-N. J.,Henry Bibb
-N. J.,William Wells Brown
-N. J.,J. W. Loguen
-N. J.,S. C. Armstrong
-N. J.,John G. Fee
-N. J.,E. M. Cravath
-N. J.,E. A. Ware
-N. J.,E. P. Lord
-N. J.,G. Stanly Pope
-N. J.,W. S. Alexander
-N. J.,B. F. Lee
-N. J.,J. N. Rendall
-N. J.,M. Perkins
-N. J.,W. P. Pledger
-N. J.,Allen Allansworth
-N. J.,John H. Johnson
-N. J.,Daniel Jones
-N. J.,A. Perkins
-N. J.,H. Bufford
-N. J.,J. F. C. Snoden
-N. J.,C. A. Burgos
-N. J.,S.E. Hardy
-N. J.,Robt
-N. J.,Simon Daniels
-N. J.,Knox
-N. J.,C. Braboy
-N. J.,H. Walker
-N. J.,J. W. Johnson
-N. J.,G. Mcfarland
-N. J.,G. H. Clay
-N. J.,Bennett Stewart
-N. J.,Archie
-N. J.,E. R. Belcher
-N. J.,Elbert Head
-N. J.,Horace King
-N. J.,P. J. Carter
-N. J.,R.G.L. Paige
-N. J.,J. G. Baugh
-N. J.,W. P. Ryder
-N. J.,W. B. Townsend
-N. J.,J. M. Brown
-N. J.,P. C
-N. J.,Murphy
-N. J.,Perry Mathews
-N. J.,G. W. Braxdall
-N. J.,M. Turner
-N. J.,Davis North
-N. J.,J. W. Hughes
-N. J.,Andrew Hubbard
-N. J.,Moses Dickson
-N. J.,J. J. Bruce
-N. J.,James Matlocler
-N. J.,Burley Jones
-N. J.,C. R. Coleman
-N. J.,John Lang
-N. J.,G. W
-N. J.,Dupee
-N. J.,Jesus Christ
-N. J.,Christ
-N. J.,Gregory
-N. J.,Leo Xiii
-N. J.,T. Tanner
-N. J.,R. F.
-N. J.,Bishop Onderdonk
-N. J.,Calvin
-N. J.,Saviour
-N. J.,Stroud
-N. J.,Eccles
-N. J.,Francis Daniel Pastorious
-N. J.,Anna
-N. J.,Klosterman
-N. J.,Pastorious
-N. J.,Westcott
-N. J.,Ralph Sandeford
-N. J.,Daniel Benedict
-N. J.,L. Boyd
-N. J.,Wesley
-N. J.,A. G. Ferr
-N. J.,M. E. Church
-N. J.,Hannibal
-N. J.,Chang
-N. J.,Creuzot
-N. J.,H. H. Garnett
-N. J.,John Brown
-N. J.,Harris
-N. J.,Theo H. Greene
-N. J.,Adam
-N. J.,Noah
-N. J.,Gideon
-N. J.,Volsci
-N. J.,Putnam
-N. J.,Sumner
-N. J.,Daniel O ' Connell
-N. J.,Robert E. Lee
-N. J.,Napoleon
-N. J.,Wm. H. Miles
-N. J.,David A
-N. J.,Sam
-N. J.,Lowery
-N. J.,C. G. Wimbush
-N. J.,W. James Indiana
-N. J.,Taney
-N. J.,Horace Greeley
-N. J.,Abraham Lincoln
-N. J.,J. H. Burch
-N. J.,W. R. L Awton
-N. J.,John Avertt
-N. J.,F.L. Barnett
-N. J.,A. J. Nixon
-N. J.,A. F. A. Pope
-N. J.,W. F. Yeardlev
-N. J.,J.M. Smith
-N. J.,J. Mckinly
-N. J.,H. H. Thompson
-N. J.,J. H. Kelly
-N. J.,M. F. Wamack
-N. J.,D. Watkins
-N. J.,S. Griffith
-N. J.,Richardson
-N. J.,J. C. Matthews
-N. J.,A. Allensworth
-N. J.,F. B. S. Pinchback
-N. J.,J. Lewis
-N. J.,L.T. Kenner
-N. J.,Charles A. Burgeois
-N. J.,W. Gibbs
-N. J.,J. R. Rolland
-N. J.,H. W. Watkins
-N. J.,F. B. Antoine
-N. J.,J. P. J
-N. J.,J.T. Jenifer
-N. J.,Isaac Gillam
-N. J.,D. S. Brandon
-N. J.,W. O. Lynch
-N. J.,J. M. Goodloe
-N. J.,J. H. Thomason
-N. J.,S. Lowry
-N. J.,W. J. Stevens
-N. J.,P. C. Murphv
-N. J.,L. W. Cummins
-N. J.,E.D. Pope
-N. J.,C.C. Wimbush
-N. J.,M. Bentley
-N. J.,R. Nichols
-N. J.,G. Mcfariand
-N. J.,B. R. Taylor
-N. J.,R. Harlan
 Jonathan,Josh Billings
 Jonathan,Simmons
 Jonathan,Payne
 Jonathan,Blyden
 Jonathan,Edmonia Lewis
 Jonathan,Langston
-Jonathan,Nathan
 Jonathan,John Chinaman
 Jonathan,John
 Jonathan,Harper
@@ -85187,7 +84023,6 @@ Josh Billings,Payne
 Josh Billings,Blyden
 Josh Billings,Edmonia Lewis
 Josh Billings,Langston
-Josh Billings,Nathan
 Josh Billings,John Chinaman
 Josh Billings,John
 Josh Billings,Harper
@@ -85345,7 +84180,6 @@ Simmons,Payne
 Simmons,Blyden
 Simmons,Edmonia Lewis
 Simmons,Langston
-Simmons,Nathan
 Simmons,John Chinaman
 Simmons,John
 Simmons,Harper
@@ -85502,7 +84336,6 @@ Simmons,R. Harlan
 Payne,Blyden
 Payne,Edmonia Lewis
 Payne,Langston
-Payne,Nathan
 Payne,John Chinaman
 Payne,John
 Payne,Harper
@@ -85658,7 +84491,6 @@ Payne,B. R. Taylor
 Payne,R. Harlan
 Blyden,Edmonia Lewis
 Blyden,Langston
-Blyden,Nathan
 Blyden,John Chinaman
 Blyden,John
 Blyden,Harper
@@ -85813,7 +84645,6 @@ Blyden,G. Mcfariand
 Blyden,B. R. Taylor
 Blyden,R. Harlan
 Edmonia Lewis,Langston
-Edmonia Lewis,Nathan
 Edmonia Lewis,John Chinaman
 Edmonia Lewis,John
 Edmonia Lewis,Harper
@@ -85967,7 +84798,6 @@ Edmonia Lewis,R. Nichols
 Edmonia Lewis,G. Mcfariand
 Edmonia Lewis,B. R. Taylor
 Edmonia Lewis,R. Harlan
-Langston,Nathan
 Langston,John Chinaman
 Langston,John
 Langston,Harper
@@ -86121,159 +84951,6 @@ Langston,R. Nichols
 Langston,G. Mcfariand
 Langston,B. R. Taylor
 Langston,R. Harlan
-Nathan,John Chinaman
-Nathan,John
-Nathan,Harper
-Nathan,W. Forney
-Nathan,Frederick Douglass
-Nathan,Samuel R. Ward
-Nathan,Henry Bibb
-Nathan,William Wells Brown
-Nathan,J. W. Loguen
-Nathan,S. C. Armstrong
-Nathan,John G. Fee
-Nathan,E. M. Cravath
-Nathan,E. A. Ware
-Nathan,E. P. Lord
-Nathan,G. Stanly Pope
-Nathan,W. S. Alexander
-Nathan,B. F. Lee
-Nathan,J. N. Rendall
-Nathan,M. Perkins
-Nathan,W. P. Pledger
-Nathan,Allen Allansworth
-Nathan,John H. Johnson
-Nathan,Daniel Jones
-Nathan,A. Perkins
-Nathan,H. Bufford
-Nathan,J. F. C. Snoden
-Nathan,C. A. Burgos
-Nathan,S.E. Hardy
-Nathan,Robt
-Nathan,Simon Daniels
-Nathan,Knox
-Nathan,C. Braboy
-Nathan,H. Walker
-Nathan,J. W. Johnson
-Nathan,G. Mcfarland
-Nathan,G. H. Clay
-Nathan,Bennett Stewart
-Nathan,Archie
-Nathan,E. R. Belcher
-Nathan,Elbert Head
-Nathan,Horace King
-Nathan,P. J. Carter
-Nathan,R.G.L. Paige
-Nathan,J. G. Baugh
-Nathan,W. P. Ryder
-Nathan,W. B. Townsend
-Nathan,J. M. Brown
-Nathan,P. C
-Nathan,Murphy
-Nathan,Perry Mathews
-Nathan,G. W. Braxdall
-Nathan,M. Turner
-Nathan,Davis North
-Nathan,J. W. Hughes
-Nathan,Andrew Hubbard
-Nathan,Moses Dickson
-Nathan,J. J. Bruce
-Nathan,James Matlocler
-Nathan,Burley Jones
-Nathan,C. R. Coleman
-Nathan,John Lang
-Nathan,G. W
-Nathan,Dupee
-Nathan,Jesus Christ
-Nathan,Christ
-Nathan,Gregory
-Nathan,Leo Xiii
-Nathan,T. Tanner
-Nathan,R. F.
-Nathan,Bishop Onderdonk
-Nathan,Calvin
-Nathan,Saviour
-Nathan,Stroud
-Nathan,Eccles
-Nathan,Francis Daniel Pastorious
-Nathan,Anna
-Nathan,Klosterman
-Nathan,Pastorious
-Nathan,Westcott
-Nathan,Ralph Sandeford
-Nathan,Daniel Benedict
-Nathan,L. Boyd
-Nathan,Wesley
-Nathan,A. G. Ferr
-Nathan,M. E. Church
-Nathan,Hannibal
-Nathan,Chang
-Nathan,Creuzot
-Nathan,H. H. Garnett
-Nathan,John Brown
-Nathan,Harris
-Nathan,Theo H. Greene
-Nathan,Adam
-Nathan,Noah
-Nathan,Gideon
-Nathan,Volsci
-Nathan,Putnam
-Nathan,Sumner
-Nathan,Daniel O ' Connell
-Nathan,Robert E. Lee
-Nathan,Napoleon
-Nathan,Wm. H. Miles
-Nathan,David A
-Nathan,Sam
-Nathan,Lowery
-Nathan,C. G. Wimbush
-Nathan,W. James Indiana
-Nathan,Taney
-Nathan,Horace Greeley
-Nathan,Abraham Lincoln
-Nathan,J. H. Burch
-Nathan,W. R. L Awton
-Nathan,John Avertt
-Nathan,F.L. Barnett
-Nathan,A. J. Nixon
-Nathan,A. F. A. Pope
-Nathan,W. F. Yeardlev
-Nathan,J.M. Smith
-Nathan,J. Mckinly
-Nathan,H. H. Thompson
-Nathan,J. H. Kelly
-Nathan,M. F. Wamack
-Nathan,D. Watkins
-Nathan,S. Griffith
-Nathan,Richardson
-Nathan,J. C. Matthews
-Nathan,A. Allensworth
-Nathan,F. B. S. Pinchback
-Nathan,J. Lewis
-Nathan,L.T. Kenner
-Nathan,Charles A. Burgeois
-Nathan,W. Gibbs
-Nathan,J. R. Rolland
-Nathan,H. W. Watkins
-Nathan,F. B. Antoine
-Nathan,J. P. J
-Nathan,J.T. Jenifer
-Nathan,Isaac Gillam
-Nathan,D. S. Brandon
-Nathan,W. O. Lynch
-Nathan,J. M. Goodloe
-Nathan,J. H. Thomason
-Nathan,S. Lowry
-Nathan,W. J. Stevens
-Nathan,P. C. Murphv
-Nathan,L. W. Cummins
-Nathan,E.D. Pope
-Nathan,C.C. Wimbush
-Nathan,M. Bentley
-Nathan,R. Nichols
-Nathan,G. Mcfariand
-Nathan,B. R. Taylor
-Nathan,R. Harlan
 John Chinaman,John
 John Chinaman,Harper
 John Chinaman,W. Forney

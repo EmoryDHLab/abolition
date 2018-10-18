@@ -1,4 +1,4 @@
-name1,name2
+source,target
 John Booker,D. Jenkins
 John Booker,P. H. Clark
 John Booker,J. Mercer Langston
@@ -17,7 +17,6 @@ John Booker,Peter H. Clark
 John Booker,C. A. Yancy
 John Booker,Anderson Flinn
 John Booker,Granville Foster
-John Booker,Ross County
 John Booker,D. E. James
 John Booker,C. D. Williams
 John Booker,J. H. Williams
@@ -89,7 +88,6 @@ D. Jenkins,Peter H. Clark
 D. Jenkins,C. A. Yancy
 D. Jenkins,Anderson Flinn
 D. Jenkins,Granville Foster
-D. Jenkins,Ross County
 D. Jenkins,D. E. James
 D. Jenkins,C. D. Williams
 D. Jenkins,J. H. Williams
@@ -160,7 +158,6 @@ P. H. Clark,Peter H. Clark
 P. H. Clark,C. A. Yancy
 P. H. Clark,Anderson Flinn
 P. H. Clark,Granville Foster
-P. H. Clark,Ross County
 P. H. Clark,D. E. James
 P. H. Clark,C. D. Williams
 P. H. Clark,J. H. Williams
@@ -230,7 +227,6 @@ J. Mercer Langston,Peter H. Clark
 J. Mercer Langston,C. A. Yancy
 J. Mercer Langston,Anderson Flinn
 J. Mercer Langston,Granville Foster
-J. Mercer Langston,Ross County
 J. Mercer Langston,D. E. James
 J. Mercer Langston,C. D. Williams
 J. Mercer Langston,J. H. Williams
@@ -299,7 +295,6 @@ Solomon Grimes,Peter H. Clark
 Solomon Grimes,C. A. Yancy
 Solomon Grimes,Anderson Flinn
 Solomon Grimes,Granville Foster
-Solomon Grimes,Ross County
 Solomon Grimes,D. E. James
 Solomon Grimes,C. D. Williams
 Solomon Grimes,J. H. Williams
@@ -367,7 +362,6 @@ J. H. Harris,Peter H. Clark
 J. H. Harris,C. A. Yancy
 J. H. Harris,Anderson Flinn
 J. H. Harris,Granville Foster
-J. H. Harris,Ross County
 J. H. Harris,D. E. James
 J. H. Harris,C. D. Williams
 J. H. Harris,J. H. Williams
@@ -434,7 +428,6 @@ L. D. Taylor,Peter H. Clark
 L. D. Taylor,C. A. Yancy
 L. D. Taylor,Anderson Flinn
 L. D. Taylor,Granville Foster
-L. D. Taylor,Ross County
 L. D. Taylor,D. E. James
 L. D. Taylor,C. D. Williams
 L. D. Taylor,J. H. Williams
@@ -500,7 +493,6 @@ C. H. Langston,Peter H. Clark
 C. H. Langston,C. A. Yancy
 C. H. Langston,Anderson Flinn
 C. H. Langston,Granville Foster
-C. H. Langston,Ross County
 C. H. Langston,D. E. James
 C. H. Langston,C. D. Williams
 C. H. Langston,J. H. Williams
@@ -565,7 +557,6 @@ W. B. Ferguson,Peter H. Clark
 W. B. Ferguson,C. A. Yancy
 W. B. Ferguson,Anderson Flinn
 W. B. Ferguson,Granville Foster
-W. B. Ferguson,Ross County
 W. B. Ferguson,D. E. James
 W. B. Ferguson,C. D. Williams
 W. B. Ferguson,J. H. Williams
@@ -629,7 +620,6 @@ J. Poindexter,Peter H. Clark
 J. Poindexter,C. A. Yancy
 J. Poindexter,Anderson Flinn
 J. Poindexter,Granville Foster
-J. Poindexter,Ross County
 J. Poindexter,D. E. James
 J. Poindexter,C. D. Williams
 J. Poindexter,J. H. Williams
@@ -692,7 +682,6 @@ James Evans,Peter H. Clark
 James Evans,C. A. Yancy
 James Evans,Anderson Flinn
 James Evans,Granville Foster
-James Evans,Ross County
 James Evans,D. E. James
 James Evans,C. D. Williams
 James Evans,J. H. Williams
@@ -754,7 +743,6 @@ Isham Martin,Peter H. Clark
 Isham Martin,C. A. Yancy
 Isham Martin,Anderson Flinn
 Isham Martin,Granville Foster
-Isham Martin,Ross County
 Isham Martin,D. E. James
 Isham Martin,C. D. Williams
 Isham Martin,J. H. Williams
@@ -815,7 +803,6 @@ J. S. Ward,Peter H. Clark
 J. S. Ward,C. A. Yancy
 J. S. Ward,Anderson Flinn
 J. S. Ward,Granville Foster
-J. S. Ward,Ross County
 J. S. Ward,D. E. James
 J. S. Ward,C. D. Williams
 J. S. Ward,J. H. Williams
@@ -875,7 +862,6 @@ George Johnson,Peter H. Clark
 George Johnson,C. A. Yancy
 George Johnson,Anderson Flinn
 George Johnson,Granville Foster
-George Johnson,Ross County
 George Johnson,D. E. James
 George Johnson,C. D. Williams
 George Johnson,J. H. Williams
@@ -934,7 +920,6 @@ John I. Gaines,Peter H. Clark
 John I. Gaines,C. A. Yancy
 John I. Gaines,Anderson Flinn
 John I. Gaines,Granville Foster
-John I. Gaines,Ross County
 John I. Gaines,D. E. James
 John I. Gaines,C. D. Williams
 John I. Gaines,J. H. Williams
@@ -992,7 +977,6 @@ John I. Gaines,John T. Ward
 Peter H. Clark,C. A. Yancy
 Peter H. Clark,Anderson Flinn
 Peter H. Clark,Granville Foster
-Peter H. Clark,Ross County
 Peter H. Clark,D. E. James
 Peter H. Clark,C. D. Williams
 Peter H. Clark,J. H. Williams
@@ -1049,7 +1033,6 @@ Peter H. Clark,J. T. Ward
 Peter H. Clark,John T. Ward
 C. A. Yancy,Anderson Flinn
 C. A. Yancy,Granville Foster
-C. A. Yancy,Ross County
 C. A. Yancy,D. E. James
 C. A. Yancy,C. D. Williams
 C. A. Yancy,J. H. Williams
@@ -1105,7 +1088,6 @@ C. A. Yancy,Jonathan Underwood
 C. A. Yancy,J. T. Ward
 C. A. Yancy,John T. Ward
 Anderson Flinn,Granville Foster
-Anderson Flinn,Ross County
 Anderson Flinn,D. E. James
 Anderson Flinn,C. D. Williams
 Anderson Flinn,J. H. Williams
@@ -1160,7 +1142,6 @@ Anderson Flinn,J. R. Giddings
 Anderson Flinn,Jonathan Underwood
 Anderson Flinn,J. T. Ward
 Anderson Flinn,John T. Ward
-Granville Foster,Ross County
 Granville Foster,D. E. James
 Granville Foster,C. D. Williams
 Granville Foster,J. H. Williams
@@ -1215,60 +1196,6 @@ Granville Foster,J. R. Giddings
 Granville Foster,Jonathan Underwood
 Granville Foster,J. T. Ward
 Granville Foster,John T. Ward
-Ross County,D. E. James
-Ross County,C. D. Williams
-Ross County,J. H. Williams
-Ross County,Hinton Coles
-Ross County,Lewis Toles
-Ross County,Lewis Adams
-Ross County,Henry Ford
-Ross County,John H. Williams
-Ross County,Francis Adams
-Ross County,George Reynolds
-Ross County,A. J. Scott
-Ross County,R. Heathcock
-Ross County,Wm. Walden
-Ross County,H. T. Rankin
-Ross County,U. D. Harris
-Ross County,J. Bruce
-Ross County,J. J. Williamson
-Ross County,James Lott
-Ross County,John Miner
-Ross County,John Malvin
-Ross County,A. Flinn
-Ross County,Benford
-Ross County,W. D. Harris
-Ross County,John M. Langston
-Ross County,Charles Williams
-Ross County,James Poindexter
-Ross County,John Williams
-Ross County,G. Johnson
-Ross County,Turban
-Ross County,Langston
-Ross County,Clark
-Ross County,Gaines
-Ross County,Douglas
-Ross County,J. M. Langston
-Ross County,Peter
-Ross County,Cha
-Ross County,Charles Langston
-Ross County,Charles A Yancy
-Ross County,Canfield
-Ross County,Brown
-Ross County,Taylor
-Ross County,Harris
-Ross County,Lucifer
-Ross County,Carlyle
-Ross County,Sara G. Staley
-Ross County,J. Watson
-Ross County,J. Malvin
-Ross County,W. A. Scott
-Ross County,J. Booker
-Ross County,Gerrit Smith
-Ross County,J. R. Giddings
-Ross County,Jonathan Underwood
-Ross County,J. T. Ward
-Ross County,John T. Ward
 D. E. James,C. D. Williams
 D. E. James,J. H. Williams
 D. E. James,Hinton Coles

@@ -1,4 +1,4 @@
-name1,name2
+source,target
 J. C. Kneeland,H. H. Garnet
 J. C. Kneeland,Peyton Harris
 J. C. Kneeland,Wm. C. Nell
@@ -95,7 +95,6 @@ J. C. Kneeland,J.Mccune Smith
 J. C. Kneeland,Wm H. Topp
 J. C. Kneeland,G.B. Wilson
 J. C. Kneeland,P.G. Smith
-J. C. Kneeland,P. M.
 J. C. Kneeland,George Wilson
 J. C. Kneeland,J. Mc
 J. C. Kneeland,Cune Smith
@@ -182,7 +181,6 @@ J. C. Kneeland,E. V. Clark
 J. C. Kneeland,Joseph Cassey
 J. C. Kneeland,William Douglass
 J. C. Kneeland,James J. G. Bias
-J. C. Kneeland,A. M.
 J. C. Kneeland,Kenney
 J. C. Kneeland,M. A. Jackson
 J. C. Kneeland,M. Sumner
@@ -230,7 +228,6 @@ J. C. Kneeland,Spense
 J. C. Kneeland,N. Y. Minutes
 J. C. Kneeland,H. H. Garnett
 J. C. Kneeland,A. Jackson
-J. C. Kneeland,W. C.
 J. C. Kneeland,Garnett
 J. C. Kneeland,Lee
 J. C. Kneeland,Wm. H. Topp
@@ -355,7 +352,6 @@ H. H. Garnet,J.Mccune Smith
 H. H. Garnet,Wm H. Topp
 H. H. Garnet,G.B. Wilson
 H. H. Garnet,P.G. Smith
-H. H. Garnet,P. M.
 H. H. Garnet,George Wilson
 H. H. Garnet,J. Mc
 H. H. Garnet,Cune Smith
@@ -442,7 +438,6 @@ H. H. Garnet,E. V. Clark
 H. H. Garnet,Joseph Cassey
 H. H. Garnet,William Douglass
 H. H. Garnet,James J. G. Bias
-H. H. Garnet,A. M.
 H. H. Garnet,Kenney
 H. H. Garnet,M. A. Jackson
 H. H. Garnet,M. Sumner
@@ -490,7 +485,6 @@ H. H. Garnet,Spense
 H. H. Garnet,N. Y. Minutes
 H. H. Garnet,H. H. Garnett
 H. H. Garnet,A. Jackson
-H. H. Garnet,W. C.
 H. H. Garnet,Garnett
 H. H. Garnet,Lee
 H. H. Garnet,Wm. H. Topp
@@ -614,7 +608,6 @@ Peyton Harris,J.Mccune Smith
 Peyton Harris,Wm H. Topp
 Peyton Harris,G.B. Wilson
 Peyton Harris,P.G. Smith
-Peyton Harris,P. M.
 Peyton Harris,George Wilson
 Peyton Harris,J. Mc
 Peyton Harris,Cune Smith
@@ -701,7 +694,6 @@ Peyton Harris,E. V. Clark
 Peyton Harris,Joseph Cassey
 Peyton Harris,William Douglass
 Peyton Harris,James J. G. Bias
-Peyton Harris,A. M.
 Peyton Harris,Kenney
 Peyton Harris,M. A. Jackson
 Peyton Harris,M. Sumner
@@ -749,7 +741,6 @@ Peyton Harris,Spense
 Peyton Harris,N. Y. Minutes
 Peyton Harris,H. H. Garnett
 Peyton Harris,A. Jackson
-Peyton Harris,W. C.
 Peyton Harris,Garnett
 Peyton Harris,Lee
 Peyton Harris,Wm. H. Topp
@@ -872,7 +863,6 @@ Wm. C. Nell,J.Mccune Smith
 Wm. C. Nell,Wm H. Topp
 Wm. C. Nell,G.B. Wilson
 Wm. C. Nell,P.G. Smith
-Wm. C. Nell,P. M.
 Wm. C. Nell,George Wilson
 Wm. C. Nell,J. Mc
 Wm. C. Nell,Cune Smith
@@ -959,7 +949,6 @@ Wm. C. Nell,E. V. Clark
 Wm. C. Nell,Joseph Cassey
 Wm. C. Nell,William Douglass
 Wm. C. Nell,James J. G. Bias
-Wm. C. Nell,A. M.
 Wm. C. Nell,Kenney
 Wm. C. Nell,M. A. Jackson
 Wm. C. Nell,M. Sumner
@@ -1007,7 +996,6 @@ Wm. C. Nell,Spense
 Wm. C. Nell,N. Y. Minutes
 Wm. C. Nell,H. H. Garnett
 Wm. C. Nell,A. Jackson
-Wm. C. Nell,W. C.
 Wm. C. Nell,Garnett
 Wm. C. Nell,Lee
 Wm. C. Nell,Wm. H. Topp
@@ -1129,7 +1117,6 @@ Charles Seth,J.Mccune Smith
 Charles Seth,Wm H. Topp
 Charles Seth,G.B. Wilson
 Charles Seth,P.G. Smith
-Charles Seth,P. M.
 Charles Seth,George Wilson
 Charles Seth,J. Mc
 Charles Seth,Cune Smith
@@ -1216,7 +1203,6 @@ Charles Seth,E. V. Clark
 Charles Seth,Joseph Cassey
 Charles Seth,William Douglass
 Charles Seth,James J. G. Bias
-Charles Seth,A. M.
 Charles Seth,Kenney
 Charles Seth,M. A. Jackson
 Charles Seth,M. Sumner
@@ -1264,7 +1250,6 @@ Charles Seth,Spense
 Charles Seth,N. Y. Minutes
 Charles Seth,H. H. Garnett
 Charles Seth,A. Jackson
-Charles Seth,W. C.
 Charles Seth,Garnett
 Charles Seth,Lee
 Charles Seth,Wm. H. Topp
@@ -1385,7 +1370,6 @@ Henry H. Garnet,J.Mccune Smith
 Henry H. Garnet,Wm H. Topp
 Henry H. Garnet,G.B. Wilson
 Henry H. Garnet,P.G. Smith
-Henry H. Garnet,P. M.
 Henry H. Garnet,George Wilson
 Henry H. Garnet,J. Mc
 Henry H. Garnet,Cune Smith
@@ -1472,7 +1456,6 @@ Henry H. Garnet,E. V. Clark
 Henry H. Garnet,Joseph Cassey
 Henry H. Garnet,William Douglass
 Henry H. Garnet,James J. G. Bias
-Henry H. Garnet,A. M.
 Henry H. Garnet,Kenney
 Henry H. Garnet,M. A. Jackson
 Henry H. Garnet,M. Sumner
@@ -1520,7 +1503,6 @@ Henry H. Garnet,Spense
 Henry H. Garnet,N. Y. Minutes
 Henry H. Garnet,H. H. Garnett
 Henry H. Garnet,A. Jackson
-Henry H. Garnet,W. C.
 Henry H. Garnet,Garnett
 Henry H. Garnet,Lee
 Henry H. Garnet,Wm. H. Topp
@@ -1640,7 +1622,6 @@ John Spence,J.Mccune Smith
 John Spence,Wm H. Topp
 John Spence,G.B. Wilson
 John Spence,P.G. Smith
-John Spence,P. M.
 John Spence,George Wilson
 John Spence,J. Mc
 John Spence,Cune Smith
@@ -1727,7 +1708,6 @@ John Spence,E. V. Clark
 John Spence,Joseph Cassey
 John Spence,William Douglass
 John Spence,James J. G. Bias
-John Spence,A. M.
 John Spence,Kenney
 John Spence,M. A. Jackson
 John Spence,M. Sumner
@@ -1775,7 +1755,6 @@ John Spence,Spense
 John Spence,N. Y. Minutes
 John Spence,H. H. Garnett
 John Spence,A. Jackson
-John Spence,W. C.
 John Spence,Garnett
 John Spence,Lee
 John Spence,Wm. H. Topp
@@ -1894,7 +1873,6 @@ Henry Morton,J.Mccune Smith
 Henry Morton,Wm H. Topp
 Henry Morton,G.B. Wilson
 Henry Morton,P.G. Smith
-Henry Morton,P. M.
 Henry Morton,George Wilson
 Henry Morton,J. Mc
 Henry Morton,Cune Smith
@@ -1981,7 +1959,6 @@ Henry Morton,E. V. Clark
 Henry Morton,Joseph Cassey
 Henry Morton,William Douglass
 Henry Morton,James J. G. Bias
-Henry Morton,A. M.
 Henry Morton,Kenney
 Henry Morton,M. A. Jackson
 Henry Morton,M. Sumner
@@ -2029,7 +2006,6 @@ Henry Morton,Spense
 Henry Morton,N. Y. Minutes
 Henry Morton,H. H. Garnett
 Henry Morton,A. Jackson
-Henry Morton,W. C.
 Henry Morton,Garnett
 Henry Morton,Lee
 Henry Morton,Wm. H. Topp
@@ -2147,7 +2123,6 @@ William Rich,J.Mccune Smith
 William Rich,Wm H. Topp
 William Rich,G.B. Wilson
 William Rich,P.G. Smith
-William Rich,P. M.
 William Rich,George Wilson
 William Rich,J. Mc
 William Rich,Cune Smith
@@ -2234,7 +2209,6 @@ William Rich,E. V. Clark
 William Rich,Joseph Cassey
 William Rich,William Douglass
 William Rich,James J. G. Bias
-William Rich,A. M.
 William Rich,Kenney
 William Rich,M. A. Jackson
 William Rich,M. Sumner
@@ -2282,7 +2256,6 @@ William Rich,Spense
 William Rich,N. Y. Minutes
 William Rich,H. H. Garnett
 William Rich,A. Jackson
-William Rich,W. C.
 William Rich,Garnett
 William Rich,Lee
 William Rich,Wm. H. Topp
@@ -2399,7 +2372,6 @@ James H. Gardner,J.Mccune Smith
 James H. Gardner,Wm H. Topp
 James H. Gardner,G.B. Wilson
 James H. Gardner,P.G. Smith
-James H. Gardner,P. M.
 James H. Gardner,George Wilson
 James H. Gardner,J. Mc
 James H. Gardner,Cune Smith
@@ -2486,7 +2458,6 @@ James H. Gardner,E. V. Clark
 James H. Gardner,Joseph Cassey
 James H. Gardner,William Douglass
 James H. Gardner,James J. G. Bias
-James H. Gardner,A. M.
 James H. Gardner,Kenney
 James H. Gardner,M. A. Jackson
 James H. Gardner,M. Sumner
@@ -2534,7 +2505,6 @@ James H. Gardner,Spense
 James H. Gardner,N. Y. Minutes
 James H. Gardner,H. H. Garnett
 James H. Gardner,A. Jackson
-James H. Gardner,W. C.
 James H. Gardner,Garnett
 James H. Gardner,Lee
 James H. Gardner,Wm. H. Topp
@@ -2650,7 +2620,6 @@ L. Harper,J.Mccune Smith
 L. Harper,Wm H. Topp
 L. Harper,G.B. Wilson
 L. Harper,P.G. Smith
-L. Harper,P. M.
 L. Harper,George Wilson
 L. Harper,J. Mc
 L. Harper,Cune Smith
@@ -2737,7 +2706,6 @@ L. Harper,E. V. Clark
 L. Harper,Joseph Cassey
 L. Harper,William Douglass
 L. Harper,James J. G. Bias
-L. Harper,A. M.
 L. Harper,Kenney
 L. Harper,M. A. Jackson
 L. Harper,M. Sumner
@@ -2785,7 +2753,6 @@ L. Harper,Spense
 L. Harper,N. Y. Minutes
 L. Harper,H. H. Garnett
 L. Harper,A. Jackson
-L. Harper,W. C.
 L. Harper,Garnett
 L. Harper,Lee
 L. Harper,Wm. H. Topp
@@ -2900,7 +2867,6 @@ W. Gordon,J.Mccune Smith
 W. Gordon,Wm H. Topp
 W. Gordon,G.B. Wilson
 W. Gordon,P.G. Smith
-W. Gordon,P. M.
 W. Gordon,George Wilson
 W. Gordon,J. Mc
 W. Gordon,Cune Smith
@@ -2987,7 +2953,6 @@ W. Gordon,E. V. Clark
 W. Gordon,Joseph Cassey
 W. Gordon,William Douglass
 W. Gordon,James J. G. Bias
-W. Gordon,A. M.
 W. Gordon,Kenney
 W. Gordon,M. A. Jackson
 W. Gordon,M. Sumner
@@ -3035,7 +3000,6 @@ W. Gordon,Spense
 W. Gordon,N. Y. Minutes
 W. Gordon,H. H. Garnett
 W. Gordon,A. Jackson
-W. Gordon,W. C.
 W. Gordon,Garnett
 W. Gordon,Lee
 W. Gordon,Wm. H. Topp
@@ -3149,7 +3113,6 @@ James H. Davis,J.Mccune Smith
 James H. Davis,Wm H. Topp
 James H. Davis,G.B. Wilson
 James H. Davis,P.G. Smith
-James H. Davis,P. M.
 James H. Davis,George Wilson
 James H. Davis,J. Mc
 James H. Davis,Cune Smith
@@ -3236,7 +3199,6 @@ James H. Davis,E. V. Clark
 James H. Davis,Joseph Cassey
 James H. Davis,William Douglass
 James H. Davis,James J. G. Bias
-James H. Davis,A. M.
 James H. Davis,Kenney
 James H. Davis,M. A. Jackson
 James H. Davis,M. Sumner
@@ -3284,7 +3246,6 @@ James H. Davis,Spense
 James H. Davis,N. Y. Minutes
 James H. Davis,H. H. Garnett
 James H. Davis,A. Jackson
-James H. Davis,W. C.
 James H. Davis,Garnett
 James H. Davis,Lee
 James H. Davis,Wm. H. Topp
@@ -3397,7 +3358,6 @@ Wiliam S. Baltimore,J.Mccune Smith
 Wiliam S. Baltimore,Wm H. Topp
 Wiliam S. Baltimore,G.B. Wilson
 Wiliam S. Baltimore,P.G. Smith
-Wiliam S. Baltimore,P. M.
 Wiliam S. Baltimore,George Wilson
 Wiliam S. Baltimore,J. Mc
 Wiliam S. Baltimore,Cune Smith
@@ -3484,7 +3444,6 @@ Wiliam S. Baltimore,E. V. Clark
 Wiliam S. Baltimore,Joseph Cassey
 Wiliam S. Baltimore,William Douglass
 Wiliam S. Baltimore,James J. G. Bias
-Wiliam S. Baltimore,A. M.
 Wiliam S. Baltimore,Kenney
 Wiliam S. Baltimore,M. A. Jackson
 Wiliam S. Baltimore,M. Sumner
@@ -3532,7 +3491,6 @@ Wiliam S. Baltimore,Spense
 Wiliam S. Baltimore,N. Y. Minutes
 Wiliam S. Baltimore,H. H. Garnett
 Wiliam S. Baltimore,A. Jackson
-Wiliam S. Baltimore,W. C.
 Wiliam S. Baltimore,Garnett
 Wiliam S. Baltimore,Lee
 Wiliam S. Baltimore,Wm. H. Topp
@@ -3644,7 +3602,6 @@ Littleton Becket,J.Mccune Smith
 Littleton Becket,Wm H. Topp
 Littleton Becket,G.B. Wilson
 Littleton Becket,P.G. Smith
-Littleton Becket,P. M.
 Littleton Becket,George Wilson
 Littleton Becket,J. Mc
 Littleton Becket,Cune Smith
@@ -3731,7 +3688,6 @@ Littleton Becket,E. V. Clark
 Littleton Becket,Joseph Cassey
 Littleton Becket,William Douglass
 Littleton Becket,James J. G. Bias
-Littleton Becket,A. M.
 Littleton Becket,Kenney
 Littleton Becket,M. A. Jackson
 Littleton Becket,M. Sumner
@@ -3779,7 +3735,6 @@ Littleton Becket,Spense
 Littleton Becket,N. Y. Minutes
 Littleton Becket,H. H. Garnett
 Littleton Becket,A. Jackson
-Littleton Becket,W. C.
 Littleton Becket,Garnett
 Littleton Becket,Lee
 Littleton Becket,Wm. H. Topp
@@ -3890,7 +3845,6 @@ William G. Allen,J.Mccune Smith
 William G. Allen,Wm H. Topp
 William G. Allen,G.B. Wilson
 William G. Allen,P.G. Smith
-William G. Allen,P. M.
 William G. Allen,George Wilson
 William G. Allen,J. Mc
 William G. Allen,Cune Smith
@@ -3977,7 +3931,6 @@ William G. Allen,E. V. Clark
 William G. Allen,Joseph Cassey
 William G. Allen,William Douglass
 William G. Allen,James J. G. Bias
-William G. Allen,A. M.
 William G. Allen,Kenney
 William G. Allen,M. A. Jackson
 William G. Allen,M. Sumner
@@ -4025,7 +3978,6 @@ William G. Allen,Spense
 William G. Allen,N. Y. Minutes
 William G. Allen,H. H. Garnett
 William G. Allen,A. Jackson
-William G. Allen,W. C.
 William G. Allen,Garnett
 William G. Allen,Lee
 William G. Allen,Wm. H. Topp
@@ -4135,7 +4087,6 @@ Henry Brister,J.Mccune Smith
 Henry Brister,Wm H. Topp
 Henry Brister,G.B. Wilson
 Henry Brister,P.G. Smith
-Henry Brister,P. M.
 Henry Brister,George Wilson
 Henry Brister,J. Mc
 Henry Brister,Cune Smith
@@ -4222,7 +4173,6 @@ Henry Brister,E. V. Clark
 Henry Brister,Joseph Cassey
 Henry Brister,William Douglass
 Henry Brister,James J. G. Bias
-Henry Brister,A. M.
 Henry Brister,Kenney
 Henry Brister,M. A. Jackson
 Henry Brister,M. Sumner
@@ -4270,7 +4220,6 @@ Henry Brister,Spense
 Henry Brister,N. Y. Minutes
 Henry Brister,H. H. Garnett
 Henry Brister,A. Jackson
-Henry Brister,W. C.
 Henry Brister,Garnett
 Henry Brister,Lee
 Henry Brister,Wm. H. Topp
@@ -4379,7 +4328,6 @@ James Mccune Smith,J.Mccune Smith
 James Mccune Smith,Wm H. Topp
 James Mccune Smith,G.B. Wilson
 James Mccune Smith,P.G. Smith
-James Mccune Smith,P. M.
 James Mccune Smith,George Wilson
 James Mccune Smith,J. Mc
 James Mccune Smith,Cune Smith
@@ -4466,7 +4414,6 @@ James Mccune Smith,E. V. Clark
 James Mccune Smith,Joseph Cassey
 James Mccune Smith,William Douglass
 James Mccune Smith,James J. G. Bias
-James Mccune Smith,A. M.
 James Mccune Smith,Kenney
 James Mccune Smith,M. A. Jackson
 James Mccune Smith,M. Sumner
@@ -4514,7 +4461,6 @@ James Mccune Smith,Spense
 James Mccune Smith,N. Y. Minutes
 James Mccune Smith,H. H. Garnett
 James Mccune Smith,A. Jackson
-James Mccune Smith,W. C.
 James Mccune Smith,Garnett
 James Mccune Smith,Lee
 James Mccune Smith,Wm. H. Topp
@@ -4622,7 +4568,6 @@ Charles B. Ray,J.Mccune Smith
 Charles B. Ray,Wm H. Topp
 Charles B. Ray,G.B. Wilson
 Charles B. Ray,P.G. Smith
-Charles B. Ray,P. M.
 Charles B. Ray,George Wilson
 Charles B. Ray,J. Mc
 Charles B. Ray,Cune Smith
@@ -4709,7 +4654,6 @@ Charles B. Ray,E. V. Clark
 Charles B. Ray,Joseph Cassey
 Charles B. Ray,William Douglass
 Charles B. Ray,James J. G. Bias
-Charles B. Ray,A. M.
 Charles B. Ray,Kenney
 Charles B. Ray,M. A. Jackson
 Charles B. Ray,M. Sumner
@@ -4757,7 +4701,6 @@ Charles B. Ray,Spense
 Charles B. Ray,N. Y. Minutes
 Charles B. Ray,H. H. Garnett
 Charles B. Ray,A. Jackson
-Charles B. Ray,W. C.
 Charles B. Ray,Garnett
 Charles B. Ray,Lee
 Charles B. Ray,Wm. H. Topp
@@ -4864,7 +4807,6 @@ Griffin Griffins,J.Mccune Smith
 Griffin Griffins,Wm H. Topp
 Griffin Griffins,G.B. Wilson
 Griffin Griffins,P.G. Smith
-Griffin Griffins,P. M.
 Griffin Griffins,George Wilson
 Griffin Griffins,J. Mc
 Griffin Griffins,Cune Smith
@@ -4951,7 +4893,6 @@ Griffin Griffins,E. V. Clark
 Griffin Griffins,Joseph Cassey
 Griffin Griffins,William Douglass
 Griffin Griffins,James J. G. Bias
-Griffin Griffins,A. M.
 Griffin Griffins,Kenney
 Griffin Griffins,M. A. Jackson
 Griffin Griffins,M. Sumner
@@ -4999,7 +4940,6 @@ Griffin Griffins,Spense
 Griffin Griffins,N. Y. Minutes
 Griffin Griffins,H. H. Garnett
 Griffin Griffins,A. Jackson
-Griffin Griffins,W. C.
 Griffin Griffins,Garnett
 Griffin Griffins,Lee
 Griffin Griffins,Wm. H. Topp
@@ -5105,7 +5045,6 @@ Enoch Moore,J.Mccune Smith
 Enoch Moore,Wm H. Topp
 Enoch Moore,G.B. Wilson
 Enoch Moore,P.G. Smith
-Enoch Moore,P. M.
 Enoch Moore,George Wilson
 Enoch Moore,J. Mc
 Enoch Moore,Cune Smith
@@ -5192,7 +5131,6 @@ Enoch Moore,E. V. Clark
 Enoch Moore,Joseph Cassey
 Enoch Moore,William Douglass
 Enoch Moore,James J. G. Bias
-Enoch Moore,A. M.
 Enoch Moore,Kenney
 Enoch Moore,M. A. Jackson
 Enoch Moore,M. Sumner
@@ -5240,7 +5178,6 @@ Enoch Moore,Spense
 Enoch Moore,N. Y. Minutes
 Enoch Moore,H. H. Garnett
 Enoch Moore,A. Jackson
-Enoch Moore,W. C.
 Enoch Moore,Garnett
 Enoch Moore,Lee
 Enoch Moore,Wm. H. Topp
@@ -5345,7 +5282,6 @@ William H,J.Mccune Smith
 William H,Wm H. Topp
 William H,G.B. Wilson
 William H,P.G. Smith
-William H,P. M.
 William H,George Wilson
 William H,J. Mc
 William H,Cune Smith
@@ -5432,7 +5368,6 @@ William H,E. V. Clark
 William H,Joseph Cassey
 William H,William Douglass
 William H,James J. G. Bias
-William H,A. M.
 William H,Kenney
 William H,M. A. Jackson
 William H,M. Sumner
@@ -5480,7 +5415,6 @@ William H,Spense
 William H,N. Y. Minutes
 William H,H. H. Garnett
 William H,A. Jackson
-William H,W. C.
 William H,Garnett
 William H,Lee
 William H,Wm. H. Topp
@@ -5584,7 +5518,6 @@ Topp,J.Mccune Smith
 Topp,Wm H. Topp
 Topp,G.B. Wilson
 Topp,P.G. Smith
-Topp,P. M.
 Topp,George Wilson
 Topp,J. Mc
 Topp,Cune Smith
@@ -5671,7 +5604,6 @@ Topp,E. V. Clark
 Topp,Joseph Cassey
 Topp,William Douglass
 Topp,James J. G. Bias
-Topp,A. M.
 Topp,Kenney
 Topp,M. A. Jackson
 Topp,M. Sumner
@@ -5719,7 +5651,6 @@ Topp,Spense
 Topp,N. Y. Minutes
 Topp,H. H. Garnett
 Topp,A. Jackson
-Topp,W. C.
 Topp,Garnett
 Topp,Lee
 Topp,Wm. H. Topp
@@ -5822,7 +5753,6 @@ Stephen Woods,J.Mccune Smith
 Stephen Woods,Wm H. Topp
 Stephen Woods,G.B. Wilson
 Stephen Woods,P.G. Smith
-Stephen Woods,P. M.
 Stephen Woods,George Wilson
 Stephen Woods,J. Mc
 Stephen Woods,Cune Smith
@@ -5909,7 +5839,6 @@ Stephen Woods,E. V. Clark
 Stephen Woods,Joseph Cassey
 Stephen Woods,William Douglass
 Stephen Woods,James J. G. Bias
-Stephen Woods,A. M.
 Stephen Woods,Kenney
 Stephen Woods,M. A. Jackson
 Stephen Woods,M. Sumner
@@ -5957,7 +5886,6 @@ Stephen Woods,Spense
 Stephen Woods,N. Y. Minutes
 Stephen Woods,H. H. Garnett
 Stephen Woods,A. Jackson
-Stephen Woods,W. C.
 Stephen Woods,Garnett
 Stephen Woods,Lee
 Stephen Woods,Wm. H. Topp
@@ -6059,7 +5987,6 @@ John Harrison,J.Mccune Smith
 John Harrison,Wm H. Topp
 John Harrison,G.B. Wilson
 John Harrison,P.G. Smith
-John Harrison,P. M.
 John Harrison,George Wilson
 John Harrison,J. Mc
 John Harrison,Cune Smith
@@ -6146,7 +6073,6 @@ John Harrison,E. V. Clark
 John Harrison,Joseph Cassey
 John Harrison,William Douglass
 John Harrison,James J. G. Bias
-John Harrison,A. M.
 John Harrison,Kenney
 John Harrison,M. A. Jackson
 John Harrison,M. Sumner
@@ -6194,7 +6120,6 @@ John Harrison,Spense
 John Harrison,N. Y. Minutes
 John Harrison,H. H. Garnett
 John Harrison,A. Jackson
-John Harrison,W. C.
 John Harrison,Garnett
 John Harrison,Lee
 John Harrison,Wm. H. Topp
@@ -6295,7 +6220,6 @@ George B. Wilson,J.Mccune Smith
 George B. Wilson,Wm H. Topp
 George B. Wilson,G.B. Wilson
 George B. Wilson,P.G. Smith
-George B. Wilson,P. M.
 George B. Wilson,George Wilson
 George B. Wilson,J. Mc
 George B. Wilson,Cune Smith
@@ -6382,7 +6306,6 @@ George B. Wilson,E. V. Clark
 George B. Wilson,Joseph Cassey
 George B. Wilson,William Douglass
 George B. Wilson,James J. G. Bias
-George B. Wilson,A. M.
 George B. Wilson,Kenney
 George B. Wilson,M. A. Jackson
 George B. Wilson,M. Sumner
@@ -6430,7 +6353,6 @@ George B. Wilson,Spense
 George B. Wilson,N. Y. Minutes
 George B. Wilson,H. H. Garnett
 George B. Wilson,A. Jackson
-George B. Wilson,W. C.
 George B. Wilson,Garnett
 George B. Wilson,Lee
 George B. Wilson,Wm. H. Topp
@@ -6530,7 +6452,6 @@ Stephen Myers,J.Mccune Smith
 Stephen Myers,Wm H. Topp
 Stephen Myers,G.B. Wilson
 Stephen Myers,P.G. Smith
-Stephen Myers,P. M.
 Stephen Myers,George Wilson
 Stephen Myers,J. Mc
 Stephen Myers,Cune Smith
@@ -6617,7 +6538,6 @@ Stephen Myers,E. V. Clark
 Stephen Myers,Joseph Cassey
 Stephen Myers,William Douglass
 Stephen Myers,James J. G. Bias
-Stephen Myers,A. M.
 Stephen Myers,Kenney
 Stephen Myers,M. A. Jackson
 Stephen Myers,M. Sumner
@@ -6665,7 +6585,6 @@ Stephen Myers,Spense
 Stephen Myers,N. Y. Minutes
 Stephen Myers,H. H. Garnett
 Stephen Myers,A. Jackson
-Stephen Myers,W. C.
 Stephen Myers,Garnett
 Stephen Myers,Lee
 Stephen Myers,Wm. H. Topp
@@ -6764,7 +6683,6 @@ Benjamin Cutter,J.Mccune Smith
 Benjamin Cutter,Wm H. Topp
 Benjamin Cutter,G.B. Wilson
 Benjamin Cutter,P.G. Smith
-Benjamin Cutter,P. M.
 Benjamin Cutter,George Wilson
 Benjamin Cutter,J. Mc
 Benjamin Cutter,Cune Smith
@@ -6851,7 +6769,6 @@ Benjamin Cutter,E. V. Clark
 Benjamin Cutter,Joseph Cassey
 Benjamin Cutter,William Douglass
 Benjamin Cutter,James J. G. Bias
-Benjamin Cutter,A. M.
 Benjamin Cutter,Kenney
 Benjamin Cutter,M. A. Jackson
 Benjamin Cutter,M. Sumner
@@ -6899,7 +6816,6 @@ Benjamin Cutter,Spense
 Benjamin Cutter,N. Y. Minutes
 Benjamin Cutter,H. H. Garnett
 Benjamin Cutter,A. Jackson
-Benjamin Cutter,W. C.
 Benjamin Cutter,Garnett
 Benjamin Cutter,Lee
 Benjamin Cutter,Wm. H. Topp
@@ -6997,7 +6913,6 @@ Abraham Caldwell,J.Mccune Smith
 Abraham Caldwell,Wm H. Topp
 Abraham Caldwell,G.B. Wilson
 Abraham Caldwell,P.G. Smith
-Abraham Caldwell,P. M.
 Abraham Caldwell,George Wilson
 Abraham Caldwell,J. Mc
 Abraham Caldwell,Cune Smith
@@ -7084,7 +6999,6 @@ Abraham Caldwell,E. V. Clark
 Abraham Caldwell,Joseph Cassey
 Abraham Caldwell,William Douglass
 Abraham Caldwell,James J. G. Bias
-Abraham Caldwell,A. M.
 Abraham Caldwell,Kenney
 Abraham Caldwell,M. A. Jackson
 Abraham Caldwell,M. Sumner
@@ -7132,7 +7046,6 @@ Abraham Caldwell,Spense
 Abraham Caldwell,N. Y. Minutes
 Abraham Caldwell,H. H. Garnett
 Abraham Caldwell,A. Jackson
-Abraham Caldwell,W. C.
 Abraham Caldwell,Garnett
 Abraham Caldwell,Lee
 Abraham Caldwell,Wm. H. Topp
@@ -7229,7 +7142,6 @@ A. Hooper,J.Mccune Smith
 A. Hooper,Wm H. Topp
 A. Hooper,G.B. Wilson
 A. Hooper,P.G. Smith
-A. Hooper,P. M.
 A. Hooper,George Wilson
 A. Hooper,J. Mc
 A. Hooper,Cune Smith
@@ -7316,7 +7228,6 @@ A. Hooper,E. V. Clark
 A. Hooper,Joseph Cassey
 A. Hooper,William Douglass
 A. Hooper,James J. G. Bias
-A. Hooper,A. M.
 A. Hooper,Kenney
 A. Hooper,M. A. Jackson
 A. Hooper,M. Sumner
@@ -7364,7 +7275,6 @@ A. Hooper,Spense
 A. Hooper,N. Y. Minutes
 A. Hooper,H. H. Garnett
 A. Hooper,A. Jackson
-A. Hooper,W. C.
 A. Hooper,Garnett
 A. Hooper,Lee
 A. Hooper,Wm. H. Topp
@@ -7460,7 +7370,6 @@ P. Farnum,J.Mccune Smith
 P. Farnum,Wm H. Topp
 P. Farnum,G.B. Wilson
 P. Farnum,P.G. Smith
-P. Farnum,P. M.
 P. Farnum,George Wilson
 P. Farnum,J. Mc
 P. Farnum,Cune Smith
@@ -7547,7 +7456,6 @@ P. Farnum,E. V. Clark
 P. Farnum,Joseph Cassey
 P. Farnum,William Douglass
 P. Farnum,James J. G. Bias
-P. Farnum,A. M.
 P. Farnum,Kenney
 P. Farnum,M. A. Jackson
 P. Farnum,M. Sumner
@@ -7595,7 +7503,6 @@ P. Farnum,Spense
 P. Farnum,N. Y. Minutes
 P. Farnum,H. H. Garnett
 P. Farnum,A. Jackson
-P. Farnum,W. C.
 P. Farnum,Garnett
 P. Farnum,Lee
 P. Farnum,Wm. H. Topp
@@ -7690,7 +7597,6 @@ Wm. Warren,J.Mccune Smith
 Wm. Warren,Wm H. Topp
 Wm. Warren,G.B. Wilson
 Wm. Warren,P.G. Smith
-Wm. Warren,P. M.
 Wm. Warren,George Wilson
 Wm. Warren,J. Mc
 Wm. Warren,Cune Smith
@@ -7777,7 +7683,6 @@ Wm. Warren,E. V. Clark
 Wm. Warren,Joseph Cassey
 Wm. Warren,William Douglass
 Wm. Warren,James J. G. Bias
-Wm. Warren,A. M.
 Wm. Warren,Kenney
 Wm. Warren,M. A. Jackson
 Wm. Warren,M. Sumner
@@ -7825,7 +7730,6 @@ Wm. Warren,Spense
 Wm. Warren,N. Y. Minutes
 Wm. Warren,H. H. Garnett
 Wm. Warren,A. Jackson
-Wm. Warren,W. C.
 Wm. Warren,Garnett
 Wm. Warren,Lee
 Wm. Warren,Wm. H. Topp
@@ -7919,7 +7823,6 @@ James H. Henderson,J.Mccune Smith
 James H. Henderson,Wm H. Topp
 James H. Henderson,G.B. Wilson
 James H. Henderson,P.G. Smith
-James H. Henderson,P. M.
 James H. Henderson,George Wilson
 James H. Henderson,J. Mc
 James H. Henderson,Cune Smith
@@ -8006,7 +7909,6 @@ James H. Henderson,E. V. Clark
 James H. Henderson,Joseph Cassey
 James H. Henderson,William Douglass
 James H. Henderson,James J. G. Bias
-James H. Henderson,A. M.
 James H. Henderson,Kenney
 James H. Henderson,M. A. Jackson
 James H. Henderson,M. Sumner
@@ -8054,7 +7956,6 @@ James H. Henderson,Spense
 James H. Henderson,N. Y. Minutes
 James H. Henderson,H. H. Garnett
 James H. Henderson,A. Jackson
-James H. Henderson,W. C.
 James H. Henderson,Garnett
 James H. Henderson,Lee
 James H. Henderson,Wm. H. Topp
@@ -8147,7 +8048,6 @@ H. W. Johnson,J.Mccune Smith
 H. W. Johnson,Wm H. Topp
 H. W. Johnson,G.B. Wilson
 H. W. Johnson,P.G. Smith
-H. W. Johnson,P. M.
 H. W. Johnson,George Wilson
 H. W. Johnson,J. Mc
 H. W. Johnson,Cune Smith
@@ -8234,7 +8134,6 @@ H. W. Johnson,E. V. Clark
 H. W. Johnson,Joseph Cassey
 H. W. Johnson,William Douglass
 H. W. Johnson,James J. G. Bias
-H. W. Johnson,A. M.
 H. W. Johnson,Kenney
 H. W. Johnson,M. A. Jackson
 H. W. Johnson,M. Sumner
@@ -8282,7 +8181,6 @@ H. W. Johnson,Spense
 H. W. Johnson,N. Y. Minutes
 H. W. Johnson,H. H. Garnett
 H. W. Johnson,A. Jackson
-H. W. Johnson,W. C.
 H. W. Johnson,Garnett
 H. W. Johnson,Lee
 H. W. Johnson,Wm. H. Topp
@@ -8374,7 +8272,6 @@ George Haggimore,J.Mccune Smith
 George Haggimore,Wm H. Topp
 George Haggimore,G.B. Wilson
 George Haggimore,P.G. Smith
-George Haggimore,P. M.
 George Haggimore,George Wilson
 George Haggimore,J. Mc
 George Haggimore,Cune Smith
@@ -8461,7 +8358,6 @@ George Haggimore,E. V. Clark
 George Haggimore,Joseph Cassey
 George Haggimore,William Douglass
 George Haggimore,James J. G. Bias
-George Haggimore,A. M.
 George Haggimore,Kenney
 George Haggimore,M. A. Jackson
 George Haggimore,M. Sumner
@@ -8509,7 +8405,6 @@ George Haggimore,Spense
 George Haggimore,N. Y. Minutes
 George Haggimore,H. H. Garnett
 George Haggimore,A. Jackson
-George Haggimore,W. C.
 George Haggimore,Garnett
 George Haggimore,Lee
 George Haggimore,Wm. H. Topp
@@ -8600,7 +8495,6 @@ Francis Thompson,J.Mccune Smith
 Francis Thompson,Wm H. Topp
 Francis Thompson,G.B. Wilson
 Francis Thompson,P.G. Smith
-Francis Thompson,P. M.
 Francis Thompson,George Wilson
 Francis Thompson,J. Mc
 Francis Thompson,Cune Smith
@@ -8687,7 +8581,6 @@ Francis Thompson,E. V. Clark
 Francis Thompson,Joseph Cassey
 Francis Thompson,William Douglass
 Francis Thompson,James J. G. Bias
-Francis Thompson,A. M.
 Francis Thompson,Kenney
 Francis Thompson,M. A. Jackson
 Francis Thompson,M. Sumner
@@ -8735,7 +8628,6 @@ Francis Thompson,Spense
 Francis Thompson,N. Y. Minutes
 Francis Thompson,H. H. Garnett
 Francis Thompson,A. Jackson
-Francis Thompson,W. C.
 Francis Thompson,Garnett
 Francis Thompson,Lee
 Francis Thompson,Wm. H. Topp
@@ -8825,7 +8717,6 @@ Samuel Van Wranken,J.Mccune Smith
 Samuel Van Wranken,Wm H. Topp
 Samuel Van Wranken,G.B. Wilson
 Samuel Van Wranken,P.G. Smith
-Samuel Van Wranken,P. M.
 Samuel Van Wranken,George Wilson
 Samuel Van Wranken,J. Mc
 Samuel Van Wranken,Cune Smith
@@ -8912,7 +8803,6 @@ Samuel Van Wranken,E. V. Clark
 Samuel Van Wranken,Joseph Cassey
 Samuel Van Wranken,William Douglass
 Samuel Van Wranken,James J. G. Bias
-Samuel Van Wranken,A. M.
 Samuel Van Wranken,Kenney
 Samuel Van Wranken,M. A. Jackson
 Samuel Van Wranken,M. Sumner
@@ -8960,7 +8850,6 @@ Samuel Van Wranken,Spense
 Samuel Van Wranken,N. Y. Minutes
 Samuel Van Wranken,H. H. Garnett
 Samuel Van Wranken,A. Jackson
-Samuel Van Wranken,W. C.
 Samuel Van Wranken,Garnett
 Samuel Van Wranken,Lee
 Samuel Van Wranken,Wm. H. Topp
@@ -9049,7 +8938,6 @@ John Lyle,J.Mccune Smith
 John Lyle,Wm H. Topp
 John Lyle,G.B. Wilson
 John Lyle,P.G. Smith
-John Lyle,P. M.
 John Lyle,George Wilson
 John Lyle,J. Mc
 John Lyle,Cune Smith
@@ -9136,7 +9024,6 @@ John Lyle,E. V. Clark
 John Lyle,Joseph Cassey
 John Lyle,William Douglass
 John Lyle,James J. G. Bias
-John Lyle,A. M.
 John Lyle,Kenney
 John Lyle,M. A. Jackson
 John Lyle,M. Sumner
@@ -9184,7 +9071,6 @@ John Lyle,Spense
 John Lyle,N. Y. Minutes
 John Lyle,H. H. Garnett
 John Lyle,A. Jackson
-John Lyle,W. C.
 John Lyle,Garnett
 John Lyle,Lee
 John Lyle,Wm. H. Topp
@@ -9272,7 +9158,6 @@ George H. Baltimore,J.Mccune Smith
 George H. Baltimore,Wm H. Topp
 George H. Baltimore,G.B. Wilson
 George H. Baltimore,P.G. Smith
-George H. Baltimore,P. M.
 George H. Baltimore,George Wilson
 George H. Baltimore,J. Mc
 George H. Baltimore,Cune Smith
@@ -9359,7 +9244,6 @@ George H. Baltimore,E. V. Clark
 George H. Baltimore,Joseph Cassey
 George H. Baltimore,William Douglass
 George H. Baltimore,James J. G. Bias
-George H. Baltimore,A. M.
 George H. Baltimore,Kenney
 George H. Baltimore,M. A. Jackson
 George H. Baltimore,M. Sumner
@@ -9407,7 +9291,6 @@ George H. Baltimore,Spense
 George H. Baltimore,N. Y. Minutes
 George H. Baltimore,H. H. Garnett
 George H. Baltimore,A. Jackson
-George H. Baltimore,W. C.
 George H. Baltimore,Garnett
 George H. Baltimore,Lee
 George H. Baltimore,Wm. H. Topp
@@ -9494,7 +9377,6 @@ Willis A. Hodges,J.Mccune Smith
 Willis A. Hodges,Wm H. Topp
 Willis A. Hodges,G.B. Wilson
 Willis A. Hodges,P.G. Smith
-Willis A. Hodges,P. M.
 Willis A. Hodges,George Wilson
 Willis A. Hodges,J. Mc
 Willis A. Hodges,Cune Smith
@@ -9581,7 +9463,6 @@ Willis A. Hodges,E. V. Clark
 Willis A. Hodges,Joseph Cassey
 Willis A. Hodges,William Douglass
 Willis A. Hodges,James J. G. Bias
-Willis A. Hodges,A. M.
 Willis A. Hodges,Kenney
 Willis A. Hodges,M. A. Jackson
 Willis A. Hodges,M. Sumner
@@ -9629,7 +9510,6 @@ Willis A. Hodges,Spense
 Willis A. Hodges,N. Y. Minutes
 Willis A. Hodges,H. H. Garnett
 Willis A. Hodges,A. Jackson
-Willis A. Hodges,W. C.
 Willis A. Hodges,Garnett
 Willis A. Hodges,Lee
 Willis A. Hodges,Wm. H. Topp
@@ -9715,7 +9595,6 @@ Thomas Van Rensselaer,J.Mccune Smith
 Thomas Van Rensselaer,Wm H. Topp
 Thomas Van Rensselaer,G.B. Wilson
 Thomas Van Rensselaer,P.G. Smith
-Thomas Van Rensselaer,P. M.
 Thomas Van Rensselaer,George Wilson
 Thomas Van Rensselaer,J. Mc
 Thomas Van Rensselaer,Cune Smith
@@ -9802,7 +9681,6 @@ Thomas Van Rensselaer,E. V. Clark
 Thomas Van Rensselaer,Joseph Cassey
 Thomas Van Rensselaer,William Douglass
 Thomas Van Rensselaer,James J. G. Bias
-Thomas Van Rensselaer,A. M.
 Thomas Van Rensselaer,Kenney
 Thomas Van Rensselaer,M. A. Jackson
 Thomas Van Rensselaer,M. Sumner
@@ -9850,7 +9728,6 @@ Thomas Van Rensselaer,Spense
 Thomas Van Rensselaer,N. Y. Minutes
 Thomas Van Rensselaer,H. H. Garnett
 Thomas Van Rensselaer,A. Jackson
-Thomas Van Rensselaer,W. C.
 Thomas Van Rensselaer,Garnett
 Thomas Van Rensselaer,Lee
 Thomas Van Rensselaer,Wm. H. Topp
@@ -9935,7 +9812,6 @@ Alexander Crummell,J.Mccune Smith
 Alexander Crummell,Wm H. Topp
 Alexander Crummell,G.B. Wilson
 Alexander Crummell,P.G. Smith
-Alexander Crummell,P. M.
 Alexander Crummell,George Wilson
 Alexander Crummell,J. Mc
 Alexander Crummell,Cune Smith
@@ -10022,7 +9898,6 @@ Alexander Crummell,E. V. Clark
 Alexander Crummell,Joseph Cassey
 Alexander Crummell,William Douglass
 Alexander Crummell,James J. G. Bias
-Alexander Crummell,A. M.
 Alexander Crummell,Kenney
 Alexander Crummell,M. A. Jackson
 Alexander Crummell,M. Sumner
@@ -10070,7 +9945,6 @@ Alexander Crummell,Spense
 Alexander Crummell,N. Y. Minutes
 Alexander Crummell,H. H. Garnett
 Alexander Crummell,A. Jackson
-Alexander Crummell,W. C.
 Alexander Crummell,Garnett
 Alexander Crummell,Lee
 Alexander Crummell,Wm. H. Topp
@@ -10154,7 +10028,6 @@ R. H. Johnson,J.Mccune Smith
 R. H. Johnson,Wm H. Topp
 R. H. Johnson,G.B. Wilson
 R. H. Johnson,P.G. Smith
-R. H. Johnson,P. M.
 R. H. Johnson,George Wilson
 R. H. Johnson,J. Mc
 R. H. Johnson,Cune Smith
@@ -10241,7 +10114,6 @@ R. H. Johnson,E. V. Clark
 R. H. Johnson,Joseph Cassey
 R. H. Johnson,William Douglass
 R. H. Johnson,James J. G. Bias
-R. H. Johnson,A. M.
 R. H. Johnson,Kenney
 R. H. Johnson,M. A. Jackson
 R. H. Johnson,M. Sumner
@@ -10289,7 +10161,6 @@ R. H. Johnson,Spense
 R. H. Johnson,N. Y. Minutes
 R. H. Johnson,H. H. Garnett
 R. H. Johnson,A. Jackson
-R. H. Johnson,W. C.
 R. H. Johnson,Garnett
 R. H. Johnson,Lee
 R. H. Johnson,Wm. H. Topp
@@ -10372,7 +10243,6 @@ Moses A. Jackson,J.Mccune Smith
 Moses A. Jackson,Wm H. Topp
 Moses A. Jackson,G.B. Wilson
 Moses A. Jackson,P.G. Smith
-Moses A. Jackson,P. M.
 Moses A. Jackson,George Wilson
 Moses A. Jackson,J. Mc
 Moses A. Jackson,Cune Smith
@@ -10459,7 +10329,6 @@ Moses A. Jackson,E. V. Clark
 Moses A. Jackson,Joseph Cassey
 Moses A. Jackson,William Douglass
 Moses A. Jackson,James J. G. Bias
-Moses A. Jackson,A. M.
 Moses A. Jackson,Kenney
 Moses A. Jackson,M. A. Jackson
 Moses A. Jackson,M. Sumner
@@ -10507,7 +10376,6 @@ Moses A. Jackson,Spense
 Moses A. Jackson,N. Y. Minutes
 Moses A. Jackson,H. H. Garnett
 Moses A. Jackson,A. Jackson
-Moses A. Jackson,W. C.
 Moses A. Jackson,Garnett
 Moses A. Jackson,Lee
 Moses A. Jackson,Wm. H. Topp
@@ -10589,7 +10457,6 @@ Wm. P. Mcintyre,J.Mccune Smith
 Wm. P. Mcintyre,Wm H. Topp
 Wm. P. Mcintyre,G.B. Wilson
 Wm. P. Mcintyre,P.G. Smith
-Wm. P. Mcintyre,P. M.
 Wm. P. Mcintyre,George Wilson
 Wm. P. Mcintyre,J. Mc
 Wm. P. Mcintyre,Cune Smith
@@ -10676,7 +10543,6 @@ Wm. P. Mcintyre,E. V. Clark
 Wm. P. Mcintyre,Joseph Cassey
 Wm. P. Mcintyre,William Douglass
 Wm. P. Mcintyre,James J. G. Bias
-Wm. P. Mcintyre,A. M.
 Wm. P. Mcintyre,Kenney
 Wm. P. Mcintyre,M. A. Jackson
 Wm. P. Mcintyre,M. Sumner
@@ -10724,7 +10590,6 @@ Wm. P. Mcintyre,Spense
 Wm. P. Mcintyre,N. Y. Minutes
 Wm. P. Mcintyre,H. H. Garnett
 Wm. P. Mcintyre,A. Jackson
-Wm. P. Mcintyre,W. C.
 Wm. P. Mcintyre,Garnett
 Wm. P. Mcintyre,Lee
 Wm. P. Mcintyre,Wm. H. Topp
@@ -10805,7 +10670,6 @@ Lewis Jackson,J.Mccune Smith
 Lewis Jackson,Wm H. Topp
 Lewis Jackson,G.B. Wilson
 Lewis Jackson,P.G. Smith
-Lewis Jackson,P. M.
 Lewis Jackson,George Wilson
 Lewis Jackson,J. Mc
 Lewis Jackson,Cune Smith
@@ -10892,7 +10756,6 @@ Lewis Jackson,E. V. Clark
 Lewis Jackson,Joseph Cassey
 Lewis Jackson,William Douglass
 Lewis Jackson,James J. G. Bias
-Lewis Jackson,A. M.
 Lewis Jackson,Kenney
 Lewis Jackson,M. A. Jackson
 Lewis Jackson,M. Sumner
@@ -10940,7 +10803,6 @@ Lewis Jackson,Spense
 Lewis Jackson,N. Y. Minutes
 Lewis Jackson,H. H. Garnett
 Lewis Jackson,A. Jackson
-Lewis Jackson,W. C.
 Lewis Jackson,Garnett
 Lewis Jackson,Lee
 Lewis Jackson,Wm. H. Topp
@@ -11020,7 +10882,6 @@ Williams Meads,J.Mccune Smith
 Williams Meads,Wm H. Topp
 Williams Meads,G.B. Wilson
 Williams Meads,P.G. Smith
-Williams Meads,P. M.
 Williams Meads,George Wilson
 Williams Meads,J. Mc
 Williams Meads,Cune Smith
@@ -11107,7 +10968,6 @@ Williams Meads,E. V. Clark
 Williams Meads,Joseph Cassey
 Williams Meads,William Douglass
 Williams Meads,James J. G. Bias
-Williams Meads,A. M.
 Williams Meads,Kenney
 Williams Meads,M. A. Jackson
 Williams Meads,M. Sumner
@@ -11155,7 +11015,6 @@ Williams Meads,Spense
 Williams Meads,N. Y. Minutes
 Williams Meads,H. H. Garnett
 Williams Meads,A. Jackson
-Williams Meads,W. C.
 Williams Meads,Garnett
 Williams Meads,Lee
 Williams Meads,Wm. H. Topp
@@ -11234,7 +11093,6 @@ R. D. Kenny,J.Mccune Smith
 R. D. Kenny,Wm H. Topp
 R. D. Kenny,G.B. Wilson
 R. D. Kenny,P.G. Smith
-R. D. Kenny,P. M.
 R. D. Kenny,George Wilson
 R. D. Kenny,J. Mc
 R. D. Kenny,Cune Smith
@@ -11321,7 +11179,6 @@ R. D. Kenny,E. V. Clark
 R. D. Kenny,Joseph Cassey
 R. D. Kenny,William Douglass
 R. D. Kenny,James J. G. Bias
-R. D. Kenny,A. M.
 R. D. Kenny,Kenney
 R. D. Kenny,M. A. Jackson
 R. D. Kenny,M. Sumner
@@ -11369,7 +11226,6 @@ R. D. Kenny,Spense
 R. D. Kenny,N. Y. Minutes
 R. D. Kenny,H. H. Garnett
 R. D. Kenny,A. Jackson
-R. D. Kenny,W. C.
 R. D. Kenny,Garnett
 R. D. Kenny,Lee
 R. D. Kenny,Wm. H. Topp
@@ -11447,7 +11303,6 @@ James Blair Webb,J.Mccune Smith
 James Blair Webb,Wm H. Topp
 James Blair Webb,G.B. Wilson
 James Blair Webb,P.G. Smith
-James Blair Webb,P. M.
 James Blair Webb,George Wilson
 James Blair Webb,J. Mc
 James Blair Webb,Cune Smith
@@ -11534,7 +11389,6 @@ James Blair Webb,E. V. Clark
 James Blair Webb,Joseph Cassey
 James Blair Webb,William Douglass
 James Blair Webb,James J. G. Bias
-James Blair Webb,A. M.
 James Blair Webb,Kenney
 James Blair Webb,M. A. Jackson
 James Blair Webb,M. Sumner
@@ -11582,7 +11436,6 @@ James Blair Webb,Spense
 James Blair Webb,N. Y. Minutes
 James Blair Webb,H. H. Garnett
 James Blair Webb,A. Jackson
-James Blair Webb,W. C.
 James Blair Webb,Garnett
 James Blair Webb,Lee
 James Blair Webb,Wm. H. Topp
@@ -11659,7 +11512,6 @@ Charles Van Hoosen,J.Mccune Smith
 Charles Van Hoosen,Wm H. Topp
 Charles Van Hoosen,G.B. Wilson
 Charles Van Hoosen,P.G. Smith
-Charles Van Hoosen,P. M.
 Charles Van Hoosen,George Wilson
 Charles Van Hoosen,J. Mc
 Charles Van Hoosen,Cune Smith
@@ -11746,7 +11598,6 @@ Charles Van Hoosen,E. V. Clark
 Charles Van Hoosen,Joseph Cassey
 Charles Van Hoosen,William Douglass
 Charles Van Hoosen,James J. G. Bias
-Charles Van Hoosen,A. M.
 Charles Van Hoosen,Kenney
 Charles Van Hoosen,M. A. Jackson
 Charles Van Hoosen,M. Sumner
@@ -11794,7 +11645,6 @@ Charles Van Hoosen,Spense
 Charles Van Hoosen,N. Y. Minutes
 Charles Van Hoosen,H. H. Garnett
 Charles Van Hoosen,A. Jackson
-Charles Van Hoosen,W. C.
 Charles Van Hoosen,Garnett
 Charles Van Hoosen,Lee
 Charles Van Hoosen,Wm. H. Topp
@@ -11870,7 +11720,6 @@ William C. Nell,J.Mccune Smith
 William C. Nell,Wm H. Topp
 William C. Nell,G.B. Wilson
 William C. Nell,P.G. Smith
-William C. Nell,P. M.
 William C. Nell,George Wilson
 William C. Nell,J. Mc
 William C. Nell,Cune Smith
@@ -11957,7 +11806,6 @@ William C. Nell,E. V. Clark
 William C. Nell,Joseph Cassey
 William C. Nell,William Douglass
 William C. Nell,James J. G. Bias
-William C. Nell,A. M.
 William C. Nell,Kenney
 William C. Nell,M. A. Jackson
 William C. Nell,M. Sumner
@@ -12005,7 +11853,6 @@ William C. Nell,Spense
 William C. Nell,N. Y. Minutes
 William C. Nell,H. H. Garnett
 William C. Nell,A. Jackson
-William C. Nell,W. C.
 William C. Nell,Garnett
 William C. Nell,Lee
 William C. Nell,Wm. H. Topp
@@ -12080,7 +11927,6 @@ Frederick Douglass,J.Mccune Smith
 Frederick Douglass,Wm H. Topp
 Frederick Douglass,G.B. Wilson
 Frederick Douglass,P.G. Smith
-Frederick Douglass,P. M.
 Frederick Douglass,George Wilson
 Frederick Douglass,J. Mc
 Frederick Douglass,Cune Smith
@@ -12167,7 +12013,6 @@ Frederick Douglass,E. V. Clark
 Frederick Douglass,Joseph Cassey
 Frederick Douglass,William Douglass
 Frederick Douglass,James J. G. Bias
-Frederick Douglass,A. M.
 Frederick Douglass,Kenney
 Frederick Douglass,M. A. Jackson
 Frederick Douglass,M. Sumner
@@ -12215,7 +12060,6 @@ Frederick Douglass,Spense
 Frederick Douglass,N. Y. Minutes
 Frederick Douglass,H. H. Garnett
 Frederick Douglass,A. Jackson
-Frederick Douglass,W. C.
 Frederick Douglass,Garnett
 Frederick Douglass,Lee
 Frederick Douglass,Wm. H. Topp
@@ -12289,7 +12133,6 @@ Nathan Johnson,J.Mccune Smith
 Nathan Johnson,Wm H. Topp
 Nathan Johnson,G.B. Wilson
 Nathan Johnson,P.G. Smith
-Nathan Johnson,P. M.
 Nathan Johnson,George Wilson
 Nathan Johnson,J. Mc
 Nathan Johnson,Cune Smith
@@ -12376,7 +12219,6 @@ Nathan Johnson,E. V. Clark
 Nathan Johnson,Joseph Cassey
 Nathan Johnson,William Douglass
 Nathan Johnson,James J. G. Bias
-Nathan Johnson,A. M.
 Nathan Johnson,Kenney
 Nathan Johnson,M. A. Jackson
 Nathan Johnson,M. Sumner
@@ -12424,7 +12266,6 @@ Nathan Johnson,Spense
 Nathan Johnson,N. Y. Minutes
 Nathan Johnson,H. H. Garnett
 Nathan Johnson,A. Jackson
-Nathan Johnson,W. C.
 Nathan Johnson,Garnett
 Nathan Johnson,Lee
 Nathan Johnson,Wm. H. Topp
@@ -12497,7 +12338,6 @@ Benjamin Weeden,J.Mccune Smith
 Benjamin Weeden,Wm H. Topp
 Benjamin Weeden,G.B. Wilson
 Benjamin Weeden,P.G. Smith
-Benjamin Weeden,P. M.
 Benjamin Weeden,George Wilson
 Benjamin Weeden,J. Mc
 Benjamin Weeden,Cune Smith
@@ -12584,7 +12424,6 @@ Benjamin Weeden,E. V. Clark
 Benjamin Weeden,Joseph Cassey
 Benjamin Weeden,William Douglass
 Benjamin Weeden,James J. G. Bias
-Benjamin Weeden,A. M.
 Benjamin Weeden,Kenney
 Benjamin Weeden,M. A. Jackson
 Benjamin Weeden,M. Sumner
@@ -12632,7 +12471,6 @@ Benjamin Weeden,Spense
 Benjamin Weeden,N. Y. Minutes
 Benjamin Weeden,H. H. Garnett
 Benjamin Weeden,A. Jackson
-Benjamin Weeden,W. C.
 Benjamin Weeden,Garnett
 Benjamin Weeden,Lee
 Benjamin Weeden,Wm. H. Topp
@@ -12704,7 +12542,6 @@ William W. Brown,J.Mccune Smith
 William W. Brown,Wm H. Topp
 William W. Brown,G.B. Wilson
 William W. Brown,P.G. Smith
-William W. Brown,P. M.
 William W. Brown,George Wilson
 William W. Brown,J. Mc
 William W. Brown,Cune Smith
@@ -12791,7 +12628,6 @@ William W. Brown,E. V. Clark
 William W. Brown,Joseph Cassey
 William W. Brown,William Douglass
 William W. Brown,James J. G. Bias
-William W. Brown,A. M.
 William W. Brown,Kenney
 William W. Brown,M. A. Jackson
 William W. Brown,M. Sumner
@@ -12839,7 +12675,6 @@ William W. Brown,Spense
 William W. Brown,N. Y. Minutes
 William W. Brown,H. H. Garnett
 William W. Brown,A. Jackson
-William W. Brown,W. C.
 William W. Brown,Garnett
 William W. Brown,Lee
 William W. Brown,Wm. H. Topp
@@ -12910,7 +12745,6 @@ Henry Watson,J.Mccune Smith
 Henry Watson,Wm H. Topp
 Henry Watson,G.B. Wilson
 Henry Watson,P.G. Smith
-Henry Watson,P. M.
 Henry Watson,George Wilson
 Henry Watson,J. Mc
 Henry Watson,Cune Smith
@@ -12997,7 +12831,6 @@ Henry Watson,E. V. Clark
 Henry Watson,Joseph Cassey
 Henry Watson,William Douglass
 Henry Watson,James J. G. Bias
-Henry Watson,A. M.
 Henry Watson,Kenney
 Henry Watson,M. A. Jackson
 Henry Watson,M. Sumner
@@ -13045,7 +12878,6 @@ Henry Watson,Spense
 Henry Watson,N. Y. Minutes
 Henry Watson,H. H. Garnett
 Henry Watson,A. Jackson
-Henry Watson,W. C.
 Henry Watson,Garnett
 Henry Watson,Lee
 Henry Watson,Wm. H. Topp
@@ -13115,7 +12947,6 @@ Leonard Collins,J.Mccune Smith
 Leonard Collins,Wm H. Topp
 Leonard Collins,G.B. Wilson
 Leonard Collins,P.G. Smith
-Leonard Collins,P. M.
 Leonard Collins,George Wilson
 Leonard Collins,J. Mc
 Leonard Collins,Cune Smith
@@ -13202,7 +13033,6 @@ Leonard Collins,E. V. Clark
 Leonard Collins,Joseph Cassey
 Leonard Collins,William Douglass
 Leonard Collins,James J. G. Bias
-Leonard Collins,A. M.
 Leonard Collins,Kenney
 Leonard Collins,M. A. Jackson
 Leonard Collins,M. Sumner
@@ -13250,7 +13080,6 @@ Leonard Collins,Spense
 Leonard Collins,N. Y. Minutes
 Leonard Collins,H. H. Garnett
 Leonard Collins,A. Jackson
-Leonard Collins,W. C.
 Leonard Collins,Garnett
 Leonard Collins,Lee
 Leonard Collins,Wm. H. Topp
@@ -13319,7 +13148,6 @@ Charles C. Seth,J.Mccune Smith
 Charles C. Seth,Wm H. Topp
 Charles C. Seth,G.B. Wilson
 Charles C. Seth,P.G. Smith
-Charles C. Seth,P. M.
 Charles C. Seth,George Wilson
 Charles C. Seth,J. Mc
 Charles C. Seth,Cune Smith
@@ -13406,7 +13234,6 @@ Charles C. Seth,E. V. Clark
 Charles C. Seth,Joseph Cassey
 Charles C. Seth,William Douglass
 Charles C. Seth,James J. G. Bias
-Charles C. Seth,A. M.
 Charles C. Seth,Kenney
 Charles C. Seth,M. A. Jackson
 Charles C. Seth,M. Sumner
@@ -13454,7 +13281,6 @@ Charles C. Seth,Spense
 Charles C. Seth,N. Y. Minutes
 Charles C. Seth,H. H. Garnett
 Charles C. Seth,A. Jackson
-Charles C. Seth,W. C.
 Charles C. Seth,Garnett
 Charles C. Seth,Lee
 Charles C. Seth,Wm. H. Topp
@@ -13522,7 +13348,6 @@ James Mars,J.Mccune Smith
 James Mars,Wm H. Topp
 James Mars,G.B. Wilson
 James Mars,P.G. Smith
-James Mars,P. M.
 James Mars,George Wilson
 James Mars,J. Mc
 James Mars,Cune Smith
@@ -13609,7 +13434,6 @@ James Mars,E. V. Clark
 James Mars,Joseph Cassey
 James Mars,William Douglass
 James Mars,James J. G. Bias
-James Mars,A. M.
 James Mars,Kenney
 James Mars,M. A. Jackson
 James Mars,M. Sumner
@@ -13657,7 +13481,6 @@ James Mars,Spense
 James Mars,N. Y. Minutes
 James Mars,H. H. Garnett
 James Mars,A. Jackson
-James Mars,W. C.
 James Mars,Garnett
 James Mars,Lee
 James Mars,Wm. H. Topp
@@ -13724,7 +13547,6 @@ Samuel Smith,J.Mccune Smith
 Samuel Smith,Wm H. Topp
 Samuel Smith,G.B. Wilson
 Samuel Smith,P.G. Smith
-Samuel Smith,P. M.
 Samuel Smith,George Wilson
 Samuel Smith,J. Mc
 Samuel Smith,Cune Smith
@@ -13811,7 +13633,6 @@ Samuel Smith,E. V. Clark
 Samuel Smith,Joseph Cassey
 Samuel Smith,William Douglass
 Samuel Smith,James J. G. Bias
-Samuel Smith,A. M.
 Samuel Smith,Kenney
 Samuel Smith,M. A. Jackson
 Samuel Smith,M. Sumner
@@ -13859,7 +13680,6 @@ Samuel Smith,Spense
 Samuel Smith,N. Y. Minutes
 Samuel Smith,H. H. Garnett
 Samuel Smith,A. Jackson
-Samuel Smith,W. C.
 Samuel Smith,Garnett
 Samuel Smith,Lee
 Samuel Smith,Wm. H. Topp
@@ -13925,7 +13745,6 @@ P. I. Schuyler,J.Mccune Smith
 P. I. Schuyler,Wm H. Topp
 P. I. Schuyler,G.B. Wilson
 P. I. Schuyler,P.G. Smith
-P. I. Schuyler,P. M.
 P. I. Schuyler,George Wilson
 P. I. Schuyler,J. Mc
 P. I. Schuyler,Cune Smith
@@ -14012,7 +13831,6 @@ P. I. Schuyler,E. V. Clark
 P. I. Schuyler,Joseph Cassey
 P. I. Schuyler,William Douglass
 P. I. Schuyler,James J. G. Bias
-P. I. Schuyler,A. M.
 P. I. Schuyler,Kenney
 P. I. Schuyler,M. A. Jackson
 P. I. Schuyler,M. Sumner
@@ -14060,7 +13878,6 @@ P. I. Schuyler,Spense
 P. I. Schuyler,N. Y. Minutes
 P. I. Schuyler,H. H. Garnett
 P. I. Schuyler,A. Jackson
-P. I. Schuyler,W. C.
 P. I. Schuyler,Garnett
 P. I. Schuyler,Lee
 P. I. Schuyler,Wm. H. Topp
@@ -14125,7 +13942,6 @@ Thomas Thomas,J.Mccune Smith
 Thomas Thomas,Wm H. Topp
 Thomas Thomas,G.B. Wilson
 Thomas Thomas,P.G. Smith
-Thomas Thomas,P. M.
 Thomas Thomas,George Wilson
 Thomas Thomas,J. Mc
 Thomas Thomas,Cune Smith
@@ -14212,7 +14028,6 @@ Thomas Thomas,E. V. Clark
 Thomas Thomas,Joseph Cassey
 Thomas Thomas,William Douglass
 Thomas Thomas,James J. G. Bias
-Thomas Thomas,A. M.
 Thomas Thomas,Kenney
 Thomas Thomas,M. A. Jackson
 Thomas Thomas,M. Sumner
@@ -14260,7 +14075,6 @@ Thomas Thomas,Spense
 Thomas Thomas,N. Y. Minutes
 Thomas Thomas,H. H. Garnett
 Thomas Thomas,A. Jackson
-Thomas Thomas,W. C.
 Thomas Thomas,Garnett
 Thomas Thomas,Lee
 Thomas Thomas,Wm. H. Topp
@@ -14324,7 +14138,6 @@ Martin Thomas,J.Mccune Smith
 Martin Thomas,Wm H. Topp
 Martin Thomas,G.B. Wilson
 Martin Thomas,P.G. Smith
-Martin Thomas,P. M.
 Martin Thomas,George Wilson
 Martin Thomas,J. Mc
 Martin Thomas,Cune Smith
@@ -14411,7 +14224,6 @@ Martin Thomas,E. V. Clark
 Martin Thomas,Joseph Cassey
 Martin Thomas,William Douglass
 Martin Thomas,James J. G. Bias
-Martin Thomas,A. M.
 Martin Thomas,Kenney
 Martin Thomas,M. A. Jackson
 Martin Thomas,M. Sumner
@@ -14459,7 +14271,6 @@ Martin Thomas,Spense
 Martin Thomas,N. Y. Minutes
 Martin Thomas,H. H. Garnett
 Martin Thomas,A. Jackson
-Martin Thomas,W. C.
 Martin Thomas,Garnett
 Martin Thomas,Lee
 Martin Thomas,Wm. H. Topp
@@ -14522,7 +14333,6 @@ Z. P. Purnell,J.Mccune Smith
 Z. P. Purnell,Wm H. Topp
 Z. P. Purnell,G.B. Wilson
 Z. P. Purnell,P.G. Smith
-Z. P. Purnell,P. M.
 Z. P. Purnell,George Wilson
 Z. P. Purnell,J. Mc
 Z. P. Purnell,Cune Smith
@@ -14609,7 +14419,6 @@ Z. P. Purnell,E. V. Clark
 Z. P. Purnell,Joseph Cassey
 Z. P. Purnell,William Douglass
 Z. P. Purnell,James J. G. Bias
-Z. P. Purnell,A. M.
 Z. P. Purnell,Kenney
 Z. P. Purnell,M. A. Jackson
 Z. P. Purnell,M. Sumner
@@ -14657,7 +14466,6 @@ Z. P. Purnell,Spense
 Z. P. Purnell,N. Y. Minutes
 Z. P. Purnell,H. H. Garnett
 Z. P. Purnell,A. Jackson
-Z. P. Purnell,W. C.
 Z. P. Purnell,Garnett
 Z. P. Purnell,Lee
 Z. P. Purnell,Wm. H. Topp
@@ -14719,7 +14527,6 @@ J. W. C. Pennington,J.Mccune Smith
 J. W. C. Pennington,Wm H. Topp
 J. W. C. Pennington,G.B. Wilson
 J. W. C. Pennington,P.G. Smith
-J. W. C. Pennington,P. M.
 J. W. C. Pennington,George Wilson
 J. W. C. Pennington,J. Mc
 J. W. C. Pennington,Cune Smith
@@ -14806,7 +14613,6 @@ J. W. C. Pennington,E. V. Clark
 J. W. C. Pennington,Joseph Cassey
 J. W. C. Pennington,William Douglass
 J. W. C. Pennington,James J. G. Bias
-J. W. C. Pennington,A. M.
 J. W. C. Pennington,Kenney
 J. W. C. Pennington,M. A. Jackson
 J. W. C. Pennington,M. Sumner
@@ -14854,7 +14660,6 @@ J. W. C. Pennington,Spense
 J. W. C. Pennington,N. Y. Minutes
 J. W. C. Pennington,H. H. Garnett
 J. W. C. Pennington,A. Jackson
-J. W. C. Pennington,W. C.
 J. W. C. Pennington,Garnett
 J. W. C. Pennington,Lee
 J. W. C. Pennington,Wm. H. Topp
@@ -14915,7 +14720,6 @@ Ames G. Beman,J.Mccune Smith
 Ames G. Beman,Wm H. Topp
 Ames G. Beman,G.B. Wilson
 Ames G. Beman,P.G. Smith
-Ames G. Beman,P. M.
 Ames G. Beman,George Wilson
 Ames G. Beman,J. Mc
 Ames G. Beman,Cune Smith
@@ -15002,7 +14806,6 @@ Ames G. Beman,E. V. Clark
 Ames G. Beman,Joseph Cassey
 Ames G. Beman,William Douglass
 Ames G. Beman,James J. G. Bias
-Ames G. Beman,A. M.
 Ames G. Beman,Kenney
 Ames G. Beman,M. A. Jackson
 Ames G. Beman,M. Sumner
@@ -15050,7 +14853,6 @@ Ames G. Beman,Spense
 Ames G. Beman,N. Y. Minutes
 Ames G. Beman,H. H. Garnett
 Ames G. Beman,A. Jackson
-Ames G. Beman,W. C.
 Ames G. Beman,Garnett
 Ames G. Beman,Lee
 Ames G. Beman,Wm. H. Topp
@@ -15110,7 +14912,6 @@ Peter G. Smith,J.Mccune Smith
 Peter G. Smith,Wm H. Topp
 Peter G. Smith,G.B. Wilson
 Peter G. Smith,P.G. Smith
-Peter G. Smith,P. M.
 Peter G. Smith,George Wilson
 Peter G. Smith,J. Mc
 Peter G. Smith,Cune Smith
@@ -15197,7 +14998,6 @@ Peter G. Smith,E. V. Clark
 Peter G. Smith,Joseph Cassey
 Peter G. Smith,William Douglass
 Peter G. Smith,James J. G. Bias
-Peter G. Smith,A. M.
 Peter G. Smith,Kenney
 Peter G. Smith,M. A. Jackson
 Peter G. Smith,M. Sumner
@@ -15245,7 +15045,6 @@ Peter G. Smith,Spense
 Peter G. Smith,N. Y. Minutes
 Peter G. Smith,H. H. Garnett
 Peter G. Smith,A. Jackson
-Peter G. Smith,W. C.
 Peter G. Smith,Garnett
 Peter G. Smith,Lee
 Peter G. Smith,Wm. H. Topp
@@ -15304,7 +15103,6 @@ Lewis Hayden,J.Mccune Smith
 Lewis Hayden,Wm H. Topp
 Lewis Hayden,G.B. Wilson
 Lewis Hayden,P.G. Smith
-Lewis Hayden,P. M.
 Lewis Hayden,George Wilson
 Lewis Hayden,J. Mc
 Lewis Hayden,Cune Smith
@@ -15391,7 +15189,6 @@ Lewis Hayden,E. V. Clark
 Lewis Hayden,Joseph Cassey
 Lewis Hayden,William Douglass
 Lewis Hayden,James J. G. Bias
-Lewis Hayden,A. M.
 Lewis Hayden,Kenney
 Lewis Hayden,M. A. Jackson
 Lewis Hayden,M. Sumner
@@ -15439,7 +15236,6 @@ Lewis Hayden,Spense
 Lewis Hayden,N. Y. Minutes
 Lewis Hayden,H. H. Garnett
 Lewis Hayden,A. Jackson
-Lewis Hayden,W. C.
 Lewis Hayden,Garnett
 Lewis Hayden,Lee
 Lewis Hayden,Wm. H. Topp
@@ -15497,7 +15293,6 @@ J. Billings,J.Mccune Smith
 J. Billings,Wm H. Topp
 J. Billings,G.B. Wilson
 J. Billings,P.G. Smith
-J. Billings,P. M.
 J. Billings,George Wilson
 J. Billings,J. Mc
 J. Billings,Cune Smith
@@ -15584,7 +15379,6 @@ J. Billings,E. V. Clark
 J. Billings,Joseph Cassey
 J. Billings,William Douglass
 J. Billings,James J. G. Bias
-J. Billings,A. M.
 J. Billings,Kenney
 J. Billings,M. A. Jackson
 J. Billings,M. Sumner
@@ -15632,7 +15426,6 @@ J. Billings,Spense
 J. Billings,N. Y. Minutes
 J. Billings,H. H. Garnett
 J. Billings,A. Jackson
-J. Billings,W. C.
 J. Billings,Garnett
 J. Billings,Lee
 J. Billings,Wm. H. Topp
@@ -15689,7 +15482,6 @@ Samuel B. Hyers,J.Mccune Smith
 Samuel B. Hyers,Wm H. Topp
 Samuel B. Hyers,G.B. Wilson
 Samuel B. Hyers,P.G. Smith
-Samuel B. Hyers,P. M.
 Samuel B. Hyers,George Wilson
 Samuel B. Hyers,J. Mc
 Samuel B. Hyers,Cune Smith
@@ -15776,7 +15568,6 @@ Samuel B. Hyers,E. V. Clark
 Samuel B. Hyers,Joseph Cassey
 Samuel B. Hyers,William Douglass
 Samuel B. Hyers,James J. G. Bias
-Samuel B. Hyers,A. M.
 Samuel B. Hyers,Kenney
 Samuel B. Hyers,M. A. Jackson
 Samuel B. Hyers,M. Sumner
@@ -15824,7 +15615,6 @@ Samuel B. Hyers,Spense
 Samuel B. Hyers,N. Y. Minutes
 Samuel B. Hyers,H. H. Garnett
 Samuel B. Hyers,A. Jackson
-Samuel B. Hyers,W. C.
 Samuel B. Hyers,Garnett
 Samuel B. Hyers,Lee
 Samuel B. Hyers,Wm. H. Topp
@@ -15880,7 +15670,6 @@ Andrew Jackson,J.Mccune Smith
 Andrew Jackson,Wm H. Topp
 Andrew Jackson,G.B. Wilson
 Andrew Jackson,P.G. Smith
-Andrew Jackson,P. M.
 Andrew Jackson,George Wilson
 Andrew Jackson,J. Mc
 Andrew Jackson,Cune Smith
@@ -15967,7 +15756,6 @@ Andrew Jackson,E. V. Clark
 Andrew Jackson,Joseph Cassey
 Andrew Jackson,William Douglass
 Andrew Jackson,James J. G. Bias
-Andrew Jackson,A. M.
 Andrew Jackson,Kenney
 Andrew Jackson,M. A. Jackson
 Andrew Jackson,M. Sumner
@@ -16015,7 +15803,6 @@ Andrew Jackson,Spense
 Andrew Jackson,N. Y. Minutes
 Andrew Jackson,H. H. Garnett
 Andrew Jackson,A. Jackson
-Andrew Jackson,W. C.
 Andrew Jackson,Garnett
 Andrew Jackson,Lee
 Andrew Jackson,Wm. H. Topp
@@ -16070,7 +15857,6 @@ Wm. W. Brown,J.Mccune Smith
 Wm. W. Brown,Wm H. Topp
 Wm. W. Brown,G.B. Wilson
 Wm. W. Brown,P.G. Smith
-Wm. W. Brown,P. M.
 Wm. W. Brown,George Wilson
 Wm. W. Brown,J. Mc
 Wm. W. Brown,Cune Smith
@@ -16157,7 +15943,6 @@ Wm. W. Brown,E. V. Clark
 Wm. W. Brown,Joseph Cassey
 Wm. W. Brown,William Douglass
 Wm. W. Brown,James J. G. Bias
-Wm. W. Brown,A. M.
 Wm. W. Brown,Kenney
 Wm. W. Brown,M. A. Jackson
 Wm. W. Brown,M. Sumner
@@ -16205,7 +15990,6 @@ Wm. W. Brown,Spense
 Wm. W. Brown,N. Y. Minutes
 Wm. W. Brown,H. H. Garnett
 Wm. W. Brown,A. Jackson
-Wm. W. Brown,W. C.
 Wm. W. Brown,Garnett
 Wm. W. Brown,Lee
 Wm. W. Brown,Wm. H. Topp
@@ -16259,7 +16043,6 @@ Willis Hodges,J.Mccune Smith
 Willis Hodges,Wm H. Topp
 Willis Hodges,G.B. Wilson
 Willis Hodges,P.G. Smith
-Willis Hodges,P. M.
 Willis Hodges,George Wilson
 Willis Hodges,J. Mc
 Willis Hodges,Cune Smith
@@ -16346,7 +16129,6 @@ Willis Hodges,E. V. Clark
 Willis Hodges,Joseph Cassey
 Willis Hodges,William Douglass
 Willis Hodges,James J. G. Bias
-Willis Hodges,A. M.
 Willis Hodges,Kenney
 Willis Hodges,M. A. Jackson
 Willis Hodges,M. Sumner
@@ -16394,7 +16176,6 @@ Willis Hodges,Spense
 Willis Hodges,N. Y. Minutes
 Willis Hodges,H. H. Garnett
 Willis Hodges,A. Jackson
-Willis Hodges,W. C.
 Willis Hodges,Garnett
 Willis Hodges,Lee
 Willis Hodges,Wm. H. Topp
@@ -16447,7 +16228,6 @@ Alex. Crummell,J.Mccune Smith
 Alex. Crummell,Wm H. Topp
 Alex. Crummell,G.B. Wilson
 Alex. Crummell,P.G. Smith
-Alex. Crummell,P. M.
 Alex. Crummell,George Wilson
 Alex. Crummell,J. Mc
 Alex. Crummell,Cune Smith
@@ -16534,7 +16314,6 @@ Alex. Crummell,E. V. Clark
 Alex. Crummell,Joseph Cassey
 Alex. Crummell,William Douglass
 Alex. Crummell,James J. G. Bias
-Alex. Crummell,A. M.
 Alex. Crummell,Kenney
 Alex. Crummell,M. A. Jackson
 Alex. Crummell,M. Sumner
@@ -16582,7 +16361,6 @@ Alex. Crummell,Spense
 Alex. Crummell,N. Y. Minutes
 Alex. Crummell,H. H. Garnett
 Alex. Crummell,A. Jackson
-Alex. Crummell,W. C.
 Alex. Crummell,Garnett
 Alex. Crummell,Lee
 Alex. Crummell,Wm. H. Topp
@@ -16634,7 +16412,6 @@ William H. Topp,J.Mccune Smith
 William H. Topp,Wm H. Topp
 William H. Topp,G.B. Wilson
 William H. Topp,P.G. Smith
-William H. Topp,P. M.
 William H. Topp,George Wilson
 William H. Topp,J. Mc
 William H. Topp,Cune Smith
@@ -16721,7 +16498,6 @@ William H. Topp,E. V. Clark
 William H. Topp,Joseph Cassey
 William H. Topp,William Douglass
 William H. Topp,James J. G. Bias
-William H. Topp,A. M.
 William H. Topp,Kenney
 William H. Topp,M. A. Jackson
 William H. Topp,M. Sumner
@@ -16769,7 +16545,6 @@ William H. Topp,Spense
 William H. Topp,N. Y. Minutes
 William H. Topp,H. H. Garnett
 William H. Topp,A. Jackson
-William H. Topp,W. C.
 William H. Topp,Garnett
 William H. Topp,Lee
 William H. Topp,Wm. H. Topp
@@ -16820,7 +16595,6 @@ J. Mccune Smith,J.Mccune Smith
 J. Mccune Smith,Wm H. Topp
 J. Mccune Smith,G.B. Wilson
 J. Mccune Smith,P.G. Smith
-J. Mccune Smith,P. M.
 J. Mccune Smith,George Wilson
 J. Mccune Smith,J. Mc
 J. Mccune Smith,Cune Smith
@@ -16907,7 +16681,6 @@ J. Mccune Smith,E. V. Clark
 J. Mccune Smith,Joseph Cassey
 J. Mccune Smith,William Douglass
 J. Mccune Smith,James J. G. Bias
-J. Mccune Smith,A. M.
 J. Mccune Smith,Kenney
 J. Mccune Smith,M. A. Jackson
 J. Mccune Smith,M. Sumner
@@ -16955,7 +16728,6 @@ J. Mccune Smith,Spense
 J. Mccune Smith,N. Y. Minutes
 J. Mccune Smith,H. H. Garnett
 J. Mccune Smith,A. Jackson
-J. Mccune Smith,W. C.
 J. Mccune Smith,Garnett
 J. Mccune Smith,Lee
 J. Mccune Smith,Wm. H. Topp
@@ -17005,7 +16777,6 @@ H. Topp,J.Mccune Smith
 H. Topp,Wm H. Topp
 H. Topp,G.B. Wilson
 H. Topp,P.G. Smith
-H. Topp,P. M.
 H. Topp,George Wilson
 H. Topp,J. Mc
 H. Topp,Cune Smith
@@ -17092,7 +16863,6 @@ H. Topp,E. V. Clark
 H. Topp,Joseph Cassey
 H. Topp,William Douglass
 H. Topp,James J. G. Bias
-H. Topp,A. M.
 H. Topp,Kenney
 H. Topp,M. A. Jackson
 H. Topp,M. Sumner
@@ -17140,7 +16910,6 @@ H. Topp,Spense
 H. Topp,N. Y. Minutes
 H. Topp,H. H. Garnett
 H. Topp,A. Jackson
-H. Topp,W. C.
 H. Topp,Garnett
 H. Topp,Lee
 H. Topp,Wm. H. Topp
@@ -17189,7 +16958,6 @@ Chas,J.Mccune Smith
 Chas,Wm H. Topp
 Chas,G.B. Wilson
 Chas,P.G. Smith
-Chas,P. M.
 Chas,George Wilson
 Chas,J. Mc
 Chas,Cune Smith
@@ -17276,7 +17044,6 @@ Chas,E. V. Clark
 Chas,Joseph Cassey
 Chas,William Douglass
 Chas,James J. G. Bias
-Chas,A. M.
 Chas,Kenney
 Chas,M. A. Jackson
 Chas,M. Sumner
@@ -17324,7 +17091,6 @@ Chas,Spense
 Chas,N. Y. Minutes
 Chas,H. H. Garnett
 Chas,A. Jackson
-Chas,W. C.
 Chas,Garnett
 Chas,Lee
 Chas,Wm. H. Topp
@@ -17372,7 +17138,6 @@ B. Ray,J.Mccune Smith
 B. Ray,Wm H. Topp
 B. Ray,G.B. Wilson
 B. Ray,P.G. Smith
-B. Ray,P. M.
 B. Ray,George Wilson
 B. Ray,J. Mc
 B. Ray,Cune Smith
@@ -17459,7 +17224,6 @@ B. Ray,E. V. Clark
 B. Ray,Joseph Cassey
 B. Ray,William Douglass
 B. Ray,James J. G. Bias
-B. Ray,A. M.
 B. Ray,Kenney
 B. Ray,M. A. Jackson
 B. Ray,M. Sumner
@@ -17507,7 +17271,6 @@ B. Ray,Spense
 B. Ray,N. Y. Minutes
 B. Ray,H. H. Garnett
 B. Ray,A. Jackson
-B. Ray,W. C.
 B. Ray,Garnett
 B. Ray,Lee
 B. Ray,Wm. H. Topp
@@ -17554,7 +17317,6 @@ Garnet,J.Mccune Smith
 Garnet,Wm H. Topp
 Garnet,G.B. Wilson
 Garnet,P.G. Smith
-Garnet,P. M.
 Garnet,George Wilson
 Garnet,J. Mc
 Garnet,Cune Smith
@@ -17641,7 +17403,6 @@ Garnet,E. V. Clark
 Garnet,Joseph Cassey
 Garnet,William Douglass
 Garnet,James J. G. Bias
-Garnet,A. M.
 Garnet,Kenney
 Garnet,M. A. Jackson
 Garnet,M. Sumner
@@ -17689,7 +17450,6 @@ Garnet,Spense
 Garnet,N. Y. Minutes
 Garnet,H. H. Garnett
 Garnet,A. Jackson
-Garnet,W. C.
 Garnet,Garnett
 Garnet,Lee
 Garnet,Wm. H. Topp
@@ -17735,7 +17495,6 @@ C. B. Ray,J.Mccune Smith
 C. B. Ray,Wm H. Topp
 C. B. Ray,G.B. Wilson
 C. B. Ray,P.G. Smith
-C. B. Ray,P. M.
 C. B. Ray,George Wilson
 C. B. Ray,J. Mc
 C. B. Ray,Cune Smith
@@ -17822,7 +17581,6 @@ C. B. Ray,E. V. Clark
 C. B. Ray,Joseph Cassey
 C. B. Ray,William Douglass
 C. B. Ray,James J. G. Bias
-C. B. Ray,A. M.
 C. B. Ray,Kenney
 C. B. Ray,M. A. Jackson
 C. B. Ray,M. Sumner
@@ -17870,7 +17628,6 @@ C. B. Ray,Spense
 C. B. Ray,N. Y. Minutes
 C. B. Ray,H. H. Garnett
 C. B. Ray,A. Jackson
-C. B. Ray,W. C.
 C. B. Ray,Garnett
 C. B. Ray,Lee
 C. B. Ray,Wm. H. Topp
@@ -17915,7 +17672,6 @@ Wm. P. Mcintrye,J.Mccune Smith
 Wm. P. Mcintrye,Wm H. Topp
 Wm. P. Mcintrye,G.B. Wilson
 Wm. P. Mcintrye,P.G. Smith
-Wm. P. Mcintrye,P. M.
 Wm. P. Mcintrye,George Wilson
 Wm. P. Mcintrye,J. Mc
 Wm. P. Mcintrye,Cune Smith
@@ -18002,7 +17758,6 @@ Wm. P. Mcintrye,E. V. Clark
 Wm. P. Mcintrye,Joseph Cassey
 Wm. P. Mcintrye,William Douglass
 Wm. P. Mcintrye,James J. G. Bias
-Wm. P. Mcintrye,A. M.
 Wm. P. Mcintrye,Kenney
 Wm. P. Mcintrye,M. A. Jackson
 Wm. P. Mcintrye,M. Sumner
@@ -18050,7 +17805,6 @@ Wm. P. Mcintrye,Spense
 Wm. P. Mcintrye,N. Y. Minutes
 Wm. P. Mcintrye,H. H. Garnett
 Wm. P. Mcintrye,A. Jackson
-Wm. P. Mcintrye,W. C.
 Wm. P. Mcintrye,Garnett
 Wm. P. Mcintrye,Lee
 Wm. P. Mcintrye,Wm. H. Topp
@@ -18094,7 +17848,6 @@ S. Myers,J.Mccune Smith
 S. Myers,Wm H. Topp
 S. Myers,G.B. Wilson
 S. Myers,P.G. Smith
-S. Myers,P. M.
 S. Myers,George Wilson
 S. Myers,J. Mc
 S. Myers,Cune Smith
@@ -18181,7 +17934,6 @@ S. Myers,E. V. Clark
 S. Myers,Joseph Cassey
 S. Myers,William Douglass
 S. Myers,James J. G. Bias
-S. Myers,A. M.
 S. Myers,Kenney
 S. Myers,M. A. Jackson
 S. Myers,M. Sumner
@@ -18229,7 +17981,6 @@ S. Myers,Spense
 S. Myers,N. Y. Minutes
 S. Myers,H. H. Garnett
 S. Myers,A. Jackson
-S. Myers,W. C.
 S. Myers,Garnett
 S. Myers,Lee
 S. Myers,Wm. H. Topp
@@ -18272,7 +18023,6 @@ L. Collins,J.Mccune Smith
 L. Collins,Wm H. Topp
 L. Collins,G.B. Wilson
 L. Collins,P.G. Smith
-L. Collins,P. M.
 L. Collins,George Wilson
 L. Collins,J. Mc
 L. Collins,Cune Smith
@@ -18359,7 +18109,6 @@ L. Collins,E. V. Clark
 L. Collins,Joseph Cassey
 L. Collins,William Douglass
 L. Collins,James J. G. Bias
-L. Collins,A. M.
 L. Collins,Kenney
 L. Collins,M. A. Jackson
 L. Collins,M. Sumner
@@ -18407,7 +18156,6 @@ L. Collins,Spense
 L. Collins,N. Y. Minutes
 L. Collins,H. H. Garnett
 L. Collins,A. Jackson
-L. Collins,W. C.
 L. Collins,Garnett
 L. Collins,Lee
 L. Collins,Wm. H. Topp
@@ -18449,7 +18197,6 @@ Fred,J.Mccune Smith
 Fred,Wm H. Topp
 Fred,G.B. Wilson
 Fred,P.G. Smith
-Fred,P. M.
 Fred,George Wilson
 Fred,J. Mc
 Fred,Cune Smith
@@ -18536,7 +18283,6 @@ Fred,E. V. Clark
 Fred,Joseph Cassey
 Fred,William Douglass
 Fred,James J. G. Bias
-Fred,A. M.
 Fred,Kenney
 Fred,M. A. Jackson
 Fred,M. Sumner
@@ -18584,7 +18330,6 @@ Fred,Spense
 Fred,N. Y. Minutes
 Fred,H. H. Garnett
 Fred,A. Jackson
-Fred,W. C.
 Fred,Garnett
 Fred,Lee
 Fred,Wm. H. Topp
@@ -18625,7 +18370,6 @@ Douglass,J.Mccune Smith
 Douglass,Wm H. Topp
 Douglass,G.B. Wilson
 Douglass,P.G. Smith
-Douglass,P. M.
 Douglass,George Wilson
 Douglass,J. Mc
 Douglass,Cune Smith
@@ -18712,7 +18456,6 @@ Douglass,E. V. Clark
 Douglass,Joseph Cassey
 Douglass,William Douglass
 Douglass,James J. G. Bias
-Douglass,A. M.
 Douglass,Kenney
 Douglass,M. A. Jackson
 Douglass,M. Sumner
@@ -18760,7 +18503,6 @@ Douglass,Spense
 Douglass,N. Y. Minutes
 Douglass,H. H. Garnett
 Douglass,A. Jackson
-Douglass,W. C.
 Douglass,Garnett
 Douglass,Lee
 Douglass,Wm. H. Topp
@@ -18800,7 +18542,6 @@ Van Rensselaer,J.Mccune Smith
 Van Rensselaer,Wm H. Topp
 Van Rensselaer,G.B. Wilson
 Van Rensselaer,P.G. Smith
-Van Rensselaer,P. M.
 Van Rensselaer,George Wilson
 Van Rensselaer,J. Mc
 Van Rensselaer,Cune Smith
@@ -18887,7 +18628,6 @@ Van Rensselaer,E. V. Clark
 Van Rensselaer,Joseph Cassey
 Van Rensselaer,William Douglass
 Van Rensselaer,James J. G. Bias
-Van Rensselaer,A. M.
 Van Rensselaer,Kenney
 Van Rensselaer,M. A. Jackson
 Van Rensselaer,M. Sumner
@@ -18935,7 +18675,6 @@ Van Rensselaer,Spense
 Van Rensselaer,N. Y. Minutes
 Van Rensselaer,H. H. Garnett
 Van Rensselaer,A. Jackson
-Van Rensselaer,W. C.
 Van Rensselaer,Garnett
 Van Rensselaer,Lee
 Van Rensselaer,Wm. H. Topp
@@ -18974,7 +18713,6 @@ R. D. Jenny,J.Mccune Smith
 R. D. Jenny,Wm H. Topp
 R. D. Jenny,G.B. Wilson
 R. D. Jenny,P.G. Smith
-R. D. Jenny,P. M.
 R. D. Jenny,George Wilson
 R. D. Jenny,J. Mc
 R. D. Jenny,Cune Smith
@@ -19061,7 +18799,6 @@ R. D. Jenny,E. V. Clark
 R. D. Jenny,Joseph Cassey
 R. D. Jenny,William Douglass
 R. D. Jenny,James J. G. Bias
-R. D. Jenny,A. M.
 R. D. Jenny,Kenney
 R. D. Jenny,M. A. Jackson
 R. D. Jenny,M. Sumner
@@ -19109,7 +18846,6 @@ R. D. Jenny,Spense
 R. D. Jenny,N. Y. Minutes
 R. D. Jenny,H. H. Garnett
 R. D. Jenny,A. Jackson
-R. D. Jenny,W. C.
 R. D. Jenny,Garnett
 R. D. Jenny,Lee
 R. D. Jenny,Wm. H. Topp
@@ -19147,7 +18883,6 @@ J. Mc.Smith,J.Mccune Smith
 J. Mc.Smith,Wm H. Topp
 J. Mc.Smith,G.B. Wilson
 J. Mc.Smith,P.G. Smith
-J. Mc.Smith,P. M.
 J. Mc.Smith,George Wilson
 J. Mc.Smith,J. Mc
 J. Mc.Smith,Cune Smith
@@ -19234,7 +18969,6 @@ J. Mc.Smith,E. V. Clark
 J. Mc.Smith,Joseph Cassey
 J. Mc.Smith,William Douglass
 J. Mc.Smith,James J. G. Bias
-J. Mc.Smith,A. M.
 J. Mc.Smith,Kenney
 J. Mc.Smith,M. A. Jackson
 J. Mc.Smith,M. Sumner
@@ -19282,7 +19016,6 @@ J. Mc.Smith,Spense
 J. Mc.Smith,N. Y. Minutes
 J. Mc.Smith,H. H. Garnett
 J. Mc.Smith,A. Jackson
-J. Mc.Smith,W. C.
 J. Mc.Smith,Garnett
 J. Mc.Smith,Lee
 J. Mc.Smith,Wm. H. Topp
@@ -19319,7 +19052,6 @@ W. W. Brown,J.Mccune Smith
 W. W. Brown,Wm H. Topp
 W. W. Brown,G.B. Wilson
 W. W. Brown,P.G. Smith
-W. W. Brown,P. M.
 W. W. Brown,George Wilson
 W. W. Brown,J. Mc
 W. W. Brown,Cune Smith
@@ -19406,7 +19138,6 @@ W. W. Brown,E. V. Clark
 W. W. Brown,Joseph Cassey
 W. W. Brown,William Douglass
 W. W. Brown,James J. G. Bias
-W. W. Brown,A. M.
 W. W. Brown,Kenney
 W. W. Brown,M. A. Jackson
 W. W. Brown,M. Sumner
@@ -19454,7 +19185,6 @@ W. W. Brown,Spense
 W. W. Brown,N. Y. Minutes
 W. W. Brown,H. H. Garnett
 W. W. Brown,A. Jackson
-W. W. Brown,W. C.
 W. W. Brown,Garnett
 W. W. Brown,Lee
 W. W. Brown,Wm. H. Topp
@@ -19490,7 +19220,6 @@ S. Baltimore,J.Mccune Smith
 S. Baltimore,Wm H. Topp
 S. Baltimore,G.B. Wilson
 S. Baltimore,P.G. Smith
-S. Baltimore,P. M.
 S. Baltimore,George Wilson
 S. Baltimore,J. Mc
 S. Baltimore,Cune Smith
@@ -19577,7 +19306,6 @@ S. Baltimore,E. V. Clark
 S. Baltimore,Joseph Cassey
 S. Baltimore,William Douglass
 S. Baltimore,James J. G. Bias
-S. Baltimore,A. M.
 S. Baltimore,Kenney
 S. Baltimore,M. A. Jackson
 S. Baltimore,M. Sumner
@@ -19625,7 +19353,6 @@ S. Baltimore,Spense
 S. Baltimore,N. Y. Minutes
 S. Baltimore,H. H. Garnett
 S. Baltimore,A. Jackson
-S. Baltimore,W. C.
 S. Baltimore,Garnett
 S. Baltimore,Lee
 S. Baltimore,Wm. H. Topp
@@ -19660,7 +19387,6 @@ W. C. Nell,J.Mccune Smith
 W. C. Nell,Wm H. Topp
 W. C. Nell,G.B. Wilson
 W. C. Nell,P.G. Smith
-W. C. Nell,P. M.
 W. C. Nell,George Wilson
 W. C. Nell,J. Mc
 W. C. Nell,Cune Smith
@@ -19747,7 +19473,6 @@ W. C. Nell,E. V. Clark
 W. C. Nell,Joseph Cassey
 W. C. Nell,William Douglass
 W. C. Nell,James J. G. Bias
-W. C. Nell,A. M.
 W. C. Nell,Kenney
 W. C. Nell,M. A. Jackson
 W. C. Nell,M. Sumner
@@ -19795,7 +19520,6 @@ W. C. Nell,Spense
 W. C. Nell,N. Y. Minutes
 W. C. Nell,H. H. Garnett
 W. C. Nell,A. Jackson
-W. C. Nell,W. C.
 W. C. Nell,Garnett
 W. C. Nell,Lee
 W. C. Nell,Wm. H. Topp
@@ -19829,7 +19553,6 @@ Seth,J.Mccune Smith
 Seth,Wm H. Topp
 Seth,G.B. Wilson
 Seth,P.G. Smith
-Seth,P. M.
 Seth,George Wilson
 Seth,J. Mc
 Seth,Cune Smith
@@ -19916,7 +19639,6 @@ Seth,E. V. Clark
 Seth,Joseph Cassey
 Seth,William Douglass
 Seth,James J. G. Bias
-Seth,A. M.
 Seth,Kenney
 Seth,M. A. Jackson
 Seth,M. Sumner
@@ -19964,7 +19686,6 @@ Seth,Spense
 Seth,N. Y. Minutes
 Seth,H. H. Garnett
 Seth,A. Jackson
-Seth,W. C.
 Seth,Garnett
 Seth,Lee
 Seth,Wm. H. Topp
@@ -19997,7 +19718,6 @@ Seth,John C. Calhoun
 J.Mccune Smith,Wm H. Topp
 J.Mccune Smith,G.B. Wilson
 J.Mccune Smith,P.G. Smith
-J.Mccune Smith,P. M.
 J.Mccune Smith,George Wilson
 J.Mccune Smith,J. Mc
 J.Mccune Smith,Cune Smith
@@ -20084,7 +19804,6 @@ J.Mccune Smith,E. V. Clark
 J.Mccune Smith,Joseph Cassey
 J.Mccune Smith,William Douglass
 J.Mccune Smith,James J. G. Bias
-J.Mccune Smith,A. M.
 J.Mccune Smith,Kenney
 J.Mccune Smith,M. A. Jackson
 J.Mccune Smith,M. Sumner
@@ -20132,7 +19851,6 @@ J.Mccune Smith,Spense
 J.Mccune Smith,N. Y. Minutes
 J.Mccune Smith,H. H. Garnett
 J.Mccune Smith,A. Jackson
-J.Mccune Smith,W. C.
 J.Mccune Smith,Garnett
 J.Mccune Smith,Lee
 J.Mccune Smith,Wm. H. Topp
@@ -20164,7 +19882,6 @@ J.Mccune Smith,Gerrit Smith
 J.Mccune Smith,John C. Calhoun
 Wm H. Topp,G.B. Wilson
 Wm H. Topp,P.G. Smith
-Wm H. Topp,P. M.
 Wm H. Topp,George Wilson
 Wm H. Topp,J. Mc
 Wm H. Topp,Cune Smith
@@ -20251,7 +19968,6 @@ Wm H. Topp,E. V. Clark
 Wm H. Topp,Joseph Cassey
 Wm H. Topp,William Douglass
 Wm H. Topp,James J. G. Bias
-Wm H. Topp,A. M.
 Wm H. Topp,Kenney
 Wm H. Topp,M. A. Jackson
 Wm H. Topp,M. Sumner
@@ -20299,7 +20015,6 @@ Wm H. Topp,Spense
 Wm H. Topp,N. Y. Minutes
 Wm H. Topp,H. H. Garnett
 Wm H. Topp,A. Jackson
-Wm H. Topp,W. C.
 Wm H. Topp,Garnett
 Wm H. Topp,Lee
 Wm H. Topp,Wm. H. Topp
@@ -20330,7 +20045,6 @@ Wm H. Topp,God
 Wm H. Topp,Gerrit Smith
 Wm H. Topp,John C. Calhoun
 G.B. Wilson,P.G. Smith
-G.B. Wilson,P. M.
 G.B. Wilson,George Wilson
 G.B. Wilson,J. Mc
 G.B. Wilson,Cune Smith
@@ -20417,7 +20131,6 @@ G.B. Wilson,E. V. Clark
 G.B. Wilson,Joseph Cassey
 G.B. Wilson,William Douglass
 G.B. Wilson,James J. G. Bias
-G.B. Wilson,A. M.
 G.B. Wilson,Kenney
 G.B. Wilson,M. A. Jackson
 G.B. Wilson,M. Sumner
@@ -20465,7 +20178,6 @@ G.B. Wilson,Spense
 G.B. Wilson,N. Y. Minutes
 G.B. Wilson,H. H. Garnett
 G.B. Wilson,A. Jackson
-G.B. Wilson,W. C.
 G.B. Wilson,Garnett
 G.B. Wilson,Lee
 G.B. Wilson,Wm. H. Topp
@@ -20495,7 +20207,6 @@ G.B. Wilson,Alex. Theuy
 G.B. Wilson,God
 G.B. Wilson,Gerrit Smith
 G.B. Wilson,John C. Calhoun
-P.G. Smith,P. M.
 P.G. Smith,George Wilson
 P.G. Smith,J. Mc
 P.G. Smith,Cune Smith
@@ -20582,7 +20293,6 @@ P.G. Smith,E. V. Clark
 P.G. Smith,Joseph Cassey
 P.G. Smith,William Douglass
 P.G. Smith,James J. G. Bias
-P.G. Smith,A. M.
 P.G. Smith,Kenney
 P.G. Smith,M. A. Jackson
 P.G. Smith,M. Sumner
@@ -20630,7 +20340,6 @@ P.G. Smith,Spense
 P.G. Smith,N. Y. Minutes
 P.G. Smith,H. H. Garnett
 P.G. Smith,A. Jackson
-P.G. Smith,W. C.
 P.G. Smith,Garnett
 P.G. Smith,Lee
 P.G. Smith,Wm. H. Topp
@@ -20660,170 +20369,6 @@ P.G. Smith,Alex. Theuy
 P.G. Smith,God
 P.G. Smith,Gerrit Smith
 P.G. Smith,John C. Calhoun
-P. M.,George Wilson
-P. M.,J. Mc
-P. M.,Cune Smith
-P. M.,Collins
-P. M.,Lyall
-P. M.,W.W. Brown
-P. M.,Ray
-P. M.,C.
-P. M.,Pennington
-P. M.,Schuyler
-P. M.,Crummell
-P. M.,F. Douglass
-P. M.,E. N. Hall
-P. M.,Leonard Coliins
-P. M.,A. G. Beman
-P. M.,J. M. C. Smith
-P. M.,R. D. Kenney
-P. M.,John C Spence
-P. M.,Harper
-P. M.,Geo W Gordon
-P. M.,James H Henderson
-P. M.,Geo Haggimore
-P. M.,Geo H Baltimore
-P. M.,Henty Brister
-P. M.,Griffen Griffin
-P. M.,Leollard Collins
-P. M.,Chas C Seth
-P. M.,J Schuyler
-P. M.,J W Pennington
-P. M.,Samuel B Hyers
-P. M.,Willis A Hodges
-P. M.,Thos Van Rensselaer
-P. M.,Mosel A Jackson
-P. M.,Johnson
-P. M.,Nell
-P. M.,Amos Gerry Beman
-P. M.,A. Crummell
-P. M.,R. Johnson
-P. M.,Smith
-P. M.,B. Weeden
-P. M.,Van Rensseiaer
-P. M.,Alex Crummell
-P. M.,Myers
-P. M.,T. Van Rensselaer
-P. M.,William S Baltimore
-P. M.,Chas B Ray
-P. M.,Griffen Griffins
-P. M.,William H Topp
-P. M.,John Harrisson
-P. M.,William Meads
-P. M.,Geo B Wilson
-P. M.,Jamcs Mccunc Smith
-P. M.,Stephen Smith
-P. M.,Purnell
-P. M.,Henry H Gamet
-P. M.,H W Johnson
-P. M.,John Lyles
-P. M.,Thos Van Renselaer
-P. M.,Jackson
-P. M.,Kenny
-P. M.,Chas Van Hoosen
-P. M.,Wm W. Brown
-P. M.,Amos G Beman
-P. M.,Benj
-P. M.,L. Hayden
-P. M.,Henderson
-P. M.,Hyers
-P. M.,Weeden
-P. M.,John
-P. M.,Henry Highland Garnet
-P. M.,G Beman
-P. M.,William H.Topp
-P. M.,Moses Jackson
-P. M.,William A. Tyson
-P. M.,Charles L. Reason
-P. M.,George T. Downing
-P. M.,John J. Zuille
-P. M.,Albro Lyons
-P. M.,Samuel E. Cornish
-P. M.,Patrick H. Reason
-P. M.,N. B. Vidal
-P. M.,Christopher Rush
-P. M.,E. V. Clark
-P. M.,Joseph Cassey
-P. M.,William Douglass
-P. M.,James J. G. Bias
-P. M.,A. M.
-P. M.,Kenney
-P. M.,M. A. Jackson
-P. M.,M. Sumner
-P. M.,Alex. Thuey
-P. M.,Robert Barks
-P. M.,N. J. Benj
-P. M.,T. H. Henderson
-P. M.,R H Johnson
-P. M.,Van Hoosen
-P. M.,Brown
-P. M.,Henry H Garnet
-P. M.,H Morton
-P. M.,Geo W Gorden
-P. M.,J H Davis
-P. M.,Van Wranken
-P. M.,Hodges
-P. M.,Moore
-P. M.,Wm Meads
-P. M.,Wilson
-P. M.,J B Webb
-P. M.,Benj Wheeden
-P. M.,Saml Smith
-P. M.,Thos Thomas
-P. M.,Meads
-P. M.,J Spence
-P. M.,Beman
-P. M.,Morton
-P. M.,J H Henderson
-P. M.,N. J.
-P. M.,G W Gordon
-P. M.,Samuei Smith
-P. M.,J W C Pennington
-P. M.,Harris
-P. M.,Watson
-P. M.,Thomas
-P. M.,W W Brown
-P. M.,Hayden
-P. M.,John C. Spence
-P. M.,H. H. Gamet
-P. M.,E. P. Rogers
-P. M.,A. M. Sumner Cincinnati
-P. M.,V. P. Pennington
-P. M.,Suasian
-P. M.,Spense
-P. M.,N. Y. Minutes
-P. M.,H. H. Garnett
-P. M.,A. Jackson
-P. M.,W. C.
-P. M.,Garnett
-P. M.,Lee
-P. M.,Wm. H. Topp
-P. M.,Lewis Putnam
-P. M.,Spence
-P. M.,W. H. Topp
-P. M.,Jesus Christ
-P. M.,Horn
-P. M.,Amos G. Beman
-P. M.,James W. C. Pennington
-P. M.,Andrew Purnell
-P. M.,George B. Vachon
-P. M.,G. B. Wilson
-P. M.,Jehovah
-P. M.,Peter Constantine
-P. M.,George Ennis
-P. M.,Peter Jallep
-P. M.,James Millington
-P. M.,George Reily
-P. M.,Robert Duaney
-P. M.,Randall D. Kenney
-P. M.,P. Harris
-P. M.,George Hogarth
-P. M.,C. Nell
-P. M.,A. M. Sumner
-P. M.,Alex. Theuy
-P. M.,God
-P. M.,Gerrit Smith
-P. M.,John C. Calhoun
 George Wilson,J. Mc
 George Wilson,Cune Smith
 George Wilson,Collins
@@ -20909,7 +20454,6 @@ George Wilson,E. V. Clark
 George Wilson,Joseph Cassey
 George Wilson,William Douglass
 George Wilson,James J. G. Bias
-George Wilson,A. M.
 George Wilson,Kenney
 George Wilson,M. A. Jackson
 George Wilson,M. Sumner
@@ -20957,7 +20501,6 @@ George Wilson,Spense
 George Wilson,N. Y. Minutes
 George Wilson,H. H. Garnett
 George Wilson,A. Jackson
-George Wilson,W. C.
 George Wilson,Garnett
 George Wilson,Lee
 George Wilson,Wm. H. Topp
@@ -21071,7 +20614,6 @@ J. Mc,E. V. Clark
 J. Mc,Joseph Cassey
 J. Mc,William Douglass
 J. Mc,James J. G. Bias
-J. Mc,A. M.
 J. Mc,Kenney
 J. Mc,M. A. Jackson
 J. Mc,M. Sumner
@@ -21119,7 +20661,6 @@ J. Mc,Spense
 J. Mc,N. Y. Minutes
 J. Mc,H. H. Garnett
 J. Mc,A. Jackson
-J. Mc,W. C.
 J. Mc,Garnett
 J. Mc,Lee
 J. Mc,Wm. H. Topp
@@ -21232,7 +20773,6 @@ Cune Smith,E. V. Clark
 Cune Smith,Joseph Cassey
 Cune Smith,William Douglass
 Cune Smith,James J. G. Bias
-Cune Smith,A. M.
 Cune Smith,Kenney
 Cune Smith,M. A. Jackson
 Cune Smith,M. Sumner
@@ -21280,7 +20820,6 @@ Cune Smith,Spense
 Cune Smith,N. Y. Minutes
 Cune Smith,H. H. Garnett
 Cune Smith,A. Jackson
-Cune Smith,W. C.
 Cune Smith,Garnett
 Cune Smith,Lee
 Cune Smith,Wm. H. Topp
@@ -21392,7 +20931,6 @@ Collins,E. V. Clark
 Collins,Joseph Cassey
 Collins,William Douglass
 Collins,James J. G. Bias
-Collins,A. M.
 Collins,Kenney
 Collins,M. A. Jackson
 Collins,M. Sumner
@@ -21440,7 +20978,6 @@ Collins,Spense
 Collins,N. Y. Minutes
 Collins,H. H. Garnett
 Collins,A. Jackson
-Collins,W. C.
 Collins,Garnett
 Collins,Lee
 Collins,Wm. H. Topp
@@ -21551,7 +21088,6 @@ Lyall,E. V. Clark
 Lyall,Joseph Cassey
 Lyall,William Douglass
 Lyall,James J. G. Bias
-Lyall,A. M.
 Lyall,Kenney
 Lyall,M. A. Jackson
 Lyall,M. Sumner
@@ -21599,7 +21135,6 @@ Lyall,Spense
 Lyall,N. Y. Minutes
 Lyall,H. H. Garnett
 Lyall,A. Jackson
-Lyall,W. C.
 Lyall,Garnett
 Lyall,Lee
 Lyall,Wm. H. Topp
@@ -21709,7 +21244,6 @@ W.W. Brown,E. V. Clark
 W.W. Brown,Joseph Cassey
 W.W. Brown,William Douglass
 W.W. Brown,James J. G. Bias
-W.W. Brown,A. M.
 W.W. Brown,Kenney
 W.W. Brown,M. A. Jackson
 W.W. Brown,M. Sumner
@@ -21757,7 +21291,6 @@ W.W. Brown,Spense
 W.W. Brown,N. Y. Minutes
 W.W. Brown,H. H. Garnett
 W.W. Brown,A. Jackson
-W.W. Brown,W. C.
 W.W. Brown,Garnett
 W.W. Brown,Lee
 W.W. Brown,Wm. H. Topp
@@ -21866,7 +21399,6 @@ Ray,E. V. Clark
 Ray,Joseph Cassey
 Ray,William Douglass
 Ray,James J. G. Bias
-Ray,A. M.
 Ray,Kenney
 Ray,M. A. Jackson
 Ray,M. Sumner
@@ -21914,7 +21446,6 @@ Ray,Spense
 Ray,N. Y. Minutes
 Ray,H. H. Garnett
 Ray,A. Jackson
-Ray,W. C.
 Ray,Garnett
 Ray,Lee
 Ray,Wm. H. Topp
@@ -22022,7 +21553,6 @@ C.,E. V. Clark
 C.,Joseph Cassey
 C.,William Douglass
 C.,James J. G. Bias
-C.,A. M.
 C.,Kenney
 C.,M. A. Jackson
 C.,M. Sumner
@@ -22070,7 +21600,6 @@ C.,Spense
 C.,N. Y. Minutes
 C.,H. H. Garnett
 C.,A. Jackson
-C.,W. C.
 C.,Garnett
 C.,Lee
 C.,Wm. H. Topp
@@ -22177,7 +21706,6 @@ Pennington,E. V. Clark
 Pennington,Joseph Cassey
 Pennington,William Douglass
 Pennington,James J. G. Bias
-Pennington,A. M.
 Pennington,Kenney
 Pennington,M. A. Jackson
 Pennington,M. Sumner
@@ -22225,7 +21753,6 @@ Pennington,Spense
 Pennington,N. Y. Minutes
 Pennington,H. H. Garnett
 Pennington,A. Jackson
-Pennington,W. C.
 Pennington,Garnett
 Pennington,Lee
 Pennington,Wm. H. Topp
@@ -22331,7 +21858,6 @@ Schuyler,E. V. Clark
 Schuyler,Joseph Cassey
 Schuyler,William Douglass
 Schuyler,James J. G. Bias
-Schuyler,A. M.
 Schuyler,Kenney
 Schuyler,M. A. Jackson
 Schuyler,M. Sumner
@@ -22379,7 +21905,6 @@ Schuyler,Spense
 Schuyler,N. Y. Minutes
 Schuyler,H. H. Garnett
 Schuyler,A. Jackson
-Schuyler,W. C.
 Schuyler,Garnett
 Schuyler,Lee
 Schuyler,Wm. H. Topp
@@ -22484,7 +22009,6 @@ Crummell,E. V. Clark
 Crummell,Joseph Cassey
 Crummell,William Douglass
 Crummell,James J. G. Bias
-Crummell,A. M.
 Crummell,Kenney
 Crummell,M. A. Jackson
 Crummell,M. Sumner
@@ -22532,7 +22056,6 @@ Crummell,Spense
 Crummell,N. Y. Minutes
 Crummell,H. H. Garnett
 Crummell,A. Jackson
-Crummell,W. C.
 Crummell,Garnett
 Crummell,Lee
 Crummell,Wm. H. Topp
@@ -22636,7 +22159,6 @@ F. Douglass,E. V. Clark
 F. Douglass,Joseph Cassey
 F. Douglass,William Douglass
 F. Douglass,James J. G. Bias
-F. Douglass,A. M.
 F. Douglass,Kenney
 F. Douglass,M. A. Jackson
 F. Douglass,M. Sumner
@@ -22684,7 +22206,6 @@ F. Douglass,Spense
 F. Douglass,N. Y. Minutes
 F. Douglass,H. H. Garnett
 F. Douglass,A. Jackson
-F. Douglass,W. C.
 F. Douglass,Garnett
 F. Douglass,Lee
 F. Douglass,Wm. H. Topp
@@ -22787,7 +22308,6 @@ E. N. Hall,E. V. Clark
 E. N. Hall,Joseph Cassey
 E. N. Hall,William Douglass
 E. N. Hall,James J. G. Bias
-E. N. Hall,A. M.
 E. N. Hall,Kenney
 E. N. Hall,M. A. Jackson
 E. N. Hall,M. Sumner
@@ -22835,7 +22355,6 @@ E. N. Hall,Spense
 E. N. Hall,N. Y. Minutes
 E. N. Hall,H. H. Garnett
 E. N. Hall,A. Jackson
-E. N. Hall,W. C.
 E. N. Hall,Garnett
 E. N. Hall,Lee
 E. N. Hall,Wm. H. Topp
@@ -22937,7 +22456,6 @@ Leonard Coliins,E. V. Clark
 Leonard Coliins,Joseph Cassey
 Leonard Coliins,William Douglass
 Leonard Coliins,James J. G. Bias
-Leonard Coliins,A. M.
 Leonard Coliins,Kenney
 Leonard Coliins,M. A. Jackson
 Leonard Coliins,M. Sumner
@@ -22985,7 +22503,6 @@ Leonard Coliins,Spense
 Leonard Coliins,N. Y. Minutes
 Leonard Coliins,H. H. Garnett
 Leonard Coliins,A. Jackson
-Leonard Coliins,W. C.
 Leonard Coliins,Garnett
 Leonard Coliins,Lee
 Leonard Coliins,Wm. H. Topp
@@ -23086,7 +22603,6 @@ A. G. Beman,E. V. Clark
 A. G. Beman,Joseph Cassey
 A. G. Beman,William Douglass
 A. G. Beman,James J. G. Bias
-A. G. Beman,A. M.
 A. G. Beman,Kenney
 A. G. Beman,M. A. Jackson
 A. G. Beman,M. Sumner
@@ -23134,7 +22650,6 @@ A. G. Beman,Spense
 A. G. Beman,N. Y. Minutes
 A. G. Beman,H. H. Garnett
 A. G. Beman,A. Jackson
-A. G. Beman,W. C.
 A. G. Beman,Garnett
 A. G. Beman,Lee
 A. G. Beman,Wm. H. Topp
@@ -23234,7 +22749,6 @@ J. M. C. Smith,E. V. Clark
 J. M. C. Smith,Joseph Cassey
 J. M. C. Smith,William Douglass
 J. M. C. Smith,James J. G. Bias
-J. M. C. Smith,A. M.
 J. M. C. Smith,Kenney
 J. M. C. Smith,M. A. Jackson
 J. M. C. Smith,M. Sumner
@@ -23282,7 +22796,6 @@ J. M. C. Smith,Spense
 J. M. C. Smith,N. Y. Minutes
 J. M. C. Smith,H. H. Garnett
 J. M. C. Smith,A. Jackson
-J. M. C. Smith,W. C.
 J. M. C. Smith,Garnett
 J. M. C. Smith,Lee
 J. M. C. Smith,Wm. H. Topp
@@ -23381,7 +22894,6 @@ R. D. Kenney,E. V. Clark
 R. D. Kenney,Joseph Cassey
 R. D. Kenney,William Douglass
 R. D. Kenney,James J. G. Bias
-R. D. Kenney,A. M.
 R. D. Kenney,Kenney
 R. D. Kenney,M. A. Jackson
 R. D. Kenney,M. Sumner
@@ -23429,7 +22941,6 @@ R. D. Kenney,Spense
 R. D. Kenney,N. Y. Minutes
 R. D. Kenney,H. H. Garnett
 R. D. Kenney,A. Jackson
-R. D. Kenney,W. C.
 R. D. Kenney,Garnett
 R. D. Kenney,Lee
 R. D. Kenney,Wm. H. Topp
@@ -23527,7 +23038,6 @@ John C Spence,E. V. Clark
 John C Spence,Joseph Cassey
 John C Spence,William Douglass
 John C Spence,James J. G. Bias
-John C Spence,A. M.
 John C Spence,Kenney
 John C Spence,M. A. Jackson
 John C Spence,M. Sumner
@@ -23575,7 +23085,6 @@ John C Spence,Spense
 John C Spence,N. Y. Minutes
 John C Spence,H. H. Garnett
 John C Spence,A. Jackson
-John C Spence,W. C.
 John C Spence,Garnett
 John C Spence,Lee
 John C Spence,Wm. H. Topp
@@ -23672,7 +23181,6 @@ Harper,E. V. Clark
 Harper,Joseph Cassey
 Harper,William Douglass
 Harper,James J. G. Bias
-Harper,A. M.
 Harper,Kenney
 Harper,M. A. Jackson
 Harper,M. Sumner
@@ -23720,7 +23228,6 @@ Harper,Spense
 Harper,N. Y. Minutes
 Harper,H. H. Garnett
 Harper,A. Jackson
-Harper,W. C.
 Harper,Garnett
 Harper,Lee
 Harper,Wm. H. Topp
@@ -23816,7 +23323,6 @@ Geo W Gordon,E. V. Clark
 Geo W Gordon,Joseph Cassey
 Geo W Gordon,William Douglass
 Geo W Gordon,James J. G. Bias
-Geo W Gordon,A. M.
 Geo W Gordon,Kenney
 Geo W Gordon,M. A. Jackson
 Geo W Gordon,M. Sumner
@@ -23864,7 +23370,6 @@ Geo W Gordon,Spense
 Geo W Gordon,N. Y. Minutes
 Geo W Gordon,H. H. Garnett
 Geo W Gordon,A. Jackson
-Geo W Gordon,W. C.
 Geo W Gordon,Garnett
 Geo W Gordon,Lee
 Geo W Gordon,Wm. H. Topp
@@ -23959,7 +23464,6 @@ James H Henderson,E. V. Clark
 James H Henderson,Joseph Cassey
 James H Henderson,William Douglass
 James H Henderson,James J. G. Bias
-James H Henderson,A. M.
 James H Henderson,Kenney
 James H Henderson,M. A. Jackson
 James H Henderson,M. Sumner
@@ -24007,7 +23511,6 @@ James H Henderson,Spense
 James H Henderson,N. Y. Minutes
 James H Henderson,H. H. Garnett
 James H Henderson,A. Jackson
-James H Henderson,W. C.
 James H Henderson,Garnett
 James H Henderson,Lee
 James H Henderson,Wm. H. Topp
@@ -24101,7 +23604,6 @@ Geo Haggimore,E. V. Clark
 Geo Haggimore,Joseph Cassey
 Geo Haggimore,William Douglass
 Geo Haggimore,James J. G. Bias
-Geo Haggimore,A. M.
 Geo Haggimore,Kenney
 Geo Haggimore,M. A. Jackson
 Geo Haggimore,M. Sumner
@@ -24149,7 +23651,6 @@ Geo Haggimore,Spense
 Geo Haggimore,N. Y. Minutes
 Geo Haggimore,H. H. Garnett
 Geo Haggimore,A. Jackson
-Geo Haggimore,W. C.
 Geo Haggimore,Garnett
 Geo Haggimore,Lee
 Geo Haggimore,Wm. H. Topp
@@ -24242,7 +23743,6 @@ Geo H Baltimore,E. V. Clark
 Geo H Baltimore,Joseph Cassey
 Geo H Baltimore,William Douglass
 Geo H Baltimore,James J. G. Bias
-Geo H Baltimore,A. M.
 Geo H Baltimore,Kenney
 Geo H Baltimore,M. A. Jackson
 Geo H Baltimore,M. Sumner
@@ -24290,7 +23790,6 @@ Geo H Baltimore,Spense
 Geo H Baltimore,N. Y. Minutes
 Geo H Baltimore,H. H. Garnett
 Geo H Baltimore,A. Jackson
-Geo H Baltimore,W. C.
 Geo H Baltimore,Garnett
 Geo H Baltimore,Lee
 Geo H Baltimore,Wm. H. Topp
@@ -24382,7 +23881,6 @@ Henty Brister,E. V. Clark
 Henty Brister,Joseph Cassey
 Henty Brister,William Douglass
 Henty Brister,James J. G. Bias
-Henty Brister,A. M.
 Henty Brister,Kenney
 Henty Brister,M. A. Jackson
 Henty Brister,M. Sumner
@@ -24430,7 +23928,6 @@ Henty Brister,Spense
 Henty Brister,N. Y. Minutes
 Henty Brister,H. H. Garnett
 Henty Brister,A. Jackson
-Henty Brister,W. C.
 Henty Brister,Garnett
 Henty Brister,Lee
 Henty Brister,Wm. H. Topp
@@ -24521,7 +24018,6 @@ Griffen Griffin,E. V. Clark
 Griffen Griffin,Joseph Cassey
 Griffen Griffin,William Douglass
 Griffen Griffin,James J. G. Bias
-Griffen Griffin,A. M.
 Griffen Griffin,Kenney
 Griffen Griffin,M. A. Jackson
 Griffen Griffin,M. Sumner
@@ -24569,7 +24065,6 @@ Griffen Griffin,Spense
 Griffen Griffin,N. Y. Minutes
 Griffen Griffin,H. H. Garnett
 Griffen Griffin,A. Jackson
-Griffen Griffin,W. C.
 Griffen Griffin,Garnett
 Griffen Griffin,Lee
 Griffen Griffin,Wm. H. Topp
@@ -24659,7 +24154,6 @@ Leollard Collins,E. V. Clark
 Leollard Collins,Joseph Cassey
 Leollard Collins,William Douglass
 Leollard Collins,James J. G. Bias
-Leollard Collins,A. M.
 Leollard Collins,Kenney
 Leollard Collins,M. A. Jackson
 Leollard Collins,M. Sumner
@@ -24707,7 +24201,6 @@ Leollard Collins,Spense
 Leollard Collins,N. Y. Minutes
 Leollard Collins,H. H. Garnett
 Leollard Collins,A. Jackson
-Leollard Collins,W. C.
 Leollard Collins,Garnett
 Leollard Collins,Lee
 Leollard Collins,Wm. H. Topp
@@ -24796,7 +24289,6 @@ Chas C Seth,E. V. Clark
 Chas C Seth,Joseph Cassey
 Chas C Seth,William Douglass
 Chas C Seth,James J. G. Bias
-Chas C Seth,A. M.
 Chas C Seth,Kenney
 Chas C Seth,M. A. Jackson
 Chas C Seth,M. Sumner
@@ -24844,7 +24336,6 @@ Chas C Seth,Spense
 Chas C Seth,N. Y. Minutes
 Chas C Seth,H. H. Garnett
 Chas C Seth,A. Jackson
-Chas C Seth,W. C.
 Chas C Seth,Garnett
 Chas C Seth,Lee
 Chas C Seth,Wm. H. Topp
@@ -24932,7 +24423,6 @@ J Schuyler,E. V. Clark
 J Schuyler,Joseph Cassey
 J Schuyler,William Douglass
 J Schuyler,James J. G. Bias
-J Schuyler,A. M.
 J Schuyler,Kenney
 J Schuyler,M. A. Jackson
 J Schuyler,M. Sumner
@@ -24980,7 +24470,6 @@ J Schuyler,Spense
 J Schuyler,N. Y. Minutes
 J Schuyler,H. H. Garnett
 J Schuyler,A. Jackson
-J Schuyler,W. C.
 J Schuyler,Garnett
 J Schuyler,Lee
 J Schuyler,Wm. H. Topp
@@ -25067,7 +24556,6 @@ J W Pennington,E. V. Clark
 J W Pennington,Joseph Cassey
 J W Pennington,William Douglass
 J W Pennington,James J. G. Bias
-J W Pennington,A. M.
 J W Pennington,Kenney
 J W Pennington,M. A. Jackson
 J W Pennington,M. Sumner
@@ -25115,7 +24603,6 @@ J W Pennington,Spense
 J W Pennington,N. Y. Minutes
 J W Pennington,H. H. Garnett
 J W Pennington,A. Jackson
-J W Pennington,W. C.
 J W Pennington,Garnett
 J W Pennington,Lee
 J W Pennington,Wm. H. Topp
@@ -25201,7 +24688,6 @@ Samuel B Hyers,E. V. Clark
 Samuel B Hyers,Joseph Cassey
 Samuel B Hyers,William Douglass
 Samuel B Hyers,James J. G. Bias
-Samuel B Hyers,A. M.
 Samuel B Hyers,Kenney
 Samuel B Hyers,M. A. Jackson
 Samuel B Hyers,M. Sumner
@@ -25249,7 +24735,6 @@ Samuel B Hyers,Spense
 Samuel B Hyers,N. Y. Minutes
 Samuel B Hyers,H. H. Garnett
 Samuel B Hyers,A. Jackson
-Samuel B Hyers,W. C.
 Samuel B Hyers,Garnett
 Samuel B Hyers,Lee
 Samuel B Hyers,Wm. H. Topp
@@ -25334,7 +24819,6 @@ Willis A Hodges,E. V. Clark
 Willis A Hodges,Joseph Cassey
 Willis A Hodges,William Douglass
 Willis A Hodges,James J. G. Bias
-Willis A Hodges,A. M.
 Willis A Hodges,Kenney
 Willis A Hodges,M. A. Jackson
 Willis A Hodges,M. Sumner
@@ -25382,7 +24866,6 @@ Willis A Hodges,Spense
 Willis A Hodges,N. Y. Minutes
 Willis A Hodges,H. H. Garnett
 Willis A Hodges,A. Jackson
-Willis A Hodges,W. C.
 Willis A Hodges,Garnett
 Willis A Hodges,Lee
 Willis A Hodges,Wm. H. Topp
@@ -25466,7 +24949,6 @@ Thos Van Rensselaer,E. V. Clark
 Thos Van Rensselaer,Joseph Cassey
 Thos Van Rensselaer,William Douglass
 Thos Van Rensselaer,James J. G. Bias
-Thos Van Rensselaer,A. M.
 Thos Van Rensselaer,Kenney
 Thos Van Rensselaer,M. A. Jackson
 Thos Van Rensselaer,M. Sumner
@@ -25514,7 +24996,6 @@ Thos Van Rensselaer,Spense
 Thos Van Rensselaer,N. Y. Minutes
 Thos Van Rensselaer,H. H. Garnett
 Thos Van Rensselaer,A. Jackson
-Thos Van Rensselaer,W. C.
 Thos Van Rensselaer,Garnett
 Thos Van Rensselaer,Lee
 Thos Van Rensselaer,Wm. H. Topp
@@ -25597,7 +25078,6 @@ Mosel A Jackson,E. V. Clark
 Mosel A Jackson,Joseph Cassey
 Mosel A Jackson,William Douglass
 Mosel A Jackson,James J. G. Bias
-Mosel A Jackson,A. M.
 Mosel A Jackson,Kenney
 Mosel A Jackson,M. A. Jackson
 Mosel A Jackson,M. Sumner
@@ -25645,7 +25125,6 @@ Mosel A Jackson,Spense
 Mosel A Jackson,N. Y. Minutes
 Mosel A Jackson,H. H. Garnett
 Mosel A Jackson,A. Jackson
-Mosel A Jackson,W. C.
 Mosel A Jackson,Garnett
 Mosel A Jackson,Lee
 Mosel A Jackson,Wm. H. Topp
@@ -25727,7 +25206,6 @@ Johnson,E. V. Clark
 Johnson,Joseph Cassey
 Johnson,William Douglass
 Johnson,James J. G. Bias
-Johnson,A. M.
 Johnson,Kenney
 Johnson,M. A. Jackson
 Johnson,M. Sumner
@@ -25775,7 +25253,6 @@ Johnson,Spense
 Johnson,N. Y. Minutes
 Johnson,H. H. Garnett
 Johnson,A. Jackson
-Johnson,W. C.
 Johnson,Garnett
 Johnson,Lee
 Johnson,Wm. H. Topp
@@ -25856,7 +25333,6 @@ Nell,E. V. Clark
 Nell,Joseph Cassey
 Nell,William Douglass
 Nell,James J. G. Bias
-Nell,A. M.
 Nell,Kenney
 Nell,M. A. Jackson
 Nell,M. Sumner
@@ -25904,7 +25380,6 @@ Nell,Spense
 Nell,N. Y. Minutes
 Nell,H. H. Garnett
 Nell,A. Jackson
-Nell,W. C.
 Nell,Garnett
 Nell,Lee
 Nell,Wm. H. Topp
@@ -25984,7 +25459,6 @@ Amos Gerry Beman,E. V. Clark
 Amos Gerry Beman,Joseph Cassey
 Amos Gerry Beman,William Douglass
 Amos Gerry Beman,James J. G. Bias
-Amos Gerry Beman,A. M.
 Amos Gerry Beman,Kenney
 Amos Gerry Beman,M. A. Jackson
 Amos Gerry Beman,M. Sumner
@@ -26032,7 +25506,6 @@ Amos Gerry Beman,Spense
 Amos Gerry Beman,N. Y. Minutes
 Amos Gerry Beman,H. H. Garnett
 Amos Gerry Beman,A. Jackson
-Amos Gerry Beman,W. C.
 Amos Gerry Beman,Garnett
 Amos Gerry Beman,Lee
 Amos Gerry Beman,Wm. H. Topp
@@ -26111,7 +25584,6 @@ A. Crummell,E. V. Clark
 A. Crummell,Joseph Cassey
 A. Crummell,William Douglass
 A. Crummell,James J. G. Bias
-A. Crummell,A. M.
 A. Crummell,Kenney
 A. Crummell,M. A. Jackson
 A. Crummell,M. Sumner
@@ -26159,7 +25631,6 @@ A. Crummell,Spense
 A. Crummell,N. Y. Minutes
 A. Crummell,H. H. Garnett
 A. Crummell,A. Jackson
-A. Crummell,W. C.
 A. Crummell,Garnett
 A. Crummell,Lee
 A. Crummell,Wm. H. Topp
@@ -26237,7 +25708,6 @@ R. Johnson,E. V. Clark
 R. Johnson,Joseph Cassey
 R. Johnson,William Douglass
 R. Johnson,James J. G. Bias
-R. Johnson,A. M.
 R. Johnson,Kenney
 R. Johnson,M. A. Jackson
 R. Johnson,M. Sumner
@@ -26285,7 +25755,6 @@ R. Johnson,Spense
 R. Johnson,N. Y. Minutes
 R. Johnson,H. H. Garnett
 R. Johnson,A. Jackson
-R. Johnson,W. C.
 R. Johnson,Garnett
 R. Johnson,Lee
 R. Johnson,Wm. H. Topp
@@ -26362,7 +25831,6 @@ Smith,E. V. Clark
 Smith,Joseph Cassey
 Smith,William Douglass
 Smith,James J. G. Bias
-Smith,A. M.
 Smith,Kenney
 Smith,M. A. Jackson
 Smith,M. Sumner
@@ -26410,7 +25878,6 @@ Smith,Spense
 Smith,N. Y. Minutes
 Smith,H. H. Garnett
 Smith,A. Jackson
-Smith,W. C.
 Smith,Garnett
 Smith,Lee
 Smith,Wm. H. Topp
@@ -26486,7 +25953,6 @@ B. Weeden,E. V. Clark
 B. Weeden,Joseph Cassey
 B. Weeden,William Douglass
 B. Weeden,James J. G. Bias
-B. Weeden,A. M.
 B. Weeden,Kenney
 B. Weeden,M. A. Jackson
 B. Weeden,M. Sumner
@@ -26534,7 +26000,6 @@ B. Weeden,Spense
 B. Weeden,N. Y. Minutes
 B. Weeden,H. H. Garnett
 B. Weeden,A. Jackson
-B. Weeden,W. C.
 B. Weeden,Garnett
 B. Weeden,Lee
 B. Weeden,Wm. H. Topp
@@ -26609,7 +26074,6 @@ Van Rensseiaer,E. V. Clark
 Van Rensseiaer,Joseph Cassey
 Van Rensseiaer,William Douglass
 Van Rensseiaer,James J. G. Bias
-Van Rensseiaer,A. M.
 Van Rensseiaer,Kenney
 Van Rensseiaer,M. A. Jackson
 Van Rensseiaer,M. Sumner
@@ -26657,7 +26121,6 @@ Van Rensseiaer,Spense
 Van Rensseiaer,N. Y. Minutes
 Van Rensseiaer,H. H. Garnett
 Van Rensseiaer,A. Jackson
-Van Rensseiaer,W. C.
 Van Rensseiaer,Garnett
 Van Rensseiaer,Lee
 Van Rensseiaer,Wm. H. Topp
@@ -26731,7 +26194,6 @@ Alex Crummell,E. V. Clark
 Alex Crummell,Joseph Cassey
 Alex Crummell,William Douglass
 Alex Crummell,James J. G. Bias
-Alex Crummell,A. M.
 Alex Crummell,Kenney
 Alex Crummell,M. A. Jackson
 Alex Crummell,M. Sumner
@@ -26779,7 +26241,6 @@ Alex Crummell,Spense
 Alex Crummell,N. Y. Minutes
 Alex Crummell,H. H. Garnett
 Alex Crummell,A. Jackson
-Alex Crummell,W. C.
 Alex Crummell,Garnett
 Alex Crummell,Lee
 Alex Crummell,Wm. H. Topp
@@ -26852,7 +26313,6 @@ Myers,E. V. Clark
 Myers,Joseph Cassey
 Myers,William Douglass
 Myers,James J. G. Bias
-Myers,A. M.
 Myers,Kenney
 Myers,M. A. Jackson
 Myers,M. Sumner
@@ -26900,7 +26360,6 @@ Myers,Spense
 Myers,N. Y. Minutes
 Myers,H. H. Garnett
 Myers,A. Jackson
-Myers,W. C.
 Myers,Garnett
 Myers,Lee
 Myers,Wm. H. Topp
@@ -26972,7 +26431,6 @@ T. Van Rensselaer,E. V. Clark
 T. Van Rensselaer,Joseph Cassey
 T. Van Rensselaer,William Douglass
 T. Van Rensselaer,James J. G. Bias
-T. Van Rensselaer,A. M.
 T. Van Rensselaer,Kenney
 T. Van Rensselaer,M. A. Jackson
 T. Van Rensselaer,M. Sumner
@@ -27020,7 +26478,6 @@ T. Van Rensselaer,Spense
 T. Van Rensselaer,N. Y. Minutes
 T. Van Rensselaer,H. H. Garnett
 T. Van Rensselaer,A. Jackson
-T. Van Rensselaer,W. C.
 T. Van Rensselaer,Garnett
 T. Van Rensselaer,Lee
 T. Van Rensselaer,Wm. H. Topp
@@ -27091,7 +26548,6 @@ William S Baltimore,E. V. Clark
 William S Baltimore,Joseph Cassey
 William S Baltimore,William Douglass
 William S Baltimore,James J. G. Bias
-William S Baltimore,A. M.
 William S Baltimore,Kenney
 William S Baltimore,M. A. Jackson
 William S Baltimore,M. Sumner
@@ -27139,7 +26595,6 @@ William S Baltimore,Spense
 William S Baltimore,N. Y. Minutes
 William S Baltimore,H. H. Garnett
 William S Baltimore,A. Jackson
-William S Baltimore,W. C.
 William S Baltimore,Garnett
 William S Baltimore,Lee
 William S Baltimore,Wm. H. Topp
@@ -27209,7 +26664,6 @@ Chas B Ray,E. V. Clark
 Chas B Ray,Joseph Cassey
 Chas B Ray,William Douglass
 Chas B Ray,James J. G. Bias
-Chas B Ray,A. M.
 Chas B Ray,Kenney
 Chas B Ray,M. A. Jackson
 Chas B Ray,M. Sumner
@@ -27257,7 +26711,6 @@ Chas B Ray,Spense
 Chas B Ray,N. Y. Minutes
 Chas B Ray,H. H. Garnett
 Chas B Ray,A. Jackson
-Chas B Ray,W. C.
 Chas B Ray,Garnett
 Chas B Ray,Lee
 Chas B Ray,Wm. H. Topp
@@ -27326,7 +26779,6 @@ Griffen Griffins,E. V. Clark
 Griffen Griffins,Joseph Cassey
 Griffen Griffins,William Douglass
 Griffen Griffins,James J. G. Bias
-Griffen Griffins,A. M.
 Griffen Griffins,Kenney
 Griffen Griffins,M. A. Jackson
 Griffen Griffins,M. Sumner
@@ -27374,7 +26826,6 @@ Griffen Griffins,Spense
 Griffen Griffins,N. Y. Minutes
 Griffen Griffins,H. H. Garnett
 Griffen Griffins,A. Jackson
-Griffen Griffins,W. C.
 Griffen Griffins,Garnett
 Griffen Griffins,Lee
 Griffen Griffins,Wm. H. Topp
@@ -27442,7 +26893,6 @@ William H Topp,E. V. Clark
 William H Topp,Joseph Cassey
 William H Topp,William Douglass
 William H Topp,James J. G. Bias
-William H Topp,A. M.
 William H Topp,Kenney
 William H Topp,M. A. Jackson
 William H Topp,M. Sumner
@@ -27490,7 +26940,6 @@ William H Topp,Spense
 William H Topp,N. Y. Minutes
 William H Topp,H. H. Garnett
 William H Topp,A. Jackson
-William H Topp,W. C.
 William H Topp,Garnett
 William H Topp,Lee
 William H Topp,Wm. H. Topp
@@ -27557,7 +27006,6 @@ John Harrisson,E. V. Clark
 John Harrisson,Joseph Cassey
 John Harrisson,William Douglass
 John Harrisson,James J. G. Bias
-John Harrisson,A. M.
 John Harrisson,Kenney
 John Harrisson,M. A. Jackson
 John Harrisson,M. Sumner
@@ -27605,7 +27053,6 @@ John Harrisson,Spense
 John Harrisson,N. Y. Minutes
 John Harrisson,H. H. Garnett
 John Harrisson,A. Jackson
-John Harrisson,W. C.
 John Harrisson,Garnett
 John Harrisson,Lee
 John Harrisson,Wm. H. Topp
@@ -27671,7 +27118,6 @@ William Meads,E. V. Clark
 William Meads,Joseph Cassey
 William Meads,William Douglass
 William Meads,James J. G. Bias
-William Meads,A. M.
 William Meads,Kenney
 William Meads,M. A. Jackson
 William Meads,M. Sumner
@@ -27719,7 +27165,6 @@ William Meads,Spense
 William Meads,N. Y. Minutes
 William Meads,H. H. Garnett
 William Meads,A. Jackson
-William Meads,W. C.
 William Meads,Garnett
 William Meads,Lee
 William Meads,Wm. H. Topp
@@ -27784,7 +27229,6 @@ Geo B Wilson,E. V. Clark
 Geo B Wilson,Joseph Cassey
 Geo B Wilson,William Douglass
 Geo B Wilson,James J. G. Bias
-Geo B Wilson,A. M.
 Geo B Wilson,Kenney
 Geo B Wilson,M. A. Jackson
 Geo B Wilson,M. Sumner
@@ -27832,7 +27276,6 @@ Geo B Wilson,Spense
 Geo B Wilson,N. Y. Minutes
 Geo B Wilson,H. H. Garnett
 Geo B Wilson,A. Jackson
-Geo B Wilson,W. C.
 Geo B Wilson,Garnett
 Geo B Wilson,Lee
 Geo B Wilson,Wm. H. Topp
@@ -27896,7 +27339,6 @@ Jamcs Mccunc Smith,E. V. Clark
 Jamcs Mccunc Smith,Joseph Cassey
 Jamcs Mccunc Smith,William Douglass
 Jamcs Mccunc Smith,James J. G. Bias
-Jamcs Mccunc Smith,A. M.
 Jamcs Mccunc Smith,Kenney
 Jamcs Mccunc Smith,M. A. Jackson
 Jamcs Mccunc Smith,M. Sumner
@@ -27944,7 +27386,6 @@ Jamcs Mccunc Smith,Spense
 Jamcs Mccunc Smith,N. Y. Minutes
 Jamcs Mccunc Smith,H. H. Garnett
 Jamcs Mccunc Smith,A. Jackson
-Jamcs Mccunc Smith,W. C.
 Jamcs Mccunc Smith,Garnett
 Jamcs Mccunc Smith,Lee
 Jamcs Mccunc Smith,Wm. H. Topp
@@ -28007,7 +27448,6 @@ Stephen Smith,E. V. Clark
 Stephen Smith,Joseph Cassey
 Stephen Smith,William Douglass
 Stephen Smith,James J. G. Bias
-Stephen Smith,A. M.
 Stephen Smith,Kenney
 Stephen Smith,M. A. Jackson
 Stephen Smith,M. Sumner
@@ -28055,7 +27495,6 @@ Stephen Smith,Spense
 Stephen Smith,N. Y. Minutes
 Stephen Smith,H. H. Garnett
 Stephen Smith,A. Jackson
-Stephen Smith,W. C.
 Stephen Smith,Garnett
 Stephen Smith,Lee
 Stephen Smith,Wm. H. Topp
@@ -28117,7 +27556,6 @@ Purnell,E. V. Clark
 Purnell,Joseph Cassey
 Purnell,William Douglass
 Purnell,James J. G. Bias
-Purnell,A. M.
 Purnell,Kenney
 Purnell,M. A. Jackson
 Purnell,M. Sumner
@@ -28165,7 +27603,6 @@ Purnell,Spense
 Purnell,N. Y. Minutes
 Purnell,H. H. Garnett
 Purnell,A. Jackson
-Purnell,W. C.
 Purnell,Garnett
 Purnell,Lee
 Purnell,Wm. H. Topp
@@ -28226,7 +27663,6 @@ Henry H Gamet,E. V. Clark
 Henry H Gamet,Joseph Cassey
 Henry H Gamet,William Douglass
 Henry H Gamet,James J. G. Bias
-Henry H Gamet,A. M.
 Henry H Gamet,Kenney
 Henry H Gamet,M. A. Jackson
 Henry H Gamet,M. Sumner
@@ -28274,7 +27710,6 @@ Henry H Gamet,Spense
 Henry H Gamet,N. Y. Minutes
 Henry H Gamet,H. H. Garnett
 Henry H Gamet,A. Jackson
-Henry H Gamet,W. C.
 Henry H Gamet,Garnett
 Henry H Gamet,Lee
 Henry H Gamet,Wm. H. Topp
@@ -28334,7 +27769,6 @@ H W Johnson,E. V. Clark
 H W Johnson,Joseph Cassey
 H W Johnson,William Douglass
 H W Johnson,James J. G. Bias
-H W Johnson,A. M.
 H W Johnson,Kenney
 H W Johnson,M. A. Jackson
 H W Johnson,M. Sumner
@@ -28382,7 +27816,6 @@ H W Johnson,Spense
 H W Johnson,N. Y. Minutes
 H W Johnson,H. H. Garnett
 H W Johnson,A. Jackson
-H W Johnson,W. C.
 H W Johnson,Garnett
 H W Johnson,Lee
 H W Johnson,Wm. H. Topp
@@ -28441,7 +27874,6 @@ John Lyles,E. V. Clark
 John Lyles,Joseph Cassey
 John Lyles,William Douglass
 John Lyles,James J. G. Bias
-John Lyles,A. M.
 John Lyles,Kenney
 John Lyles,M. A. Jackson
 John Lyles,M. Sumner
@@ -28489,7 +27921,6 @@ John Lyles,Spense
 John Lyles,N. Y. Minutes
 John Lyles,H. H. Garnett
 John Lyles,A. Jackson
-John Lyles,W. C.
 John Lyles,Garnett
 John Lyles,Lee
 John Lyles,Wm. H. Topp
@@ -28547,7 +27978,6 @@ Thos Van Renselaer,E. V. Clark
 Thos Van Renselaer,Joseph Cassey
 Thos Van Renselaer,William Douglass
 Thos Van Renselaer,James J. G. Bias
-Thos Van Renselaer,A. M.
 Thos Van Renselaer,Kenney
 Thos Van Renselaer,M. A. Jackson
 Thos Van Renselaer,M. Sumner
@@ -28595,7 +28025,6 @@ Thos Van Renselaer,Spense
 Thos Van Renselaer,N. Y. Minutes
 Thos Van Renselaer,H. H. Garnett
 Thos Van Renselaer,A. Jackson
-Thos Van Renselaer,W. C.
 Thos Van Renselaer,Garnett
 Thos Van Renselaer,Lee
 Thos Van Renselaer,Wm. H. Topp
@@ -28652,7 +28081,6 @@ Jackson,E. V. Clark
 Jackson,Joseph Cassey
 Jackson,William Douglass
 Jackson,James J. G. Bias
-Jackson,A. M.
 Jackson,Kenney
 Jackson,M. A. Jackson
 Jackson,M. Sumner
@@ -28700,7 +28128,6 @@ Jackson,Spense
 Jackson,N. Y. Minutes
 Jackson,H. H. Garnett
 Jackson,A. Jackson
-Jackson,W. C.
 Jackson,Garnett
 Jackson,Lee
 Jackson,Wm. H. Topp
@@ -28756,7 +28183,6 @@ Kenny,E. V. Clark
 Kenny,Joseph Cassey
 Kenny,William Douglass
 Kenny,James J. G. Bias
-Kenny,A. M.
 Kenny,Kenney
 Kenny,M. A. Jackson
 Kenny,M. Sumner
@@ -28804,7 +28230,6 @@ Kenny,Spense
 Kenny,N. Y. Minutes
 Kenny,H. H. Garnett
 Kenny,A. Jackson
-Kenny,W. C.
 Kenny,Garnett
 Kenny,Lee
 Kenny,Wm. H. Topp
@@ -28859,7 +28284,6 @@ Chas Van Hoosen,E. V. Clark
 Chas Van Hoosen,Joseph Cassey
 Chas Van Hoosen,William Douglass
 Chas Van Hoosen,James J. G. Bias
-Chas Van Hoosen,A. M.
 Chas Van Hoosen,Kenney
 Chas Van Hoosen,M. A. Jackson
 Chas Van Hoosen,M. Sumner
@@ -28907,7 +28331,6 @@ Chas Van Hoosen,Spense
 Chas Van Hoosen,N. Y. Minutes
 Chas Van Hoosen,H. H. Garnett
 Chas Van Hoosen,A. Jackson
-Chas Van Hoosen,W. C.
 Chas Van Hoosen,Garnett
 Chas Van Hoosen,Lee
 Chas Van Hoosen,Wm. H. Topp
@@ -28961,7 +28384,6 @@ Wm W. Brown,E. V. Clark
 Wm W. Brown,Joseph Cassey
 Wm W. Brown,William Douglass
 Wm W. Brown,James J. G. Bias
-Wm W. Brown,A. M.
 Wm W. Brown,Kenney
 Wm W. Brown,M. A. Jackson
 Wm W. Brown,M. Sumner
@@ -29009,7 +28431,6 @@ Wm W. Brown,Spense
 Wm W. Brown,N. Y. Minutes
 Wm W. Brown,H. H. Garnett
 Wm W. Brown,A. Jackson
-Wm W. Brown,W. C.
 Wm W. Brown,Garnett
 Wm W. Brown,Lee
 Wm W. Brown,Wm. H. Topp
@@ -29062,7 +28483,6 @@ Amos G Beman,E. V. Clark
 Amos G Beman,Joseph Cassey
 Amos G Beman,William Douglass
 Amos G Beman,James J. G. Bias
-Amos G Beman,A. M.
 Amos G Beman,Kenney
 Amos G Beman,M. A. Jackson
 Amos G Beman,M. Sumner
@@ -29110,7 +28530,6 @@ Amos G Beman,Spense
 Amos G Beman,N. Y. Minutes
 Amos G Beman,H. H. Garnett
 Amos G Beman,A. Jackson
-Amos G Beman,W. C.
 Amos G Beman,Garnett
 Amos G Beman,Lee
 Amos G Beman,Wm. H. Topp
@@ -29162,7 +28581,6 @@ Benj,E. V. Clark
 Benj,Joseph Cassey
 Benj,William Douglass
 Benj,James J. G. Bias
-Benj,A. M.
 Benj,Kenney
 Benj,M. A. Jackson
 Benj,M. Sumner
@@ -29210,7 +28628,6 @@ Benj,Spense
 Benj,N. Y. Minutes
 Benj,H. H. Garnett
 Benj,A. Jackson
-Benj,W. C.
 Benj,Garnett
 Benj,Lee
 Benj,Wm. H. Topp
@@ -29261,7 +28678,6 @@ L. Hayden,E. V. Clark
 L. Hayden,Joseph Cassey
 L. Hayden,William Douglass
 L. Hayden,James J. G. Bias
-L. Hayden,A. M.
 L. Hayden,Kenney
 L. Hayden,M. A. Jackson
 L. Hayden,M. Sumner
@@ -29309,7 +28725,6 @@ L. Hayden,Spense
 L. Hayden,N. Y. Minutes
 L. Hayden,H. H. Garnett
 L. Hayden,A. Jackson
-L. Hayden,W. C.
 L. Hayden,Garnett
 L. Hayden,Lee
 L. Hayden,Wm. H. Topp
@@ -29359,7 +28774,6 @@ Henderson,E. V. Clark
 Henderson,Joseph Cassey
 Henderson,William Douglass
 Henderson,James J. G. Bias
-Henderson,A. M.
 Henderson,Kenney
 Henderson,M. A. Jackson
 Henderson,M. Sumner
@@ -29407,7 +28821,6 @@ Henderson,Spense
 Henderson,N. Y. Minutes
 Henderson,H. H. Garnett
 Henderson,A. Jackson
-Henderson,W. C.
 Henderson,Garnett
 Henderson,Lee
 Henderson,Wm. H. Topp
@@ -29456,7 +28869,6 @@ Hyers,E. V. Clark
 Hyers,Joseph Cassey
 Hyers,William Douglass
 Hyers,James J. G. Bias
-Hyers,A. M.
 Hyers,Kenney
 Hyers,M. A. Jackson
 Hyers,M. Sumner
@@ -29504,7 +28916,6 @@ Hyers,Spense
 Hyers,N. Y. Minutes
 Hyers,H. H. Garnett
 Hyers,A. Jackson
-Hyers,W. C.
 Hyers,Garnett
 Hyers,Lee
 Hyers,Wm. H. Topp
@@ -29552,7 +28963,6 @@ Weeden,E. V. Clark
 Weeden,Joseph Cassey
 Weeden,William Douglass
 Weeden,James J. G. Bias
-Weeden,A. M.
 Weeden,Kenney
 Weeden,M. A. Jackson
 Weeden,M. Sumner
@@ -29600,7 +29010,6 @@ Weeden,Spense
 Weeden,N. Y. Minutes
 Weeden,H. H. Garnett
 Weeden,A. Jackson
-Weeden,W. C.
 Weeden,Garnett
 Weeden,Lee
 Weeden,Wm. H. Topp
@@ -29647,7 +29056,6 @@ John,E. V. Clark
 John,Joseph Cassey
 John,William Douglass
 John,James J. G. Bias
-John,A. M.
 John,Kenney
 John,M. A. Jackson
 John,M. Sumner
@@ -29695,7 +29103,6 @@ John,Spense
 John,N. Y. Minutes
 John,H. H. Garnett
 John,A. Jackson
-John,W. C.
 John,Garnett
 John,Lee
 John,Wm. H. Topp
@@ -29741,7 +29148,6 @@ Henry Highland Garnet,E. V. Clark
 Henry Highland Garnet,Joseph Cassey
 Henry Highland Garnet,William Douglass
 Henry Highland Garnet,James J. G. Bias
-Henry Highland Garnet,A. M.
 Henry Highland Garnet,Kenney
 Henry Highland Garnet,M. A. Jackson
 Henry Highland Garnet,M. Sumner
@@ -29789,7 +29195,6 @@ Henry Highland Garnet,Spense
 Henry Highland Garnet,N. Y. Minutes
 Henry Highland Garnet,H. H. Garnett
 Henry Highland Garnet,A. Jackson
-Henry Highland Garnet,W. C.
 Henry Highland Garnet,Garnett
 Henry Highland Garnet,Lee
 Henry Highland Garnet,Wm. H. Topp
@@ -29834,7 +29239,6 @@ G Beman,E. V. Clark
 G Beman,Joseph Cassey
 G Beman,William Douglass
 G Beman,James J. G. Bias
-G Beman,A. M.
 G Beman,Kenney
 G Beman,M. A. Jackson
 G Beman,M. Sumner
@@ -29882,7 +29286,6 @@ G Beman,Spense
 G Beman,N. Y. Minutes
 G Beman,H. H. Garnett
 G Beman,A. Jackson
-G Beman,W. C.
 G Beman,Garnett
 G Beman,Lee
 G Beman,Wm. H. Topp
@@ -29926,7 +29329,6 @@ William H.Topp,E. V. Clark
 William H.Topp,Joseph Cassey
 William H.Topp,William Douglass
 William H.Topp,James J. G. Bias
-William H.Topp,A. M.
 William H.Topp,Kenney
 William H.Topp,M. A. Jackson
 William H.Topp,M. Sumner
@@ -29974,7 +29376,6 @@ William H.Topp,Spense
 William H.Topp,N. Y. Minutes
 William H.Topp,H. H. Garnett
 William H.Topp,A. Jackson
-William H.Topp,W. C.
 William H.Topp,Garnett
 William H.Topp,Lee
 William H.Topp,Wm. H. Topp
@@ -30017,7 +29418,6 @@ Moses Jackson,E. V. Clark
 Moses Jackson,Joseph Cassey
 Moses Jackson,William Douglass
 Moses Jackson,James J. G. Bias
-Moses Jackson,A. M.
 Moses Jackson,Kenney
 Moses Jackson,M. A. Jackson
 Moses Jackson,M. Sumner
@@ -30065,7 +29465,6 @@ Moses Jackson,Spense
 Moses Jackson,N. Y. Minutes
 Moses Jackson,H. H. Garnett
 Moses Jackson,A. Jackson
-Moses Jackson,W. C.
 Moses Jackson,Garnett
 Moses Jackson,Lee
 Moses Jackson,Wm. H. Topp
@@ -30107,7 +29506,6 @@ William A. Tyson,E. V. Clark
 William A. Tyson,Joseph Cassey
 William A. Tyson,William Douglass
 William A. Tyson,James J. G. Bias
-William A. Tyson,A. M.
 William A. Tyson,Kenney
 William A. Tyson,M. A. Jackson
 William A. Tyson,M. Sumner
@@ -30155,7 +29553,6 @@ William A. Tyson,Spense
 William A. Tyson,N. Y. Minutes
 William A. Tyson,H. H. Garnett
 William A. Tyson,A. Jackson
-William A. Tyson,W. C.
 William A. Tyson,Garnett
 William A. Tyson,Lee
 William A. Tyson,Wm. H. Topp
@@ -30196,7 +29593,6 @@ Charles L. Reason,E. V. Clark
 Charles L. Reason,Joseph Cassey
 Charles L. Reason,William Douglass
 Charles L. Reason,James J. G. Bias
-Charles L. Reason,A. M.
 Charles L. Reason,Kenney
 Charles L. Reason,M. A. Jackson
 Charles L. Reason,M. Sumner
@@ -30244,7 +29640,6 @@ Charles L. Reason,Spense
 Charles L. Reason,N. Y. Minutes
 Charles L. Reason,H. H. Garnett
 Charles L. Reason,A. Jackson
-Charles L. Reason,W. C.
 Charles L. Reason,Garnett
 Charles L. Reason,Lee
 Charles L. Reason,Wm. H. Topp
@@ -30284,7 +29679,6 @@ George T. Downing,E. V. Clark
 George T. Downing,Joseph Cassey
 George T. Downing,William Douglass
 George T. Downing,James J. G. Bias
-George T. Downing,A. M.
 George T. Downing,Kenney
 George T. Downing,M. A. Jackson
 George T. Downing,M. Sumner
@@ -30332,7 +29726,6 @@ George T. Downing,Spense
 George T. Downing,N. Y. Minutes
 George T. Downing,H. H. Garnett
 George T. Downing,A. Jackson
-George T. Downing,W. C.
 George T. Downing,Garnett
 George T. Downing,Lee
 George T. Downing,Wm. H. Topp
@@ -30371,7 +29764,6 @@ John J. Zuille,E. V. Clark
 John J. Zuille,Joseph Cassey
 John J. Zuille,William Douglass
 John J. Zuille,James J. G. Bias
-John J. Zuille,A. M.
 John J. Zuille,Kenney
 John J. Zuille,M. A. Jackson
 John J. Zuille,M. Sumner
@@ -30419,7 +29811,6 @@ John J. Zuille,Spense
 John J. Zuille,N. Y. Minutes
 John J. Zuille,H. H. Garnett
 John J. Zuille,A. Jackson
-John J. Zuille,W. C.
 John J. Zuille,Garnett
 John J. Zuille,Lee
 John J. Zuille,Wm. H. Topp
@@ -30457,7 +29848,6 @@ Albro Lyons,E. V. Clark
 Albro Lyons,Joseph Cassey
 Albro Lyons,William Douglass
 Albro Lyons,James J. G. Bias
-Albro Lyons,A. M.
 Albro Lyons,Kenney
 Albro Lyons,M. A. Jackson
 Albro Lyons,M. Sumner
@@ -30505,7 +29895,6 @@ Albro Lyons,Spense
 Albro Lyons,N. Y. Minutes
 Albro Lyons,H. H. Garnett
 Albro Lyons,A. Jackson
-Albro Lyons,W. C.
 Albro Lyons,Garnett
 Albro Lyons,Lee
 Albro Lyons,Wm. H. Topp
@@ -30542,7 +29931,6 @@ Samuel E. Cornish,E. V. Clark
 Samuel E. Cornish,Joseph Cassey
 Samuel E. Cornish,William Douglass
 Samuel E. Cornish,James J. G. Bias
-Samuel E. Cornish,A. M.
 Samuel E. Cornish,Kenney
 Samuel E. Cornish,M. A. Jackson
 Samuel E. Cornish,M. Sumner
@@ -30590,7 +29978,6 @@ Samuel E. Cornish,Spense
 Samuel E. Cornish,N. Y. Minutes
 Samuel E. Cornish,H. H. Garnett
 Samuel E. Cornish,A. Jackson
-Samuel E. Cornish,W. C.
 Samuel E. Cornish,Garnett
 Samuel E. Cornish,Lee
 Samuel E. Cornish,Wm. H. Topp
@@ -30626,7 +30013,6 @@ Patrick H. Reason,E. V. Clark
 Patrick H. Reason,Joseph Cassey
 Patrick H. Reason,William Douglass
 Patrick H. Reason,James J. G. Bias
-Patrick H. Reason,A. M.
 Patrick H. Reason,Kenney
 Patrick H. Reason,M. A. Jackson
 Patrick H. Reason,M. Sumner
@@ -30674,7 +30060,6 @@ Patrick H. Reason,Spense
 Patrick H. Reason,N. Y. Minutes
 Patrick H. Reason,H. H. Garnett
 Patrick H. Reason,A. Jackson
-Patrick H. Reason,W. C.
 Patrick H. Reason,Garnett
 Patrick H. Reason,Lee
 Patrick H. Reason,Wm. H. Topp
@@ -30709,7 +30094,6 @@ N. B. Vidal,E. V. Clark
 N. B. Vidal,Joseph Cassey
 N. B. Vidal,William Douglass
 N. B. Vidal,James J. G. Bias
-N. B. Vidal,A. M.
 N. B. Vidal,Kenney
 N. B. Vidal,M. A. Jackson
 N. B. Vidal,M. Sumner
@@ -30757,7 +30141,6 @@ N. B. Vidal,Spense
 N. B. Vidal,N. Y. Minutes
 N. B. Vidal,H. H. Garnett
 N. B. Vidal,A. Jackson
-N. B. Vidal,W. C.
 N. B. Vidal,Garnett
 N. B. Vidal,Lee
 N. B. Vidal,Wm. H. Topp
@@ -30791,7 +30174,6 @@ Christopher Rush,E. V. Clark
 Christopher Rush,Joseph Cassey
 Christopher Rush,William Douglass
 Christopher Rush,James J. G. Bias
-Christopher Rush,A. M.
 Christopher Rush,Kenney
 Christopher Rush,M. A. Jackson
 Christopher Rush,M. Sumner
@@ -30839,7 +30221,6 @@ Christopher Rush,Spense
 Christopher Rush,N. Y. Minutes
 Christopher Rush,H. H. Garnett
 Christopher Rush,A. Jackson
-Christopher Rush,W. C.
 Christopher Rush,Garnett
 Christopher Rush,Lee
 Christopher Rush,Wm. H. Topp
@@ -30872,7 +30253,6 @@ Christopher Rush,John C. Calhoun
 E. V. Clark,Joseph Cassey
 E. V. Clark,William Douglass
 E. V. Clark,James J. G. Bias
-E. V. Clark,A. M.
 E. V. Clark,Kenney
 E. V. Clark,M. A. Jackson
 E. V. Clark,M. Sumner
@@ -30920,7 +30300,6 @@ E. V. Clark,Spense
 E. V. Clark,N. Y. Minutes
 E. V. Clark,H. H. Garnett
 E. V. Clark,A. Jackson
-E. V. Clark,W. C.
 E. V. Clark,Garnett
 E. V. Clark,Lee
 E. V. Clark,Wm. H. Topp
@@ -30952,7 +30331,6 @@ E. V. Clark,Gerrit Smith
 E. V. Clark,John C. Calhoun
 Joseph Cassey,William Douglass
 Joseph Cassey,James J. G. Bias
-Joseph Cassey,A. M.
 Joseph Cassey,Kenney
 Joseph Cassey,M. A. Jackson
 Joseph Cassey,M. Sumner
@@ -31000,7 +30378,6 @@ Joseph Cassey,Spense
 Joseph Cassey,N. Y. Minutes
 Joseph Cassey,H. H. Garnett
 Joseph Cassey,A. Jackson
-Joseph Cassey,W. C.
 Joseph Cassey,Garnett
 Joseph Cassey,Lee
 Joseph Cassey,Wm. H. Topp
@@ -31031,7 +30408,6 @@ Joseph Cassey,God
 Joseph Cassey,Gerrit Smith
 Joseph Cassey,John C. Calhoun
 William Douglass,James J. G. Bias
-William Douglass,A. M.
 William Douglass,Kenney
 William Douglass,M. A. Jackson
 William Douglass,M. Sumner
@@ -31079,7 +30455,6 @@ William Douglass,Spense
 William Douglass,N. Y. Minutes
 William Douglass,H. H. Garnett
 William Douglass,A. Jackson
-William Douglass,W. C.
 William Douglass,Garnett
 William Douglass,Lee
 William Douglass,Wm. H. Topp
@@ -31109,7 +30484,6 @@ William Douglass,Alex. Theuy
 William Douglass,God
 William Douglass,Gerrit Smith
 William Douglass,John C. Calhoun
-James J. G. Bias,A. M.
 James J. G. Bias,Kenney
 James J. G. Bias,M. A. Jackson
 James J. G. Bias,M. Sumner
@@ -31157,7 +30531,6 @@ James J. G. Bias,Spense
 James J. G. Bias,N. Y. Minutes
 James J. G. Bias,H. H. Garnett
 James J. G. Bias,A. Jackson
-James J. G. Bias,W. C.
 James J. G. Bias,Garnett
 James J. G. Bias,Lee
 James J. G. Bias,Wm. H. Topp
@@ -31187,83 +30560,6 @@ James J. G. Bias,Alex. Theuy
 James J. G. Bias,God
 James J. G. Bias,Gerrit Smith
 James J. G. Bias,John C. Calhoun
-A. M.,Kenney
-A. M.,M. A. Jackson
-A. M.,M. Sumner
-A. M.,Alex. Thuey
-A. M.,Robert Barks
-A. M.,N. J. Benj
-A. M.,T. H. Henderson
-A. M.,R H Johnson
-A. M.,Van Hoosen
-A. M.,Brown
-A. M.,Henry H Garnet
-A. M.,H Morton
-A. M.,Geo W Gorden
-A. M.,J H Davis
-A. M.,Van Wranken
-A. M.,Hodges
-A. M.,Moore
-A. M.,Wm Meads
-A. M.,Wilson
-A. M.,J B Webb
-A. M.,Benj Wheeden
-A. M.,Saml Smith
-A. M.,Thos Thomas
-A. M.,Meads
-A. M.,J Spence
-A. M.,Beman
-A. M.,Morton
-A. M.,J H Henderson
-A. M.,N. J.
-A. M.,G W Gordon
-A. M.,Samuei Smith
-A. M.,J W C Pennington
-A. M.,Harris
-A. M.,Watson
-A. M.,Thomas
-A. M.,W W Brown
-A. M.,Hayden
-A. M.,John C. Spence
-A. M.,H. H. Gamet
-A. M.,E. P. Rogers
-A. M.,A. M. Sumner Cincinnati
-A. M.,V. P. Pennington
-A. M.,Suasian
-A. M.,Spense
-A. M.,N. Y. Minutes
-A. M.,H. H. Garnett
-A. M.,A. Jackson
-A. M.,W. C.
-A. M.,Garnett
-A. M.,Lee
-A. M.,Wm. H. Topp
-A. M.,Lewis Putnam
-A. M.,Spence
-A. M.,W. H. Topp
-A. M.,Jesus Christ
-A. M.,Horn
-A. M.,Amos G. Beman
-A. M.,James W. C. Pennington
-A. M.,Andrew Purnell
-A. M.,George B. Vachon
-A. M.,G. B. Wilson
-A. M.,Jehovah
-A. M.,Peter Constantine
-A. M.,George Ennis
-A. M.,Peter Jallep
-A. M.,James Millington
-A. M.,George Reily
-A. M.,Robert Duaney
-A. M.,Randall D. Kenney
-A. M.,P. Harris
-A. M.,George Hogarth
-A. M.,C. Nell
-A. M.,A. M. Sumner
-A. M.,Alex. Theuy
-A. M.,God
-A. M.,Gerrit Smith
-A. M.,John C. Calhoun
 Kenney,M. A. Jackson
 Kenney,M. Sumner
 Kenney,Alex. Thuey
@@ -31310,7 +30606,6 @@ Kenney,Spense
 Kenney,N. Y. Minutes
 Kenney,H. H. Garnett
 Kenney,A. Jackson
-Kenney,W. C.
 Kenney,Garnett
 Kenney,Lee
 Kenney,Wm. H. Topp
@@ -31385,7 +30680,6 @@ M. A. Jackson,Spense
 M. A. Jackson,N. Y. Minutes
 M. A. Jackson,H. H. Garnett
 M. A. Jackson,A. Jackson
-M. A. Jackson,W. C.
 M. A. Jackson,Garnett
 M. A. Jackson,Lee
 M. A. Jackson,Wm. H. Topp
@@ -31459,7 +30753,6 @@ M. Sumner,Spense
 M. Sumner,N. Y. Minutes
 M. Sumner,H. H. Garnett
 M. Sumner,A. Jackson
-M. Sumner,W. C.
 M. Sumner,Garnett
 M. Sumner,Lee
 M. Sumner,Wm. H. Topp
@@ -31532,7 +30825,6 @@ Alex. Thuey,Spense
 Alex. Thuey,N. Y. Minutes
 Alex. Thuey,H. H. Garnett
 Alex. Thuey,A. Jackson
-Alex. Thuey,W. C.
 Alex. Thuey,Garnett
 Alex. Thuey,Lee
 Alex. Thuey,Wm. H. Topp
@@ -31604,7 +30896,6 @@ Robert Barks,Spense
 Robert Barks,N. Y. Minutes
 Robert Barks,H. H. Garnett
 Robert Barks,A. Jackson
-Robert Barks,W. C.
 Robert Barks,Garnett
 Robert Barks,Lee
 Robert Barks,Wm. H. Topp
@@ -31675,7 +30966,6 @@ N. J. Benj,Spense
 N. J. Benj,N. Y. Minutes
 N. J. Benj,H. H. Garnett
 N. J. Benj,A. Jackson
-N. J. Benj,W. C.
 N. J. Benj,Garnett
 N. J. Benj,Lee
 N. J. Benj,Wm. H. Topp
@@ -31745,7 +31035,6 @@ T. H. Henderson,Spense
 T. H. Henderson,N. Y. Minutes
 T. H. Henderson,H. H. Garnett
 T. H. Henderson,A. Jackson
-T. H. Henderson,W. C.
 T. H. Henderson,Garnett
 T. H. Henderson,Lee
 T. H. Henderson,Wm. H. Topp
@@ -31814,7 +31103,6 @@ R H Johnson,Spense
 R H Johnson,N. Y. Minutes
 R H Johnson,H. H. Garnett
 R H Johnson,A. Jackson
-R H Johnson,W. C.
 R H Johnson,Garnett
 R H Johnson,Lee
 R H Johnson,Wm. H. Topp
@@ -31882,7 +31170,6 @@ Van Hoosen,Spense
 Van Hoosen,N. Y. Minutes
 Van Hoosen,H. H. Garnett
 Van Hoosen,A. Jackson
-Van Hoosen,W. C.
 Van Hoosen,Garnett
 Van Hoosen,Lee
 Van Hoosen,Wm. H. Topp
@@ -31949,7 +31236,6 @@ Brown,Spense
 Brown,N. Y. Minutes
 Brown,H. H. Garnett
 Brown,A. Jackson
-Brown,W. C.
 Brown,Garnett
 Brown,Lee
 Brown,Wm. H. Topp
@@ -32015,7 +31301,6 @@ Henry H Garnet,Spense
 Henry H Garnet,N. Y. Minutes
 Henry H Garnet,H. H. Garnett
 Henry H Garnet,A. Jackson
-Henry H Garnet,W. C.
 Henry H Garnet,Garnett
 Henry H Garnet,Lee
 Henry H Garnet,Wm. H. Topp
@@ -32080,7 +31365,6 @@ H Morton,Spense
 H Morton,N. Y. Minutes
 H Morton,H. H. Garnett
 H Morton,A. Jackson
-H Morton,W. C.
 H Morton,Garnett
 H Morton,Lee
 H Morton,Wm. H. Topp
@@ -32144,7 +31428,6 @@ Geo W Gorden,Spense
 Geo W Gorden,N. Y. Minutes
 Geo W Gorden,H. H. Garnett
 Geo W Gorden,A. Jackson
-Geo W Gorden,W. C.
 Geo W Gorden,Garnett
 Geo W Gorden,Lee
 Geo W Gorden,Wm. H. Topp
@@ -32207,7 +31490,6 @@ J H Davis,Spense
 J H Davis,N. Y. Minutes
 J H Davis,H. H. Garnett
 J H Davis,A. Jackson
-J H Davis,W. C.
 J H Davis,Garnett
 J H Davis,Lee
 J H Davis,Wm. H. Topp
@@ -32269,7 +31551,6 @@ Van Wranken,Spense
 Van Wranken,N. Y. Minutes
 Van Wranken,H. H. Garnett
 Van Wranken,A. Jackson
-Van Wranken,W. C.
 Van Wranken,Garnett
 Van Wranken,Lee
 Van Wranken,Wm. H. Topp
@@ -32330,7 +31611,6 @@ Hodges,Spense
 Hodges,N. Y. Minutes
 Hodges,H. H. Garnett
 Hodges,A. Jackson
-Hodges,W. C.
 Hodges,Garnett
 Hodges,Lee
 Hodges,Wm. H. Topp
@@ -32390,7 +31670,6 @@ Moore,Spense
 Moore,N. Y. Minutes
 Moore,H. H. Garnett
 Moore,A. Jackson
-Moore,W. C.
 Moore,Garnett
 Moore,Lee
 Moore,Wm. H. Topp
@@ -32449,7 +31728,6 @@ Wm Meads,Spense
 Wm Meads,N. Y. Minutes
 Wm Meads,H. H. Garnett
 Wm Meads,A. Jackson
-Wm Meads,W. C.
 Wm Meads,Garnett
 Wm Meads,Lee
 Wm Meads,Wm. H. Topp
@@ -32507,7 +31785,6 @@ Wilson,Spense
 Wilson,N. Y. Minutes
 Wilson,H. H. Garnett
 Wilson,A. Jackson
-Wilson,W. C.
 Wilson,Garnett
 Wilson,Lee
 Wilson,Wm. H. Topp
@@ -32564,7 +31841,6 @@ J B Webb,Spense
 J B Webb,N. Y. Minutes
 J B Webb,H. H. Garnett
 J B Webb,A. Jackson
-J B Webb,W. C.
 J B Webb,Garnett
 J B Webb,Lee
 J B Webb,Wm. H. Topp
@@ -32620,7 +31896,6 @@ Benj Wheeden,Spense
 Benj Wheeden,N. Y. Minutes
 Benj Wheeden,H. H. Garnett
 Benj Wheeden,A. Jackson
-Benj Wheeden,W. C.
 Benj Wheeden,Garnett
 Benj Wheeden,Lee
 Benj Wheeden,Wm. H. Topp
@@ -32675,7 +31950,6 @@ Saml Smith,Spense
 Saml Smith,N. Y. Minutes
 Saml Smith,H. H. Garnett
 Saml Smith,A. Jackson
-Saml Smith,W. C.
 Saml Smith,Garnett
 Saml Smith,Lee
 Saml Smith,Wm. H. Topp
@@ -32729,7 +32003,6 @@ Thos Thomas,Spense
 Thos Thomas,N. Y. Minutes
 Thos Thomas,H. H. Garnett
 Thos Thomas,A. Jackson
-Thos Thomas,W. C.
 Thos Thomas,Garnett
 Thos Thomas,Lee
 Thos Thomas,Wm. H. Topp
@@ -32782,7 +32055,6 @@ Meads,Spense
 Meads,N. Y. Minutes
 Meads,H. H. Garnett
 Meads,A. Jackson
-Meads,W. C.
 Meads,Garnett
 Meads,Lee
 Meads,Wm. H. Topp
@@ -32834,7 +32106,6 @@ J Spence,Spense
 J Spence,N. Y. Minutes
 J Spence,H. H. Garnett
 J Spence,A. Jackson
-J Spence,W. C.
 J Spence,Garnett
 J Spence,Lee
 J Spence,Wm. H. Topp
@@ -32885,7 +32156,6 @@ Beman,Spense
 Beman,N. Y. Minutes
 Beman,H. H. Garnett
 Beman,A. Jackson
-Beman,W. C.
 Beman,Garnett
 Beman,Lee
 Beman,Wm. H. Topp
@@ -32935,7 +32205,6 @@ Morton,Spense
 Morton,N. Y. Minutes
 Morton,H. H. Garnett
 Morton,A. Jackson
-Morton,W. C.
 Morton,Garnett
 Morton,Lee
 Morton,Wm. H. Topp
@@ -32984,7 +32253,6 @@ J H Henderson,Spense
 J H Henderson,N. Y. Minutes
 J H Henderson,H. H. Garnett
 J H Henderson,A. Jackson
-J H Henderson,W. C.
 J H Henderson,Garnett
 J H Henderson,Lee
 J H Henderson,Wm. H. Topp
@@ -33032,7 +32300,6 @@ N. J.,Spense
 N. J.,N. Y. Minutes
 N. J.,H. H. Garnett
 N. J.,A. Jackson
-N. J.,W. C.
 N. J.,Garnett
 N. J.,Lee
 N. J.,Wm. H. Topp
@@ -33079,7 +32346,6 @@ G W Gordon,Spense
 G W Gordon,N. Y. Minutes
 G W Gordon,H. H. Garnett
 G W Gordon,A. Jackson
-G W Gordon,W. C.
 G W Gordon,Garnett
 G W Gordon,Lee
 G W Gordon,Wm. H. Topp
@@ -33125,7 +32391,6 @@ Samuei Smith,Spense
 Samuei Smith,N. Y. Minutes
 Samuei Smith,H. H. Garnett
 Samuei Smith,A. Jackson
-Samuei Smith,W. C.
 Samuei Smith,Garnett
 Samuei Smith,Lee
 Samuei Smith,Wm. H. Topp
@@ -33170,7 +32435,6 @@ J W C Pennington,Spense
 J W C Pennington,N. Y. Minutes
 J W C Pennington,H. H. Garnett
 J W C Pennington,A. Jackson
-J W C Pennington,W. C.
 J W C Pennington,Garnett
 J W C Pennington,Lee
 J W C Pennington,Wm. H. Topp
@@ -33214,7 +32478,6 @@ Harris,Spense
 Harris,N. Y. Minutes
 Harris,H. H. Garnett
 Harris,A. Jackson
-Harris,W. C.
 Harris,Garnett
 Harris,Lee
 Harris,Wm. H. Topp
@@ -33257,7 +32520,6 @@ Watson,Spense
 Watson,N. Y. Minutes
 Watson,H. H. Garnett
 Watson,A. Jackson
-Watson,W. C.
 Watson,Garnett
 Watson,Lee
 Watson,Wm. H. Topp
@@ -33299,7 +32561,6 @@ Thomas,Spense
 Thomas,N. Y. Minutes
 Thomas,H. H. Garnett
 Thomas,A. Jackson
-Thomas,W. C.
 Thomas,Garnett
 Thomas,Lee
 Thomas,Wm. H. Topp
@@ -33340,7 +32601,6 @@ W W Brown,Spense
 W W Brown,N. Y. Minutes
 W W Brown,H. H. Garnett
 W W Brown,A. Jackson
-W W Brown,W. C.
 W W Brown,Garnett
 W W Brown,Lee
 W W Brown,Wm. H. Topp
@@ -33380,7 +32640,6 @@ Hayden,Spense
 Hayden,N. Y. Minutes
 Hayden,H. H. Garnett
 Hayden,A. Jackson
-Hayden,W. C.
 Hayden,Garnett
 Hayden,Lee
 Hayden,Wm. H. Topp
@@ -33419,7 +32678,6 @@ John C. Spence,Spense
 John C. Spence,N. Y. Minutes
 John C. Spence,H. H. Garnett
 John C. Spence,A. Jackson
-John C. Spence,W. C.
 John C. Spence,Garnett
 John C. Spence,Lee
 John C. Spence,Wm. H. Topp
@@ -33457,7 +32715,6 @@ H. H. Gamet,Spense
 H. H. Gamet,N. Y. Minutes
 H. H. Gamet,H. H. Garnett
 H. H. Gamet,A. Jackson
-H. H. Gamet,W. C.
 H. H. Gamet,Garnett
 H. H. Gamet,Lee
 H. H. Gamet,Wm. H. Topp
@@ -33494,7 +32751,6 @@ E. P. Rogers,Spense
 E. P. Rogers,N. Y. Minutes
 E. P. Rogers,H. H. Garnett
 E. P. Rogers,A. Jackson
-E. P. Rogers,W. C.
 E. P. Rogers,Garnett
 E. P. Rogers,Lee
 E. P. Rogers,Wm. H. Topp
@@ -33530,7 +32786,6 @@ A. M. Sumner Cincinnati,Spense
 A. M. Sumner Cincinnati,N. Y. Minutes
 A. M. Sumner Cincinnati,H. H. Garnett
 A. M. Sumner Cincinnati,A. Jackson
-A. M. Sumner Cincinnati,W. C.
 A. M. Sumner Cincinnati,Garnett
 A. M. Sumner Cincinnati,Lee
 A. M. Sumner Cincinnati,Wm. H. Topp
@@ -33565,7 +32820,6 @@ V. P. Pennington,Spense
 V. P. Pennington,N. Y. Minutes
 V. P. Pennington,H. H. Garnett
 V. P. Pennington,A. Jackson
-V. P. Pennington,W. C.
 V. P. Pennington,Garnett
 V. P. Pennington,Lee
 V. P. Pennington,Wm. H. Topp
@@ -33599,7 +32853,6 @@ Suasian,Spense
 Suasian,N. Y. Minutes
 Suasian,H. H. Garnett
 Suasian,A. Jackson
-Suasian,W. C.
 Suasian,Garnett
 Suasian,Lee
 Suasian,Wm. H. Topp
@@ -33632,7 +32885,6 @@ Suasian,John C. Calhoun
 Spense,N. Y. Minutes
 Spense,H. H. Garnett
 Spense,A. Jackson
-Spense,W. C.
 Spense,Garnett
 Spense,Lee
 Spense,Wm. H. Topp
@@ -33664,7 +32916,6 @@ Spense,Gerrit Smith
 Spense,John C. Calhoun
 N. Y. Minutes,H. H. Garnett
 N. Y. Minutes,A. Jackson
-N. Y. Minutes,W. C.
 N. Y. Minutes,Garnett
 N. Y. Minutes,Lee
 N. Y. Minutes,Wm. H. Topp
@@ -33695,7 +32946,6 @@ N. Y. Minutes,God
 N. Y. Minutes,Gerrit Smith
 N. Y. Minutes,John C. Calhoun
 H. H. Garnett,A. Jackson
-H. H. Garnett,W. C.
 H. H. Garnett,Garnett
 H. H. Garnett,Lee
 H. H. Garnett,Wm. H. Topp
@@ -33725,7 +32975,6 @@ H. H. Garnett,Alex. Theuy
 H. H. Garnett,God
 H. H. Garnett,Gerrit Smith
 H. H. Garnett,John C. Calhoun
-A. Jackson,W. C.
 A. Jackson,Garnett
 A. Jackson,Lee
 A. Jackson,Wm. H. Topp
@@ -33755,35 +33004,6 @@ A. Jackson,Alex. Theuy
 A. Jackson,God
 A. Jackson,Gerrit Smith
 A. Jackson,John C. Calhoun
-W. C.,Garnett
-W. C.,Lee
-W. C.,Wm. H. Topp
-W. C.,Lewis Putnam
-W. C.,Spence
-W. C.,W. H. Topp
-W. C.,Jesus Christ
-W. C.,Horn
-W. C.,Amos G. Beman
-W. C.,James W. C. Pennington
-W. C.,Andrew Purnell
-W. C.,George B. Vachon
-W. C.,G. B. Wilson
-W. C.,Jehovah
-W. C.,Peter Constantine
-W. C.,George Ennis
-W. C.,Peter Jallep
-W. C.,James Millington
-W. C.,George Reily
-W. C.,Robert Duaney
-W. C.,Randall D. Kenney
-W. C.,P. Harris
-W. C.,George Hogarth
-W. C.,C. Nell
-W. C.,A. M. Sumner
-W. C.,Alex. Theuy
-W. C.,God
-W. C.,Gerrit Smith
-W. C.,John C. Calhoun
 Garnett,Lee
 Garnett,Wm. H. Topp
 Garnett,Lewis Putnam

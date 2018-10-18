@@ -1,4 +1,4 @@
-name1,name2
+source,target
 S. M. Africanus,H. Foster
 S. M. Africanus,H. Nott
 S. M. Africanus,Isaac Cross
@@ -129,8 +129,6 @@ S. M. Africanus,Crandall
 S. M. Africanus,Sam ` L. T. Gray
 S. M. Africanus,Sexton
 S. M. Africanus,J. B. Clarke
-S. M. Africanus,N. L. 2.00
-S. M. Africanus,N. Of N. H. 1.00
 S. M. Africanus,Garrison
 S. M. Africanus,William Wolcott Ellsworth
 S. M. Africanus,Oliver Ellsworth
@@ -270,8 +268,6 @@ H. Foster,Crandall
 H. Foster,Sam ` L. T. Gray
 H. Foster,Sexton
 H. Foster,J. B. Clarke
-H. Foster,N. L. 2.00
-H. Foster,N. Of N. H. 1.00
 H. Foster,Garrison
 H. Foster,William Wolcott Ellsworth
 H. Foster,Oliver Ellsworth
@@ -410,8 +406,6 @@ H. Nott,Crandall
 H. Nott,Sam ` L. T. Gray
 H. Nott,Sexton
 H. Nott,J. B. Clarke
-H. Nott,N. L. 2.00
-H. Nott,N. Of N. H. 1.00
 H. Nott,Garrison
 H. Nott,William Wolcott Ellsworth
 H. Nott,Oliver Ellsworth
@@ -549,8 +543,6 @@ Isaac Cross,Crandall
 Isaac Cross,Sam ` L. T. Gray
 Isaac Cross,Sexton
 Isaac Cross,J. B. Clarke
-Isaac Cross,N. L. 2.00
-Isaac Cross,N. Of N. H. 1.00
 Isaac Cross,Garrison
 Isaac Cross,William Wolcott Ellsworth
 Isaac Cross,Oliver Ellsworth
@@ -687,8 +679,6 @@ Jehiel C. Beman,Crandall
 Jehiel C. Beman,Sam ` L. T. Gray
 Jehiel C. Beman,Sexton
 Jehiel C. Beman,J. B. Clarke
-Jehiel C. Beman,N. L. 2.00
-Jehiel C. Beman,N. Of N. H. 1.00
 Jehiel C. Beman,Garrison
 Jehiel C. Beman,William Wolcott Ellsworth
 Jehiel C. Beman,Oliver Ellsworth
@@ -824,8 +814,6 @@ Amos G. Beman,Crandall
 Amos G. Beman,Sam ` L. T. Gray
 Amos G. Beman,Sexton
 Amos G. Beman,J. B. Clarke
-Amos G. Beman,N. L. 2.00
-Amos G. Beman,N. Of N. H. 1.00
 Amos G. Beman,Garrison
 Amos G. Beman,William Wolcott Ellsworth
 Amos G. Beman,Oliver Ellsworth
@@ -960,8 +948,6 @@ Samuel T. Gray,Crandall
 Samuel T. Gray,Sam ` L. T. Gray
 Samuel T. Gray,Sexton
 Samuel T. Gray,J. B. Clarke
-Samuel T. Gray,N. L. 2.00
-Samuel T. Gray,N. Of N. H. 1.00
 Samuel T. Gray,Garrison
 Samuel T. Gray,William Wolcott Ellsworth
 Samuel T. Gray,Oliver Ellsworth
@@ -1095,8 +1081,6 @@ W. Francis,Crandall
 W. Francis,Sam ` L. T. Gray
 W. Francis,Sexton
 W. Francis,J. B. Clarke
-W. Francis,N. L. 2.00
-W. Francis,N. Of N. H. 1.00
 W. Francis,Garrison
 W. Francis,William Wolcott Ellsworth
 W. Francis,Oliver Ellsworth
@@ -1229,8 +1213,6 @@ J. Emery Burr,Crandall
 J. Emery Burr,Sam ` L. T. Gray
 J. Emery Burr,Sexton
 J. Emery Burr,J. B. Clarke
-J. Emery Burr,N. L. 2.00
-J. Emery Burr,N. Of N. H. 1.00
 J. Emery Burr,Garrison
 J. Emery Burr,William Wolcott Ellsworth
 J. Emery Burr,Oliver Ellsworth
@@ -1362,8 +1344,6 @@ L. Collins,Crandall
 L. Collins,Sam ` L. T. Gray
 L. Collins,Sexton
 L. Collins,J. B. Clarke
-L. Collins,N. L. 2.00
-L. Collins,N. Of N. H. 1.00
 L. Collins,Garrison
 L. Collins,William Wolcott Ellsworth
 L. Collins,Oliver Ellsworth
@@ -1494,8 +1474,6 @@ D. Gordon,Crandall
 D. Gordon,Sam ` L. T. Gray
 D. Gordon,Sexton
 D. Gordon,J. B. Clarke
-D. Gordon,N. L. 2.00
-D. Gordon,N. Of N. H. 1.00
 D. Gordon,Garrison
 D. Gordon,William Wolcott Ellsworth
 D. Gordon,Oliver Ellsworth
@@ -1625,8 +1603,6 @@ L. Black,Crandall
 L. Black,Sam ` L. T. Gray
 L. Black,Sexton
 L. Black,J. B. Clarke
-L. Black,N. L. 2.00
-L. Black,N. Of N. H. 1.00
 L. Black,Garrison
 L. Black,William Wolcott Ellsworth
 L. Black,Oliver Ellsworth
@@ -1755,8 +1731,6 @@ A. J. Morrison,Crandall
 A. J. Morrison,Sam ` L. T. Gray
 A. J. Morrison,Sexton
 A. J. Morrison,J. B. Clarke
-A. J. Morrison,N. L. 2.00
-A. J. Morrison,N. Of N. H. 1.00
 A. J. Morrison,Garrison
 A. J. Morrison,William Wolcott Ellsworth
 A. J. Morrison,Oliver Ellsworth
@@ -1884,8 +1858,6 @@ L. H. Peters,Crandall
 L. H. Peters,Sam ` L. T. Gray
 L. H. Peters,Sexton
 L. H. Peters,J. B. Clarke
-L. H. Peters,N. L. 2.00
-L. H. Peters,N. Of N. H. 1.00
 L. H. Peters,Garrison
 L. H. Peters,William Wolcott Ellsworth
 L. H. Peters,Oliver Ellsworth
@@ -2012,8 +1984,6 @@ Levin Smith,Crandall
 Levin Smith,Sam ` L. T. Gray
 Levin Smith,Sexton
 Levin Smith,J. B. Clarke
-Levin Smith,N. L. 2.00
-Levin Smith,N. Of N. H. 1.00
 Levin Smith,Garrison
 Levin Smith,William Wolcott Ellsworth
 Levin Smith,Oliver Ellsworth
@@ -2139,8 +2109,6 @@ Henry Nott,Crandall
 Henry Nott,Sam ` L. T. Gray
 Henry Nott,Sexton
 Henry Nott,J. B. Clarke
-Henry Nott,N. L. 2.00
-Henry Nott,N. Of N. H. 1.00
 Henry Nott,Garrison
 Henry Nott,William Wolcott Ellsworth
 Henry Nott,Oliver Ellsworth
@@ -2265,8 +2233,6 @@ Henry Foster,Crandall
 Henry Foster,Sam ` L. T. Gray
 Henry Foster,Sexton
 Henry Foster,J. B. Clarke
-Henry Foster,N. L. 2.00
-Henry Foster,N. Of N. H. 1.00
 Henry Foster,Garrison
 Henry Foster,William Wolcott Ellsworth
 Henry Foster,Oliver Ellsworth
@@ -2390,8 +2356,6 @@ George Garrison,Crandall
 George Garrison,Sam ` L. T. Gray
 George Garrison,Sexton
 George Garrison,J. B. Clarke
-George Garrison,N. L. 2.00
-George Garrison,N. Of N. H. 1.00
 George Garrison,Garrison
 George Garrison,William Wolcott Ellsworth
 George Garrison,Oliver Ellsworth
@@ -2514,8 +2478,6 @@ R. C. Huntington,Crandall
 R. C. Huntington,Sam ` L. T. Gray
 R. C. Huntington,Sexton
 R. C. Huntington,J. B. Clarke
-R. C. Huntington,N. L. 2.00
-R. C. Huntington,N. Of N. H. 1.00
 R. C. Huntington,Garrison
 R. C. Huntington,William Wolcott Ellsworth
 R. C. Huntington,Oliver Ellsworth
@@ -2637,8 +2599,6 @@ Charles Daniels,Crandall
 Charles Daniels,Sam ` L. T. Gray
 Charles Daniels,Sexton
 Charles Daniels,J. B. Clarke
-Charles Daniels,N. L. 2.00
-Charles Daniels,N. Of N. H. 1.00
 Charles Daniels,Garrison
 Charles Daniels,William Wolcott Ellsworth
 Charles Daniels,Oliver Ellsworth
@@ -2759,8 +2719,6 @@ Leverett C. Beman,Crandall
 Leverett C. Beman,Sam ` L. T. Gray
 Leverett C. Beman,Sexton
 Leverett C. Beman,J. B. Clarke
-Leverett C. Beman,N. L. 2.00
-Leverett C. Beman,N. Of N. H. 1.00
 Leverett C. Beman,Garrison
 Leverett C. Beman,William Wolcott Ellsworth
 Leverett C. Beman,Oliver Ellsworth
@@ -2880,8 +2838,6 @@ George W. Francis,Crandall
 George W. Francis,Sam ` L. T. Gray
 George W. Francis,Sexton
 George W. Francis,J. B. Clarke
-George W. Francis,N. L. 2.00
-George W. Francis,N. Of N. H. 1.00
 George W. Francis,Garrison
 George W. Francis,William Wolcott Ellsworth
 George W. Francis,Oliver Ellsworth
@@ -3000,8 +2956,6 @@ Leonard Collins,Crandall
 Leonard Collins,Sam ` L. T. Gray
 Leonard Collins,Sexton
 Leonard Collins,J. B. Clarke
-Leonard Collins,N. L. 2.00
-Leonard Collins,N. Of N. H. 1.00
 Leonard Collins,Garrison
 Leonard Collins,William Wolcott Ellsworth
 Leonard Collins,Oliver Ellsworth
@@ -3119,8 +3073,6 @@ Charles Hubbard,Crandall
 Charles Hubbard,Sam ` L. T. Gray
 Charles Hubbard,Sexton
 Charles Hubbard,J. B. Clarke
-Charles Hubbard,N. L. 2.00
-Charles Hubbard,N. Of N. H. 1.00
 Charles Hubbard,Garrison
 Charles Hubbard,William Wolcott Ellsworth
 Charles Hubbard,Oliver Ellsworth
@@ -3237,8 +3189,6 @@ Philander Pitts,Crandall
 Philander Pitts,Sam ` L. T. Gray
 Philander Pitts,Sexton
 Philander Pitts,J. B. Clarke
-Philander Pitts,N. L. 2.00
-Philander Pitts,N. Of N. H. 1.00
 Philander Pitts,Garrison
 Philander Pitts,William Wolcott Ellsworth
 Philander Pitts,Oliver Ellsworth
@@ -3354,8 +3304,6 @@ William Allen,Crandall
 William Allen,Sam ` L. T. Gray
 William Allen,Sexton
 William Allen,J. B. Clarke
-William Allen,N. L. 2.00
-William Allen,N. Of N. H. 1.00
 William Allen,Garrison
 William Allen,William Wolcott Ellsworth
 William Allen,Oliver Ellsworth
@@ -3470,8 +3418,6 @@ Henry Davis,Crandall
 Henry Davis,Sam ` L. T. Gray
 Henry Davis,Sexton
 Henry Davis,J. B. Clarke
-Henry Davis,N. L. 2.00
-Henry Davis,N. Of N. H. 1.00
 Henry Davis,Garrison
 Henry Davis,William Wolcott Ellsworth
 Henry Davis,Oliver Ellsworth
@@ -3585,8 +3531,6 @@ J. Demming,Crandall
 J. Demming,Sam ` L. T. Gray
 J. Demming,Sexton
 J. Demming,J. B. Clarke
-J. Demming,N. L. 2.00
-J. Demming,N. Of N. H. 1.00
 J. Demming,Garrison
 J. Demming,William Wolcott Ellsworth
 J. Demming,Oliver Ellsworth
@@ -3699,8 +3643,6 @@ A. C. Luca,Crandall
 A. C. Luca,Sam ` L. T. Gray
 A. C. Luca,Sexton
 A. C. Luca,J. B. Clarke
-A. C. Luca,N. L. 2.00
-A. C. Luca,N. Of N. H. 1.00
 A. C. Luca,Garrison
 A. C. Luca,William Wolcott Ellsworth
 A. C. Luca,Oliver Ellsworth
@@ -3812,8 +3754,6 @@ Robert J. Cowes,Crandall
 Robert J. Cowes,Sam ` L. T. Gray
 Robert J. Cowes,Sexton
 Robert J. Cowes,J. B. Clarke
-Robert J. Cowes,N. L. 2.00
-Robert J. Cowes,N. Of N. H. 1.00
 Robert J. Cowes,Garrison
 Robert J. Cowes,William Wolcott Ellsworth
 Robert J. Cowes,Oliver Ellsworth
@@ -3924,8 +3864,6 @@ Paul Hall,Crandall
 Paul Hall,Sam ` L. T. Gray
 Paul Hall,Sexton
 Paul Hall,J. B. Clarke
-Paul Hall,N. L. 2.00
-Paul Hall,N. Of N. H. 1.00
 Paul Hall,Garrison
 Paul Hall,William Wolcott Ellsworth
 Paul Hall,Oliver Ellsworth
@@ -4035,8 +3973,6 @@ Thomas Cisco,Crandall
 Thomas Cisco,Sam ` L. T. Gray
 Thomas Cisco,Sexton
 Thomas Cisco,J. B. Clarke
-Thomas Cisco,N. L. 2.00
-Thomas Cisco,N. Of N. H. 1.00
 Thomas Cisco,Garrison
 Thomas Cisco,William Wolcott Ellsworth
 Thomas Cisco,Oliver Ellsworth
@@ -4145,8 +4081,6 @@ H. S. Merriman,Crandall
 H. S. Merriman,Sam ` L. T. Gray
 H. S. Merriman,Sexton
 H. S. Merriman,J. B. Clarke
-H. S. Merriman,N. L. 2.00
-H. S. Merriman,N. Of N. H. 1.00
 H. S. Merriman,Garrison
 H. S. Merriman,William Wolcott Ellsworth
 H. S. Merriman,Oliver Ellsworth
@@ -4254,8 +4188,6 @@ John Turner,Crandall
 John Turner,Sam ` L. T. Gray
 John Turner,Sexton
 John Turner,J. B. Clarke
-John Turner,N. L. 2.00
-John Turner,N. Of N. H. 1.00
 John Turner,Garrison
 John Turner,William Wolcott Ellsworth
 John Turner,Oliver Ellsworth
@@ -4362,8 +4294,6 @@ Edward Galpin,Crandall
 Edward Galpin,Sam ` L. T. Gray
 Edward Galpin,Sexton
 Edward Galpin,J. B. Clarke
-Edward Galpin,N. L. 2.00
-Edward Galpin,N. Of N. H. 1.00
 Edward Galpin,Garrison
 Edward Galpin,William Wolcott Ellsworth
 Edward Galpin,Oliver Ellsworth
@@ -4469,8 +4399,6 @@ T. B. Potter,Crandall
 T. B. Potter,Sam ` L. T. Gray
 T. B. Potter,Sexton
 T. B. Potter,J. B. Clarke
-T. B. Potter,N. L. 2.00
-T. B. Potter,N. Of N. H. 1.00
 T. B. Potter,Garrison
 T. B. Potter,William Wolcott Ellsworth
 T. B. Potter,Oliver Ellsworth
@@ -4575,8 +4503,6 @@ William Thompson,Crandall
 William Thompson,Sam ` L. T. Gray
 William Thompson,Sexton
 William Thompson,J. B. Clarke
-William Thompson,N. L. 2.00
-William Thompson,N. Of N. H. 1.00
 William Thompson,Garrison
 William Thompson,William Wolcott Ellsworth
 William Thompson,Oliver Ellsworth
@@ -4680,8 +4606,6 @@ Amos C. Beman,Crandall
 Amos C. Beman,Sam ` L. T. Gray
 Amos C. Beman,Sexton
 Amos C. Beman,J. B. Clarke
-Amos C. Beman,N. L. 2.00
-Amos C. Beman,N. Of N. H. 1.00
 Amos C. Beman,Garrison
 Amos C. Beman,William Wolcott Ellsworth
 Amos C. Beman,Oliver Ellsworth
@@ -4784,8 +4708,6 @@ Samuel Ellis,Crandall
 Samuel Ellis,Sam ` L. T. Gray
 Samuel Ellis,Sexton
 Samuel Ellis,J. B. Clarke
-Samuel Ellis,N. L. 2.00
-Samuel Ellis,N. Of N. H. 1.00
 Samuel Ellis,Garrison
 Samuel Ellis,William Wolcott Ellsworth
 Samuel Ellis,Oliver Ellsworth
@@ -4887,8 +4809,6 @@ William Spellman,Crandall
 William Spellman,Sam ` L. T. Gray
 William Spellman,Sexton
 William Spellman,J. B. Clarke
-William Spellman,N. L. 2.00
-William Spellman,N. Of N. H. 1.00
 William Spellman,Garrison
 William Spellman,William Wolcott Ellsworth
 William Spellman,Oliver Ellsworth
@@ -4989,8 +4909,6 @@ James L. Smith,Crandall
 James L. Smith,Sam ` L. T. Gray
 James L. Smith,Sexton
 James L. Smith,J. B. Clarke
-James L. Smith,N. L. 2.00
-James L. Smith,N. Of N. H. 1.00
 James L. Smith,Garrison
 James L. Smith,William Wolcott Ellsworth
 James L. Smith,Oliver Ellsworth
@@ -5090,8 +5008,6 @@ Uriah W. R. Pelham,Crandall
 Uriah W. R. Pelham,Sam ` L. T. Gray
 Uriah W. R. Pelham,Sexton
 Uriah W. R. Pelham,J. B. Clarke
-Uriah W. R. Pelham,N. L. 2.00
-Uriah W. R. Pelham,N. Of N. H. 1.00
 Uriah W. R. Pelham,Garrison
 Uriah W. R. Pelham,William Wolcott Ellsworth
 Uriah W. R. Pelham,Oliver Ellsworth
@@ -5190,8 +5106,6 @@ Pelam M. Williams,Crandall
 Pelam M. Williams,Sam ` L. T. Gray
 Pelam M. Williams,Sexton
 Pelam M. Williams,J. B. Clarke
-Pelam M. Williams,N. L. 2.00
-Pelam M. Williams,N. Of N. H. 1.00
 Pelam M. Williams,Garrison
 Pelam M. Williams,William Wolcott Ellsworth
 Pelam M. Williams,Oliver Ellsworth
@@ -5289,8 +5203,6 @@ David Gordon,Crandall
 David Gordon,Sam ` L. T. Gray
 David Gordon,Sexton
 David Gordon,J. B. Clarke
-David Gordon,N. L. 2.00
-David Gordon,N. Of N. H. 1.00
 David Gordon,Garrison
 David Gordon,William Wolcott Ellsworth
 David Gordon,Oliver Ellsworth
@@ -5387,8 +5299,6 @@ George L. Williams,Crandall
 George L. Williams,Sam ` L. T. Gray
 George L. Williams,Sexton
 George L. Williams,J. B. Clarke
-George L. Williams,N. L. 2.00
-George L. Williams,N. Of N. H. 1.00
 George L. Williams,Garrison
 George L. Williams,William Wolcott Ellsworth
 George L. Williams,Oliver Ellsworth
@@ -5484,8 +5394,6 @@ William Anderson,Crandall
 William Anderson,Sam ` L. T. Gray
 William Anderson,Sexton
 William Anderson,J. B. Clarke
-William Anderson,N. L. 2.00
-William Anderson,N. Of N. H. 1.00
 William Anderson,Garrison
 William Anderson,William Wolcott Ellsworth
 William Anderson,Oliver Ellsworth
@@ -5580,8 +5488,6 @@ George Fairweather,Crandall
 George Fairweather,Sam ` L. T. Gray
 George Fairweather,Sexton
 George Fairweather,J. B. Clarke
-George Fairweather,N. L. 2.00
-George Fairweather,N. Of N. H. 1.00
 George Fairweather,Garrison
 George Fairweather,William Wolcott Ellsworth
 George Fairweather,Oliver Ellsworth
@@ -5675,8 +5581,6 @@ Mason Gauson,Crandall
 Mason Gauson,Sam ` L. T. Gray
 Mason Gauson,Sexton
 Mason Gauson,J. B. Clarke
-Mason Gauson,N. L. 2.00
-Mason Gauson,N. Of N. H. 1.00
 Mason Gauson,Garrison
 Mason Gauson,William Wolcott Ellsworth
 Mason Gauson,Oliver Ellsworth
@@ -5769,8 +5673,6 @@ Jacob Coggswell,Crandall
 Jacob Coggswell,Sam ` L. T. Gray
 Jacob Coggswell,Sexton
 Jacob Coggswell,J. B. Clarke
-Jacob Coggswell,N. L. 2.00
-Jacob Coggswell,N. Of N. H. 1.00
 Jacob Coggswell,Garrison
 Jacob Coggswell,William Wolcott Ellsworth
 Jacob Coggswell,Oliver Ellsworth
@@ -5862,8 +5764,6 @@ A. G. Beman,Crandall
 A. G. Beman,Sam ` L. T. Gray
 A. G. Beman,Sexton
 A. G. Beman,J. B. Clarke
-A. G. Beman,N. L. 2.00
-A. G. Beman,N. Of N. H. 1.00
 A. G. Beman,Garrison
 A. G. Beman,William Wolcott Ellsworth
 A. G. Beman,Oliver Ellsworth
@@ -5954,8 +5854,6 @@ George W. Francis Of Bridgepport,Crandall
 George W. Francis Of Bridgepport,Sam ` L. T. Gray
 George W. Francis Of Bridgepport,Sexton
 George W. Francis Of Bridgepport,J. B. Clarke
-George W. Francis Of Bridgepport,N. L. 2.00
-George W. Francis Of Bridgepport,N. Of N. H. 1.00
 George W. Francis Of Bridgepport,Garrison
 George W. Francis Of Bridgepport,William Wolcott Ellsworth
 George W. Francis Of Bridgepport,Oliver Ellsworth
@@ -6045,8 +5943,6 @@ Gordon,Crandall
 Gordon,Sam ` L. T. Gray
 Gordon,Sexton
 Gordon,J. B. Clarke
-Gordon,N. L. 2.00
-Gordon,N. Of N. H. 1.00
 Gordon,Garrison
 Gordon,William Wolcott Ellsworth
 Gordon,Oliver Ellsworth
@@ -6135,8 +6031,6 @@ Posey,Crandall
 Posey,Sam ` L. T. Gray
 Posey,Sexton
 Posey,J. B. Clarke
-Posey,N. L. 2.00
-Posey,N. Of N. H. 1.00
 Posey,Garrison
 Posey,William Wolcott Ellsworth
 Posey,Oliver Ellsworth
@@ -6224,8 +6118,6 @@ Williams,Crandall
 Williams,Sam ` L. T. Gray
 Williams,Sexton
 Williams,J. B. Clarke
-Williams,N. L. 2.00
-Williams,N. Of N. H. 1.00
 Williams,Garrison
 Williams,William Wolcott Ellsworth
 Williams,Oliver Ellsworth
@@ -6312,8 +6204,6 @@ L. C. Beman,Crandall
 L. C. Beman,Sam ` L. T. Gray
 L. C. Beman,Sexton
 L. C. Beman,J. B. Clarke
-L. C. Beman,N. L. 2.00
-L. C. Beman,N. Of N. H. 1.00
 L. C. Beman,Garrison
 L. C. Beman,William Wolcott Ellsworth
 L. C. Beman,Oliver Ellsworth
@@ -6399,8 +6289,6 @@ S. N. Africanus,Crandall
 S. N. Africanus,Sam ` L. T. Gray
 S. N. Africanus,Sexton
 S. N. Africanus,J. B. Clarke
-S. N. Africanus,N. L. 2.00
-S. N. Africanus,N. Of N. H. 1.00
 S. N. Africanus,Garrison
 S. N. Africanus,William Wolcott Ellsworth
 S. N. Africanus,Oliver Ellsworth
@@ -6485,8 +6373,6 @@ Alexandaer Posey,Crandall
 Alexandaer Posey,Sam ` L. T. Gray
 Alexandaer Posey,Sexton
 Alexandaer Posey,J. B. Clarke
-Alexandaer Posey,N. L. 2.00
-Alexandaer Posey,N. Of N. H. 1.00
 Alexandaer Posey,Garrison
 Alexandaer Posey,William Wolcott Ellsworth
 Alexandaer Posey,Oliver Ellsworth
@@ -6570,8 +6456,6 @@ Perry Davis,Crandall
 Perry Davis,Sam ` L. T. Gray
 Perry Davis,Sexton
 Perry Davis,J. B. Clarke
-Perry Davis,N. L. 2.00
-Perry Davis,N. Of N. H. 1.00
 Perry Davis,Garrison
 Perry Davis,William Wolcott Ellsworth
 Perry Davis,Oliver Ellsworth
@@ -6654,8 +6538,6 @@ B. Randall,Crandall
 B. Randall,Sam ` L. T. Gray
 B. Randall,Sexton
 B. Randall,J. B. Clarke
-B. Randall,N. L. 2.00
-B. Randall,N. Of N. H. 1.00
 B. Randall,Garrison
 B. Randall,William Wolcott Ellsworth
 B. Randall,Oliver Ellsworth
@@ -6737,8 +6619,6 @@ Middleton,Crandall
 Middleton,Sam ` L. T. Gray
 Middleton,Sexton
 Middleton,J. B. Clarke
-Middleton,N. L. 2.00
-Middleton,N. Of N. H. 1.00
 Middleton,Garrison
 Middleton,William Wolcott Ellsworth
 Middleton,Oliver Ellsworth
@@ -6819,8 +6699,6 @@ G. Garrison,Crandall
 G. Garrison,Sam ` L. T. Gray
 G. Garrison,Sexton
 G. Garrison,J. B. Clarke
-G. Garrison,N. L. 2.00
-G. Garrison,N. Of N. H. 1.00
 G. Garrison,Garrison
 G. Garrison,William Wolcott Ellsworth
 G. Garrison,Oliver Ellsworth
@@ -6900,8 +6778,6 @@ E. C. Freeman,Crandall
 E. C. Freeman,Sam ` L. T. Gray
 E. C. Freeman,Sexton
 E. C. Freeman,J. B. Clarke
-E. C. Freeman,N. L. 2.00
-E. C. Freeman,N. Of N. H. 1.00
 E. C. Freeman,Garrison
 E. C. Freeman,William Wolcott Ellsworth
 E. C. Freeman,Oliver Ellsworth
@@ -6980,8 +6856,6 @@ C. Snipes,Crandall
 C. Snipes,Sam ` L. T. Gray
 C. Snipes,Sexton
 C. Snipes,J. B. Clarke
-C. Snipes,N. L. 2.00
-C. Snipes,N. Of N. H. 1.00
 C. Snipes,Garrison
 C. Snipes,William Wolcott Ellsworth
 C. Snipes,Oliver Ellsworth
@@ -7059,8 +6933,6 @@ H. A. Thompson,Crandall
 H. A. Thompson,Sam ` L. T. Gray
 H. A. Thompson,Sexton
 H. A. Thompson,J. B. Clarke
-H. A. Thompson,N. L. 2.00
-H. A. Thompson,N. Of N. H. 1.00
 H. A. Thompson,Garrison
 H. A. Thompson,William Wolcott Ellsworth
 H. A. Thompson,Oliver Ellsworth
@@ -7137,8 +7009,6 @@ J. C. Beman,Crandall
 J. C. Beman,Sam ` L. T. Gray
 J. C. Beman,Sexton
 J. C. Beman,J. B. Clarke
-J. C. Beman,N. L. 2.00
-J. C. Beman,N. Of N. H. 1.00
 J. C. Beman,Garrison
 J. C. Beman,William Wolcott Ellsworth
 J. C. Beman,Oliver Ellsworth
@@ -7214,8 +7084,6 @@ G. W. Francis,Crandall
 G. W. Francis,Sam ` L. T. Gray
 G. W. Francis,Sexton
 G. W. Francis,J. B. Clarke
-G. W. Francis,N. L. 2.00
-G. W. Francis,N. Of N. H. 1.00
 G. W. Francis,Garrison
 G. W. Francis,William Wolcott Ellsworth
 G. W. Francis,Oliver Ellsworth
@@ -7290,8 +7158,6 @@ Leonard Colllins,Crandall
 Leonard Colllins,Sam ` L. T. Gray
 Leonard Colllins,Sexton
 Leonard Colllins,J. B. Clarke
-Leonard Colllins,N. L. 2.00
-Leonard Colllins,N. Of N. H. 1.00
 Leonard Colllins,Garrison
 Leonard Colllins,William Wolcott Ellsworth
 Leonard Colllins,Oliver Ellsworth
@@ -7365,8 +7231,6 @@ Prince W. West,Crandall
 Prince W. West,Sam ` L. T. Gray
 Prince W. West,Sexton
 Prince W. West,J. B. Clarke
-Prince W. West,N. L. 2.00
-Prince W. West,N. Of N. H. 1.00
 Prince W. West,Garrison
 Prince W. West,William Wolcott Ellsworth
 Prince W. West,Oliver Ellsworth
@@ -7439,8 +7303,6 @@ Amos Gerry Beman,Crandall
 Amos Gerry Beman,Sam ` L. T. Gray
 Amos Gerry Beman,Sexton
 Amos Gerry Beman,J. B. Clarke
-Amos Gerry Beman,N. L. 2.00
-Amos Gerry Beman,N. Of N. H. 1.00
 Amos Gerry Beman,Garrison
 Amos Gerry Beman,William Wolcott Ellsworth
 Amos Gerry Beman,Oliver Ellsworth
@@ -7512,8 +7374,6 @@ Charles Williams,Crandall
 Charles Williams,Sam ` L. T. Gray
 Charles Williams,Sexton
 Charles Williams,J. B. Clarke
-Charles Williams,N. L. 2.00
-Charles Williams,N. Of N. H. 1.00
 Charles Williams,Garrison
 Charles Williams,William Wolcott Ellsworth
 Charles Williams,Oliver Ellsworth
@@ -7584,8 +7444,6 @@ R. J. Cowes,Crandall
 R. J. Cowes,Sam ` L. T. Gray
 R. J. Cowes,Sexton
 R. J. Cowes,J. B. Clarke
-R. J. Cowes,N. L. 2.00
-R. J. Cowes,N. Of N. H. 1.00
 R. J. Cowes,Garrison
 R. J. Cowes,William Wolcott Ellsworth
 R. J. Cowes,Oliver Ellsworth
@@ -7655,8 +7513,6 @@ Minius Lyman,Crandall
 Minius Lyman,Sam ` L. T. Gray
 Minius Lyman,Sexton
 Minius Lyman,J. B. Clarke
-Minius Lyman,N. L. 2.00
-Minius Lyman,N. Of N. H. 1.00
 Minius Lyman,Garrison
 Minius Lyman,William Wolcott Ellsworth
 Minius Lyman,Oliver Ellsworth
@@ -7725,8 +7581,6 @@ Francis Cisco,Crandall
 Francis Cisco,Sam ` L. T. Gray
 Francis Cisco,Sexton
 Francis Cisco,J. B. Clarke
-Francis Cisco,N. L. 2.00
-Francis Cisco,N. Of N. H. 1.00
 Francis Cisco,Garrison
 Francis Cisco,William Wolcott Ellsworth
 Francis Cisco,Oliver Ellsworth
@@ -7794,8 +7648,6 @@ Peter Osborn,Crandall
 Peter Osborn,Sam ` L. T. Gray
 Peter Osborn,Sexton
 Peter Osborn,J. B. Clarke
-Peter Osborn,N. L. 2.00
-Peter Osborn,N. Of N. H. 1.00
 Peter Osborn,Garrison
 Peter Osborn,William Wolcott Ellsworth
 Peter Osborn,Oliver Ellsworth
@@ -7862,8 +7714,6 @@ Thomas B. Potter,Crandall
 Thomas B. Potter,Sam ` L. T. Gray
 Thomas B. Potter,Sexton
 Thomas B. Potter,J. B. Clarke
-Thomas B. Potter,N. L. 2.00
-Thomas B. Potter,N. Of N. H. 1.00
 Thomas B. Potter,Garrison
 Thomas B. Potter,William Wolcott Ellsworth
 Thomas B. Potter,Oliver Ellsworth
@@ -7929,8 +7779,6 @@ Wm. F. Bouchet,Crandall
 Wm. F. Bouchet,Sam ` L. T. Gray
 Wm. F. Bouchet,Sexton
 Wm. F. Bouchet,J. B. Clarke
-Wm. F. Bouchet,N. L. 2.00
-Wm. F. Bouchet,N. Of N. H. 1.00
 Wm. F. Bouchet,Garrison
 Wm. F. Bouchet,William Wolcott Ellsworth
 Wm. F. Bouchet,Oliver Ellsworth
@@ -7995,8 +7843,6 @@ Robert M. Park,Crandall
 Robert M. Park,Sam ` L. T. Gray
 Robert M. Park,Sexton
 Robert M. Park,J. B. Clarke
-Robert M. Park,N. L. 2.00
-Robert M. Park,N. Of N. H. 1.00
 Robert M. Park,Garrison
 Robert M. Park,William Wolcott Ellsworth
 Robert M. Park,Oliver Ellsworth
@@ -8060,8 +7906,6 @@ Pelman M. Williams,Crandall
 Pelman M. Williams,Sam ` L. T. Gray
 Pelman M. Williams,Sexton
 Pelman M. Williams,J. B. Clarke
-Pelman M. Williams,N. L. 2.00
-Pelman M. Williams,N. Of N. H. 1.00
 Pelman M. Williams,Garrison
 Pelman M. Williams,William Wolcott Ellsworth
 Pelman M. Williams,Oliver Ellsworth
@@ -8124,8 +7968,6 @@ Leonarad Black,Crandall
 Leonarad Black,Sam ` L. T. Gray
 Leonarad Black,Sexton
 Leonarad Black,J. B. Clarke
-Leonarad Black,N. L. 2.00
-Leonarad Black,N. Of N. H. 1.00
 Leonarad Black,Garrison
 Leonarad Black,William Wolcott Ellsworth
 Leonarad Black,Oliver Ellsworth
@@ -8187,8 +8029,6 @@ J. Scott,Crandall
 J. Scott,Sam ` L. T. Gray
 J. Scott,Sexton
 J. Scott,J. B. Clarke
-J. Scott,N. L. 2.00
-J. Scott,N. Of N. H. 1.00
 J. Scott,Garrison
 J. Scott,William Wolcott Ellsworth
 J. Scott,Oliver Ellsworth
@@ -8249,8 +8089,6 @@ Abraham Morrison,Crandall
 Abraham Morrison,Sam ` L. T. Gray
 Abraham Morrison,Sexton
 Abraham Morrison,J. B. Clarke
-Abraham Morrison,N. L. 2.00
-Abraham Morrison,N. Of N. H. 1.00
 Abraham Morrison,Garrison
 Abraham Morrison,William Wolcott Ellsworth
 Abraham Morrison,Oliver Ellsworth
@@ -8310,8 +8148,6 @@ Nathaniel Holland Danbury,Crandall
 Nathaniel Holland Danbury,Sam ` L. T. Gray
 Nathaniel Holland Danbury,Sexton
 Nathaniel Holland Danbury,J. B. Clarke
-Nathaniel Holland Danbury,N. L. 2.00
-Nathaniel Holland Danbury,N. Of N. H. 1.00
 Nathaniel Holland Danbury,Garrison
 Nathaniel Holland Danbury,William Wolcott Ellsworth
 Nathaniel Holland Danbury,Oliver Ellsworth
@@ -8370,8 +8206,6 @@ Lyman H. Peters,Crandall
 Lyman H. Peters,Sam ` L. T. Gray
 Lyman H. Peters,Sexton
 Lyman H. Peters,J. B. Clarke
-Lyman H. Peters,N. L. 2.00
-Lyman H. Peters,N. Of N. H. 1.00
 Lyman H. Peters,Garrison
 Lyman H. Peters,William Wolcott Ellsworth
 Lyman H. Peters,Oliver Ellsworth
@@ -8429,8 +8263,6 @@ Stephen Wright,Crandall
 Stephen Wright,Sam ` L. T. Gray
 Stephen Wright,Sexton
 Stephen Wright,J. B. Clarke
-Stephen Wright,N. L. 2.00
-Stephen Wright,N. Of N. H. 1.00
 Stephen Wright,Garrison
 Stephen Wright,William Wolcott Ellsworth
 Stephen Wright,Oliver Ellsworth
@@ -8487,8 +8319,6 @@ John B. Clarke,Crandall
 John B. Clarke,Sam ` L. T. Gray
 John B. Clarke,Sexton
 John B. Clarke,J. B. Clarke
-John B. Clarke,N. L. 2.00
-John B. Clarke,N. Of N. H. 1.00
 John B. Clarke,Garrison
 John B. Clarke,William Wolcott Ellsworth
 John B. Clarke,Oliver Ellsworth
@@ -8544,8 +8374,6 @@ Henry Berrian,Crandall
 Henry Berrian,Sam ` L. T. Gray
 Henry Berrian,Sexton
 Henry Berrian,J. B. Clarke
-Henry Berrian,N. L. 2.00
-Henry Berrian,N. Of N. H. 1.00
 Henry Berrian,Garrison
 Henry Berrian,William Wolcott Ellsworth
 Henry Berrian,Oliver Ellsworth
@@ -8600,8 +8428,6 @@ George A. Spywood,Crandall
 George A. Spywood,Sam ` L. T. Gray
 George A. Spywood,Sexton
 George A. Spywood,J. B. Clarke
-George A. Spywood,N. L. 2.00
-George A. Spywood,N. Of N. H. 1.00
 George A. Spywood,Garrison
 George A. Spywood,William Wolcott Ellsworth
 George A. Spywood,Oliver Ellsworth
@@ -8655,8 +8481,6 @@ Elymus P. Rogers,Crandall
 Elymus P. Rogers,Sam ` L. T. Gray
 Elymus P. Rogers,Sexton
 Elymus P. Rogers,J. B. Clarke
-Elymus P. Rogers,N. L. 2.00
-Elymus P. Rogers,N. Of N. H. 1.00
 Elymus P. Rogers,Garrison
 Elymus P. Rogers,William Wolcott Ellsworth
 Elymus P. Rogers,Oliver Ellsworth
@@ -8709,8 +8533,6 @@ N. J. Henry Bibb,Crandall
 N. J. Henry Bibb,Sam ` L. T. Gray
 N. J. Henry Bibb,Sexton
 N. J. Henry Bibb,J. B. Clarke
-N. J. Henry Bibb,N. L. 2.00
-N. J. Henry Bibb,N. Of N. H. 1.00
 N. J. Henry Bibb,Garrison
 N. J. Henry Bibb,William Wolcott Ellsworth
 N. J. Henry Bibb,Oliver Ellsworth
@@ -8762,8 +8584,6 @@ J. E. Burr,Crandall
 J. E. Burr,Sam ` L. T. Gray
 J. E. Burr,Sexton
 J. E. Burr,J. B. Clarke
-J. E. Burr,N. L. 2.00
-J. E. Burr,N. Of N. H. 1.00
 J. E. Burr,Garrison
 J. E. Burr,William Wolcott Ellsworth
 J. E. Burr,Oliver Ellsworth
@@ -8814,8 +8634,6 @@ S. T. Gray,Crandall
 S. T. Gray,Sam ` L. T. Gray
 S. T. Gray,Sexton
 S. T. Gray,J. B. Clarke
-S. T. Gray,N. L. 2.00
-S. T. Gray,N. Of N. H. 1.00
 S. T. Gray,Garrison
 S. T. Gray,William Wolcott Ellsworth
 S. T. Gray,Oliver Ellsworth
@@ -8865,8 +8683,6 @@ Leonard Black,Crandall
 Leonard Black,Sam ` L. T. Gray
 Leonard Black,Sexton
 Leonard Black,J. B. Clarke
-Leonard Black,N. L. 2.00
-Leonard Black,N. Of N. H. 1.00
 Leonard Black,Garrison
 Leonard Black,William Wolcott Ellsworth
 Leonard Black,Oliver Ellsworth
@@ -8915,8 +8731,6 @@ P.M. Williams,Crandall
 P.M. Williams,Sam ` L. T. Gray
 P.M. Williams,Sexton
 P.M. Williams,J. B. Clarke
-P.M. Williams,N. L. 2.00
-P.M. Williams,N. Of N. H. 1.00
 P.M. Williams,Garrison
 P.M. Williams,William Wolcott Ellsworth
 P.M. Williams,Oliver Ellsworth
@@ -8964,8 +8778,6 @@ Beman,Crandall
 Beman,Sam ` L. T. Gray
 Beman,Sexton
 Beman,J. B. Clarke
-Beman,N. L. 2.00
-Beman,N. Of N. H. 1.00
 Beman,Garrison
 Beman,William Wolcott Ellsworth
 Beman,Oliver Ellsworth
@@ -9012,8 +8824,6 @@ A. Morrison,Crandall
 A. Morrison,Sam ` L. T. Gray
 A. Morrison,Sexton
 A. Morrison,J. B. Clarke
-A. Morrison,N. L. 2.00
-A. Morrison,N. Of N. H. 1.00
 A. Morrison,Garrison
 A. Morrison,William Wolcott Ellsworth
 A. Morrison,Oliver Ellsworth
@@ -9059,8 +8869,6 @@ Spywood,Crandall
 Spywood,Sam ` L. T. Gray
 Spywood,Sexton
 Spywood,J. B. Clarke
-Spywood,N. L. 2.00
-Spywood,N. Of N. H. 1.00
 Spywood,Garrison
 Spywood,William Wolcott Ellsworth
 Spywood,Oliver Ellsworth
@@ -9105,8 +8913,6 @@ George Snipes,Crandall
 George Snipes,Sam ` L. T. Gray
 George Snipes,Sexton
 George Snipes,J. B. Clarke
-George Snipes,N. L. 2.00
-George Snipes,N. Of N. H. 1.00
 George Snipes,Garrison
 George Snipes,William Wolcott Ellsworth
 George Snipes,Oliver Ellsworth
@@ -9150,8 +8956,6 @@ Francis,Crandall
 Francis,Sam ` L. T. Gray
 Francis,Sexton
 Francis,J. B. Clarke
-Francis,N. L. 2.00
-Francis,N. Of N. H. 1.00
 Francis,Garrison
 Francis,William Wolcott Ellsworth
 Francis,Oliver Ellsworth
@@ -9194,8 +8998,6 @@ Collins,Crandall
 Collins,Sam ` L. T. Gray
 Collins,Sexton
 Collins,J. B. Clarke
-Collins,N. L. 2.00
-Collins,N. Of N. H. 1.00
 Collins,Garrison
 Collins,William Wolcott Ellsworth
 Collins,Oliver Ellsworth
@@ -9237,8 +9039,6 @@ Thompson,Crandall
 Thompson,Sam ` L. T. Gray
 Thompson,Sexton
 Thompson,J. B. Clarke
-Thompson,N. L. 2.00
-Thompson,N. Of N. H. 1.00
 Thompson,Garrison
 Thompson,William Wolcott Ellsworth
 Thompson,Oliver Ellsworth
@@ -9279,8 +9079,6 @@ Spellman,Crandall
 Spellman,Sam ` L. T. Gray
 Spellman,Sexton
 Spellman,J. B. Clarke
-Spellman,N. L. 2.00
-Spellman,N. Of N. H. 1.00
 Spellman,Garrison
 Spellman,William Wolcott Ellsworth
 Spellman,Oliver Ellsworth
@@ -9320,8 +9118,6 @@ Gray,Crandall
 Gray,Sam ` L. T. Gray
 Gray,Sexton
 Gray,J. B. Clarke
-Gray,N. L. 2.00
-Gray,N. Of N. H. 1.00
 Gray,Garrison
 Gray,William Wolcott Ellsworth
 Gray,Oliver Ellsworth
@@ -9360,8 +9156,6 @@ John Emery Burr,Crandall
 John Emery Burr,Sam ` L. T. Gray
 John Emery Burr,Sexton
 John Emery Burr,J. B. Clarke
-John Emery Burr,N. L. 2.00
-John Emery Burr,N. Of N. H. 1.00
 John Emery Burr,Garrison
 John Emery Burr,William Wolcott Ellsworth
 John Emery Burr,Oliver Ellsworth
@@ -9399,8 +9193,6 @@ Ellis,Crandall
 Ellis,Sam ` L. T. Gray
 Ellis,Sexton
 Ellis,J. B. Clarke
-Ellis,N. L. 2.00
-Ellis,N. Of N. H. 1.00
 Ellis,Garrison
 Ellis,William Wolcott Ellsworth
 Ellis,Oliver Ellsworth
@@ -9437,8 +9229,6 @@ Rogers,Crandall
 Rogers,Sam ` L. T. Gray
 Rogers,Sexton
 Rogers,J. B. Clarke
-Rogers,N. L. 2.00
-Rogers,N. Of N. H. 1.00
 Rogers,Garrison
 Rogers,William Wolcott Ellsworth
 Rogers,Oliver Ellsworth
@@ -9474,8 +9264,6 @@ Bibb,Crandall
 Bibb,Sam ` L. T. Gray
 Bibb,Sexton
 Bibb,J. B. Clarke
-Bibb,N. L. 2.00
-Bibb,N. Of N. H. 1.00
 Bibb,Garrison
 Bibb,William Wolcott Ellsworth
 Bibb,Oliver Ellsworth
@@ -9510,8 +9298,6 @@ A. Washington,Crandall
 A. Washington,Sam ` L. T. Gray
 A. Washington,Sexton
 A. Washington,J. B. Clarke
-A. Washington,N. L. 2.00
-A. Washington,N. Of N. H. 1.00
 A. Washington,Garrison
 A. Washington,William Wolcott Ellsworth
 A. Washington,Oliver Ellsworth
@@ -9545,8 +9331,6 @@ A. Posey,Crandall
 A. Posey,Sam ` L. T. Gray
 A. Posey,Sexton
 A. Posey,J. B. Clarke
-A. Posey,N. L. 2.00
-A. Posey,N. Of N. H. 1.00
 A. Posey,Garrison
 A. Posey,William Wolcott Ellsworth
 A. Posey,Oliver Ellsworth
@@ -9579,8 +9363,6 @@ L.C. Beman,Crandall
 L.C. Beman,Sam ` L. T. Gray
 L.C. Beman,Sexton
 L.C. Beman,J. B. Clarke
-L.C. Beman,N. L. 2.00
-L.C. Beman,N. Of N. H. 1.00
 L.C. Beman,Garrison
 L.C. Beman,William Wolcott Ellsworth
 L.C. Beman,Oliver Ellsworth
@@ -9612,8 +9394,6 @@ H.A. Thompson,Crandall
 H.A. Thompson,Sam ` L. T. Gray
 H.A. Thompson,Sexton
 H.A. Thompson,J. B. Clarke
-H.A. Thompson,N. L. 2.00
-H.A. Thompson,N. Of N. H. 1.00
 H.A. Thompson,Garrison
 H.A. Thompson,William Wolcott Ellsworth
 H.A. Thompson,Oliver Ellsworth
@@ -9644,8 +9424,6 @@ R.J. Cowes,Crandall
 R.J. Cowes,Sam ` L. T. Gray
 R.J. Cowes,Sexton
 R.J. Cowes,J. B. Clarke
-R.J. Cowes,N. L. 2.00
-R.J. Cowes,N. Of N. H. 1.00
 R.J. Cowes,Garrison
 R.J. Cowes,William Wolcott Ellsworth
 R.J. Cowes,Oliver Ellsworth
@@ -9675,8 +9453,6 @@ H.S. Merriman,Crandall
 H.S. Merriman,Sam ` L. T. Gray
 H.S. Merriman,Sexton
 H.S. Merriman,J. B. Clarke
-H.S. Merriman,N. L. 2.00
-H.S. Merriman,N. Of N. H. 1.00
 H.S. Merriman,Garrison
 H.S. Merriman,William Wolcott Ellsworth
 H.S. Merriman,Oliver Ellsworth
@@ -9705,8 +9481,6 @@ J.L. Smith,Crandall
 J.L. Smith,Sam ` L. T. Gray
 J.L. Smith,Sexton
 J.L. Smith,J. B. Clarke
-J.L. Smith,N. L. 2.00
-J.L. Smith,N. Of N. H. 1.00
 J.L. Smith,Garrison
 J.L. Smith,William Wolcott Ellsworth
 J.L. Smith,Oliver Ellsworth
@@ -9734,8 +9508,6 @@ W. Peters,Crandall
 W. Peters,Sam ` L. T. Gray
 W. Peters,Sexton
 W. Peters,J. B. Clarke
-W. Peters,N. L. 2.00
-W. Peters,N. Of N. H. 1.00
 W. Peters,Garrison
 W. Peters,William Wolcott Ellsworth
 W. Peters,Oliver Ellsworth
@@ -9762,8 +9534,6 @@ N. Thatcher,Crandall
 N. Thatcher,Sam ` L. T. Gray
 N. Thatcher,Sexton
 N. Thatcher,J. B. Clarke
-N. Thatcher,N. L. 2.00
-N. Thatcher,N. Of N. H. 1.00
 N. Thatcher,Garrison
 N. Thatcher,William Wolcott Ellsworth
 N. Thatcher,Oliver Ellsworth
@@ -9789,8 +9559,6 @@ J.B. Clarke,Crandall
 J.B. Clarke,Sam ` L. T. Gray
 J.B. Clarke,Sexton
 J.B. Clarke,J. B. Clarke
-J.B. Clarke,N. L. 2.00
-J.B. Clarke,N. Of N. H. 1.00
 J.B. Clarke,Garrison
 J.B. Clarke,William Wolcott Ellsworth
 J.B. Clarke,Oliver Ellsworth
@@ -9815,8 +9583,6 @@ A.J. Morrison,Crandall
 A.J. Morrison,Sam ` L. T. Gray
 A.J. Morrison,Sexton
 A.J. Morrison,J. B. Clarke
-A.J. Morrison,N. L. 2.00
-A.J. Morrison,N. Of N. H. 1.00
 A.J. Morrison,Garrison
 A.J. Morrison,William Wolcott Ellsworth
 A.J. Morrison,Oliver Ellsworth
@@ -9840,8 +9606,6 @@ S.M. Africanus,Crandall
 S.M. Africanus,Sam ` L. T. Gray
 S.M. Africanus,Sexton
 S.M. Africanus,J. B. Clarke
-S.M. Africanus,N. L. 2.00
-S.M. Africanus,N. Of N. H. 1.00
 S.M. Africanus,Garrison
 S.M. Africanus,William Wolcott Ellsworth
 S.M. Africanus,Oliver Ellsworth
@@ -9864,8 +9628,6 @@ G.W. Francis,Crandall
 G.W. Francis,Sam ` L. T. Gray
 G.W. Francis,Sexton
 G.W. Francis,J. B. Clarke
-G.W. Francis,N. L. 2.00
-G.W. Francis,N. Of N. H. 1.00
 G.W. Francis,Garrison
 G.W. Francis,William Wolcott Ellsworth
 G.W. Francis,Oliver Ellsworth
@@ -9887,8 +9649,6 @@ A.G. Beman,Crandall
 A.G. Beman,Sam ` L. T. Gray
 A.G. Beman,Sexton
 A.G. Beman,J. B. Clarke
-A.G. Beman,N. L. 2.00
-A.G. Beman,N. Of N. H. 1.00
 A.G. Beman,Garrison
 A.G. Beman,William Wolcott Ellsworth
 A.G. Beman,Oliver Ellsworth
@@ -9909,8 +9669,6 @@ L. Carter Beman,Crandall
 L. Carter Beman,Sam ` L. T. Gray
 L. Carter Beman,Sexton
 L. Carter Beman,J. B. Clarke
-L. Carter Beman,N. L. 2.00
-L. Carter Beman,N. Of N. H. 1.00
 L. Carter Beman,Garrison
 L. Carter Beman,William Wolcott Ellsworth
 L. Carter Beman,Oliver Ellsworth
@@ -9930,8 +9688,6 @@ Ellsworth,Crandall
 Ellsworth,Sam ` L. T. Gray
 Ellsworth,Sexton
 Ellsworth,J. B. Clarke
-Ellsworth,N. L. 2.00
-Ellsworth,N. Of N. H. 1.00
 Ellsworth,Garrison
 Ellsworth,William Wolcott Ellsworth
 Ellsworth,Oliver Ellsworth
@@ -9950,8 +9706,6 @@ Henry A. Thompson,Crandall
 Henry A. Thompson,Sam ` L. T. Gray
 Henry A. Thompson,Sexton
 Henry A. Thompson,J. B. Clarke
-Henry A. Thompson,N. L. 2.00
-Henry A. Thompson,N. Of N. H. 1.00
 Henry A. Thompson,Garrison
 Henry A. Thompson,William Wolcott Ellsworth
 Henry A. Thompson,Oliver Ellsworth
@@ -9969,8 +9723,6 @@ Wm. Blackstone,Crandall
 Wm. Blackstone,Sam ` L. T. Gray
 Wm. Blackstone,Sexton
 Wm. Blackstone,J. B. Clarke
-Wm. Blackstone,N. L. 2.00
-Wm. Blackstone,N. Of N. H. 1.00
 Wm. Blackstone,Garrison
 Wm. Blackstone,William Wolcott Ellsworth
 Wm. Blackstone,Oliver Ellsworth
@@ -9987,8 +9739,6 @@ Bushnell,Crandall
 Bushnell,Sam ` L. T. Gray
 Bushnell,Sexton
 Bushnell,J. B. Clarke
-Bushnell,N. L. 2.00
-Bushnell,N. Of N. H. 1.00
 Bushnell,Garrison
 Bushnell,William Wolcott Ellsworth
 Bushnell,Oliver Ellsworth
@@ -10004,8 +9754,6 @@ Christ,Crandall
 Christ,Sam ` L. T. Gray
 Christ,Sexton
 Christ,J. B. Clarke
-Christ,N. L. 2.00
-Christ,N. Of N. H. 1.00
 Christ,Garrison
 Christ,William Wolcott Ellsworth
 Christ,Oliver Ellsworth
@@ -10020,8 +9768,6 @@ Wm. W. Ellsworth,Crandall
 Wm. W. Ellsworth,Sam ` L. T. Gray
 Wm. W. Ellsworth,Sexton
 Wm. W. Ellsworth,J. B. Clarke
-Wm. W. Ellsworth,N. L. 2.00
-Wm. W. Ellsworth,N. Of N. H. 1.00
 Wm. W. Ellsworth,Garrison
 Wm. W. Ellsworth,William Wolcott Ellsworth
 Wm. W. Ellsworth,Oliver Ellsworth
@@ -10035,8 +9781,6 @@ Wm. W. Ellsworth,Timothy Dwight
 Crandall,Sam ` L. T. Gray
 Crandall,Sexton
 Crandall,J. B. Clarke
-Crandall,N. L. 2.00
-Crandall,N. Of N. H. 1.00
 Crandall,Garrison
 Crandall,William Wolcott Ellsworth
 Crandall,Oliver Ellsworth
@@ -10049,8 +9793,6 @@ Crandall,Theodore Dwight
 Crandall,Timothy Dwight
 Sam ` L. T. Gray,Sexton
 Sam ` L. T. Gray,J. B. Clarke
-Sam ` L. T. Gray,N. L. 2.00
-Sam ` L. T. Gray,N. Of N. H. 1.00
 Sam ` L. T. Gray,Garrison
 Sam ` L. T. Gray,William Wolcott Ellsworth
 Sam ` L. T. Gray,Oliver Ellsworth
@@ -10062,8 +9804,6 @@ Sam ` L. T. Gray,Jonathan Edwards
 Sam ` L. T. Gray,Theodore Dwight
 Sam ` L. T. Gray,Timothy Dwight
 Sexton,J. B. Clarke
-Sexton,N. L. 2.00
-Sexton,N. Of N. H. 1.00
 Sexton,Garrison
 Sexton,William Wolcott Ellsworth
 Sexton,Oliver Ellsworth
@@ -10074,8 +9814,6 @@ Sexton,Johannes Kepler
 Sexton,Jonathan Edwards
 Sexton,Theodore Dwight
 Sexton,Timothy Dwight
-J. B. Clarke,N. L. 2.00
-J. B. Clarke,N. Of N. H. 1.00
 J. B. Clarke,Garrison
 J. B. Clarke,William Wolcott Ellsworth
 J. B. Clarke,Oliver Ellsworth
@@ -10086,27 +9824,6 @@ J. B. Clarke,Johannes Kepler
 J. B. Clarke,Jonathan Edwards
 J. B. Clarke,Theodore Dwight
 J. B. Clarke,Timothy Dwight
-N. L. 2.00,N. Of N. H. 1.00
-N. L. 2.00,Garrison
-N. L. 2.00,William Wolcott Ellsworth
-N. L. 2.00,Oliver Ellsworth
-N. L. 2.00,Prudance Crandall
-N. L. 2.00,Sarah Harris
-N. L. 2.00,John Milton
-N. L. 2.00,Johannes Kepler
-N. L. 2.00,Jonathan Edwards
-N. L. 2.00,Theodore Dwight
-N. L. 2.00,Timothy Dwight
-N. Of N. H. 1.00,Garrison
-N. Of N. H. 1.00,William Wolcott Ellsworth
-N. Of N. H. 1.00,Oliver Ellsworth
-N. Of N. H. 1.00,Prudance Crandall
-N. Of N. H. 1.00,Sarah Harris
-N. Of N. H. 1.00,John Milton
-N. Of N. H. 1.00,Johannes Kepler
-N. Of N. H. 1.00,Jonathan Edwards
-N. Of N. H. 1.00,Theodore Dwight
-N. Of N. H. 1.00,Timothy Dwight
 Garrison,William Wolcott Ellsworth
 Garrison,Oliver Ellsworth
 Garrison,Prudance Crandall

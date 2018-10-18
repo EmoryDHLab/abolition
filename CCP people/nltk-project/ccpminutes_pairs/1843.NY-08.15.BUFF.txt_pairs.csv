@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Theo,S. Wright
 Theo,A. J. Gorden
 Theo,N. Y.
@@ -98,7 +98,6 @@ Theo,C.B. Ray
 Theo,E.B. Dunlap
 Theo,J. Sharpe
 Theo,Wright
-Theo,N.W.
 Theo,Jones
 Theo,S.H. Davis
 Theo,J. H. Platt
@@ -182,7 +181,6 @@ Theo,Alton
 Theo,Banks
 Theo,Francis
 Theo,Beman
-Theo,A. M.
 Theo,J. Roxburg
 Theo,T. Pollock
 Theo,James H. Gloucester
@@ -195,7 +193,6 @@ Theo,James H. Fountain
 Theo,Shelby
 Theo,Warren
 Theo,N. Y
-Theo,Ezra R. Johnson
 Theo,N. Gloucester
 Theo,A. H. Yancy
 S. Wright,A. J. Gorden
@@ -296,7 +293,6 @@ S. Wright,C.B. Ray
 S. Wright,E.B. Dunlap
 S. Wright,J. Sharpe
 S. Wright,Wright
-S. Wright,N.W.
 S. Wright,Jones
 S. Wright,S.H. Davis
 S. Wright,J. H. Platt
@@ -380,7 +376,6 @@ S. Wright,Alton
 S. Wright,Banks
 S. Wright,Francis
 S. Wright,Beman
-S. Wright,A. M.
 S. Wright,J. Roxburg
 S. Wright,T. Pollock
 S. Wright,James H. Gloucester
@@ -393,7 +388,6 @@ S. Wright,James H. Fountain
 S. Wright,Shelby
 S. Wright,Warren
 S. Wright,N. Y
-S. Wright,Ezra R. Johnson
 S. Wright,N. Gloucester
 S. Wright,A. H. Yancy
 A. J. Gorden,N. Y.
@@ -493,7 +487,6 @@ A. J. Gorden,C.B. Ray
 A. J. Gorden,E.B. Dunlap
 A. J. Gorden,J. Sharpe
 A. J. Gorden,Wright
-A. J. Gorden,N.W.
 A. J. Gorden,Jones
 A. J. Gorden,S.H. Davis
 A. J. Gorden,J. H. Platt
@@ -577,7 +570,6 @@ A. J. Gorden,Alton
 A. J. Gorden,Banks
 A. J. Gorden,Francis
 A. J. Gorden,Beman
-A. J. Gorden,A. M.
 A. J. Gorden,J. Roxburg
 A. J. Gorden,T. Pollock
 A. J. Gorden,James H. Gloucester
@@ -590,7 +582,6 @@ A. J. Gorden,James H. Fountain
 A. J. Gorden,Shelby
 A. J. Gorden,Warren
 A. J. Gorden,N. Y
-A. J. Gorden,Ezra R. Johnson
 A. J. Gorden,N. Gloucester
 A. J. Gorden,A. H. Yancy
 N. Y.,Henry Highland Garnit
@@ -689,7 +680,6 @@ N. Y.,C.B. Ray
 N. Y.,E.B. Dunlap
 N. Y.,J. Sharpe
 N. Y.,Wright
-N. Y.,N.W.
 N. Y.,Jones
 N. Y.,S.H. Davis
 N. Y.,J. H. Platt
@@ -773,7 +763,6 @@ N. Y.,Alton
 N. Y.,Banks
 N. Y.,Francis
 N. Y.,Beman
-N. Y.,A. M.
 N. Y.,J. Roxburg
 N. Y.,T. Pollock
 N. Y.,James H. Gloucester
@@ -786,7 +775,6 @@ N. Y.,James H. Fountain
 N. Y.,Shelby
 N. Y.,Warren
 N. Y.,N. Y
-N. Y.,Ezra R. Johnson
 N. Y.,N. Gloucester
 N. Y.,A. H. Yancy
 Henry Highland Garnit,Samuel H. Davis
@@ -884,7 +872,6 @@ Henry Highland Garnit,C.B. Ray
 Henry Highland Garnit,E.B. Dunlap
 Henry Highland Garnit,J. Sharpe
 Henry Highland Garnit,Wright
-Henry Highland Garnit,N.W.
 Henry Highland Garnit,Jones
 Henry Highland Garnit,S.H. Davis
 Henry Highland Garnit,J. H. Platt
@@ -968,7 +955,6 @@ Henry Highland Garnit,Alton
 Henry Highland Garnit,Banks
 Henry Highland Garnit,Francis
 Henry Highland Garnit,Beman
-Henry Highland Garnit,A. M.
 Henry Highland Garnit,J. Roxburg
 Henry Highland Garnit,T. Pollock
 Henry Highland Garnit,James H. Gloucester
@@ -981,7 +967,6 @@ Henry Highland Garnit,James H. Fountain
 Henry Highland Garnit,Shelby
 Henry Highland Garnit,Warren
 Henry Highland Garnit,N. Y
-Henry Highland Garnit,Ezra R. Johnson
 Henry Highland Garnit,N. Gloucester
 Henry Highland Garnit,A. H. Yancy
 Samuel H. Davis,James Fountain
@@ -1078,7 +1063,6 @@ Samuel H. Davis,C.B. Ray
 Samuel H. Davis,E.B. Dunlap
 Samuel H. Davis,J. Sharpe
 Samuel H. Davis,Wright
-Samuel H. Davis,N.W.
 Samuel H. Davis,Jones
 Samuel H. Davis,S.H. Davis
 Samuel H. Davis,J. H. Platt
@@ -1162,7 +1146,6 @@ Samuel H. Davis,Alton
 Samuel H. Davis,Banks
 Samuel H. Davis,Francis
 Samuel H. Davis,Beman
-Samuel H. Davis,A. M.
 Samuel H. Davis,J. Roxburg
 Samuel H. Davis,T. Pollock
 Samuel H. Davis,James H. Gloucester
@@ -1175,7 +1158,6 @@ Samuel H. Davis,James H. Fountain
 Samuel H. Davis,Shelby
 Samuel H. Davis,Warren
 Samuel H. Davis,N. Y
-Samuel H. Davis,Ezra R. Johnson
 Samuel H. Davis,N. Gloucester
 Samuel H. Davis,A. H. Yancy
 James Fountain,Davis
@@ -1271,7 +1253,6 @@ James Fountain,C.B. Ray
 James Fountain,E.B. Dunlap
 James Fountain,J. Sharpe
 James Fountain,Wright
-James Fountain,N.W.
 James Fountain,Jones
 James Fountain,S.H. Davis
 James Fountain,J. H. Platt
@@ -1355,7 +1336,6 @@ James Fountain,Alton
 James Fountain,Banks
 James Fountain,Francis
 James Fountain,Beman
-James Fountain,A. M.
 James Fountain,J. Roxburg
 James Fountain,T. Pollock
 James Fountain,James H. Gloucester
@@ -1368,7 +1348,6 @@ James Fountain,James H. Fountain
 James Fountain,Shelby
 James Fountain,Warren
 James Fountain,N. Y
-James Fountain,Ezra R. Johnson
 James Fountain,N. Gloucester
 James Fountain,A. H. Yancy
 Davis,Henry Thomas
@@ -1463,7 +1442,6 @@ Davis,C.B. Ray
 Davis,E.B. Dunlap
 Davis,J. Sharpe
 Davis,Wright
-Davis,N.W.
 Davis,Jones
 Davis,S.H. Davis
 Davis,J. H. Platt
@@ -1547,7 +1525,6 @@ Davis,Alton
 Davis,Banks
 Davis,Francis
 Davis,Beman
-Davis,A. M.
 Davis,J. Roxburg
 Davis,T. Pollock
 Davis,James H. Gloucester
@@ -1560,7 +1537,6 @@ Davis,James H. Fountain
 Davis,Shelby
 Davis,Warren
 Davis,N. Y
-Davis,Ezra R. Johnson
 Davis,N. Gloucester
 Davis,A. H. Yancy
 Henry Thomas,A.H. Francis
@@ -1654,7 +1630,6 @@ Henry Thomas,C.B. Ray
 Henry Thomas,E.B. Dunlap
 Henry Thomas,J. Sharpe
 Henry Thomas,Wright
-Henry Thomas,N.W.
 Henry Thomas,Jones
 Henry Thomas,S.H. Davis
 Henry Thomas,J. H. Platt
@@ -1738,7 +1713,6 @@ Henry Thomas,Alton
 Henry Thomas,Banks
 Henry Thomas,Francis
 Henry Thomas,Beman
-Henry Thomas,A. M.
 Henry Thomas,J. Roxburg
 Henry Thomas,T. Pollock
 Henry Thomas,James H. Gloucester
@@ -1751,7 +1725,6 @@ Henry Thomas,James H. Fountain
 Henry Thomas,Shelby
 Henry Thomas,Warren
 Henry Thomas,N. Y
-Henry Thomas,Ezra R. Johnson
 Henry Thomas,N. Gloucester
 Henry Thomas,A. H. Yancy
 A.H. Francis,J.H. Townsend
@@ -1844,7 +1817,6 @@ A.H. Francis,C.B. Ray
 A.H. Francis,E.B. Dunlap
 A.H. Francis,J. Sharpe
 A.H. Francis,Wright
-A.H. Francis,N.W.
 A.H. Francis,Jones
 A.H. Francis,S.H. Davis
 A.H. Francis,J. H. Platt
@@ -1928,7 +1900,6 @@ A.H. Francis,Alton
 A.H. Francis,Banks
 A.H. Francis,Francis
 A.H. Francis,Beman
-A.H. Francis,A. M.
 A.H. Francis,J. Roxburg
 A.H. Francis,T. Pollock
 A.H. Francis,James H. Gloucester
@@ -1941,7 +1912,6 @@ A.H. Francis,James H. Fountain
 A.H. Francis,Shelby
 A.H. Francis,Warren
 A.H. Francis,N. Y
-A.H. Francis,Ezra R. Johnson
 A.H. Francis,N. Gloucester
 A.H. Francis,A. H. Yancy
 J.H. Townsend,R. Allen
@@ -2033,7 +2003,6 @@ J.H. Townsend,C.B. Ray
 J.H. Townsend,E.B. Dunlap
 J.H. Townsend,J. Sharpe
 J.H. Townsend,Wright
-J.H. Townsend,N.W.
 J.H. Townsend,Jones
 J.H. Townsend,S.H. Davis
 J.H. Townsend,J. H. Platt
@@ -2117,7 +2086,6 @@ J.H. Townsend,Alton
 J.H. Townsend,Banks
 J.H. Townsend,Francis
 J.H. Townsend,Beman
-J.H. Townsend,A. M.
 J.H. Townsend,J. Roxburg
 J.H. Townsend,T. Pollock
 J.H. Townsend,James H. Gloucester
@@ -2130,7 +2098,6 @@ J.H. Townsend,James H. Fountain
 J.H. Townsend,Shelby
 J.H. Townsend,Warren
 J.H. Townsend,N. Y
-J.H. Townsend,Ezra R. Johnson
 J.H. Townsend,N. Gloucester
 J.H. Townsend,A. H. Yancy
 R. Allen,Ware
@@ -2221,7 +2188,6 @@ R. Allen,C.B. Ray
 R. Allen,E.B. Dunlap
 R. Allen,J. Sharpe
 R. Allen,Wright
-R. Allen,N.W.
 R. Allen,Jones
 R. Allen,S.H. Davis
 R. Allen,J. H. Platt
@@ -2305,7 +2271,6 @@ R. Allen,Alton
 R. Allen,Banks
 R. Allen,Francis
 R. Allen,Beman
-R. Allen,A. M.
 R. Allen,J. Roxburg
 R. Allen,T. Pollock
 R. Allen,James H. Gloucester
@@ -2318,7 +2283,6 @@ R. Allen,James H. Fountain
 R. Allen,Shelby
 R. Allen,Warren
 R. Allen,N. Y
-R. Allen,Ezra R. Johnson
 R. Allen,N. Gloucester
 R. Allen,A. H. Yancy
 Ware,J.W. Duffin
@@ -2408,7 +2372,6 @@ Ware,C.B. Ray
 Ware,E.B. Dunlap
 Ware,J. Sharpe
 Ware,Wright
-Ware,N.W.
 Ware,Jones
 Ware,S.H. Davis
 Ware,J. H. Platt
@@ -2492,7 +2455,6 @@ Ware,Alton
 Ware,Banks
 Ware,Francis
 Ware,Beman
-Ware,A. M.
 Ware,J. Roxburg
 Ware,T. Pollock
 Ware,James H. Gloucester
@@ -2505,7 +2467,6 @@ Ware,James H. Fountain
 Ware,Shelby
 Ware,Warren
 Ware,N. Y
-Ware,Ezra R. Johnson
 Ware,N. Gloucester
 Ware,A. H. Yancy
 J.W. Duffin,Robert Banks
@@ -2594,7 +2555,6 @@ J.W. Duffin,C.B. Ray
 J.W. Duffin,E.B. Dunlap
 J.W. Duffin,J. Sharpe
 J.W. Duffin,Wright
-J.W. Duffin,N.W.
 J.W. Duffin,Jones
 J.W. Duffin,S.H. Davis
 J.W. Duffin,J. H. Platt
@@ -2678,7 +2638,6 @@ J.W. Duffin,Alton
 J.W. Duffin,Banks
 J.W. Duffin,Francis
 J.W. Duffin,Beman
-J.W. Duffin,A. M.
 J.W. Duffin,J. Roxburg
 J.W. Duffin,T. Pollock
 J.W. Duffin,James H. Gloucester
@@ -2691,7 +2650,6 @@ J.W. Duffin,James H. Fountain
 J.W. Duffin,Shelby
 J.W. Duffin,Warren
 J.W. Duffin,N. Y
-J.W. Duffin,Ezra R. Johnson
 J.W. Duffin,N. Gloucester
 J.W. Duffin,A. H. Yancy
 Robert Banks,F. Douglass
@@ -2779,7 +2737,6 @@ Robert Banks,C.B. Ray
 Robert Banks,E.B. Dunlap
 Robert Banks,J. Sharpe
 Robert Banks,Wright
-Robert Banks,N.W.
 Robert Banks,Jones
 Robert Banks,S.H. Davis
 Robert Banks,J. H. Platt
@@ -2863,7 +2820,6 @@ Robert Banks,Alton
 Robert Banks,Banks
 Robert Banks,Francis
 Robert Banks,Beman
-Robert Banks,A. M.
 Robert Banks,J. Roxburg
 Robert Banks,T. Pollock
 Robert Banks,James H. Gloucester
@@ -2876,7 +2832,6 @@ Robert Banks,James H. Fountain
 Robert Banks,Shelby
 Robert Banks,Warren
 Robert Banks,N. Y
-Robert Banks,Ezra R. Johnson
 Robert Banks,N. Gloucester
 Robert Banks,A. H. Yancy
 F. Douglass,D. Lewis
@@ -2963,7 +2918,6 @@ F. Douglass,C.B. Ray
 F. Douglass,E.B. Dunlap
 F. Douglass,J. Sharpe
 F. Douglass,Wright
-F. Douglass,N.W.
 F. Douglass,Jones
 F. Douglass,S.H. Davis
 F. Douglass,J. H. Platt
@@ -3047,7 +3001,6 @@ F. Douglass,Alton
 F. Douglass,Banks
 F. Douglass,Francis
 F. Douglass,Beman
-F. Douglass,A. M.
 F. Douglass,J. Roxburg
 F. Douglass,T. Pollock
 F. Douglass,James H. Gloucester
@@ -3060,7 +3013,6 @@ F. Douglass,James H. Fountain
 F. Douglass,Shelby
 F. Douglass,Warren
 F. Douglass,N. Y
-F. Douglass,Ezra R. Johnson
 F. Douglass,N. Gloucester
 F. Douglass,A. H. Yancy
 D. Lewis,N. W. Jones
@@ -3146,7 +3098,6 @@ D. Lewis,C.B. Ray
 D. Lewis,E.B. Dunlap
 D. Lewis,J. Sharpe
 D. Lewis,Wright
-D. Lewis,N.W.
 D. Lewis,Jones
 D. Lewis,S.H. Davis
 D. Lewis,J. H. Platt
@@ -3230,7 +3181,6 @@ D. Lewis,Alton
 D. Lewis,Banks
 D. Lewis,Francis
 D. Lewis,Beman
-D. Lewis,A. M.
 D. Lewis,J. Roxburg
 D. Lewis,T. Pollock
 D. Lewis,James H. Gloucester
@@ -3243,7 +3193,6 @@ D. Lewis,James H. Fountain
 D. Lewis,Shelby
 D. Lewis,Warren
 D. Lewis,N. Y
-D. Lewis,Ezra R. Johnson
 D. Lewis,N. Gloucester
 D. Lewis,A. H. Yancy
 N. W. Jones,W. W. Brown
@@ -3328,7 +3277,6 @@ N. W. Jones,C.B. Ray
 N. W. Jones,E.B. Dunlap
 N. W. Jones,J. Sharpe
 N. W. Jones,Wright
-N. W. Jones,N.W.
 N. W. Jones,Jones
 N. W. Jones,S.H. Davis
 N. W. Jones,J. H. Platt
@@ -3412,7 +3360,6 @@ N. W. Jones,Alton
 N. W. Jones,Banks
 N. W. Jones,Francis
 N. W. Jones,Beman
-N. W. Jones,A. M.
 N. W. Jones,J. Roxburg
 N. W. Jones,T. Pollock
 N. W. Jones,James H. Gloucester
@@ -3425,7 +3372,6 @@ N. W. Jones,James H. Fountain
 N. W. Jones,Shelby
 N. W. Jones,Warren
 N. W. Jones,N. Y
-N. W. Jones,Ezra R. Johnson
 N. W. Jones,N. Gloucester
 N. W. Jones,A. H. Yancy
 W. W. Brown,Chas
@@ -3509,7 +3455,6 @@ W. W. Brown,C.B. Ray
 W. W. Brown,E.B. Dunlap
 W. W. Brown,J. Sharpe
 W. W. Brown,Wright
-W. W. Brown,N.W.
 W. W. Brown,Jones
 W. W. Brown,S.H. Davis
 W. W. Brown,J. H. Platt
@@ -3593,7 +3538,6 @@ W. W. Brown,Alton
 W. W. Brown,Banks
 W. W. Brown,Francis
 W. W. Brown,Beman
-W. W. Brown,A. M.
 W. W. Brown,J. Roxburg
 W. W. Brown,T. Pollock
 W. W. Brown,James H. Gloucester
@@ -3606,7 +3550,6 @@ W. W. Brown,James H. Fountain
 W. W. Brown,Shelby
 W. W. Brown,Warren
 W. W. Brown,N. Y
-W. W. Brown,Ezra R. Johnson
 W. W. Brown,N. Gloucester
 W. W. Brown,A. H. Yancy
 Chas,B. Ray
@@ -3689,7 +3632,6 @@ Chas,C.B. Ray
 Chas,E.B. Dunlap
 Chas,J. Sharpe
 Chas,Wright
-Chas,N.W.
 Chas,Jones
 Chas,S.H. Davis
 Chas,J. H. Platt
@@ -3773,7 +3715,6 @@ Chas,Alton
 Chas,Banks
 Chas,Francis
 Chas,Beman
-Chas,A. M.
 Chas,J. Roxburg
 Chas,T. Pollock
 Chas,James H. Gloucester
@@ -3786,7 +3727,6 @@ Chas,James H. Fountain
 Chas,Shelby
 Chas,Warren
 Chas,N. Y
-Chas,Ezra R. Johnson
 Chas,N. Gloucester
 Chas,A. H. Yancy
 B. Ray,H. H. Garnit
@@ -3868,7 +3808,6 @@ B. Ray,C.B. Ray
 B. Ray,E.B. Dunlap
 B. Ray,J. Sharpe
 B. Ray,Wright
-B. Ray,N.W.
 B. Ray,Jones
 B. Ray,S.H. Davis
 B. Ray,J. H. Platt
@@ -3952,7 +3891,6 @@ B. Ray,Alton
 B. Ray,Banks
 B. Ray,Francis
 B. Ray,Beman
-B. Ray,A. M.
 B. Ray,J. Roxburg
 B. Ray,T. Pollock
 B. Ray,James H. Gloucester
@@ -3965,7 +3903,6 @@ B. Ray,James H. Fountain
 B. Ray,Shelby
 B. Ray,Warren
 B. Ray,N. Y
-B. Ray,Ezra R. Johnson
 B. Ray,N. Gloucester
 B. Ray,A. H. Yancy
 H. H. Garnit,R. Francis
@@ -4046,7 +3983,6 @@ H. H. Garnit,C.B. Ray
 H. H. Garnit,E.B. Dunlap
 H. H. Garnit,J. Sharpe
 H. H. Garnit,Wright
-H. H. Garnit,N.W.
 H. H. Garnit,Jones
 H. H. Garnit,S.H. Davis
 H. H. Garnit,J. H. Platt
@@ -4130,7 +4066,6 @@ H. H. Garnit,Alton
 H. H. Garnit,Banks
 H. H. Garnit,Francis
 H. H. Garnit,Beman
-H. H. Garnit,A. M.
 H. H. Garnit,J. Roxburg
 H. H. Garnit,T. Pollock
 H. H. Garnit,James H. Gloucester
@@ -4143,7 +4078,6 @@ H. H. Garnit,James H. Fountain
 H. H. Garnit,Shelby
 H. H. Garnit,Warren
 H. H. Garnit,N. Y
-H. H. Garnit,Ezra R. Johnson
 H. H. Garnit,N. Gloucester
 H. H. Garnit,A. H. Yancy
 R. Francis,Charles B. Ray
@@ -4223,7 +4157,6 @@ R. Francis,C.B. Ray
 R. Francis,E.B. Dunlap
 R. Francis,J. Sharpe
 R. Francis,Wright
-R. Francis,N.W.
 R. Francis,Jones
 R. Francis,S.H. Davis
 R. Francis,J. H. Platt
@@ -4307,7 +4240,6 @@ R. Francis,Alton
 R. Francis,Banks
 R. Francis,Francis
 R. Francis,Beman
-R. Francis,A. M.
 R. Francis,J. Roxburg
 R. Francis,T. Pollock
 R. Francis,James H. Gloucester
@@ -4320,7 +4252,6 @@ R. Francis,James H. Fountain
 R. Francis,Shelby
 R. Francis,Warren
 R. Francis,N. Y
-R. Francis,Ezra R. Johnson
 R. Francis,N. Gloucester
 R. Francis,A. H. Yancy
 Charles B. Ray,Frederic Douglass
@@ -4399,7 +4330,6 @@ Charles B. Ray,C.B. Ray
 Charles B. Ray,E.B. Dunlap
 Charles B. Ray,J. Sharpe
 Charles B. Ray,Wright
-Charles B. Ray,N.W.
 Charles B. Ray,Jones
 Charles B. Ray,S.H. Davis
 Charles B. Ray,J. H. Platt
@@ -4483,7 +4413,6 @@ Charles B. Ray,Alton
 Charles B. Ray,Banks
 Charles B. Ray,Francis
 Charles B. Ray,Beman
-Charles B. Ray,A. M.
 Charles B. Ray,J. Roxburg
 Charles B. Ray,T. Pollock
 Charles B. Ray,James H. Gloucester
@@ -4496,7 +4425,6 @@ Charles B. Ray,James H. Fountain
 Charles B. Ray,Shelby
 Charles B. Ray,Warren
 Charles B. Ray,N. Y
-Charles B. Ray,Ezra R. Johnson
 Charles B. Ray,N. Gloucester
 Charles B. Ray,A. H. Yancy
 Frederic Douglass,C.L. Remond
@@ -4574,7 +4502,6 @@ Frederic Douglass,C.B. Ray
 Frederic Douglass,E.B. Dunlap
 Frederic Douglass,J. Sharpe
 Frederic Douglass,Wright
-Frederic Douglass,N.W.
 Frederic Douglass,Jones
 Frederic Douglass,S.H. Davis
 Frederic Douglass,J. H. Platt
@@ -4658,7 +4585,6 @@ Frederic Douglass,Alton
 Frederic Douglass,Banks
 Frederic Douglass,Francis
 Frederic Douglass,Beman
-Frederic Douglass,A. M.
 Frederic Douglass,J. Roxburg
 Frederic Douglass,T. Pollock
 Frederic Douglass,James H. Gloucester
@@ -4671,7 +4597,6 @@ Frederic Douglass,James H. Fountain
 Frederic Douglass,Shelby
 Frederic Douglass,Warren
 Frederic Douglass,N. Y
-Frederic Douglass,Ezra R. Johnson
 Frederic Douglass,N. Gloucester
 Frederic Douglass,A. H. Yancy
 C.L. Remond,A.G. Beman
@@ -4748,7 +4673,6 @@ C.L. Remond,C.B. Ray
 C.L. Remond,E.B. Dunlap
 C.L. Remond,J. Sharpe
 C.L. Remond,Wright
-C.L. Remond,N.W.
 C.L. Remond,Jones
 C.L. Remond,S.H. Davis
 C.L. Remond,J. H. Platt
@@ -4832,7 +4756,6 @@ C.L. Remond,Alton
 C.L. Remond,Banks
 C.L. Remond,Francis
 C.L. Remond,Beman
-C.L. Remond,A. M.
 C.L. Remond,J. Roxburg
 C.L. Remond,T. Pollock
 C.L. Remond,James H. Gloucester
@@ -4845,7 +4768,6 @@ C.L. Remond,James H. Fountain
 C.L. Remond,Shelby
 C.L. Remond,Warren
 C.L. Remond,N. Y
-C.L. Remond,Ezra R. Johnson
 C.L. Remond,N. Gloucester
 C.L. Remond,A. H. Yancy
 A.G. Beman,Amos G. Beman
@@ -4921,7 +4843,6 @@ A.G. Beman,C.B. Ray
 A.G. Beman,E.B. Dunlap
 A.G. Beman,J. Sharpe
 A.G. Beman,Wright
-A.G. Beman,N.W.
 A.G. Beman,Jones
 A.G. Beman,S.H. Davis
 A.G. Beman,J. H. Platt
@@ -5005,7 +4926,6 @@ A.G. Beman,Alton
 A.G. Beman,Banks
 A.G. Beman,Francis
 A.G. Beman,Beman
-A.G. Beman,A. M.
 A.G. Beman,J. Roxburg
 A.G. Beman,T. Pollock
 A.G. Beman,James H. Gloucester
@@ -5018,7 +4938,6 @@ A.G. Beman,James H. Fountain
 A.G. Beman,Shelby
 A.G. Beman,Warren
 A.G. Beman,N. Y
-A.G. Beman,Ezra R. Johnson
 A.G. Beman,N. Gloucester
 A.G. Beman,A. H. Yancy
 Amos G. Beman,F. Piere
@@ -5093,7 +5012,6 @@ Amos G. Beman,C.B. Ray
 Amos G. Beman,E.B. Dunlap
 Amos G. Beman,J. Sharpe
 Amos G. Beman,Wright
-Amos G. Beman,N.W.
 Amos G. Beman,Jones
 Amos G. Beman,S.H. Davis
 Amos G. Beman,J. H. Platt
@@ -5177,7 +5095,6 @@ Amos G. Beman,Alton
 Amos G. Beman,Banks
 Amos G. Beman,Francis
 Amos G. Beman,Beman
-Amos G. Beman,A. M.
 Amos G. Beman,J. Roxburg
 Amos G. Beman,T. Pollock
 Amos G. Beman,James H. Gloucester
@@ -5190,7 +5107,6 @@ Amos G. Beman,James H. Fountain
 Amos G. Beman,Shelby
 Amos G. Beman,Warren
 Amos G. Beman,N. Y
-Amos G. Beman,Ezra R. Johnson
 Amos G. Beman,N. Gloucester
 Amos G. Beman,A. H. Yancy
 F. Piere,W. W. Matthews
@@ -5264,7 +5180,6 @@ F. Piere,C.B. Ray
 F. Piere,E.B. Dunlap
 F. Piere,J. Sharpe
 F. Piere,Wright
-F. Piere,N.W.
 F. Piere,Jones
 F. Piere,S.H. Davis
 F. Piere,J. H. Platt
@@ -5348,7 +5263,6 @@ F. Piere,Alton
 F. Piere,Banks
 F. Piere,Francis
 F. Piere,Beman
-F. Piere,A. M.
 F. Piere,J. Roxburg
 F. Piere,T. Pollock
 F. Piere,James H. Gloucester
@@ -5361,7 +5275,6 @@ F. Piere,James H. Fountain
 F. Piere,Shelby
 F. Piere,Warren
 F. Piere,N. Y
-F. Piere,Ezra R. Johnson
 F. Piere,N. Gloucester
 F. Piere,A. H. Yancy
 W. W. Matthews,H. Johnson
@@ -5434,7 +5347,6 @@ W. W. Matthews,C.B. Ray
 W. W. Matthews,E.B. Dunlap
 W. W. Matthews,J. Sharpe
 W. W. Matthews,Wright
-W. W. Matthews,N.W.
 W. W. Matthews,Jones
 W. W. Matthews,S.H. Davis
 W. W. Matthews,J. H. Platt
@@ -5518,7 +5430,6 @@ W. W. Matthews,Alton
 W. W. Matthews,Banks
 W. W. Matthews,Francis
 W. W. Matthews,Beman
-W. W. Matthews,A. M.
 W. W. Matthews,J. Roxburg
 W. W. Matthews,T. Pollock
 W. W. Matthews,James H. Gloucester
@@ -5531,7 +5442,6 @@ W. W. Matthews,James H. Fountain
 W. W. Matthews,Shelby
 W. W. Matthews,Warren
 W. W. Matthews,N. Y
-W. W. Matthews,Ezra R. Johnson
 W. W. Matthews,N. Gloucester
 W. W. Matthews,A. H. Yancy
 H. Johnson,W. Duffin
@@ -5603,7 +5513,6 @@ H. Johnson,C.B. Ray
 H. Johnson,E.B. Dunlap
 H. Johnson,J. Sharpe
 H. Johnson,Wright
-H. Johnson,N.W.
 H. Johnson,Jones
 H. Johnson,S.H. Davis
 H. Johnson,J. H. Platt
@@ -5687,7 +5596,6 @@ H. Johnson,Alton
 H. Johnson,Banks
 H. Johnson,Francis
 H. Johnson,Beman
-H. Johnson,A. M.
 H. Johnson,J. Roxburg
 H. Johnson,T. Pollock
 H. Johnson,James H. Gloucester
@@ -5700,7 +5608,6 @@ H. Johnson,James H. Fountain
 H. Johnson,Shelby
 H. Johnson,Warren
 H. Johnson,N. Y
-H. Johnson,Ezra R. Johnson
 H. Johnson,N. Gloucester
 H. Johnson,A. H. Yancy
 W. Duffin,A. H. Francis
@@ -5771,7 +5678,6 @@ W. Duffin,C.B. Ray
 W. Duffin,E.B. Dunlap
 W. Duffin,J. Sharpe
 W. Duffin,Wright
-W. Duffin,N.W.
 W. Duffin,Jones
 W. Duffin,S.H. Davis
 W. Duffin,J. H. Platt
@@ -5855,7 +5761,6 @@ W. Duffin,Alton
 W. Duffin,Banks
 W. Duffin,Francis
 W. Duffin,Beman
-W. Duffin,A. M.
 W. Duffin,J. Roxburg
 W. Duffin,T. Pollock
 W. Duffin,James H. Gloucester
@@ -5868,7 +5773,6 @@ W. Duffin,James H. Fountain
 W. Duffin,Shelby
 W. Duffin,Warren
 W. Duffin,N. Y
-W. Duffin,Ezra R. Johnson
 W. Duffin,N. Gloucester
 W. Duffin,A. H. Yancy
 A. H. Francis,David Lewis
@@ -5938,7 +5842,6 @@ A. H. Francis,C.B. Ray
 A. H. Francis,E.B. Dunlap
 A. H. Francis,J. Sharpe
 A. H. Francis,Wright
-A. H. Francis,N.W.
 A. H. Francis,Jones
 A. H. Francis,S.H. Davis
 A. H. Francis,J. H. Platt
@@ -6022,7 +5925,6 @@ A. H. Francis,Alton
 A. H. Francis,Banks
 A. H. Francis,Francis
 A. H. Francis,Beman
-A. H. Francis,A. M.
 A. H. Francis,J. Roxburg
 A. H. Francis,T. Pollock
 A. H. Francis,James H. Gloucester
@@ -6035,7 +5937,6 @@ A. H. Francis,James H. Fountain
 A. H. Francis,Shelby
 A. H. Francis,Warren
 A. H. Francis,N. Y
-A. H. Francis,Ezra R. Johnson
 A. H. Francis,N. Gloucester
 A. H. Francis,A. H. Yancy
 David Lewis,C. Lennox Remond
@@ -6104,7 +6005,6 @@ David Lewis,C.B. Ray
 David Lewis,E.B. Dunlap
 David Lewis,J. Sharpe
 David Lewis,Wright
-David Lewis,N.W.
 David Lewis,Jones
 David Lewis,S.H. Davis
 David Lewis,J. H. Platt
@@ -6188,7 +6088,6 @@ David Lewis,Alton
 David Lewis,Banks
 David Lewis,Francis
 David Lewis,Beman
-David Lewis,A. M.
 David Lewis,J. Roxburg
 David Lewis,T. Pollock
 David Lewis,James H. Gloucester
@@ -6201,7 +6100,6 @@ David Lewis,James H. Fountain
 David Lewis,Shelby
 David Lewis,Warren
 David Lewis,N. Y
-David Lewis,Ezra R. Johnson
 David Lewis,N. Gloucester
 David Lewis,A. H. Yancy
 C. Lennox Remond,M. C. Munro
@@ -6269,7 +6167,6 @@ C. Lennox Remond,C.B. Ray
 C. Lennox Remond,E.B. Dunlap
 C. Lennox Remond,J. Sharpe
 C. Lennox Remond,Wright
-C. Lennox Remond,N.W.
 C. Lennox Remond,Jones
 C. Lennox Remond,S.H. Davis
 C. Lennox Remond,J. H. Platt
@@ -6353,7 +6250,6 @@ C. Lennox Remond,Alton
 C. Lennox Remond,Banks
 C. Lennox Remond,Francis
 C. Lennox Remond,Beman
-C. Lennox Remond,A. M.
 C. Lennox Remond,J. Roxburg
 C. Lennox Remond,T. Pollock
 C. Lennox Remond,James H. Gloucester
@@ -6366,7 +6262,6 @@ C. Lennox Remond,James H. Fountain
 C. Lennox Remond,Shelby
 C. Lennox Remond,Warren
 C. Lennox Remond,N. Y
-C. Lennox Remond,Ezra R. Johnson
 C. Lennox Remond,N. Gloucester
 C. Lennox Remond,A. H. Yancy
 M. C. Munro,Townsend
@@ -6433,7 +6328,6 @@ M. C. Munro,C.B. Ray
 M. C. Munro,E.B. Dunlap
 M. C. Munro,J. Sharpe
 M. C. Munro,Wright
-M. C. Munro,N.W.
 M. C. Munro,Jones
 M. C. Munro,S.H. Davis
 M. C. Munro,J. H. Platt
@@ -6517,7 +6411,6 @@ M. C. Munro,Alton
 M. C. Munro,Banks
 M. C. Munro,Francis
 M. C. Munro,Beman
-M. C. Munro,A. M.
 M. C. Munro,J. Roxburg
 M. C. Munro,T. Pollock
 M. C. Munro,James H. Gloucester
@@ -6530,7 +6423,6 @@ M. C. Munro,James H. Fountain
 M. C. Munro,Shelby
 M. C. Munro,Warren
 M. C. Munro,N. Y
-M. C. Munro,Ezra R. Johnson
 M. C. Munro,N. Gloucester
 M. C. Munro,A. H. Yancy
 Townsend,N. W.Jones
@@ -6596,7 +6488,6 @@ Townsend,C.B. Ray
 Townsend,E.B. Dunlap
 Townsend,J. Sharpe
 Townsend,Wright
-Townsend,N.W.
 Townsend,Jones
 Townsend,S.H. Davis
 Townsend,J. H. Platt
@@ -6680,7 +6571,6 @@ Townsend,Alton
 Townsend,Banks
 Townsend,Francis
 Townsend,Beman
-Townsend,A. M.
 Townsend,J. Roxburg
 Townsend,T. Pollock
 Townsend,James H. Gloucester
@@ -6693,7 +6583,6 @@ Townsend,James H. Fountain
 Townsend,Shelby
 Townsend,Warren
 Townsend,N. Y
-Townsend,Ezra R. Johnson
 Townsend,N. Gloucester
 Townsend,A. H. Yancy
 N. W.Jones,Weir
@@ -6758,7 +6647,6 @@ N. W.Jones,C.B. Ray
 N. W.Jones,E.B. Dunlap
 N. W.Jones,J. Sharpe
 N. W.Jones,Wright
-N. W.Jones,N.W.
 N. W.Jones,Jones
 N. W.Jones,S.H. Davis
 N. W.Jones,J. H. Platt
@@ -6842,7 +6730,6 @@ N. W.Jones,Alton
 N. W.Jones,Banks
 N. W.Jones,Francis
 N. W.Jones,Beman
-N. W.Jones,A. M.
 N. W.Jones,J. Roxburg
 N. W.Jones,T. Pollock
 N. W.Jones,James H. Gloucester
@@ -6855,7 +6742,6 @@ N. W.Jones,James H. Fountain
 N. W.Jones,Shelby
 N. W.Jones,Warren
 N. W.Jones,N. Y
-N. W.Jones,Ezra R. Johnson
 N. W.Jones,N. Gloucester
 N. W.Jones,A. H. Yancy
 Weir,Morris
@@ -6919,7 +6805,6 @@ Weir,C.B. Ray
 Weir,E.B. Dunlap
 Weir,J. Sharpe
 Weir,Wright
-Weir,N.W.
 Weir,Jones
 Weir,S.H. Davis
 Weir,J. H. Platt
@@ -7003,7 +6888,6 @@ Weir,Alton
 Weir,Banks
 Weir,Francis
 Weir,Beman
-Weir,A. M.
 Weir,J. Roxburg
 Weir,T. Pollock
 Weir,James H. Gloucester
@@ -7016,7 +6900,6 @@ Weir,James H. Fountain
 Weir,Shelby
 Weir,Warren
 Weir,N. Y
-Weir,Ezra R. Johnson
 Weir,N. Gloucester
 Weir,A. H. Yancy
 Morris,C. B. Ray
@@ -7079,7 +6962,6 @@ Morris,C.B. Ray
 Morris,E.B. Dunlap
 Morris,J. Sharpe
 Morris,Wright
-Morris,N.W.
 Morris,Jones
 Morris,S.H. Davis
 Morris,J. H. Platt
@@ -7163,7 +7045,6 @@ Morris,Alton
 Morris,Banks
 Morris,Francis
 Morris,Beman
-Morris,A. M.
 Morris,J. Roxburg
 Morris,T. Pollock
 Morris,James H. Gloucester
@@ -7176,7 +7057,6 @@ Morris,James H. Fountain
 Morris,Shelby
 Morris,Warren
 Morris,N. Y
-Morris,Ezra R. Johnson
 Morris,N. Gloucester
 Morris,A. H. Yancy
 C. B. Ray,C. L. Remond
@@ -7238,7 +7118,6 @@ C. B. Ray,C.B. Ray
 C. B. Ray,E.B. Dunlap
 C. B. Ray,J. Sharpe
 C. B. Ray,Wright
-C. B. Ray,N.W.
 C. B. Ray,Jones
 C. B. Ray,S.H. Davis
 C. B. Ray,J. H. Platt
@@ -7322,7 +7201,6 @@ C. B. Ray,Alton
 C. B. Ray,Banks
 C. B. Ray,Francis
 C. B. Ray,Beman
-C. B. Ray,A. M.
 C. B. Ray,J. Roxburg
 C. B. Ray,T. Pollock
 C. B. Ray,James H. Gloucester
@@ -7335,7 +7213,6 @@ C. B. Ray,James H. Fountain
 C. B. Ray,Shelby
 C. B. Ray,Warren
 C. B. Ray,N. Y
-C. B. Ray,Ezra R. Johnson
 C. B. Ray,N. Gloucester
 C. B. Ray,A. H. Yancy
 C. L. Remond,James N. Gloucester
@@ -7396,7 +7273,6 @@ C. L. Remond,C.B. Ray
 C. L. Remond,E.B. Dunlap
 C. L. Remond,J. Sharpe
 C. L. Remond,Wright
-C. L. Remond,N.W.
 C. L. Remond,Jones
 C. L. Remond,S.H. Davis
 C. L. Remond,J. H. Platt
@@ -7480,7 +7356,6 @@ C. L. Remond,Alton
 C. L. Remond,Banks
 C. L. Remond,Francis
 C. L. Remond,Beman
-C. L. Remond,A. M.
 C. L. Remond,J. Roxburg
 C. L. Remond,T. Pollock
 C. L. Remond,James H. Gloucester
@@ -7493,7 +7368,6 @@ C. L. Remond,James H. Fountain
 C. L. Remond,Shelby
 C. L. Remond,Warren
 C. L. Remond,N. Y
-C. L. Remond,Ezra R. Johnson
 C. L. Remond,N. Gloucester
 C. L. Remond,A. H. Yancy
 James N. Gloucester,Fred
@@ -7553,7 +7427,6 @@ James N. Gloucester,C.B. Ray
 James N. Gloucester,E.B. Dunlap
 James N. Gloucester,J. Sharpe
 James N. Gloucester,Wright
-James N. Gloucester,N.W.
 James N. Gloucester,Jones
 James N. Gloucester,S.H. Davis
 James N. Gloucester,J. H. Platt
@@ -7637,7 +7510,6 @@ James N. Gloucester,Alton
 James N. Gloucester,Banks
 James N. Gloucester,Francis
 James N. Gloucester,Beman
-James N. Gloucester,A. M.
 James N. Gloucester,J. Roxburg
 James N. Gloucester,T. Pollock
 James N. Gloucester,James H. Gloucester
@@ -7650,7 +7522,6 @@ James N. Gloucester,James H. Fountain
 James N. Gloucester,Shelby
 James N. Gloucester,Warren
 James N. Gloucester,N. Y
-James N. Gloucester,Ezra R. Johnson
 James N. Gloucester,N. Gloucester
 James N. Gloucester,A. H. Yancy
 Fred,Douglass
@@ -7709,7 +7580,6 @@ Fred,C.B. Ray
 Fred,E.B. Dunlap
 Fred,J. Sharpe
 Fred,Wright
-Fred,N.W.
 Fred,Jones
 Fred,S.H. Davis
 Fred,J. H. Platt
@@ -7793,7 +7663,6 @@ Fred,Alton
 Fred,Banks
 Fred,Francis
 Fred,Beman
-Fred,A. M.
 Fred,J. Roxburg
 Fred,T. Pollock
 Fred,James H. Gloucester
@@ -7806,7 +7675,6 @@ Fred,James H. Fountain
 Fred,Shelby
 Fred,Warren
 Fred,N. Y
-Fred,Ezra R. Johnson
 Fred,N. Gloucester
 Fred,A. H. Yancy
 Douglass,A. G. Beman
@@ -7864,7 +7732,6 @@ Douglass,C.B. Ray
 Douglass,E.B. Dunlap
 Douglass,J. Sharpe
 Douglass,Wright
-Douglass,N.W.
 Douglass,Jones
 Douglass,S.H. Davis
 Douglass,J. H. Platt
@@ -7948,7 +7815,6 @@ Douglass,Alton
 Douglass,Banks
 Douglass,Francis
 Douglass,Beman
-Douglass,A. M.
 Douglass,J. Roxburg
 Douglass,T. Pollock
 Douglass,James H. Gloucester
@@ -7961,7 +7827,6 @@ Douglass,James H. Fountain
 Douglass,Shelby
 Douglass,Warren
 Douglass,N. Y
-Douglass,Ezra R. Johnson
 Douglass,N. Gloucester
 Douglass,A. H. Yancy
 A. G. Beman,N. Y. City
@@ -8018,7 +7883,6 @@ A. G. Beman,C.B. Ray
 A. G. Beman,E.B. Dunlap
 A. G. Beman,J. Sharpe
 A. G. Beman,Wright
-A. G. Beman,N.W.
 A. G. Beman,Jones
 A. G. Beman,S.H. Davis
 A. G. Beman,J. H. Platt
@@ -8102,7 +7966,6 @@ A. G. Beman,Alton
 A. G. Beman,Banks
 A. G. Beman,Francis
 A. G. Beman,Beman
-A. G. Beman,A. M.
 A. G. Beman,J. Roxburg
 A. G. Beman,T. Pollock
 A. G. Beman,James H. Gloucester
@@ -8115,7 +7978,6 @@ A. G. Beman,James H. Fountain
 A. G. Beman,Shelby
 A. G. Beman,Warren
 A. G. Beman,N. Y
-A. G. Beman,Ezra R. Johnson
 A. G. Beman,N. Gloucester
 A. G. Beman,A. H. Yancy
 N. Y. City,J. H. Townsend
@@ -8171,7 +8033,6 @@ N. Y. City,C.B. Ray
 N. Y. City,E.B. Dunlap
 N. Y. City,J. Sharpe
 N. Y. City,Wright
-N. Y. City,N.W.
 N. Y. City,Jones
 N. Y. City,S.H. Davis
 N. Y. City,J. H. Platt
@@ -8255,7 +8116,6 @@ N. Y. City,Alton
 N. Y. City,Banks
 N. Y. City,Francis
 N. Y. City,Beman
-N. Y. City,A. M.
 N. Y. City,J. Roxburg
 N. Y. City,T. Pollock
 N. Y. City,James H. Gloucester
@@ -8268,7 +8128,6 @@ N. Y. City,James H. Fountain
 N. Y. City,Shelby
 N. Y. City,Warren
 N. Y. City,N. Y
-N. Y. City,Ezra R. Johnson
 N. Y. City,N. Gloucester
 N. Y. City,A. H. Yancy
 J. H. Townsend,Wm. P. Mcintire
@@ -8323,7 +8182,6 @@ J. H. Townsend,C.B. Ray
 J. H. Townsend,E.B. Dunlap
 J. H. Townsend,J. Sharpe
 J. H. Townsend,Wright
-J. H. Townsend,N.W.
 J. H. Townsend,Jones
 J. H. Townsend,S.H. Davis
 J. H. Townsend,J. H. Platt
@@ -8407,7 +8265,6 @@ J. H. Townsend,Alton
 J. H. Townsend,Banks
 J. H. Townsend,Francis
 J. H. Townsend,Beman
-J. H. Townsend,A. M.
 J. H. Townsend,J. Roxburg
 J. H. Townsend,T. Pollock
 J. H. Townsend,James H. Gloucester
@@ -8420,7 +8277,6 @@ J. H. Townsend,James H. Fountain
 J. H. Townsend,Shelby
 J. H. Townsend,Warren
 J. H. Townsend,N. Y
-J. H. Townsend,Ezra R. Johnson
 J. H. Townsend,N. Gloucester
 J. H. Townsend,A. H. Yancy
 Wm. P. Mcintire,John Wendall
@@ -8474,7 +8330,6 @@ Wm. P. Mcintire,C.B. Ray
 Wm. P. Mcintire,E.B. Dunlap
 Wm. P. Mcintire,J. Sharpe
 Wm. P. Mcintire,Wright
-Wm. P. Mcintire,N.W.
 Wm. P. Mcintire,Jones
 Wm. P. Mcintire,S.H. Davis
 Wm. P. Mcintire,J. H. Platt
@@ -8558,7 +8413,6 @@ Wm. P. Mcintire,Alton
 Wm. P. Mcintire,Banks
 Wm. P. Mcintire,Francis
 Wm. P. Mcintire,Beman
-Wm. P. Mcintire,A. M.
 Wm. P. Mcintire,J. Roxburg
 Wm. P. Mcintire,T. Pollock
 Wm. P. Mcintire,James H. Gloucester
@@ -8571,7 +8425,6 @@ Wm. P. Mcintire,James H. Fountain
 Wm. P. Mcintire,Shelby
 Wm. P. Mcintire,Warren
 Wm. P. Mcintire,N. Y
-Wm. P. Mcintire,Ezra R. Johnson
 Wm. P. Mcintire,N. Gloucester
 Wm. P. Mcintire,A. H. Yancy
 John Wendall,T. Woodson
@@ -8624,7 +8477,6 @@ John Wendall,C.B. Ray
 John Wendall,E.B. Dunlap
 John Wendall,J. Sharpe
 John Wendall,Wright
-John Wendall,N.W.
 John Wendall,Jones
 John Wendall,S.H. Davis
 John Wendall,J. H. Platt
@@ -8708,7 +8560,6 @@ John Wendall,Alton
 John Wendall,Banks
 John Wendall,Francis
 John Wendall,Beman
-John Wendall,A. M.
 John Wendall,J. Roxburg
 John Wendall,T. Pollock
 John Wendall,James H. Gloucester
@@ -8721,7 +8572,6 @@ John Wendall,James H. Fountain
 John Wendall,Shelby
 John Wendall,Warren
 John Wendall,N. Y
-John Wendall,Ezra R. Johnson
 John Wendall,N. Gloucester
 John Wendall,A. H. Yancy
 T. Woodson,B. S. Anderson
@@ -8773,7 +8623,6 @@ T. Woodson,C.B. Ray
 T. Woodson,E.B. Dunlap
 T. Woodson,J. Sharpe
 T. Woodson,Wright
-T. Woodson,N.W.
 T. Woodson,Jones
 T. Woodson,S.H. Davis
 T. Woodson,J. H. Platt
@@ -8857,7 +8706,6 @@ T. Woodson,Alton
 T. Woodson,Banks
 T. Woodson,Francis
 T. Woodson,Beman
-T. Woodson,A. M.
 T. Woodson,J. Roxburg
 T. Woodson,T. Pollock
 T. Woodson,James H. Gloucester
@@ -8870,7 +8718,6 @@ T. Woodson,James H. Fountain
 T. Woodson,Shelby
 T. Woodson,Warren
 T. Woodson,N. Y
-T. Woodson,Ezra R. Johnson
 T. Woodson,N. Gloucester
 T. Woodson,A. H. Yancy
 B. S. Anderson,James W. Duffin
@@ -8921,7 +8768,6 @@ B. S. Anderson,C.B. Ray
 B. S. Anderson,E.B. Dunlap
 B. S. Anderson,J. Sharpe
 B. S. Anderson,Wright
-B. S. Anderson,N.W.
 B. S. Anderson,Jones
 B. S. Anderson,S.H. Davis
 B. S. Anderson,J. H. Platt
@@ -9005,7 +8851,6 @@ B. S. Anderson,Alton
 B. S. Anderson,Banks
 B. S. Anderson,Francis
 B. S. Anderson,Beman
-B. S. Anderson,A. M.
 B. S. Anderson,J. Roxburg
 B. S. Anderson,T. Pollock
 B. S. Anderson,James H. Gloucester
@@ -9018,7 +8863,6 @@ B. S. Anderson,James H. Fountain
 B. S. Anderson,Shelby
 B. S. Anderson,Warren
 B. S. Anderson,N. Y
-B. S. Anderson,Ezra R. Johnson
 B. S. Anderson,N. Gloucester
 B. S. Anderson,A. H. Yancy
 James W. Duffin,Jason Jeffrey
@@ -9068,7 +8912,6 @@ James W. Duffin,C.B. Ray
 James W. Duffin,E.B. Dunlap
 James W. Duffin,J. Sharpe
 James W. Duffin,Wright
-James W. Duffin,N.W.
 James W. Duffin,Jones
 James W. Duffin,S.H. Davis
 James W. Duffin,J. H. Platt
@@ -9152,7 +8995,6 @@ James W. Duffin,Alton
 James W. Duffin,Banks
 James W. Duffin,Francis
 James W. Duffin,Beman
-James W. Duffin,A. M.
 James W. Duffin,J. Roxburg
 James W. Duffin,T. Pollock
 James W. Duffin,James H. Gloucester
@@ -9165,7 +9007,6 @@ James W. Duffin,James H. Fountain
 James W. Duffin,Shelby
 James W. Duffin,Warren
 James W. Duffin,N. Y
-James W. Duffin,Ezra R. Johnson
 James W. Duffin,N. Gloucester
 James W. Duffin,A. H. Yancy
 Jason Jeffrey,Noah Palk
@@ -9214,7 +9055,6 @@ Jason Jeffrey,C.B. Ray
 Jason Jeffrey,E.B. Dunlap
 Jason Jeffrey,J. Sharpe
 Jason Jeffrey,Wright
-Jason Jeffrey,N.W.
 Jason Jeffrey,Jones
 Jason Jeffrey,S.H. Davis
 Jason Jeffrey,J. H. Platt
@@ -9298,7 +9138,6 @@ Jason Jeffrey,Alton
 Jason Jeffrey,Banks
 Jason Jeffrey,Francis
 Jason Jeffrey,Beman
-Jason Jeffrey,A. M.
 Jason Jeffrey,J. Roxburg
 Jason Jeffrey,T. Pollock
 Jason Jeffrey,James H. Gloucester
@@ -9311,7 +9150,6 @@ Jason Jeffrey,James H. Fountain
 Jason Jeffrey,Shelby
 Jason Jeffrey,Warren
 Jason Jeffrey,N. Y
-Jason Jeffrey,Ezra R. Johnson
 Jason Jeffrey,N. Gloucester
 Jason Jeffrey,A. H. Yancy
 Noah Palk,H. W. Johnson
@@ -9359,7 +9197,6 @@ Noah Palk,C.B. Ray
 Noah Palk,E.B. Dunlap
 Noah Palk,J. Sharpe
 Noah Palk,Wright
-Noah Palk,N.W.
 Noah Palk,Jones
 Noah Palk,S.H. Davis
 Noah Palk,J. H. Platt
@@ -9443,7 +9280,6 @@ Noah Palk,Alton
 Noah Palk,Banks
 Noah Palk,Francis
 Noah Palk,Beman
-Noah Palk,A. M.
 Noah Palk,J. Roxburg
 Noah Palk,T. Pollock
 Noah Palk,James H. Gloucester
@@ -9456,7 +9292,6 @@ Noah Palk,James H. Fountain
 Noah Palk,Shelby
 Noah Palk,Warren
 Noah Palk,N. Y
-Noah Palk,Ezra R. Johnson
 Noah Palk,N. Gloucester
 Noah Palk,A. H. Yancy
 H. W. Johnson,James Sharpe
@@ -9503,7 +9338,6 @@ H. W. Johnson,C.B. Ray
 H. W. Johnson,E.B. Dunlap
 H. W. Johnson,J. Sharpe
 H. W. Johnson,Wright
-H. W. Johnson,N.W.
 H. W. Johnson,Jones
 H. W. Johnson,S.H. Davis
 H. W. Johnson,J. H. Platt
@@ -9587,7 +9421,6 @@ H. W. Johnson,Alton
 H. W. Johnson,Banks
 H. W. Johnson,Francis
 H. W. Johnson,Beman
-H. W. Johnson,A. M.
 H. W. Johnson,J. Roxburg
 H. W. Johnson,T. Pollock
 H. W. Johnson,James H. Gloucester
@@ -9600,7 +9433,6 @@ H. W. Johnson,James H. Fountain
 H. W. Johnson,Shelby
 H. W. Johnson,Warren
 H. W. Johnson,N. Y
-H. W. Johnson,Ezra R. Johnson
 H. W. Johnson,N. Gloucester
 H. W. Johnson,A. H. Yancy
 James Sharpe,Ralph Francis
@@ -9646,7 +9478,6 @@ James Sharpe,C.B. Ray
 James Sharpe,E.B. Dunlap
 James Sharpe,J. Sharpe
 James Sharpe,Wright
-James Sharpe,N.W.
 James Sharpe,Jones
 James Sharpe,S.H. Davis
 James Sharpe,J. H. Platt
@@ -9730,7 +9561,6 @@ James Sharpe,Alton
 James Sharpe,Banks
 James Sharpe,Francis
 James Sharpe,Beman
-James Sharpe,A. M.
 James Sharpe,J. Roxburg
 James Sharpe,T. Pollock
 James Sharpe,James H. Gloucester
@@ -9743,7 +9573,6 @@ James Sharpe,James H. Fountain
 James Sharpe,Shelby
 James Sharpe,Warren
 James Sharpe,N. Y
-James Sharpe,Ezra R. Johnson
 James Sharpe,N. Gloucester
 James Sharpe,A. H. Yancy
 Ralph Francis,J. P. Morris
@@ -9788,7 +9617,6 @@ Ralph Francis,C.B. Ray
 Ralph Francis,E.B. Dunlap
 Ralph Francis,J. Sharpe
 Ralph Francis,Wright
-Ralph Francis,N.W.
 Ralph Francis,Jones
 Ralph Francis,S.H. Davis
 Ralph Francis,J. H. Platt
@@ -9872,7 +9700,6 @@ Ralph Francis,Alton
 Ralph Francis,Banks
 Ralph Francis,Francis
 Ralph Francis,Beman
-Ralph Francis,A. M.
 Ralph Francis,J. Roxburg
 Ralph Francis,T. Pollock
 Ralph Francis,James H. Gloucester
@@ -9885,7 +9712,6 @@ Ralph Francis,James H. Fountain
 Ralph Francis,Shelby
 Ralph Francis,Warren
 Ralph Francis,N. Y
-Ralph Francis,Ezra R. Johnson
 Ralph Francis,N. Gloucester
 Ralph Francis,A. H. Yancy
 J. P. Morris,R. H. Johnson
@@ -9929,7 +9755,6 @@ J. P. Morris,C.B. Ray
 J. P. Morris,E.B. Dunlap
 J. P. Morris,J. Sharpe
 J. P. Morris,Wright
-J. P. Morris,N.W.
 J. P. Morris,Jones
 J. P. Morris,S.H. Davis
 J. P. Morris,J. H. Platt
@@ -10013,7 +9838,6 @@ J. P. Morris,Alton
 J. P. Morris,Banks
 J. P. Morris,Francis
 J. P. Morris,Beman
-J. P. Morris,A. M.
 J. P. Morris,J. Roxburg
 J. P. Morris,T. Pollock
 J. P. Morris,James H. Gloucester
@@ -10026,7 +9850,6 @@ J. P. Morris,James H. Fountain
 J. P. Morris,Shelby
 J. P. Morris,Warren
 J. P. Morris,N. Y
-J. P. Morris,Ezra R. Johnson
 J. P. Morris,N. Gloucester
 J. P. Morris,A. H. Yancy
 R. H. Johnson,Wm. Sanders
@@ -10069,7 +9892,6 @@ R. H. Johnson,C.B. Ray
 R. H. Johnson,E.B. Dunlap
 R. H. Johnson,J. Sharpe
 R. H. Johnson,Wright
-R. H. Johnson,N.W.
 R. H. Johnson,Jones
 R. H. Johnson,S.H. Davis
 R. H. Johnson,J. H. Platt
@@ -10153,7 +9975,6 @@ R. H. Johnson,Alton
 R. H. Johnson,Banks
 R. H. Johnson,Francis
 R. H. Johnson,Beman
-R. H. Johnson,A. M.
 R. H. Johnson,J. Roxburg
 R. H. Johnson,T. Pollock
 R. H. Johnson,James H. Gloucester
@@ -10166,7 +9987,6 @@ R. H. Johnson,James H. Fountain
 R. H. Johnson,Shelby
 R. H. Johnson,Warren
 R. H. Johnson,N. Y
-R. H. Johnson,Ezra R. Johnson
 R. H. Johnson,N. Gloucester
 R. H. Johnson,A. H. Yancy
 Wm. Sanders,David Wycoff
@@ -10208,7 +10028,6 @@ Wm. Sanders,C.B. Ray
 Wm. Sanders,E.B. Dunlap
 Wm. Sanders,J. Sharpe
 Wm. Sanders,Wright
-Wm. Sanders,N.W.
 Wm. Sanders,Jones
 Wm. Sanders,S.H. Davis
 Wm. Sanders,J. H. Platt
@@ -10292,7 +10111,6 @@ Wm. Sanders,Alton
 Wm. Sanders,Banks
 Wm. Sanders,Francis
 Wm. Sanders,Beman
-Wm. Sanders,A. M.
 Wm. Sanders,J. Roxburg
 Wm. Sanders,T. Pollock
 Wm. Sanders,James H. Gloucester
@@ -10305,7 +10123,6 @@ Wm. Sanders,James H. Fountain
 Wm. Sanders,Shelby
 Wm. Sanders,Warren
 Wm. Sanders,N. Y
-Wm. Sanders,Ezra R. Johnson
 Wm. Sanders,N. Gloucester
 Wm. Sanders,A. H. Yancy
 David Wycoff,Harrison Powell
@@ -10346,7 +10163,6 @@ David Wycoff,C.B. Ray
 David Wycoff,E.B. Dunlap
 David Wycoff,J. Sharpe
 David Wycoff,Wright
-David Wycoff,N.W.
 David Wycoff,Jones
 David Wycoff,S.H. Davis
 David Wycoff,J. H. Platt
@@ -10430,7 +10246,6 @@ David Wycoff,Alton
 David Wycoff,Banks
 David Wycoff,Francis
 David Wycoff,Beman
-David Wycoff,A. M.
 David Wycoff,J. Roxburg
 David Wycoff,T. Pollock
 David Wycoff,James H. Gloucester
@@ -10443,7 +10258,6 @@ David Wycoff,James H. Fountain
 David Wycoff,Shelby
 David Wycoff,Warren
 David Wycoff,N. Y
-David Wycoff,Ezra R. Johnson
 David Wycoff,N. Gloucester
 David Wycoff,A. H. Yancy
 Harrison Powell,James P. Jackson
@@ -10483,7 +10297,6 @@ Harrison Powell,C.B. Ray
 Harrison Powell,E.B. Dunlap
 Harrison Powell,J. Sharpe
 Harrison Powell,Wright
-Harrison Powell,N.W.
 Harrison Powell,Jones
 Harrison Powell,S.H. Davis
 Harrison Powell,J. H. Platt
@@ -10567,7 +10380,6 @@ Harrison Powell,Alton
 Harrison Powell,Banks
 Harrison Powell,Francis
 Harrison Powell,Beman
-Harrison Powell,A. M.
 Harrison Powell,J. Roxburg
 Harrison Powell,T. Pollock
 Harrison Powell,James H. Gloucester
@@ -10580,7 +10392,6 @@ Harrison Powell,James H. Fountain
 Harrison Powell,Shelby
 Harrison Powell,Warren
 Harrison Powell,N. Y
-Harrison Powell,Ezra R. Johnson
 Harrison Powell,N. Gloucester
 Harrison Powell,A. H. Yancy
 James P. Jackson,John Granbia
@@ -10619,7 +10430,6 @@ James P. Jackson,C.B. Ray
 James P. Jackson,E.B. Dunlap
 James P. Jackson,J. Sharpe
 James P. Jackson,Wright
-James P. Jackson,N.W.
 James P. Jackson,Jones
 James P. Jackson,S.H. Davis
 James P. Jackson,J. H. Platt
@@ -10703,7 +10513,6 @@ James P. Jackson,Alton
 James P. Jackson,Banks
 James P. Jackson,Francis
 James P. Jackson,Beman
-James P. Jackson,A. M.
 James P. Jackson,J. Roxburg
 James P. Jackson,T. Pollock
 James P. Jackson,James H. Gloucester
@@ -10716,7 +10525,6 @@ James P. Jackson,James H. Fountain
 James P. Jackson,Shelby
 James P. Jackson,Warren
 James P. Jackson,N. Y
-James P. Jackson,Ezra R. Johnson
 James P. Jackson,N. Gloucester
 James P. Jackson,A. H. Yancy
 John Granbia,Phelps
@@ -10754,7 +10562,6 @@ John Granbia,C.B. Ray
 John Granbia,E.B. Dunlap
 John Granbia,J. Sharpe
 John Granbia,Wright
-John Granbia,N.W.
 John Granbia,Jones
 John Granbia,S.H. Davis
 John Granbia,J. H. Platt
@@ -10838,7 +10645,6 @@ John Granbia,Alton
 John Granbia,Banks
 John Granbia,Francis
 John Granbia,Beman
-John Granbia,A. M.
 John Granbia,J. Roxburg
 John Granbia,T. Pollock
 John Granbia,James H. Gloucester
@@ -10851,7 +10657,6 @@ John Granbia,James H. Fountain
 John Granbia,Shelby
 John Granbia,Warren
 John Granbia,N. Y
-John Granbia,Ezra R. Johnson
 John Granbia,N. Gloucester
 John Granbia,A. H. Yancy
 Phelps,Wm. Johnson
@@ -10888,7 +10693,6 @@ Phelps,C.B. Ray
 Phelps,E.B. Dunlap
 Phelps,J. Sharpe
 Phelps,Wright
-Phelps,N.W.
 Phelps,Jones
 Phelps,S.H. Davis
 Phelps,J. H. Platt
@@ -10972,7 +10776,6 @@ Phelps,Alton
 Phelps,Banks
 Phelps,Francis
 Phelps,Beman
-Phelps,A. M.
 Phelps,J. Roxburg
 Phelps,T. Pollock
 Phelps,James H. Gloucester
@@ -10985,7 +10788,6 @@ Phelps,James H. Fountain
 Phelps,Shelby
 Phelps,Warren
 Phelps,N. Y
-Phelps,Ezra R. Johnson
 Phelps,N. Gloucester
 Phelps,A. H. Yancy
 Wm. Johnson,Albert Outley
@@ -11021,7 +10823,6 @@ Wm. Johnson,C.B. Ray
 Wm. Johnson,E.B. Dunlap
 Wm. Johnson,J. Sharpe
 Wm. Johnson,Wright
-Wm. Johnson,N.W.
 Wm. Johnson,Jones
 Wm. Johnson,S.H. Davis
 Wm. Johnson,J. H. Platt
@@ -11105,7 +10906,6 @@ Wm. Johnson,Alton
 Wm. Johnson,Banks
 Wm. Johnson,Francis
 Wm. Johnson,Beman
-Wm. Johnson,A. M.
 Wm. Johnson,J. Roxburg
 Wm. Johnson,T. Pollock
 Wm. Johnson,James H. Gloucester
@@ -11118,7 +10918,6 @@ Wm. Johnson,James H. Fountain
 Wm. Johnson,Shelby
 Wm. Johnson,Warren
 Wm. Johnson,N. Y
-Wm. Johnson,Ezra R. Johnson
 Wm. Johnson,N. Gloucester
 Wm. Johnson,A. H. Yancy
 Albert Outley,Sampson Talbot
@@ -11153,7 +10952,6 @@ Albert Outley,C.B. Ray
 Albert Outley,E.B. Dunlap
 Albert Outley,J. Sharpe
 Albert Outley,Wright
-Albert Outley,N.W.
 Albert Outley,Jones
 Albert Outley,S.H. Davis
 Albert Outley,J. H. Platt
@@ -11237,7 +11035,6 @@ Albert Outley,Alton
 Albert Outley,Banks
 Albert Outley,Francis
 Albert Outley,Beman
-Albert Outley,A. M.
 Albert Outley,J. Roxburg
 Albert Outley,T. Pollock
 Albert Outley,James H. Gloucester
@@ -11250,7 +11047,6 @@ Albert Outley,James H. Fountain
 Albert Outley,Shelby
 Albert Outley,Warren
 Albert Outley,N. Y
-Albert Outley,Ezra R. Johnson
 Albert Outley,N. Gloucester
 Albert Outley,A. H. Yancy
 Sampson Talbot,K. B. Dunlap
@@ -11284,7 +11080,6 @@ Sampson Talbot,C.B. Ray
 Sampson Talbot,E.B. Dunlap
 Sampson Talbot,J. Sharpe
 Sampson Talbot,Wright
-Sampson Talbot,N.W.
 Sampson Talbot,Jones
 Sampson Talbot,S.H. Davis
 Sampson Talbot,J. H. Platt
@@ -11368,7 +11163,6 @@ Sampson Talbot,Alton
 Sampson Talbot,Banks
 Sampson Talbot,Francis
 Sampson Talbot,Beman
-Sampson Talbot,A. M.
 Sampson Talbot,J. Roxburg
 Sampson Talbot,T. Pollock
 Sampson Talbot,James H. Gloucester
@@ -11381,7 +11175,6 @@ Sampson Talbot,James H. Fountain
 Sampson Talbot,Shelby
 Sampson Talbot,Warren
 Sampson Talbot,N. Y
-Sampson Talbot,Ezra R. Johnson
 Sampson Talbot,N. Gloucester
 Sampson Talbot,A. H. Yancy
 K. B. Dunlap,J. F. Platt
@@ -11414,7 +11207,6 @@ K. B. Dunlap,C.B. Ray
 K. B. Dunlap,E.B. Dunlap
 K. B. Dunlap,J. Sharpe
 K. B. Dunlap,Wright
-K. B. Dunlap,N.W.
 K. B. Dunlap,Jones
 K. B. Dunlap,S.H. Davis
 K. B. Dunlap,J. H. Platt
@@ -11498,7 +11290,6 @@ K. B. Dunlap,Alton
 K. B. Dunlap,Banks
 K. B. Dunlap,Francis
 K. B. Dunlap,Beman
-K. B. Dunlap,A. M.
 K. B. Dunlap,J. Roxburg
 K. B. Dunlap,T. Pollock
 K. B. Dunlap,James H. Gloucester
@@ -11511,7 +11302,6 @@ K. B. Dunlap,James H. Fountain
 K. B. Dunlap,Shelby
 K. B. Dunlap,Warren
 K. B. Dunlap,N. Y
-K. B. Dunlap,Ezra R. Johnson
 K. B. Dunlap,N. Gloucester
 K. B. Dunlap,A. H. Yancy
 J. F. Platt,Penn Yan
@@ -11543,7 +11333,6 @@ J. F. Platt,C.B. Ray
 J. F. Platt,E.B. Dunlap
 J. F. Platt,J. Sharpe
 J. F. Platt,Wright
-J. F. Platt,N.W.
 J. F. Platt,Jones
 J. F. Platt,S.H. Davis
 J. F. Platt,J. H. Platt
@@ -11627,7 +11416,6 @@ J. F. Platt,Alton
 J. F. Platt,Banks
 J. F. Platt,Francis
 J. F. Platt,Beman
-J. F. Platt,A. M.
 J. F. Platt,J. Roxburg
 J. F. Platt,T. Pollock
 J. F. Platt,James H. Gloucester
@@ -11640,7 +11428,6 @@ J. F. Platt,James H. Fountain
 J. F. Platt,Shelby
 J. F. Platt,Warren
 J. F. Platt,N. Y
-J. F. Platt,Ezra R. Johnson
 J. F. Platt,N. Gloucester
 J. F. Platt,A. H. Yancy
 Penn Yan,Uriah Lett
@@ -11671,7 +11458,6 @@ Penn Yan,C.B. Ray
 Penn Yan,E.B. Dunlap
 Penn Yan,J. Sharpe
 Penn Yan,Wright
-Penn Yan,N.W.
 Penn Yan,Jones
 Penn Yan,S.H. Davis
 Penn Yan,J. H. Platt
@@ -11755,7 +11541,6 @@ Penn Yan,Alton
 Penn Yan,Banks
 Penn Yan,Francis
 Penn Yan,Beman
-Penn Yan,A. M.
 Penn Yan,J. Roxburg
 Penn Yan,T. Pollock
 Penn Yan,James H. Gloucester
@@ -11768,7 +11553,6 @@ Penn Yan,James H. Fountain
 Penn Yan,Shelby
 Penn Yan,Warren
 Penn Yan,N. Y
-Penn Yan,Ezra R. Johnson
 Penn Yan,N. Gloucester
 Penn Yan,A. H. Yancy
 Uriah Lett,George Weir
@@ -11798,7 +11582,6 @@ Uriah Lett,C.B. Ray
 Uriah Lett,E.B. Dunlap
 Uriah Lett,J. Sharpe
 Uriah Lett,Wright
-Uriah Lett,N.W.
 Uriah Lett,Jones
 Uriah Lett,S.H. Davis
 Uriah Lett,J. H. Platt
@@ -11882,7 +11665,6 @@ Uriah Lett,Alton
 Uriah Lett,Banks
 Uriah Lett,Francis
 Uriah Lett,Beman
-Uriah Lett,A. M.
 Uriah Lett,J. Roxburg
 Uriah Lett,T. Pollock
 Uriah Lett,James H. Gloucester
@@ -11895,7 +11677,6 @@ Uriah Lett,James H. Fountain
 Uriah Lett,Shelby
 Uriah Lett,Warren
 Uriah Lett,N. Y
-Uriah Lett,Ezra R. Johnson
 Uriah Lett,N. Gloucester
 Uriah Lett,A. H. Yancy
 George Weir,Abner H. Francis
@@ -11924,7 +11705,6 @@ George Weir,C.B. Ray
 George Weir,E.B. Dunlap
 George Weir,J. Sharpe
 George Weir,Wright
-George Weir,N.W.
 George Weir,Jones
 George Weir,S.H. Davis
 George Weir,J. H. Platt
@@ -12008,7 +11788,6 @@ George Weir,Alton
 George Weir,Banks
 George Weir,Francis
 George Weir,Beman
-George Weir,A. M.
 George Weir,J. Roxburg
 George Weir,T. Pollock
 George Weir,James H. Gloucester
@@ -12021,7 +11800,6 @@ George Weir,James H. Fountain
 George Weir,Shelby
 George Weir,Warren
 George Weir,N. Y
-George Weir,Ezra R. Johnson
 George Weir,N. Gloucester
 George Weir,A. H. Yancy
 Abner H. Francis,S. H. Davis
@@ -12049,7 +11827,6 @@ Abner H. Francis,C.B. Ray
 Abner H. Francis,E.B. Dunlap
 Abner H. Francis,J. Sharpe
 Abner H. Francis,Wright
-Abner H. Francis,N.W.
 Abner H. Francis,Jones
 Abner H. Francis,S.H. Davis
 Abner H. Francis,J. H. Platt
@@ -12133,7 +11910,6 @@ Abner H. Francis,Alton
 Abner H. Francis,Banks
 Abner H. Francis,Francis
 Abner H. Francis,Beman
-Abner H. Francis,A. M.
 Abner H. Francis,J. Roxburg
 Abner H. Francis,T. Pollock
 Abner H. Francis,James H. Gloucester
@@ -12146,7 +11922,6 @@ Abner H. Francis,James H. Fountain
 Abner H. Francis,Shelby
 Abner H. Francis,Warren
 Abner H. Francis,N. Y
-Abner H. Francis,Ezra R. Johnson
 Abner H. Francis,N. Gloucester
 Abner H. Francis,A. H. Yancy
 S. H. Davis,Jermin W. Loguen
@@ -12173,7 +11948,6 @@ S. H. Davis,C.B. Ray
 S. H. Davis,E.B. Dunlap
 S. H. Davis,J. Sharpe
 S. H. Davis,Wright
-S. H. Davis,N.W.
 S. H. Davis,Jones
 S. H. Davis,S.H. Davis
 S. H. Davis,J. H. Platt
@@ -12257,7 +12031,6 @@ S. H. Davis,Alton
 S. H. Davis,Banks
 S. H. Davis,Francis
 S. H. Davis,Beman
-S. H. Davis,A. M.
 S. H. Davis,J. Roxburg
 S. H. Davis,T. Pollock
 S. H. Davis,James H. Gloucester
@@ -12270,7 +12043,6 @@ S. H. Davis,James H. Fountain
 S. H. Davis,Shelby
 S. H. Davis,Warren
 S. H. Davis,N. Y
-S. H. Davis,Ezra R. Johnson
 S. H. Davis,N. Gloucester
 S. H. Davis,A. H. Yancy
 Jermin W. Loguen,J. H. Malvin
@@ -12296,7 +12068,6 @@ Jermin W. Loguen,C.B. Ray
 Jermin W. Loguen,E.B. Dunlap
 Jermin W. Loguen,J. Sharpe
 Jermin W. Loguen,Wright
-Jermin W. Loguen,N.W.
 Jermin W. Loguen,Jones
 Jermin W. Loguen,S.H. Davis
 Jermin W. Loguen,J. H. Platt
@@ -12380,7 +12151,6 @@ Jermin W. Loguen,Alton
 Jermin W. Loguen,Banks
 Jermin W. Loguen,Francis
 Jermin W. Loguen,Beman
-Jermin W. Loguen,A. M.
 Jermin W. Loguen,J. Roxburg
 Jermin W. Loguen,T. Pollock
 Jermin W. Loguen,James H. Gloucester
@@ -12393,7 +12163,6 @@ Jermin W. Loguen,James H. Fountain
 Jermin W. Loguen,Shelby
 Jermin W. Loguen,Warren
 Jermin W. Loguen,N. Y
-Jermin W. Loguen,Ezra R. Johnson
 Jermin W. Loguen,N. Gloucester
 Jermin W. Loguen,A. H. Yancy
 J. H. Malvin,H. Robinson
@@ -12418,7 +12187,6 @@ J. H. Malvin,C.B. Ray
 J. H. Malvin,E.B. Dunlap
 J. H. Malvin,J. Sharpe
 J. H. Malvin,Wright
-J. H. Malvin,N.W.
 J. H. Malvin,Jones
 J. H. Malvin,S.H. Davis
 J. H. Malvin,J. H. Platt
@@ -12502,7 +12270,6 @@ J. H. Malvin,Alton
 J. H. Malvin,Banks
 J. H. Malvin,Francis
 J. H. Malvin,Beman
-J. H. Malvin,A. M.
 J. H. Malvin,J. Roxburg
 J. H. Malvin,T. Pollock
 J. H. Malvin,James H. Gloucester
@@ -12515,7 +12282,6 @@ J. H. Malvin,James H. Fountain
 J. H. Malvin,Shelby
 J. H. Malvin,Warren
 J. H. Malvin,N. Y
-J. H. Malvin,Ezra R. Johnson
 J. H. Malvin,N. Gloucester
 J. H. Malvin,A. H. Yancy
 H. Robinson,David Jenkins
@@ -12539,7 +12305,6 @@ H. Robinson,C.B. Ray
 H. Robinson,E.B. Dunlap
 H. Robinson,J. Sharpe
 H. Robinson,Wright
-H. Robinson,N.W.
 H. Robinson,Jones
 H. Robinson,S.H. Davis
 H. Robinson,J. H. Platt
@@ -12623,7 +12388,6 @@ H. Robinson,Alton
 H. Robinson,Banks
 H. Robinson,Francis
 H. Robinson,Beman
-H. Robinson,A. M.
 H. Robinson,J. Roxburg
 H. Robinson,T. Pollock
 H. Robinson,James H. Gloucester
@@ -12636,7 +12400,6 @@ H. Robinson,James H. Fountain
 H. Robinson,Shelby
 H. Robinson,Warren
 H. Robinson,N. Y
-H. Robinson,Ezra R. Johnson
 H. Robinson,N. Gloucester
 H. Robinson,A. H. Yancy
 David Jenkins,J. M. Cordozer
@@ -12659,7 +12422,6 @@ David Jenkins,C.B. Ray
 David Jenkins,E.B. Dunlap
 David Jenkins,J. Sharpe
 David Jenkins,Wright
-David Jenkins,N.W.
 David Jenkins,Jones
 David Jenkins,S.H. Davis
 David Jenkins,J. H. Platt
@@ -12743,7 +12505,6 @@ David Jenkins,Alton
 David Jenkins,Banks
 David Jenkins,Francis
 David Jenkins,Beman
-David Jenkins,A. M.
 David Jenkins,J. Roxburg
 David Jenkins,T. Pollock
 David Jenkins,James H. Gloucester
@@ -12756,7 +12517,6 @@ David Jenkins,James H. Fountain
 David Jenkins,Shelby
 David Jenkins,Warren
 David Jenkins,N. Y
-David Jenkins,Ezra R. Johnson
 David Jenkins,N. Gloucester
 David Jenkins,A. H. Yancy
 J. M. Cordozer,A. M. Sumner
@@ -12778,7 +12538,6 @@ J. M. Cordozer,C.B. Ray
 J. M. Cordozer,E.B. Dunlap
 J. M. Cordozer,J. Sharpe
 J. M. Cordozer,Wright
-J. M. Cordozer,N.W.
 J. M. Cordozer,Jones
 J. M. Cordozer,S.H. Davis
 J. M. Cordozer,J. H. Platt
@@ -12862,7 +12621,6 @@ J. M. Cordozer,Alton
 J. M. Cordozer,Banks
 J. M. Cordozer,Francis
 J. M. Cordozer,Beman
-J. M. Cordozer,A. M.
 J. M. Cordozer,J. Roxburg
 J. M. Cordozer,T. Pollock
 J. M. Cordozer,James H. Gloucester
@@ -12875,7 +12633,6 @@ J. M. Cordozer,James H. Fountain
 J. M. Cordozer,Shelby
 J. M. Cordozer,Warren
 J. M. Cordozer,N. Y
-J. M. Cordozer,Ezra R. Johnson
 J. M. Cordozer,N. Gloucester
 J. M. Cordozer,A. H. Yancy
 A. M. Sumner,W. H. Yancy
@@ -12896,7 +12653,6 @@ A. M. Sumner,C.B. Ray
 A. M. Sumner,E.B. Dunlap
 A. M. Sumner,J. Sharpe
 A. M. Sumner,Wright
-A. M. Sumner,N.W.
 A. M. Sumner,Jones
 A. M. Sumner,S.H. Davis
 A. M. Sumner,J. H. Platt
@@ -12980,7 +12736,6 @@ A. M. Sumner,Alton
 A. M. Sumner,Banks
 A. M. Sumner,Francis
 A. M. Sumner,Beman
-A. M. Sumner,A. M.
 A. M. Sumner,J. Roxburg
 A. M. Sumner,T. Pollock
 A. M. Sumner,James H. Gloucester
@@ -12993,7 +12748,6 @@ A. M. Sumner,James H. Fountain
 A. M. Sumner,Shelby
 A. M. Sumner,Warren
 A. M. Sumner,N. Y
-A. M. Sumner,Ezra R. Johnson
 A. M. Sumner,N. Gloucester
 A. M. Sumner,A. H. Yancy
 W. H. Yancy,Wm. Watson
@@ -13013,7 +12767,6 @@ W. H. Yancy,C.B. Ray
 W. H. Yancy,E.B. Dunlap
 W. H. Yancy,J. Sharpe
 W. H. Yancy,Wright
-W. H. Yancy,N.W.
 W. H. Yancy,Jones
 W. H. Yancy,S.H. Davis
 W. H. Yancy,J. H. Platt
@@ -13097,7 +12850,6 @@ W. H. Yancy,Alton
 W. H. Yancy,Banks
 W. H. Yancy,Francis
 W. H. Yancy,Beman
-W. H. Yancy,A. M.
 W. H. Yancy,J. Roxburg
 W. H. Yancy,T. Pollock
 W. H. Yancy,James H. Gloucester
@@ -13110,7 +12862,6 @@ W. H. Yancy,James H. Fountain
 W. H. Yancy,Shelby
 W. H. Yancy,Warren
 W. H. Yancy,N. Y
-W. H. Yancy,Ezra R. Johnson
 W. H. Yancy,N. Gloucester
 W. H. Yancy,A. H. Yancy
 Wm. Watson,R. Banks
@@ -13129,7 +12880,6 @@ Wm. Watson,C.B. Ray
 Wm. Watson,E.B. Dunlap
 Wm. Watson,J. Sharpe
 Wm. Watson,Wright
-Wm. Watson,N.W.
 Wm. Watson,Jones
 Wm. Watson,S.H. Davis
 Wm. Watson,J. H. Platt
@@ -13213,7 +12963,6 @@ Wm. Watson,Alton
 Wm. Watson,Banks
 Wm. Watson,Francis
 Wm. Watson,Beman
-Wm. Watson,A. M.
 Wm. Watson,J. Roxburg
 Wm. Watson,T. Pollock
 Wm. Watson,James H. Gloucester
@@ -13226,7 +12975,6 @@ Wm. Watson,James H. Fountain
 Wm. Watson,Shelby
 Wm. Watson,Warren
 Wm. Watson,N. Y
-Wm. Watson,Ezra R. Johnson
 Wm. Watson,N. Gloucester
 Wm. Watson,A. H. Yancy
 R. Banks,W. C. Munro
@@ -13244,7 +12992,6 @@ R. Banks,C.B. Ray
 R. Banks,E.B. Dunlap
 R. Banks,J. Sharpe
 R. Banks,Wright
-R. Banks,N.W.
 R. Banks,Jones
 R. Banks,S.H. Davis
 R. Banks,J. H. Platt
@@ -13328,7 +13075,6 @@ R. Banks,Alton
 R. Banks,Banks
 R. Banks,Francis
 R. Banks,Beman
-R. Banks,A. M.
 R. Banks,J. Roxburg
 R. Banks,T. Pollock
 R. Banks,James H. Gloucester
@@ -13341,7 +13087,6 @@ R. Banks,James H. Fountain
 R. Banks,Shelby
 R. Banks,Warren
 R. Banks,N. Y
-R. Banks,Ezra R. Johnson
 R. Banks,N. Gloucester
 R. Banks,A. H. Yancy
 W. C. Munro,Robert Allen
@@ -13358,7 +13103,6 @@ W. C. Munro,C.B. Ray
 W. C. Munro,E.B. Dunlap
 W. C. Munro,J. Sharpe
 W. C. Munro,Wright
-W. C. Munro,N.W.
 W. C. Munro,Jones
 W. C. Munro,S.H. Davis
 W. C. Munro,J. H. Platt
@@ -13442,7 +13186,6 @@ W. C. Munro,Alton
 W. C. Munro,Banks
 W. C. Munro,Francis
 W. C. Munro,Beman
-W. C. Munro,A. M.
 W. C. Munro,J. Roxburg
 W. C. Munro,T. Pollock
 W. C. Munro,James H. Gloucester
@@ -13455,7 +13198,6 @@ W. C. Munro,James H. Fountain
 W. C. Munro,Shelby
 W. C. Munro,Warren
 W. C. Munro,N. Y
-W. C. Munro,Ezra R. Johnson
 W. C. Munro,N. Gloucester
 W. C. Munro,A. H. Yancy
 Robert Allen,Henry Jackson
@@ -13471,7 +13213,6 @@ Robert Allen,C.B. Ray
 Robert Allen,E.B. Dunlap
 Robert Allen,J. Sharpe
 Robert Allen,Wright
-Robert Allen,N.W.
 Robert Allen,Jones
 Robert Allen,S.H. Davis
 Robert Allen,J. H. Platt
@@ -13555,7 +13296,6 @@ Robert Allen,Alton
 Robert Allen,Banks
 Robert Allen,Francis
 Robert Allen,Beman
-Robert Allen,A. M.
 Robert Allen,J. Roxburg
 Robert Allen,T. Pollock
 Robert Allen,James H. Gloucester
@@ -13568,7 +13308,6 @@ Robert Allen,James H. Fountain
 Robert Allen,Shelby
 Robert Allen,Warren
 Robert Allen,N. Y
-Robert Allen,Ezra R. Johnson
 Robert Allen,N. Gloucester
 Robert Allen,A. H. Yancy
 Henry Jackson,G. W. Tucker
@@ -13583,7 +13322,6 @@ Henry Jackson,C.B. Ray
 Henry Jackson,E.B. Dunlap
 Henry Jackson,J. Sharpe
 Henry Jackson,Wright
-Henry Jackson,N.W.
 Henry Jackson,Jones
 Henry Jackson,S.H. Davis
 Henry Jackson,J. H. Platt
@@ -13667,7 +13405,6 @@ Henry Jackson,Alton
 Henry Jackson,Banks
 Henry Jackson,Francis
 Henry Jackson,Beman
-Henry Jackson,A. M.
 Henry Jackson,J. Roxburg
 Henry Jackson,T. Pollock
 Henry Jackson,James H. Gloucester
@@ -13680,7 +13417,6 @@ Henry Jackson,James H. Fountain
 Henry Jackson,Shelby
 Henry Jackson,Warren
 Henry Jackson,N. Y
-Henry Jackson,Ezra R. Johnson
 Henry Jackson,N. Gloucester
 Henry Jackson,A. H. Yancy
 G. W. Tucker,Nimrod W. Jones
@@ -13694,7 +13430,6 @@ G. W. Tucker,C.B. Ray
 G. W. Tucker,E.B. Dunlap
 G. W. Tucker,J. Sharpe
 G. W. Tucker,Wright
-G. W. Tucker,N.W.
 G. W. Tucker,Jones
 G. W. Tucker,S.H. Davis
 G. W. Tucker,J. H. Platt
@@ -13778,7 +13513,6 @@ G. W. Tucker,Alton
 G. W. Tucker,Banks
 G. W. Tucker,Francis
 G. W. Tucker,Beman
-G. W. Tucker,A. M.
 G. W. Tucker,J. Roxburg
 G. W. Tucker,T. Pollock
 G. W. Tucker,James H. Gloucester
@@ -13791,7 +13525,6 @@ G. W. Tucker,James H. Fountain
 G. W. Tucker,Shelby
 G. W. Tucker,Warren
 G. W. Tucker,N. Y
-G. W. Tucker,Ezra R. Johnson
 G. W. Tucker,N. Gloucester
 G. W. Tucker,A. H. Yancy
 Nimrod W. Jones,Luke Dod
@@ -13804,7 +13537,6 @@ Nimrod W. Jones,C.B. Ray
 Nimrod W. Jones,E.B. Dunlap
 Nimrod W. Jones,J. Sharpe
 Nimrod W. Jones,Wright
-Nimrod W. Jones,N.W.
 Nimrod W. Jones,Jones
 Nimrod W. Jones,S.H. Davis
 Nimrod W. Jones,J. H. Platt
@@ -13888,7 +13620,6 @@ Nimrod W. Jones,Alton
 Nimrod W. Jones,Banks
 Nimrod W. Jones,Francis
 Nimrod W. Jones,Beman
-Nimrod W. Jones,A. M.
 Nimrod W. Jones,J. Roxburg
 Nimrod W. Jones,T. Pollock
 Nimrod W. Jones,James H. Gloucester
@@ -13901,7 +13632,6 @@ Nimrod W. Jones,James H. Fountain
 Nimrod W. Jones,Shelby
 Nimrod W. Jones,Warren
 Nimrod W. Jones,N. Y
-Nimrod W. Jones,Ezra R. Johnson
 Nimrod W. Jones,N. Gloucester
 Nimrod W. Jones,A. H. Yancy
 Luke Dod,Thomas Pollock
@@ -13913,7 +13643,6 @@ Luke Dod,C.B. Ray
 Luke Dod,E.B. Dunlap
 Luke Dod,J. Sharpe
 Luke Dod,Wright
-Luke Dod,N.W.
 Luke Dod,Jones
 Luke Dod,S.H. Davis
 Luke Dod,J. H. Platt
@@ -13997,7 +13726,6 @@ Luke Dod,Alton
 Luke Dod,Banks
 Luke Dod,Francis
 Luke Dod,Beman
-Luke Dod,A. M.
 Luke Dod,J. Roxburg
 Luke Dod,T. Pollock
 Luke Dod,James H. Gloucester
@@ -14010,7 +13738,6 @@ Luke Dod,James H. Fountain
 Luke Dod,Shelby
 Luke Dod,Warren
 Luke Dod,N. Y
-Luke Dod,Ezra R. Johnson
 Luke Dod,N. Gloucester
 Luke Dod,A. H. Yancy
 Thomas Pollock,Joseph Roxbury
@@ -14021,7 +13748,6 @@ Thomas Pollock,C.B. Ray
 Thomas Pollock,E.B. Dunlap
 Thomas Pollock,J. Sharpe
 Thomas Pollock,Wright
-Thomas Pollock,N.W.
 Thomas Pollock,Jones
 Thomas Pollock,S.H. Davis
 Thomas Pollock,J. H. Platt
@@ -14105,7 +13831,6 @@ Thomas Pollock,Alton
 Thomas Pollock,Banks
 Thomas Pollock,Francis
 Thomas Pollock,Beman
-Thomas Pollock,A. M.
 Thomas Pollock,J. Roxburg
 Thomas Pollock,T. Pollock
 Thomas Pollock,James H. Gloucester
@@ -14118,7 +13843,6 @@ Thomas Pollock,James H. Fountain
 Thomas Pollock,Shelby
 Thomas Pollock,Warren
 Thomas Pollock,N. Y
-Thomas Pollock,Ezra R. Johnson
 Thomas Pollock,N. Gloucester
 Thomas Pollock,A. H. Yancy
 Joseph Roxbury,H.H. Garnit
@@ -14128,7 +13852,6 @@ Joseph Roxbury,C.B. Ray
 Joseph Roxbury,E.B. Dunlap
 Joseph Roxbury,J. Sharpe
 Joseph Roxbury,Wright
-Joseph Roxbury,N.W.
 Joseph Roxbury,Jones
 Joseph Roxbury,S.H. Davis
 Joseph Roxbury,J. H. Platt
@@ -14212,7 +13935,6 @@ Joseph Roxbury,Alton
 Joseph Roxbury,Banks
 Joseph Roxbury,Francis
 Joseph Roxbury,Beman
-Joseph Roxbury,A. M.
 Joseph Roxbury,J. Roxburg
 Joseph Roxbury,T. Pollock
 Joseph Roxbury,James H. Gloucester
@@ -14225,7 +13947,6 @@ Joseph Roxbury,James H. Fountain
 Joseph Roxbury,Shelby
 Joseph Roxbury,Warren
 Joseph Roxbury,N. Y
-Joseph Roxbury,Ezra R. Johnson
 Joseph Roxbury,N. Gloucester
 Joseph Roxbury,A. H. Yancy
 H.H. Garnit,R.H. Johnson
@@ -14234,7 +13955,6 @@ H.H. Garnit,C.B. Ray
 H.H. Garnit,E.B. Dunlap
 H.H. Garnit,J. Sharpe
 H.H. Garnit,Wright
-H.H. Garnit,N.W.
 H.H. Garnit,Jones
 H.H. Garnit,S.H. Davis
 H.H. Garnit,J. H. Platt
@@ -14318,7 +14038,6 @@ H.H. Garnit,Alton
 H.H. Garnit,Banks
 H.H. Garnit,Francis
 H.H. Garnit,Beman
-H.H. Garnit,A. M.
 H.H. Garnit,J. Roxburg
 H.H. Garnit,T. Pollock
 H.H. Garnit,James H. Gloucester
@@ -14331,7 +14050,6 @@ H.H. Garnit,James H. Fountain
 H.H. Garnit,Shelby
 H.H. Garnit,Warren
 H.H. Garnit,N. Y
-H.H. Garnit,Ezra R. Johnson
 H.H. Garnit,N. Gloucester
 H.H. Garnit,A. H. Yancy
 R.H. Johnson,W.C. Munro
@@ -14339,7 +14057,6 @@ R.H. Johnson,C.B. Ray
 R.H. Johnson,E.B. Dunlap
 R.H. Johnson,J. Sharpe
 R.H. Johnson,Wright
-R.H. Johnson,N.W.
 R.H. Johnson,Jones
 R.H. Johnson,S.H. Davis
 R.H. Johnson,J. H. Platt
@@ -14423,7 +14140,6 @@ R.H. Johnson,Alton
 R.H. Johnson,Banks
 R.H. Johnson,Francis
 R.H. Johnson,Beman
-R.H. Johnson,A. M.
 R.H. Johnson,J. Roxburg
 R.H. Johnson,T. Pollock
 R.H. Johnson,James H. Gloucester
@@ -14436,14 +14152,12 @@ R.H. Johnson,James H. Fountain
 R.H. Johnson,Shelby
 R.H. Johnson,Warren
 R.H. Johnson,N. Y
-R.H. Johnson,Ezra R. Johnson
 R.H. Johnson,N. Gloucester
 R.H. Johnson,A. H. Yancy
 W.C. Munro,C.B. Ray
 W.C. Munro,E.B. Dunlap
 W.C. Munro,J. Sharpe
 W.C. Munro,Wright
-W.C. Munro,N.W.
 W.C. Munro,Jones
 W.C. Munro,S.H. Davis
 W.C. Munro,J. H. Platt
@@ -14527,7 +14241,6 @@ W.C. Munro,Alton
 W.C. Munro,Banks
 W.C. Munro,Francis
 W.C. Munro,Beman
-W.C. Munro,A. M.
 W.C. Munro,J. Roxburg
 W.C. Munro,T. Pollock
 W.C. Munro,James H. Gloucester
@@ -14540,13 +14253,11 @@ W.C. Munro,James H. Fountain
 W.C. Munro,Shelby
 W.C. Munro,Warren
 W.C. Munro,N. Y
-W.C. Munro,Ezra R. Johnson
 W.C. Munro,N. Gloucester
 W.C. Munro,A. H. Yancy
 C.B. Ray,E.B. Dunlap
 C.B. Ray,J. Sharpe
 C.B. Ray,Wright
-C.B. Ray,N.W.
 C.B. Ray,Jones
 C.B. Ray,S.H. Davis
 C.B. Ray,J. H. Platt
@@ -14630,7 +14341,6 @@ C.B. Ray,Alton
 C.B. Ray,Banks
 C.B. Ray,Francis
 C.B. Ray,Beman
-C.B. Ray,A. M.
 C.B. Ray,J. Roxburg
 C.B. Ray,T. Pollock
 C.B. Ray,James H. Gloucester
@@ -14643,12 +14353,10 @@ C.B. Ray,James H. Fountain
 C.B. Ray,Shelby
 C.B. Ray,Warren
 C.B. Ray,N. Y
-C.B. Ray,Ezra R. Johnson
 C.B. Ray,N. Gloucester
 C.B. Ray,A. H. Yancy
 E.B. Dunlap,J. Sharpe
 E.B. Dunlap,Wright
-E.B. Dunlap,N.W.
 E.B. Dunlap,Jones
 E.B. Dunlap,S.H. Davis
 E.B. Dunlap,J. H. Platt
@@ -14732,7 +14440,6 @@ E.B. Dunlap,Alton
 E.B. Dunlap,Banks
 E.B. Dunlap,Francis
 E.B. Dunlap,Beman
-E.B. Dunlap,A. M.
 E.B. Dunlap,J. Roxburg
 E.B. Dunlap,T. Pollock
 E.B. Dunlap,James H. Gloucester
@@ -14745,11 +14452,9 @@ E.B. Dunlap,James H. Fountain
 E.B. Dunlap,Shelby
 E.B. Dunlap,Warren
 E.B. Dunlap,N. Y
-E.B. Dunlap,Ezra R. Johnson
 E.B. Dunlap,N. Gloucester
 E.B. Dunlap,A. H. Yancy
 J. Sharpe,Wright
-J. Sharpe,N.W.
 J. Sharpe,Jones
 J. Sharpe,S.H. Davis
 J. Sharpe,J. H. Platt
@@ -14833,7 +14538,6 @@ J. Sharpe,Alton
 J. Sharpe,Banks
 J. Sharpe,Francis
 J. Sharpe,Beman
-J. Sharpe,A. M.
 J. Sharpe,J. Roxburg
 J. Sharpe,T. Pollock
 J. Sharpe,James H. Gloucester
@@ -14846,10 +14550,8 @@ J. Sharpe,James H. Fountain
 J. Sharpe,Shelby
 J. Sharpe,Warren
 J. Sharpe,N. Y
-J. Sharpe,Ezra R. Johnson
 J. Sharpe,N. Gloucester
 J. Sharpe,A. H. Yancy
-Wright,N.W.
 Wright,Jones
 Wright,S.H. Davis
 Wright,J. H. Platt
@@ -14933,7 +14635,6 @@ Wright,Alton
 Wright,Banks
 Wright,Francis
 Wright,Beman
-Wright,A. M.
 Wright,J. Roxburg
 Wright,T. Pollock
 Wright,James H. Gloucester
@@ -14946,108 +14647,8 @@ Wright,James H. Fountain
 Wright,Shelby
 Wright,Warren
 Wright,N. Y
-Wright,Ezra R. Johnson
 Wright,N. Gloucester
 Wright,A. H. Yancy
-N.W.,Jones
-N.W.,S.H. Davis
-N.W.,J. H. Platt
-N.W.,J. Jeffrey
-N.W.,J. N. Gloucester
-N.W.,S. Talbot
-N.W.,Charles Lennox Remond
-N.W.,W. P. Mcintire
-N.W.,B.S. Anderson
-N.W.,J. Fountain
-N.W.,J. W. Duffin
-N.W.,W. Sanders
-N.W.,W. Johnson
-N.W.,A. Outley
-N.W.,E. B. Dunlap
-N.W.,U. Lett
-N.W.,J. W. Loguen
-N.W.,H. Jackson
-N.W.,J. Wandall
-N.W.,G. Weir
-N.W.,J. Malvin
-N.W.,D. Jenkins
-N.W.,T. S. Wright
-N.W.,N. Polk
-N.W.,H. Powell
-N.W.,J. P. Jackson
-N.W.,J. Granbia
-N.W.,R. Robertson
-N.W.,A. M. Summer
-N.W.,W. Watson
-N.W.,Garnit
-N.W.,Ray
-N.W.,Nat Turner
-N.W.,Mcintosh
-N.W.,Madison Washington
-N.W.,Wm. C. Munro
-N.W.,Sharpe
-N.W.,H. H. Garnis
-N.W.,S. N. Davis
-N.W.,Christ
-N.W.,T. T. Tatum
-N.W.,Dod
-N.W.,W.W. Brown
-N.W.,L. Remond
-N.W.,P. Harris
-N.W.,O. D. Jenkins
-N.W.,C. Munro
-N.W.,Henry Johnson
-N.W.,Geo
-N.W.,Munro
-N.W.,Sumner
-N.W.,Malvin
-N.W.,Watson
-N.W.,Jenkins
-N.W.,Outley
-N.W.,Remond
-N.W.,Brown
-N.W.,Johnson
-N.W.,Lewis
-N.W.,Garmit
-N.W.,W. P. Mclntire
-N.W.,John Wandall
-N.W.,W. C. Munto
-N.W.,W. Brown
-N.W.,A. N. Freeman
-N.W.,H. G. Piere
-N.W.,J. W. Lewis
-N.W.,J. T. Hilton
-N.W.,C. Nell
-N.W.,J. E. Crawford
-N.W.,A. Nigers
-N.W.,J. W. C. Pennington
-N.W.,J. C. Morel
-N.W.,John Lewis
-N.W.,J B. Vashon
-N.W.,Freeman
-N.W.,A. Duncan
-N.W.,J. G. M. Britton
-N.W.,M. Robinson
-N.W.,Alton
-N.W.,Banks
-N.W.,Francis
-N.W.,Beman
-N.W.,A. M.
-N.W.,J. Roxburg
-N.W.,T. Pollock
-N.W.,James H. Gloucester
-N.W.,P. A. Bell
-N.W.,J. W C. Pennington
-N.W.,N. Y. ; S. E. Cornish
-N.W.,N. J
-N.W.,W. P. Mcintosh
-N.W.,James H. Fountain
-N.W.,Shelby
-N.W.,Warren
-N.W.,N. Y
-N.W.,Ezra R. Johnson
-N.W.,N. Gloucester
-N.W.,A. H. Yancy
 Jones,S.H. Davis
 Jones,J. H. Platt
 Jones,J. Jeffrey
@@ -15130,7 +14731,6 @@ Jones,Alton
 Jones,Banks
 Jones,Francis
 Jones,Beman
-Jones,A. M.
 Jones,J. Roxburg
 Jones,T. Pollock
 Jones,James H. Gloucester
@@ -15143,7 +14743,6 @@ Jones,James H. Fountain
 Jones,Shelby
 Jones,Warren
 Jones,N. Y
-Jones,Ezra R. Johnson
 Jones,N. Gloucester
 Jones,A. H. Yancy
 S.H. Davis,J. H. Platt
@@ -15227,7 +14826,6 @@ S.H. Davis,Alton
 S.H. Davis,Banks
 S.H. Davis,Francis
 S.H. Davis,Beman
-S.H. Davis,A. M.
 S.H. Davis,J. Roxburg
 S.H. Davis,T. Pollock
 S.H. Davis,James H. Gloucester
@@ -15240,7 +14838,6 @@ S.H. Davis,James H. Fountain
 S.H. Davis,Shelby
 S.H. Davis,Warren
 S.H. Davis,N. Y
-S.H. Davis,Ezra R. Johnson
 S.H. Davis,N. Gloucester
 S.H. Davis,A. H. Yancy
 J. H. Platt,J. Jeffrey
@@ -15323,7 +14920,6 @@ J. H. Platt,Alton
 J. H. Platt,Banks
 J. H. Platt,Francis
 J. H. Platt,Beman
-J. H. Platt,A. M.
 J. H. Platt,J. Roxburg
 J. H. Platt,T. Pollock
 J. H. Platt,James H. Gloucester
@@ -15336,7 +14932,6 @@ J. H. Platt,James H. Fountain
 J. H. Platt,Shelby
 J. H. Platt,Warren
 J. H. Platt,N. Y
-J. H. Platt,Ezra R. Johnson
 J. H. Platt,N. Gloucester
 J. H. Platt,A. H. Yancy
 J. Jeffrey,J. N. Gloucester
@@ -15418,7 +15013,6 @@ J. Jeffrey,Alton
 J. Jeffrey,Banks
 J. Jeffrey,Francis
 J. Jeffrey,Beman
-J. Jeffrey,A. M.
 J. Jeffrey,J. Roxburg
 J. Jeffrey,T. Pollock
 J. Jeffrey,James H. Gloucester
@@ -15431,7 +15025,6 @@ J. Jeffrey,James H. Fountain
 J. Jeffrey,Shelby
 J. Jeffrey,Warren
 J. Jeffrey,N. Y
-J. Jeffrey,Ezra R. Johnson
 J. Jeffrey,N. Gloucester
 J. Jeffrey,A. H. Yancy
 J. N. Gloucester,S. Talbot
@@ -15512,7 +15105,6 @@ J. N. Gloucester,Alton
 J. N. Gloucester,Banks
 J. N. Gloucester,Francis
 J. N. Gloucester,Beman
-J. N. Gloucester,A. M.
 J. N. Gloucester,J. Roxburg
 J. N. Gloucester,T. Pollock
 J. N. Gloucester,James H. Gloucester
@@ -15525,7 +15117,6 @@ J. N. Gloucester,James H. Fountain
 J. N. Gloucester,Shelby
 J. N. Gloucester,Warren
 J. N. Gloucester,N. Y
-J. N. Gloucester,Ezra R. Johnson
 J. N. Gloucester,N. Gloucester
 J. N. Gloucester,A. H. Yancy
 S. Talbot,Charles Lennox Remond
@@ -15605,7 +15196,6 @@ S. Talbot,Alton
 S. Talbot,Banks
 S. Talbot,Francis
 S. Talbot,Beman
-S. Talbot,A. M.
 S. Talbot,J. Roxburg
 S. Talbot,T. Pollock
 S. Talbot,James H. Gloucester
@@ -15618,7 +15208,6 @@ S. Talbot,James H. Fountain
 S. Talbot,Shelby
 S. Talbot,Warren
 S. Talbot,N. Y
-S. Talbot,Ezra R. Johnson
 S. Talbot,N. Gloucester
 S. Talbot,A. H. Yancy
 Charles Lennox Remond,W. P. Mcintire
@@ -15697,7 +15286,6 @@ Charles Lennox Remond,Alton
 Charles Lennox Remond,Banks
 Charles Lennox Remond,Francis
 Charles Lennox Remond,Beman
-Charles Lennox Remond,A. M.
 Charles Lennox Remond,J. Roxburg
 Charles Lennox Remond,T. Pollock
 Charles Lennox Remond,James H. Gloucester
@@ -15710,7 +15298,6 @@ Charles Lennox Remond,James H. Fountain
 Charles Lennox Remond,Shelby
 Charles Lennox Remond,Warren
 Charles Lennox Remond,N. Y
-Charles Lennox Remond,Ezra R. Johnson
 Charles Lennox Remond,N. Gloucester
 Charles Lennox Remond,A. H. Yancy
 W. P. Mcintire,B.S. Anderson
@@ -15788,7 +15375,6 @@ W. P. Mcintire,Alton
 W. P. Mcintire,Banks
 W. P. Mcintire,Francis
 W. P. Mcintire,Beman
-W. P. Mcintire,A. M.
 W. P. Mcintire,J. Roxburg
 W. P. Mcintire,T. Pollock
 W. P. Mcintire,James H. Gloucester
@@ -15801,7 +15387,6 @@ W. P. Mcintire,James H. Fountain
 W. P. Mcintire,Shelby
 W. P. Mcintire,Warren
 W. P. Mcintire,N. Y
-W. P. Mcintire,Ezra R. Johnson
 W. P. Mcintire,N. Gloucester
 W. P. Mcintire,A. H. Yancy
 B.S. Anderson,J. Fountain
@@ -15878,7 +15463,6 @@ B.S. Anderson,Alton
 B.S. Anderson,Banks
 B.S. Anderson,Francis
 B.S. Anderson,Beman
-B.S. Anderson,A. M.
 B.S. Anderson,J. Roxburg
 B.S. Anderson,T. Pollock
 B.S. Anderson,James H. Gloucester
@@ -15891,7 +15475,6 @@ B.S. Anderson,James H. Fountain
 B.S. Anderson,Shelby
 B.S. Anderson,Warren
 B.S. Anderson,N. Y
-B.S. Anderson,Ezra R. Johnson
 B.S. Anderson,N. Gloucester
 B.S. Anderson,A. H. Yancy
 J. Fountain,J. W. Duffin
@@ -15967,7 +15550,6 @@ J. Fountain,Alton
 J. Fountain,Banks
 J. Fountain,Francis
 J. Fountain,Beman
-J. Fountain,A. M.
 J. Fountain,J. Roxburg
 J. Fountain,T. Pollock
 J. Fountain,James H. Gloucester
@@ -15980,7 +15562,6 @@ J. Fountain,James H. Fountain
 J. Fountain,Shelby
 J. Fountain,Warren
 J. Fountain,N. Y
-J. Fountain,Ezra R. Johnson
 J. Fountain,N. Gloucester
 J. Fountain,A. H. Yancy
 J. W. Duffin,W. Sanders
@@ -16055,7 +15636,6 @@ J. W. Duffin,Alton
 J. W. Duffin,Banks
 J. W. Duffin,Francis
 J. W. Duffin,Beman
-J. W. Duffin,A. M.
 J. W. Duffin,J. Roxburg
 J. W. Duffin,T. Pollock
 J. W. Duffin,James H. Gloucester
@@ -16068,7 +15648,6 @@ J. W. Duffin,James H. Fountain
 J. W. Duffin,Shelby
 J. W. Duffin,Warren
 J. W. Duffin,N. Y
-J. W. Duffin,Ezra R. Johnson
 J. W. Duffin,N. Gloucester
 J. W. Duffin,A. H. Yancy
 W. Sanders,W. Johnson
@@ -16142,7 +15721,6 @@ W. Sanders,Alton
 W. Sanders,Banks
 W. Sanders,Francis
 W. Sanders,Beman
-W. Sanders,A. M.
 W. Sanders,J. Roxburg
 W. Sanders,T. Pollock
 W. Sanders,James H. Gloucester
@@ -16155,7 +15733,6 @@ W. Sanders,James H. Fountain
 W. Sanders,Shelby
 W. Sanders,Warren
 W. Sanders,N. Y
-W. Sanders,Ezra R. Johnson
 W. Sanders,N. Gloucester
 W. Sanders,A. H. Yancy
 W. Johnson,A. Outley
@@ -16228,7 +15805,6 @@ W. Johnson,Alton
 W. Johnson,Banks
 W. Johnson,Francis
 W. Johnson,Beman
-W. Johnson,A. M.
 W. Johnson,J. Roxburg
 W. Johnson,T. Pollock
 W. Johnson,James H. Gloucester
@@ -16241,7 +15817,6 @@ W. Johnson,James H. Fountain
 W. Johnson,Shelby
 W. Johnson,Warren
 W. Johnson,N. Y
-W. Johnson,Ezra R. Johnson
 W. Johnson,N. Gloucester
 W. Johnson,A. H. Yancy
 A. Outley,E. B. Dunlap
@@ -16313,7 +15888,6 @@ A. Outley,Alton
 A. Outley,Banks
 A. Outley,Francis
 A. Outley,Beman
-A. Outley,A. M.
 A. Outley,J. Roxburg
 A. Outley,T. Pollock
 A. Outley,James H. Gloucester
@@ -16326,7 +15900,6 @@ A. Outley,James H. Fountain
 A. Outley,Shelby
 A. Outley,Warren
 A. Outley,N. Y
-A. Outley,Ezra R. Johnson
 A. Outley,N. Gloucester
 A. Outley,A. H. Yancy
 E. B. Dunlap,U. Lett
@@ -16397,7 +15970,6 @@ E. B. Dunlap,Alton
 E. B. Dunlap,Banks
 E. B. Dunlap,Francis
 E. B. Dunlap,Beman
-E. B. Dunlap,A. M.
 E. B. Dunlap,J. Roxburg
 E. B. Dunlap,T. Pollock
 E. B. Dunlap,James H. Gloucester
@@ -16410,7 +15982,6 @@ E. B. Dunlap,James H. Fountain
 E. B. Dunlap,Shelby
 E. B. Dunlap,Warren
 E. B. Dunlap,N. Y
-E. B. Dunlap,Ezra R. Johnson
 E. B. Dunlap,N. Gloucester
 E. B. Dunlap,A. H. Yancy
 U. Lett,J. W. Loguen
@@ -16480,7 +16051,6 @@ U. Lett,Alton
 U. Lett,Banks
 U. Lett,Francis
 U. Lett,Beman
-U. Lett,A. M.
 U. Lett,J. Roxburg
 U. Lett,T. Pollock
 U. Lett,James H. Gloucester
@@ -16493,7 +16063,6 @@ U. Lett,James H. Fountain
 U. Lett,Shelby
 U. Lett,Warren
 U. Lett,N. Y
-U. Lett,Ezra R. Johnson
 U. Lett,N. Gloucester
 U. Lett,A. H. Yancy
 J. W. Loguen,H. Jackson
@@ -16562,7 +16131,6 @@ J. W. Loguen,Alton
 J. W. Loguen,Banks
 J. W. Loguen,Francis
 J. W. Loguen,Beman
-J. W. Loguen,A. M.
 J. W. Loguen,J. Roxburg
 J. W. Loguen,T. Pollock
 J. W. Loguen,James H. Gloucester
@@ -16575,7 +16143,6 @@ J. W. Loguen,James H. Fountain
 J. W. Loguen,Shelby
 J. W. Loguen,Warren
 J. W. Loguen,N. Y
-J. W. Loguen,Ezra R. Johnson
 J. W. Loguen,N. Gloucester
 J. W. Loguen,A. H. Yancy
 H. Jackson,J. Wandall
@@ -16643,7 +16210,6 @@ H. Jackson,Alton
 H. Jackson,Banks
 H. Jackson,Francis
 H. Jackson,Beman
-H. Jackson,A. M.
 H. Jackson,J. Roxburg
 H. Jackson,T. Pollock
 H. Jackson,James H. Gloucester
@@ -16656,7 +16222,6 @@ H. Jackson,James H. Fountain
 H. Jackson,Shelby
 H. Jackson,Warren
 H. Jackson,N. Y
-H. Jackson,Ezra R. Johnson
 H. Jackson,N. Gloucester
 H. Jackson,A. H. Yancy
 J. Wandall,G. Weir
@@ -16723,7 +16288,6 @@ J. Wandall,Alton
 J. Wandall,Banks
 J. Wandall,Francis
 J. Wandall,Beman
-J. Wandall,A. M.
 J. Wandall,J. Roxburg
 J. Wandall,T. Pollock
 J. Wandall,James H. Gloucester
@@ -16736,7 +16300,6 @@ J. Wandall,James H. Fountain
 J. Wandall,Shelby
 J. Wandall,Warren
 J. Wandall,N. Y
-J. Wandall,Ezra R. Johnson
 J. Wandall,N. Gloucester
 J. Wandall,A. H. Yancy
 G. Weir,J. Malvin
@@ -16802,7 +16365,6 @@ G. Weir,Alton
 G. Weir,Banks
 G. Weir,Francis
 G. Weir,Beman
-G. Weir,A. M.
 G. Weir,J. Roxburg
 G. Weir,T. Pollock
 G. Weir,James H. Gloucester
@@ -16815,7 +16377,6 @@ G. Weir,James H. Fountain
 G. Weir,Shelby
 G. Weir,Warren
 G. Weir,N. Y
-G. Weir,Ezra R. Johnson
 G. Weir,N. Gloucester
 G. Weir,A. H. Yancy
 J. Malvin,D. Jenkins
@@ -16880,7 +16441,6 @@ J. Malvin,Alton
 J. Malvin,Banks
 J. Malvin,Francis
 J. Malvin,Beman
-J. Malvin,A. M.
 J. Malvin,J. Roxburg
 J. Malvin,T. Pollock
 J. Malvin,James H. Gloucester
@@ -16893,7 +16453,6 @@ J. Malvin,James H. Fountain
 J. Malvin,Shelby
 J. Malvin,Warren
 J. Malvin,N. Y
-J. Malvin,Ezra R. Johnson
 J. Malvin,N. Gloucester
 J. Malvin,A. H. Yancy
 D. Jenkins,T. S. Wright
@@ -16957,7 +16516,6 @@ D. Jenkins,Alton
 D. Jenkins,Banks
 D. Jenkins,Francis
 D. Jenkins,Beman
-D. Jenkins,A. M.
 D. Jenkins,J. Roxburg
 D. Jenkins,T. Pollock
 D. Jenkins,James H. Gloucester
@@ -16970,7 +16528,6 @@ D. Jenkins,James H. Fountain
 D. Jenkins,Shelby
 D. Jenkins,Warren
 D. Jenkins,N. Y
-D. Jenkins,Ezra R. Johnson
 D. Jenkins,N. Gloucester
 D. Jenkins,A. H. Yancy
 T. S. Wright,N. Polk
@@ -17033,7 +16590,6 @@ T. S. Wright,Alton
 T. S. Wright,Banks
 T. S. Wright,Francis
 T. S. Wright,Beman
-T. S. Wright,A. M.
 T. S. Wright,J. Roxburg
 T. S. Wright,T. Pollock
 T. S. Wright,James H. Gloucester
@@ -17046,7 +16602,6 @@ T. S. Wright,James H. Fountain
 T. S. Wright,Shelby
 T. S. Wright,Warren
 T. S. Wright,N. Y
-T. S. Wright,Ezra R. Johnson
 T. S. Wright,N. Gloucester
 T. S. Wright,A. H. Yancy
 N. Polk,H. Powell
@@ -17108,7 +16663,6 @@ N. Polk,Alton
 N. Polk,Banks
 N. Polk,Francis
 N. Polk,Beman
-N. Polk,A. M.
 N. Polk,J. Roxburg
 N. Polk,T. Pollock
 N. Polk,James H. Gloucester
@@ -17121,7 +16675,6 @@ N. Polk,James H. Fountain
 N. Polk,Shelby
 N. Polk,Warren
 N. Polk,N. Y
-N. Polk,Ezra R. Johnson
 N. Polk,N. Gloucester
 N. Polk,A. H. Yancy
 H. Powell,J. P. Jackson
@@ -17182,7 +16735,6 @@ H. Powell,Alton
 H. Powell,Banks
 H. Powell,Francis
 H. Powell,Beman
-H. Powell,A. M.
 H. Powell,J. Roxburg
 H. Powell,T. Pollock
 H. Powell,James H. Gloucester
@@ -17195,7 +16747,6 @@ H. Powell,James H. Fountain
 H. Powell,Shelby
 H. Powell,Warren
 H. Powell,N. Y
-H. Powell,Ezra R. Johnson
 H. Powell,N. Gloucester
 H. Powell,A. H. Yancy
 J. P. Jackson,J. Granbia
@@ -17255,7 +16806,6 @@ J. P. Jackson,Alton
 J. P. Jackson,Banks
 J. P. Jackson,Francis
 J. P. Jackson,Beman
-J. P. Jackson,A. M.
 J. P. Jackson,J. Roxburg
 J. P. Jackson,T. Pollock
 J. P. Jackson,James H. Gloucester
@@ -17268,7 +16818,6 @@ J. P. Jackson,James H. Fountain
 J. P. Jackson,Shelby
 J. P. Jackson,Warren
 J. P. Jackson,N. Y
-J. P. Jackson,Ezra R. Johnson
 J. P. Jackson,N. Gloucester
 J. P. Jackson,A. H. Yancy
 J. Granbia,R. Robertson
@@ -17327,7 +16876,6 @@ J. Granbia,Alton
 J. Granbia,Banks
 J. Granbia,Francis
 J. Granbia,Beman
-J. Granbia,A. M.
 J. Granbia,J. Roxburg
 J. Granbia,T. Pollock
 J. Granbia,James H. Gloucester
@@ -17340,7 +16888,6 @@ J. Granbia,James H. Fountain
 J. Granbia,Shelby
 J. Granbia,Warren
 J. Granbia,N. Y
-J. Granbia,Ezra R. Johnson
 J. Granbia,N. Gloucester
 J. Granbia,A. H. Yancy
 R. Robertson,A. M. Summer
@@ -17398,7 +16945,6 @@ R. Robertson,Alton
 R. Robertson,Banks
 R. Robertson,Francis
 R. Robertson,Beman
-R. Robertson,A. M.
 R. Robertson,J. Roxburg
 R. Robertson,T. Pollock
 R. Robertson,James H. Gloucester
@@ -17411,7 +16957,6 @@ R. Robertson,James H. Fountain
 R. Robertson,Shelby
 R. Robertson,Warren
 R. Robertson,N. Y
-R. Robertson,Ezra R. Johnson
 R. Robertson,N. Gloucester
 R. Robertson,A. H. Yancy
 A. M. Summer,W. Watson
@@ -17468,7 +17013,6 @@ A. M. Summer,Alton
 A. M. Summer,Banks
 A. M. Summer,Francis
 A. M. Summer,Beman
-A. M. Summer,A. M.
 A. M. Summer,J. Roxburg
 A. M. Summer,T. Pollock
 A. M. Summer,James H. Gloucester
@@ -17481,7 +17025,6 @@ A. M. Summer,James H. Fountain
 A. M. Summer,Shelby
 A. M. Summer,Warren
 A. M. Summer,N. Y
-A. M. Summer,Ezra R. Johnson
 A. M. Summer,N. Gloucester
 A. M. Summer,A. H. Yancy
 W. Watson,Garnit
@@ -17537,7 +17080,6 @@ W. Watson,Alton
 W. Watson,Banks
 W. Watson,Francis
 W. Watson,Beman
-W. Watson,A. M.
 W. Watson,J. Roxburg
 W. Watson,T. Pollock
 W. Watson,James H. Gloucester
@@ -17550,7 +17092,6 @@ W. Watson,James H. Fountain
 W. Watson,Shelby
 W. Watson,Warren
 W. Watson,N. Y
-W. Watson,Ezra R. Johnson
 W. Watson,N. Gloucester
 W. Watson,A. H. Yancy
 Garnit,Ray
@@ -17605,7 +17146,6 @@ Garnit,Alton
 Garnit,Banks
 Garnit,Francis
 Garnit,Beman
-Garnit,A. M.
 Garnit,J. Roxburg
 Garnit,T. Pollock
 Garnit,James H. Gloucester
@@ -17618,7 +17158,6 @@ Garnit,James H. Fountain
 Garnit,Shelby
 Garnit,Warren
 Garnit,N. Y
-Garnit,Ezra R. Johnson
 Garnit,N. Gloucester
 Garnit,A. H. Yancy
 Ray,Nat Turner
@@ -17672,7 +17211,6 @@ Ray,Alton
 Ray,Banks
 Ray,Francis
 Ray,Beman
-Ray,A. M.
 Ray,J. Roxburg
 Ray,T. Pollock
 Ray,James H. Gloucester
@@ -17685,7 +17223,6 @@ Ray,James H. Fountain
 Ray,Shelby
 Ray,Warren
 Ray,N. Y
-Ray,Ezra R. Johnson
 Ray,N. Gloucester
 Ray,A. H. Yancy
 Nat Turner,Mcintosh
@@ -17738,7 +17275,6 @@ Nat Turner,Alton
 Nat Turner,Banks
 Nat Turner,Francis
 Nat Turner,Beman
-Nat Turner,A. M.
 Nat Turner,J. Roxburg
 Nat Turner,T. Pollock
 Nat Turner,James H. Gloucester
@@ -17751,7 +17287,6 @@ Nat Turner,James H. Fountain
 Nat Turner,Shelby
 Nat Turner,Warren
 Nat Turner,N. Y
-Nat Turner,Ezra R. Johnson
 Nat Turner,N. Gloucester
 Nat Turner,A. H. Yancy
 Mcintosh,Madison Washington
@@ -17803,7 +17338,6 @@ Mcintosh,Alton
 Mcintosh,Banks
 Mcintosh,Francis
 Mcintosh,Beman
-Mcintosh,A. M.
 Mcintosh,J. Roxburg
 Mcintosh,T. Pollock
 Mcintosh,James H. Gloucester
@@ -17816,7 +17350,6 @@ Mcintosh,James H. Fountain
 Mcintosh,Shelby
 Mcintosh,Warren
 Mcintosh,N. Y
-Mcintosh,Ezra R. Johnson
 Mcintosh,N. Gloucester
 Mcintosh,A. H. Yancy
 Madison Washington,Wm. C. Munro
@@ -17867,7 +17400,6 @@ Madison Washington,Alton
 Madison Washington,Banks
 Madison Washington,Francis
 Madison Washington,Beman
-Madison Washington,A. M.
 Madison Washington,J. Roxburg
 Madison Washington,T. Pollock
 Madison Washington,James H. Gloucester
@@ -17880,7 +17412,6 @@ Madison Washington,James H. Fountain
 Madison Washington,Shelby
 Madison Washington,Warren
 Madison Washington,N. Y
-Madison Washington,Ezra R. Johnson
 Madison Washington,N. Gloucester
 Madison Washington,A. H. Yancy
 Wm. C. Munro,Sharpe
@@ -17930,7 +17461,6 @@ Wm. C. Munro,Alton
 Wm. C. Munro,Banks
 Wm. C. Munro,Francis
 Wm. C. Munro,Beman
-Wm. C. Munro,A. M.
 Wm. C. Munro,J. Roxburg
 Wm. C. Munro,T. Pollock
 Wm. C. Munro,James H. Gloucester
@@ -17943,7 +17473,6 @@ Wm. C. Munro,James H. Fountain
 Wm. C. Munro,Shelby
 Wm. C. Munro,Warren
 Wm. C. Munro,N. Y
-Wm. C. Munro,Ezra R. Johnson
 Wm. C. Munro,N. Gloucester
 Wm. C. Munro,A. H. Yancy
 Sharpe,H. H. Garnis
@@ -17992,7 +17521,6 @@ Sharpe,Alton
 Sharpe,Banks
 Sharpe,Francis
 Sharpe,Beman
-Sharpe,A. M.
 Sharpe,J. Roxburg
 Sharpe,T. Pollock
 Sharpe,James H. Gloucester
@@ -18005,7 +17533,6 @@ Sharpe,James H. Fountain
 Sharpe,Shelby
 Sharpe,Warren
 Sharpe,N. Y
-Sharpe,Ezra R. Johnson
 Sharpe,N. Gloucester
 Sharpe,A. H. Yancy
 H. H. Garnis,S. N. Davis
@@ -18053,7 +17580,6 @@ H. H. Garnis,Alton
 H. H. Garnis,Banks
 H. H. Garnis,Francis
 H. H. Garnis,Beman
-H. H. Garnis,A. M.
 H. H. Garnis,J. Roxburg
 H. H. Garnis,T. Pollock
 H. H. Garnis,James H. Gloucester
@@ -18066,7 +17592,6 @@ H. H. Garnis,James H. Fountain
 H. H. Garnis,Shelby
 H. H. Garnis,Warren
 H. H. Garnis,N. Y
-H. H. Garnis,Ezra R. Johnson
 H. H. Garnis,N. Gloucester
 H. H. Garnis,A. H. Yancy
 S. N. Davis,Christ
@@ -18113,7 +17638,6 @@ S. N. Davis,Alton
 S. N. Davis,Banks
 S. N. Davis,Francis
 S. N. Davis,Beman
-S. N. Davis,A. M.
 S. N. Davis,J. Roxburg
 S. N. Davis,T. Pollock
 S. N. Davis,James H. Gloucester
@@ -18126,7 +17650,6 @@ S. N. Davis,James H. Fountain
 S. N. Davis,Shelby
 S. N. Davis,Warren
 S. N. Davis,N. Y
-S. N. Davis,Ezra R. Johnson
 S. N. Davis,N. Gloucester
 S. N. Davis,A. H. Yancy
 Christ,T. T. Tatum
@@ -18172,7 +17695,6 @@ Christ,Alton
 Christ,Banks
 Christ,Francis
 Christ,Beman
-Christ,A. M.
 Christ,J. Roxburg
 Christ,T. Pollock
 Christ,James H. Gloucester
@@ -18185,7 +17707,6 @@ Christ,James H. Fountain
 Christ,Shelby
 Christ,Warren
 Christ,N. Y
-Christ,Ezra R. Johnson
 Christ,N. Gloucester
 Christ,A. H. Yancy
 T. T. Tatum,Dod
@@ -18230,7 +17751,6 @@ T. T. Tatum,Alton
 T. T. Tatum,Banks
 T. T. Tatum,Francis
 T. T. Tatum,Beman
-T. T. Tatum,A. M.
 T. T. Tatum,J. Roxburg
 T. T. Tatum,T. Pollock
 T. T. Tatum,James H. Gloucester
@@ -18243,7 +17763,6 @@ T. T. Tatum,James H. Fountain
 T. T. Tatum,Shelby
 T. T. Tatum,Warren
 T. T. Tatum,N. Y
-T. T. Tatum,Ezra R. Johnson
 T. T. Tatum,N. Gloucester
 T. T. Tatum,A. H. Yancy
 Dod,W.W. Brown
@@ -18287,7 +17806,6 @@ Dod,Alton
 Dod,Banks
 Dod,Francis
 Dod,Beman
-Dod,A. M.
 Dod,J. Roxburg
 Dod,T. Pollock
 Dod,James H. Gloucester
@@ -18300,7 +17818,6 @@ Dod,James H. Fountain
 Dod,Shelby
 Dod,Warren
 Dod,N. Y
-Dod,Ezra R. Johnson
 Dod,N. Gloucester
 Dod,A. H. Yancy
 W.W. Brown,L. Remond
@@ -18343,7 +17860,6 @@ W.W. Brown,Alton
 W.W. Brown,Banks
 W.W. Brown,Francis
 W.W. Brown,Beman
-W.W. Brown,A. M.
 W.W. Brown,J. Roxburg
 W.W. Brown,T. Pollock
 W.W. Brown,James H. Gloucester
@@ -18356,7 +17872,6 @@ W.W. Brown,James H. Fountain
 W.W. Brown,Shelby
 W.W. Brown,Warren
 W.W. Brown,N. Y
-W.W. Brown,Ezra R. Johnson
 W.W. Brown,N. Gloucester
 W.W. Brown,A. H. Yancy
 L. Remond,P. Harris
@@ -18398,7 +17913,6 @@ L. Remond,Alton
 L. Remond,Banks
 L. Remond,Francis
 L. Remond,Beman
-L. Remond,A. M.
 L. Remond,J. Roxburg
 L. Remond,T. Pollock
 L. Remond,James H. Gloucester
@@ -18411,7 +17925,6 @@ L. Remond,James H. Fountain
 L. Remond,Shelby
 L. Remond,Warren
 L. Remond,N. Y
-L. Remond,Ezra R. Johnson
 L. Remond,N. Gloucester
 L. Remond,A. H. Yancy
 P. Harris,O. D. Jenkins
@@ -18452,7 +17965,6 @@ P. Harris,Alton
 P. Harris,Banks
 P. Harris,Francis
 P. Harris,Beman
-P. Harris,A. M.
 P. Harris,J. Roxburg
 P. Harris,T. Pollock
 P. Harris,James H. Gloucester
@@ -18465,7 +17977,6 @@ P. Harris,James H. Fountain
 P. Harris,Shelby
 P. Harris,Warren
 P. Harris,N. Y
-P. Harris,Ezra R. Johnson
 P. Harris,N. Gloucester
 P. Harris,A. H. Yancy
 O. D. Jenkins,C. Munro
@@ -18505,7 +18016,6 @@ O. D. Jenkins,Alton
 O. D. Jenkins,Banks
 O. D. Jenkins,Francis
 O. D. Jenkins,Beman
-O. D. Jenkins,A. M.
 O. D. Jenkins,J. Roxburg
 O. D. Jenkins,T. Pollock
 O. D. Jenkins,James H. Gloucester
@@ -18518,7 +18028,6 @@ O. D. Jenkins,James H. Fountain
 O. D. Jenkins,Shelby
 O. D. Jenkins,Warren
 O. D. Jenkins,N. Y
-O. D. Jenkins,Ezra R. Johnson
 O. D. Jenkins,N. Gloucester
 O. D. Jenkins,A. H. Yancy
 C. Munro,Henry Johnson
@@ -18557,7 +18066,6 @@ C. Munro,Alton
 C. Munro,Banks
 C. Munro,Francis
 C. Munro,Beman
-C. Munro,A. M.
 C. Munro,J. Roxburg
 C. Munro,T. Pollock
 C. Munro,James H. Gloucester
@@ -18570,7 +18078,6 @@ C. Munro,James H. Fountain
 C. Munro,Shelby
 C. Munro,Warren
 C. Munro,N. Y
-C. Munro,Ezra R. Johnson
 C. Munro,N. Gloucester
 C. Munro,A. H. Yancy
 Henry Johnson,Geo
@@ -18608,7 +18115,6 @@ Henry Johnson,Alton
 Henry Johnson,Banks
 Henry Johnson,Francis
 Henry Johnson,Beman
-Henry Johnson,A. M.
 Henry Johnson,J. Roxburg
 Henry Johnson,T. Pollock
 Henry Johnson,James H. Gloucester
@@ -18621,7 +18127,6 @@ Henry Johnson,James H. Fountain
 Henry Johnson,Shelby
 Henry Johnson,Warren
 Henry Johnson,N. Y
-Henry Johnson,Ezra R. Johnson
 Henry Johnson,N. Gloucester
 Henry Johnson,A. H. Yancy
 Geo,Munro
@@ -18658,7 +18163,6 @@ Geo,Alton
 Geo,Banks
 Geo,Francis
 Geo,Beman
-Geo,A. M.
 Geo,J. Roxburg
 Geo,T. Pollock
 Geo,James H. Gloucester
@@ -18671,7 +18175,6 @@ Geo,James H. Fountain
 Geo,Shelby
 Geo,Warren
 Geo,N. Y
-Geo,Ezra R. Johnson
 Geo,N. Gloucester
 Geo,A. H. Yancy
 Munro,Sumner
@@ -18707,7 +18210,6 @@ Munro,Alton
 Munro,Banks
 Munro,Francis
 Munro,Beman
-Munro,A. M.
 Munro,J. Roxburg
 Munro,T. Pollock
 Munro,James H. Gloucester
@@ -18720,7 +18222,6 @@ Munro,James H. Fountain
 Munro,Shelby
 Munro,Warren
 Munro,N. Y
-Munro,Ezra R. Johnson
 Munro,N. Gloucester
 Munro,A. H. Yancy
 Sumner,Malvin
@@ -18755,7 +18256,6 @@ Sumner,Alton
 Sumner,Banks
 Sumner,Francis
 Sumner,Beman
-Sumner,A. M.
 Sumner,J. Roxburg
 Sumner,T. Pollock
 Sumner,James H. Gloucester
@@ -18768,7 +18268,6 @@ Sumner,James H. Fountain
 Sumner,Shelby
 Sumner,Warren
 Sumner,N. Y
-Sumner,Ezra R. Johnson
 Sumner,N. Gloucester
 Sumner,A. H. Yancy
 Malvin,Watson
@@ -18802,7 +18301,6 @@ Malvin,Alton
 Malvin,Banks
 Malvin,Francis
 Malvin,Beman
-Malvin,A. M.
 Malvin,J. Roxburg
 Malvin,T. Pollock
 Malvin,James H. Gloucester
@@ -18815,7 +18313,6 @@ Malvin,James H. Fountain
 Malvin,Shelby
 Malvin,Warren
 Malvin,N. Y
-Malvin,Ezra R. Johnson
 Malvin,N. Gloucester
 Malvin,A. H. Yancy
 Watson,Jenkins
@@ -18848,7 +18345,6 @@ Watson,Alton
 Watson,Banks
 Watson,Francis
 Watson,Beman
-Watson,A. M.
 Watson,J. Roxburg
 Watson,T. Pollock
 Watson,James H. Gloucester
@@ -18861,7 +18357,6 @@ Watson,James H. Fountain
 Watson,Shelby
 Watson,Warren
 Watson,N. Y
-Watson,Ezra R. Johnson
 Watson,N. Gloucester
 Watson,A. H. Yancy
 Jenkins,Outley
@@ -18893,7 +18388,6 @@ Jenkins,Alton
 Jenkins,Banks
 Jenkins,Francis
 Jenkins,Beman
-Jenkins,A. M.
 Jenkins,J. Roxburg
 Jenkins,T. Pollock
 Jenkins,James H. Gloucester
@@ -18906,7 +18400,6 @@ Jenkins,James H. Fountain
 Jenkins,Shelby
 Jenkins,Warren
 Jenkins,N. Y
-Jenkins,Ezra R. Johnson
 Jenkins,N. Gloucester
 Jenkins,A. H. Yancy
 Outley,Remond
@@ -18937,7 +18430,6 @@ Outley,Alton
 Outley,Banks
 Outley,Francis
 Outley,Beman
-Outley,A. M.
 Outley,J. Roxburg
 Outley,T. Pollock
 Outley,James H. Gloucester
@@ -18950,7 +18442,6 @@ Outley,James H. Fountain
 Outley,Shelby
 Outley,Warren
 Outley,N. Y
-Outley,Ezra R. Johnson
 Outley,N. Gloucester
 Outley,A. H. Yancy
 Remond,Brown
@@ -18980,7 +18471,6 @@ Remond,Alton
 Remond,Banks
 Remond,Francis
 Remond,Beman
-Remond,A. M.
 Remond,J. Roxburg
 Remond,T. Pollock
 Remond,James H. Gloucester
@@ -18993,7 +18483,6 @@ Remond,James H. Fountain
 Remond,Shelby
 Remond,Warren
 Remond,N. Y
-Remond,Ezra R. Johnson
 Remond,N. Gloucester
 Remond,A. H. Yancy
 Brown,Johnson
@@ -19022,7 +18511,6 @@ Brown,Alton
 Brown,Banks
 Brown,Francis
 Brown,Beman
-Brown,A. M.
 Brown,J. Roxburg
 Brown,T. Pollock
 Brown,James H. Gloucester
@@ -19035,7 +18523,6 @@ Brown,James H. Fountain
 Brown,Shelby
 Brown,Warren
 Brown,N. Y
-Brown,Ezra R. Johnson
 Brown,N. Gloucester
 Brown,A. H. Yancy
 Johnson,Lewis
@@ -19063,7 +18550,6 @@ Johnson,Alton
 Johnson,Banks
 Johnson,Francis
 Johnson,Beman
-Johnson,A. M.
 Johnson,J. Roxburg
 Johnson,T. Pollock
 Johnson,James H. Gloucester
@@ -19076,7 +18562,6 @@ Johnson,James H. Fountain
 Johnson,Shelby
 Johnson,Warren
 Johnson,N. Y
-Johnson,Ezra R. Johnson
 Johnson,N. Gloucester
 Johnson,A. H. Yancy
 Lewis,Garmit
@@ -19103,7 +18588,6 @@ Lewis,Alton
 Lewis,Banks
 Lewis,Francis
 Lewis,Beman
-Lewis,A. M.
 Lewis,J. Roxburg
 Lewis,T. Pollock
 Lewis,James H. Gloucester
@@ -19116,7 +18600,6 @@ Lewis,James H. Fountain
 Lewis,Shelby
 Lewis,Warren
 Lewis,N. Y
-Lewis,Ezra R. Johnson
 Lewis,N. Gloucester
 Lewis,A. H. Yancy
 Garmit,W. P. Mclntire
@@ -19142,7 +18625,6 @@ Garmit,Alton
 Garmit,Banks
 Garmit,Francis
 Garmit,Beman
-Garmit,A. M.
 Garmit,J. Roxburg
 Garmit,T. Pollock
 Garmit,James H. Gloucester
@@ -19155,7 +18637,6 @@ Garmit,James H. Fountain
 Garmit,Shelby
 Garmit,Warren
 Garmit,N. Y
-Garmit,Ezra R. Johnson
 Garmit,N. Gloucester
 Garmit,A. H. Yancy
 W. P. Mclntire,John Wandall
@@ -19180,7 +18661,6 @@ W. P. Mclntire,Alton
 W. P. Mclntire,Banks
 W. P. Mclntire,Francis
 W. P. Mclntire,Beman
-W. P. Mclntire,A. M.
 W. P. Mclntire,J. Roxburg
 W. P. Mclntire,T. Pollock
 W. P. Mclntire,James H. Gloucester
@@ -19193,7 +18673,6 @@ W. P. Mclntire,James H. Fountain
 W. P. Mclntire,Shelby
 W. P. Mclntire,Warren
 W. P. Mclntire,N. Y
-W. P. Mclntire,Ezra R. Johnson
 W. P. Mclntire,N. Gloucester
 W. P. Mclntire,A. H. Yancy
 John Wandall,W. C. Munto
@@ -19217,7 +18696,6 @@ John Wandall,Alton
 John Wandall,Banks
 John Wandall,Francis
 John Wandall,Beman
-John Wandall,A. M.
 John Wandall,J. Roxburg
 John Wandall,T. Pollock
 John Wandall,James H. Gloucester
@@ -19230,7 +18708,6 @@ John Wandall,James H. Fountain
 John Wandall,Shelby
 John Wandall,Warren
 John Wandall,N. Y
-John Wandall,Ezra R. Johnson
 John Wandall,N. Gloucester
 John Wandall,A. H. Yancy
 W. C. Munto,W. Brown
@@ -19253,7 +18730,6 @@ W. C. Munto,Alton
 W. C. Munto,Banks
 W. C. Munto,Francis
 W. C. Munto,Beman
-W. C. Munto,A. M.
 W. C. Munto,J. Roxburg
 W. C. Munto,T. Pollock
 W. C. Munto,James H. Gloucester
@@ -19266,7 +18742,6 @@ W. C. Munto,James H. Fountain
 W. C. Munto,Shelby
 W. C. Munto,Warren
 W. C. Munto,N. Y
-W. C. Munto,Ezra R. Johnson
 W. C. Munto,N. Gloucester
 W. C. Munto,A. H. Yancy
 W. Brown,A. N. Freeman
@@ -19288,7 +18763,6 @@ W. Brown,Alton
 W. Brown,Banks
 W. Brown,Francis
 W. Brown,Beman
-W. Brown,A. M.
 W. Brown,J. Roxburg
 W. Brown,T. Pollock
 W. Brown,James H. Gloucester
@@ -19301,7 +18775,6 @@ W. Brown,James H. Fountain
 W. Brown,Shelby
 W. Brown,Warren
 W. Brown,N. Y
-W. Brown,Ezra R. Johnson
 W. Brown,N. Gloucester
 W. Brown,A. H. Yancy
 A. N. Freeman,H. G. Piere
@@ -19322,7 +18795,6 @@ A. N. Freeman,Alton
 A. N. Freeman,Banks
 A. N. Freeman,Francis
 A. N. Freeman,Beman
-A. N. Freeman,A. M.
 A. N. Freeman,J. Roxburg
 A. N. Freeman,T. Pollock
 A. N. Freeman,James H. Gloucester
@@ -19335,7 +18807,6 @@ A. N. Freeman,James H. Fountain
 A. N. Freeman,Shelby
 A. N. Freeman,Warren
 A. N. Freeman,N. Y
-A. N. Freeman,Ezra R. Johnson
 A. N. Freeman,N. Gloucester
 A. N. Freeman,A. H. Yancy
 H. G. Piere,J. W. Lewis
@@ -19355,7 +18826,6 @@ H. G. Piere,Alton
 H. G. Piere,Banks
 H. G. Piere,Francis
 H. G. Piere,Beman
-H. G. Piere,A. M.
 H. G. Piere,J. Roxburg
 H. G. Piere,T. Pollock
 H. G. Piere,James H. Gloucester
@@ -19368,7 +18838,6 @@ H. G. Piere,James H. Fountain
 H. G. Piere,Shelby
 H. G. Piere,Warren
 H. G. Piere,N. Y
-H. G. Piere,Ezra R. Johnson
 H. G. Piere,N. Gloucester
 H. G. Piere,A. H. Yancy
 J. W. Lewis,J. T. Hilton
@@ -19387,7 +18856,6 @@ J. W. Lewis,Alton
 J. W. Lewis,Banks
 J. W. Lewis,Francis
 J. W. Lewis,Beman
-J. W. Lewis,A. M.
 J. W. Lewis,J. Roxburg
 J. W. Lewis,T. Pollock
 J. W. Lewis,James H. Gloucester
@@ -19400,7 +18868,6 @@ J. W. Lewis,James H. Fountain
 J. W. Lewis,Shelby
 J. W. Lewis,Warren
 J. W. Lewis,N. Y
-J. W. Lewis,Ezra R. Johnson
 J. W. Lewis,N. Gloucester
 J. W. Lewis,A. H. Yancy
 J. T. Hilton,C. Nell
@@ -19418,7 +18885,6 @@ J. T. Hilton,Alton
 J. T. Hilton,Banks
 J. T. Hilton,Francis
 J. T. Hilton,Beman
-J. T. Hilton,A. M.
 J. T. Hilton,J. Roxburg
 J. T. Hilton,T. Pollock
 J. T. Hilton,James H. Gloucester
@@ -19431,7 +18897,6 @@ J. T. Hilton,James H. Fountain
 J. T. Hilton,Shelby
 J. T. Hilton,Warren
 J. T. Hilton,N. Y
-J. T. Hilton,Ezra R. Johnson
 J. T. Hilton,N. Gloucester
 J. T. Hilton,A. H. Yancy
 C. Nell,J. E. Crawford
@@ -19448,7 +18913,6 @@ C. Nell,Alton
 C. Nell,Banks
 C. Nell,Francis
 C. Nell,Beman
-C. Nell,A. M.
 C. Nell,J. Roxburg
 C. Nell,T. Pollock
 C. Nell,James H. Gloucester
@@ -19461,7 +18925,6 @@ C. Nell,James H. Fountain
 C. Nell,Shelby
 C. Nell,Warren
 C. Nell,N. Y
-C. Nell,Ezra R. Johnson
 C. Nell,N. Gloucester
 C. Nell,A. H. Yancy
 J. E. Crawford,A. Nigers
@@ -19477,7 +18940,6 @@ J. E. Crawford,Alton
 J. E. Crawford,Banks
 J. E. Crawford,Francis
 J. E. Crawford,Beman
-J. E. Crawford,A. M.
 J. E. Crawford,J. Roxburg
 J. E. Crawford,T. Pollock
 J. E. Crawford,James H. Gloucester
@@ -19490,7 +18952,6 @@ J. E. Crawford,James H. Fountain
 J. E. Crawford,Shelby
 J. E. Crawford,Warren
 J. E. Crawford,N. Y
-J. E. Crawford,Ezra R. Johnson
 J. E. Crawford,N. Gloucester
 J. E. Crawford,A. H. Yancy
 A. Nigers,J. W. C. Pennington
@@ -19505,7 +18966,6 @@ A. Nigers,Alton
 A. Nigers,Banks
 A. Nigers,Francis
 A. Nigers,Beman
-A. Nigers,A. M.
 A. Nigers,J. Roxburg
 A. Nigers,T. Pollock
 A. Nigers,James H. Gloucester
@@ -19518,7 +18978,6 @@ A. Nigers,James H. Fountain
 A. Nigers,Shelby
 A. Nigers,Warren
 A. Nigers,N. Y
-A. Nigers,Ezra R. Johnson
 A. Nigers,N. Gloucester
 A. Nigers,A. H. Yancy
 J. W. C. Pennington,J. C. Morel
@@ -19532,7 +18991,6 @@ J. W. C. Pennington,Alton
 J. W. C. Pennington,Banks
 J. W. C. Pennington,Francis
 J. W. C. Pennington,Beman
-J. W. C. Pennington,A. M.
 J. W. C. Pennington,J. Roxburg
 J. W. C. Pennington,T. Pollock
 J. W. C. Pennington,James H. Gloucester
@@ -19545,7 +19003,6 @@ J. W. C. Pennington,James H. Fountain
 J. W. C. Pennington,Shelby
 J. W. C. Pennington,Warren
 J. W. C. Pennington,N. Y
-J. W. C. Pennington,Ezra R. Johnson
 J. W. C. Pennington,N. Gloucester
 J. W. C. Pennington,A. H. Yancy
 J. C. Morel,John Lewis
@@ -19558,7 +19015,6 @@ J. C. Morel,Alton
 J. C. Morel,Banks
 J. C. Morel,Francis
 J. C. Morel,Beman
-J. C. Morel,A. M.
 J. C. Morel,J. Roxburg
 J. C. Morel,T. Pollock
 J. C. Morel,James H. Gloucester
@@ -19571,7 +19027,6 @@ J. C. Morel,James H. Fountain
 J. C. Morel,Shelby
 J. C. Morel,Warren
 J. C. Morel,N. Y
-J. C. Morel,Ezra R. Johnson
 J. C. Morel,N. Gloucester
 J. C. Morel,A. H. Yancy
 John Lewis,J B. Vashon
@@ -19583,7 +19038,6 @@ John Lewis,Alton
 John Lewis,Banks
 John Lewis,Francis
 John Lewis,Beman
-John Lewis,A. M.
 John Lewis,J. Roxburg
 John Lewis,T. Pollock
 John Lewis,James H. Gloucester
@@ -19596,7 +19050,6 @@ John Lewis,James H. Fountain
 John Lewis,Shelby
 John Lewis,Warren
 John Lewis,N. Y
-John Lewis,Ezra R. Johnson
 John Lewis,N. Gloucester
 John Lewis,A. H. Yancy
 J B. Vashon,Freeman
@@ -19607,7 +19060,6 @@ J B. Vashon,Alton
 J B. Vashon,Banks
 J B. Vashon,Francis
 J B. Vashon,Beman
-J B. Vashon,A. M.
 J B. Vashon,J. Roxburg
 J B. Vashon,T. Pollock
 J B. Vashon,James H. Gloucester
@@ -19620,7 +19072,6 @@ J B. Vashon,James H. Fountain
 J B. Vashon,Shelby
 J B. Vashon,Warren
 J B. Vashon,N. Y
-J B. Vashon,Ezra R. Johnson
 J B. Vashon,N. Gloucester
 J B. Vashon,A. H. Yancy
 Freeman,A. Duncan
@@ -19630,7 +19081,6 @@ Freeman,Alton
 Freeman,Banks
 Freeman,Francis
 Freeman,Beman
-Freeman,A. M.
 Freeman,J. Roxburg
 Freeman,T. Pollock
 Freeman,James H. Gloucester
@@ -19643,7 +19093,6 @@ Freeman,James H. Fountain
 Freeman,Shelby
 Freeman,Warren
 Freeman,N. Y
-Freeman,Ezra R. Johnson
 Freeman,N. Gloucester
 Freeman,A. H. Yancy
 A. Duncan,J. G. M. Britton
@@ -19652,7 +19101,6 @@ A. Duncan,Alton
 A. Duncan,Banks
 A. Duncan,Francis
 A. Duncan,Beman
-A. Duncan,A. M.
 A. Duncan,J. Roxburg
 A. Duncan,T. Pollock
 A. Duncan,James H. Gloucester
@@ -19665,7 +19113,6 @@ A. Duncan,James H. Fountain
 A. Duncan,Shelby
 A. Duncan,Warren
 A. Duncan,N. Y
-A. Duncan,Ezra R. Johnson
 A. Duncan,N. Gloucester
 A. Duncan,A. H. Yancy
 J. G. M. Britton,M. Robinson
@@ -19673,7 +19120,6 @@ J. G. M. Britton,Alton
 J. G. M. Britton,Banks
 J. G. M. Britton,Francis
 J. G. M. Britton,Beman
-J. G. M. Britton,A. M.
 J. G. M. Britton,J. Roxburg
 J. G. M. Britton,T. Pollock
 J. G. M. Britton,James H. Gloucester
@@ -19686,14 +19132,12 @@ J. G. M. Britton,James H. Fountain
 J. G. M. Britton,Shelby
 J. G. M. Britton,Warren
 J. G. M. Britton,N. Y
-J. G. M. Britton,Ezra R. Johnson
 J. G. M. Britton,N. Gloucester
 J. G. M. Britton,A. H. Yancy
 M. Robinson,Alton
 M. Robinson,Banks
 M. Robinson,Francis
 M. Robinson,Beman
-M. Robinson,A. M.
 M. Robinson,J. Roxburg
 M. Robinson,T. Pollock
 M. Robinson,James H. Gloucester
@@ -19706,13 +19150,11 @@ M. Robinson,James H. Fountain
 M. Robinson,Shelby
 M. Robinson,Warren
 M. Robinson,N. Y
-M. Robinson,Ezra R. Johnson
 M. Robinson,N. Gloucester
 M. Robinson,A. H. Yancy
 Alton,Banks
 Alton,Francis
 Alton,Beman
-Alton,A. M.
 Alton,J. Roxburg
 Alton,T. Pollock
 Alton,James H. Gloucester
@@ -19725,12 +19167,10 @@ Alton,James H. Fountain
 Alton,Shelby
 Alton,Warren
 Alton,N. Y
-Alton,Ezra R. Johnson
 Alton,N. Gloucester
 Alton,A. H. Yancy
 Banks,Francis
 Banks,Beman
-Banks,A. M.
 Banks,J. Roxburg
 Banks,T. Pollock
 Banks,James H. Gloucester
@@ -19743,11 +19183,9 @@ Banks,James H. Fountain
 Banks,Shelby
 Banks,Warren
 Banks,N. Y
-Banks,Ezra R. Johnson
 Banks,N. Gloucester
 Banks,A. H. Yancy
 Francis,Beman
-Francis,A. M.
 Francis,J. Roxburg
 Francis,T. Pollock
 Francis,James H. Gloucester
@@ -19760,10 +19198,8 @@ Francis,James H. Fountain
 Francis,Shelby
 Francis,Warren
 Francis,N. Y
-Francis,Ezra R. Johnson
 Francis,N. Gloucester
 Francis,A. H. Yancy
-Beman,A. M.
 Beman,J. Roxburg
 Beman,T. Pollock
 Beman,James H. Gloucester
@@ -19776,24 +19212,8 @@ Beman,James H. Fountain
 Beman,Shelby
 Beman,Warren
 Beman,N. Y
-Beman,Ezra R. Johnson
 Beman,N. Gloucester
 Beman,A. H. Yancy
-A. M.,J. Roxburg
-A. M.,T. Pollock
-A. M.,James H. Gloucester
-A. M.,P. A. Bell
-A. M.,J. W C. Pennington
-A. M.,N. Y. ; S. E. Cornish
-A. M.,N. J
-A. M.,W. P. Mcintosh
-A. M.,James H. Fountain
-A. M.,Shelby
-A. M.,Warren
-A. M.,N. Y
-A. M.,Ezra R. Johnson
-A. M.,N. Gloucester
-A. M.,A. H. Yancy
 J. Roxburg,T. Pollock
 J. Roxburg,James H. Gloucester
 J. Roxburg,P. A. Bell
@@ -19805,7 +19225,6 @@ J. Roxburg,James H. Fountain
 J. Roxburg,Shelby
 J. Roxburg,Warren
 J. Roxburg,N. Y
-J. Roxburg,Ezra R. Johnson
 J. Roxburg,N. Gloucester
 J. Roxburg,A. H. Yancy
 T. Pollock,James H. Gloucester
@@ -19818,7 +19237,6 @@ T. Pollock,James H. Fountain
 T. Pollock,Shelby
 T. Pollock,Warren
 T. Pollock,N. Y
-T. Pollock,Ezra R. Johnson
 T. Pollock,N. Gloucester
 T. Pollock,A. H. Yancy
 James H. Gloucester,P. A. Bell
@@ -19830,7 +19248,6 @@ James H. Gloucester,James H. Fountain
 James H. Gloucester,Shelby
 James H. Gloucester,Warren
 James H. Gloucester,N. Y
-James H. Gloucester,Ezra R. Johnson
 James H. Gloucester,N. Gloucester
 James H. Gloucester,A. H. Yancy
 P. A. Bell,J. W C. Pennington
@@ -19841,7 +19258,6 @@ P. A. Bell,James H. Fountain
 P. A. Bell,Shelby
 P. A. Bell,Warren
 P. A. Bell,N. Y
-P. A. Bell,Ezra R. Johnson
 P. A. Bell,N. Gloucester
 P. A. Bell,A. H. Yancy
 J. W C. Pennington,N. Y. ; S. E. Cornish
@@ -19851,7 +19267,6 @@ J. W C. Pennington,James H. Fountain
 J. W C. Pennington,Shelby
 J. W C. Pennington,Warren
 J. W C. Pennington,N. Y
-J. W C. Pennington,Ezra R. Johnson
 J. W C. Pennington,N. Gloucester
 J. W C. Pennington,A. H. Yancy
 N. Y. ; S. E. Cornish,N. J
@@ -19860,7 +19275,6 @@ N. Y. ; S. E. Cornish,James H. Fountain
 N. Y. ; S. E. Cornish,Shelby
 N. Y. ; S. E. Cornish,Warren
 N. Y. ; S. E. Cornish,N. Y
-N. Y. ; S. E. Cornish,Ezra R. Johnson
 N. Y. ; S. E. Cornish,N. Gloucester
 N. Y. ; S. E. Cornish,A. H. Yancy
 N. J,W. P. Mcintosh
@@ -19868,34 +19282,26 @@ N. J,James H. Fountain
 N. J,Shelby
 N. J,Warren
 N. J,N. Y
-N. J,Ezra R. Johnson
 N. J,N. Gloucester
 N. J,A. H. Yancy
 W. P. Mcintosh,James H. Fountain
 W. P. Mcintosh,Shelby
 W. P. Mcintosh,Warren
 W. P. Mcintosh,N. Y
-W. P. Mcintosh,Ezra R. Johnson
 W. P. Mcintosh,N. Gloucester
 W. P. Mcintosh,A. H. Yancy
 James H. Fountain,Shelby
 James H. Fountain,Warren
 James H. Fountain,N. Y
-James H. Fountain,Ezra R. Johnson
 James H. Fountain,N. Gloucester
 James H. Fountain,A. H. Yancy
 Shelby,Warren
 Shelby,N. Y
-Shelby,Ezra R. Johnson
 Shelby,N. Gloucester
 Shelby,A. H. Yancy
 Warren,N. Y
-Warren,Ezra R. Johnson
 Warren,N. Gloucester
 Warren,A. H. Yancy
-N. Y,Ezra R. Johnson
 N. Y,N. Gloucester
 N. Y,A. H. Yancy
-Ezra R. Johnson,N. Gloucester
-Ezra R. Johnson,A. H. Yancy
 N. Gloucester,A. H. Yancy

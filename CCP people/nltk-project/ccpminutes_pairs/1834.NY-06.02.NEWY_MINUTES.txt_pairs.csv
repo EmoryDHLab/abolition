@@ -1,4 +1,4 @@
-name1,name2
+source,target
 William Hamilton,James Fields
 William Hamilton,Theodore C. Breshaw
 William Hamilton,Raymond
@@ -76,7 +76,6 @@ William Hamilton,Brewer
 William Hamilton,James Cornish
 William Hamilton,Joshua P. B. Eddy
 William Hamilton,Hamilton
-William Hamilton,P. M.
 William Hamilton,Barbadoes
 William Hamilton,Pennington
 William Hamilton,Thompson
@@ -106,7 +105,6 @@ William Hamilton,Butler
 William Hamilton,Gardner
 William Hamilton,Purvis
 William Hamilton,Hutchins
-William Hamilton,A. M.
 William Hamilton,Vashon
 William Hamilton,Theo
 William Hamilton,S. Wright
@@ -119,7 +117,7 @@ William Hamilton,Lewis
 William Hamilton,Wilson
 William Hamilton,Stewart
 William Hamilton,Williams
-William Hamilton,Crandall
+William Hamilton,Prudence Crandall
 William Hamilton,Olney
 William Hamilton,Charles Gardner
 William Hamilton,Downing
@@ -232,7 +230,6 @@ James Fields,Brewer
 James Fields,James Cornish
 James Fields,Joshua P. B. Eddy
 James Fields,Hamilton
-James Fields,P. M.
 James Fields,Barbadoes
 James Fields,Pennington
 James Fields,Thompson
@@ -262,7 +259,6 @@ James Fields,Butler
 James Fields,Gardner
 James Fields,Purvis
 James Fields,Hutchins
-James Fields,A. M.
 James Fields,Vashon
 James Fields,Theo
 James Fields,S. Wright
@@ -275,7 +271,7 @@ James Fields,Lewis
 James Fields,Wilson
 James Fields,Stewart
 James Fields,Williams
-James Fields,Crandall
+James Fields,Prudence Crandall
 James Fields,Olney
 James Fields,Charles Gardner
 James Fields,Downing
@@ -387,7 +383,6 @@ Theodore C. Breshaw,Brewer
 Theodore C. Breshaw,James Cornish
 Theodore C. Breshaw,Joshua P. B. Eddy
 Theodore C. Breshaw,Hamilton
-Theodore C. Breshaw,P. M.
 Theodore C. Breshaw,Barbadoes
 Theodore C. Breshaw,Pennington
 Theodore C. Breshaw,Thompson
@@ -417,7 +412,6 @@ Theodore C. Breshaw,Butler
 Theodore C. Breshaw,Gardner
 Theodore C. Breshaw,Purvis
 Theodore C. Breshaw,Hutchins
-Theodore C. Breshaw,A. M.
 Theodore C. Breshaw,Vashon
 Theodore C. Breshaw,Theo
 Theodore C. Breshaw,S. Wright
@@ -430,7 +424,7 @@ Theodore C. Breshaw,Lewis
 Theodore C. Breshaw,Wilson
 Theodore C. Breshaw,Stewart
 Theodore C. Breshaw,Williams
-Theodore C. Breshaw,Crandall
+Theodore C. Breshaw,Prudence Crandall
 Theodore C. Breshaw,Olney
 Theodore C. Breshaw,Charles Gardner
 Theodore C. Breshaw,Downing
@@ -541,7 +535,6 @@ Raymond,Brewer
 Raymond,James Cornish
 Raymond,Joshua P. B. Eddy
 Raymond,Hamilton
-Raymond,P. M.
 Raymond,Barbadoes
 Raymond,Pennington
 Raymond,Thompson
@@ -571,7 +564,6 @@ Raymond,Butler
 Raymond,Gardner
 Raymond,Purvis
 Raymond,Hutchins
-Raymond,A. M.
 Raymond,Vashon
 Raymond,Theo
 Raymond,S. Wright
@@ -584,7 +576,7 @@ Raymond,Lewis
 Raymond,Wilson
 Raymond,Stewart
 Raymond,Williams
-Raymond,Crandall
+Raymond,Prudence Crandall
 Raymond,Olney
 Raymond,Charles Gardner
 Raymond,Downing
@@ -694,7 +686,6 @@ Cornish,Brewer
 Cornish,James Cornish
 Cornish,Joshua P. B. Eddy
 Cornish,Hamilton
-Cornish,P. M.
 Cornish,Barbadoes
 Cornish,Pennington
 Cornish,Thompson
@@ -724,7 +715,6 @@ Cornish,Butler
 Cornish,Gardner
 Cornish,Purvis
 Cornish,Hutchins
-Cornish,A. M.
 Cornish,Vashon
 Cornish,Theo
 Cornish,S. Wright
@@ -737,7 +727,7 @@ Cornish,Lewis
 Cornish,Wilson
 Cornish,Stewart
 Cornish,Williams
-Cornish,Crandall
+Cornish,Prudence Crandall
 Cornish,Olney
 Cornish,Charles Gardner
 Cornish,Downing
@@ -846,7 +836,6 @@ Vallier,Brewer
 Vallier,James Cornish
 Vallier,Joshua P. B. Eddy
 Vallier,Hamilton
-Vallier,P. M.
 Vallier,Barbadoes
 Vallier,Pennington
 Vallier,Thompson
@@ -876,7 +865,6 @@ Vallier,Butler
 Vallier,Gardner
 Vallier,Purvis
 Vallier,Hutchins
-Vallier,A. M.
 Vallier,Vashon
 Vallier,Theo
 Vallier,S. Wright
@@ -889,7 +877,7 @@ Vallier,Lewis
 Vallier,Wilson
 Vallier,Stewart
 Vallier,Williams
-Vallier,Crandall
+Vallier,Prudence Crandall
 Vallier,Olney
 Vallier,Charles Gardner
 Vallier,Downing
@@ -997,7 +985,6 @@ Great Jehovah,Brewer
 Great Jehovah,James Cornish
 Great Jehovah,Joshua P. B. Eddy
 Great Jehovah,Hamilton
-Great Jehovah,P. M.
 Great Jehovah,Barbadoes
 Great Jehovah,Pennington
 Great Jehovah,Thompson
@@ -1027,7 +1014,6 @@ Great Jehovah,Butler
 Great Jehovah,Gardner
 Great Jehovah,Purvis
 Great Jehovah,Hutchins
-Great Jehovah,A. M.
 Great Jehovah,Vashon
 Great Jehovah,Theo
 Great Jehovah,S. Wright
@@ -1040,7 +1026,7 @@ Great Jehovah,Lewis
 Great Jehovah,Wilson
 Great Jehovah,Stewart
 Great Jehovah,Williams
-Great Jehovah,Crandall
+Great Jehovah,Prudence Crandall
 Great Jehovah,Olney
 Great Jehovah,Charles Gardner
 Great Jehovah,Downing
@@ -1147,7 +1133,6 @@ Dennison,Brewer
 Dennison,James Cornish
 Dennison,Joshua P. B. Eddy
 Dennison,Hamilton
-Dennison,P. M.
 Dennison,Barbadoes
 Dennison,Pennington
 Dennison,Thompson
@@ -1177,7 +1162,6 @@ Dennison,Butler
 Dennison,Gardner
 Dennison,Purvis
 Dennison,Hutchins
-Dennison,A. M.
 Dennison,Vashon
 Dennison,Theo
 Dennison,S. Wright
@@ -1190,7 +1174,7 @@ Dennison,Lewis
 Dennison,Wilson
 Dennison,Stewart
 Dennison,Williams
-Dennison,Crandall
+Dennison,Prudence Crandall
 Dennison,Olney
 Dennison,Charles Gardner
 Dennison,Downing
@@ -1296,7 +1280,6 @@ Berrian,Brewer
 Berrian,James Cornish
 Berrian,Joshua P. B. Eddy
 Berrian,Hamilton
-Berrian,P. M.
 Berrian,Barbadoes
 Berrian,Pennington
 Berrian,Thompson
@@ -1326,7 +1309,6 @@ Berrian,Butler
 Berrian,Gardner
 Berrian,Purvis
 Berrian,Hutchins
-Berrian,A. M.
 Berrian,Vashon
 Berrian,Theo
 Berrian,S. Wright
@@ -1339,7 +1321,7 @@ Berrian,Lewis
 Berrian,Wilson
 Berrian,Stewart
 Berrian,Williams
-Berrian,Crandall
+Berrian,Prudence Crandall
 Berrian,Olney
 Berrian,Charles Gardner
 Berrian,Downing
@@ -1444,7 +1426,6 @@ Rush,Brewer
 Rush,James Cornish
 Rush,Joshua P. B. Eddy
 Rush,Hamilton
-Rush,P. M.
 Rush,Barbadoes
 Rush,Pennington
 Rush,Thompson
@@ -1474,7 +1455,6 @@ Rush,Butler
 Rush,Gardner
 Rush,Purvis
 Rush,Hutchins
-Rush,A. M.
 Rush,Vashon
 Rush,Theo
 Rush,S. Wright
@@ -1487,7 +1467,7 @@ Rush,Lewis
 Rush,Wilson
 Rush,Stewart
 Rush,Williams
-Rush,Crandall
+Rush,Prudence Crandall
 Rush,Olney
 Rush,Charles Gardner
 Rush,Downing
@@ -1591,7 +1571,6 @@ Hogarth,Brewer
 Hogarth,James Cornish
 Hogarth,Joshua P. B. Eddy
 Hogarth,Hamilton
-Hogarth,P. M.
 Hogarth,Barbadoes
 Hogarth,Pennington
 Hogarth,Thompson
@@ -1621,7 +1600,6 @@ Hogarth,Butler
 Hogarth,Gardner
 Hogarth,Purvis
 Hogarth,Hutchins
-Hogarth,A. M.
 Hogarth,Vashon
 Hogarth,Theo
 Hogarth,S. Wright
@@ -1634,7 +1612,7 @@ Hogarth,Lewis
 Hogarth,Wilson
 Hogarth,Stewart
 Hogarth,Williams
-Hogarth,Crandall
+Hogarth,Prudence Crandall
 Hogarth,Olney
 Hogarth,Charles Gardner
 Hogarth,Downing
@@ -1737,7 +1715,6 @@ Vogelsang,Brewer
 Vogelsang,James Cornish
 Vogelsang,Joshua P. B. Eddy
 Vogelsang,Hamilton
-Vogelsang,P. M.
 Vogelsang,Barbadoes
 Vogelsang,Pennington
 Vogelsang,Thompson
@@ -1767,7 +1744,6 @@ Vogelsang,Butler
 Vogelsang,Gardner
 Vogelsang,Purvis
 Vogelsang,Hutchins
-Vogelsang,A. M.
 Vogelsang,Vashon
 Vogelsang,Theo
 Vogelsang,S. Wright
@@ -1780,7 +1756,7 @@ Vogelsang,Lewis
 Vogelsang,Wilson
 Vogelsang,Stewart
 Vogelsang,Williams
-Vogelsang,Crandall
+Vogelsang,Prudence Crandall
 Vogelsang,Olney
 Vogelsang,Charles Gardner
 Vogelsang,Downing
@@ -1882,7 +1858,6 @@ Hughes,Brewer
 Hughes,James Cornish
 Hughes,Joshua P. B. Eddy
 Hughes,Hamilton
-Hughes,P. M.
 Hughes,Barbadoes
 Hughes,Pennington
 Hughes,Thompson
@@ -1912,7 +1887,6 @@ Hughes,Butler
 Hughes,Gardner
 Hughes,Purvis
 Hughes,Hutchins
-Hughes,A. M.
 Hughes,Vashon
 Hughes,Theo
 Hughes,S. Wright
@@ -1925,7 +1899,7 @@ Hughes,Lewis
 Hughes,Wilson
 Hughes,Stewart
 Hughes,Williams
-Hughes,Crandall
+Hughes,Prudence Crandall
 Hughes,Olney
 Hughes,Charles Gardner
 Hughes,Downing
@@ -2026,7 +2000,6 @@ Charles L. Remond,Brewer
 Charles L. Remond,James Cornish
 Charles L. Remond,Joshua P. B. Eddy
 Charles L. Remond,Hamilton
-Charles L. Remond,P. M.
 Charles L. Remond,Barbadoes
 Charles L. Remond,Pennington
 Charles L. Remond,Thompson
@@ -2056,7 +2029,6 @@ Charles L. Remond,Butler
 Charles L. Remond,Gardner
 Charles L. Remond,Purvis
 Charles L. Remond,Hutchins
-Charles L. Remond,A. M.
 Charles L. Remond,Vashon
 Charles L. Remond,Theo
 Charles L. Remond,S. Wright
@@ -2069,7 +2041,7 @@ Charles L. Remond,Lewis
 Charles L. Remond,Wilson
 Charles L. Remond,Stewart
 Charles L. Remond,Williams
-Charles L. Remond,Crandall
+Charles L. Remond,Prudence Crandall
 Charles L. Remond,Olney
 Charles L. Remond,Charles Gardner
 Charles L. Remond,Downing
@@ -2169,7 +2141,6 @@ James G. Barbadoes,Brewer
 James G. Barbadoes,James Cornish
 James G. Barbadoes,Joshua P. B. Eddy
 James G. Barbadoes,Hamilton
-James G. Barbadoes,P. M.
 James G. Barbadoes,Barbadoes
 James G. Barbadoes,Pennington
 James G. Barbadoes,Thompson
@@ -2199,7 +2170,6 @@ James G. Barbadoes,Butler
 James G. Barbadoes,Gardner
 James G. Barbadoes,Purvis
 James G. Barbadoes,Hutchins
-James G. Barbadoes,A. M.
 James G. Barbadoes,Vashon
 James G. Barbadoes,Theo
 James G. Barbadoes,S. Wright
@@ -2212,7 +2182,7 @@ James G. Barbadoes,Lewis
 James G. Barbadoes,Wilson
 James G. Barbadoes,Stewart
 James G. Barbadoes,Williams
-James G. Barbadoes,Crandall
+James G. Barbadoes,Prudence Crandall
 James G. Barbadoes,Olney
 James G. Barbadoes,Charles Gardner
 James G. Barbadoes,Downing
@@ -2311,7 +2281,6 @@ John C. Scarlett,Brewer
 John C. Scarlett,James Cornish
 John C. Scarlett,Joshua P. B. Eddy
 John C. Scarlett,Hamilton
-John C. Scarlett,P. M.
 John C. Scarlett,Barbadoes
 John C. Scarlett,Pennington
 John C. Scarlett,Thompson
@@ -2341,7 +2310,6 @@ John C. Scarlett,Butler
 John C. Scarlett,Gardner
 John C. Scarlett,Purvis
 John C. Scarlett,Hutchins
-John C. Scarlett,A. M.
 John C. Scarlett,Vashon
 John C. Scarlett,Theo
 John C. Scarlett,S. Wright
@@ -2354,7 +2322,7 @@ John C. Scarlett,Lewis
 John C. Scarlett,Wilson
 John C. Scarlett,Stewart
 John C. Scarlett,Williams
-John C. Scarlett,Crandall
+John C. Scarlett,Prudence Crandall
 John C. Scarlett,Olney
 John C. Scarlett,Charles Gardner
 John C. Scarlett,Downing
@@ -2452,7 +2420,6 @@ Jacob Perry,Brewer
 Jacob Perry,James Cornish
 Jacob Perry,Joshua P. B. Eddy
 Jacob Perry,Hamilton
-Jacob Perry,P. M.
 Jacob Perry,Barbadoes
 Jacob Perry,Pennington
 Jacob Perry,Thompson
@@ -2482,7 +2449,6 @@ Jacob Perry,Butler
 Jacob Perry,Gardner
 Jacob Perry,Purvis
 Jacob Perry,Hutchins
-Jacob Perry,A. M.
 Jacob Perry,Vashon
 Jacob Perry,Theo
 Jacob Perry,S. Wright
@@ -2495,7 +2461,7 @@ Jacob Perry,Lewis
 Jacob Perry,Wilson
 Jacob Perry,Stewart
 Jacob Perry,Williams
-Jacob Perry,Crandall
+Jacob Perry,Prudence Crandall
 Jacob Perry,Olney
 Jacob Perry,Charles Gardner
 Jacob Perry,Downing
@@ -2592,7 +2558,6 @@ Nathan Johnson,Brewer
 Nathan Johnson,James Cornish
 Nathan Johnson,Joshua P. B. Eddy
 Nathan Johnson,Hamilton
-Nathan Johnson,P. M.
 Nathan Johnson,Barbadoes
 Nathan Johnson,Pennington
 Nathan Johnson,Thompson
@@ -2622,7 +2587,6 @@ Nathan Johnson,Butler
 Nathan Johnson,Gardner
 Nathan Johnson,Purvis
 Nathan Johnson,Hutchins
-Nathan Johnson,A. M.
 Nathan Johnson,Vashon
 Nathan Johnson,Theo
 Nathan Johnson,S. Wright
@@ -2635,7 +2599,7 @@ Nathan Johnson,Lewis
 Nathan Johnson,Wilson
 Nathan Johnson,Stewart
 Nathan Johnson,Williams
-Nathan Johnson,Crandall
+Nathan Johnson,Prudence Crandall
 Nathan Johnson,Olney
 Nathan Johnson,Charles Gardner
 Nathan Johnson,Downing
@@ -2731,7 +2695,6 @@ Henry M. Merriman,Brewer
 Henry M. Merriman,James Cornish
 Henry M. Merriman,Joshua P. B. Eddy
 Henry M. Merriman,Hamilton
-Henry M. Merriman,P. M.
 Henry M. Merriman,Barbadoes
 Henry M. Merriman,Pennington
 Henry M. Merriman,Thompson
@@ -2761,7 +2724,6 @@ Henry M. Merriman,Butler
 Henry M. Merriman,Gardner
 Henry M. Merriman,Purvis
 Henry M. Merriman,Hutchins
-Henry M. Merriman,A. M.
 Henry M. Merriman,Vashon
 Henry M. Merriman,Theo
 Henry M. Merriman,S. Wright
@@ -2774,7 +2736,7 @@ Henry M. Merriman,Lewis
 Henry M. Merriman,Wilson
 Henry M. Merriman,Stewart
 Henry M. Merriman,Williams
-Henry M. Merriman,Crandall
+Henry M. Merriman,Prudence Crandall
 Henry M. Merriman,Olney
 Henry M. Merriman,Charles Gardner
 Henry M. Merriman,Downing
@@ -2869,7 +2831,6 @@ Alexander C. Luca,Brewer
 Alexander C. Luca,James Cornish
 Alexander C. Luca,Joshua P. B. Eddy
 Alexander C. Luca,Hamilton
-Alexander C. Luca,P. M.
 Alexander C. Luca,Barbadoes
 Alexander C. Luca,Pennington
 Alexander C. Luca,Thompson
@@ -2899,7 +2860,6 @@ Alexander C. Luca,Butler
 Alexander C. Luca,Gardner
 Alexander C. Luca,Purvis
 Alexander C. Luca,Hutchins
-Alexander C. Luca,A. M.
 Alexander C. Luca,Vashon
 Alexander C. Luca,Theo
 Alexander C. Luca,S. Wright
@@ -2912,7 +2872,7 @@ Alexander C. Luca,Lewis
 Alexander C. Luca,Wilson
 Alexander C. Luca,Stewart
 Alexander C. Luca,Williams
-Alexander C. Luca,Crandall
+Alexander C. Luca,Prudence Crandall
 Alexander C. Luca,Olney
 Alexander C. Luca,Charles Gardner
 Alexander C. Luca,Downing
@@ -3006,7 +2966,6 @@ Hoshea Easton,Brewer
 Hoshea Easton,James Cornish
 Hoshea Easton,Joshua P. B. Eddy
 Hoshea Easton,Hamilton
-Hoshea Easton,P. M.
 Hoshea Easton,Barbadoes
 Hoshea Easton,Pennington
 Hoshea Easton,Thompson
@@ -3036,7 +2995,6 @@ Hoshea Easton,Butler
 Hoshea Easton,Gardner
 Hoshea Easton,Purvis
 Hoshea Easton,Hutchins
-Hoshea Easton,A. M.
 Hoshea Easton,Vashon
 Hoshea Easton,Theo
 Hoshea Easton,S. Wright
@@ -3049,7 +3007,7 @@ Hoshea Easton,Lewis
 Hoshea Easton,Wilson
 Hoshea Easton,Stewart
 Hoshea Easton,Williams
-Hoshea Easton,Crandall
+Hoshea Easton,Prudence Crandall
 Hoshea Easton,Olney
 Hoshea Easton,Charles Gardner
 Hoshea Easton,Downing
@@ -3142,7 +3100,6 @@ George Spywood,Brewer
 George Spywood,James Cornish
 George Spywood,Joshua P. B. Eddy
 George Spywood,Hamilton
-George Spywood,P. M.
 George Spywood,Barbadoes
 George Spywood,Pennington
 George Spywood,Thompson
@@ -3172,7 +3129,6 @@ George Spywood,Butler
 George Spywood,Gardner
 George Spywood,Purvis
 George Spywood,Hutchins
-George Spywood,A. M.
 George Spywood,Vashon
 George Spywood,Theo
 George Spywood,S. Wright
@@ -3185,7 +3141,7 @@ George Spywood,Lewis
 George Spywood,Wilson
 George Spywood,Stewart
 George Spywood,Williams
-George Spywood,Crandall
+George Spywood,Prudence Crandall
 George Spywood,Olney
 George Spywood,Charles Gardner
 George Spywood,Downing
@@ -3277,7 +3233,6 @@ Robert Jackson,Brewer
 Robert Jackson,James Cornish
 Robert Jackson,Joshua P. B. Eddy
 Robert Jackson,Hamilton
-Robert Jackson,P. M.
 Robert Jackson,Barbadoes
 Robert Jackson,Pennington
 Robert Jackson,Thompson
@@ -3307,7 +3262,6 @@ Robert Jackson,Butler
 Robert Jackson,Gardner
 Robert Jackson,Purvis
 Robert Jackson,Hutchins
-Robert Jackson,A. M.
 Robert Jackson,Vashon
 Robert Jackson,Theo
 Robert Jackson,S. Wright
@@ -3320,7 +3274,7 @@ Robert Jackson,Lewis
 Robert Jackson,Wilson
 Robert Jackson,Stewart
 Robert Jackson,Williams
-Robert Jackson,Crandall
+Robert Jackson,Prudence Crandall
 Robert Jackson,Olney
 Robert Jackson,Charles Gardner
 Robert Jackson,Downing
@@ -3411,7 +3365,6 @@ Jared Gray,Brewer
 Jared Gray,James Cornish
 Jared Gray,Joshua P. B. Eddy
 Jared Gray,Hamilton
-Jared Gray,P. M.
 Jared Gray,Barbadoes
 Jared Gray,Pennington
 Jared Gray,Thompson
@@ -3441,7 +3394,6 @@ Jared Gray,Butler
 Jared Gray,Gardner
 Jared Gray,Purvis
 Jared Gray,Hutchins
-Jared Gray,A. M.
 Jared Gray,Vashon
 Jared Gray,Theo
 Jared Gray,S. Wright
@@ -3454,7 +3406,7 @@ Jared Gray,Lewis
 Jared Gray,Wilson
 Jared Gray,Stewart
 Jared Gray,Williams
-Jared Gray,Crandall
+Jared Gray,Prudence Crandall
 Jared Gray,Olney
 Jared Gray,Charles Gardner
 Jared Gray,Downing
@@ -3544,7 +3496,6 @@ Nathan Blount,Brewer
 Nathan Blount,James Cornish
 Nathan Blount,Joshua P. B. Eddy
 Nathan Blount,Hamilton
-Nathan Blount,P. M.
 Nathan Blount,Barbadoes
 Nathan Blount,Pennington
 Nathan Blount,Thompson
@@ -3574,7 +3525,6 @@ Nathan Blount,Butler
 Nathan Blount,Gardner
 Nathan Blount,Purvis
 Nathan Blount,Hutchins
-Nathan Blount,A. M.
 Nathan Blount,Vashon
 Nathan Blount,Theo
 Nathan Blount,S. Wright
@@ -3587,7 +3537,7 @@ Nathan Blount,Lewis
 Nathan Blount,Wilson
 Nathan Blount,Stewart
 Nathan Blount,Williams
-Nathan Blount,Crandall
+Nathan Blount,Prudence Crandall
 Nathan Blount,Olney
 Nathan Blount,Charles Gardner
 Nathan Blount,Downing
@@ -3676,7 +3626,6 @@ John G. Stewart,Brewer
 John G. Stewart,James Cornish
 John G. Stewart,Joshua P. B. Eddy
 John G. Stewart,Hamilton
-John G. Stewart,P. M.
 John G. Stewart,Barbadoes
 John G. Stewart,Pennington
 John G. Stewart,Thompson
@@ -3706,7 +3655,6 @@ John G. Stewart,Butler
 John G. Stewart,Gardner
 John G. Stewart,Purvis
 John G. Stewart,Hutchins
-John G. Stewart,A. M.
 John G. Stewart,Vashon
 John G. Stewart,Theo
 John G. Stewart,S. Wright
@@ -3719,7 +3667,7 @@ John G. Stewart,Lewis
 John G. Stewart,Wilson
 John G. Stewart,Stewart
 John G. Stewart,Williams
-John G. Stewart,Crandall
+John G. Stewart,Prudence Crandall
 John G. Stewart,Olney
 John G. Stewart,Charles Gardner
 John G. Stewart,Downing
@@ -3807,7 +3755,6 @@ Charles S. Morton,Brewer
 Charles S. Morton,James Cornish
 Charles S. Morton,Joshua P. B. Eddy
 Charles S. Morton,Hamilton
-Charles S. Morton,P. M.
 Charles S. Morton,Barbadoes
 Charles S. Morton,Pennington
 Charles S. Morton,Thompson
@@ -3837,7 +3784,6 @@ Charles S. Morton,Butler
 Charles S. Morton,Gardner
 Charles S. Morton,Purvis
 Charles S. Morton,Hutchins
-Charles S. Morton,A. M.
 Charles S. Morton,Vashon
 Charles S. Morton,Theo
 Charles S. Morton,S. Wright
@@ -3850,7 +3796,7 @@ Charles S. Morton,Lewis
 Charles S. Morton,Wilson
 Charles S. Morton,Stewart
 Charles S. Morton,Williams
-Charles S. Morton,Crandall
+Charles S. Morton,Prudence Crandall
 Charles S. Morton,Olney
 Charles S. Morton,Charles Gardner
 Charles S. Morton,Downing
@@ -3937,7 +3883,6 @@ George Hogarth,Brewer
 George Hogarth,James Cornish
 George Hogarth,Joshua P. B. Eddy
 George Hogarth,Hamilton
-George Hogarth,P. M.
 George Hogarth,Barbadoes
 George Hogarth,Pennington
 George Hogarth,Thompson
@@ -3967,7 +3912,6 @@ George Hogarth,Butler
 George Hogarth,Gardner
 George Hogarth,Purvis
 George Hogarth,Hutchins
-George Hogarth,A. M.
 George Hogarth,Vashon
 George Hogarth,Theo
 George Hogarth,S. Wright
@@ -3980,7 +3924,7 @@ George Hogarth,Lewis
 George Hogarth,Wilson
 George Hogarth,Stewart
 George Hogarth,Williams
-George Hogarth,Crandall
+George Hogarth,Prudence Crandall
 George Hogarth,Olney
 George Hogarth,Charles Gardner
 George Hogarth,Downing
@@ -4066,7 +4010,6 @@ Henry C. Thompson,Brewer
 Henry C. Thompson,James Cornish
 Henry C. Thompson,Joshua P. B. Eddy
 Henry C. Thompson,Hamilton
-Henry C. Thompson,P. M.
 Henry C. Thompson,Barbadoes
 Henry C. Thompson,Pennington
 Henry C. Thompson,Thompson
@@ -4096,7 +4039,6 @@ Henry C. Thompson,Butler
 Henry C. Thompson,Gardner
 Henry C. Thompson,Purvis
 Henry C. Thompson,Hutchins
-Henry C. Thompson,A. M.
 Henry C. Thompson,Vashon
 Henry C. Thompson,Theo
 Henry C. Thompson,S. Wright
@@ -4109,7 +4051,7 @@ Henry C. Thompson,Lewis
 Henry C. Thompson,Wilson
 Henry C. Thompson,Stewart
 Henry C. Thompson,Williams
-Henry C. Thompson,Crandall
+Henry C. Thompson,Prudence Crandall
 Henry C. Thompson,Olney
 Henry C. Thompson,Charles Gardner
 Henry C. Thompson,Downing
@@ -4194,7 +4136,6 @@ Henry Brown,Brewer
 Henry Brown,James Cornish
 Henry Brown,Joshua P. B. Eddy
 Henry Brown,Hamilton
-Henry Brown,P. M.
 Henry Brown,Barbadoes
 Henry Brown,Pennington
 Henry Brown,Thompson
@@ -4224,7 +4165,6 @@ Henry Brown,Butler
 Henry Brown,Gardner
 Henry Brown,Purvis
 Henry Brown,Hutchins
-Henry Brown,A. M.
 Henry Brown,Vashon
 Henry Brown,Theo
 Henry Brown,S. Wright
@@ -4237,7 +4177,7 @@ Henry Brown,Lewis
 Henry Brown,Wilson
 Henry Brown,Stewart
 Henry Brown,Williams
-Henry Brown,Crandall
+Henry Brown,Prudence Crandall
 Henry Brown,Olney
 Henry Brown,Charles Gardner
 Henry Brown,Downing
@@ -4321,7 +4261,6 @@ Thomas S. Thompson,Brewer
 Thomas S. Thompson,James Cornish
 Thomas S. Thompson,Joshua P. B. Eddy
 Thomas S. Thompson,Hamilton
-Thomas S. Thompson,P. M.
 Thomas S. Thompson,Barbadoes
 Thomas S. Thompson,Pennington
 Thomas S. Thompson,Thompson
@@ -4351,7 +4290,6 @@ Thomas S. Thompson,Butler
 Thomas S. Thompson,Gardner
 Thomas S. Thompson,Purvis
 Thomas S. Thompson,Hutchins
-Thomas S. Thompson,A. M.
 Thomas S. Thompson,Vashon
 Thomas S. Thompson,Theo
 Thomas S. Thompson,S. Wright
@@ -4364,7 +4302,7 @@ Thomas S. Thompson,Lewis
 Thomas S. Thompson,Wilson
 Thomas S. Thompson,Stewart
 Thomas S. Thompson,Williams
-Thomas S. Thompson,Crandall
+Thomas S. Thompson,Prudence Crandall
 Thomas S. Thompson,Olney
 Thomas S. Thompson,Charles Gardner
 Thomas S. Thompson,Downing
@@ -4447,7 +4385,6 @@ Abraham Brown,Brewer
 Abraham Brown,James Cornish
 Abraham Brown,Joshua P. B. Eddy
 Abraham Brown,Hamilton
-Abraham Brown,P. M.
 Abraham Brown,Barbadoes
 Abraham Brown,Pennington
 Abraham Brown,Thompson
@@ -4477,7 +4414,6 @@ Abraham Brown,Butler
 Abraham Brown,Gardner
 Abraham Brown,Purvis
 Abraham Brown,Hutchins
-Abraham Brown,A. M.
 Abraham Brown,Vashon
 Abraham Brown,Theo
 Abraham Brown,S. Wright
@@ -4490,7 +4426,7 @@ Abraham Brown,Lewis
 Abraham Brown,Wilson
 Abraham Brown,Stewart
 Abraham Brown,Williams
-Abraham Brown,Crandall
+Abraham Brown,Prudence Crandall
 Abraham Brown,Olney
 Abraham Brown,Charles Gardner
 Abraham Brown,Downing
@@ -4572,7 +4508,6 @@ John K. Jackson,Brewer
 John K. Jackson,James Cornish
 John K. Jackson,Joshua P. B. Eddy
 John K. Jackson,Hamilton
-John K. Jackson,P. M.
 John K. Jackson,Barbadoes
 John K. Jackson,Pennington
 John K. Jackson,Thompson
@@ -4602,7 +4537,6 @@ John K. Jackson,Butler
 John K. Jackson,Gardner
 John K. Jackson,Purvis
 John K. Jackson,Hutchins
-John K. Jackson,A. M.
 John K. Jackson,Vashon
 John K. Jackson,Theo
 John K. Jackson,S. Wright
@@ -4615,7 +4549,7 @@ John K. Jackson,Lewis
 John K. Jackson,Wilson
 John K. Jackson,Stewart
 John K. Jackson,Williams
-John K. Jackson,Crandall
+John K. Jackson,Prudence Crandall
 John K. Jackson,Olney
 John K. Jackson,Charles Gardner
 John K. Jackson,Downing
@@ -4696,7 +4630,6 @@ James W.C. Pennington,Brewer
 James W.C. Pennington,James Cornish
 James W.C. Pennington,Joshua P. B. Eddy
 James W.C. Pennington,Hamilton
-James W.C. Pennington,P. M.
 James W.C. Pennington,Barbadoes
 James W.C. Pennington,Pennington
 James W.C. Pennington,Thompson
@@ -4726,7 +4659,6 @@ James W.C. Pennington,Butler
 James W.C. Pennington,Gardner
 James W.C. Pennington,Purvis
 James W.C. Pennington,Hutchins
-James W.C. Pennington,A. M.
 James W.C. Pennington,Vashon
 James W.C. Pennington,Theo
 James W.C. Pennington,S. Wright
@@ -4739,7 +4671,7 @@ James W.C. Pennington,Lewis
 James W.C. Pennington,Wilson
 James W.C. Pennington,Stewart
 James W.C. Pennington,Williams
-James W.C. Pennington,Crandall
+James W.C. Pennington,Prudence Crandall
 James W.C. Pennington,Olney
 James W.C. Pennington,Charles Gardner
 James W.C. Pennington,Downing
@@ -4819,7 +4751,6 @@ Benjamin F. Hughes,Brewer
 Benjamin F. Hughes,James Cornish
 Benjamin F. Hughes,Joshua P. B. Eddy
 Benjamin F. Hughes,Hamilton
-Benjamin F. Hughes,P. M.
 Benjamin F. Hughes,Barbadoes
 Benjamin F. Hughes,Pennington
 Benjamin F. Hughes,Thompson
@@ -4849,7 +4780,6 @@ Benjamin F. Hughes,Butler
 Benjamin F. Hughes,Gardner
 Benjamin F. Hughes,Purvis
 Benjamin F. Hughes,Hutchins
-Benjamin F. Hughes,A. M.
 Benjamin F. Hughes,Vashon
 Benjamin F. Hughes,Theo
 Benjamin F. Hughes,S. Wright
@@ -4862,7 +4792,7 @@ Benjamin F. Hughes,Lewis
 Benjamin F. Hughes,Wilson
 Benjamin F. Hughes,Stewart
 Benjamin F. Hughes,Williams
-Benjamin F. Hughes,Crandall
+Benjamin F. Hughes,Prudence Crandall
 Benjamin F. Hughes,Olney
 Benjamin F. Hughes,Charles Gardner
 Benjamin F. Hughes,Downing
@@ -4941,7 +4871,6 @@ Henry Sipkins,Brewer
 Henry Sipkins,James Cornish
 Henry Sipkins,Joshua P. B. Eddy
 Henry Sipkins,Hamilton
-Henry Sipkins,P. M.
 Henry Sipkins,Barbadoes
 Henry Sipkins,Pennington
 Henry Sipkins,Thompson
@@ -4971,7 +4900,6 @@ Henry Sipkins,Butler
 Henry Sipkins,Gardner
 Henry Sipkins,Purvis
 Henry Sipkins,Hutchins
-Henry Sipkins,A. M.
 Henry Sipkins,Vashon
 Henry Sipkins,Theo
 Henry Sipkins,S. Wright
@@ -4984,7 +4912,7 @@ Henry Sipkins,Lewis
 Henry Sipkins,Wilson
 Henry Sipkins,Stewart
 Henry Sipkins,Williams
-Henry Sipkins,Crandall
+Henry Sipkins,Prudence Crandall
 Henry Sipkins,Olney
 Henry Sipkins,Charles Gardner
 Henry Sipkins,Downing
@@ -5062,7 +4990,6 @@ Samuel Hardenburg,Brewer
 Samuel Hardenburg,James Cornish
 Samuel Hardenburg,Joshua P. B. Eddy
 Samuel Hardenburg,Hamilton
-Samuel Hardenburg,P. M.
 Samuel Hardenburg,Barbadoes
 Samuel Hardenburg,Pennington
 Samuel Hardenburg,Thompson
@@ -5092,7 +5019,6 @@ Samuel Hardenburg,Butler
 Samuel Hardenburg,Gardner
 Samuel Hardenburg,Purvis
 Samuel Hardenburg,Hutchins
-Samuel Hardenburg,A. M.
 Samuel Hardenburg,Vashon
 Samuel Hardenburg,Theo
 Samuel Hardenburg,S. Wright
@@ -5105,7 +5031,7 @@ Samuel Hardenburg,Lewis
 Samuel Hardenburg,Wilson
 Samuel Hardenburg,Stewart
 Samuel Hardenburg,Williams
-Samuel Hardenburg,Crandall
+Samuel Hardenburg,Prudence Crandall
 Samuel Hardenburg,Olney
 Samuel Hardenburg,Charles Gardner
 Samuel Hardenburg,Downing
@@ -5182,7 +5108,6 @@ Peter Vogelsang,Brewer
 Peter Vogelsang,James Cornish
 Peter Vogelsang,Joshua P. B. Eddy
 Peter Vogelsang,Hamilton
-Peter Vogelsang,P. M.
 Peter Vogelsang,Barbadoes
 Peter Vogelsang,Pennington
 Peter Vogelsang,Thompson
@@ -5212,7 +5137,6 @@ Peter Vogelsang,Butler
 Peter Vogelsang,Gardner
 Peter Vogelsang,Purvis
 Peter Vogelsang,Hutchins
-Peter Vogelsang,A. M.
 Peter Vogelsang,Vashon
 Peter Vogelsang,Theo
 Peter Vogelsang,S. Wright
@@ -5225,7 +5149,7 @@ Peter Vogelsang,Lewis
 Peter Vogelsang,Wilson
 Peter Vogelsang,Stewart
 Peter Vogelsang,Williams
-Peter Vogelsang,Crandall
+Peter Vogelsang,Prudence Crandall
 Peter Vogelsang,Olney
 Peter Vogelsang,Charles Gardner
 Peter Vogelsang,Downing
@@ -5301,7 +5225,6 @@ Abner H. Francis,Brewer
 Abner H. Francis,James Cornish
 Abner H. Francis,Joshua P. B. Eddy
 Abner H. Francis,Hamilton
-Abner H. Francis,P. M.
 Abner H. Francis,Barbadoes
 Abner H. Francis,Pennington
 Abner H. Francis,Thompson
@@ -5331,7 +5254,6 @@ Abner H. Francis,Butler
 Abner H. Francis,Gardner
 Abner H. Francis,Purvis
 Abner H. Francis,Hutchins
-Abner H. Francis,A. M.
 Abner H. Francis,Vashon
 Abner H. Francis,Theo
 Abner H. Francis,S. Wright
@@ -5344,7 +5266,7 @@ Abner H. Francis,Lewis
 Abner H. Francis,Wilson
 Abner H. Francis,Stewart
 Abner H. Francis,Williams
-Abner H. Francis,Crandall
+Abner H. Francis,Prudence Crandall
 Abner H. Francis,Olney
 Abner H. Francis,Charles Gardner
 Abner H. Francis,Downing
@@ -5419,7 +5341,6 @@ John D. Closson,Brewer
 John D. Closson,James Cornish
 John D. Closson,Joshua P. B. Eddy
 John D. Closson,Hamilton
-John D. Closson,P. M.
 John D. Closson,Barbadoes
 John D. Closson,Pennington
 John D. Closson,Thompson
@@ -5449,7 +5370,6 @@ John D. Closson,Butler
 John D. Closson,Gardner
 John D. Closson,Purvis
 John D. Closson,Hutchins
-John D. Closson,A. M.
 John D. Closson,Vashon
 John D. Closson,Theo
 John D. Closson,S. Wright
@@ -5462,7 +5382,7 @@ John D. Closson,Lewis
 John D. Closson,Wilson
 John D. Closson,Stewart
 John D. Closson,Williams
-John D. Closson,Crandall
+John D. Closson,Prudence Crandall
 John D. Closson,Olney
 John D. Closson,Charles Gardner
 John D. Closson,Downing
@@ -5536,7 +5456,6 @@ Henry Drayton,Brewer
 Henry Drayton,James Cornish
 Henry Drayton,Joshua P. B. Eddy
 Henry Drayton,Hamilton
-Henry Drayton,P. M.
 Henry Drayton,Barbadoes
 Henry Drayton,Pennington
 Henry Drayton,Thompson
@@ -5566,7 +5485,6 @@ Henry Drayton,Butler
 Henry Drayton,Gardner
 Henry Drayton,Purvis
 Henry Drayton,Hutchins
-Henry Drayton,A. M.
 Henry Drayton,Vashon
 Henry Drayton,Theo
 Henry Drayton,S. Wright
@@ -5579,7 +5497,7 @@ Henry Drayton,Lewis
 Henry Drayton,Wilson
 Henry Drayton,Stewart
 Henry Drayton,Williams
-Henry Drayton,Crandall
+Henry Drayton,Prudence Crandall
 Henry Drayton,Olney
 Henry Drayton,Charles Gardner
 Henry Drayton,Downing
@@ -5652,7 +5570,6 @@ Amos Freeman,Brewer
 Amos Freeman,James Cornish
 Amos Freeman,Joshua P. B. Eddy
 Amos Freeman,Hamilton
-Amos Freeman,P. M.
 Amos Freeman,Barbadoes
 Amos Freeman,Pennington
 Amos Freeman,Thompson
@@ -5682,7 +5599,6 @@ Amos Freeman,Butler
 Amos Freeman,Gardner
 Amos Freeman,Purvis
 Amos Freeman,Hutchins
-Amos Freeman,A. M.
 Amos Freeman,Vashon
 Amos Freeman,Theo
 Amos Freeman,S. Wright
@@ -5695,7 +5611,7 @@ Amos Freeman,Lewis
 Amos Freeman,Wilson
 Amos Freeman,Stewart
 Amos Freeman,Williams
-Amos Freeman,Crandall
+Amos Freeman,Prudence Crandall
 Amos Freeman,Olney
 Amos Freeman,Charles Gardner
 Amos Freeman,Downing
@@ -5767,7 +5683,6 @@ Henry Ogden,Brewer
 Henry Ogden,James Cornish
 Henry Ogden,Joshua P. B. Eddy
 Henry Ogden,Hamilton
-Henry Ogden,P. M.
 Henry Ogden,Barbadoes
 Henry Ogden,Pennington
 Henry Ogden,Thompson
@@ -5797,7 +5712,6 @@ Henry Ogden,Butler
 Henry Ogden,Gardner
 Henry Ogden,Purvis
 Henry Ogden,Hutchins
-Henry Ogden,A. M.
 Henry Ogden,Vashon
 Henry Ogden,Theo
 Henry Ogden,S. Wright
@@ -5810,7 +5724,7 @@ Henry Ogden,Lewis
 Henry Ogden,Wilson
 Henry Ogden,Stewart
 Henry Ogden,Williams
-Henry Ogden,Crandall
+Henry Ogden,Prudence Crandall
 Henry Ogden,Olney
 Henry Ogden,Charles Gardner
 Henry Ogden,Downing
@@ -5881,7 +5795,6 @@ Orange,Brewer
 Orange,James Cornish
 Orange,Joshua P. B. Eddy
 Orange,Hamilton
-Orange,P. M.
 Orange,Barbadoes
 Orange,Pennington
 Orange,Thompson
@@ -5911,7 +5824,6 @@ Orange,Butler
 Orange,Gardner
 Orange,Purvis
 Orange,Hutchins
-Orange,A. M.
 Orange,Vashon
 Orange,Theo
 Orange,S. Wright
@@ -5924,7 +5836,7 @@ Orange,Lewis
 Orange,Wilson
 Orange,Stewart
 Orange,Williams
-Orange,Crandall
+Orange,Prudence Crandall
 Orange,Olney
 Orange,Charles Gardner
 Orange,Downing
@@ -5994,7 +5906,6 @@ Carlisle,Brewer
 Carlisle,James Cornish
 Carlisle,Joshua P. B. Eddy
 Carlisle,Hamilton
-Carlisle,P. M.
 Carlisle,Barbadoes
 Carlisle,Pennington
 Carlisle,Thompson
@@ -6024,7 +5935,6 @@ Carlisle,Butler
 Carlisle,Gardner
 Carlisle,Purvis
 Carlisle,Hutchins
-Carlisle,A. M.
 Carlisle,Vashon
 Carlisle,Theo
 Carlisle,S. Wright
@@ -6037,7 +5947,7 @@ Carlisle,Lewis
 Carlisle,Wilson
 Carlisle,Stewart
 Carlisle,Williams
-Carlisle,Crandall
+Carlisle,Prudence Crandall
 Carlisle,Olney
 Carlisle,Charles Gardner
 Carlisle,Downing
@@ -6106,7 +6016,6 @@ John Peck,Brewer
 John Peck,James Cornish
 John Peck,Joshua P. B. Eddy
 John Peck,Hamilton
-John Peck,P. M.
 John Peck,Barbadoes
 John Peck,Pennington
 John Peck,Thompson
@@ -6136,7 +6045,6 @@ John Peck,Butler
 John Peck,Gardner
 John Peck,Purvis
 John Peck,Hutchins
-John Peck,A. M.
 John Peck,Vashon
 John Peck,Theo
 John Peck,S. Wright
@@ -6149,7 +6057,7 @@ John Peck,Lewis
 John Peck,Wilson
 John Peck,Stewart
 John Peck,Williams
-John Peck,Crandall
+John Peck,Prudence Crandall
 John Peck,Olney
 John Peck,Charles Gardner
 John Peck,Downing
@@ -6217,7 +6125,6 @@ Frederick A. Hinton,Brewer
 Frederick A. Hinton,James Cornish
 Frederick A. Hinton,Joshua P. B. Eddy
 Frederick A. Hinton,Hamilton
-Frederick A. Hinton,P. M.
 Frederick A. Hinton,Barbadoes
 Frederick A. Hinton,Pennington
 Frederick A. Hinton,Thompson
@@ -6247,7 +6154,6 @@ Frederick A. Hinton,Butler
 Frederick A. Hinton,Gardner
 Frederick A. Hinton,Purvis
 Frederick A. Hinton,Hutchins
-Frederick A. Hinton,A. M.
 Frederick A. Hinton,Vashon
 Frederick A. Hinton,Theo
 Frederick A. Hinton,S. Wright
@@ -6260,7 +6166,7 @@ Frederick A. Hinton,Lewis
 Frederick A. Hinton,Wilson
 Frederick A. Hinton,Stewart
 Frederick A. Hinton,Williams
-Frederick A. Hinton,Crandall
+Frederick A. Hinton,Prudence Crandall
 Frederick A. Hinton,Olney
 Frederick A. Hinton,Charles Gardner
 Frederick A. Hinton,Downing
@@ -6327,7 +6233,6 @@ Samuel C. Hutchins,Brewer
 Samuel C. Hutchins,James Cornish
 Samuel C. Hutchins,Joshua P. B. Eddy
 Samuel C. Hutchins,Hamilton
-Samuel C. Hutchins,P. M.
 Samuel C. Hutchins,Barbadoes
 Samuel C. Hutchins,Pennington
 Samuel C. Hutchins,Thompson
@@ -6357,7 +6262,6 @@ Samuel C. Hutchins,Butler
 Samuel C. Hutchins,Gardner
 Samuel C. Hutchins,Purvis
 Samuel C. Hutchins,Hutchins
-Samuel C. Hutchins,A. M.
 Samuel C. Hutchins,Vashon
 Samuel C. Hutchins,Theo
 Samuel C. Hutchins,S. Wright
@@ -6370,7 +6274,7 @@ Samuel C. Hutchins,Lewis
 Samuel C. Hutchins,Wilson
 Samuel C. Hutchins,Stewart
 Samuel C. Hutchins,Williams
-Samuel C. Hutchins,Crandall
+Samuel C. Hutchins,Prudence Crandall
 Samuel C. Hutchins,Olney
 Samuel C. Hutchins,Charles Gardner
 Samuel C. Hutchins,Downing
@@ -6436,7 +6340,6 @@ Stephen Smith,Brewer
 Stephen Smith,James Cornish
 Stephen Smith,Joshua P. B. Eddy
 Stephen Smith,Hamilton
-Stephen Smith,P. M.
 Stephen Smith,Barbadoes
 Stephen Smith,Pennington
 Stephen Smith,Thompson
@@ -6466,7 +6369,6 @@ Stephen Smith,Butler
 Stephen Smith,Gardner
 Stephen Smith,Purvis
 Stephen Smith,Hutchins
-Stephen Smith,A. M.
 Stephen Smith,Vashon
 Stephen Smith,Theo
 Stephen Smith,S. Wright
@@ -6479,7 +6381,7 @@ Stephen Smith,Lewis
 Stephen Smith,Wilson
 Stephen Smith,Stewart
 Stephen Smith,Williams
-Stephen Smith,Crandall
+Stephen Smith,Prudence Crandall
 Stephen Smith,Olney
 Stephen Smith,Charles Gardner
 Stephen Smith,Downing
@@ -6544,7 +6446,6 @@ Joshua P.B. Eddy,Brewer
 Joshua P.B. Eddy,James Cornish
 Joshua P.B. Eddy,Joshua P. B. Eddy
 Joshua P.B. Eddy,Hamilton
-Joshua P.B. Eddy,P. M.
 Joshua P.B. Eddy,Barbadoes
 Joshua P.B. Eddy,Pennington
 Joshua P.B. Eddy,Thompson
@@ -6574,7 +6475,6 @@ Joshua P.B. Eddy,Butler
 Joshua P.B. Eddy,Gardner
 Joshua P.B. Eddy,Purvis
 Joshua P.B. Eddy,Hutchins
-Joshua P.B. Eddy,A. M.
 Joshua P.B. Eddy,Vashon
 Joshua P.B. Eddy,Theo
 Joshua P.B. Eddy,S. Wright
@@ -6587,7 +6487,7 @@ Joshua P.B. Eddy,Lewis
 Joshua P.B. Eddy,Wilson
 Joshua P.B. Eddy,Stewart
 Joshua P.B. Eddy,Williams
-Joshua P.B. Eddy,Crandall
+Joshua P.B. Eddy,Prudence Crandall
 Joshua P.B. Eddy,Olney
 Joshua P.B. Eddy,Charles Gardner
 Joshua P.B. Eddy,Downing
@@ -6651,7 +6551,6 @@ William Brewer,Brewer
 William Brewer,James Cornish
 William Brewer,Joshua P. B. Eddy
 William Brewer,Hamilton
-William Brewer,P. M.
 William Brewer,Barbadoes
 William Brewer,Pennington
 William Brewer,Thompson
@@ -6681,7 +6580,6 @@ William Brewer,Butler
 William Brewer,Gardner
 William Brewer,Purvis
 William Brewer,Hutchins
-William Brewer,A. M.
 William Brewer,Vashon
 William Brewer,Theo
 William Brewer,S. Wright
@@ -6694,7 +6592,7 @@ William Brewer,Lewis
 William Brewer,Wilson
 William Brewer,Stewart
 William Brewer,Williams
-William Brewer,Crandall
+William Brewer,Prudence Crandall
 William Brewer,Olney
 William Brewer,Charles Gardner
 William Brewer,Downing
@@ -6757,7 +6655,6 @@ Wilkesbarre,Brewer
 Wilkesbarre,James Cornish
 Wilkesbarre,Joshua P. B. Eddy
 Wilkesbarre,Hamilton
-Wilkesbarre,P. M.
 Wilkesbarre,Barbadoes
 Wilkesbarre,Pennington
 Wilkesbarre,Thompson
@@ -6787,7 +6684,6 @@ Wilkesbarre,Butler
 Wilkesbarre,Gardner
 Wilkesbarre,Purvis
 Wilkesbarre,Hutchins
-Wilkesbarre,A. M.
 Wilkesbarre,Vashon
 Wilkesbarre,Theo
 Wilkesbarre,S. Wright
@@ -6800,7 +6696,7 @@ Wilkesbarre,Lewis
 Wilkesbarre,Wilson
 Wilkesbarre,Stewart
 Wilkesbarre,Williams
-Wilkesbarre,Crandall
+Wilkesbarre,Prudence Crandall
 Wilkesbarre,Olney
 Wilkesbarre,Charles Gardner
 Wilkesbarre,Downing
@@ -6862,7 +6758,6 @@ Abraham D. Shadd,Brewer
 Abraham D. Shadd,James Cornish
 Abraham D. Shadd,Joshua P. B. Eddy
 Abraham D. Shadd,Hamilton
-Abraham D. Shadd,P. M.
 Abraham D. Shadd,Barbadoes
 Abraham D. Shadd,Pennington
 Abraham D. Shadd,Thompson
@@ -6892,7 +6787,6 @@ Abraham D. Shadd,Butler
 Abraham D. Shadd,Gardner
 Abraham D. Shadd,Purvis
 Abraham D. Shadd,Hutchins
-Abraham D. Shadd,A. M.
 Abraham D. Shadd,Vashon
 Abraham D. Shadd,Theo
 Abraham D. Shadd,S. Wright
@@ -6905,7 +6799,7 @@ Abraham D. Shadd,Lewis
 Abraham D. Shadd,Wilson
 Abraham D. Shadd,Stewart
 Abraham D. Shadd,Williams
-Abraham D. Shadd,Crandall
+Abraham D. Shadd,Prudence Crandall
 Abraham D. Shadd,Olney
 Abraham D. Shadd,Charles Gardner
 Abraham D. Shadd,Downing
@@ -6966,7 +6860,6 @@ Eli Johnson,Brewer
 Eli Johnson,James Cornish
 Eli Johnson,Joshua P. B. Eddy
 Eli Johnson,Hamilton
-Eli Johnson,P. M.
 Eli Johnson,Barbadoes
 Eli Johnson,Pennington
 Eli Johnson,Thompson
@@ -6996,7 +6889,6 @@ Eli Johnson,Butler
 Eli Johnson,Gardner
 Eli Johnson,Purvis
 Eli Johnson,Hutchins
-Eli Johnson,A. M.
 Eli Johnson,Vashon
 Eli Johnson,Theo
 Eli Johnson,S. Wright
@@ -7009,7 +6901,7 @@ Eli Johnson,Lewis
 Eli Johnson,Wilson
 Eli Johnson,Stewart
 Eli Johnson,Williams
-Eli Johnson,Crandall
+Eli Johnson,Prudence Crandall
 Eli Johnson,Olney
 Eli Johnson,Charles Gardner
 Eli Johnson,Downing
@@ -7069,7 +6961,6 @@ Benjamin Wilson,Brewer
 Benjamin Wilson,James Cornish
 Benjamin Wilson,Joshua P. B. Eddy
 Benjamin Wilson,Hamilton
-Benjamin Wilson,P. M.
 Benjamin Wilson,Barbadoes
 Benjamin Wilson,Pennington
 Benjamin Wilson,Thompson
@@ -7099,7 +6990,6 @@ Benjamin Wilson,Butler
 Benjamin Wilson,Gardner
 Benjamin Wilson,Purvis
 Benjamin Wilson,Hutchins
-Benjamin Wilson,A. M.
 Benjamin Wilson,Vashon
 Benjamin Wilson,Theo
 Benjamin Wilson,S. Wright
@@ -7112,7 +7002,7 @@ Benjamin Wilson,Lewis
 Benjamin Wilson,Wilson
 Benjamin Wilson,Stewart
 Benjamin Wilson,Williams
-Benjamin Wilson,Crandall
+Benjamin Wilson,Prudence Crandall
 Benjamin Wilson,Olney
 Benjamin Wilson,Charles Gardner
 Benjamin Wilson,Downing
@@ -7171,7 +7061,6 @@ Joseph Pierce,Brewer
 Joseph Pierce,James Cornish
 Joseph Pierce,Joshua P. B. Eddy
 Joseph Pierce,Hamilton
-Joseph Pierce,P. M.
 Joseph Pierce,Barbadoes
 Joseph Pierce,Pennington
 Joseph Pierce,Thompson
@@ -7201,7 +7090,6 @@ Joseph Pierce,Butler
 Joseph Pierce,Gardner
 Joseph Pierce,Purvis
 Joseph Pierce,Hutchins
-Joseph Pierce,A. M.
 Joseph Pierce,Vashon
 Joseph Pierce,Theo
 Joseph Pierce,S. Wright
@@ -7214,7 +7102,7 @@ Joseph Pierce,Lewis
 Joseph Pierce,Wilson
 Joseph Pierce,Stewart
 Joseph Pierce,Williams
-Joseph Pierce,Crandall
+Joseph Pierce,Prudence Crandall
 Joseph Pierce,Olney
 Joseph Pierce,Charles Gardner
 Joseph Pierce,Downing
@@ -7272,7 +7160,6 @@ Samuel Van Brackle,Brewer
 Samuel Van Brackle,James Cornish
 Samuel Van Brackle,Joshua P. B. Eddy
 Samuel Van Brackle,Hamilton
-Samuel Van Brackle,P. M.
 Samuel Van Brackle,Barbadoes
 Samuel Van Brackle,Pennington
 Samuel Van Brackle,Thompson
@@ -7302,7 +7189,6 @@ Samuel Van Brackle,Butler
 Samuel Van Brackle,Gardner
 Samuel Van Brackle,Purvis
 Samuel Van Brackle,Hutchins
-Samuel Van Brackle,A. M.
 Samuel Van Brackle,Vashon
 Samuel Van Brackle,Theo
 Samuel Van Brackle,S. Wright
@@ -7315,7 +7201,7 @@ Samuel Van Brackle,Lewis
 Samuel Van Brackle,Wilson
 Samuel Van Brackle,Stewart
 Samuel Van Brackle,Williams
-Samuel Van Brackle,Crandall
+Samuel Van Brackle,Prudence Crandall
 Samuel Van Brackle,Olney
 Samuel Van Brackle,Charles Gardner
 Samuel Van Brackle,Downing
@@ -7372,7 +7258,6 @@ Chester,Brewer
 Chester,James Cornish
 Chester,Joshua P. B. Eddy
 Chester,Hamilton
-Chester,P. M.
 Chester,Barbadoes
 Chester,Pennington
 Chester,Thompson
@@ -7402,7 +7287,6 @@ Chester,Butler
 Chester,Gardner
 Chester,Purvis
 Chester,Hutchins
-Chester,A. M.
 Chester,Vashon
 Chester,Theo
 Chester,S. Wright
@@ -7415,7 +7299,7 @@ Chester,Lewis
 Chester,Wilson
 Chester,Stewart
 Chester,Williams
-Chester,Crandall
+Chester,Prudence Crandall
 Chester,Olney
 Chester,Charles Gardner
 Chester,Downing
@@ -7471,7 +7355,6 @@ Henry C. Sippins,Brewer
 Henry C. Sippins,James Cornish
 Henry C. Sippins,Joshua P. B. Eddy
 Henry C. Sippins,Hamilton
-Henry C. Sippins,P. M.
 Henry C. Sippins,Barbadoes
 Henry C. Sippins,Pennington
 Henry C. Sippins,Thompson
@@ -7501,7 +7384,6 @@ Henry C. Sippins,Butler
 Henry C. Sippins,Gardner
 Henry C. Sippins,Purvis
 Henry C. Sippins,Hutchins
-Henry C. Sippins,A. M.
 Henry C. Sippins,Vashon
 Henry C. Sippins,Theo
 Henry C. Sippins,S. Wright
@@ -7514,7 +7396,7 @@ Henry C. Sippins,Lewis
 Henry C. Sippins,Wilson
 Henry C. Sippins,Stewart
 Henry C. Sippins,Williams
-Henry C. Sippins,Crandall
+Henry C. Sippins,Prudence Crandall
 Henry C. Sippins,Olney
 Henry C. Sippins,Charles Gardner
 Henry C. Sippins,Downing
@@ -7569,7 +7451,6 @@ Easton,Brewer
 Easton,James Cornish
 Easton,Joshua P. B. Eddy
 Easton,Hamilton
-Easton,P. M.
 Easton,Barbadoes
 Easton,Pennington
 Easton,Thompson
@@ -7599,7 +7480,6 @@ Easton,Butler
 Easton,Gardner
 Easton,Purvis
 Easton,Hutchins
-Easton,A. M.
 Easton,Vashon
 Easton,Theo
 Easton,S. Wright
@@ -7612,7 +7492,7 @@ Easton,Lewis
 Easton,Wilson
 Easton,Stewart
 Easton,Williams
-Easton,Crandall
+Easton,Prudence Crandall
 Easton,Olney
 Easton,Charles Gardner
 Easton,Downing
@@ -7666,7 +7546,6 @@ William Whipper,Brewer
 William Whipper,James Cornish
 William Whipper,Joshua P. B. Eddy
 William Whipper,Hamilton
-William Whipper,P. M.
 William Whipper,Barbadoes
 William Whipper,Pennington
 William Whipper,Thompson
@@ -7696,7 +7575,6 @@ William Whipper,Butler
 William Whipper,Gardner
 William Whipper,Purvis
 William Whipper,Hutchins
-William Whipper,A. M.
 William Whipper,Vashon
 William Whipper,Theo
 William Whipper,S. Wright
@@ -7709,7 +7587,7 @@ William Whipper,Lewis
 William Whipper,Wilson
 William Whipper,Stewart
 William Whipper,Williams
-William Whipper,Crandall
+William Whipper,Prudence Crandall
 William Whipper,Olney
 William Whipper,Charles Gardner
 William Whipper,Downing
@@ -7762,7 +7640,6 @@ Thomas Butler,Brewer
 Thomas Butler,James Cornish
 Thomas Butler,Joshua P. B. Eddy
 Thomas Butler,Hamilton
-Thomas Butler,P. M.
 Thomas Butler,Barbadoes
 Thomas Butler,Pennington
 Thomas Butler,Thompson
@@ -7792,7 +7669,6 @@ Thomas Butler,Butler
 Thomas Butler,Gardner
 Thomas Butler,Purvis
 Thomas Butler,Hutchins
-Thomas Butler,A. M.
 Thomas Butler,Vashon
 Thomas Butler,Theo
 Thomas Butler,S. Wright
@@ -7805,7 +7681,7 @@ Thomas Butler,Lewis
 Thomas Butler,Wilson
 Thomas Butler,Stewart
 Thomas Butler,Williams
-Thomas Butler,Crandall
+Thomas Butler,Prudence Crandall
 Thomas Butler,Olney
 Thomas Butler,Charles Gardner
 Thomas Butler,Downing
@@ -7857,7 +7733,6 @@ James Bird,Brewer
 James Bird,James Cornish
 James Bird,Joshua P. B. Eddy
 James Bird,Hamilton
-James Bird,P. M.
 James Bird,Barbadoes
 James Bird,Pennington
 James Bird,Thompson
@@ -7887,7 +7762,6 @@ James Bird,Butler
 James Bird,Gardner
 James Bird,Purvis
 James Bird,Hutchins
-James Bird,A. M.
 James Bird,Vashon
 James Bird,Theo
 James Bird,S. Wright
@@ -7900,7 +7774,7 @@ James Bird,Lewis
 James Bird,Wilson
 James Bird,Stewart
 James Bird,Williams
-James Bird,Crandall
+James Bird,Prudence Crandall
 James Bird,Olney
 James Bird,Charles Gardner
 James Bird,Downing
@@ -7951,7 +7825,6 @@ Peter Gardner,Brewer
 Peter Gardner,James Cornish
 Peter Gardner,Joshua P. B. Eddy
 Peter Gardner,Hamilton
-Peter Gardner,P. M.
 Peter Gardner,Barbadoes
 Peter Gardner,Pennington
 Peter Gardner,Thompson
@@ -7981,7 +7854,6 @@ Peter Gardner,Butler
 Peter Gardner,Gardner
 Peter Gardner,Purvis
 Peter Gardner,Hutchins
-Peter Gardner,A. M.
 Peter Gardner,Vashon
 Peter Gardner,Theo
 Peter Gardner,S. Wright
@@ -7994,7 +7866,7 @@ Peter Gardner,Lewis
 Peter Gardner,Wilson
 Peter Gardner,Stewart
 Peter Gardner,Williams
-Peter Gardner,Crandall
+Peter Gardner,Prudence Crandall
 Peter Gardner,Olney
 Peter Gardner,Charles Gardner
 Peter Gardner,Downing
@@ -8044,7 +7916,6 @@ Theodore J.B. London,Brewer
 Theodore J.B. London,James Cornish
 Theodore J.B. London,Joshua P. B. Eddy
 Theodore J.B. London,Hamilton
-Theodore J.B. London,P. M.
 Theodore J.B. London,Barbadoes
 Theodore J.B. London,Pennington
 Theodore J.B. London,Thompson
@@ -8074,7 +7945,6 @@ Theodore J.B. London,Butler
 Theodore J.B. London,Gardner
 Theodore J.B. London,Purvis
 Theodore J.B. London,Hutchins
-Theodore J.B. London,A. M.
 Theodore J.B. London,Vashon
 Theodore J.B. London,Theo
 Theodore J.B. London,S. Wright
@@ -8087,7 +7957,7 @@ Theodore J.B. London,Lewis
 Theodore J.B. London,Wilson
 Theodore J.B. London,Stewart
 Theodore J.B. London,Williams
-Theodore J.B. London,Crandall
+Theodore J.B. London,Prudence Crandall
 Theodore J.B. London,Olney
 Theodore J.B. London,Charles Gardner
 Theodore J.B. London,Downing
@@ -8136,7 +8006,6 @@ Owen T.B. Nicken,Brewer
 Owen T.B. Nicken,James Cornish
 Owen T.B. Nicken,Joshua P. B. Eddy
 Owen T.B. Nicken,Hamilton
-Owen T.B. Nicken,P. M.
 Owen T.B. Nicken,Barbadoes
 Owen T.B. Nicken,Pennington
 Owen T.B. Nicken,Thompson
@@ -8166,7 +8035,6 @@ Owen T.B. Nicken,Butler
 Owen T.B. Nicken,Gardner
 Owen T.B. Nicken,Purvis
 Owen T.B. Nicken,Hutchins
-Owen T.B. Nicken,A. M.
 Owen T.B. Nicken,Vashon
 Owen T.B. Nicken,Theo
 Owen T.B. Nicken,S. Wright
@@ -8179,7 +8047,7 @@ Owen T.B. Nicken,Lewis
 Owen T.B. Nicken,Wilson
 Owen T.B. Nicken,Stewart
 Owen T.B. Nicken,Williams
-Owen T.B. Nicken,Crandall
+Owen T.B. Nicken,Prudence Crandall
 Owen T.B. Nicken,Olney
 Owen T.B. Nicken,Charles Gardner
 Owen T.B. Nicken,Downing
@@ -8227,7 +8095,6 @@ Sipkins,Brewer
 Sipkins,James Cornish
 Sipkins,Joshua P. B. Eddy
 Sipkins,Hamilton
-Sipkins,P. M.
 Sipkins,Barbadoes
 Sipkins,Pennington
 Sipkins,Thompson
@@ -8257,7 +8124,6 @@ Sipkins,Butler
 Sipkins,Gardner
 Sipkins,Purvis
 Sipkins,Hutchins
-Sipkins,A. M.
 Sipkins,Vashon
 Sipkins,Theo
 Sipkins,S. Wright
@@ -8270,7 +8136,7 @@ Sipkins,Lewis
 Sipkins,Wilson
 Sipkins,Stewart
 Sipkins,Williams
-Sipkins,Crandall
+Sipkins,Prudence Crandall
 Sipkins,Olney
 Sipkins,Charles Gardner
 Sipkins,Downing
@@ -8317,7 +8183,6 @@ Smith,Brewer
 Smith,James Cornish
 Smith,Joshua P. B. Eddy
 Smith,Hamilton
-Smith,P. M.
 Smith,Barbadoes
 Smith,Pennington
 Smith,Thompson
@@ -8347,7 +8212,6 @@ Smith,Butler
 Smith,Gardner
 Smith,Purvis
 Smith,Hutchins
-Smith,A. M.
 Smith,Vashon
 Smith,Theo
 Smith,S. Wright
@@ -8360,7 +8224,7 @@ Smith,Lewis
 Smith,Wilson
 Smith,Stewart
 Smith,Williams
-Smith,Crandall
+Smith,Prudence Crandall
 Smith,Olney
 Smith,Charles Gardner
 Smith,Downing
@@ -8406,7 +8270,6 @@ Jackson,Brewer
 Jackson,James Cornish
 Jackson,Joshua P. B. Eddy
 Jackson,Hamilton
-Jackson,P. M.
 Jackson,Barbadoes
 Jackson,Pennington
 Jackson,Thompson
@@ -8436,7 +8299,6 @@ Jackson,Butler
 Jackson,Gardner
 Jackson,Purvis
 Jackson,Hutchins
-Jackson,A. M.
 Jackson,Vashon
 Jackson,Theo
 Jackson,S. Wright
@@ -8449,7 +8311,7 @@ Jackson,Lewis
 Jackson,Wilson
 Jackson,Stewart
 Jackson,Williams
-Jackson,Crandall
+Jackson,Prudence Crandall
 Jackson,Olney
 Jackson,Charles Gardner
 Jackson,Downing
@@ -8494,7 +8356,6 @@ Francis,Brewer
 Francis,James Cornish
 Francis,Joshua P. B. Eddy
 Francis,Hamilton
-Francis,P. M.
 Francis,Barbadoes
 Francis,Pennington
 Francis,Thompson
@@ -8524,7 +8385,6 @@ Francis,Butler
 Francis,Gardner
 Francis,Purvis
 Francis,Hutchins
-Francis,A. M.
 Francis,Vashon
 Francis,Theo
 Francis,S. Wright
@@ -8537,7 +8397,7 @@ Francis,Lewis
 Francis,Wilson
 Francis,Stewart
 Francis,Williams
-Francis,Crandall
+Francis,Prudence Crandall
 Francis,Olney
 Francis,Charles Gardner
 Francis,Downing
@@ -8581,7 +8441,6 @@ Van Brackle,Brewer
 Van Brackle,James Cornish
 Van Brackle,Joshua P. B. Eddy
 Van Brackle,Hamilton
-Van Brackle,P. M.
 Van Brackle,Barbadoes
 Van Brackle,Pennington
 Van Brackle,Thompson
@@ -8611,7 +8470,6 @@ Van Brackle,Butler
 Van Brackle,Gardner
 Van Brackle,Purvis
 Van Brackle,Hutchins
-Van Brackle,A. M.
 Van Brackle,Vashon
 Van Brackle,Theo
 Van Brackle,S. Wright
@@ -8624,7 +8482,7 @@ Van Brackle,Lewis
 Van Brackle,Wilson
 Van Brackle,Stewart
 Van Brackle,Williams
-Van Brackle,Crandall
+Van Brackle,Prudence Crandall
 Van Brackle,Olney
 Van Brackle,Charles Gardner
 Van Brackle,Downing
@@ -8667,7 +8525,6 @@ Peck,Brewer
 Peck,James Cornish
 Peck,Joshua P. B. Eddy
 Peck,Hamilton
-Peck,P. M.
 Peck,Barbadoes
 Peck,Pennington
 Peck,Thompson
@@ -8697,7 +8554,6 @@ Peck,Butler
 Peck,Gardner
 Peck,Purvis
 Peck,Hutchins
-Peck,A. M.
 Peck,Vashon
 Peck,Theo
 Peck,S. Wright
@@ -8710,7 +8566,7 @@ Peck,Lewis
 Peck,Wilson
 Peck,Stewart
 Peck,Williams
-Peck,Crandall
+Peck,Prudence Crandall
 Peck,Olney
 Peck,Charles Gardner
 Peck,Downing
@@ -8752,7 +8608,6 @@ Perry,Brewer
 Perry,James Cornish
 Perry,Joshua P. B. Eddy
 Perry,Hamilton
-Perry,P. M.
 Perry,Barbadoes
 Perry,Pennington
 Perry,Thompson
@@ -8782,7 +8637,6 @@ Perry,Butler
 Perry,Gardner
 Perry,Purvis
 Perry,Hutchins
-Perry,A. M.
 Perry,Vashon
 Perry,Theo
 Perry,S. Wright
@@ -8795,7 +8649,7 @@ Perry,Lewis
 Perry,Wilson
 Perry,Stewart
 Perry,Williams
-Perry,Crandall
+Perry,Prudence Crandall
 Perry,Olney
 Perry,Charles Gardner
 Perry,Downing
@@ -8836,7 +8690,6 @@ Ogden,Brewer
 Ogden,James Cornish
 Ogden,Joshua P. B. Eddy
 Ogden,Hamilton
-Ogden,P. M.
 Ogden,Barbadoes
 Ogden,Pennington
 Ogden,Thompson
@@ -8866,7 +8719,6 @@ Ogden,Butler
 Ogden,Gardner
 Ogden,Purvis
 Ogden,Hutchins
-Ogden,A. M.
 Ogden,Vashon
 Ogden,Theo
 Ogden,S. Wright
@@ -8879,7 +8731,7 @@ Ogden,Lewis
 Ogden,Wilson
 Ogden,Stewart
 Ogden,Williams
-Ogden,Crandall
+Ogden,Prudence Crandall
 Ogden,Olney
 Ogden,Charles Gardner
 Ogden,Downing
@@ -8919,7 +8771,6 @@ Ogden,B. F. Hughes
 Brewer,James Cornish
 Brewer,Joshua P. B. Eddy
 Brewer,Hamilton
-Brewer,P. M.
 Brewer,Barbadoes
 Brewer,Pennington
 Brewer,Thompson
@@ -8949,7 +8800,6 @@ Brewer,Butler
 Brewer,Gardner
 Brewer,Purvis
 Brewer,Hutchins
-Brewer,A. M.
 Brewer,Vashon
 Brewer,Theo
 Brewer,S. Wright
@@ -8962,7 +8812,7 @@ Brewer,Lewis
 Brewer,Wilson
 Brewer,Stewart
 Brewer,Williams
-Brewer,Crandall
+Brewer,Prudence Crandall
 Brewer,Olney
 Brewer,Charles Gardner
 Brewer,Downing
@@ -9001,7 +8851,6 @@ Brewer,Charles Stewart
 Brewer,B. F. Hughes
 James Cornish,Joshua P. B. Eddy
 James Cornish,Hamilton
-James Cornish,P. M.
 James Cornish,Barbadoes
 James Cornish,Pennington
 James Cornish,Thompson
@@ -9031,7 +8880,6 @@ James Cornish,Butler
 James Cornish,Gardner
 James Cornish,Purvis
 James Cornish,Hutchins
-James Cornish,A. M.
 James Cornish,Vashon
 James Cornish,Theo
 James Cornish,S. Wright
@@ -9044,7 +8892,7 @@ James Cornish,Lewis
 James Cornish,Wilson
 James Cornish,Stewart
 James Cornish,Williams
-James Cornish,Crandall
+James Cornish,Prudence Crandall
 James Cornish,Olney
 James Cornish,Charles Gardner
 James Cornish,Downing
@@ -9082,7 +8930,6 @@ James Cornish,Owen T. B Nicken
 James Cornish,Charles Stewart
 James Cornish,B. F. Hughes
 Joshua P. B. Eddy,Hamilton
-Joshua P. B. Eddy,P. M.
 Joshua P. B. Eddy,Barbadoes
 Joshua P. B. Eddy,Pennington
 Joshua P. B. Eddy,Thompson
@@ -9112,7 +8959,6 @@ Joshua P. B. Eddy,Butler
 Joshua P. B. Eddy,Gardner
 Joshua P. B. Eddy,Purvis
 Joshua P. B. Eddy,Hutchins
-Joshua P. B. Eddy,A. M.
 Joshua P. B. Eddy,Vashon
 Joshua P. B. Eddy,Theo
 Joshua P. B. Eddy,S. Wright
@@ -9125,7 +8971,7 @@ Joshua P. B. Eddy,Lewis
 Joshua P. B. Eddy,Wilson
 Joshua P. B. Eddy,Stewart
 Joshua P. B. Eddy,Williams
-Joshua P. B. Eddy,Crandall
+Joshua P. B. Eddy,Prudence Crandall
 Joshua P. B. Eddy,Olney
 Joshua P. B. Eddy,Charles Gardner
 Joshua P. B. Eddy,Downing
@@ -9162,7 +9008,6 @@ Joshua P. B. Eddy,Arthur Waring
 Joshua P. B. Eddy,Owen T. B Nicken
 Joshua P. B. Eddy,Charles Stewart
 Joshua P. B. Eddy,B. F. Hughes
-Hamilton,P. M.
 Hamilton,Barbadoes
 Hamilton,Pennington
 Hamilton,Thompson
@@ -9192,7 +9037,6 @@ Hamilton,Butler
 Hamilton,Gardner
 Hamilton,Purvis
 Hamilton,Hutchins
-Hamilton,A. M.
 Hamilton,Vashon
 Hamilton,Theo
 Hamilton,S. Wright
@@ -9205,7 +9049,7 @@ Hamilton,Lewis
 Hamilton,Wilson
 Hamilton,Stewart
 Hamilton,Williams
-Hamilton,Crandall
+Hamilton,Prudence Crandall
 Hamilton,Olney
 Hamilton,Charles Gardner
 Hamilton,Downing
@@ -9242,85 +9086,6 @@ Hamilton,Arthur Waring
 Hamilton,Owen T. B Nicken
 Hamilton,Charles Stewart
 Hamilton,B. F. Hughes
-P. M.,Barbadoes
-P. M.,Pennington
-P. M.,Thompson
-P. M.,Remond
-P. M.,Drayton
-P. M.,Merriman
-P. M.,Nickens
-P. M.,Johnson
-P. M.,Hinton
-P. M.,Eddy
-P. M.,Shadd
-P. M.,Blount
-P. M.,Whipper
-P. M.,Luca
-P. M.,Israel Lewis
-P. M.,U. C.
-P. M.,Evan Williams
-P. M.,Richard Voluntine
-P. M.,Robt
-P. M.,Elizur Wright
-P. M.,Arthur Tappan
-P. M.,N. Y.
-P. M.,Brown
-P. M.,Wycoff
-P. M.,Bird
-P. M.,Butler
-P. M.,Gardner
-P. M.,Purvis
-P. M.,Hutchins
-P. M.,A. M.
-P. M.,Vashon
-P. M.,Theo
-P. M.,S. Wright
-P. M.,Scarlett
-P. M.,Gray
-P. M.,Closson
-P. M.,Freeman
-P. M.,Nicken
-P. M.,Lewis
-P. M.,Wilson
-P. M.,Stewart
-P. M.,Williams
-P. M.,Crandall
-P. M.,Olney
-P. M.,Charles Gardner
-P. M.,Downing
-P. M.,Frazer
-P. M.,Wm. Hamilton
-P. M.,Robertson
-P. M.,Atlec
-P. M.,Andrew Jackson
-P. M.,Spywood
-P. M.,Todd
-P. M.,Messrs Gardner
-P. M.,L. Cox
-P. M.,Messrs. Hutchins
-P. M.,Burr
-P. M.,Daniel B. Brownhill
-P. M.,John Bowers
-P. M.,James Mc Crummell
-P. M.,Junius C. Morell
-P. M.,Joshua Brown
-P. M.,Robert C. Gordon
-P. M.,Jacob White
-P. M.,Manuel
-P. M.,Reuben Reuben
-P. M.,Richard Johnson
-P. M.,New-Bedford
-P. M.,George C. Willis
-P. M.,Luke Lathrop
-P. M.,Thomas L. Jinnings
-P. M.,James Needham
-P. M.,James Hiner
-P. M.,Robert Cooley
-P. M.,Peter Hubbard
-P. M.,Arthur Waring
-P. M.,Owen T. B Nicken
-P. M.,Charles Stewart
-P. M.,B. F. Hughes
 Barbadoes,Pennington
 Barbadoes,Thompson
 Barbadoes,Remond
@@ -9349,7 +9114,6 @@ Barbadoes,Butler
 Barbadoes,Gardner
 Barbadoes,Purvis
 Barbadoes,Hutchins
-Barbadoes,A. M.
 Barbadoes,Vashon
 Barbadoes,Theo
 Barbadoes,S. Wright
@@ -9362,7 +9126,7 @@ Barbadoes,Lewis
 Barbadoes,Wilson
 Barbadoes,Stewart
 Barbadoes,Williams
-Barbadoes,Crandall
+Barbadoes,Prudence Crandall
 Barbadoes,Olney
 Barbadoes,Charles Gardner
 Barbadoes,Downing
@@ -9426,7 +9190,6 @@ Pennington,Butler
 Pennington,Gardner
 Pennington,Purvis
 Pennington,Hutchins
-Pennington,A. M.
 Pennington,Vashon
 Pennington,Theo
 Pennington,S. Wright
@@ -9439,7 +9202,7 @@ Pennington,Lewis
 Pennington,Wilson
 Pennington,Stewart
 Pennington,Williams
-Pennington,Crandall
+Pennington,Prudence Crandall
 Pennington,Olney
 Pennington,Charles Gardner
 Pennington,Downing
@@ -9502,7 +9265,6 @@ Thompson,Butler
 Thompson,Gardner
 Thompson,Purvis
 Thompson,Hutchins
-Thompson,A. M.
 Thompson,Vashon
 Thompson,Theo
 Thompson,S. Wright
@@ -9515,7 +9277,7 @@ Thompson,Lewis
 Thompson,Wilson
 Thompson,Stewart
 Thompson,Williams
-Thompson,Crandall
+Thompson,Prudence Crandall
 Thompson,Olney
 Thompson,Charles Gardner
 Thompson,Downing
@@ -9577,7 +9339,6 @@ Remond,Butler
 Remond,Gardner
 Remond,Purvis
 Remond,Hutchins
-Remond,A. M.
 Remond,Vashon
 Remond,Theo
 Remond,S. Wright
@@ -9590,7 +9351,7 @@ Remond,Lewis
 Remond,Wilson
 Remond,Stewart
 Remond,Williams
-Remond,Crandall
+Remond,Prudence Crandall
 Remond,Olney
 Remond,Charles Gardner
 Remond,Downing
@@ -9651,7 +9412,6 @@ Drayton,Butler
 Drayton,Gardner
 Drayton,Purvis
 Drayton,Hutchins
-Drayton,A. M.
 Drayton,Vashon
 Drayton,Theo
 Drayton,S. Wright
@@ -9664,7 +9424,7 @@ Drayton,Lewis
 Drayton,Wilson
 Drayton,Stewart
 Drayton,Williams
-Drayton,Crandall
+Drayton,Prudence Crandall
 Drayton,Olney
 Drayton,Charles Gardner
 Drayton,Downing
@@ -9724,7 +9484,6 @@ Merriman,Butler
 Merriman,Gardner
 Merriman,Purvis
 Merriman,Hutchins
-Merriman,A. M.
 Merriman,Vashon
 Merriman,Theo
 Merriman,S. Wright
@@ -9737,7 +9496,7 @@ Merriman,Lewis
 Merriman,Wilson
 Merriman,Stewart
 Merriman,Williams
-Merriman,Crandall
+Merriman,Prudence Crandall
 Merriman,Olney
 Merriman,Charles Gardner
 Merriman,Downing
@@ -9796,7 +9555,6 @@ Nickens,Butler
 Nickens,Gardner
 Nickens,Purvis
 Nickens,Hutchins
-Nickens,A. M.
 Nickens,Vashon
 Nickens,Theo
 Nickens,S. Wright
@@ -9809,7 +9567,7 @@ Nickens,Lewis
 Nickens,Wilson
 Nickens,Stewart
 Nickens,Williams
-Nickens,Crandall
+Nickens,Prudence Crandall
 Nickens,Olney
 Nickens,Charles Gardner
 Nickens,Downing
@@ -9867,7 +9625,6 @@ Johnson,Butler
 Johnson,Gardner
 Johnson,Purvis
 Johnson,Hutchins
-Johnson,A. M.
 Johnson,Vashon
 Johnson,Theo
 Johnson,S. Wright
@@ -9880,7 +9637,7 @@ Johnson,Lewis
 Johnson,Wilson
 Johnson,Stewart
 Johnson,Williams
-Johnson,Crandall
+Johnson,Prudence Crandall
 Johnson,Olney
 Johnson,Charles Gardner
 Johnson,Downing
@@ -9937,7 +9694,6 @@ Hinton,Butler
 Hinton,Gardner
 Hinton,Purvis
 Hinton,Hutchins
-Hinton,A. M.
 Hinton,Vashon
 Hinton,Theo
 Hinton,S. Wright
@@ -9950,7 +9706,7 @@ Hinton,Lewis
 Hinton,Wilson
 Hinton,Stewart
 Hinton,Williams
-Hinton,Crandall
+Hinton,Prudence Crandall
 Hinton,Olney
 Hinton,Charles Gardner
 Hinton,Downing
@@ -10006,7 +9762,6 @@ Eddy,Butler
 Eddy,Gardner
 Eddy,Purvis
 Eddy,Hutchins
-Eddy,A. M.
 Eddy,Vashon
 Eddy,Theo
 Eddy,S. Wright
@@ -10019,7 +9774,7 @@ Eddy,Lewis
 Eddy,Wilson
 Eddy,Stewart
 Eddy,Williams
-Eddy,Crandall
+Eddy,Prudence Crandall
 Eddy,Olney
 Eddy,Charles Gardner
 Eddy,Downing
@@ -10074,7 +9829,6 @@ Shadd,Butler
 Shadd,Gardner
 Shadd,Purvis
 Shadd,Hutchins
-Shadd,A. M.
 Shadd,Vashon
 Shadd,Theo
 Shadd,S. Wright
@@ -10087,7 +9841,7 @@ Shadd,Lewis
 Shadd,Wilson
 Shadd,Stewart
 Shadd,Williams
-Shadd,Crandall
+Shadd,Prudence Crandall
 Shadd,Olney
 Shadd,Charles Gardner
 Shadd,Downing
@@ -10141,7 +9895,6 @@ Blount,Butler
 Blount,Gardner
 Blount,Purvis
 Blount,Hutchins
-Blount,A. M.
 Blount,Vashon
 Blount,Theo
 Blount,S. Wright
@@ -10154,7 +9907,7 @@ Blount,Lewis
 Blount,Wilson
 Blount,Stewart
 Blount,Williams
-Blount,Crandall
+Blount,Prudence Crandall
 Blount,Olney
 Blount,Charles Gardner
 Blount,Downing
@@ -10207,7 +9960,6 @@ Whipper,Butler
 Whipper,Gardner
 Whipper,Purvis
 Whipper,Hutchins
-Whipper,A. M.
 Whipper,Vashon
 Whipper,Theo
 Whipper,S. Wright
@@ -10220,7 +9972,7 @@ Whipper,Lewis
 Whipper,Wilson
 Whipper,Stewart
 Whipper,Williams
-Whipper,Crandall
+Whipper,Prudence Crandall
 Whipper,Olney
 Whipper,Charles Gardner
 Whipper,Downing
@@ -10272,7 +10024,6 @@ Luca,Butler
 Luca,Gardner
 Luca,Purvis
 Luca,Hutchins
-Luca,A. M.
 Luca,Vashon
 Luca,Theo
 Luca,S. Wright
@@ -10285,7 +10036,7 @@ Luca,Lewis
 Luca,Wilson
 Luca,Stewart
 Luca,Williams
-Luca,Crandall
+Luca,Prudence Crandall
 Luca,Olney
 Luca,Charles Gardner
 Luca,Downing
@@ -10336,7 +10087,6 @@ Israel Lewis,Butler
 Israel Lewis,Gardner
 Israel Lewis,Purvis
 Israel Lewis,Hutchins
-Israel Lewis,A. M.
 Israel Lewis,Vashon
 Israel Lewis,Theo
 Israel Lewis,S. Wright
@@ -10349,7 +10099,7 @@ Israel Lewis,Lewis
 Israel Lewis,Wilson
 Israel Lewis,Stewart
 Israel Lewis,Williams
-Israel Lewis,Crandall
+Israel Lewis,Prudence Crandall
 Israel Lewis,Olney
 Israel Lewis,Charles Gardner
 Israel Lewis,Downing
@@ -10399,7 +10149,6 @@ U. C.,Butler
 U. C.,Gardner
 U. C.,Purvis
 U. C.,Hutchins
-U. C.,A. M.
 U. C.,Vashon
 U. C.,Theo
 U. C.,S. Wright
@@ -10412,7 +10161,7 @@ U. C.,Lewis
 U. C.,Wilson
 U. C.,Stewart
 U. C.,Williams
-U. C.,Crandall
+U. C.,Prudence Crandall
 U. C.,Olney
 U. C.,Charles Gardner
 U. C.,Downing
@@ -10461,7 +10210,6 @@ Evan Williams,Butler
 Evan Williams,Gardner
 Evan Williams,Purvis
 Evan Williams,Hutchins
-Evan Williams,A. M.
 Evan Williams,Vashon
 Evan Williams,Theo
 Evan Williams,S. Wright
@@ -10474,7 +10222,7 @@ Evan Williams,Lewis
 Evan Williams,Wilson
 Evan Williams,Stewart
 Evan Williams,Williams
-Evan Williams,Crandall
+Evan Williams,Prudence Crandall
 Evan Williams,Olney
 Evan Williams,Charles Gardner
 Evan Williams,Downing
@@ -10522,7 +10270,6 @@ Richard Voluntine,Butler
 Richard Voluntine,Gardner
 Richard Voluntine,Purvis
 Richard Voluntine,Hutchins
-Richard Voluntine,A. M.
 Richard Voluntine,Vashon
 Richard Voluntine,Theo
 Richard Voluntine,S. Wright
@@ -10535,7 +10282,7 @@ Richard Voluntine,Lewis
 Richard Voluntine,Wilson
 Richard Voluntine,Stewart
 Richard Voluntine,Williams
-Richard Voluntine,Crandall
+Richard Voluntine,Prudence Crandall
 Richard Voluntine,Olney
 Richard Voluntine,Charles Gardner
 Richard Voluntine,Downing
@@ -10582,7 +10329,6 @@ Robt,Butler
 Robt,Gardner
 Robt,Purvis
 Robt,Hutchins
-Robt,A. M.
 Robt,Vashon
 Robt,Theo
 Robt,S. Wright
@@ -10595,7 +10341,7 @@ Robt,Lewis
 Robt,Wilson
 Robt,Stewart
 Robt,Williams
-Robt,Crandall
+Robt,Prudence Crandall
 Robt,Olney
 Robt,Charles Gardner
 Robt,Downing
@@ -10641,7 +10387,6 @@ Elizur Wright,Butler
 Elizur Wright,Gardner
 Elizur Wright,Purvis
 Elizur Wright,Hutchins
-Elizur Wright,A. M.
 Elizur Wright,Vashon
 Elizur Wright,Theo
 Elizur Wright,S. Wright
@@ -10654,7 +10399,7 @@ Elizur Wright,Lewis
 Elizur Wright,Wilson
 Elizur Wright,Stewart
 Elizur Wright,Williams
-Elizur Wright,Crandall
+Elizur Wright,Prudence Crandall
 Elizur Wright,Olney
 Elizur Wright,Charles Gardner
 Elizur Wright,Downing
@@ -10699,7 +10444,6 @@ Arthur Tappan,Butler
 Arthur Tappan,Gardner
 Arthur Tappan,Purvis
 Arthur Tappan,Hutchins
-Arthur Tappan,A. M.
 Arthur Tappan,Vashon
 Arthur Tappan,Theo
 Arthur Tappan,S. Wright
@@ -10712,7 +10456,7 @@ Arthur Tappan,Lewis
 Arthur Tappan,Wilson
 Arthur Tappan,Stewart
 Arthur Tappan,Williams
-Arthur Tappan,Crandall
+Arthur Tappan,Prudence Crandall
 Arthur Tappan,Olney
 Arthur Tappan,Charles Gardner
 Arthur Tappan,Downing
@@ -10756,7 +10500,6 @@ N. Y.,Butler
 N. Y.,Gardner
 N. Y.,Purvis
 N. Y.,Hutchins
-N. Y.,A. M.
 N. Y.,Vashon
 N. Y.,Theo
 N. Y.,S. Wright
@@ -10769,7 +10512,7 @@ N. Y.,Lewis
 N. Y.,Wilson
 N. Y.,Stewart
 N. Y.,Williams
-N. Y.,Crandall
+N. Y.,Prudence Crandall
 N. Y.,Olney
 N. Y.,Charles Gardner
 N. Y.,Downing
@@ -10812,7 +10555,6 @@ Brown,Butler
 Brown,Gardner
 Brown,Purvis
 Brown,Hutchins
-Brown,A. M.
 Brown,Vashon
 Brown,Theo
 Brown,S. Wright
@@ -10825,7 +10567,7 @@ Brown,Lewis
 Brown,Wilson
 Brown,Stewart
 Brown,Williams
-Brown,Crandall
+Brown,Prudence Crandall
 Brown,Olney
 Brown,Charles Gardner
 Brown,Downing
@@ -10867,7 +10609,6 @@ Wycoff,Butler
 Wycoff,Gardner
 Wycoff,Purvis
 Wycoff,Hutchins
-Wycoff,A. M.
 Wycoff,Vashon
 Wycoff,Theo
 Wycoff,S. Wright
@@ -10880,7 +10621,7 @@ Wycoff,Lewis
 Wycoff,Wilson
 Wycoff,Stewart
 Wycoff,Williams
-Wycoff,Crandall
+Wycoff,Prudence Crandall
 Wycoff,Olney
 Wycoff,Charles Gardner
 Wycoff,Downing
@@ -10921,7 +10662,6 @@ Bird,Butler
 Bird,Gardner
 Bird,Purvis
 Bird,Hutchins
-Bird,A. M.
 Bird,Vashon
 Bird,Theo
 Bird,S. Wright
@@ -10934,7 +10674,7 @@ Bird,Lewis
 Bird,Wilson
 Bird,Stewart
 Bird,Williams
-Bird,Crandall
+Bird,Prudence Crandall
 Bird,Olney
 Bird,Charles Gardner
 Bird,Downing
@@ -10974,7 +10714,6 @@ Bird,B. F. Hughes
 Butler,Gardner
 Butler,Purvis
 Butler,Hutchins
-Butler,A. M.
 Butler,Vashon
 Butler,Theo
 Butler,S. Wright
@@ -10987,7 +10726,7 @@ Butler,Lewis
 Butler,Wilson
 Butler,Stewart
 Butler,Williams
-Butler,Crandall
+Butler,Prudence Crandall
 Butler,Olney
 Butler,Charles Gardner
 Butler,Downing
@@ -11026,7 +10765,6 @@ Butler,Charles Stewart
 Butler,B. F. Hughes
 Gardner,Purvis
 Gardner,Hutchins
-Gardner,A. M.
 Gardner,Vashon
 Gardner,Theo
 Gardner,S. Wright
@@ -11039,7 +10777,7 @@ Gardner,Lewis
 Gardner,Wilson
 Gardner,Stewart
 Gardner,Williams
-Gardner,Crandall
+Gardner,Prudence Crandall
 Gardner,Olney
 Gardner,Charles Gardner
 Gardner,Downing
@@ -11077,7 +10815,6 @@ Gardner,Owen T. B Nicken
 Gardner,Charles Stewart
 Gardner,B. F. Hughes
 Purvis,Hutchins
-Purvis,A. M.
 Purvis,Vashon
 Purvis,Theo
 Purvis,S. Wright
@@ -11090,7 +10827,7 @@ Purvis,Lewis
 Purvis,Wilson
 Purvis,Stewart
 Purvis,Williams
-Purvis,Crandall
+Purvis,Prudence Crandall
 Purvis,Olney
 Purvis,Charles Gardner
 Purvis,Downing
@@ -11127,7 +10864,6 @@ Purvis,Arthur Waring
 Purvis,Owen T. B Nicken
 Purvis,Charles Stewart
 Purvis,B. F. Hughes
-Hutchins,A. M.
 Hutchins,Vashon
 Hutchins,Theo
 Hutchins,S. Wright
@@ -11140,7 +10876,7 @@ Hutchins,Lewis
 Hutchins,Wilson
 Hutchins,Stewart
 Hutchins,Williams
-Hutchins,Crandall
+Hutchins,Prudence Crandall
 Hutchins,Olney
 Hutchins,Charles Gardner
 Hutchins,Downing
@@ -11177,55 +10913,6 @@ Hutchins,Arthur Waring
 Hutchins,Owen T. B Nicken
 Hutchins,Charles Stewart
 Hutchins,B. F. Hughes
-A. M.,Vashon
-A. M.,Theo
-A. M.,S. Wright
-A. M.,Scarlett
-A. M.,Gray
-A. M.,Closson
-A. M.,Freeman
-A. M.,Nicken
-A. M.,Lewis
-A. M.,Wilson
-A. M.,Stewart
-A. M.,Williams
-A. M.,Crandall
-A. M.,Olney
-A. M.,Charles Gardner
-A. M.,Downing
-A. M.,Frazer
-A. M.,Wm. Hamilton
-A. M.,Robertson
-A. M.,Atlec
-A. M.,Andrew Jackson
-A. M.,Spywood
-A. M.,Todd
-A. M.,Messrs Gardner
-A. M.,L. Cox
-A. M.,Messrs. Hutchins
-A. M.,Burr
-A. M.,Daniel B. Brownhill
-A. M.,John Bowers
-A. M.,James Mc Crummell
-A. M.,Junius C. Morell
-A. M.,Joshua Brown
-A. M.,Robert C. Gordon
-A. M.,Jacob White
-A. M.,Manuel
-A. M.,Reuben Reuben
-A. M.,Richard Johnson
-A. M.,New-Bedford
-A. M.,George C. Willis
-A. M.,Luke Lathrop
-A. M.,Thomas L. Jinnings
-A. M.,James Needham
-A. M.,James Hiner
-A. M.,Robert Cooley
-A. M.,Peter Hubbard
-A. M.,Arthur Waring
-A. M.,Owen T. B Nicken
-A. M.,Charles Stewart
-A. M.,B. F. Hughes
 Vashon,Theo
 Vashon,S. Wright
 Vashon,Scarlett
@@ -11237,7 +10924,7 @@ Vashon,Lewis
 Vashon,Wilson
 Vashon,Stewart
 Vashon,Williams
-Vashon,Crandall
+Vashon,Prudence Crandall
 Vashon,Olney
 Vashon,Charles Gardner
 Vashon,Downing
@@ -11284,7 +10971,7 @@ Theo,Lewis
 Theo,Wilson
 Theo,Stewart
 Theo,Williams
-Theo,Crandall
+Theo,Prudence Crandall
 Theo,Olney
 Theo,Charles Gardner
 Theo,Downing
@@ -11330,7 +11017,7 @@ S. Wright,Lewis
 S. Wright,Wilson
 S. Wright,Stewart
 S. Wright,Williams
-S. Wright,Crandall
+S. Wright,Prudence Crandall
 S. Wright,Olney
 S. Wright,Charles Gardner
 S. Wright,Downing
@@ -11375,7 +11062,7 @@ Scarlett,Lewis
 Scarlett,Wilson
 Scarlett,Stewart
 Scarlett,Williams
-Scarlett,Crandall
+Scarlett,Prudence Crandall
 Scarlett,Olney
 Scarlett,Charles Gardner
 Scarlett,Downing
@@ -11419,7 +11106,7 @@ Gray,Lewis
 Gray,Wilson
 Gray,Stewart
 Gray,Williams
-Gray,Crandall
+Gray,Prudence Crandall
 Gray,Olney
 Gray,Charles Gardner
 Gray,Downing
@@ -11462,7 +11149,7 @@ Closson,Lewis
 Closson,Wilson
 Closson,Stewart
 Closson,Williams
-Closson,Crandall
+Closson,Prudence Crandall
 Closson,Olney
 Closson,Charles Gardner
 Closson,Downing
@@ -11504,7 +11191,7 @@ Freeman,Lewis
 Freeman,Wilson
 Freeman,Stewart
 Freeman,Williams
-Freeman,Crandall
+Freeman,Prudence Crandall
 Freeman,Olney
 Freeman,Charles Gardner
 Freeman,Downing
@@ -11545,7 +11232,7 @@ Nicken,Lewis
 Nicken,Wilson
 Nicken,Stewart
 Nicken,Williams
-Nicken,Crandall
+Nicken,Prudence Crandall
 Nicken,Olney
 Nicken,Charles Gardner
 Nicken,Downing
@@ -11585,7 +11272,7 @@ Nicken,B. F. Hughes
 Lewis,Wilson
 Lewis,Stewart
 Lewis,Williams
-Lewis,Crandall
+Lewis,Prudence Crandall
 Lewis,Olney
 Lewis,Charles Gardner
 Lewis,Downing
@@ -11624,7 +11311,7 @@ Lewis,Charles Stewart
 Lewis,B. F. Hughes
 Wilson,Stewart
 Wilson,Williams
-Wilson,Crandall
+Wilson,Prudence Crandall
 Wilson,Olney
 Wilson,Charles Gardner
 Wilson,Downing
@@ -11662,7 +11349,7 @@ Wilson,Owen T. B Nicken
 Wilson,Charles Stewart
 Wilson,B. F. Hughes
 Stewart,Williams
-Stewart,Crandall
+Stewart,Prudence Crandall
 Stewart,Olney
 Stewart,Charles Gardner
 Stewart,Downing
@@ -11699,7 +11386,7 @@ Stewart,Arthur Waring
 Stewart,Owen T. B Nicken
 Stewart,Charles Stewart
 Stewart,B. F. Hughes
-Williams,Crandall
+Williams,Prudence Crandall
 Williams,Olney
 Williams,Charles Gardner
 Williams,Downing
@@ -11736,42 +11423,42 @@ Williams,Arthur Waring
 Williams,Owen T. B Nicken
 Williams,Charles Stewart
 Williams,B. F. Hughes
-Crandall,Olney
-Crandall,Charles Gardner
-Crandall,Downing
-Crandall,Frazer
-Crandall,Wm. Hamilton
-Crandall,Robertson
-Crandall,Atlec
-Crandall,Andrew Jackson
-Crandall,Spywood
-Crandall,Todd
-Crandall,Messrs Gardner
-Crandall,L. Cox
-Crandall,Messrs. Hutchins
-Crandall,Burr
-Crandall,Daniel B. Brownhill
-Crandall,John Bowers
-Crandall,James Mc Crummell
-Crandall,Junius C. Morell
-Crandall,Joshua Brown
-Crandall,Robert C. Gordon
-Crandall,Jacob White
-Crandall,Manuel
-Crandall,Reuben Reuben
-Crandall,Richard Johnson
-Crandall,New-Bedford
-Crandall,George C. Willis
-Crandall,Luke Lathrop
-Crandall,Thomas L. Jinnings
-Crandall,James Needham
-Crandall,James Hiner
-Crandall,Robert Cooley
-Crandall,Peter Hubbard
-Crandall,Arthur Waring
-Crandall,Owen T. B Nicken
-Crandall,Charles Stewart
-Crandall,B. F. Hughes
+Prudence Crandall,Olney
+Prudence Crandall,Charles Gardner
+Prudence Crandall,Downing
+Prudence Crandall,Frazer
+Prudence Crandall,Wm. Hamilton
+Prudence Crandall,Robertson
+Prudence Crandall,Atlec
+Prudence Crandall,Andrew Jackson
+Prudence Crandall,Spywood
+Prudence Crandall,Todd
+Prudence Crandall,Messrs Gardner
+Prudence Crandall,L. Cox
+Prudence Crandall,Messrs. Hutchins
+Prudence Crandall,Burr
+Prudence Crandall,Daniel B. Brownhill
+Prudence Crandall,John Bowers
+Prudence Crandall,James Mc Crummell
+Prudence Crandall,Junius C. Morell
+Prudence Crandall,Joshua Brown
+Prudence Crandall,Robert C. Gordon
+Prudence Crandall,Jacob White
+Prudence Crandall,Manuel
+Prudence Crandall,Reuben Reuben
+Prudence Crandall,Richard Johnson
+Prudence Crandall,New-Bedford
+Prudence Crandall,George C. Willis
+Prudence Crandall,Luke Lathrop
+Prudence Crandall,Thomas L. Jinnings
+Prudence Crandall,James Needham
+Prudence Crandall,James Hiner
+Prudence Crandall,Robert Cooley
+Prudence Crandall,Peter Hubbard
+Prudence Crandall,Arthur Waring
+Prudence Crandall,Owen T. B Nicken
+Prudence Crandall,Charles Stewart
+Prudence Crandall,B. F. Hughes
 Olney,Charles Gardner
 Olney,Downing
 Olney,Frazer

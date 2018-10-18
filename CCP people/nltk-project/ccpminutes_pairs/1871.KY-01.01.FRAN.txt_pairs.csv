@@ -1,116 +1,7 @@
-name1,name2
-Mis Doc,Stevenson
-Mis Doc,Henry Marrs
-Mis Doc,Henry Lynn
-Mis Doc,H.H. Trumbo
-Mis Doc,Grocer
-Mis Doc,Samuel Demsey
-Mis Doc,B. Smith
-Mis Doc,B. J. Crampton
-Mis Doc,Barber
-Mis Doc,Robertson
-Mis Doc,Smith
-Mis Doc,Tim Machlin
-Mis Doc,Sam Davis
-Mis Doc,William Pierce
-Mis Doc,George Rogers
-Mis Doc,Silas Woodford
-Mis Doc,Mary Smith Curtis
-Mis Doc,Margaret Mosby
-Mis Doc,James Gaines
-Mis Doc,Anderson
-Mis Doc,Ku-Klux
-Mis Doc,James Parker
-Mis Doc,Noah Blankenship
-Mis Doc,William Gibson
-Mis Doc,John Gibson
-Mis Doc,J. A. Montford
-Mis Doc,William Glasgow
-Mis Doc,Oliver Stone
-Mis Doc,Cumins
-Mis Doc,Adams
-Mis Doc,Meriwether
-Mis Doc,Richardson
-Mis Doc,Crasbaw
-Mis Doc,John Masteran
-Mis Doc,Coffey
-Mis Doc,Jerry Laws
-Mis Doc,James Ryan
-Mis Doc,Edmund Burns
-Mis Doc,William Parker
-Mis Doc,Jess Davis
-Mis Doc,Spears
-Mis Doc,Albert Bradford
-Mis Doc,Bayatt
-Mis Doc,Frank Boumes
-Mis Doc,Roberts
-Mis Doc,George Bratcher
-Mis Doc,John Penny
-Mis Doc,Lucien Green
-Mis Doc,Miller
-Mis Doc,Charles Handerson
-Mis Doc,George Bolling
-Mis Doc,T. J. Vanarsdall
-Mis Doc,Rousey
-Mis Doc,James Crowders
-Mis Doc,John Carnmon
-Mis Doc,Wiley Gevens
-Mis Doc,Dixon
-Mis Doc,George Rose
-Mis Doc,Wallace Sinthorn
-Mis Doc,Shepherd
-Mis Doc,George Tankesley
-Mis Doc,Frank Searey
-Mis Doc,Searey
-Mis Doc,Robert Mershon
-Mis Doc,Pope
-Mis Doc,Hall
-Mis Doc,Willet
-Mis Doc,Cooper
-Mis Doc,Allen Cooper
-Mis Doc,Scott
-Mis Doc,Charles Fields
-Mis Doc,Simms
-Mis Doc,Douglass Rodes
-Mis Doc,Fielding Waller
-Mis Doc,R. L. Byrom
-Mis Doc,Perry
-Mis Doc,A. Owen
-Mis Doc,Saunders
-Mis Doc,Sam Lambert
-Mis Doc,William Palmer
-Mis Doc,William Hart
-Mis Doc,John Redman
-Mis Doc,William Sheldon
-Mis Doc,Pleasonton Parker
-Mis Doc,Daniel Parker
-Mis Doc,Willis Parker
-Mis Doc,Turpin
-Mis Doc,Parker
-Mis Doc,Richard Brown
-Mis Doc,Simpson Grubbs
-Mis Doc,Jacob See
-Mis Doc,Frank Timberlake
-Mis Doc,John Simes
-Mis Doc,Oliver Williams
-Mis Doc,Harvey Mill
-Mis Doc,Hicks
-Mis Doc,Howard Gilbert
-Mis Doc,Harrison Blanton
-Mis Doc,Howard Million
-Mis Doc,John Dickerson
-Mis Doc,George
-Mis Doc,Demar
-Mis Doc,Joseph Allen
-Mis Doc,Johnson
-Mis Doc,North Benson
-Mis Doc,Winstone Hawkins
-Mis Doc,Scroggins
-Mis Doc,Strader Trumbo
+source,target
 Stevenson,Henry Marrs
 Stevenson,Henry Lynn
 Stevenson,H.H. Trumbo
-Stevenson,Grocer
 Stevenson,Samuel Demsey
 Stevenson,B. Smith
 Stevenson,B. J. Crampton
@@ -216,7 +107,6 @@ Stevenson,Scroggins
 Stevenson,Strader Trumbo
 Henry Marrs,Henry Lynn
 Henry Marrs,H.H. Trumbo
-Henry Marrs,Grocer
 Henry Marrs,Samuel Demsey
 Henry Marrs,B. Smith
 Henry Marrs,B. J. Crampton
@@ -321,7 +211,6 @@ Henry Marrs,Winstone Hawkins
 Henry Marrs,Scroggins
 Henry Marrs,Strader Trumbo
 Henry Lynn,H.H. Trumbo
-Henry Lynn,Grocer
 Henry Lynn,Samuel Demsey
 Henry Lynn,B. Smith
 Henry Lynn,B. J. Crampton
@@ -425,7 +314,6 @@ Henry Lynn,North Benson
 Henry Lynn,Winstone Hawkins
 Henry Lynn,Scroggins
 Henry Lynn,Strader Trumbo
-H.H. Trumbo,Grocer
 H.H. Trumbo,Samuel Demsey
 H.H. Trumbo,B. Smith
 H.H. Trumbo,B. J. Crampton
@@ -529,109 +417,6 @@ H.H. Trumbo,North Benson
 H.H. Trumbo,Winstone Hawkins
 H.H. Trumbo,Scroggins
 H.H. Trumbo,Strader Trumbo
-Grocer,Samuel Demsey
-Grocer,B. Smith
-Grocer,B. J. Crampton
-Grocer,Barber
-Grocer,Robertson
-Grocer,Smith
-Grocer,Tim Machlin
-Grocer,Sam Davis
-Grocer,William Pierce
-Grocer,George Rogers
-Grocer,Silas Woodford
-Grocer,Mary Smith Curtis
-Grocer,Margaret Mosby
-Grocer,James Gaines
-Grocer,Anderson
-Grocer,Ku-Klux
-Grocer,James Parker
-Grocer,Noah Blankenship
-Grocer,William Gibson
-Grocer,John Gibson
-Grocer,J. A. Montford
-Grocer,William Glasgow
-Grocer,Oliver Stone
-Grocer,Cumins
-Grocer,Adams
-Grocer,Meriwether
-Grocer,Richardson
-Grocer,Crasbaw
-Grocer,John Masteran
-Grocer,Coffey
-Grocer,Jerry Laws
-Grocer,James Ryan
-Grocer,Edmund Burns
-Grocer,William Parker
-Grocer,Jess Davis
-Grocer,Spears
-Grocer,Albert Bradford
-Grocer,Bayatt
-Grocer,Frank Boumes
-Grocer,Roberts
-Grocer,George Bratcher
-Grocer,John Penny
-Grocer,Lucien Green
-Grocer,Miller
-Grocer,Charles Handerson
-Grocer,George Bolling
-Grocer,T. J. Vanarsdall
-Grocer,Rousey
-Grocer,James Crowders
-Grocer,John Carnmon
-Grocer,Wiley Gevens
-Grocer,Dixon
-Grocer,George Rose
-Grocer,Wallace Sinthorn
-Grocer,Shepherd
-Grocer,George Tankesley
-Grocer,Frank Searey
-Grocer,Searey
-Grocer,Robert Mershon
-Grocer,Pope
-Grocer,Hall
-Grocer,Willet
-Grocer,Cooper
-Grocer,Allen Cooper
-Grocer,Scott
-Grocer,Charles Fields
-Grocer,Simms
-Grocer,Douglass Rodes
-Grocer,Fielding Waller
-Grocer,R. L. Byrom
-Grocer,Perry
-Grocer,A. Owen
-Grocer,Saunders
-Grocer,Sam Lambert
-Grocer,William Palmer
-Grocer,William Hart
-Grocer,John Redman
-Grocer,William Sheldon
-Grocer,Pleasonton Parker
-Grocer,Daniel Parker
-Grocer,Willis Parker
-Grocer,Turpin
-Grocer,Parker
-Grocer,Richard Brown
-Grocer,Simpson Grubbs
-Grocer,Jacob See
-Grocer,Frank Timberlake
-Grocer,John Simes
-Grocer,Oliver Williams
-Grocer,Harvey Mill
-Grocer,Hicks
-Grocer,Howard Gilbert
-Grocer,Harrison Blanton
-Grocer,Howard Million
-Grocer,John Dickerson
-Grocer,George
-Grocer,Demar
-Grocer,Joseph Allen
-Grocer,Johnson
-Grocer,North Benson
-Grocer,Winstone Hawkins
-Grocer,Scroggins
-Grocer,Strader Trumbo
 Samuel Demsey,B. Smith
 Samuel Demsey,B. J. Crampton
 Samuel Demsey,Barber

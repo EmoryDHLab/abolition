@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Fred Douglass,R. L. Smith
 Fred Douglass,I. B. Scott
 Fred Douglass,Wiley
@@ -7,7 +7,6 @@ Fred Douglass,W. H. Scott
 Fred Douglass,D. J. Starnes
 Fred Douglass,F. O. Richardson
 Fred Douglass,Emmett J. Scott
-Fred Douglass,Marshall
 Fred Douglass,N. W. Cuney
 Fred Douglass,Smith
 Fred Douglass,Haller
@@ -262,7 +261,6 @@ R. L. Smith,W. H. Scott
 R. L. Smith,D. J. Starnes
 R. L. Smith,F. O. Richardson
 R. L. Smith,Emmett J. Scott
-R. L. Smith,Marshall
 R. L. Smith,N. W. Cuney
 R. L. Smith,Smith
 R. L. Smith,Haller
@@ -516,7 +514,6 @@ I. B. Scott,W. H. Scott
 I. B. Scott,D. J. Starnes
 I. B. Scott,F. O. Richardson
 I. B. Scott,Emmett J. Scott
-I. B. Scott,Marshall
 I. B. Scott,N. W. Cuney
 I. B. Scott,Smith
 I. B. Scott,Haller
@@ -769,7 +766,6 @@ Wiley,W. H. Scott
 Wiley,D. J. Starnes
 Wiley,F. O. Richardson
 Wiley,Emmett J. Scott
-Wiley,Marshall
 Wiley,N. W. Cuney
 Wiley,Smith
 Wiley,Haller
@@ -1021,7 +1017,6 @@ F. L. Lights,W. H. Scott
 F. L. Lights,D. J. Starnes
 F. L. Lights,F. O. Richardson
 F. L. Lights,Emmett J. Scott
-F. L. Lights,Marshall
 F. L. Lights,N. W. Cuney
 F. L. Lights,Smith
 F. L. Lights,Haller
@@ -1272,7 +1267,6 @@ F. L. Lights,J. H. Garnet
 W. H. Scott,D. J. Starnes
 W. H. Scott,F. O. Richardson
 W. H. Scott,Emmett J. Scott
-W. H. Scott,Marshall
 W. H. Scott,N. W. Cuney
 W. H. Scott,Smith
 W. H. Scott,Haller
@@ -1522,7 +1516,6 @@ W. H. Scott,Maggie Ropen
 W. H. Scott,J. H. Garnet
 D. J. Starnes,F. O. Richardson
 D. J. Starnes,Emmett J. Scott
-D. J. Starnes,Marshall
 D. J. Starnes,N. W. Cuney
 D. J. Starnes,Smith
 D. J. Starnes,Haller
@@ -1771,7 +1764,6 @@ D. J. Starnes,M. B. Brown
 D. J. Starnes,Maggie Ropen
 D. J. Starnes,J. H. Garnet
 F. O. Richardson,Emmett J. Scott
-F. O. Richardson,Marshall
 F. O. Richardson,N. W. Cuney
 F. O. Richardson,Smith
 F. O. Richardson,Haller
@@ -2019,7 +2011,6 @@ F. O. Richardson,Sadie Nelson
 F. O. Richardson,M. B. Brown
 F. O. Richardson,Maggie Ropen
 F. O. Richardson,J. H. Garnet
-Emmett J. Scott,Marshall
 Emmett J. Scott,N. W. Cuney
 Emmett J. Scott,Smith
 Emmett J. Scott,Haller
@@ -2267,253 +2258,6 @@ Emmett J. Scott,Sadie Nelson
 Emmett J. Scott,M. B. Brown
 Emmett J. Scott,Maggie Ropen
 Emmett J. Scott,J. H. Garnet
-Marshall,N. W. Cuney
-Marshall,Smith
-Marshall,Haller
-Marshall,J. H. Garnett
-Marshall,C. M. Ferugson
-Marshall,A. A. Asbery
-Marshall,G. R. Townsend
-Marshall,J. T. Tibbett
-Marshall,L. L. Campbell
-Marshall,E. J. Scott
-Marshall,F. W. Gross
-Marshall,S. S. Campbell
-Marshall,J. R. Gibson
-Marshall,A. L. Maynard
-Marshall,M. W. Lawson
-Marshall,A. A. Simms
-Marshall,O. W. Landry
-Marshall,G. J. Starnes
-Marshall,J. W. Jamerson
-Marshall,M. M. Rogers
-Marshall,J. B. Bell
-Marshall,L. W. Baker
-Marshall,A. G. Scott
-Marshall,H. J. Mcdonald
-Marshall,W. H. Hathaway
-Marshall,W. M. Mcdonald
-Marshall,Garnett
-Marshall,A. Asbery
-Marshall,Frederick Douglass
-Marshall,R. B. Smith
-Marshall,L. H. Reynolds
-Marshall,L. S. Simmons
-Marshall,S. M. Balding
-Marshall,D. Webster Wilson
-Marshall,N. H. Haller
-Marshall,H. Watts
-Marshall,J. B. Scott
-Marshall,M. R. Rodgers Webb
-Marshall,V. Nora Allen
-Marshall,M. A. Jordan
-Marshall,J. C. Hester
-Marshall,D. B. Thompson
-Marshall,K. Miller
-Marshall,Marie Sharkle
-Marshall,F. I. Richardson
-Marshall,Carrie Washington
-Marshall,Hattie Johnson
-Marshall,Cora E. Moore
-Marshall,N. H. Hill
-Marshall,Wilson
-Marshall,Reynolds
-Marshall,J. B. Raynor
-Marshall,L. Campbell
-Marshall,H. J. M'Donald
-Marshall,A. Asberry
-Marshall,J. W. Jamison
-Marshall,W. C. Cole
-Marshall,Donnell
-Marshall,Cuney
-Marshall,C. M. Ferguson
-Marshall,D. Abner
-Marshall,A. C. Coor
-Marshall,Robert Caldwell
-Marshall,George D. Johnson
-Marshall,G. W. Bryant
-Marshall,J. A. L. Lowery
-Marshall,R. M. Jones
-Marshall,J. M. Benton
-Marshall,William Mcdonald
-Marshall,Robert Armstrong
-Marshall,A. A. Asberry
-Marshall,W. M. Swanson
-Marshall,E. A. Patton
-Marshall,J. C. Ellis
-Marshall,W. H. Mitchell
-Marshall,W. R. Morrow
-Marshall,W. J. Smith
-Marshall,P. H. Collier
-Marshall,J. W. Taylor
-Marshall,H. C. Bell
-Marshall,W. J. Lowery
-Marshall,F. C. Rutherford
-Marshall,T. W. Williams
-Marshall,Hays
-Marshall,James Smith
-Marshall,A. B. Miller
-Marshall,S. Lyons
-Marshall,Rusk
-Marshall,N. B. Jenkins
-Marshall,L. C. Baker
-Marshall,H. H. Gasson
-Marshall,A. Scott
-Marshall,Harris
-Marshall,W. T. Brown
-Marshall,R. S. Stout
-Marshall,Emett J. Scott
-Marshall,C. N. Love
-Marshall,Baily Sparks
-Marshall,H. Lights
-Marshall,J. H. S. Gaines
-Marshall,W. C. Conway
-Marshall,C. H. Brown
-Marshall,O. T. Wilson
-Marshall,W. H. Smith
-Marshall,Richard Allen
-Marshall,F. R. Richard
-Marshall,G. H. Garnett
-Marshall,J. P. Howard
-Marshall,L. R. Jones
-Marshall,R. H. Wilkerson
-Marshall,L. M. Malones
-Marshall,J. D. Payne
-Marshall,A. Thompson
-Marshall,J. H. Collins
-Marshall,J. S. Jones
-Marshall,S. Cotton
-Marshall,R. G. Hurd
-Marshall,W. E. Miller
-Marshall,H. Marshall
-Marshall,G. W. Minter
-Marshall,G. G. Winn
-Marshall,L. W. Barker
-Marshall,Thomas Taylor
-Marshall,W. D. Donells
-Marshall,D. W. Wilson
-Marshall,H. Neviells
-Marshall,A. Barber
-Marshall,N. H. Smith
-Marshall,J. S. Tibbetts
-Marshall,John Debruhl
-Marshall,F. Gray
-Marshall,W. H. Henry
-Marshall,J. H. Bandy
-Marshall,J. R. Shonon
-Marshall,D. N. Leathers
-Marshall,J. D. Pettigrew
-Marshall,D. H. Smith
-Marshall,A. Z. Wheeler
-Marshall,D. S. Ballard
-Marshall,Albert Williams
-Marshall,Nels Allerson
-Marshall,Jack Johnson
-Marshall,G. W. Smith
-Marshall,P. S. Peterson
-Marshall,S. H. Wheats
-Marshall,N. H. Hathaway
-Marshall,S. M. Morton
-Marshall,J. T. Holmes
-Marshall,H. P. Phenix
-Marshall,T. H. Taylor
-Marshall,J. W. Robertson
-Marshall,Louis Travis
-Marshall,John Franks
-Marshall,W. M. Dunkens
-Marshall,A. G. Hilliard
-Marshall,W. J. Stephens
-Marshall,N. W. Scott
-Marshall,E. A. Paton
-Marshall,W. M. Green
-Marshall,Hatch
-Marshall,M. M. Rodgers
-Marshall,N. C. Colwell
-Marshall,Nillie Hotson
-Marshall,Raston Daniels
-Marshall,Y. N. Johnston
-Marshall,T. H. Humphrey
-Marshall,F. Robertson
-Marshall,G. W. Money
-Marshall,W. T. Mccall
-Marshall,L. J. Laquay
-Marshall,W. T. Mccree
-Marshall,S. B. Wilson
-Marshall,W. R. Jamesison
-Marshall,Gonzales
-Marshall,M. G. Gaston
-Marshall,Green Prince
-Marshall,Sam Prince
-Marshall,Caldwell
-Marshall,W. E. Franction
-Marshall,J. C. Smith
-Marshall,C. B. Stephens
-Marshall,Sam Flood
-Marshall,J. Houston
-Marshall,A. C. Culbreath
-Marshall,Anderson
-Marshall,H. A. Wells
-Marshall,R. A. Codwell
-Marshall,D. A. Abner
-Marshall,Travis
-Marshall,J. W. Jones
-Marshall,Kaufman
-Marshall,Montgomery
-Marshall,G. W. Jackson
-Marshall,J. J. Turner
-Marshall,J. N. Perkins
-Marshall,N. C. Carter
-Marshall,E.P. Palmer
-Marshall,M. Q. A. Fuller
-Marshall,A. B. Perkins
-Marshall,C. M. Mcphearson
-Marshall,J. L. Taylor
-Marshall,Grimes
-Marshall,W. H. Woods
-Marshall,A. White
-Marshall,Samuel Anderson
-Marshall,Lamar
-Marshall,G. W. Guess
-Marshall,C. M. Furgerson
-Marshall,W. H. Wallace
-Marshall,A. C. Garner
-Marshall,C. C. Milligan
-Marshall,R. S. Halbredts
-Marshall,Waller
-Marshall,W. M. Alexander
-Marshall,Henry Rhone
-Marshall,Robert Hall
-Marshall,Jake Anderson
-Marshall,A. F. Freeman
-Marshall,R. L. Kilpatrick
-Marshall,T. S. Benson
-Marshall,George O. Marshall
-Marshall,George W. Mcintosh
-Marshall,Jefferson
-Marshall,C. A. Harrison
-Marshall,R. L. Isaacs
-Marshall,Charles Towell
-Marshall,D. L. Whitney
-Marshall,Henry Green
-Marshall,T. J. Gibbon
-Marshall,Charles Ferrel
-Marshall,Harrison
-Marshall,B. H. Grimes
-Marshall,J. H. Crawford
-Marshall,N. E. Miller
-Marshall,D. J. B. Scott
-Marshall,Robertson
-Marshall,G. W. Tillery
-Marshall,A. L. Asberry
-Marshall,G. T. Haynes
-Marshall,W. H. Green
-Marshall,M. R. Rogers Webb
-Marshall,F. L. Kealan
-Marshall,Pauline Green
-Marshall,Sadie Nelson
-Marshall,M. B. Brown
-Marshall,Maggie Ropen
-Marshall,J. H. Garnet
 N. W. Cuney,Smith
 N. W. Cuney,Haller
 N. W. Cuney,J. H. Garnett

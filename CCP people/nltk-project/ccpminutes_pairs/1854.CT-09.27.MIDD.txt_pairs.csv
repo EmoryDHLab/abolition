@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Douglass,Beman
 Douglass,E. D. Bassett
 Douglass,G. W. Francis
@@ -14,7 +14,6 @@ Douglass,Walker
 Douglass,Garrison
 Douglass,Wm. L. Garrison
 Douglass,Jehiel C. Beman
-Douglass,A. G. B
 Douglass,Fisk
 Beman,E. D. Bassett
 Beman,G. W. Francis
@@ -30,7 +29,6 @@ Beman,Walker
 Beman,Garrison
 Beman,Wm. L. Garrison
 Beman,Jehiel C. Beman
-Beman,A. G. B
 Beman,Fisk
 E. D. Bassett,G. W. Francis
 E. D. Bassett,A. G. Beman
@@ -45,7 +43,6 @@ E. D. Bassett,Walker
 E. D. Bassett,Garrison
 E. D. Bassett,Wm. L. Garrison
 E. D. Bassett,Jehiel C. Beman
-E. D. Bassett,A. G. B
 E. D. Bassett,Fisk
 G. W. Francis,A. G. Beman
 G. W. Francis,Frederick Douglass
@@ -59,7 +56,6 @@ G. W. Francis,Walker
 G. W. Francis,Garrison
 G. W. Francis,Wm. L. Garrison
 G. W. Francis,Jehiel C. Beman
-G. W. Francis,A. G. B
 G. W. Francis,Fisk
 A. G. Beman,Frederick Douglass
 A. G. Beman,Charles B. Ray
@@ -72,7 +68,6 @@ A. G. Beman,Walker
 A. G. Beman,Garrison
 A. G. Beman,Wm. L. Garrison
 A. G. Beman,Jehiel C. Beman
-A. G. Beman,A. G. B
 A. G. Beman,Fisk
 Frederick Douglass,Charles B. Ray
 Frederick Douglass,Ray
@@ -84,7 +79,6 @@ Frederick Douglass,Walker
 Frederick Douglass,Garrison
 Frederick Douglass,Wm. L. Garrison
 Frederick Douglass,Jehiel C. Beman
-Frederick Douglass,A. G. B
 Frederick Douglass,Fisk
 Charles B. Ray,Ray
 Charles B. Ray,Wilbur Fisk
@@ -95,7 +89,6 @@ Charles B. Ray,Walker
 Charles B. Ray,Garrison
 Charles B. Ray,Wm. L. Garrison
 Charles B. Ray,Jehiel C. Beman
-Charles B. Ray,A. G. B
 Charles B. Ray,Fisk
 Ray,Wilbur Fisk
 Ray,John Wesley
@@ -105,7 +98,6 @@ Ray,Walker
 Ray,Garrison
 Ray,Wm. L. Garrison
 Ray,Jehiel C. Beman
-Ray,A. G. B
 Ray,Fisk
 Wilbur Fisk,John Wesley
 Wilbur Fisk,Junior
@@ -114,7 +106,6 @@ Wilbur Fisk,Walker
 Wilbur Fisk,Garrison
 Wilbur Fisk,Wm. L. Garrison
 Wilbur Fisk,Jehiel C. Beman
-Wilbur Fisk,A. G. B
 Wilbur Fisk,Fisk
 John Wesley,Junior
 John Wesley,S. P. Dole
@@ -122,33 +113,25 @@ John Wesley,Walker
 John Wesley,Garrison
 John Wesley,Wm. L. Garrison
 John Wesley,Jehiel C. Beman
-John Wesley,A. G. B
 John Wesley,Fisk
 Junior,S. P. Dole
 Junior,Walker
 Junior,Garrison
 Junior,Wm. L. Garrison
 Junior,Jehiel C. Beman
-Junior,A. G. B
 Junior,Fisk
 S. P. Dole,Walker
 S. P. Dole,Garrison
 S. P. Dole,Wm. L. Garrison
 S. P. Dole,Jehiel C. Beman
-S. P. Dole,A. G. B
 S. P. Dole,Fisk
 Walker,Garrison
 Walker,Wm. L. Garrison
 Walker,Jehiel C. Beman
-Walker,A. G. B
 Walker,Fisk
 Garrison,Wm. L. Garrison
 Garrison,Jehiel C. Beman
-Garrison,A. G. B
 Garrison,Fisk
 Wm. L. Garrison,Jehiel C. Beman
-Wm. L. Garrison,A. G. B
 Wm. L. Garrison,Fisk
-Jehiel C. Beman,A. G. B
 Jehiel C. Beman,Fisk
-A. G. B,Fisk

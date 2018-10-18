@@ -1,4 +1,4 @@
-name1,name2
+source,target
 J. W. Scott,J. H. Morris
 J. W. Scott,W. H. Burnham
 J. W. Scott,Morris
@@ -40,7 +40,6 @@ J. W. Scott,A. C. Wilder
 J. W. Scott,Wodson N. Twine
 J. W. Scott,William D. Mathews
 J. W. Scott,Lewis Overton
-J. W. Scott,E.C. Menser
 J. W. Scott,Wm. D. Mathews
 J. H. Morris,W. H. Burnham
 J. H. Morris,Morris
@@ -82,7 +81,6 @@ J. H. Morris,A. C. Wilder
 J. H. Morris,Wodson N. Twine
 J. H. Morris,William D. Mathews
 J. H. Morris,Lewis Overton
-J. H. Morris,E.C. Menser
 J. H. Morris,Wm. D. Mathews
 W. H. Burnham,Morris
 W. H. Burnham,Menser
@@ -123,7 +121,6 @@ W. H. Burnham,A. C. Wilder
 W. H. Burnham,Wodson N. Twine
 W. H. Burnham,William D. Mathews
 W. H. Burnham,Lewis Overton
-W. H. Burnham,E.C. Menser
 W. H. Burnham,Wm. D. Mathews
 Morris,Menser
 Morris,John Turner
@@ -163,7 +160,6 @@ Morris,A. C. Wilder
 Morris,Wodson N. Twine
 Morris,William D. Mathews
 Morris,Lewis Overton
-Morris,E.C. Menser
 Morris,Wm. D. Mathews
 Menser,John Turner
 Menser,N. Johnson
@@ -202,7 +198,6 @@ Menser,A. C. Wilder
 Menser,Wodson N. Twine
 Menser,William D. Mathews
 Menser,Lewis Overton
-Menser,E.C. Menser
 Menser,Wm. D. Mathews
 John Turner,N. Johnson
 John Turner,E. C. Menser
@@ -240,7 +235,6 @@ John Turner,A. C. Wilder
 John Turner,Wodson N. Twine
 John Turner,William D. Mathews
 John Turner,Lewis Overton
-John Turner,E.C. Menser
 John Turner,Wm. D. Mathews
 N. Johnson,E. C. Menser
 N. Johnson,J. Montgomery
@@ -277,7 +271,6 @@ N. Johnson,A. C. Wilder
 N. Johnson,Wodson N. Twine
 N. Johnson,William D. Mathews
 N. Johnson,Lewis Overton
-N. Johnson,E.C. Menser
 N. Johnson,Wm. D. Mathews
 E. C. Menser,J. Montgomery
 E. C. Menser,Lynn
@@ -313,7 +306,6 @@ E. C. Menser,A. C. Wilder
 E. C. Menser,Wodson N. Twine
 E. C. Menser,William D. Mathews
 E. C. Menser,Lewis Overton
-E. C. Menser,E.C. Menser
 E. C. Menser,Wm. D. Mathews
 J. Montgomery,Lynn
 J. Montgomery,Thomas Newton
@@ -348,7 +340,6 @@ J. Montgomery,A. C. Wilder
 J. Montgomery,Wodson N. Twine
 J. Montgomery,William D. Mathews
 J. Montgomery,Lewis Overton
-J. Montgomery,E.C. Menser
 J. Montgomery,Wm. D. Mathews
 Lynn,Thomas Newton
 Lynn,Jesse Henderson
@@ -382,7 +373,6 @@ Lynn,A. C. Wilder
 Lynn,Wodson N. Twine
 Lynn,William D. Mathews
 Lynn,Lewis Overton
-Lynn,E.C. Menser
 Lynn,Wm. D. Mathews
 Thomas Newton,Jesse Henderson
 Thomas Newton,Burnham
@@ -415,7 +405,6 @@ Thomas Newton,A. C. Wilder
 Thomas Newton,Wodson N. Twine
 Thomas Newton,William D. Mathews
 Thomas Newton,Lewis Overton
-Thomas Newton,E.C. Menser
 Thomas Newton,Wm. D. Mathews
 Jesse Henderson,Burnham
 Jesse Henderson,W. N. Johnson
@@ -447,7 +436,6 @@ Jesse Henderson,A. C. Wilder
 Jesse Henderson,Wodson N. Twine
 Jesse Henderson,William D. Mathews
 Jesse Henderson,Lewis Overton
-Jesse Henderson,E.C. Menser
 Jesse Henderson,Wm. D. Mathews
 Burnham,W. N. Johnson
 Burnham,Edward Menser
@@ -478,7 +466,6 @@ Burnham,A. C. Wilder
 Burnham,Wodson N. Twine
 Burnham,William D. Mathews
 Burnham,Lewis Overton
-Burnham,E.C. Menser
 Burnham,Wm. D. Mathews
 W. N. Johnson,Edward Menser
 W. N. Johnson,Lilburn Drake
@@ -508,7 +495,6 @@ W. N. Johnson,A. C. Wilder
 W. N. Johnson,Wodson N. Twine
 W. N. Johnson,William D. Mathews
 W. N. Johnson,Lewis Overton
-W. N. Johnson,E.C. Menser
 W. N. Johnson,Wm. D. Mathews
 Edward Menser,Lilburn Drake
 Edward Menser,John Montgomery
@@ -537,7 +523,6 @@ Edward Menser,A. C. Wilder
 Edward Menser,Wodson N. Twine
 Edward Menser,William D. Mathews
 Edward Menser,Lewis Overton
-Edward Menser,E.C. Menser
 Edward Menser,Wm. D. Mathews
 Lilburn Drake,John Montgomery
 Lilburn Drake,Chesley Jones
@@ -565,7 +550,6 @@ Lilburn Drake,A. C. Wilder
 Lilburn Drake,Wodson N. Twine
 Lilburn Drake,William D. Mathews
 Lilburn Drake,Lewis Overton
-Lilburn Drake,E.C. Menser
 Lilburn Drake,Wm. D. Mathews
 John Montgomery,Chesley Jones
 John Montgomery,Charles Clark
@@ -592,7 +576,6 @@ John Montgomery,A. C. Wilder
 John Montgomery,Wodson N. Twine
 John Montgomery,William D. Mathews
 John Montgomery,Lewis Overton
-John Montgomery,E.C. Menser
 John Montgomery,Wm. D. Mathews
 Chesley Jones,Charles Clark
 Chesley Jones,Leavenworth
@@ -618,7 +601,6 @@ Chesley Jones,A. C. Wilder
 Chesley Jones,Wodson N. Twine
 Chesley Jones,William D. Mathews
 Chesley Jones,Lewis Overton
-Chesley Jones,E.C. Menser
 Chesley Jones,Wm. D. Mathews
 Charles Clark,Leavenworth
 Charles Clark,Robert Calwell
@@ -643,7 +625,6 @@ Charles Clark,A. C. Wilder
 Charles Clark,Wodson N. Twine
 Charles Clark,William D. Mathews
 Charles Clark,Lewis Overton
-Charles Clark,E.C. Menser
 Charles Clark,Wm. D. Mathews
 Leavenworth,Robert Calwell
 Leavenworth,Burrell Atchison
@@ -667,7 +648,6 @@ Leavenworth,A. C. Wilder
 Leavenworth,Wodson N. Twine
 Leavenworth,William D. Mathews
 Leavenworth,Lewis Overton
-Leavenworth,E.C. Menser
 Leavenworth,Wm. D. Mathews
 Robert Calwell,Burrell Atchison
 Robert Calwell,John H. Morris
@@ -690,7 +670,6 @@ Robert Calwell,A. C. Wilder
 Robert Calwell,Wodson N. Twine
 Robert Calwell,William D. Mathews
 Robert Calwell,Lewis Overton
-Robert Calwell,E.C. Menser
 Robert Calwell,Wm. D. Mathews
 Burrell Atchison,John H. Morris
 Burrell Atchison,Henderson
@@ -712,7 +691,6 @@ Burrell Atchison,A. C. Wilder
 Burrell Atchison,Wodson N. Twine
 Burrell Atchison,William D. Mathews
 Burrell Atchison,Lewis Overton
-Burrell Atchison,E.C. Menser
 Burrell Atchison,Wm. D. Mathews
 John H. Morris,Henderson
 John H. Morris,Samuel Watkins
@@ -733,7 +711,6 @@ John H. Morris,A. C. Wilder
 John H. Morris,Wodson N. Twine
 John H. Morris,William D. Mathews
 John H. Morris,Lewis Overton
-John H. Morris,E.C. Menser
 John H. Morris,Wm. D. Mathews
 Henderson,Samuel Watkins
 Henderson,Wm. H. Burnham
@@ -753,7 +730,6 @@ Henderson,A. C. Wilder
 Henderson,Wodson N. Twine
 Henderson,William D. Mathews
 Henderson,Lewis Overton
-Henderson,E.C. Menser
 Henderson,Wm. D. Mathews
 Samuel Watkins,Wm. H. Burnham
 Samuel Watkins,Wm. Henderson
@@ -772,7 +748,6 @@ Samuel Watkins,A. C. Wilder
 Samuel Watkins,Wodson N. Twine
 Samuel Watkins,William D. Mathews
 Samuel Watkins,Lewis Overton
-Samuel Watkins,E.C. Menser
 Samuel Watkins,Wm. D. Mathews
 Wm. H. Burnham,Wm. Henderson
 Wm. H. Burnham,Berry Craig
@@ -790,7 +765,6 @@ Wm. H. Burnham,A. C. Wilder
 Wm. H. Burnham,Wodson N. Twine
 Wm. H. Burnham,William D. Mathews
 Wm. H. Burnham,Lewis Overton
-Wm. H. Burnham,E.C. Menser
 Wm. H. Burnham,Wm. D. Mathews
 Wm. Henderson,Berry Craig
 Wm. Henderson,D. Mathews
@@ -807,7 +781,6 @@ Wm. Henderson,A. C. Wilder
 Wm. Henderson,Wodson N. Twine
 Wm. Henderson,William D. Mathews
 Wm. Henderson,Lewis Overton
-Wm. Henderson,E.C. Menser
 Wm. Henderson,Wm. D. Mathews
 Berry Craig,D. Mathews
 Berry Craig,John Lewis
@@ -823,7 +796,6 @@ Berry Craig,A. C. Wilder
 Berry Craig,Wodson N. Twine
 Berry Craig,William D. Mathews
 Berry Craig,Lewis Overton
-Berry Craig,E.C. Menser
 Berry Craig,Wm. D. Mathews
 D. Mathews,John Lewis
 D. Mathews,Reed
@@ -838,7 +810,6 @@ D. Mathews,A. C. Wilder
 D. Mathews,Wodson N. Twine
 D. Mathews,William D. Mathews
 D. Mathews,Lewis Overton
-D. Mathews,E.C. Menser
 D. Mathews,Wm. D. Mathews
 John Lewis,Reed
 John Lewis,G. Brooks
@@ -852,7 +823,6 @@ John Lewis,A. C. Wilder
 John Lewis,Wodson N. Twine
 John Lewis,William D. Mathews
 John Lewis,Lewis Overton
-John Lewis,E.C. Menser
 John Lewis,Wm. D. Mathews
 Reed,G. Brooks
 Reed,Benjamin Barney
@@ -865,7 +835,6 @@ Reed,A. C. Wilder
 Reed,Wodson N. Twine
 Reed,William D. Mathews
 Reed,Lewis Overton
-Reed,E.C. Menser
 Reed,Wm. D. Mathews
 G. Brooks,Benjamin Barney
 G. Brooks,Burrel Atchison
@@ -877,7 +846,6 @@ G. Brooks,A. C. Wilder
 G. Brooks,Wodson N. Twine
 G. Brooks,William D. Mathews
 G. Brooks,Lewis Overton
-G. Brooks,E.C. Menser
 G. Brooks,Wm. D. Mathews
 Benjamin Barney,Burrel Atchison
 Benjamin Barney,Newton
@@ -888,7 +856,6 @@ Benjamin Barney,A. C. Wilder
 Benjamin Barney,Wodson N. Twine
 Benjamin Barney,William D. Mathews
 Benjamin Barney,Lewis Overton
-Benjamin Barney,E.C. Menser
 Benjamin Barney,Wm. D. Mathews
 Burrel Atchison,Newton
 Burrel Atchison,Blunt
@@ -898,7 +865,6 @@ Burrel Atchison,A. C. Wilder
 Burrel Atchison,Wodson N. Twine
 Burrel Atchison,William D. Mathews
 Burrel Atchison,Lewis Overton
-Burrel Atchison,E.C. Menser
 Burrel Atchison,Wm. D. Mathews
 Newton,Blunt
 Newton,James H. Lane
@@ -907,7 +873,6 @@ Newton,A. C. Wilder
 Newton,Wodson N. Twine
 Newton,William D. Mathews
 Newton,Lewis Overton
-Newton,E.C. Menser
 Newton,Wm. D. Mathews
 Blunt,James H. Lane
 Blunt,S. C. Pomeroy
@@ -915,33 +880,25 @@ Blunt,A. C. Wilder
 Blunt,Wodson N. Twine
 Blunt,William D. Mathews
 Blunt,Lewis Overton
-Blunt,E.C. Menser
 Blunt,Wm. D. Mathews
 James H. Lane,S. C. Pomeroy
 James H. Lane,A. C. Wilder
 James H. Lane,Wodson N. Twine
 James H. Lane,William D. Mathews
 James H. Lane,Lewis Overton
-James H. Lane,E.C. Menser
 James H. Lane,Wm. D. Mathews
 S. C. Pomeroy,A. C. Wilder
 S. C. Pomeroy,Wodson N. Twine
 S. C. Pomeroy,William D. Mathews
 S. C. Pomeroy,Lewis Overton
-S. C. Pomeroy,E.C. Menser
 S. C. Pomeroy,Wm. D. Mathews
 A. C. Wilder,Wodson N. Twine
 A. C. Wilder,William D. Mathews
 A. C. Wilder,Lewis Overton
-A. C. Wilder,E.C. Menser
 A. C. Wilder,Wm. D. Mathews
 Wodson N. Twine,William D. Mathews
 Wodson N. Twine,Lewis Overton
-Wodson N. Twine,E.C. Menser
 Wodson N. Twine,Wm. D. Mathews
 William D. Mathews,Lewis Overton
-William D. Mathews,E.C. Menser
 William D. Mathews,Wm. D. Mathews
-Lewis Overton,E.C. Menser
 Lewis Overton,Wm. D. Mathews
-E.C. Menser,Wm. D. Mathews

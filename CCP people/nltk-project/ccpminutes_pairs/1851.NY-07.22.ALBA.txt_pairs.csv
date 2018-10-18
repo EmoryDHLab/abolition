@@ -1,4 +1,4 @@
-name1,name2
+source,target
 John Quincy Adams,Wm. P. Mcintyre
 John Quincy Adams,Edward Freeman
 John Quincy Adams,Wm. Rich
@@ -69,7 +69,6 @@ John Quincy Adams,W. C. Gardner
 John Quincy Adams,E.N. Hall
 John Quincy Adams,A.G. Beman
 John Quincy Adams,J.N. Still
-John Quincy Adams,J.P. Johnson
 John Quincy Adams,Bill
 John Quincy Adams,H. Johnson
 John Quincy Adams,Gerrit Smith
@@ -118,7 +117,6 @@ John Quincy Adams,Mansfield
 John Quincy Adams,John Davenport
 John Quincy Adams,Amos Gerry Beman
 John Quincy Adams,John Nelson Still
-John Quincy Adams,D. C.
 John Quincy Adams,George Walker
 John Quincy Adams,Washington Hunt
 John Quincy Adams,Edwin D. Morgan
@@ -219,7 +217,6 @@ Wm. P. Mcintyre,W. C. Gardner
 Wm. P. Mcintyre,E.N. Hall
 Wm. P. Mcintyre,A.G. Beman
 Wm. P. Mcintyre,J.N. Still
-Wm. P. Mcintyre,J.P. Johnson
 Wm. P. Mcintyre,Bill
 Wm. P. Mcintyre,H. Johnson
 Wm. P. Mcintyre,Gerrit Smith
@@ -268,7 +265,6 @@ Wm. P. Mcintyre,Mansfield
 Wm. P. Mcintyre,John Davenport
 Wm. P. Mcintyre,Amos Gerry Beman
 Wm. P. Mcintyre,John Nelson Still
-Wm. P. Mcintyre,D. C.
 Wm. P. Mcintyre,George Walker
 Wm. P. Mcintyre,Washington Hunt
 Wm. P. Mcintyre,Edwin D. Morgan
@@ -368,7 +364,6 @@ Edward Freeman,W. C. Gardner
 Edward Freeman,E.N. Hall
 Edward Freeman,A.G. Beman
 Edward Freeman,J.N. Still
-Edward Freeman,J.P. Johnson
 Edward Freeman,Bill
 Edward Freeman,H. Johnson
 Edward Freeman,Gerrit Smith
@@ -417,7 +412,6 @@ Edward Freeman,Mansfield
 Edward Freeman,John Davenport
 Edward Freeman,Amos Gerry Beman
 Edward Freeman,John Nelson Still
-Edward Freeman,D. C.
 Edward Freeman,George Walker
 Edward Freeman,Washington Hunt
 Edward Freeman,Edwin D. Morgan
@@ -516,7 +510,6 @@ Wm. Rich,W. C. Gardner
 Wm. Rich,E.N. Hall
 Wm. Rich,A.G. Beman
 Wm. Rich,J.N. Still
-Wm. Rich,J.P. Johnson
 Wm. Rich,Bill
 Wm. Rich,H. Johnson
 Wm. Rich,Gerrit Smith
@@ -565,7 +558,6 @@ Wm. Rich,Mansfield
 Wm. Rich,John Davenport
 Wm. Rich,Amos Gerry Beman
 Wm. Rich,John Nelson Still
-Wm. Rich,D. C.
 Wm. Rich,George Walker
 Wm. Rich,Washington Hunt
 Wm. Rich,Edwin D. Morgan
@@ -663,7 +655,6 @@ C. Edward Seth,W. C. Gardner
 C. Edward Seth,E.N. Hall
 C. Edward Seth,A.G. Beman
 C. Edward Seth,J.N. Still
-C. Edward Seth,J.P. Johnson
 C. Edward Seth,Bill
 C. Edward Seth,H. Johnson
 C. Edward Seth,Gerrit Smith
@@ -712,7 +703,6 @@ C. Edward Seth,Mansfield
 C. Edward Seth,John Davenport
 C. Edward Seth,Amos Gerry Beman
 C. Edward Seth,John Nelson Still
-C. Edward Seth,D. C.
 C. Edward Seth,George Walker
 C. Edward Seth,Washington Hunt
 C. Edward Seth,Edwin D. Morgan
@@ -809,7 +799,6 @@ Hiram Johnson,W. C. Gardner
 Hiram Johnson,E.N. Hall
 Hiram Johnson,A.G. Beman
 Hiram Johnson,J.N. Still
-Hiram Johnson,J.P. Johnson
 Hiram Johnson,Bill
 Hiram Johnson,H. Johnson
 Hiram Johnson,Gerrit Smith
@@ -858,7 +847,6 @@ Hiram Johnson,Mansfield
 Hiram Johnson,John Davenport
 Hiram Johnson,Amos Gerry Beman
 Hiram Johnson,John Nelson Still
-Hiram Johnson,D. C.
 Hiram Johnson,George Walker
 Hiram Johnson,Washington Hunt
 Hiram Johnson,Edwin D. Morgan
@@ -954,7 +942,6 @@ Stephen Myers,W. C. Gardner
 Stephen Myers,E.N. Hall
 Stephen Myers,A.G. Beman
 Stephen Myers,J.N. Still
-Stephen Myers,J.P. Johnson
 Stephen Myers,Bill
 Stephen Myers,H. Johnson
 Stephen Myers,Gerrit Smith
@@ -1003,7 +990,6 @@ Stephen Myers,Mansfield
 Stephen Myers,John Davenport
 Stephen Myers,Amos Gerry Beman
 Stephen Myers,John Nelson Still
-Stephen Myers,D. C.
 Stephen Myers,George Walker
 Stephen Myers,Washington Hunt
 Stephen Myers,Edwin D. Morgan
@@ -1098,7 +1084,6 @@ Richard Wright,W. C. Gardner
 Richard Wright,E.N. Hall
 Richard Wright,A.G. Beman
 Richard Wright,J.N. Still
-Richard Wright,J.P. Johnson
 Richard Wright,Bill
 Richard Wright,H. Johnson
 Richard Wright,Gerrit Smith
@@ -1147,7 +1132,6 @@ Richard Wright,Mansfield
 Richard Wright,John Davenport
 Richard Wright,Amos Gerry Beman
 Richard Wright,John Nelson Still
-Richard Wright,D. C.
 Richard Wright,George Walker
 Richard Wright,Washington Hunt
 Richard Wright,Edwin D. Morgan
@@ -1241,7 +1225,6 @@ H. Hicks,W. C. Gardner
 H. Hicks,E.N. Hall
 H. Hicks,A.G. Beman
 H. Hicks,J.N. Still
-H. Hicks,J.P. Johnson
 H. Hicks,Bill
 H. Hicks,H. Johnson
 H. Hicks,Gerrit Smith
@@ -1290,7 +1273,6 @@ H. Hicks,Mansfield
 H. Hicks,John Davenport
 H. Hicks,Amos Gerry Beman
 H. Hicks,John Nelson Still
-H. Hicks,D. C.
 H. Hicks,George Walker
 H. Hicks,Washington Hunt
 H. Hicks,Edwin D. Morgan
@@ -1383,7 +1365,6 @@ E. N. Hall,W. C. Gardner
 E. N. Hall,E.N. Hall
 E. N. Hall,A.G. Beman
 E. N. Hall,J.N. Still
-E. N. Hall,J.P. Johnson
 E. N. Hall,Bill
 E. N. Hall,H. Johnson
 E. N. Hall,Gerrit Smith
@@ -1432,7 +1413,6 @@ E. N. Hall,Mansfield
 E. N. Hall,John Davenport
 E. N. Hall,Amos Gerry Beman
 E. N. Hall,John Nelson Still
-E. N. Hall,D. C.
 E. N. Hall,George Walker
 E. N. Hall,Washington Hunt
 E. N. Hall,Edwin D. Morgan
@@ -1524,7 +1504,6 @@ N. Y.,W. C. Gardner
 N. Y.,E.N. Hall
 N. Y.,A.G. Beman
 N. Y.,J.N. Still
-N. Y.,J.P. Johnson
 N. Y.,Bill
 N. Y.,H. Johnson
 N. Y.,Gerrit Smith
@@ -1573,7 +1552,6 @@ N. Y.,Mansfield
 N. Y.,John Davenport
 N. Y.,Amos Gerry Beman
 N. Y.,John Nelson Still
-N. Y.,D. C.
 N. Y.,George Walker
 N. Y.,Washington Hunt
 N. Y.,Edwin D. Morgan
@@ -1664,7 +1642,6 @@ William H. Topp,W. C. Gardner
 William H. Topp,E.N. Hall
 William H. Topp,A.G. Beman
 William H. Topp,J.N. Still
-William H. Topp,J.P. Johnson
 William H. Topp,Bill
 William H. Topp,H. Johnson
 William H. Topp,Gerrit Smith
@@ -1713,7 +1690,6 @@ William H. Topp,Mansfield
 William H. Topp,John Davenport
 William H. Topp,Amos Gerry Beman
 William H. Topp,John Nelson Still
-William H. Topp,D. C.
 William H. Topp,George Walker
 William H. Topp,Washington Hunt
 William H. Topp,Edwin D. Morgan
@@ -1803,7 +1779,6 @@ Francis Douge,W. C. Gardner
 Francis Douge,E.N. Hall
 Francis Douge,A.G. Beman
 Francis Douge,J.N. Still
-Francis Douge,J.P. Johnson
 Francis Douge,Bill
 Francis Douge,H. Johnson
 Francis Douge,Gerrit Smith
@@ -1852,7 +1827,6 @@ Francis Douge,Mansfield
 Francis Douge,John Davenport
 Francis Douge,Amos Gerry Beman
 Francis Douge,John Nelson Still
-Francis Douge,D. C.
 Francis Douge,George Walker
 Francis Douge,Washington Hunt
 Francis Douge,Edwin D. Morgan
@@ -1941,7 +1915,6 @@ Charles E. Seth,W. C. Gardner
 Charles E. Seth,E.N. Hall
 Charles E. Seth,A.G. Beman
 Charles E. Seth,J.N. Still
-Charles E. Seth,J.P. Johnson
 Charles E. Seth,Bill
 Charles E. Seth,H. Johnson
 Charles E. Seth,Gerrit Smith
@@ -1990,7 +1963,6 @@ Charles E. Seth,Mansfield
 Charles E. Seth,John Davenport
 Charles E. Seth,Amos Gerry Beman
 Charles E. Seth,John Nelson Still
-Charles E. Seth,D. C.
 Charles E. Seth,George Walker
 Charles E. Seth,Washington Hunt
 Charles E. Seth,Edwin D. Morgan
@@ -2078,7 +2050,6 @@ Wm. C. Gardiner,W. C. Gardner
 Wm. C. Gardiner,E.N. Hall
 Wm. C. Gardiner,A.G. Beman
 Wm. C. Gardiner,J.N. Still
-Wm. C. Gardiner,J.P. Johnson
 Wm. C. Gardiner,Bill
 Wm. C. Gardiner,H. Johnson
 Wm. C. Gardiner,Gerrit Smith
@@ -2127,7 +2098,6 @@ Wm. C. Gardiner,Mansfield
 Wm. C. Gardiner,John Davenport
 Wm. C. Gardiner,Amos Gerry Beman
 Wm. C. Gardiner,John Nelson Still
-Wm. C. Gardiner,D. C.
 Wm. C. Gardiner,George Walker
 Wm. C. Gardiner,Washington Hunt
 Wm. C. Gardiner,Edwin D. Morgan
@@ -2214,7 +2184,6 @@ Benjamin Cutler,W. C. Gardner
 Benjamin Cutler,E.N. Hall
 Benjamin Cutler,A.G. Beman
 Benjamin Cutler,J.N. Still
-Benjamin Cutler,J.P. Johnson
 Benjamin Cutler,Bill
 Benjamin Cutler,H. Johnson
 Benjamin Cutler,Gerrit Smith
@@ -2263,7 +2232,6 @@ Benjamin Cutler,Mansfield
 Benjamin Cutler,John Davenport
 Benjamin Cutler,Amos Gerry Beman
 Benjamin Cutler,John Nelson Still
-Benjamin Cutler,D. C.
 Benjamin Cutler,George Walker
 Benjamin Cutler,Washington Hunt
 Benjamin Cutler,Edwin D. Morgan
@@ -2349,7 +2317,6 @@ James P. Johnson,W. C. Gardner
 James P. Johnson,E.N. Hall
 James P. Johnson,A.G. Beman
 James P. Johnson,J.N. Still
-James P. Johnson,J.P. Johnson
 James P. Johnson,Bill
 James P. Johnson,H. Johnson
 James P. Johnson,Gerrit Smith
@@ -2398,7 +2365,6 @@ James P. Johnson,Mansfield
 James P. Johnson,John Davenport
 James P. Johnson,Amos Gerry Beman
 James P. Johnson,John Nelson Still
-James P. Johnson,D. C.
 James P. Johnson,George Walker
 James P. Johnson,Washington Hunt
 James P. Johnson,Edwin D. Morgan
@@ -2483,7 +2449,6 @@ John Springsteel,W. C. Gardner
 John Springsteel,E.N. Hall
 John Springsteel,A.G. Beman
 John Springsteel,J.N. Still
-John Springsteel,J.P. Johnson
 John Springsteel,Bill
 John Springsteel,H. Johnson
 John Springsteel,Gerrit Smith
@@ -2532,7 +2497,6 @@ John Springsteel,Mansfield
 John Springsteel,John Davenport
 John Springsteel,Amos Gerry Beman
 John Springsteel,John Nelson Still
-John Springsteel,D. C.
 John Springsteel,George Walker
 John Springsteel,Washington Hunt
 John Springsteel,Edwin D. Morgan
@@ -2616,7 +2580,6 @@ Johnson,W. C. Gardner
 Johnson,E.N. Hall
 Johnson,A.G. Beman
 Johnson,J.N. Still
-Johnson,J.P. Johnson
 Johnson,Bill
 Johnson,H. Johnson
 Johnson,Gerrit Smith
@@ -2665,7 +2628,6 @@ Johnson,Mansfield
 Johnson,John Davenport
 Johnson,Amos Gerry Beman
 Johnson,John Nelson Still
-Johnson,D. C.
 Johnson,George Walker
 Johnson,Washington Hunt
 Johnson,Edwin D. Morgan
@@ -2748,7 +2710,6 @@ James M. Williams,W. C. Gardner
 James M. Williams,E.N. Hall
 James M. Williams,A.G. Beman
 James M. Williams,J.N. Still
-James M. Williams,J.P. Johnson
 James M. Williams,Bill
 James M. Williams,H. Johnson
 James M. Williams,Gerrit Smith
@@ -2797,7 +2758,6 @@ James M. Williams,Mansfield
 James M. Williams,John Davenport
 James M. Williams,Amos Gerry Beman
 James M. Williams,John Nelson Still
-James M. Williams,D. C.
 James M. Williams,George Walker
 James M. Williams,Washington Hunt
 James M. Williams,Edwin D. Morgan
@@ -2879,7 +2839,6 @@ Henry Johnson,W. C. Gardner
 Henry Johnson,E.N. Hall
 Henry Johnson,A.G. Beman
 Henry Johnson,J.N. Still
-Henry Johnson,J.P. Johnson
 Henry Johnson,Bill
 Henry Johnson,H. Johnson
 Henry Johnson,Gerrit Smith
@@ -2928,7 +2887,6 @@ Henry Johnson,Mansfield
 Henry Johnson,John Davenport
 Henry Johnson,Amos Gerry Beman
 Henry Johnson,John Nelson Still
-Henry Johnson,D. C.
 Henry Johnson,George Walker
 Henry Johnson,Washington Hunt
 Henry Johnson,Edwin D. Morgan
@@ -3009,7 +2967,6 @@ Primus Robinson,W. C. Gardner
 Primus Robinson,E.N. Hall
 Primus Robinson,A.G. Beman
 Primus Robinson,J.N. Still
-Primus Robinson,J.P. Johnson
 Primus Robinson,Bill
 Primus Robinson,H. Johnson
 Primus Robinson,Gerrit Smith
@@ -3058,7 +3015,6 @@ Primus Robinson,Mansfield
 Primus Robinson,John Davenport
 Primus Robinson,Amos Gerry Beman
 Primus Robinson,John Nelson Still
-Primus Robinson,D. C.
 Primus Robinson,George Walker
 Primus Robinson,Washington Hunt
 Primus Robinson,Edwin D. Morgan
@@ -3138,7 +3094,6 @@ James Youngs,W. C. Gardner
 James Youngs,E.N. Hall
 James Youngs,A.G. Beman
 James Youngs,J.N. Still
-James Youngs,J.P. Johnson
 James Youngs,Bill
 James Youngs,H. Johnson
 James Youngs,Gerrit Smith
@@ -3187,7 +3142,6 @@ James Youngs,Mansfield
 James Youngs,John Davenport
 James Youngs,Amos Gerry Beman
 James Youngs,John Nelson Still
-James Youngs,D. C.
 James Youngs,George Walker
 James Youngs,Washington Hunt
 James Youngs,Edwin D. Morgan
@@ -3266,7 +3220,6 @@ F. Van Vranken,W. C. Gardner
 F. Van Vranken,E.N. Hall
 F. Van Vranken,A.G. Beman
 F. Van Vranken,J.N. Still
-F. Van Vranken,J.P. Johnson
 F. Van Vranken,Bill
 F. Van Vranken,H. Johnson
 F. Van Vranken,Gerrit Smith
@@ -3315,7 +3268,6 @@ F. Van Vranken,Mansfield
 F. Van Vranken,John Davenport
 F. Van Vranken,Amos Gerry Beman
 F. Van Vranken,John Nelson Still
-F. Van Vranken,D. C.
 F. Van Vranken,George Walker
 F. Van Vranken,Washington Hunt
 F. Van Vranken,Edwin D. Morgan
@@ -3393,7 +3345,6 @@ Peter Vandeveer,W. C. Gardner
 Peter Vandeveer,E.N. Hall
 Peter Vandeveer,A.G. Beman
 Peter Vandeveer,J.N. Still
-Peter Vandeveer,J.P. Johnson
 Peter Vandeveer,Bill
 Peter Vandeveer,H. Johnson
 Peter Vandeveer,Gerrit Smith
@@ -3442,7 +3393,6 @@ Peter Vandeveer,Mansfield
 Peter Vandeveer,John Davenport
 Peter Vandeveer,Amos Gerry Beman
 Peter Vandeveer,John Nelson Still
-Peter Vandeveer,D. C.
 Peter Vandeveer,George Walker
 Peter Vandeveer,Washington Hunt
 Peter Vandeveer,Edwin D. Morgan
@@ -3519,7 +3469,6 @@ Jacob Ennis,W. C. Gardner
 Jacob Ennis,E.N. Hall
 Jacob Ennis,A.G. Beman
 Jacob Ennis,J.N. Still
-Jacob Ennis,J.P. Johnson
 Jacob Ennis,Bill
 Jacob Ennis,H. Johnson
 Jacob Ennis,Gerrit Smith
@@ -3568,7 +3517,6 @@ Jacob Ennis,Mansfield
 Jacob Ennis,John Davenport
 Jacob Ennis,Amos Gerry Beman
 Jacob Ennis,John Nelson Still
-Jacob Ennis,D. C.
 Jacob Ennis,George Walker
 Jacob Ennis,Washington Hunt
 Jacob Ennis,Edwin D. Morgan
@@ -3644,7 +3592,6 @@ Rich,W. C. Gardner
 Rich,E.N. Hall
 Rich,A.G. Beman
 Rich,J.N. Still
-Rich,J.P. Johnson
 Rich,Bill
 Rich,H. Johnson
 Rich,Gerrit Smith
@@ -3693,7 +3640,6 @@ Rich,Mansfield
 Rich,John Davenport
 Rich,Amos Gerry Beman
 Rich,John Nelson Still
-Rich,D. C.
 Rich,George Walker
 Rich,Washington Hunt
 Rich,Edwin D. Morgan
@@ -3768,7 +3714,6 @@ Edward H. Bishop,W. C. Gardner
 Edward H. Bishop,E.N. Hall
 Edward H. Bishop,A.G. Beman
 Edward H. Bishop,J.N. Still
-Edward H. Bishop,J.P. Johnson
 Edward H. Bishop,Bill
 Edward H. Bishop,H. Johnson
 Edward H. Bishop,Gerrit Smith
@@ -3817,7 +3762,6 @@ Edward H. Bishop,Mansfield
 Edward H. Bishop,John Davenport
 Edward H. Bishop,Amos Gerry Beman
 Edward H. Bishop,John Nelson Still
-Edward H. Bishop,D. C.
 Edward H. Bishop,George Walker
 Edward H. Bishop,Washington Hunt
 Edward H. Bishop,Edwin D. Morgan
@@ -3891,7 +3835,6 @@ Wm. Jones,W. C. Gardner
 Wm. Jones,E.N. Hall
 Wm. Jones,A.G. Beman
 Wm. Jones,J.N. Still
-Wm. Jones,J.P. Johnson
 Wm. Jones,Bill
 Wm. Jones,H. Johnson
 Wm. Jones,Gerrit Smith
@@ -3940,7 +3883,6 @@ Wm. Jones,Mansfield
 Wm. Jones,John Davenport
 Wm. Jones,Amos Gerry Beman
 Wm. Jones,John Nelson Still
-Wm. Jones,D. C.
 Wm. Jones,George Walker
 Wm. Jones,Washington Hunt
 Wm. Jones,Edwin D. Morgan
@@ -4013,7 +3955,6 @@ Abraham Stanley,W. C. Gardner
 Abraham Stanley,E.N. Hall
 Abraham Stanley,A.G. Beman
 Abraham Stanley,J.N. Still
-Abraham Stanley,J.P. Johnson
 Abraham Stanley,Bill
 Abraham Stanley,H. Johnson
 Abraham Stanley,Gerrit Smith
@@ -4062,7 +4003,6 @@ Abraham Stanley,Mansfield
 Abraham Stanley,John Davenport
 Abraham Stanley,Amos Gerry Beman
 Abraham Stanley,John Nelson Still
-Abraham Stanley,D. C.
 Abraham Stanley,George Walker
 Abraham Stanley,Washington Hunt
 Abraham Stanley,Edwin D. Morgan
@@ -4134,7 +4074,6 @@ Daniel Hall,W. C. Gardner
 Daniel Hall,E.N. Hall
 Daniel Hall,A.G. Beman
 Daniel Hall,J.N. Still
-Daniel Hall,J.P. Johnson
 Daniel Hall,Bill
 Daniel Hall,H. Johnson
 Daniel Hall,Gerrit Smith
@@ -4183,7 +4122,6 @@ Daniel Hall,Mansfield
 Daniel Hall,John Davenport
 Daniel Hall,Amos Gerry Beman
 Daniel Hall,John Nelson Still
-Daniel Hall,D. C.
 Daniel Hall,George Walker
 Daniel Hall,Washington Hunt
 Daniel Hall,Edwin D. Morgan
@@ -4254,7 +4192,6 @@ Lloyd Hasper,W. C. Gardner
 Lloyd Hasper,E.N. Hall
 Lloyd Hasper,A.G. Beman
 Lloyd Hasper,J.N. Still
-Lloyd Hasper,J.P. Johnson
 Lloyd Hasper,Bill
 Lloyd Hasper,H. Johnson
 Lloyd Hasper,Gerrit Smith
@@ -4303,7 +4240,6 @@ Lloyd Hasper,Mansfield
 Lloyd Hasper,John Davenport
 Lloyd Hasper,Amos Gerry Beman
 Lloyd Hasper,John Nelson Still
-Lloyd Hasper,D. C.
 Lloyd Hasper,George Walker
 Lloyd Hasper,Washington Hunt
 Lloyd Hasper,Edwin D. Morgan
@@ -4373,7 +4309,6 @@ Henry Hicks,W. C. Gardner
 Henry Hicks,E.N. Hall
 Henry Hicks,A.G. Beman
 Henry Hicks,J.N. Still
-Henry Hicks,J.P. Johnson
 Henry Hicks,Bill
 Henry Hicks,H. Johnson
 Henry Hicks,Gerrit Smith
@@ -4422,7 +4357,6 @@ Henry Hicks,Mansfield
 Henry Hicks,John Davenport
 Henry Hicks,Amos Gerry Beman
 Henry Hicks,John Nelson Still
-Henry Hicks,D. C.
 Henry Hicks,George Walker
 Henry Hicks,Washington Hunt
 Henry Hicks,Edwin D. Morgan
@@ -4491,7 +4425,6 @@ Martin Cross,W. C. Gardner
 Martin Cross,E.N. Hall
 Martin Cross,A.G. Beman
 Martin Cross,J.N. Still
-Martin Cross,J.P. Johnson
 Martin Cross,Bill
 Martin Cross,H. Johnson
 Martin Cross,Gerrit Smith
@@ -4540,7 +4473,6 @@ Martin Cross,Mansfield
 Martin Cross,John Davenport
 Martin Cross,Amos Gerry Beman
 Martin Cross,John Nelson Still
-Martin Cross,D. C.
 Martin Cross,George Walker
 Martin Cross,Washington Hunt
 Martin Cross,Edwin D. Morgan
@@ -4608,7 +4540,6 @@ Eli N. Hall,W. C. Gardner
 Eli N. Hall,E.N. Hall
 Eli N. Hall,A.G. Beman
 Eli N. Hall,J.N. Still
-Eli N. Hall,J.P. Johnson
 Eli N. Hall,Bill
 Eli N. Hall,H. Johnson
 Eli N. Hall,Gerrit Smith
@@ -4657,7 +4588,6 @@ Eli N. Hall,Mansfield
 Eli N. Hall,John Davenport
 Eli N. Hall,Amos Gerry Beman
 Eli N. Hall,John Nelson Still
-Eli N. Hall,D. C.
 Eli N. Hall,George Walker
 Eli N. Hall,Washington Hunt
 Eli N. Hall,Edwin D. Morgan
@@ -4724,7 +4654,6 @@ John N. Stiles,W. C. Gardner
 John N. Stiles,E.N. Hall
 John N. Stiles,A.G. Beman
 John N. Stiles,J.N. Still
-John N. Stiles,J.P. Johnson
 John N. Stiles,Bill
 John N. Stiles,H. Johnson
 John N. Stiles,Gerrit Smith
@@ -4773,7 +4702,6 @@ John N. Stiles,Mansfield
 John N. Stiles,John Davenport
 John N. Stiles,Amos Gerry Beman
 John N. Stiles,John Nelson Still
-John N. Stiles,D. C.
 John N. Stiles,George Walker
 John N. Stiles,Washington Hunt
 John N. Stiles,Edwin D. Morgan
@@ -4839,7 +4767,6 @@ Henry Williams,W. C. Gardner
 Henry Williams,E.N. Hall
 Henry Williams,A.G. Beman
 Henry Williams,J.N. Still
-Henry Williams,J.P. Johnson
 Henry Williams,Bill
 Henry Williams,H. Johnson
 Henry Williams,Gerrit Smith
@@ -4888,7 +4815,6 @@ Henry Williams,Mansfield
 Henry Williams,John Davenport
 Henry Williams,Amos Gerry Beman
 Henry Williams,John Nelson Still
-Henry Williams,D. C.
 Henry Williams,George Walker
 Henry Williams,Washington Hunt
 Henry Williams,Edwin D. Morgan
@@ -4953,7 +4879,6 @@ F. Johnson,W. C. Gardner
 F. Johnson,E.N. Hall
 F. Johnson,A.G. Beman
 F. Johnson,J.N. Still
-F. Johnson,J.P. Johnson
 F. Johnson,Bill
 F. Johnson,H. Johnson
 F. Johnson,Gerrit Smith
@@ -5002,7 +4927,6 @@ F. Johnson,Mansfield
 F. Johnson,John Davenport
 F. Johnson,Amos Gerry Beman
 F. Johnson,John Nelson Still
-F. Johnson,D. C.
 F. Johnson,George Walker
 F. Johnson,Washington Hunt
 F. Johnson,Edwin D. Morgan
@@ -5066,7 +4990,6 @@ Amos G. Beman,W. C. Gardner
 Amos G. Beman,E.N. Hall
 Amos G. Beman,A.G. Beman
 Amos G. Beman,J.N. Still
-Amos G. Beman,J.P. Johnson
 Amos G. Beman,Bill
 Amos G. Beman,H. Johnson
 Amos G. Beman,Gerrit Smith
@@ -5115,7 +5038,6 @@ Amos G. Beman,Mansfield
 Amos G. Beman,John Davenport
 Amos G. Beman,Amos Gerry Beman
 Amos G. Beman,John Nelson Still
-Amos G. Beman,D. C.
 Amos G. Beman,George Walker
 Amos G. Beman,Washington Hunt
 Amos G. Beman,Edwin D. Morgan
@@ -5178,7 +5100,6 @@ C. E. Seth,W. C. Gardner
 C. E. Seth,E.N. Hall
 C. E. Seth,A.G. Beman
 C. E. Seth,J.N. Still
-C. E. Seth,J.P. Johnson
 C. E. Seth,Bill
 C. E. Seth,H. Johnson
 C. E. Seth,Gerrit Smith
@@ -5227,7 +5148,6 @@ C. E. Seth,Mansfield
 C. E. Seth,John Davenport
 C. E. Seth,Amos Gerry Beman
 C. E. Seth,John Nelson Still
-C. E. Seth,D. C.
 C. E. Seth,George Walker
 C. E. Seth,Washington Hunt
 C. E. Seth,Edwin D. Morgan
@@ -5289,7 +5209,6 @@ Hitam Johnson,W. C. Gardner
 Hitam Johnson,E.N. Hall
 Hitam Johnson,A.G. Beman
 Hitam Johnson,J.N. Still
-Hitam Johnson,J.P. Johnson
 Hitam Johnson,Bill
 Hitam Johnson,H. Johnson
 Hitam Johnson,Gerrit Smith
@@ -5338,7 +5257,6 @@ Hitam Johnson,Mansfield
 Hitam Johnson,John Davenport
 Hitam Johnson,Amos Gerry Beman
 Hitam Johnson,John Nelson Still
-Hitam Johnson,D. C.
 Hitam Johnson,George Walker
 Hitam Johnson,Washington Hunt
 Hitam Johnson,Edwin D. Morgan
@@ -5399,7 +5317,6 @@ Wm. H. Topp,W. C. Gardner
 Wm. H. Topp,E.N. Hall
 Wm. H. Topp,A.G. Beman
 Wm. H. Topp,J.N. Still
-Wm. H. Topp,J.P. Johnson
 Wm. H. Topp,Bill
 Wm. H. Topp,H. Johnson
 Wm. H. Topp,Gerrit Smith
@@ -5448,7 +5365,6 @@ Wm. H. Topp,Mansfield
 Wm. H. Topp,John Davenport
 Wm. H. Topp,Amos Gerry Beman
 Wm. H. Topp,John Nelson Still
-Wm. H. Topp,D. C.
 Wm. H. Topp,George Walker
 Wm. H. Topp,Washington Hunt
 Wm. H. Topp,Edwin D. Morgan
@@ -5508,7 +5424,6 @@ John N. Still,W. C. Gardner
 John N. Still,E.N. Hall
 John N. Still,A.G. Beman
 John N. Still,J.N. Still
-John N. Still,J.P. Johnson
 John N. Still,Bill
 John N. Still,H. Johnson
 John N. Still,Gerrit Smith
@@ -5557,7 +5472,6 @@ John N. Still,Mansfield
 John N. Still,John Davenport
 John N. Still,Amos Gerry Beman
 John N. Still,John Nelson Still
-John N. Still,D. C.
 John N. Still,George Walker
 John N. Still,Washington Hunt
 John N. Still,Edwin D. Morgan
@@ -5616,7 +5530,6 @@ W. H. Topp,W. C. Gardner
 W. H. Topp,E.N. Hall
 W. H. Topp,A.G. Beman
 W. H. Topp,J.N. Still
-W. H. Topp,J.P. Johnson
 W. H. Topp,Bill
 W. H. Topp,H. Johnson
 W. H. Topp,Gerrit Smith
@@ -5665,7 +5578,6 @@ W. H. Topp,Mansfield
 W. H. Topp,John Davenport
 W. H. Topp,Amos Gerry Beman
 W. H. Topp,John Nelson Still
-W. H. Topp,D. C.
 W. H. Topp,George Walker
 W. H. Topp,Washington Hunt
 W. H. Topp,Edwin D. Morgan
@@ -5723,7 +5635,6 @@ S. Myers,W. C. Gardner
 S. Myers,E.N. Hall
 S. Myers,A.G. Beman
 S. Myers,J.N. Still
-S. Myers,J.P. Johnson
 S. Myers,Bill
 S. Myers,H. Johnson
 S. Myers,Gerrit Smith
@@ -5772,7 +5683,6 @@ S. Myers,Mansfield
 S. Myers,John Davenport
 S. Myers,Amos Gerry Beman
 S. Myers,John Nelson Still
-S. Myers,D. C.
 S. Myers,George Walker
 S. Myers,Washington Hunt
 S. Myers,Edwin D. Morgan
@@ -5829,7 +5739,6 @@ Seth,W. C. Gardner
 Seth,E.N. Hall
 Seth,A.G. Beman
 Seth,J.N. Still
-Seth,J.P. Johnson
 Seth,Bill
 Seth,H. Johnson
 Seth,Gerrit Smith
@@ -5878,7 +5787,6 @@ Seth,Mansfield
 Seth,John Davenport
 Seth,Amos Gerry Beman
 Seth,John Nelson Still
-Seth,D. C.
 Seth,George Walker
 Seth,Washington Hunt
 Seth,Edwin D. Morgan
@@ -5934,7 +5842,6 @@ William Rich,W. C. Gardner
 William Rich,E.N. Hall
 William Rich,A.G. Beman
 William Rich,J.N. Still
-William Rich,J.P. Johnson
 William Rich,Bill
 William Rich,H. Johnson
 William Rich,Gerrit Smith
@@ -5983,7 +5890,6 @@ William Rich,Mansfield
 William Rich,John Davenport
 William Rich,Amos Gerry Beman
 William Rich,John Nelson Still
-William Rich,D. C.
 William Rich,George Walker
 William Rich,Washington Hunt
 William Rich,Edwin D. Morgan
@@ -6038,7 +5944,6 @@ James Morris Williams,W. C. Gardner
 James Morris Williams,E.N. Hall
 James Morris Williams,A.G. Beman
 James Morris Williams,J.N. Still
-James Morris Williams,J.P. Johnson
 James Morris Williams,Bill
 James Morris Williams,H. Johnson
 James Morris Williams,Gerrit Smith
@@ -6087,7 +5992,6 @@ James Morris Williams,Mansfield
 James Morris Williams,John Davenport
 James Morris Williams,Amos Gerry Beman
 James Morris Williams,John Nelson Still
-James Morris Williams,D. C.
 James Morris Williams,George Walker
 James Morris Williams,Washington Hunt
 James Morris Williams,Edwin D. Morgan
@@ -6141,7 +6045,6 @@ P. Mcintyre,W. C. Gardner
 P. Mcintyre,E.N. Hall
 P. Mcintyre,A.G. Beman
 P. Mcintyre,J.N. Still
-P. Mcintyre,J.P. Johnson
 P. Mcintyre,Bill
 P. Mcintyre,H. Johnson
 P. Mcintyre,Gerrit Smith
@@ -6190,7 +6093,6 @@ P. Mcintyre,Mansfield
 P. Mcintyre,John Davenport
 P. Mcintyre,Amos Gerry Beman
 P. Mcintyre,John Nelson Still
-P. Mcintyre,D. C.
 P. Mcintyre,George Walker
 P. Mcintyre,Washington Hunt
 P. Mcintyre,Edwin D. Morgan
@@ -6243,7 +6145,6 @@ F. Douge,W. C. Gardner
 F. Douge,E.N. Hall
 F. Douge,A.G. Beman
 F. Douge,J.N. Still
-F. Douge,J.P. Johnson
 F. Douge,Bill
 F. Douge,H. Johnson
 F. Douge,Gerrit Smith
@@ -6292,7 +6193,6 @@ F. Douge,Mansfield
 F. Douge,John Davenport
 F. Douge,Amos Gerry Beman
 F. Douge,John Nelson Still
-F. Douge,D. C.
 F. Douge,George Walker
 F. Douge,Washington Hunt
 F. Douge,Edwin D. Morgan
@@ -6344,7 +6244,6 @@ William P. Mcintyre,W. C. Gardner
 William P. Mcintyre,E.N. Hall
 William P. Mcintyre,A.G. Beman
 William P. Mcintyre,J.N. Still
-William P. Mcintyre,J.P. Johnson
 William P. Mcintyre,Bill
 William P. Mcintyre,H. Johnson
 William P. Mcintyre,Gerrit Smith
@@ -6393,7 +6292,6 @@ William P. Mcintyre,Mansfield
 William P. Mcintyre,John Davenport
 William P. Mcintyre,Amos Gerry Beman
 William P. Mcintyre,John Nelson Still
-William P. Mcintyre,D. C.
 William P. Mcintyre,George Walker
 William P. Mcintyre,Washington Hunt
 William P. Mcintyre,Edwin D. Morgan
@@ -6444,7 +6342,6 @@ W. P. Mcintyre,W. C. Gardner
 W. P. Mcintyre,E.N. Hall
 W. P. Mcintyre,A.G. Beman
 W. P. Mcintyre,J.N. Still
-W. P. Mcintyre,J.P. Johnson
 W. P. Mcintyre,Bill
 W. P. Mcintyre,H. Johnson
 W. P. Mcintyre,Gerrit Smith
@@ -6493,7 +6390,6 @@ W. P. Mcintyre,Mansfield
 W. P. Mcintyre,John Davenport
 W. P. Mcintyre,Amos Gerry Beman
 W. P. Mcintyre,John Nelson Still
-W. P. Mcintyre,D. C.
 W. P. Mcintyre,George Walker
 W. P. Mcintyre,Washington Hunt
 W. P. Mcintyre,Edwin D. Morgan
@@ -6543,7 +6439,6 @@ Topp,W. C. Gardner
 Topp,E.N. Hall
 Topp,A.G. Beman
 Topp,J.N. Still
-Topp,J.P. Johnson
 Topp,Bill
 Topp,H. Johnson
 Topp,Gerrit Smith
@@ -6592,7 +6487,6 @@ Topp,Mansfield
 Topp,John Davenport
 Topp,Amos Gerry Beman
 Topp,John Nelson Still
-Topp,D. C.
 Topp,George Walker
 Topp,Washington Hunt
 Topp,Edwin D. Morgan
@@ -6641,7 +6535,6 @@ Mcintyre,W. C. Gardner
 Mcintyre,E.N. Hall
 Mcintyre,A.G. Beman
 Mcintyre,J.N. Still
-Mcintyre,J.P. Johnson
 Mcintyre,Bill
 Mcintyre,H. Johnson
 Mcintyre,Gerrit Smith
@@ -6690,7 +6583,6 @@ Mcintyre,Mansfield
 Mcintyre,John Davenport
 Mcintyre,Amos Gerry Beman
 Mcintyre,John Nelson Still
-Mcintyre,D. C.
 Mcintyre,George Walker
 Mcintyre,Washington Hunt
 Mcintyre,Edwin D. Morgan
@@ -6738,7 +6630,6 @@ Hicks,W. C. Gardner
 Hicks,E.N. Hall
 Hicks,A.G. Beman
 Hicks,J.N. Still
-Hicks,J.P. Johnson
 Hicks,Bill
 Hicks,H. Johnson
 Hicks,Gerrit Smith
@@ -6787,7 +6678,6 @@ Hicks,Mansfield
 Hicks,John Davenport
 Hicks,Amos Gerry Beman
 Hicks,John Nelson Still
-Hicks,D. C.
 Hicks,George Walker
 Hicks,Washington Hunt
 Hicks,Edwin D. Morgan
@@ -6834,7 +6724,6 @@ Wm. F. Johnson,W. C. Gardner
 Wm. F. Johnson,E.N. Hall
 Wm. F. Johnson,A.G. Beman
 Wm. F. Johnson,J.N. Still
-Wm. F. Johnson,J.P. Johnson
 Wm. F. Johnson,Bill
 Wm. F. Johnson,H. Johnson
 Wm. F. Johnson,Gerrit Smith
@@ -6883,7 +6772,6 @@ Wm. F. Johnson,Mansfield
 Wm. F. Johnson,John Davenport
 Wm. F. Johnson,Amos Gerry Beman
 Wm. F. Johnson,John Nelson Still
-Wm. F. Johnson,D. C.
 Wm. F. Johnson,George Walker
 Wm. F. Johnson,Washington Hunt
 Wm. F. Johnson,Edwin D. Morgan
@@ -6929,7 +6817,6 @@ Myers,W. C. Gardner
 Myers,E.N. Hall
 Myers,A.G. Beman
 Myers,J.N. Still
-Myers,J.P. Johnson
 Myers,Bill
 Myers,H. Johnson
 Myers,Gerrit Smith
@@ -6978,7 +6865,6 @@ Myers,Mansfield
 Myers,John Davenport
 Myers,Amos Gerry Beman
 Myers,John Nelson Still
-Myers,D. C.
 Myers,George Walker
 Myers,Washington Hunt
 Myers,Edwin D. Morgan
@@ -7023,7 +6909,6 @@ Cutler,W. C. Gardner
 Cutler,E.N. Hall
 Cutler,A.G. Beman
 Cutler,J.N. Still
-Cutler,J.P. Johnson
 Cutler,Bill
 Cutler,H. Johnson
 Cutler,Gerrit Smith
@@ -7072,7 +6957,6 @@ Cutler,Mansfield
 Cutler,John Davenport
 Cutler,Amos Gerry Beman
 Cutler,John Nelson Still
-Cutler,D. C.
 Cutler,George Walker
 Cutler,Washington Hunt
 Cutler,Edwin D. Morgan
@@ -7116,7 +7000,6 @@ J. P. Johnson,W. C. Gardner
 J. P. Johnson,E.N. Hall
 J. P. Johnson,A.G. Beman
 J. P. Johnson,J.N. Still
-J. P. Johnson,J.P. Johnson
 J. P. Johnson,Bill
 J. P. Johnson,H. Johnson
 J. P. Johnson,Gerrit Smith
@@ -7165,7 +7048,6 @@ J. P. Johnson,Mansfield
 J. P. Johnson,John Davenport
 J. P. Johnson,Amos Gerry Beman
 J. P. Johnson,John Nelson Still
-J. P. Johnson,D. C.
 J. P. Johnson,George Walker
 J. P. Johnson,Washington Hunt
 J. P. Johnson,Edwin D. Morgan
@@ -7208,7 +7090,6 @@ A. G. Beman,W. C. Gardner
 A. G. Beman,E.N. Hall
 A. G. Beman,A.G. Beman
 A. G. Beman,J.N. Still
-A. G. Beman,J.P. Johnson
 A. G. Beman,Bill
 A. G. Beman,H. Johnson
 A. G. Beman,Gerrit Smith
@@ -7257,7 +7138,6 @@ A. G. Beman,Mansfield
 A. G. Beman,John Davenport
 A. G. Beman,Amos Gerry Beman
 A. G. Beman,John Nelson Still
-A. G. Beman,D. C.
 A. G. Beman,George Walker
 A. G. Beman,Washington Hunt
 A. G. Beman,Edwin D. Morgan
@@ -7299,7 +7179,6 @@ Wright,W. C. Gardner
 Wright,E.N. Hall
 Wright,A.G. Beman
 Wright,J.N. Still
-Wright,J.P. Johnson
 Wright,Bill
 Wright,H. Johnson
 Wright,Gerrit Smith
@@ -7348,7 +7227,6 @@ Wright,Mansfield
 Wright,John Davenport
 Wright,Amos Gerry Beman
 Wright,John Nelson Still
-Wright,D. C.
 Wright,George Walker
 Wright,Washington Hunt
 Wright,Edwin D. Morgan
@@ -7389,7 +7267,6 @@ H. Topp,W. C. Gardner
 H. Topp,E.N. Hall
 H. Topp,A.G. Beman
 H. Topp,J.N. Still
-H. Topp,J.P. Johnson
 H. Topp,Bill
 H. Topp,H. Johnson
 H. Topp,Gerrit Smith
@@ -7438,7 +7315,6 @@ H. Topp,Mansfield
 H. Topp,John Davenport
 H. Topp,Amos Gerry Beman
 H. Topp,John Nelson Still
-H. Topp,D. C.
 H. Topp,George Walker
 H. Topp,Washington Hunt
 H. Topp,Edwin D. Morgan
@@ -7478,7 +7354,6 @@ R. Wright,W. C. Gardner
 R. Wright,E.N. Hall
 R. Wright,A.G. Beman
 R. Wright,J.N. Still
-R. Wright,J.P. Johnson
 R. Wright,Bill
 R. Wright,H. Johnson
 R. Wright,Gerrit Smith
@@ -7527,7 +7402,6 @@ R. Wright,Mansfield
 R. Wright,John Davenport
 R. Wright,Amos Gerry Beman
 R. Wright,John Nelson Still
-R. Wright,D. C.
 R. Wright,George Walker
 R. Wright,Washington Hunt
 R. Wright,Edwin D. Morgan
@@ -7566,7 +7440,6 @@ W. F. Johnson,W. C. Gardner
 W. F. Johnson,E.N. Hall
 W. F. Johnson,A.G. Beman
 W. F. Johnson,J.N. Still
-W. F. Johnson,J.P. Johnson
 W. F. Johnson,Bill
 W. F. Johnson,H. Johnson
 W. F. Johnson,Gerrit Smith
@@ -7615,7 +7488,6 @@ W. F. Johnson,Mansfield
 W. F. Johnson,John Davenport
 W. F. Johnson,Amos Gerry Beman
 W. F. Johnson,John Nelson Still
-W. F. Johnson,D. C.
 W. F. Johnson,George Walker
 W. F. Johnson,Washington Hunt
 W. F. Johnson,Edwin D. Morgan
@@ -7653,7 +7525,6 @@ J. N. Stills,W. C. Gardner
 J. N. Stills,E.N. Hall
 J. N. Stills,A.G. Beman
 J. N. Stills,J.N. Still
-J. N. Stills,J.P. Johnson
 J. N. Stills,Bill
 J. N. Stills,H. Johnson
 J. N. Stills,Gerrit Smith
@@ -7702,7 +7573,6 @@ J. N. Stills,Mansfield
 J. N. Stills,John Davenport
 J. N. Stills,Amos Gerry Beman
 J. N. Stills,John Nelson Still
-J. N. Stills,D. C.
 J. N. Stills,George Walker
 J. N. Stills,Washington Hunt
 J. N. Stills,Edwin D. Morgan
@@ -7739,7 +7609,6 @@ J. W. Williams,W. C. Gardner
 J. W. Williams,E.N. Hall
 J. W. Williams,A.G. Beman
 J. W. Williams,J.N. Still
-J. W. Williams,J.P. Johnson
 J. W. Williams,Bill
 J. W. Williams,H. Johnson
 J. W. Williams,Gerrit Smith
@@ -7788,7 +7657,6 @@ J. W. Williams,Mansfield
 J. W. Williams,John Davenport
 J. W. Williams,Amos Gerry Beman
 J. W. Williams,John Nelson Still
-J. W. Williams,D. C.
 J. W. Williams,George Walker
 J. W. Williams,Washington Hunt
 J. W. Williams,Edwin D. Morgan
@@ -7824,7 +7692,6 @@ B. F. Cutler,W. C. Gardner
 B. F. Cutler,E.N. Hall
 B. F. Cutler,A.G. Beman
 B. F. Cutler,J.N. Still
-B. F. Cutler,J.P. Johnson
 B. F. Cutler,Bill
 B. F. Cutler,H. Johnson
 B. F. Cutler,Gerrit Smith
@@ -7873,7 +7740,6 @@ B. F. Cutler,Mansfield
 B. F. Cutler,John Davenport
 B. F. Cutler,Amos Gerry Beman
 B. F. Cutler,John Nelson Still
-B. F. Cutler,D. C.
 B. F. Cutler,George Walker
 B. F. Cutler,Washington Hunt
 B. F. Cutler,Edwin D. Morgan
@@ -7908,7 +7774,6 @@ B. F. Cutler,Charles Z. Lincoln
 W. C. Gardner,E.N. Hall
 W. C. Gardner,A.G. Beman
 W. C. Gardner,J.N. Still
-W. C. Gardner,J.P. Johnson
 W. C. Gardner,Bill
 W. C. Gardner,H. Johnson
 W. C. Gardner,Gerrit Smith
@@ -7957,7 +7822,6 @@ W. C. Gardner,Mansfield
 W. C. Gardner,John Davenport
 W. C. Gardner,Amos Gerry Beman
 W. C. Gardner,John Nelson Still
-W. C. Gardner,D. C.
 W. C. Gardner,George Walker
 W. C. Gardner,Washington Hunt
 W. C. Gardner,Edwin D. Morgan
@@ -7991,7 +7855,6 @@ W. C. Gardner,Charles
 W. C. Gardner,Charles Z. Lincoln
 E.N. Hall,A.G. Beman
 E.N. Hall,J.N. Still
-E.N. Hall,J.P. Johnson
 E.N. Hall,Bill
 E.N. Hall,H. Johnson
 E.N. Hall,Gerrit Smith
@@ -8040,7 +7903,6 @@ E.N. Hall,Mansfield
 E.N. Hall,John Davenport
 E.N. Hall,Amos Gerry Beman
 E.N. Hall,John Nelson Still
-E.N. Hall,D. C.
 E.N. Hall,George Walker
 E.N. Hall,Washington Hunt
 E.N. Hall,Edwin D. Morgan
@@ -8073,7 +7935,6 @@ E.N. Hall,William Goffe
 E.N. Hall,Charles
 E.N. Hall,Charles Z. Lincoln
 A.G. Beman,J.N. Still
-A.G. Beman,J.P. Johnson
 A.G. Beman,Bill
 A.G. Beman,H. Johnson
 A.G. Beman,Gerrit Smith
@@ -8122,7 +7983,6 @@ A.G. Beman,Mansfield
 A.G. Beman,John Davenport
 A.G. Beman,Amos Gerry Beman
 A.G. Beman,John Nelson Still
-A.G. Beman,D. C.
 A.G. Beman,George Walker
 A.G. Beman,Washington Hunt
 A.G. Beman,Edwin D. Morgan
@@ -8154,7 +8014,6 @@ A.G. Beman,Edward Whalley
 A.G. Beman,William Goffe
 A.G. Beman,Charles
 A.G. Beman,Charles Z. Lincoln
-J.N. Still,J.P. Johnson
 J.N. Still,Bill
 J.N. Still,H. Johnson
 J.N. Still,Gerrit Smith
@@ -8203,7 +8062,6 @@ J.N. Still,Mansfield
 J.N. Still,John Davenport
 J.N. Still,Amos Gerry Beman
 J.N. Still,John Nelson Still
-J.N. Still,D. C.
 J.N. Still,George Walker
 J.N. Still,Washington Hunt
 J.N. Still,Edwin D. Morgan
@@ -8235,86 +8093,6 @@ J.N. Still,Edward Whalley
 J.N. Still,William Goffe
 J.N. Still,Charles
 J.N. Still,Charles Z. Lincoln
-J.P. Johnson,Bill
-J.P. Johnson,H. Johnson
-J.P. Johnson,Gerrit Smith
-J.P. Johnson,S. R. Ward
-J.P. Johnson,Frederick Douglass
-J.P. Johnson,Wm H. Topp
-J.P. Johnson,Jones
-J.P. Johnson,P. Vandivere
-J.P. Johnson,Still
-J.P. Johnson,Augustus Washington
-J.P. Johnson,J. N. Still
-J.P. Johnson,E. Edward Seth
-J.P. Johnson,T. Johnson
-J.P. Johnson,Junius C. Morell
-J.P. Johnson,A. Williams
-J.P. Johnson,Williams
-J.P. Johnson,A.G. Berman
-J.P. Johnson,Smith
-J.P. Johnson,W.F. Johnson
-J.P. Johnson,Hall
-J.P. Johnson,Jesus Christ
-J.P. Johnson,Tompkins
-J.P. Johnson,Wm. Mcintyre
-J.P. Johnson,Greene
-J.P. Johnson,George Weir
-J.P. Johnson,Charles B. Ray
-J.P. Johnson,Jenkins
-J.P. Johnson,F. H. Douge
-J.P. Johnson,W. Rich
-J.P. Johnson,Pons
-J.P. Johnson,Briant
-J.P. Johnson,Stanton
-J.P. Johnson,Erie
-J.P. Johnson,Gurley
-J.P. Johnson,Benjamin F. Cutler
-J.P. Johnson,William Gardener
-J.P. Johnson,God
-J.P. Johnson,Hereupon
-J.P. Johnson,Niles
-J.P. Johnson,James Monroe
-J.P. Johnson,Mcilvain
-J.P. Johnson,Cox
-J.P. Johnson,Chan
-J.P. Johnson,Kent
-J.P. Johnson,Mansfield
-J.P. Johnson,John Davenport
-J.P. Johnson,Amos Gerry Beman
-J.P. Johnson,John Nelson Still
-J.P. Johnson,D. C.
-J.P. Johnson,George Walker
-J.P. Johnson,Washington Hunt
-J.P. Johnson,Edwin D. Morgan
-J.P. Johnson,Jehiel C. Beman
-J.P. Johnson,Beman
-J.P. Johnson,Douglass
-J.P. Johnson,Marquis De Lafayette
-J.P. Johnson,Horace Greeley
-J.P. Johnson,Junius C. Morel
-J.P. Johnson,Morell
-J.P. Johnson,Morel
-J.P. Johnson,Charles L. Reason
-J.P. Johnson,William G. Allen
-J.P. Johnson,Alexander Proudfit
-J.P. Johnson,Thomas Buchanan
-J.P. Johnson,Jehudi Ashmun
-J.P. Johnson,Henry Clay
-J.P. Johnson,Elliott Cresson
-J.P. Johnson,Ralph Randolph Gurley
-J.P. Johnson,John B. Pinney
-J.P. Johnson,Frederick Perry Stanton
-J.P. Johnson,James Kent
-J.P. Johnson,James Sommerset
-J.P. Johnson,Manfield
-J.P. Johnson,Daniel
-J.P. Johnson,Belshazzar
-J.P. Johnson,Davenport
-J.P. Johnson,Edward Whalley
-J.P. Johnson,William Goffe
-J.P. Johnson,Charles
-J.P. Johnson,Charles Z. Lincoln
 Bill,H. Johnson
 Bill,Gerrit Smith
 Bill,S. R. Ward
@@ -8362,7 +8140,6 @@ Bill,Mansfield
 Bill,John Davenport
 Bill,Amos Gerry Beman
 Bill,John Nelson Still
-Bill,D. C.
 Bill,George Walker
 Bill,Washington Hunt
 Bill,Edwin D. Morgan
@@ -8440,7 +8217,6 @@ H. Johnson,Mansfield
 H. Johnson,John Davenport
 H. Johnson,Amos Gerry Beman
 H. Johnson,John Nelson Still
-H. Johnson,D. C.
 H. Johnson,George Walker
 H. Johnson,Washington Hunt
 H. Johnson,Edwin D. Morgan
@@ -8517,7 +8293,6 @@ Gerrit Smith,Mansfield
 Gerrit Smith,John Davenport
 Gerrit Smith,Amos Gerry Beman
 Gerrit Smith,John Nelson Still
-Gerrit Smith,D. C.
 Gerrit Smith,George Walker
 Gerrit Smith,Washington Hunt
 Gerrit Smith,Edwin D. Morgan
@@ -8593,7 +8368,6 @@ S. R. Ward,Mansfield
 S. R. Ward,John Davenport
 S. R. Ward,Amos Gerry Beman
 S. R. Ward,John Nelson Still
-S. R. Ward,D. C.
 S. R. Ward,George Walker
 S. R. Ward,Washington Hunt
 S. R. Ward,Edwin D. Morgan
@@ -8668,7 +8442,6 @@ Frederick Douglass,Mansfield
 Frederick Douglass,John Davenport
 Frederick Douglass,Amos Gerry Beman
 Frederick Douglass,John Nelson Still
-Frederick Douglass,D. C.
 Frederick Douglass,George Walker
 Frederick Douglass,Washington Hunt
 Frederick Douglass,Edwin D. Morgan
@@ -8742,7 +8515,6 @@ Wm H. Topp,Mansfield
 Wm H. Topp,John Davenport
 Wm H. Topp,Amos Gerry Beman
 Wm H. Topp,John Nelson Still
-Wm H. Topp,D. C.
 Wm H. Topp,George Walker
 Wm H. Topp,Washington Hunt
 Wm H. Topp,Edwin D. Morgan
@@ -8815,7 +8587,6 @@ Jones,Mansfield
 Jones,John Davenport
 Jones,Amos Gerry Beman
 Jones,John Nelson Still
-Jones,D. C.
 Jones,George Walker
 Jones,Washington Hunt
 Jones,Edwin D. Morgan
@@ -8887,7 +8658,6 @@ P. Vandivere,Mansfield
 P. Vandivere,John Davenport
 P. Vandivere,Amos Gerry Beman
 P. Vandivere,John Nelson Still
-P. Vandivere,D. C.
 P. Vandivere,George Walker
 P. Vandivere,Washington Hunt
 P. Vandivere,Edwin D. Morgan
@@ -8958,7 +8728,6 @@ Still,Mansfield
 Still,John Davenport
 Still,Amos Gerry Beman
 Still,John Nelson Still
-Still,D. C.
 Still,George Walker
 Still,Washington Hunt
 Still,Edwin D. Morgan
@@ -9028,7 +8797,6 @@ Augustus Washington,Mansfield
 Augustus Washington,John Davenport
 Augustus Washington,Amos Gerry Beman
 Augustus Washington,John Nelson Still
-Augustus Washington,D. C.
 Augustus Washington,George Walker
 Augustus Washington,Washington Hunt
 Augustus Washington,Edwin D. Morgan
@@ -9097,7 +8865,6 @@ J. N. Still,Mansfield
 J. N. Still,John Davenport
 J. N. Still,Amos Gerry Beman
 J. N. Still,John Nelson Still
-J. N. Still,D. C.
 J. N. Still,George Walker
 J. N. Still,Washington Hunt
 J. N. Still,Edwin D. Morgan
@@ -9165,7 +8932,6 @@ E. Edward Seth,Mansfield
 E. Edward Seth,John Davenport
 E. Edward Seth,Amos Gerry Beman
 E. Edward Seth,John Nelson Still
-E. Edward Seth,D. C.
 E. Edward Seth,George Walker
 E. Edward Seth,Washington Hunt
 E. Edward Seth,Edwin D. Morgan
@@ -9232,7 +8998,6 @@ T. Johnson,Mansfield
 T. Johnson,John Davenport
 T. Johnson,Amos Gerry Beman
 T. Johnson,John Nelson Still
-T. Johnson,D. C.
 T. Johnson,George Walker
 T. Johnson,Washington Hunt
 T. Johnson,Edwin D. Morgan
@@ -9298,7 +9063,6 @@ Junius C. Morell,Mansfield
 Junius C. Morell,John Davenport
 Junius C. Morell,Amos Gerry Beman
 Junius C. Morell,John Nelson Still
-Junius C. Morell,D. C.
 Junius C. Morell,George Walker
 Junius C. Morell,Washington Hunt
 Junius C. Morell,Edwin D. Morgan
@@ -9363,7 +9127,6 @@ A. Williams,Mansfield
 A. Williams,John Davenport
 A. Williams,Amos Gerry Beman
 A. Williams,John Nelson Still
-A. Williams,D. C.
 A. Williams,George Walker
 A. Williams,Washington Hunt
 A. Williams,Edwin D. Morgan
@@ -9427,7 +9190,6 @@ Williams,Mansfield
 Williams,John Davenport
 Williams,Amos Gerry Beman
 Williams,John Nelson Still
-Williams,D. C.
 Williams,George Walker
 Williams,Washington Hunt
 Williams,Edwin D. Morgan
@@ -9490,7 +9252,6 @@ A.G. Berman,Mansfield
 A.G. Berman,John Davenport
 A.G. Berman,Amos Gerry Beman
 A.G. Berman,John Nelson Still
-A.G. Berman,D. C.
 A.G. Berman,George Walker
 A.G. Berman,Washington Hunt
 A.G. Berman,Edwin D. Morgan
@@ -9552,7 +9313,6 @@ Smith,Mansfield
 Smith,John Davenport
 Smith,Amos Gerry Beman
 Smith,John Nelson Still
-Smith,D. C.
 Smith,George Walker
 Smith,Washington Hunt
 Smith,Edwin D. Morgan
@@ -9613,7 +9373,6 @@ W.F. Johnson,Mansfield
 W.F. Johnson,John Davenport
 W.F. Johnson,Amos Gerry Beman
 W.F. Johnson,John Nelson Still
-W.F. Johnson,D. C.
 W.F. Johnson,George Walker
 W.F. Johnson,Washington Hunt
 W.F. Johnson,Edwin D. Morgan
@@ -9673,7 +9432,6 @@ Hall,Mansfield
 Hall,John Davenport
 Hall,Amos Gerry Beman
 Hall,John Nelson Still
-Hall,D. C.
 Hall,George Walker
 Hall,Washington Hunt
 Hall,Edwin D. Morgan
@@ -9732,7 +9490,6 @@ Jesus Christ,Mansfield
 Jesus Christ,John Davenport
 Jesus Christ,Amos Gerry Beman
 Jesus Christ,John Nelson Still
-Jesus Christ,D. C.
 Jesus Christ,George Walker
 Jesus Christ,Washington Hunt
 Jesus Christ,Edwin D. Morgan
@@ -9790,7 +9547,6 @@ Tompkins,Mansfield
 Tompkins,John Davenport
 Tompkins,Amos Gerry Beman
 Tompkins,John Nelson Still
-Tompkins,D. C.
 Tompkins,George Walker
 Tompkins,Washington Hunt
 Tompkins,Edwin D. Morgan
@@ -9847,7 +9603,6 @@ Wm. Mcintyre,Mansfield
 Wm. Mcintyre,John Davenport
 Wm. Mcintyre,Amos Gerry Beman
 Wm. Mcintyre,John Nelson Still
-Wm. Mcintyre,D. C.
 Wm. Mcintyre,George Walker
 Wm. Mcintyre,Washington Hunt
 Wm. Mcintyre,Edwin D. Morgan
@@ -9903,7 +9658,6 @@ Greene,Mansfield
 Greene,John Davenport
 Greene,Amos Gerry Beman
 Greene,John Nelson Still
-Greene,D. C.
 Greene,George Walker
 Greene,Washington Hunt
 Greene,Edwin D. Morgan
@@ -9958,7 +9712,6 @@ George Weir,Mansfield
 George Weir,John Davenport
 George Weir,Amos Gerry Beman
 George Weir,John Nelson Still
-George Weir,D. C.
 George Weir,George Walker
 George Weir,Washington Hunt
 George Weir,Edwin D. Morgan
@@ -10012,7 +9765,6 @@ Charles B. Ray,Mansfield
 Charles B. Ray,John Davenport
 Charles B. Ray,Amos Gerry Beman
 Charles B. Ray,John Nelson Still
-Charles B. Ray,D. C.
 Charles B. Ray,George Walker
 Charles B. Ray,Washington Hunt
 Charles B. Ray,Edwin D. Morgan
@@ -10065,7 +9817,6 @@ Jenkins,Mansfield
 Jenkins,John Davenport
 Jenkins,Amos Gerry Beman
 Jenkins,John Nelson Still
-Jenkins,D. C.
 Jenkins,George Walker
 Jenkins,Washington Hunt
 Jenkins,Edwin D. Morgan
@@ -10117,7 +9868,6 @@ F. H. Douge,Mansfield
 F. H. Douge,John Davenport
 F. H. Douge,Amos Gerry Beman
 F. H. Douge,John Nelson Still
-F. H. Douge,D. C.
 F. H. Douge,George Walker
 F. H. Douge,Washington Hunt
 F. H. Douge,Edwin D. Morgan
@@ -10168,7 +9918,6 @@ W. Rich,Mansfield
 W. Rich,John Davenport
 W. Rich,Amos Gerry Beman
 W. Rich,John Nelson Still
-W. Rich,D. C.
 W. Rich,George Walker
 W. Rich,Washington Hunt
 W. Rich,Edwin D. Morgan
@@ -10218,7 +9967,6 @@ Pons,Mansfield
 Pons,John Davenport
 Pons,Amos Gerry Beman
 Pons,John Nelson Still
-Pons,D. C.
 Pons,George Walker
 Pons,Washington Hunt
 Pons,Edwin D. Morgan
@@ -10267,7 +10015,6 @@ Briant,Mansfield
 Briant,John Davenport
 Briant,Amos Gerry Beman
 Briant,John Nelson Still
-Briant,D. C.
 Briant,George Walker
 Briant,Washington Hunt
 Briant,Edwin D. Morgan
@@ -10315,7 +10062,6 @@ Stanton,Mansfield
 Stanton,John Davenport
 Stanton,Amos Gerry Beman
 Stanton,John Nelson Still
-Stanton,D. C.
 Stanton,George Walker
 Stanton,Washington Hunt
 Stanton,Edwin D. Morgan
@@ -10362,7 +10108,6 @@ Erie,Mansfield
 Erie,John Davenport
 Erie,Amos Gerry Beman
 Erie,John Nelson Still
-Erie,D. C.
 Erie,George Walker
 Erie,Washington Hunt
 Erie,Edwin D. Morgan
@@ -10408,7 +10153,6 @@ Gurley,Mansfield
 Gurley,John Davenport
 Gurley,Amos Gerry Beman
 Gurley,John Nelson Still
-Gurley,D. C.
 Gurley,George Walker
 Gurley,Washington Hunt
 Gurley,Edwin D. Morgan
@@ -10453,7 +10197,6 @@ Benjamin F. Cutler,Mansfield
 Benjamin F. Cutler,John Davenport
 Benjamin F. Cutler,Amos Gerry Beman
 Benjamin F. Cutler,John Nelson Still
-Benjamin F. Cutler,D. C.
 Benjamin F. Cutler,George Walker
 Benjamin F. Cutler,Washington Hunt
 Benjamin F. Cutler,Edwin D. Morgan
@@ -10497,7 +10240,6 @@ William Gardener,Mansfield
 William Gardener,John Davenport
 William Gardener,Amos Gerry Beman
 William Gardener,John Nelson Still
-William Gardener,D. C.
 William Gardener,George Walker
 William Gardener,Washington Hunt
 William Gardener,Edwin D. Morgan
@@ -10540,7 +10282,6 @@ God,Mansfield
 God,John Davenport
 God,Amos Gerry Beman
 God,John Nelson Still
-God,D. C.
 God,George Walker
 God,Washington Hunt
 God,Edwin D. Morgan
@@ -10582,7 +10323,6 @@ Hereupon,Mansfield
 Hereupon,John Davenport
 Hereupon,Amos Gerry Beman
 Hereupon,John Nelson Still
-Hereupon,D. C.
 Hereupon,George Walker
 Hereupon,Washington Hunt
 Hereupon,Edwin D. Morgan
@@ -10623,7 +10363,6 @@ Niles,Mansfield
 Niles,John Davenport
 Niles,Amos Gerry Beman
 Niles,John Nelson Still
-Niles,D. C.
 Niles,George Walker
 Niles,Washington Hunt
 Niles,Edwin D. Morgan
@@ -10663,7 +10402,6 @@ James Monroe,Mansfield
 James Monroe,John Davenport
 James Monroe,Amos Gerry Beman
 James Monroe,John Nelson Still
-James Monroe,D. C.
 James Monroe,George Walker
 James Monroe,Washington Hunt
 James Monroe,Edwin D. Morgan
@@ -10702,7 +10440,6 @@ Mcilvain,Mansfield
 Mcilvain,John Davenport
 Mcilvain,Amos Gerry Beman
 Mcilvain,John Nelson Still
-Mcilvain,D. C.
 Mcilvain,George Walker
 Mcilvain,Washington Hunt
 Mcilvain,Edwin D. Morgan
@@ -10740,7 +10477,6 @@ Cox,Mansfield
 Cox,John Davenport
 Cox,Amos Gerry Beman
 Cox,John Nelson Still
-Cox,D. C.
 Cox,George Walker
 Cox,Washington Hunt
 Cox,Edwin D. Morgan
@@ -10777,7 +10513,6 @@ Chan,Mansfield
 Chan,John Davenport
 Chan,Amos Gerry Beman
 Chan,John Nelson Still
-Chan,D. C.
 Chan,George Walker
 Chan,Washington Hunt
 Chan,Edwin D. Morgan
@@ -10813,7 +10548,6 @@ Kent,Mansfield
 Kent,John Davenport
 Kent,Amos Gerry Beman
 Kent,John Nelson Still
-Kent,D. C.
 Kent,George Walker
 Kent,Washington Hunt
 Kent,Edwin D. Morgan
@@ -10848,7 +10582,6 @@ Kent,Charles Z. Lincoln
 Mansfield,John Davenport
 Mansfield,Amos Gerry Beman
 Mansfield,John Nelson Still
-Mansfield,D. C.
 Mansfield,George Walker
 Mansfield,Washington Hunt
 Mansfield,Edwin D. Morgan
@@ -10882,7 +10615,6 @@ Mansfield,Charles
 Mansfield,Charles Z. Lincoln
 John Davenport,Amos Gerry Beman
 John Davenport,John Nelson Still
-John Davenport,D. C.
 John Davenport,George Walker
 John Davenport,Washington Hunt
 John Davenport,Edwin D. Morgan
@@ -10915,7 +10647,6 @@ John Davenport,William Goffe
 John Davenport,Charles
 John Davenport,Charles Z. Lincoln
 Amos Gerry Beman,John Nelson Still
-Amos Gerry Beman,D. C.
 Amos Gerry Beman,George Walker
 Amos Gerry Beman,Washington Hunt
 Amos Gerry Beman,Edwin D. Morgan
@@ -10947,7 +10678,6 @@ Amos Gerry Beman,Edward Whalley
 Amos Gerry Beman,William Goffe
 Amos Gerry Beman,Charles
 Amos Gerry Beman,Charles Z. Lincoln
-John Nelson Still,D. C.
 John Nelson Still,George Walker
 John Nelson Still,Washington Hunt
 John Nelson Still,Edwin D. Morgan
@@ -10979,37 +10709,6 @@ John Nelson Still,Edward Whalley
 John Nelson Still,William Goffe
 John Nelson Still,Charles
 John Nelson Still,Charles Z. Lincoln
-D. C.,George Walker
-D. C.,Washington Hunt
-D. C.,Edwin D. Morgan
-D. C.,Jehiel C. Beman
-D. C.,Beman
-D. C.,Douglass
-D. C.,Marquis De Lafayette
-D. C.,Horace Greeley
-D. C.,Junius C. Morel
-D. C.,Morell
-D. C.,Morel
-D. C.,Charles L. Reason
-D. C.,William G. Allen
-D. C.,Alexander Proudfit
-D. C.,Thomas Buchanan
-D. C.,Jehudi Ashmun
-D. C.,Henry Clay
-D. C.,Elliott Cresson
-D. C.,Ralph Randolph Gurley
-D. C.,John B. Pinney
-D. C.,Frederick Perry Stanton
-D. C.,James Kent
-D. C.,James Sommerset
-D. C.,Manfield
-D. C.,Daniel
-D. C.,Belshazzar
-D. C.,Davenport
-D. C.,Edward Whalley
-D. C.,William Goffe
-D. C.,Charles
-D. C.,Charles Z. Lincoln
 George Walker,Washington Hunt
 George Walker,Edwin D. Morgan
 George Walker,Jehiel C. Beman

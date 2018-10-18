@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Edward Gilbert,Lewis Francis
 Edward Gilbert,James Fairman
 Edward Gilbert,J. H. Townsend
@@ -29,13 +29,11 @@ Edward Gilbert,Goodell
 Edward Gilbert,Robert Hamilton
 Edward Gilbert,J. A. Jackson
 Edward Gilbert,C. E. Vermong
-Edward Gilbert,P.B. Randolph
 Edward Gilbert,Sumner
-Edward Gilbert,Charles Sumner
-Edward Gilbert,William Whiting
 Edward Gilbert,Touissant L'Overture
 Edward Gilbert,Jackson
 Edward Gilbert,Abraham Lincoln
+Edward Gilbert,William Whiting
 Lewis Francis,James Fairman
 Lewis Francis,J. H. Townsend
 Lewis Francis,Robert Vosburgh
@@ -65,13 +63,11 @@ Lewis Francis,Goodell
 Lewis Francis,Robert Hamilton
 Lewis Francis,J. A. Jackson
 Lewis Francis,C. E. Vermong
-Lewis Francis,P.B. Randolph
 Lewis Francis,Sumner
-Lewis Francis,Charles Sumner
-Lewis Francis,William Whiting
 Lewis Francis,Touissant L'Overture
 Lewis Francis,Jackson
 Lewis Francis,Abraham Lincoln
+Lewis Francis,William Whiting
 James Fairman,J. H. Townsend
 James Fairman,Robert Vosburgh
 James Fairman,J. N. Gloucester
@@ -100,13 +96,11 @@ James Fairman,Goodell
 James Fairman,Robert Hamilton
 James Fairman,J. A. Jackson
 James Fairman,C. E. Vermong
-James Fairman,P.B. Randolph
 James Fairman,Sumner
-James Fairman,Charles Sumner
-James Fairman,William Whiting
 James Fairman,Touissant L'Overture
 James Fairman,Jackson
 James Fairman,Abraham Lincoln
+James Fairman,William Whiting
 J. H. Townsend,Robert Vosburgh
 J. H. Townsend,J. N. Gloucester
 J. H. Townsend,C. B. Ray
@@ -134,13 +128,11 @@ J. H. Townsend,Goodell
 J. H. Townsend,Robert Hamilton
 J. H. Townsend,J. A. Jackson
 J. H. Townsend,C. E. Vermong
-J. H. Townsend,P.B. Randolph
 J. H. Townsend,Sumner
-J. H. Townsend,Charles Sumner
-J. H. Townsend,William Whiting
 J. H. Townsend,Touissant L'Overture
 J. H. Townsend,Jackson
 J. H. Townsend,Abraham Lincoln
+J. H. Townsend,William Whiting
 Robert Vosburgh,J. N. Gloucester
 Robert Vosburgh,C. B. Ray
 Robert Vosburgh,A. J. Aldridge
@@ -167,13 +159,11 @@ Robert Vosburgh,Goodell
 Robert Vosburgh,Robert Hamilton
 Robert Vosburgh,J. A. Jackson
 Robert Vosburgh,C. E. Vermong
-Robert Vosburgh,P.B. Randolph
 Robert Vosburgh,Sumner
-Robert Vosburgh,Charles Sumner
-Robert Vosburgh,William Whiting
 Robert Vosburgh,Touissant L'Overture
 Robert Vosburgh,Jackson
 Robert Vosburgh,Abraham Lincoln
+Robert Vosburgh,William Whiting
 J. N. Gloucester,C. B. Ray
 J. N. Gloucester,A. J. Aldridge
 J. N. Gloucester,William Rich
@@ -199,13 +189,11 @@ J. N. Gloucester,Goodell
 J. N. Gloucester,Robert Hamilton
 J. N. Gloucester,J. A. Jackson
 J. N. Gloucester,C. E. Vermong
-J. N. Gloucester,P.B. Randolph
 J. N. Gloucester,Sumner
-J. N. Gloucester,Charles Sumner
-J. N. Gloucester,William Whiting
 J. N. Gloucester,Touissant L'Overture
 J. N. Gloucester,Jackson
 J. N. Gloucester,Abraham Lincoln
+J. N. Gloucester,William Whiting
 C. B. Ray,A. J. Aldridge
 C. B. Ray,William Rich
 C. B. Ray,Troy
@@ -230,13 +218,11 @@ C. B. Ray,Goodell
 C. B. Ray,Robert Hamilton
 C. B. Ray,J. A. Jackson
 C. B. Ray,C. E. Vermong
-C. B. Ray,P.B. Randolph
 C. B. Ray,Sumner
-C. B. Ray,Charles Sumner
-C. B. Ray,William Whiting
 C. B. Ray,Touissant L'Overture
 C. B. Ray,Jackson
 C. B. Ray,Abraham Lincoln
+C. B. Ray,William Whiting
 A. J. Aldridge,William Rich
 A. J. Aldridge,Troy
 A. J. Aldridge,J. W. C. Pennington
@@ -260,13 +246,11 @@ A. J. Aldridge,Goodell
 A. J. Aldridge,Robert Hamilton
 A. J. Aldridge,J. A. Jackson
 A. J. Aldridge,C. E. Vermong
-A. J. Aldridge,P.B. Randolph
 A. J. Aldridge,Sumner
-A. J. Aldridge,Charles Sumner
-A. J. Aldridge,William Whiting
 A. J. Aldridge,Touissant L'Overture
 A. J. Aldridge,Jackson
 A. J. Aldridge,Abraham Lincoln
+A. J. Aldridge,William Whiting
 William Rich,Troy
 William Rich,J. W. C. Pennington
 William Rich,N. P. Thompson
@@ -289,13 +273,11 @@ William Rich,Goodell
 William Rich,Robert Hamilton
 William Rich,J. A. Jackson
 William Rich,C. E. Vermong
-William Rich,P.B. Randolph
 William Rich,Sumner
-William Rich,Charles Sumner
-William Rich,William Whiting
 William Rich,Touissant L'Overture
 William Rich,Jackson
 William Rich,Abraham Lincoln
+William Rich,William Whiting
 Troy,J. W. C. Pennington
 Troy,N. P. Thompson
 Troy,W. C. Marshall
@@ -317,13 +299,11 @@ Troy,Goodell
 Troy,Robert Hamilton
 Troy,J. A. Jackson
 Troy,C. E. Vermong
-Troy,P.B. Randolph
 Troy,Sumner
-Troy,Charles Sumner
-Troy,William Whiting
 Troy,Touissant L'Overture
 Troy,Jackson
 Troy,Abraham Lincoln
+Troy,William Whiting
 J. W. C. Pennington,N. P. Thompson
 J. W. C. Pennington,W. C. Marshall
 J. W. C. Pennington,P. B. Randolph
@@ -344,13 +324,11 @@ J. W. C. Pennington,Goodell
 J. W. C. Pennington,Robert Hamilton
 J. W. C. Pennington,J. A. Jackson
 J. W. C. Pennington,C. E. Vermong
-J. W. C. Pennington,P.B. Randolph
 J. W. C. Pennington,Sumner
-J. W. C. Pennington,Charles Sumner
-J. W. C. Pennington,William Whiting
 J. W. C. Pennington,Touissant L'Overture
 J. W. C. Pennington,Jackson
 J. W. C. Pennington,Abraham Lincoln
+J. W. C. Pennington,William Whiting
 N. P. Thompson,W. C. Marshall
 N. P. Thompson,P. B. Randolph
 N. P. Thompson,Chas
@@ -370,13 +348,11 @@ N. P. Thompson,Goodell
 N. P. Thompson,Robert Hamilton
 N. P. Thompson,J. A. Jackson
 N. P. Thompson,C. E. Vermong
-N. P. Thompson,P.B. Randolph
 N. P. Thompson,Sumner
-N. P. Thompson,Charles Sumner
-N. P. Thompson,William Whiting
 N. P. Thompson,Touissant L'Overture
 N. P. Thompson,Jackson
 N. P. Thompson,Abraham Lincoln
+N. P. Thompson,William Whiting
 W. C. Marshall,P. B. Randolph
 W. C. Marshall,Chas
 W. C. Marshall,E. Vermont
@@ -395,13 +371,11 @@ W. C. Marshall,Goodell
 W. C. Marshall,Robert Hamilton
 W. C. Marshall,J. A. Jackson
 W. C. Marshall,C. E. Vermong
-W. C. Marshall,P.B. Randolph
 W. C. Marshall,Sumner
-W. C. Marshall,Charles Sumner
-W. C. Marshall,William Whiting
 W. C. Marshall,Touissant L'Overture
 W. C. Marshall,Jackson
 W. C. Marshall,Abraham Lincoln
+W. C. Marshall,William Whiting
 P. B. Randolph,Chas
 P. B. Randolph,E. Vermont
 P. B. Randolph,Wilfulness
@@ -419,13 +393,11 @@ P. B. Randolph,Goodell
 P. B. Randolph,Robert Hamilton
 P. B. Randolph,J. A. Jackson
 P. B. Randolph,C. E. Vermong
-P. B. Randolph,P.B. Randolph
 P. B. Randolph,Sumner
-P. B. Randolph,Charles Sumner
-P. B. Randolph,William Whiting
 P. B. Randolph,Touissant L'Overture
 P. B. Randolph,Jackson
 P. B. Randolph,Abraham Lincoln
+P. B. Randolph,William Whiting
 Chas,E. Vermont
 Chas,Wilfulness
 Chas,Jesus
@@ -442,13 +414,11 @@ Chas,Goodell
 Chas,Robert Hamilton
 Chas,J. A. Jackson
 Chas,C. E. Vermong
-Chas,P.B. Randolph
 Chas,Sumner
-Chas,Charles Sumner
-Chas,William Whiting
 Chas,Touissant L'Overture
 Chas,Jackson
 Chas,Abraham Lincoln
+Chas,William Whiting
 E. Vermont,Wilfulness
 E. Vermont,Jesus
 E. Vermont,John Charles Fremont
@@ -464,13 +434,11 @@ E. Vermont,Goodell
 E. Vermont,Robert Hamilton
 E. Vermont,J. A. Jackson
 E. Vermont,C. E. Vermong
-E. Vermont,P.B. Randolph
 E. Vermont,Sumner
-E. Vermont,Charles Sumner
-E. Vermont,William Whiting
 E. Vermont,Touissant L'Overture
 E. Vermont,Jackson
 E. Vermont,Abraham Lincoln
+E. Vermont,William Whiting
 Wilfulness,Jesus
 Wilfulness,John Charles Fremont
 Wilfulness,John Van Pelt
@@ -485,13 +453,11 @@ Wilfulness,Goodell
 Wilfulness,Robert Hamilton
 Wilfulness,J. A. Jackson
 Wilfulness,C. E. Vermong
-Wilfulness,P.B. Randolph
 Wilfulness,Sumner
-Wilfulness,Charles Sumner
-Wilfulness,William Whiting
 Wilfulness,Touissant L'Overture
 Wilfulness,Jackson
 Wilfulness,Abraham Lincoln
+Wilfulness,William Whiting
 Jesus,John Charles Fremont
 Jesus,John Van Pelt
 Jesus,Glen
@@ -505,13 +471,11 @@ Jesus,Goodell
 Jesus,Robert Hamilton
 Jesus,J. A. Jackson
 Jesus,C. E. Vermong
-Jesus,P.B. Randolph
 Jesus,Sumner
-Jesus,Charles Sumner
-Jesus,William Whiting
 Jesus,Touissant L'Overture
 Jesus,Jackson
 Jesus,Abraham Lincoln
+Jesus,William Whiting
 John Charles Fremont,John Van Pelt
 John Charles Fremont,Glen
 John Charles Fremont,J. M. Loguen
@@ -524,13 +488,11 @@ John Charles Fremont,Goodell
 John Charles Fremont,Robert Hamilton
 John Charles Fremont,J. A. Jackson
 John Charles Fremont,C. E. Vermong
-John Charles Fremont,P.B. Randolph
 John Charles Fremont,Sumner
-John Charles Fremont,Charles Sumner
-John Charles Fremont,William Whiting
 John Charles Fremont,Touissant L'Overture
 John Charles Fremont,Jackson
 John Charles Fremont,Abraham Lincoln
+John Charles Fremont,William Whiting
 John Van Pelt,Glen
 John Van Pelt,J. M. Loguen
 John Van Pelt,N. D. Thompson
@@ -542,13 +504,11 @@ John Van Pelt,Goodell
 John Van Pelt,Robert Hamilton
 John Van Pelt,J. A. Jackson
 John Van Pelt,C. E. Vermong
-John Van Pelt,P.B. Randolph
 John Van Pelt,Sumner
-John Van Pelt,Charles Sumner
-John Van Pelt,William Whiting
 John Van Pelt,Touissant L'Overture
 John Van Pelt,Jackson
 John Van Pelt,Abraham Lincoln
+John Van Pelt,William Whiting
 Glen,J. M. Loguen
 Glen,N. D. Thompson
 Glen,Wm. Crocker
@@ -559,13 +519,11 @@ Glen,Goodell
 Glen,Robert Hamilton
 Glen,J. A. Jackson
 Glen,C. E. Vermong
-Glen,P.B. Randolph
 Glen,Sumner
-Glen,Charles Sumner
-Glen,William Whiting
 Glen,Touissant L'Overture
 Glen,Jackson
 Glen,Abraham Lincoln
+Glen,William Whiting
 J. M. Loguen,N. D. Thompson
 J. M. Loguen,Wm. Crocker
 J. M. Loguen,Wm. Rich
@@ -575,13 +533,11 @@ J. M. Loguen,Goodell
 J. M. Loguen,Robert Hamilton
 J. M. Loguen,J. A. Jackson
 J. M. Loguen,C. E. Vermong
-J. M. Loguen,P.B. Randolph
 J. M. Loguen,Sumner
-J. M. Loguen,Charles Sumner
-J. M. Loguen,William Whiting
 J. M. Loguen,Touissant L'Overture
 J. M. Loguen,Jackson
 J. M. Loguen,Abraham Lincoln
+J. M. Loguen,William Whiting
 N. D. Thompson,Wm. Crocker
 N. D. Thompson,Wm. Rich
 N. D. Thompson,N. Gibbs
@@ -590,13 +546,11 @@ N. D. Thompson,Goodell
 N. D. Thompson,Robert Hamilton
 N. D. Thompson,J. A. Jackson
 N. D. Thompson,C. E. Vermong
-N. D. Thompson,P.B. Randolph
 N. D. Thompson,Sumner
-N. D. Thompson,Charles Sumner
-N. D. Thompson,William Whiting
 N. D. Thompson,Touissant L'Overture
 N. D. Thompson,Jackson
 N. D. Thompson,Abraham Lincoln
+N. D. Thompson,William Whiting
 Wm. Crocker,Wm. Rich
 Wm. Crocker,N. Gibbs
 Wm. Crocker,A. Bolin
@@ -604,101 +558,74 @@ Wm. Crocker,Goodell
 Wm. Crocker,Robert Hamilton
 Wm. Crocker,J. A. Jackson
 Wm. Crocker,C. E. Vermong
-Wm. Crocker,P.B. Randolph
 Wm. Crocker,Sumner
-Wm. Crocker,Charles Sumner
-Wm. Crocker,William Whiting
 Wm. Crocker,Touissant L'Overture
 Wm. Crocker,Jackson
 Wm. Crocker,Abraham Lincoln
+Wm. Crocker,William Whiting
 Wm. Rich,N. Gibbs
 Wm. Rich,A. Bolin
 Wm. Rich,Goodell
 Wm. Rich,Robert Hamilton
 Wm. Rich,J. A. Jackson
 Wm. Rich,C. E. Vermong
-Wm. Rich,P.B. Randolph
 Wm. Rich,Sumner
-Wm. Rich,Charles Sumner
-Wm. Rich,William Whiting
 Wm. Rich,Touissant L'Overture
 Wm. Rich,Jackson
 Wm. Rich,Abraham Lincoln
+Wm. Rich,William Whiting
 N. Gibbs,A. Bolin
 N. Gibbs,Goodell
 N. Gibbs,Robert Hamilton
 N. Gibbs,J. A. Jackson
 N. Gibbs,C. E. Vermong
-N. Gibbs,P.B. Randolph
 N. Gibbs,Sumner
-N. Gibbs,Charles Sumner
-N. Gibbs,William Whiting
 N. Gibbs,Touissant L'Overture
 N. Gibbs,Jackson
 N. Gibbs,Abraham Lincoln
+N. Gibbs,William Whiting
 A. Bolin,Goodell
 A. Bolin,Robert Hamilton
 A. Bolin,J. A. Jackson
 A. Bolin,C. E. Vermong
-A. Bolin,P.B. Randolph
 A. Bolin,Sumner
-A. Bolin,Charles Sumner
-A. Bolin,William Whiting
 A. Bolin,Touissant L'Overture
 A. Bolin,Jackson
 A. Bolin,Abraham Lincoln
+A. Bolin,William Whiting
 Goodell,Robert Hamilton
 Goodell,J. A. Jackson
 Goodell,C. E. Vermong
-Goodell,P.B. Randolph
 Goodell,Sumner
-Goodell,Charles Sumner
-Goodell,William Whiting
 Goodell,Touissant L'Overture
 Goodell,Jackson
 Goodell,Abraham Lincoln
+Goodell,William Whiting
 Robert Hamilton,J. A. Jackson
 Robert Hamilton,C. E. Vermong
-Robert Hamilton,P.B. Randolph
 Robert Hamilton,Sumner
-Robert Hamilton,Charles Sumner
-Robert Hamilton,William Whiting
 Robert Hamilton,Touissant L'Overture
 Robert Hamilton,Jackson
 Robert Hamilton,Abraham Lincoln
+Robert Hamilton,William Whiting
 J. A. Jackson,C. E. Vermong
-J. A. Jackson,P.B. Randolph
 J. A. Jackson,Sumner
-J. A. Jackson,Charles Sumner
-J. A. Jackson,William Whiting
 J. A. Jackson,Touissant L'Overture
 J. A. Jackson,Jackson
 J. A. Jackson,Abraham Lincoln
-C. E. Vermong,P.B. Randolph
+J. A. Jackson,William Whiting
 C. E. Vermong,Sumner
-C. E. Vermong,Charles Sumner
-C. E. Vermong,William Whiting
 C. E. Vermong,Touissant L'Overture
 C. E. Vermong,Jackson
 C. E. Vermong,Abraham Lincoln
-P.B. Randolph,Sumner
-P.B. Randolph,Charles Sumner
-P.B. Randolph,William Whiting
-P.B. Randolph,Touissant L'Overture
-P.B. Randolph,Jackson
-P.B. Randolph,Abraham Lincoln
-Sumner,Charles Sumner
-Sumner,William Whiting
+C. E. Vermong,William Whiting
 Sumner,Touissant L'Overture
 Sumner,Jackson
 Sumner,Abraham Lincoln
-Charles Sumner,William Whiting
-Charles Sumner,Touissant L'Overture
-Charles Sumner,Jackson
-Charles Sumner,Abraham Lincoln
-William Whiting,Touissant L'Overture
-William Whiting,Jackson
-William Whiting,Abraham Lincoln
+Sumner,William Whiting
 Touissant L'Overture,Jackson
 Touissant L'Overture,Abraham Lincoln
+Touissant L'Overture,William Whiting
 Jackson,Abraham Lincoln
+Jackson,William Whiting
+Abraham Lincoln,William Whiting

@@ -1,4 +1,4 @@
-name1,name2
+source,target
 C. B. Ray,C. L. Reason
 C. B. Ray,Charles B. Ray
 C. B. Ray,John J. Zuille
@@ -140,11 +140,11 @@ C. B. Ray,Thomas James
 C. B. Ray,F. Payne
 C. B. Ray,James Sharp
 C. B. Ray,Augustus Washington
-C. B. Ray,L. I.
 C. B. Ray,Samuel V. Berry
 C. B. Ray,Edward M. Africanus
 C. B. Ray,John Van Huesen
 C. B. Ray,John Brown
+C. B. Ray,York La Tour
 C. B. Ray,Willis Hodges
 C. B. Ray,Thal
 C. B. Ray,J. W. Duffin
@@ -358,11 +358,11 @@ C. L. Reason,Thomas James
 C. L. Reason,F. Payne
 C. L. Reason,James Sharp
 C. L. Reason,Augustus Washington
-C. L. Reason,L. I.
 C. L. Reason,Samuel V. Berry
 C. L. Reason,Edward M. Africanus
 C. L. Reason,John Van Huesen
 C. L. Reason,John Brown
+C. L. Reason,York La Tour
 C. L. Reason,Willis Hodges
 C. L. Reason,Thal
 C. L. Reason,J. W. Duffin
@@ -575,11 +575,11 @@ Charles B. Ray,Thomas James
 Charles B. Ray,F. Payne
 Charles B. Ray,James Sharp
 Charles B. Ray,Augustus Washington
-Charles B. Ray,L. I.
 Charles B. Ray,Samuel V. Berry
 Charles B. Ray,Edward M. Africanus
 Charles B. Ray,John Van Huesen
 Charles B. Ray,John Brown
+Charles B. Ray,York La Tour
 Charles B. Ray,Willis Hodges
 Charles B. Ray,Thal
 Charles B. Ray,J. W. Duffin
@@ -791,11 +791,11 @@ John J. Zuille,Thomas James
 John J. Zuille,F. Payne
 John J. Zuille,James Sharp
 John J. Zuille,Augustus Washington
-John J. Zuille,L. I.
 John J. Zuille,Samuel V. Berry
 John J. Zuille,Edward M. Africanus
 John J. Zuille,John Van Huesen
 John J. Zuille,John Brown
+John J. Zuille,York La Tour
 John J. Zuille,Willis Hodges
 John J. Zuille,Thal
 John J. Zuille,J. W. Duffin
@@ -1006,11 +1006,11 @@ Theo,Thomas James
 Theo,F. Payne
 Theo,James Sharp
 Theo,Augustus Washington
-Theo,L. I.
 Theo,Samuel V. Berry
 Theo,Edward M. Africanus
 Theo,John Van Huesen
 Theo,John Brown
+Theo,York La Tour
 Theo,Willis Hodges
 Theo,Thal
 Theo,J. W. Duffin
@@ -1220,11 +1220,11 @@ S. Wright,Thomas James
 S. Wright,F. Payne
 S. Wright,James Sharp
 S. Wright,Augustus Washington
-S. Wright,L. I.
 S. Wright,Samuel V. Berry
 S. Wright,Edward M. Africanus
 S. Wright,John Van Huesen
 S. Wright,John Brown
+S. Wright,York La Tour
 S. Wright,Willis Hodges
 S. Wright,Thal
 S. Wright,J. W. Duffin
@@ -1433,11 +1433,11 @@ Charles L. Reason,Thomas James
 Charles L. Reason,F. Payne
 Charles L. Reason,James Sharp
 Charles L. Reason,Augustus Washington
-Charles L. Reason,L. I.
 Charles L. Reason,Samuel V. Berry
 Charles L. Reason,Edward M. Africanus
 Charles L. Reason,John Van Huesen
 Charles L. Reason,John Brown
+Charles L. Reason,York La Tour
 Charles L. Reason,Willis Hodges
 Charles L. Reason,Thal
 Charles L. Reason,J. W. Duffin
@@ -1645,11 +1645,11 @@ Timothy Seaman,Thomas James
 Timothy Seaman,F. Payne
 Timothy Seaman,James Sharp
 Timothy Seaman,Augustus Washington
-Timothy Seaman,L. I.
 Timothy Seaman,Samuel V. Berry
 Timothy Seaman,Edward M. Africanus
 Timothy Seaman,John Van Huesen
 Timothy Seaman,John Brown
+Timothy Seaman,York La Tour
 Timothy Seaman,Willis Hodges
 Timothy Seaman,Thal
 Timothy Seaman,J. W. Duffin
@@ -1856,11 +1856,11 @@ Clinton,Thomas James
 Clinton,F. Payne
 Clinton,James Sharp
 Clinton,Augustus Washington
-Clinton,L. I.
 Clinton,Samuel V. Berry
 Clinton,Edward M. Africanus
 Clinton,John Van Huesen
 Clinton,John Brown
+Clinton,York La Tour
 Clinton,Willis Hodges
 Clinton,Thal
 Clinton,J. W. Duffin
@@ -2066,11 +2066,11 @@ Theodore S. Wright,Thomas James
 Theodore S. Wright,F. Payne
 Theodore S. Wright,James Sharp
 Theodore S. Wright,Augustus Washington
-Theodore S. Wright,L. I.
 Theodore S. Wright,Samuel V. Berry
 Theodore S. Wright,Edward M. Africanus
 Theodore S. Wright,John Van Huesen
 Theodore S. Wright,John Brown
+Theodore S. Wright,York La Tour
 Theodore S. Wright,Willis Hodges
 Theodore S. Wright,Thal
 Theodore S. Wright,J. W. Duffin
@@ -2275,11 +2275,11 @@ N. Y.,Thomas James
 N. Y.,F. Payne
 N. Y.,James Sharp
 N. Y.,Augustus Washington
-N. Y.,L. I.
 N. Y.,Samuel V. Berry
 N. Y.,Edward M. Africanus
 N. Y.,John Van Huesen
 N. Y.,John Brown
+N. Y.,York La Tour
 N. Y.,Willis Hodges
 N. Y.,Thal
 N. Y.,J. W. Duffin
@@ -2483,11 +2483,11 @@ Alexander Crummell,Thomas James
 Alexander Crummell,F. Payne
 Alexander Crummell,James Sharp
 Alexander Crummell,Augustus Washington
-Alexander Crummell,L. I.
 Alexander Crummell,Samuel V. Berry
 Alexander Crummell,Edward M. Africanus
 Alexander Crummell,John Van Huesen
 Alexander Crummell,John Brown
+Alexander Crummell,York La Tour
 Alexander Crummell,Willis Hodges
 Alexander Crummell,Thal
 Alexander Crummell,J. W. Duffin
@@ -2690,11 +2690,11 @@ Charles S. Morton,Thomas James
 Charles S. Morton,F. Payne
 Charles S. Morton,James Sharp
 Charles S. Morton,Augustus Washington
-Charles S. Morton,L. I.
 Charles S. Morton,Samuel V. Berry
 Charles S. Morton,Edward M. Africanus
 Charles S. Morton,John Van Huesen
 Charles S. Morton,John Brown
+Charles S. Morton,York La Tour
 Charles S. Morton,Willis Hodges
 Charles S. Morton,Thal
 Charles S. Morton,J. W. Duffin
@@ -2896,11 +2896,11 @@ Frederick Olney,Thomas James
 Frederick Olney,F. Payne
 Frederick Olney,James Sharp
 Frederick Olney,Augustus Washington
-Frederick Olney,L. I.
 Frederick Olney,Samuel V. Berry
 Frederick Olney,Edward M. Africanus
 Frederick Olney,John Van Huesen
 Frederick Olney,John Brown
+Frederick Olney,York La Tour
 Frederick Olney,Willis Hodges
 Frederick Olney,Thal
 Frederick Olney,J. W. Duffin
@@ -3101,11 +3101,11 @@ Ray,Thomas James
 Ray,F. Payne
 Ray,James Sharp
 Ray,Augustus Washington
-Ray,L. I.
 Ray,Samuel V. Berry
 Ray,Edward M. Africanus
 Ray,John Van Huesen
 Ray,John Brown
+Ray,York La Tour
 Ray,Willis Hodges
 Ray,Thal
 Ray,J. W. Duffin
@@ -3305,11 +3305,11 @@ Bro,Thomas James
 Bro,F. Payne
 Bro,James Sharp
 Bro,Augustus Washington
-Bro,L. I.
 Bro,Samuel V. Berry
 Bro,Edward M. Africanus
 Bro,John Van Huesen
 Bro,John Brown
+Bro,York La Tour
 Bro,Willis Hodges
 Bro,Thal
 Bro,J. W. Duffin
@@ -3508,11 +3508,11 @@ Raymond,Thomas James
 Raymond,F. Payne
 Raymond,James Sharp
 Raymond,Augustus Washington
-Raymond,L. I.
 Raymond,Samuel V. Berry
 Raymond,Edward M. Africanus
 Raymond,John Van Huesen
 Raymond,John Brown
+Raymond,York La Tour
 Raymond,Willis Hodges
 Raymond,Thal
 Raymond,J. W. Duffin
@@ -3710,11 +3710,11 @@ James W. Duffin,Thomas James
 James W. Duffin,F. Payne
 James W. Duffin,James Sharp
 James W. Duffin,Augustus Washington
-James W. Duffin,L. I.
 James W. Duffin,Samuel V. Berry
 James W. Duffin,Edward M. Africanus
 James W. Duffin,John Van Huesen
 James W. Duffin,John Brown
+James W. Duffin,York La Tour
 James W. Duffin,Willis Hodges
 James W. Duffin,Thal
 James W. Duffin,J. W. Duffin
@@ -3911,11 +3911,11 @@ Henry R. Crummell,Thomas James
 Henry R. Crummell,F. Payne
 Henry R. Crummell,James Sharp
 Henry R. Crummell,Augustus Washington
-Henry R. Crummell,L. I.
 Henry R. Crummell,Samuel V. Berry
 Henry R. Crummell,Edward M. Africanus
 Henry R. Crummell,John Van Huesen
 Henry R. Crummell,John Brown
+Henry R. Crummell,York La Tour
 Henry R. Crummell,Willis Hodges
 Henry R. Crummell,Thal
 Henry R. Crummell,J. W. Duffin
@@ -4111,11 +4111,11 @@ Michael Dougee,Thomas James
 Michael Dougee,F. Payne
 Michael Dougee,James Sharp
 Michael Dougee,Augustus Washington
-Michael Dougee,L. I.
 Michael Dougee,Samuel V. Berry
 Michael Dougee,Edward M. Africanus
 Michael Dougee,John Van Huesen
 Michael Dougee,John Brown
+Michael Dougee,York La Tour
 Michael Dougee,Willis Hodges
 Michael Dougee,Thal
 Michael Dougee,J. W. Duffin
@@ -4310,11 +4310,11 @@ Samuel Streeter,Thomas James
 Samuel Streeter,F. Payne
 Samuel Streeter,James Sharp
 Samuel Streeter,Augustus Washington
-Samuel Streeter,L. I.
 Samuel Streeter,Samuel V. Berry
 Samuel Streeter,Edward M. Africanus
 Samuel Streeter,John Van Huesen
 Samuel Streeter,John Brown
+Samuel Streeter,York La Tour
 Samuel Streeter,Willis Hodges
 Samuel Streeter,Thal
 Samuel Streeter,J. W. Duffin
@@ -4508,11 +4508,11 @@ Richard P.G. Wright,Thomas James
 Richard P.G. Wright,F. Payne
 Richard P.G. Wright,James Sharp
 Richard P.G. Wright,Augustus Washington
-Richard P.G. Wright,L. I.
 Richard P.G. Wright,Samuel V. Berry
 Richard P.G. Wright,Edward M. Africanus
 Richard P.G. Wright,John Van Huesen
 Richard P.G. Wright,John Brown
+Richard P.G. Wright,York La Tour
 Richard P.G. Wright,Willis Hodges
 Richard P.G. Wright,Thal
 Richard P.G. Wright,J. W. Duffin
@@ -4705,11 +4705,11 @@ John T. Raymond,Thomas James
 John T. Raymond,F. Payne
 John T. Raymond,James Sharp
 John T. Raymond,Augustus Washington
-John T. Raymond,L. I.
 John T. Raymond,Samuel V. Berry
 John T. Raymond,Edward M. Africanus
 John T. Raymond,John Van Huesen
 John T. Raymond,John Brown
+John T. Raymond,York La Tour
 John T. Raymond,Willis Hodges
 John T. Raymond,Thal
 John T. Raymond,J. W. Duffin
@@ -4901,11 +4901,11 @@ Wm. P. Johnson,Thomas James
 Wm. P. Johnson,F. Payne
 Wm. P. Johnson,James Sharp
 Wm. P. Johnson,Augustus Washington
-Wm. P. Johnson,L. I.
 Wm. P. Johnson,Samuel V. Berry
 Wm. P. Johnson,Edward M. Africanus
 Wm. P. Johnson,John Van Huesen
 Wm. P. Johnson,John Brown
+Wm. P. Johnson,York La Tour
 Wm. P. Johnson,Willis Hodges
 Wm. P. Johnson,Thal
 Wm. P. Johnson,J. W. Duffin
@@ -5096,11 +5096,11 @@ Henry H. Garnet,Thomas James
 Henry H. Garnet,F. Payne
 Henry H. Garnet,James Sharp
 Henry H. Garnet,Augustus Washington
-Henry H. Garnet,L. I.
 Henry H. Garnet,Samuel V. Berry
 Henry H. Garnet,Edward M. Africanus
 Henry H. Garnet,John Van Huesen
 Henry H. Garnet,John Brown
+Henry H. Garnet,York La Tour
 Henry H. Garnet,Willis Hodges
 Henry H. Garnet,Thal
 Henry H. Garnet,J. W. Duffin
@@ -5290,11 +5290,11 @@ Wm. H. Topp,Thomas James
 Wm. H. Topp,F. Payne
 Wm. H. Topp,James Sharp
 Wm. H. Topp,Augustus Washington
-Wm. H. Topp,L. I.
 Wm. H. Topp,Samuel V. Berry
 Wm. H. Topp,Edward M. Africanus
 Wm. H. Topp,John Van Huesen
 Wm. H. Topp,John Brown
+Wm. H. Topp,York La Tour
 Wm. H. Topp,Willis Hodges
 Wm. H. Topp,Thal
 Wm. H. Topp,J. W. Duffin
@@ -5483,11 +5483,11 @@ Austin Stewart,Thomas James
 Austin Stewart,F. Payne
 Austin Stewart,James Sharp
 Austin Stewart,Augustus Washington
-Austin Stewart,L. I.
 Austin Stewart,Samuel V. Berry
 Austin Stewart,Edward M. Africanus
 Austin Stewart,John Van Huesen
 Austin Stewart,John Brown
+Austin Stewart,York La Tour
 Austin Stewart,Willis Hodges
 Austin Stewart,Thal
 Austin Stewart,J. W. Duffin
@@ -5675,11 +5675,11 @@ Eli N. Hall,Thomas James
 Eli N. Hall,F. Payne
 Eli N. Hall,James Sharp
 Eli N. Hall,Augustus Washington
-Eli N. Hall,L. I.
 Eli N. Hall,Samuel V. Berry
 Eli N. Hall,Edward M. Africanus
 Eli N. Hall,John Van Huesen
 Eli N. Hall,John Brown
+Eli N. Hall,York La Tour
 Eli N. Hall,Willis Hodges
 Eli N. Hall,Thal
 Eli N. Hall,J. W. Duffin
@@ -5866,11 +5866,11 @@ John Wendell,Thomas James
 John Wendell,F. Payne
 John Wendell,James Sharp
 John Wendell,Augustus Washington
-John Wendell,L. I.
 John Wendell,Samuel V. Berry
 John Wendell,Edward M. Africanus
 John Wendell,John Van Huesen
 John Wendell,John Brown
+John Wendell,York La Tour
 John Wendell,Willis Hodges
 John Wendell,Thal
 John Wendell,J. W. Duffin
@@ -6056,11 +6056,11 @@ Armstrong Archer,Thomas James
 Armstrong Archer,F. Payne
 Armstrong Archer,James Sharp
 Armstrong Archer,Augustus Washington
-Armstrong Archer,L. I.
 Armstrong Archer,Samuel V. Berry
 Armstrong Archer,Edward M. Africanus
 Armstrong Archer,John Van Huesen
 Armstrong Archer,John Brown
+Armstrong Archer,York La Tour
 Armstrong Archer,Willis Hodges
 Armstrong Archer,Thal
 Armstrong Archer,J. W. Duffin
@@ -6245,11 +6245,11 @@ Patrick H. Reason,Thomas James
 Patrick H. Reason,F. Payne
 Patrick H. Reason,James Sharp
 Patrick H. Reason,Augustus Washington
-Patrick H. Reason,L. I.
 Patrick H. Reason,Samuel V. Berry
 Patrick H. Reason,Edward M. Africanus
 Patrick H. Reason,John Van Huesen
 Patrick H. Reason,John Brown
+Patrick H. Reason,York La Tour
 Patrick H. Reason,Willis Hodges
 Patrick H. Reason,Thal
 Patrick H. Reason,J. W. Duffin
@@ -6433,11 +6433,11 @@ Abner H. Francis,Thomas James
 Abner H. Francis,F. Payne
 Abner H. Francis,James Sharp
 Abner H. Francis,Augustus Washington
-Abner H. Francis,L. I.
 Abner H. Francis,Samuel V. Berry
 Abner H. Francis,Edward M. Africanus
 Abner H. Francis,John Van Huesen
 Abner H. Francis,John Brown
+Abner H. Francis,York La Tour
 Abner H. Francis,Willis Hodges
 Abner H. Francis,Thal
 Abner H. Francis,J. W. Duffin
@@ -6620,11 +6620,11 @@ Francis,Thomas James
 Francis,F. Payne
 Francis,James Sharp
 Francis,Augustus Washington
-Francis,L. I.
 Francis,Samuel V. Berry
 Francis,Edward M. Africanus
 Francis,John Van Huesen
 Francis,John Brown
+Francis,York La Tour
 Francis,Willis Hodges
 Francis,Thal
 Francis,J. W. Duffin
@@ -6806,11 +6806,11 @@ Henry Williams,Thomas James
 Henry Williams,F. Payne
 Henry Williams,James Sharp
 Henry Williams,Augustus Washington
-Henry Williams,L. I.
 Henry Williams,Samuel V. Berry
 Henry Williams,Edward M. Africanus
 Henry Williams,John Van Huesen
 Henry Williams,John Brown
+Henry Williams,York La Tour
 Henry Williams,Willis Hodges
 Henry Williams,Thal
 Henry Williams,J. W. Duffin
@@ -6991,11 +6991,11 @@ Wm. R. Thompson,Thomas James
 Wm. R. Thompson,F. Payne
 Wm. R. Thompson,James Sharp
 Wm. R. Thompson,Augustus Washington
-Wm. R. Thompson,L. I.
 Wm. R. Thompson,Samuel V. Berry
 Wm. R. Thompson,Edward M. Africanus
 Wm. R. Thompson,John Van Huesen
 Wm. R. Thompson,John Brown
+Wm. R. Thompson,York La Tour
 Wm. R. Thompson,Willis Hodges
 Wm. R. Thompson,Thal
 Wm. R. Thompson,J. W. Duffin
@@ -7175,11 +7175,11 @@ Jeffrey Van Clief,Thomas James
 Jeffrey Van Clief,F. Payne
 Jeffrey Van Clief,James Sharp
 Jeffrey Van Clief,Augustus Washington
-Jeffrey Van Clief,L. I.
 Jeffrey Van Clief,Samuel V. Berry
 Jeffrey Van Clief,Edward M. Africanus
 Jeffrey Van Clief,John Van Huesen
 Jeffrey Van Clief,John Brown
+Jeffrey Van Clief,York La Tour
 Jeffrey Van Clief,Willis Hodges
 Jeffrey Van Clief,Thal
 Jeffrey Van Clief,J. W. Duffin
@@ -7358,11 +7358,11 @@ J. H. Bishop,Thomas James
 J. H. Bishop,F. Payne
 J. H. Bishop,James Sharp
 J. H. Bishop,Augustus Washington
-J. H. Bishop,L. I.
 J. H. Bishop,Samuel V. Berry
 J. H. Bishop,Edward M. Africanus
 J. H. Bishop,John Van Huesen
 J. H. Bishop,John Brown
+J. H. Bishop,York La Tour
 J. H. Bishop,Willis Hodges
 J. H. Bishop,Thal
 J. H. Bishop,J. W. Duffin
@@ -7540,11 +7540,11 @@ John M. Dolan,Thomas James
 John M. Dolan,F. Payne
 John M. Dolan,James Sharp
 John M. Dolan,Augustus Washington
-John M. Dolan,L. I.
 John M. Dolan,Samuel V. Berry
 John M. Dolan,Edward M. Africanus
 John M. Dolan,John Van Huesen
 John M. Dolan,John Brown
+John M. Dolan,York La Tour
 John M. Dolan,Willis Hodges
 John M. Dolan,Thal
 John M. Dolan,J. W. Duffin
@@ -7721,11 +7721,11 @@ P. Johnson,Thomas James
 P. Johnson,F. Payne
 P. Johnson,James Sharp
 P. Johnson,Augustus Washington
-P. Johnson,L. I.
 P. Johnson,Samuel V. Berry
 P. Johnson,Edward M. Africanus
 P. Johnson,John Van Huesen
 P. Johnson,John Brown
+P. Johnson,York La Tour
 P. Johnson,Willis Hodges
 P. Johnson,Thal
 P. Johnson,J. W. Duffin
@@ -7901,11 +7901,11 @@ Thomas Jefferson,Thomas James
 Thomas Jefferson,F. Payne
 Thomas Jefferson,James Sharp
 Thomas Jefferson,Augustus Washington
-Thomas Jefferson,L. I.
 Thomas Jefferson,Samuel V. Berry
 Thomas Jefferson,Edward M. Africanus
 Thomas Jefferson,John Van Huesen
 Thomas Jefferson,John Brown
+Thomas Jefferson,York La Tour
 Thomas Jefferson,Willis Hodges
 Thomas Jefferson,Thal
 Thomas Jefferson,J. W. Duffin
@@ -8080,11 +8080,11 @@ Tunis Blake,Thomas James
 Tunis Blake,F. Payne
 Tunis Blake,James Sharp
 Tunis Blake,Augustus Washington
-Tunis Blake,L. I.
 Tunis Blake,Samuel V. Berry
 Tunis Blake,Edward M. Africanus
 Tunis Blake,John Van Huesen
 Tunis Blake,John Brown
+Tunis Blake,York La Tour
 Tunis Blake,Willis Hodges
 Tunis Blake,Thal
 Tunis Blake,J. W. Duffin
@@ -8258,11 +8258,11 @@ James Parkman,Thomas James
 James Parkman,F. Payne
 James Parkman,James Sharp
 James Parkman,Augustus Washington
-James Parkman,L. I.
 James Parkman,Samuel V. Berry
 James Parkman,Edward M. Africanus
 James Parkman,John Van Huesen
 James Parkman,John Brown
+James Parkman,York La Tour
 James Parkman,Willis Hodges
 James Parkman,Thal
 James Parkman,J. W. Duffin
@@ -8435,11 +8435,11 @@ Lloyd Tillman,Thomas James
 Lloyd Tillman,F. Payne
 Lloyd Tillman,James Sharp
 Lloyd Tillman,Augustus Washington
-Lloyd Tillman,L. I.
 Lloyd Tillman,Samuel V. Berry
 Lloyd Tillman,Edward M. Africanus
 Lloyd Tillman,John Van Huesen
 Lloyd Tillman,John Brown
+Lloyd Tillman,York La Tour
 Lloyd Tillman,Willis Hodges
 Lloyd Tillman,Thal
 Lloyd Tillman,J. W. Duffin
@@ -8611,11 +8611,11 @@ William Van Alstyne,Thomas James
 William Van Alstyne,F. Payne
 William Van Alstyne,James Sharp
 William Van Alstyne,Augustus Washington
-William Van Alstyne,L. I.
 William Van Alstyne,Samuel V. Berry
 William Van Alstyne,Edward M. Africanus
 William Van Alstyne,John Van Huesen
 William Van Alstyne,John Brown
+William Van Alstyne,York La Tour
 William Van Alstyne,Willis Hodges
 William Van Alstyne,Thal
 William Van Alstyne,J. W. Duffin
@@ -8786,11 +8786,11 @@ Wm. H. Parker,Thomas James
 Wm. H. Parker,F. Payne
 Wm. H. Parker,James Sharp
 Wm. H. Parker,Augustus Washington
-Wm. H. Parker,L. I.
 Wm. H. Parker,Samuel V. Berry
 Wm. H. Parker,Edward M. Africanus
 Wm. H. Parker,John Van Huesen
 Wm. H. Parker,John Brown
+Wm. H. Parker,York La Tour
 Wm. H. Parker,Willis Hodges
 Wm. H. Parker,Thal
 Wm. H. Parker,J. W. Duffin
@@ -8960,11 +8960,11 @@ Solomon Groomer,Thomas James
 Solomon Groomer,F. Payne
 Solomon Groomer,James Sharp
 Solomon Groomer,Augustus Washington
-Solomon Groomer,L. I.
 Solomon Groomer,Samuel V. Berry
 Solomon Groomer,Edward M. Africanus
 Solomon Groomer,John Van Huesen
 Solomon Groomer,John Brown
+Solomon Groomer,York La Tour
 Solomon Groomer,Willis Hodges
 Solomon Groomer,Thal
 Solomon Groomer,J. W. Duffin
@@ -9133,11 +9133,11 @@ P. Green,Thomas James
 P. Green,F. Payne
 P. Green,James Sharp
 P. Green,Augustus Washington
-P. Green,L. I.
 P. Green,Samuel V. Berry
 P. Green,Edward M. Africanus
 P. Green,John Van Huesen
 P. Green,John Brown
+P. Green,York La Tour
 P. Green,Willis Hodges
 P. Green,Thal
 P. Green,J. W. Duffin
@@ -9305,11 +9305,11 @@ William H. Topp,Thomas James
 William H. Topp,F. Payne
 William H. Topp,James Sharp
 William H. Topp,Augustus Washington
-William H. Topp,L. I.
 William H. Topp,Samuel V. Berry
 William H. Topp,Edward M. Africanus
 William H. Topp,John Van Huesen
 William H. Topp,John Brown
+William H. Topp,York La Tour
 William H. Topp,Willis Hodges
 William H. Topp,Thal
 William H. Topp,J. W. Duffin
@@ -9476,11 +9476,11 @@ David Thomas,Thomas James
 David Thomas,F. Payne
 David Thomas,James Sharp
 David Thomas,Augustus Washington
-David Thomas,L. I.
 David Thomas,Samuel V. Berry
 David Thomas,Edward M. Africanus
 David Thomas,John Van Huesen
 David Thomas,John Brown
+David Thomas,York La Tour
 David Thomas,Willis Hodges
 David Thomas,Thal
 David Thomas,J. W. Duffin
@@ -9646,11 +9646,11 @@ John N. Mars,Thomas James
 John N. Mars,F. Payne
 John N. Mars,James Sharp
 John N. Mars,Augustus Washington
-John N. Mars,L. I.
 John N. Mars,Samuel V. Berry
 John N. Mars,Edward M. Africanus
 John N. Mars,John Van Huesen
 John N. Mars,John Brown
+John N. Mars,York La Tour
 John N. Mars,Willis Hodges
 John N. Mars,Thal
 John N. Mars,J. W. Duffin
@@ -9815,11 +9815,11 @@ Uriah Boston,Thomas James
 Uriah Boston,F. Payne
 Uriah Boston,James Sharp
 Uriah Boston,Augustus Washington
-Uriah Boston,L. I.
 Uriah Boston,Samuel V. Berry
 Uriah Boston,Edward M. Africanus
 Uriah Boston,John Van Huesen
 Uriah Boston,John Brown
+Uriah Boston,York La Tour
 Uriah Boston,Willis Hodges
 Uriah Boston,Thal
 Uriah Boston,J. W. Duffin
@@ -9983,11 +9983,11 @@ James F. Murray,Thomas James
 James F. Murray,F. Payne
 James F. Murray,James Sharp
 James F. Murray,Augustus Washington
-James F. Murray,L. I.
 James F. Murray,Samuel V. Berry
 James F. Murray,Edward M. Africanus
 James F. Murray,John Van Huesen
 James F. Murray,John Brown
+James F. Murray,York La Tour
 James F. Murray,Willis Hodges
 James F. Murray,Thal
 James F. Murray,J. W. Duffin
@@ -10150,11 +10150,11 @@ Jacob Waldron,Thomas James
 Jacob Waldron,F. Payne
 Jacob Waldron,James Sharp
 Jacob Waldron,Augustus Washington
-Jacob Waldron,L. I.
 Jacob Waldron,Samuel V. Berry
 Jacob Waldron,Edward M. Africanus
 Jacob Waldron,John Van Huesen
 Jacob Waldron,John Brown
+Jacob Waldron,York La Tour
 Jacob Waldron,Willis Hodges
 Jacob Waldron,Thal
 Jacob Waldron,J. W. Duffin
@@ -10316,11 +10316,11 @@ Primus Robinson,Thomas James
 Primus Robinson,F. Payne
 Primus Robinson,James Sharp
 Primus Robinson,Augustus Washington
-Primus Robinson,L. I.
 Primus Robinson,Samuel V. Berry
 Primus Robinson,Edward M. Africanus
 Primus Robinson,John Van Huesen
 Primus Robinson,John Brown
+Primus Robinson,York La Tour
 Primus Robinson,Willis Hodges
 Primus Robinson,Thal
 Primus Robinson,J. W. Duffin
@@ -10481,11 +10481,11 @@ F. Van Vranken,Thomas James
 F. Van Vranken,F. Payne
 F. Van Vranken,James Sharp
 F. Van Vranken,Augustus Washington
-F. Van Vranken,L. I.
 F. Van Vranken,Samuel V. Berry
 F. Van Vranken,Edward M. Africanus
 F. Van Vranken,John Van Huesen
 F. Van Vranken,John Brown
+F. Van Vranken,York La Tour
 F. Van Vranken,Willis Hodges
 F. Van Vranken,Thal
 F. Van Vranken,J. W. Duffin
@@ -10645,11 +10645,11 @@ A. Johnson,Thomas James
 A. Johnson,F. Payne
 A. Johnson,James Sharp
 A. Johnson,Augustus Washington
-A. Johnson,L. I.
 A. Johnson,Samuel V. Berry
 A. Johnson,Edward M. Africanus
 A. Johnson,John Van Huesen
 A. Johnson,John Brown
+A. Johnson,York La Tour
 A. Johnson,Willis Hodges
 A. Johnson,Thal
 A. Johnson,J. W. Duffin
@@ -10808,11 +10808,11 @@ John Springsteal,Thomas James
 John Springsteal,F. Payne
 John Springsteal,James Sharp
 John Springsteal,Augustus Washington
-John Springsteal,L. I.
 John Springsteal,Samuel V. Berry
 John Springsteal,Edward M. Africanus
 John Springsteal,John Van Huesen
 John Springsteal,John Brown
+John Springsteal,York La Tour
 John Springsteal,Willis Hodges
 John Springsteal,Thal
 John Springsteal,J. W. Duffin
@@ -10970,11 +10970,11 @@ Stephen Myers,Thomas James
 Stephen Myers,F. Payne
 Stephen Myers,James Sharp
 Stephen Myers,Augustus Washington
-Stephen Myers,L. I.
 Stephen Myers,Samuel V. Berry
 Stephen Myers,Edward M. Africanus
 Stephen Myers,John Van Huesen
 Stephen Myers,John Brown
+Stephen Myers,York La Tour
 Stephen Myers,Willis Hodges
 Stephen Myers,Thal
 Stephen Myers,J. W. Duffin
@@ -11131,11 +11131,11 @@ Richard Thompson,Thomas James
 Richard Thompson,F. Payne
 Richard Thompson,James Sharp
 Richard Thompson,Augustus Washington
-Richard Thompson,L. I.
 Richard Thompson,Samuel V. Berry
 Richard Thompson,Edward M. Africanus
 Richard Thompson,John Van Huesen
 Richard Thompson,John Brown
+Richard Thompson,York La Tour
 Richard Thompson,Willis Hodges
 Richard Thompson,Thal
 Richard Thompson,J. W. Duffin
@@ -11291,11 +11291,11 @@ M. Thompson,Thomas James
 M. Thompson,F. Payne
 M. Thompson,James Sharp
 M. Thompson,Augustus Washington
-M. Thompson,L. I.
 M. Thompson,Samuel V. Berry
 M. Thompson,Edward M. Africanus
 M. Thompson,John Van Huesen
 M. Thompson,John Brown
+M. Thompson,York La Tour
 M. Thompson,Willis Hodges
 M. Thompson,Thal
 M. Thompson,J. W. Duffin
@@ -11450,11 +11450,11 @@ William Johnson,Thomas James
 William Johnson,F. Payne
 William Johnson,James Sharp
 William Johnson,Augustus Washington
-William Johnson,L. I.
 William Johnson,Samuel V. Berry
 William Johnson,Edward M. Africanus
 William Johnson,John Van Huesen
 William Johnson,John Brown
+William Johnson,York La Tour
 William Johnson,Willis Hodges
 William Johnson,Thal
 William Johnson,J. W. Duffin
@@ -11608,11 +11608,11 @@ Henry Jackson,Thomas James
 Henry Jackson,F. Payne
 Henry Jackson,James Sharp
 Henry Jackson,Augustus Washington
-Henry Jackson,L. I.
 Henry Jackson,Samuel V. Berry
 Henry Jackson,Edward M. Africanus
 Henry Jackson,John Van Huesen
 Henry Jackson,John Brown
+Henry Jackson,York La Tour
 Henry Jackson,Willis Hodges
 Henry Jackson,Thal
 Henry Jackson,J. W. Duffin
@@ -11765,11 +11765,11 @@ William Queen,Thomas James
 William Queen,F. Payne
 William Queen,James Sharp
 William Queen,Augustus Washington
-William Queen,L. I.
 William Queen,Samuel V. Berry
 William Queen,Edward M. Africanus
 William Queen,John Van Huesen
 William Queen,John Brown
+William Queen,York La Tour
 William Queen,Willis Hodges
 William Queen,Thal
 William Queen,J. W. Duffin
@@ -11921,11 +11921,11 @@ Henry Johnson,Thomas James
 Henry Johnson,F. Payne
 Henry Johnson,James Sharp
 Henry Johnson,Augustus Washington
-Henry Johnson,L. I.
 Henry Johnson,Samuel V. Berry
 Henry Johnson,Edward M. Africanus
 Henry Johnson,John Van Huesen
 Henry Johnson,John Brown
+Henry Johnson,York La Tour
 Henry Johnson,Willis Hodges
 Henry Johnson,Thal
 Henry Johnson,J. W. Duffin
@@ -12076,11 +12076,11 @@ James Baltimore,Thomas James
 James Baltimore,F. Payne
 James Baltimore,James Sharp
 James Baltimore,Augustus Washington
-James Baltimore,L. I.
 James Baltimore,Samuel V. Berry
 James Baltimore,Edward M. Africanus
 James Baltimore,John Van Huesen
 James Baltimore,John Brown
+James Baltimore,York La Tour
 James Baltimore,Willis Hodges
 James Baltimore,Thal
 James Baltimore,J. W. Duffin
@@ -12230,11 +12230,11 @@ Nicholas Bogart,Thomas James
 Nicholas Bogart,F. Payne
 Nicholas Bogart,James Sharp
 Nicholas Bogart,Augustus Washington
-Nicholas Bogart,L. I.
 Nicholas Bogart,Samuel V. Berry
 Nicholas Bogart,Edward M. Africanus
 Nicholas Bogart,John Van Huesen
 Nicholas Bogart,John Brown
+Nicholas Bogart,York La Tour
 Nicholas Bogart,Willis Hodges
 Nicholas Bogart,Thal
 Nicholas Bogart,J. W. Duffin
@@ -12383,11 +12383,11 @@ Oliver King,Thomas James
 Oliver King,F. Payne
 Oliver King,James Sharp
 Oliver King,Augustus Washington
-Oliver King,L. I.
 Oliver King,Samuel V. Berry
 Oliver King,Edward M. Africanus
 Oliver King,John Van Huesen
 Oliver King,John Brown
+Oliver King,York La Tour
 Oliver King,Willis Hodges
 Oliver King,Thal
 Oliver King,J. W. Duffin
@@ -12535,11 +12535,11 @@ R. Springsteal,Thomas James
 R. Springsteal,F. Payne
 R. Springsteal,James Sharp
 R. Springsteal,Augustus Washington
-R. Springsteal,L. I.
 R. Springsteal,Samuel V. Berry
 R. Springsteal,Edward M. Africanus
 R. Springsteal,John Van Huesen
 R. Springsteal,John Brown
+R. Springsteal,York La Tour
 R. Springsteal,Willis Hodges
 R. Springsteal,Thal
 R. Springsteal,J. W. Duffin
@@ -12686,11 +12686,11 @@ Benjamin Cutler,Thomas James
 Benjamin Cutler,F. Payne
 Benjamin Cutler,James Sharp
 Benjamin Cutler,Augustus Washington
-Benjamin Cutler,L. I.
 Benjamin Cutler,Samuel V. Berry
 Benjamin Cutler,Edward M. Africanus
 Benjamin Cutler,John Van Huesen
 Benjamin Cutler,John Brown
+Benjamin Cutler,York La Tour
 Benjamin Cutler,Willis Hodges
 Benjamin Cutler,Thal
 Benjamin Cutler,J. W. Duffin
@@ -12836,11 +12836,11 @@ Hiram Dalton,Thomas James
 Hiram Dalton,F. Payne
 Hiram Dalton,James Sharp
 Hiram Dalton,Augustus Washington
-Hiram Dalton,L. I.
 Hiram Dalton,Samuel V. Berry
 Hiram Dalton,Edward M. Africanus
 Hiram Dalton,John Van Huesen
 Hiram Dalton,John Brown
+Hiram Dalton,York La Tour
 Hiram Dalton,Willis Hodges
 Hiram Dalton,Thal
 Hiram Dalton,J. W. Duffin
@@ -12985,11 +12985,11 @@ John Tate,Thomas James
 John Tate,F. Payne
 John Tate,James Sharp
 John Tate,Augustus Washington
-John Tate,L. I.
 John Tate,Samuel V. Berry
 John Tate,Edward M. Africanus
 John Tate,John Van Huesen
 John Tate,John Brown
+John Tate,York La Tour
 John Tate,Willis Hodges
 John Tate,Thal
 John Tate,J. W. Duffin
@@ -13133,11 +13133,11 @@ Adam Blake,Thomas James
 Adam Blake,F. Payne
 Adam Blake,James Sharp
 Adam Blake,Augustus Washington
-Adam Blake,L. I.
 Adam Blake,Samuel V. Berry
 Adam Blake,Edward M. Africanus
 Adam Blake,John Van Huesen
 Adam Blake,John Brown
+Adam Blake,York La Tour
 Adam Blake,Willis Hodges
 Adam Blake,Thal
 Adam Blake,J. W. Duffin
@@ -13280,11 +13280,11 @@ Eli Johnson,Thomas James
 Eli Johnson,F. Payne
 Eli Johnson,James Sharp
 Eli Johnson,Augustus Washington
-Eli Johnson,L. I.
 Eli Johnson,Samuel V. Berry
 Eli Johnson,Edward M. Africanus
 Eli Johnson,John Van Huesen
 Eli Johnson,John Brown
+Eli Johnson,York La Tour
 Eli Johnson,Willis Hodges
 Eli Johnson,Thal
 Eli Johnson,J. W. Duffin
@@ -13426,11 +13426,11 @@ H. Emery,Thomas James
 H. Emery,F. Payne
 H. Emery,James Sharp
 H. Emery,Augustus Washington
-H. Emery,L. I.
 H. Emery,Samuel V. Berry
 H. Emery,Edward M. Africanus
 H. Emery,John Van Huesen
 H. Emery,John Brown
+H. Emery,York La Tour
 H. Emery,Willis Hodges
 H. Emery,Thal
 H. Emery,J. W. Duffin
@@ -13571,11 +13571,11 @@ J. Lain,Thomas James
 J. Lain,F. Payne
 J. Lain,James Sharp
 J. Lain,Augustus Washington
-J. Lain,L. I.
 J. Lain,Samuel V. Berry
 J. Lain,Edward M. Africanus
 J. Lain,John Van Huesen
 J. Lain,John Brown
+J. Lain,York La Tour
 J. Lain,Willis Hodges
 J. Lain,Thal
 J. Lain,J. W. Duffin
@@ -13715,11 +13715,11 @@ Alexander Theily,Thomas James
 Alexander Theily,F. Payne
 Alexander Theily,James Sharp
 Alexander Theily,Augustus Washington
-Alexander Theily,L. I.
 Alexander Theily,Samuel V. Berry
 Alexander Theily,Edward M. Africanus
 Alexander Theily,John Van Huesen
 Alexander Theily,John Brown
+Alexander Theily,York La Tour
 Alexander Theily,Willis Hodges
 Alexander Theily,Thal
 Alexander Theily,J. W. Duffin
@@ -13858,11 +13858,11 @@ William Rich,Thomas James
 William Rich,F. Payne
 William Rich,James Sharp
 William Rich,Augustus Washington
-William Rich,L. I.
 William Rich,Samuel V. Berry
 William Rich,Edward M. Africanus
 William Rich,John Van Huesen
 William Rich,John Brown
+William Rich,York La Tour
 William Rich,Willis Hodges
 William Rich,Thal
 William Rich,J. W. Duffin
@@ -14000,11 +14000,11 @@ J. A. Hubbard,Thomas James
 J. A. Hubbard,F. Payne
 J. A. Hubbard,James Sharp
 J. A. Hubbard,Augustus Washington
-J. A. Hubbard,L. I.
 J. A. Hubbard,Samuel V. Berry
 J. A. Hubbard,Edward M. Africanus
 J. A. Hubbard,John Van Huesen
 J. A. Hubbard,John Brown
+J. A. Hubbard,York La Tour
 J. A. Hubbard,Willis Hodges
 J. A. Hubbard,Thal
 J. A. Hubbard,J. W. Duffin
@@ -14141,11 +14141,11 @@ Francis Baker,Thomas James
 Francis Baker,F. Payne
 Francis Baker,James Sharp
 Francis Baker,Augustus Washington
-Francis Baker,L. I.
 Francis Baker,Samuel V. Berry
 Francis Baker,Edward M. Africanus
 Francis Baker,John Van Huesen
 Francis Baker,John Brown
+Francis Baker,York La Tour
 Francis Baker,Willis Hodges
 Francis Baker,Thal
 Francis Baker,J. W. Duffin
@@ -14281,11 +14281,11 @@ Jacob Brown,Thomas James
 Jacob Brown,F. Payne
 Jacob Brown,James Sharp
 Jacob Brown,Augustus Washington
-Jacob Brown,L. I.
 Jacob Brown,Samuel V. Berry
 Jacob Brown,Edward M. Africanus
 Jacob Brown,John Van Huesen
 Jacob Brown,John Brown
+Jacob Brown,York La Tour
 Jacob Brown,Willis Hodges
 Jacob Brown,Thal
 Jacob Brown,J. W. Duffin
@@ -14420,11 +14420,11 @@ Francis L. Allen,Thomas James
 Francis L. Allen,F. Payne
 Francis L. Allen,James Sharp
 Francis L. Allen,Augustus Washington
-Francis L. Allen,L. I.
 Francis L. Allen,Samuel V. Berry
 Francis L. Allen,Edward M. Africanus
 Francis L. Allen,John Van Huesen
 Francis L. Allen,John Brown
+Francis L. Allen,York La Tour
 Francis L. Allen,Willis Hodges
 Francis L. Allen,Thal
 Francis L. Allen,J. W. Duffin
@@ -14558,11 +14558,11 @@ Ezekiel George,Thomas James
 Ezekiel George,F. Payne
 Ezekiel George,James Sharp
 Ezekiel George,Augustus Washington
-Ezekiel George,L. I.
 Ezekiel George,Samuel V. Berry
 Ezekiel George,Edward M. Africanus
 Ezekiel George,John Van Huesen
 Ezekiel George,John Brown
+Ezekiel George,York La Tour
 Ezekiel George,Willis Hodges
 Ezekiel George,Thal
 Ezekiel George,J. W. Duffin
@@ -14695,11 +14695,11 @@ H. Highland Garnet,Thomas James
 H. Highland Garnet,F. Payne
 H. Highland Garnet,James Sharp
 H. Highland Garnet,Augustus Washington
-H. Highland Garnet,L. I.
 H. Highland Garnet,Samuel V. Berry
 H. Highland Garnet,Edward M. Africanus
 H. Highland Garnet,John Van Huesen
 H. Highland Garnet,John Brown
+H. Highland Garnet,York La Tour
 H. Highland Garnet,Willis Hodges
 H. Highland Garnet,Thal
 H. Highland Garnet,J. W. Duffin
@@ -14831,11 +14831,11 @@ Samuel Jefferson,Thomas James
 Samuel Jefferson,F. Payne
 Samuel Jefferson,James Sharp
 Samuel Jefferson,Augustus Washington
-Samuel Jefferson,L. I.
 Samuel Jefferson,Samuel V. Berry
 Samuel Jefferson,Edward M. Africanus
 Samuel Jefferson,John Van Huesen
 Samuel Jefferson,John Brown
+Samuel Jefferson,York La Tour
 Samuel Jefferson,Willis Hodges
 Samuel Jefferson,Thal
 Samuel Jefferson,J. W. Duffin
@@ -14966,11 +14966,11 @@ Lewis Jones,Thomas James
 Lewis Jones,F. Payne
 Lewis Jones,James Sharp
 Lewis Jones,Augustus Washington
-Lewis Jones,L. I.
 Lewis Jones,Samuel V. Berry
 Lewis Jones,Edward M. Africanus
 Lewis Jones,John Van Huesen
 Lewis Jones,John Brown
+Lewis Jones,York La Tour
 Lewis Jones,Willis Hodges
 Lewis Jones,Thal
 Lewis Jones,J. W. Duffin
@@ -15100,11 +15100,11 @@ George B. Moulton,Thomas James
 George B. Moulton,F. Payne
 George B. Moulton,James Sharp
 George B. Moulton,Augustus Washington
-George B. Moulton,L. I.
 George B. Moulton,Samuel V. Berry
 George B. Moulton,Edward M. Africanus
 George B. Moulton,John Van Huesen
 George B. Moulton,John Brown
+George B. Moulton,York La Tour
 George B. Moulton,Willis Hodges
 George B. Moulton,Thal
 George B. Moulton,J. W. Duffin
@@ -15233,11 +15233,11 @@ George H. Baltimore,Thomas James
 George H. Baltimore,F. Payne
 George H. Baltimore,James Sharp
 George H. Baltimore,Augustus Washington
-George H. Baltimore,L. I.
 George H. Baltimore,Samuel V. Berry
 George H. Baltimore,Edward M. Africanus
 George H. Baltimore,John Van Huesen
 George H. Baltimore,John Brown
+George H. Baltimore,York La Tour
 George H. Baltimore,Willis Hodges
 George H. Baltimore,Thal
 George H. Baltimore,J. W. Duffin
@@ -15365,11 +15365,11 @@ Vameller,Thomas James
 Vameller,F. Payne
 Vameller,James Sharp
 Vameller,Augustus Washington
-Vameller,L. I.
 Vameller,Samuel V. Berry
 Vameller,Edward M. Africanus
 Vameller,John Van Huesen
 Vameller,John Brown
+Vameller,York La Tour
 Vameller,Willis Hodges
 Vameller,Thal
 Vameller,J. W. Duffin
@@ -15496,11 +15496,11 @@ Robert Butler,Thomas James
 Robert Butler,F. Payne
 Robert Butler,James Sharp
 Robert Butler,Augustus Washington
-Robert Butler,L. I.
 Robert Butler,Samuel V. Berry
 Robert Butler,Edward M. Africanus
 Robert Butler,John Van Huesen
 Robert Butler,John Brown
+Robert Butler,York La Tour
 Robert Butler,Willis Hodges
 Robert Butler,Thal
 Robert Butler,J. W. Duffin
@@ -15626,11 +15626,11 @@ Wiilliam Garison,Thomas James
 Wiilliam Garison,F. Payne
 Wiilliam Garison,James Sharp
 Wiilliam Garison,Augustus Washington
-Wiilliam Garison,L. I.
 Wiilliam Garison,Samuel V. Berry
 Wiilliam Garison,Edward M. Africanus
 Wiilliam Garison,John Van Huesen
 Wiilliam Garison,John Brown
+Wiilliam Garison,York La Tour
 Wiilliam Garison,Willis Hodges
 Wiilliam Garison,Thal
 Wiilliam Garison,J. W. Duffin
@@ -15755,11 +15755,11 @@ F. Thompson,Thomas James
 F. Thompson,F. Payne
 F. Thompson,James Sharp
 F. Thompson,Augustus Washington
-F. Thompson,L. I.
 F. Thompson,Samuel V. Berry
 F. Thompson,Edward M. Africanus
 F. Thompson,John Van Huesen
 F. Thompson,John Brown
+F. Thompson,York La Tour
 F. Thompson,Willis Hodges
 F. Thompson,Thal
 F. Thompson,J. W. Duffin
@@ -15883,11 +15883,11 @@ Anthony Schuyler,Thomas James
 Anthony Schuyler,F. Payne
 Anthony Schuyler,James Sharp
 Anthony Schuyler,Augustus Washington
-Anthony Schuyler,L. I.
 Anthony Schuyler,Samuel V. Berry
 Anthony Schuyler,Edward M. Africanus
 Anthony Schuyler,John Van Huesen
 Anthony Schuyler,John Brown
+Anthony Schuyler,York La Tour
 Anthony Schuyler,Willis Hodges
 Anthony Schuyler,Thal
 Anthony Schuyler,J. W. Duffin
@@ -16010,11 +16010,11 @@ Clarence P. Seldon,Thomas James
 Clarence P. Seldon,F. Payne
 Clarence P. Seldon,James Sharp
 Clarence P. Seldon,Augustus Washington
-Clarence P. Seldon,L. I.
 Clarence P. Seldon,Samuel V. Berry
 Clarence P. Seldon,Edward M. Africanus
 Clarence P. Seldon,John Van Huesen
 Clarence P. Seldon,John Brown
+Clarence P. Seldon,York La Tour
 Clarence P. Seldon,Willis Hodges
 Clarence P. Seldon,Thal
 Clarence P. Seldon,J. W. Duffin
@@ -16136,11 +16136,11 @@ George,Thomas James
 George,F. Payne
 George,James Sharp
 George,Augustus Washington
-George,L. I.
 George,Samuel V. Berry
 George,Edward M. Africanus
 George,John Van Huesen
 George,John Brown
+George,York La Tour
 George,Willis Hodges
 George,Thal
 George,J. W. Duffin
@@ -16261,11 +16261,11 @@ Garnet,Thomas James
 Garnet,F. Payne
 Garnet,James Sharp
 Garnet,Augustus Washington
-Garnet,L. I.
 Garnet,Samuel V. Berry
 Garnet,Edward M. Africanus
 Garnet,John Van Huesen
 Garnet,John Brown
+Garnet,York La Tour
 Garnet,Willis Hodges
 Garnet,Thal
 Garnet,J. W. Duffin
@@ -16385,11 +16385,11 @@ Abram Jackson,Thomas James
 Abram Jackson,F. Payne
 Abram Jackson,James Sharp
 Abram Jackson,Augustus Washington
-Abram Jackson,L. I.
 Abram Jackson,Samuel V. Berry
 Abram Jackson,Edward M. Africanus
 Abram Jackson,John Van Huesen
 Abram Jackson,John Brown
+Abram Jackson,York La Tour
 Abram Jackson,Willis Hodges
 Abram Jackson,Thal
 Abram Jackson,J. W. Duffin
@@ -16508,11 +16508,11 @@ James Gardner,Thomas James
 James Gardner,F. Payne
 James Gardner,James Sharp
 James Gardner,Augustus Washington
-James Gardner,L. I.
 James Gardner,Samuel V. Berry
 James Gardner,Edward M. Africanus
 James Gardner,John Van Huesen
 James Gardner,John Brown
+James Gardner,York La Tour
 James Gardner,Willis Hodges
 James Gardner,Thal
 James Gardner,J. W. Duffin
@@ -16630,11 +16630,11 @@ Moses F. Van Leer,Thomas James
 Moses F. Van Leer,F. Payne
 Moses F. Van Leer,James Sharp
 Moses F. Van Leer,Augustus Washington
-Moses F. Van Leer,L. I.
 Moses F. Van Leer,Samuel V. Berry
 Moses F. Van Leer,Edward M. Africanus
 Moses F. Van Leer,John Van Huesen
 Moses F. Van Leer,John Brown
+Moses F. Van Leer,York La Tour
 Moses F. Van Leer,Willis Hodges
 Moses F. Van Leer,Thal
 Moses F. Van Leer,J. W. Duffin
@@ -16751,11 +16751,11 @@ Daniel Jones,Thomas James
 Daniel Jones,F. Payne
 Daniel Jones,James Sharp
 Daniel Jones,Augustus Washington
-Daniel Jones,L. I.
 Daniel Jones,Samuel V. Berry
 Daniel Jones,Edward M. Africanus
 Daniel Jones,John Van Huesen
 Daniel Jones,John Brown
+Daniel Jones,York La Tour
 Daniel Jones,Willis Hodges
 Daniel Jones,Thal
 Daniel Jones,J. W. Duffin
@@ -16871,11 +16871,11 @@ J. Woods,Thomas James
 J. Woods,F. Payne
 J. Woods,James Sharp
 J. Woods,Augustus Washington
-J. Woods,L. I.
 J. Woods,Samuel V. Berry
 J. Woods,Edward M. Africanus
 J. Woods,John Van Huesen
 J. Woods,John Brown
+J. Woods,York La Tour
 J. Woods,Willis Hodges
 J. Woods,Thal
 J. Woods,J. W. Duffin
@@ -16990,11 +16990,11 @@ Jesse Prince,Thomas James
 Jesse Prince,F. Payne
 Jesse Prince,James Sharp
 Jesse Prince,Augustus Washington
-Jesse Prince,L. I.
 Jesse Prince,Samuel V. Berry
 Jesse Prince,Edward M. Africanus
 Jesse Prince,John Van Huesen
 Jesse Prince,John Brown
+Jesse Prince,York La Tour
 Jesse Prince,Willis Hodges
 Jesse Prince,Thal
 Jesse Prince,J. W. Duffin
@@ -17108,11 +17108,11 @@ R. P. G. Wright,Thomas James
 R. P. G. Wright,F. Payne
 R. P. G. Wright,James Sharp
 R. P. G. Wright,Augustus Washington
-R. P. G. Wright,L. I.
 R. P. G. Wright,Samuel V. Berry
 R. P. G. Wright,Edward M. Africanus
 R. P. G. Wright,John Van Huesen
 R. P. G. Wright,John Brown
+R. P. G. Wright,York La Tour
 R. P. G. Wright,Willis Hodges
 R. P. G. Wright,Thal
 R. P. G. Wright,J. W. Duffin
@@ -17225,11 +17225,11 @@ Francis Simson,Thomas James
 Francis Simson,F. Payne
 Francis Simson,James Sharp
 Francis Simson,Augustus Washington
-Francis Simson,L. I.
 Francis Simson,Samuel V. Berry
 Francis Simson,Edward M. Africanus
 Francis Simson,John Van Huesen
 Francis Simson,John Brown
+Francis Simson,York La Tour
 Francis Simson,Willis Hodges
 Francis Simson,Thal
 Francis Simson,J. W. Duffin
@@ -17341,11 +17341,11 @@ F. Jackson,Thomas James
 F. Jackson,F. Payne
 F. Jackson,James Sharp
 F. Jackson,Augustus Washington
-F. Jackson,L. I.
 F. Jackson,Samuel V. Berry
 F. Jackson,Edward M. Africanus
 F. Jackson,John Van Huesen
 F. Jackson,John Brown
+F. Jackson,York La Tour
 F. Jackson,Willis Hodges
 F. Jackson,Thal
 F. Jackson,J. W. Duffin
@@ -17456,11 +17456,11 @@ John,Thomas James
 John,F. Payne
 John,James Sharp
 John,Augustus Washington
-John,L. I.
 John,Samuel V. Berry
 John,Edward M. Africanus
 John,John Van Huesen
 John,John Brown
+John,York La Tour
 John,Willis Hodges
 John,Thal
 John,J. W. Duffin
@@ -17570,11 +17570,11 @@ Wandell,Thomas James
 Wandell,F. Payne
 Wandell,James Sharp
 Wandell,Augustus Washington
-Wandell,L. I.
 Wandell,Samuel V. Berry
 Wandell,Edward M. Africanus
 Wandell,John Van Huesen
 Wandell,John Brown
+Wandell,York La Tour
 Wandell,Willis Hodges
 Wandell,Thal
 Wandell,J. W. Duffin
@@ -17683,11 +17683,11 @@ Richard Sampson,Thomas James
 Richard Sampson,F. Payne
 Richard Sampson,James Sharp
 Richard Sampson,Augustus Washington
-Richard Sampson,L. I.
 Richard Sampson,Samuel V. Berry
 Richard Sampson,Edward M. Africanus
 Richard Sampson,John Van Huesen
 Richard Sampson,John Brown
+Richard Sampson,York La Tour
 Richard Sampson,Willis Hodges
 Richard Sampson,Thal
 Richard Sampson,J. W. Duffin
@@ -17795,11 +17795,11 @@ Francis Dana,Thomas James
 Francis Dana,F. Payne
 Francis Dana,James Sharp
 Francis Dana,Augustus Washington
-Francis Dana,L. I.
 Francis Dana,Samuel V. Berry
 Francis Dana,Edward M. Africanus
 Francis Dana,John Van Huesen
 Francis Dana,John Brown
+Francis Dana,York La Tour
 Francis Dana,Willis Hodges
 Francis Dana,Thal
 Francis Dana,J. W. Duffin
@@ -17906,11 +17906,11 @@ T. Harris,Thomas James
 T. Harris,F. Payne
 T. Harris,James Sharp
 T. Harris,Augustus Washington
-T. Harris,L. I.
 T. Harris,Samuel V. Berry
 T. Harris,Edward M. Africanus
 T. Harris,John Van Huesen
 T. Harris,John Brown
+T. Harris,York La Tour
 T. Harris,Willis Hodges
 T. Harris,Thal
 T. Harris,J. W. Duffin
@@ -18016,11 +18016,11 @@ Moses Willcox,Thomas James
 Moses Willcox,F. Payne
 Moses Willcox,James Sharp
 Moses Willcox,Augustus Washington
-Moses Willcox,L. I.
 Moses Willcox,Samuel V. Berry
 Moses Willcox,Edward M. Africanus
 Moses Willcox,John Van Huesen
 Moses Willcox,John Brown
+Moses Willcox,York La Tour
 Moses Willcox,Willis Hodges
 Moses Willcox,Thal
 Moses Willcox,J. W. Duffin
@@ -18125,11 +18125,11 @@ S. Barnes,Thomas James
 S. Barnes,F. Payne
 S. Barnes,James Sharp
 S. Barnes,Augustus Washington
-S. Barnes,L. I.
 S. Barnes,Samuel V. Berry
 S. Barnes,Edward M. Africanus
 S. Barnes,John Van Huesen
 S. Barnes,John Brown
+S. Barnes,York La Tour
 S. Barnes,Willis Hodges
 S. Barnes,Thal
 S. Barnes,J. W. Duffin
@@ -18233,11 +18233,11 @@ G. Murray,Thomas James
 G. Murray,F. Payne
 G. Murray,James Sharp
 G. Murray,Augustus Washington
-G. Murray,L. I.
 G. Murray,Samuel V. Berry
 G. Murray,Edward M. Africanus
 G. Murray,John Van Huesen
 G. Murray,John Brown
+G. Murray,York La Tour
 G. Murray,Willis Hodges
 G. Murray,Thal
 G. Murray,J. W. Duffin
@@ -18340,11 +18340,11 @@ M. Miner,Thomas James
 M. Miner,F. Payne
 M. Miner,James Sharp
 M. Miner,Augustus Washington
-M. Miner,L. I.
 M. Miner,Samuel V. Berry
 M. Miner,Edward M. Africanus
 M. Miner,John Van Huesen
 M. Miner,John Brown
+M. Miner,York La Tour
 M. Miner,Willis Hodges
 M. Miner,Thal
 M. Miner,J. W. Duffin
@@ -18446,11 +18446,11 @@ Francis Thompson,Thomas James
 Francis Thompson,F. Payne
 Francis Thompson,James Sharp
 Francis Thompson,Augustus Washington
-Francis Thompson,L. I.
 Francis Thompson,Samuel V. Berry
 Francis Thompson,Edward M. Africanus
 Francis Thompson,John Van Huesen
 Francis Thompson,John Brown
+Francis Thompson,York La Tour
 Francis Thompson,Willis Hodges
 Francis Thompson,Thal
 Francis Thompson,J. W. Duffin
@@ -18551,11 +18551,11 @@ J. Thompson,Thomas James
 J. Thompson,F. Payne
 J. Thompson,James Sharp
 J. Thompson,Augustus Washington
-J. Thompson,L. I.
 J. Thompson,Samuel V. Berry
 J. Thompson,Edward M. Africanus
 J. Thompson,John Van Huesen
 J. Thompson,John Brown
+J. Thompson,York La Tour
 J. Thompson,Willis Hodges
 J. Thompson,Thal
 J. Thompson,J. W. Duffin
@@ -18655,11 +18655,11 @@ Francis La Tour,Thomas James
 Francis La Tour,F. Payne
 Francis La Tour,James Sharp
 Francis La Tour,Augustus Washington
-Francis La Tour,L. I.
 Francis La Tour,Samuel V. Berry
 Francis La Tour,Edward M. Africanus
 Francis La Tour,John Van Huesen
 Francis La Tour,John Brown
+Francis La Tour,York La Tour
 Francis La Tour,Willis Hodges
 Francis La Tour,Thal
 Francis La Tour,J. W. Duffin
@@ -18758,11 +18758,11 @@ R. Murray,Thomas James
 R. Murray,F. Payne
 R. Murray,James Sharp
 R. Murray,Augustus Washington
-R. Murray,L. I.
 R. Murray,Samuel V. Berry
 R. Murray,Edward M. Africanus
 R. Murray,John Van Huesen
 R. Murray,John Brown
+R. Murray,York La Tour
 R. Murray,Willis Hodges
 R. Murray,Thal
 R. Murray,J. W. Duffin
@@ -18860,11 +18860,11 @@ Andrew Grant,Thomas James
 Andrew Grant,F. Payne
 Andrew Grant,James Sharp
 Andrew Grant,Augustus Washington
-Andrew Grant,L. I.
 Andrew Grant,Samuel V. Berry
 Andrew Grant,Edward M. Africanus
 Andrew Grant,John Van Huesen
 Andrew Grant,John Brown
+Andrew Grant,York La Tour
 Andrew Grant,Willis Hodges
 Andrew Grant,Thal
 Andrew Grant,J. W. Duffin
@@ -18961,11 +18961,11 @@ Frisby Way,Thomas James
 Frisby Way,F. Payne
 Frisby Way,James Sharp
 Frisby Way,Augustus Washington
-Frisby Way,L. I.
 Frisby Way,Samuel V. Berry
 Frisby Way,Edward M. Africanus
 Frisby Way,John Van Huesen
 Frisby Way,John Brown
+Frisby Way,York La Tour
 Frisby Way,Willis Hodges
 Frisby Way,Thal
 Frisby Way,J. W. Duffin
@@ -19061,11 +19061,11 @@ John Jamieson,Thomas James
 John Jamieson,F. Payne
 John Jamieson,James Sharp
 John Jamieson,Augustus Washington
-John Jamieson,L. I.
 John Jamieson,Samuel V. Berry
 John Jamieson,Edward M. Africanus
 John Jamieson,John Van Huesen
 John Jamieson,John Brown
+John Jamieson,York La Tour
 John Jamieson,Willis Hodges
 John Jamieson,Thal
 John Jamieson,J. W. Duffin
@@ -19160,11 +19160,11 @@ George Baker,Thomas James
 George Baker,F. Payne
 George Baker,James Sharp
 George Baker,Augustus Washington
-George Baker,L. I.
 George Baker,Samuel V. Berry
 George Baker,Edward M. Africanus
 George Baker,John Van Huesen
 George Baker,John Brown
+George Baker,York La Tour
 George Baker,Willis Hodges
 George Baker,Thal
 George Baker,J. W. Duffin
@@ -19258,11 +19258,11 @@ Charles Sherman,Thomas James
 Charles Sherman,F. Payne
 Charles Sherman,James Sharp
 Charles Sherman,Augustus Washington
-Charles Sherman,L. I.
 Charles Sherman,Samuel V. Berry
 Charles Sherman,Edward M. Africanus
 Charles Sherman,John Van Huesen
 Charles Sherman,John Brown
+Charles Sherman,York La Tour
 Charles Sherman,Willis Hodges
 Charles Sherman,Thal
 Charles Sherman,J. W. Duffin
@@ -19355,11 +19355,11 @@ Charles Shim,Thomas James
 Charles Shim,F. Payne
 Charles Shim,James Sharp
 Charles Shim,Augustus Washington
-Charles Shim,L. I.
 Charles Shim,Samuel V. Berry
 Charles Shim,Edward M. Africanus
 Charles Shim,John Van Huesen
 Charles Shim,John Brown
+Charles Shim,York La Tour
 Charles Shim,Willis Hodges
 Charles Shim,Thal
 Charles Shim,J. W. Duffin
@@ -19451,11 +19451,11 @@ Augustus Gifford,Thomas James
 Augustus Gifford,F. Payne
 Augustus Gifford,James Sharp
 Augustus Gifford,Augustus Washington
-Augustus Gifford,L. I.
 Augustus Gifford,Samuel V. Berry
 Augustus Gifford,Edward M. Africanus
 Augustus Gifford,John Van Huesen
 Augustus Gifford,John Brown
+Augustus Gifford,York La Tour
 Augustus Gifford,Willis Hodges
 Augustus Gifford,Thal
 Augustus Gifford,J. W. Duffin
@@ -19546,11 +19546,11 @@ Thomas Van Brankes,Thomas James
 Thomas Van Brankes,F. Payne
 Thomas Van Brankes,James Sharp
 Thomas Van Brankes,Augustus Washington
-Thomas Van Brankes,L. I.
 Thomas Van Brankes,Samuel V. Berry
 Thomas Van Brankes,Edward M. Africanus
 Thomas Van Brankes,John Van Huesen
 Thomas Van Brankes,John Brown
+Thomas Van Brankes,York La Tour
 Thomas Van Brankes,Willis Hodges
 Thomas Van Brankes,Thal
 Thomas Van Brankes,J. W. Duffin
@@ -19640,11 +19640,11 @@ George Lansen,Thomas James
 George Lansen,F. Payne
 George Lansen,James Sharp
 George Lansen,Augustus Washington
-George Lansen,L. I.
 George Lansen,Samuel V. Berry
 George Lansen,Edward M. Africanus
 George Lansen,John Van Huesen
 George Lansen,John Brown
+George Lansen,York La Tour
 George Lansen,Willis Hodges
 George Lansen,Thal
 George Lansen,J. W. Duffin
@@ -19733,11 +19733,11 @@ John Johnson,Thomas James
 John Johnson,F. Payne
 John Johnson,James Sharp
 John Johnson,Augustus Washington
-John Johnson,L. I.
 John Johnson,Samuel V. Berry
 John Johnson,Edward M. Africanus
 John Johnson,John Van Huesen
 John Johnson,John Brown
+John Johnson,York La Tour
 John Johnson,Willis Hodges
 John Johnson,Thal
 John Johnson,J. W. Duffin
@@ -19825,11 +19825,11 @@ Daniel Oliver,Thomas James
 Daniel Oliver,F. Payne
 Daniel Oliver,James Sharp
 Daniel Oliver,Augustus Washington
-Daniel Oliver,L. I.
 Daniel Oliver,Samuel V. Berry
 Daniel Oliver,Edward M. Africanus
 Daniel Oliver,John Van Huesen
 Daniel Oliver,John Brown
+Daniel Oliver,York La Tour
 Daniel Oliver,Willis Hodges
 Daniel Oliver,Thal
 Daniel Oliver,J. W. Duffin
@@ -19916,11 +19916,11 @@ Benjamin Anderson,Thomas James
 Benjamin Anderson,F. Payne
 Benjamin Anderson,James Sharp
 Benjamin Anderson,Augustus Washington
-Benjamin Anderson,L. I.
 Benjamin Anderson,Samuel V. Berry
 Benjamin Anderson,Edward M. Africanus
 Benjamin Anderson,John Van Huesen
 Benjamin Anderson,John Brown
+Benjamin Anderson,York La Tour
 Benjamin Anderson,Willis Hodges
 Benjamin Anderson,Thal
 Benjamin Anderson,J. W. Duffin
@@ -20006,11 +20006,11 @@ George C. Brown,Thomas James
 George C. Brown,F. Payne
 George C. Brown,James Sharp
 George C. Brown,Augustus Washington
-George C. Brown,L. I.
 George C. Brown,Samuel V. Berry
 George C. Brown,Edward M. Africanus
 George C. Brown,John Van Huesen
 George C. Brown,John Brown
+George C. Brown,York La Tour
 George C. Brown,Willis Hodges
 George C. Brown,Thal
 George C. Brown,J. W. Duffin
@@ -20095,11 +20095,11 @@ Jermanus Loguen,Thomas James
 Jermanus Loguen,F. Payne
 Jermanus Loguen,James Sharp
 Jermanus Loguen,Augustus Washington
-Jermanus Loguen,L. I.
 Jermanus Loguen,Samuel V. Berry
 Jermanus Loguen,Edward M. Africanus
 Jermanus Loguen,John Van Huesen
 Jermanus Loguen,John Brown
+Jermanus Loguen,York La Tour
 Jermanus Loguen,Willis Hodges
 Jermanus Loguen,Thal
 Jermanus Loguen,J. W. Duffin
@@ -20183,11 +20183,11 @@ Joseph C. Pankes,Thomas James
 Joseph C. Pankes,F. Payne
 Joseph C. Pankes,James Sharp
 Joseph C. Pankes,Augustus Washington
-Joseph C. Pankes,L. I.
 Joseph C. Pankes,Samuel V. Berry
 Joseph C. Pankes,Edward M. Africanus
 Joseph C. Pankes,John Van Huesen
 Joseph C. Pankes,John Brown
+Joseph C. Pankes,York La Tour
 Joseph C. Pankes,Willis Hodges
 Joseph C. Pankes,Thal
 Joseph C. Pankes,J. W. Duffin
@@ -20270,11 +20270,11 @@ Elimus P. Rogers,Thomas James
 Elimus P. Rogers,F. Payne
 Elimus P. Rogers,James Sharp
 Elimus P. Rogers,Augustus Washington
-Elimus P. Rogers,L. I.
 Elimus P. Rogers,Samuel V. Berry
 Elimus P. Rogers,Edward M. Africanus
 Elimus P. Rogers,John Van Huesen
 Elimus P. Rogers,John Brown
+Elimus P. Rogers,York La Tour
 Elimus P. Rogers,Willis Hodges
 Elimus P. Rogers,Thal
 Elimus P. Rogers,J. W. Duffin
@@ -20356,11 +20356,11 @@ John M. Brickens,Thomas James
 John M. Brickens,F. Payne
 John M. Brickens,James Sharp
 John M. Brickens,Augustus Washington
-John M. Brickens,L. I.
 John M. Brickens,Samuel V. Berry
 John M. Brickens,Edward M. Africanus
 John M. Brickens,John Van Huesen
 John M. Brickens,John Brown
+John M. Brickens,York La Tour
 John M. Brickens,Willis Hodges
 John M. Brickens,Thal
 John M. Brickens,J. W. Duffin
@@ -20441,11 +20441,11 @@ J. Adams,Thomas James
 J. Adams,F. Payne
 J. Adams,James Sharp
 J. Adams,Augustus Washington
-J. Adams,L. I.
 J. Adams,Samuel V. Berry
 J. Adams,Edward M. Africanus
 J. Adams,John Van Huesen
 J. Adams,John Brown
+J. Adams,York La Tour
 J. Adams,Willis Hodges
 J. Adams,Thal
 J. Adams,J. W. Duffin
@@ -20525,11 +20525,11 @@ John Chester,Thomas James
 John Chester,F. Payne
 John Chester,James Sharp
 John Chester,Augustus Washington
-John Chester,L. I.
 John Chester,Samuel V. Berry
 John Chester,Edward M. Africanus
 John Chester,John Van Huesen
 John Chester,John Brown
+John Chester,York La Tour
 John Chester,Willis Hodges
 John Chester,Thal
 John Chester,J. W. Duffin
@@ -20608,11 +20608,11 @@ Ambrose Dunbar,Thomas James
 Ambrose Dunbar,F. Payne
 Ambrose Dunbar,James Sharp
 Ambrose Dunbar,Augustus Washington
-Ambrose Dunbar,L. I.
 Ambrose Dunbar,Samuel V. Berry
 Ambrose Dunbar,Edward M. Africanus
 Ambrose Dunbar,John Van Huesen
 Ambrose Dunbar,John Brown
+Ambrose Dunbar,York La Tour
 Ambrose Dunbar,Willis Hodges
 Ambrose Dunbar,Thal
 Ambrose Dunbar,J. W. Duffin
@@ -20690,11 +20690,11 @@ John Watson,Thomas James
 John Watson,F. Payne
 John Watson,James Sharp
 John Watson,Augustus Washington
-John Watson,L. I.
 John Watson,Samuel V. Berry
 John Watson,Edward M. Africanus
 John Watson,John Van Huesen
 John Watson,John Brown
+John Watson,York La Tour
 John Watson,Willis Hodges
 John Watson,Thal
 John Watson,J. W. Duffin
@@ -20771,11 +20771,11 @@ John Watson,John Jay
 Thomas James,F. Payne
 Thomas James,James Sharp
 Thomas James,Augustus Washington
-Thomas James,L. I.
 Thomas James,Samuel V. Berry
 Thomas James,Edward M. Africanus
 Thomas James,John Van Huesen
 Thomas James,John Brown
+Thomas James,York La Tour
 Thomas James,Willis Hodges
 Thomas James,Thal
 Thomas James,J. W. Duffin
@@ -20851,11 +20851,11 @@ Thomas James,Perry
 Thomas James,John Jay
 F. Payne,James Sharp
 F. Payne,Augustus Washington
-F. Payne,L. I.
 F. Payne,Samuel V. Berry
 F. Payne,Edward M. Africanus
 F. Payne,John Van Huesen
 F. Payne,John Brown
+F. Payne,York La Tour
 F. Payne,Willis Hodges
 F. Payne,Thal
 F. Payne,J. W. Duffin
@@ -20930,11 +20930,11 @@ F. Payne,Sexton
 F. Payne,Perry
 F. Payne,John Jay
 James Sharp,Augustus Washington
-James Sharp,L. I.
 James Sharp,Samuel V. Berry
 James Sharp,Edward M. Africanus
 James Sharp,John Van Huesen
 James Sharp,John Brown
+James Sharp,York La Tour
 James Sharp,Willis Hodges
 James Sharp,Thal
 James Sharp,J. W. Duffin
@@ -21008,11 +21008,11 @@ James Sharp,D. Scott
 James Sharp,Sexton
 James Sharp,Perry
 James Sharp,John Jay
-Augustus Washington,L. I.
 Augustus Washington,Samuel V. Berry
 Augustus Washington,Edward M. Africanus
 Augustus Washington,John Van Huesen
 Augustus Washington,John Brown
+Augustus Washington,York La Tour
 Augustus Washington,Willis Hodges
 Augustus Washington,Thal
 Augustus Washington,J. W. Duffin
@@ -21086,86 +21086,10 @@ Augustus Washington,D. Scott
 Augustus Washington,Sexton
 Augustus Washington,Perry
 Augustus Washington,John Jay
-L. I.,Samuel V. Berry
-L. I.,Edward M. Africanus
-L. I.,John Van Huesen
-L. I.,John Brown
-L. I.,Willis Hodges
-L. I.,Thal
-L. I.,J. W. Duffin
-L. I.,J. N. Marrs
-L. I.,P. H. Reason
-L. I.,A. Crummell
-L. I.,H. H. Garnett
-L. I.,E. P. Rodgers
-L. I.,J. Sharp
-L. I.,T. S. Wright
-L. I.,H. H. Garnet
-L. I.,U. Boston
-L. I.,J. N. Mars
-L. I.,P.H. Reason
-L. I.,E.P. Rodgers
-L. I.,A.H. Francis
-L. I.,A. Dunbar
-L. I.,Marah
-L. I.,Alex Crummell
-L. I.,J.N. Mars
-L. I.,J.W. Loguen
-L. I.,Troy
-L. I.,C. S. Morton
-L. I.,M. Dougee
-L. I.,John P. Anthony
-L. I.,S. Myers
-L. I.,G. H. Baltimore
-L. I.,H. R. Crummell
-L. I.,F. G. Murray
-L. I.,J. Harris
-L. I.,H. Granger
-L. I.,W. D. Anderson
-L. I.,S. R. Ward
-L. I.,J. Chester
-L. I.,L. Johnson
-L. I.,H. Jackson
-L. I.,W. Johnson
-L. I.,J. Crawford
-L. I.,C. Mcgayner
-L. I.,T. James
-L. I.,J. Terrill
-L. I.,D. H. Ray
-L. I.,A. Stewart
-L. I.,L. Platt
-L. I.,J. Peterson
-L. I.,I. Hough
-L. I.,P. B. Lee
-L. I.,R. Gardner
-L. I.,J. Morgan
-L. I.,N. Blount
-L. I.,J. E. Grant
-L. I.,Wm. Simmons
-L. I.,C. Spruce
-L. I.,B. Croger
-L. I.,A. Washington
-L. I.,S. V. Berry
-L. I.,E. M. Africanus
-L. I.,J. J. Zuille
-L. I.,G. Lawrence
-L. I.,F. Olney
-L. I.,A. Elston
-L. I.,T. Seaman
-L. I.,W. P. Johnson
-L. I.,N. H. Simons
-L. I.,T. Harley
-L. I.,M. Cross
-L. I.,Cattskill
-L. I.,Wm. Rich
-L. I.,J. A. Furbord
-L. I.,D. Scott
-L. I.,Sexton
-L. I.,Perry
-L. I.,John Jay
 Samuel V. Berry,Edward M. Africanus
 Samuel V. Berry,John Van Huesen
 Samuel V. Berry,John Brown
+Samuel V. Berry,York La Tour
 Samuel V. Berry,Willis Hodges
 Samuel V. Berry,Thal
 Samuel V. Berry,J. W. Duffin
@@ -21241,6 +21165,7 @@ Samuel V. Berry,Perry
 Samuel V. Berry,John Jay
 Edward M. Africanus,John Van Huesen
 Edward M. Africanus,John Brown
+Edward M. Africanus,York La Tour
 Edward M. Africanus,Willis Hodges
 Edward M. Africanus,Thal
 Edward M. Africanus,J. W. Duffin
@@ -21315,6 +21240,7 @@ Edward M. Africanus,Sexton
 Edward M. Africanus,Perry
 Edward M. Africanus,John Jay
 John Van Huesen,John Brown
+John Van Huesen,York La Tour
 John Van Huesen,Willis Hodges
 John Van Huesen,Thal
 John Van Huesen,J. W. Duffin
@@ -21388,6 +21314,7 @@ John Van Huesen,D. Scott
 John Van Huesen,Sexton
 John Van Huesen,Perry
 John Van Huesen,John Jay
+John Brown,York La Tour
 John Brown,Willis Hodges
 John Brown,Thal
 John Brown,J. W. Duffin
@@ -21461,6 +21388,79 @@ John Brown,D. Scott
 John Brown,Sexton
 John Brown,Perry
 John Brown,John Jay
+York La Tour,Willis Hodges
+York La Tour,Thal
+York La Tour,J. W. Duffin
+York La Tour,J. N. Marrs
+York La Tour,P. H. Reason
+York La Tour,A. Crummell
+York La Tour,H. H. Garnett
+York La Tour,E. P. Rodgers
+York La Tour,J. Sharp
+York La Tour,T. S. Wright
+York La Tour,H. H. Garnet
+York La Tour,U. Boston
+York La Tour,J. N. Mars
+York La Tour,P.H. Reason
+York La Tour,E.P. Rodgers
+York La Tour,A.H. Francis
+York La Tour,A. Dunbar
+York La Tour,Marah
+York La Tour,Alex Crummell
+York La Tour,J.N. Mars
+York La Tour,J.W. Loguen
+York La Tour,Troy
+York La Tour,C. S. Morton
+York La Tour,M. Dougee
+York La Tour,John P. Anthony
+York La Tour,S. Myers
+York La Tour,G. H. Baltimore
+York La Tour,H. R. Crummell
+York La Tour,F. G. Murray
+York La Tour,J. Harris
+York La Tour,H. Granger
+York La Tour,W. D. Anderson
+York La Tour,S. R. Ward
+York La Tour,J. Chester
+York La Tour,L. Johnson
+York La Tour,H. Jackson
+York La Tour,W. Johnson
+York La Tour,J. Crawford
+York La Tour,C. Mcgayner
+York La Tour,T. James
+York La Tour,J. Terrill
+York La Tour,D. H. Ray
+York La Tour,A. Stewart
+York La Tour,L. Platt
+York La Tour,J. Peterson
+York La Tour,I. Hough
+York La Tour,P. B. Lee
+York La Tour,R. Gardner
+York La Tour,J. Morgan
+York La Tour,N. Blount
+York La Tour,J. E. Grant
+York La Tour,Wm. Simmons
+York La Tour,C. Spruce
+York La Tour,B. Croger
+York La Tour,A. Washington
+York La Tour,S. V. Berry
+York La Tour,E. M. Africanus
+York La Tour,J. J. Zuille
+York La Tour,G. Lawrence
+York La Tour,F. Olney
+York La Tour,A. Elston
+York La Tour,T. Seaman
+York La Tour,W. P. Johnson
+York La Tour,N. H. Simons
+York La Tour,T. Harley
+York La Tour,M. Cross
+York La Tour,Cattskill
+York La Tour,Wm. Rich
+York La Tour,J. A. Furbord
+York La Tour,D. Scott
+York La Tour,Sexton
+York La Tour,Perry
+York La Tour,John Jay
 Willis Hodges,Thal
 Willis Hodges,J. W. Duffin
 Willis Hodges,J. N. Marrs

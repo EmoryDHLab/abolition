@@ -1,8 +1,7 @@
-name1,name2
+source,target
 H. H. Garnet,Wm. P Mcintyre C.S. Morton
 H. H. Garnet,J. Wandell
 H. H. Garnet,Thompson
-H. H. Garnet,H.H. Garnett
 H. H. Garnet,Henry H. Garnet
 H. H. Garnet,Ulyssis R Videl
 H. H. Garnet,Francis Thompson
@@ -44,7 +43,7 @@ H. H. Garnet,Thomas Addison
 H. H. Garnet,Henry March
 H. H. Garnet,William Beggett
 H. H. Garnet,Abram Stanley
-H. H. Garnet,Henry Â· H. Garnet
+H. H. Garnet,Henry · H. Garnet
 H. H. Garnet,James Johnson
 H. H. Garnet,Richard Livingston
 H. H. Garnet,L. D. Beckett
@@ -134,7 +133,6 @@ H. H. Garnet,P. Powel
 H. H. Garnet,Lyceums
 H. H. Garnet,H.H. Garnet
 H. H. Garnet,Robert Johnson
-H. H. Garnet,P. M.
 H. H. Garnet,H. H.
 H. H. Garnet,Moreton
 H. H. Garnet,R. Johnson
@@ -142,7 +140,6 @@ H. H. Garnet,Theodore St. Wright
 H. H. Garnet,Theodore Sedgwick Wright
 Wm. P Mcintyre C.S. Morton,J. Wandell
 Wm. P Mcintyre C.S. Morton,Thompson
-Wm. P Mcintyre C.S. Morton,H.H. Garnett
 Wm. P Mcintyre C.S. Morton,Henry H. Garnet
 Wm. P Mcintyre C.S. Morton,Ulyssis R Videl
 Wm. P Mcintyre C.S. Morton,Francis Thompson
@@ -184,7 +181,7 @@ Wm. P Mcintyre C.S. Morton,Thomas Addison
 Wm. P Mcintyre C.S. Morton,Henry March
 Wm. P Mcintyre C.S. Morton,William Beggett
 Wm. P Mcintyre C.S. Morton,Abram Stanley
-Wm. P Mcintyre C.S. Morton,Henry Â· H. Garnet
+Wm. P Mcintyre C.S. Morton,Henry · H. Garnet
 Wm. P Mcintyre C.S. Morton,James Johnson
 Wm. P Mcintyre C.S. Morton,Richard Livingston
 Wm. P Mcintyre C.S. Morton,L. D. Beckett
@@ -274,14 +271,12 @@ Wm. P Mcintyre C.S. Morton,P. Powel
 Wm. P Mcintyre C.S. Morton,Lyceums
 Wm. P Mcintyre C.S. Morton,H.H. Garnet
 Wm. P Mcintyre C.S. Morton,Robert Johnson
-Wm. P Mcintyre C.S. Morton,P. M.
 Wm. P Mcintyre C.S. Morton,H. H.
 Wm. P Mcintyre C.S. Morton,Moreton
 Wm. P Mcintyre C.S. Morton,R. Johnson
 Wm. P Mcintyre C.S. Morton,Theodore St. Wright
 Wm. P Mcintyre C.S. Morton,Theodore Sedgwick Wright
 J. Wandell,Thompson
-J. Wandell,H.H. Garnett
 J. Wandell,Henry H. Garnet
 J. Wandell,Ulyssis R Videl
 J. Wandell,Francis Thompson
@@ -323,7 +318,7 @@ J. Wandell,Thomas Addison
 J. Wandell,Henry March
 J. Wandell,William Beggett
 J. Wandell,Abram Stanley
-J. Wandell,Henry Â· H. Garnet
+J. Wandell,Henry · H. Garnet
 J. Wandell,James Johnson
 J. Wandell,Richard Livingston
 J. Wandell,L. D. Beckett
@@ -413,13 +408,11 @@ J. Wandell,P. Powel
 J. Wandell,Lyceums
 J. Wandell,H.H. Garnet
 J. Wandell,Robert Johnson
-J. Wandell,P. M.
 J. Wandell,H. H.
 J. Wandell,Moreton
 J. Wandell,R. Johnson
 J. Wandell,Theodore St. Wright
 J. Wandell,Theodore Sedgwick Wright
-Thompson,H.H. Garnett
 Thompson,Henry H. Garnet
 Thompson,Ulyssis R Videl
 Thompson,Francis Thompson
@@ -461,7 +454,7 @@ Thompson,Thomas Addison
 Thompson,Henry March
 Thompson,William Beggett
 Thompson,Abram Stanley
-Thompson,Henry Â· H. Garnet
+Thompson,Henry · H. Garnet
 Thompson,James Johnson
 Thompson,Richard Livingston
 Thompson,L. D. Beckett
@@ -551,149 +544,11 @@ Thompson,P. Powel
 Thompson,Lyceums
 Thompson,H.H. Garnet
 Thompson,Robert Johnson
-Thompson,P. M.
 Thompson,H. H.
 Thompson,Moreton
 Thompson,R. Johnson
 Thompson,Theodore St. Wright
 Thompson,Theodore Sedgwick Wright
-H.H. Garnett,Henry H. Garnet
-H.H. Garnett,Ulyssis R Videl
-H.H. Garnett,Francis Thompson
-H.H. Garnett,Patrick H. Reason
-H.H. Garnett,N. Y.
-H.H. Garnett,Ralph Francis
-H.H. Garnett,James Hall
-H.H. Garnett,John Wandell
-H.H. Garnett,Peter Hornbeck
-H.H. Garnett,George W. Gordon
-H.H. Garnett,James Mccune Smith
-H.H. Garnett,Ulyssis B. Videl
-H.H. Garnett,Troy
-H.H. Garnett,James H. Henderson
-H.H. Garnett,William P. Powell
-H.H. Garnett,Richard Thompson
-H.H. Garnett,Clarence P. Seldon
-H.H. Garnett,Francis Simson
-H.H. Garnett,George B. Moreton
-H.H. Garnett,Stephen Myers
-H.H. Garnett,Smith
-H.H. Garnett,Myers
-H.H. Garnett,U. B. Videl
-H.H. Garnett,Garnet
-H.H. Garnett,Videl
-H.H. Garnett,Powell
-H.H. Garnett,W. P. Johnson
-H.H. Garnett,R. P. G. Wright
-H.H. Garnett,William P. Johnson
-H.H. Garnett,York La Ture
-H.H. Garnett,Clarence P. Selden
-H.H. Garnett,Ezekiel George
-H.H. Garnett,Samuel Lawyer
-H.H. Garnett,Jacob Brown
-H.H. Garnett,Lewis Washington
-H.H. Garnett,Lewis Jones
-H.H. Garnett,Abram Jackson
-H.H. Garnett,Thomas Addison
-H.H. Garnett,Henry March
-H.H. Garnett,William Beggett
-H.H. Garnett,Abram Stanley
-H.H. Garnett,Henry Â· H. Garnet
-H.H. Garnett,James Johnson
-H.H. Garnett,Richard Livingston
-H.H. Garnett,L. D. Beckett
-H.H. Garnett,William Rich
-H.H. Garnett,John Carasaw
-H.H. Garnett,Thomas Jefferson
-H.H. Garnett,J. W. Randolph
-H.H. Garnett,John
-H.H. Garnett,H. Smothers
-H.H. Garnett,Cato Jackson
-H.H. Garnett,Austin White
-H.H. Garnett,Augustus Howard
-H.H. Garnett,John Landon
-H.H. Garnett,George Mott
-H.H. Garnett,Thomas Johnson
-H.H. Garnett,Thomas Thompson
-H.H. Garnett,R. Munay
-H.H. Garnett,Tobias Harklis
-H.H. Garnett,Thomas Jackson
-H.H. Garnett,John Jackson
-H.H. Garnett,James Jackson
-H.H. Garnett,Moses Wilcox
-H.H. Garnett,Peter Johnson
-H.H. Garnett,Henry Thompson
-H.H. Garnett,Henry Jackson
-H.H. Garnett,Peter Wandell
-H.H. Garnett,Albert Brown
-H.H. Garnett,Peter Ofdyke
-H.H. Garnett,John T. Simpson
-H.H. Garnett,John Dunbar
-H.H. Garnett,Garret Harris
-H.H. Garnett,Henry Harris
-H.H. Garnett,Richard Sampson
-H.H. Garnett,N. Caesar
-H.H. Garnett,N. Hardy
-H.H. Garnett,Thomas Gray
-H.H. Garnett,F. Lattin
-H.H. Garnett,Francis Dana
-H.H. Garnett,Henry L. Simpson
-H.H. Garnett,H. M. I. Rogers
-H.H. Garnett,Daniel A. Oliver
-H.H. Garnett,Francis Whitbeck
-H.H. Garnett,Francis Cobus
-H.H. Garnett,Alexander Welch
-H.H. Garnett,A. James
-H.H. Garnett,Isaac Hornbeck
-H.H. Garnett,John Tribble
-H.H. Garnett,Caroline Jones
-H.H. Garnett,Constantin
-H.H. Garnett,Peter P. Feler
-H.H. Garnett,Samuel Serrington
-H.H. Garnett,Robert H. Johnson
-H.H. Garnett,Simon Jackson
-H.H. Garnett,William Jackson
-H.H. Garnett,Nicholas Hemous
-H.H. Garnett,Theodore S. Wright
-H.H. Garnett,Charles B. Ray
-H.H. Garnett,Ray
-H.H. Garnett,Powel
-H.H. Garnett,R. Thompson
-H.H. Garnett,Serrington
-H.H. Garnett,Wm. P. Johnson
-H.H. Garnett,James Mccune
-H.H. Garnett,Wm. P. Powell
-H.H. Garnett,Reuben Murray
-H.H. Garnett,Francis Simpson
-H.H. Garnett,F. Thompson
-H.H. Garnett,G.B. Moreton
-H.H. Garnett,E. George
-H.H. Garnett,Wm. Begget
-H.H. Garnett,W. Gordon
-H.H. Garnett,R. Livingston
-H.H. Garnett,L.D. Beckett
-H.H. Garnett,Carrasol
-H.H. Garnett,John H. Smothers
-H.H. Garnett,Thomas Whitbeck
-H.H. Garnett,Samuel Serringson
-H.H. Garnett,C. F. Selden
-H.H. Garnett,H.J.M. Rogers
-H.H. Garnett,R.P.G. Wright
-H.H. Garnett,P. Johnson
-H.H. Garnett,W. P. Powell
-H.H. Garnett,P. Powell
-H.H. Garnett,Messrs
-H.H. Garnett,J. Mccune Smith
-H.H. Garnett,P. Powel
-H.H. Garnett,Lyceums
-H.H. Garnett,H.H. Garnet
-H.H. Garnett,Robert Johnson
-H.H. Garnett,P. M.
-H.H. Garnett,H. H.
-H.H. Garnett,Moreton
-H.H. Garnett,R. Johnson
-H.H. Garnett,Theodore St. Wright
-H.H. Garnett,Theodore Sedgwick Wright
 Henry H. Garnet,Ulyssis R Videl
 Henry H. Garnet,Francis Thompson
 Henry H. Garnet,Patrick H. Reason
@@ -734,7 +589,7 @@ Henry H. Garnet,Thomas Addison
 Henry H. Garnet,Henry March
 Henry H. Garnet,William Beggett
 Henry H. Garnet,Abram Stanley
-Henry H. Garnet,Henry Â· H. Garnet
+Henry H. Garnet,Henry · H. Garnet
 Henry H. Garnet,James Johnson
 Henry H. Garnet,Richard Livingston
 Henry H. Garnet,L. D. Beckett
@@ -824,7 +679,6 @@ Henry H. Garnet,P. Powel
 Henry H. Garnet,Lyceums
 Henry H. Garnet,H.H. Garnet
 Henry H. Garnet,Robert Johnson
-Henry H. Garnet,P. M.
 Henry H. Garnet,H. H.
 Henry H. Garnet,Moreton
 Henry H. Garnet,R. Johnson
@@ -869,7 +723,7 @@ Ulyssis R Videl,Thomas Addison
 Ulyssis R Videl,Henry March
 Ulyssis R Videl,William Beggett
 Ulyssis R Videl,Abram Stanley
-Ulyssis R Videl,Henry Â· H. Garnet
+Ulyssis R Videl,Henry · H. Garnet
 Ulyssis R Videl,James Johnson
 Ulyssis R Videl,Richard Livingston
 Ulyssis R Videl,L. D. Beckett
@@ -959,7 +813,6 @@ Ulyssis R Videl,P. Powel
 Ulyssis R Videl,Lyceums
 Ulyssis R Videl,H.H. Garnet
 Ulyssis R Videl,Robert Johnson
-Ulyssis R Videl,P. M.
 Ulyssis R Videl,H. H.
 Ulyssis R Videl,Moreton
 Ulyssis R Videl,R. Johnson
@@ -1003,7 +856,7 @@ Francis Thompson,Thomas Addison
 Francis Thompson,Henry March
 Francis Thompson,William Beggett
 Francis Thompson,Abram Stanley
-Francis Thompson,Henry Â· H. Garnet
+Francis Thompson,Henry · H. Garnet
 Francis Thompson,James Johnson
 Francis Thompson,Richard Livingston
 Francis Thompson,L. D. Beckett
@@ -1093,7 +946,6 @@ Francis Thompson,P. Powel
 Francis Thompson,Lyceums
 Francis Thompson,H.H. Garnet
 Francis Thompson,Robert Johnson
-Francis Thompson,P. M.
 Francis Thompson,H. H.
 Francis Thompson,Moreton
 Francis Thompson,R. Johnson
@@ -1136,7 +988,7 @@ Patrick H. Reason,Thomas Addison
 Patrick H. Reason,Henry March
 Patrick H. Reason,William Beggett
 Patrick H. Reason,Abram Stanley
-Patrick H. Reason,Henry Â· H. Garnet
+Patrick H. Reason,Henry · H. Garnet
 Patrick H. Reason,James Johnson
 Patrick H. Reason,Richard Livingston
 Patrick H. Reason,L. D. Beckett
@@ -1226,7 +1078,6 @@ Patrick H. Reason,P. Powel
 Patrick H. Reason,Lyceums
 Patrick H. Reason,H.H. Garnet
 Patrick H. Reason,Robert Johnson
-Patrick H. Reason,P. M.
 Patrick H. Reason,H. H.
 Patrick H. Reason,Moreton
 Patrick H. Reason,R. Johnson
@@ -1268,7 +1119,7 @@ N. Y.,Thomas Addison
 N. Y.,Henry March
 N. Y.,William Beggett
 N. Y.,Abram Stanley
-N. Y.,Henry Â· H. Garnet
+N. Y.,Henry · H. Garnet
 N. Y.,James Johnson
 N. Y.,Richard Livingston
 N. Y.,L. D. Beckett
@@ -1358,7 +1209,6 @@ N. Y.,P. Powel
 N. Y.,Lyceums
 N. Y.,H.H. Garnet
 N. Y.,Robert Johnson
-N. Y.,P. M.
 N. Y.,H. H.
 N. Y.,Moreton
 N. Y.,R. Johnson
@@ -1399,7 +1249,7 @@ Ralph Francis,Thomas Addison
 Ralph Francis,Henry March
 Ralph Francis,William Beggett
 Ralph Francis,Abram Stanley
-Ralph Francis,Henry Â· H. Garnet
+Ralph Francis,Henry · H. Garnet
 Ralph Francis,James Johnson
 Ralph Francis,Richard Livingston
 Ralph Francis,L. D. Beckett
@@ -1489,7 +1339,6 @@ Ralph Francis,P. Powel
 Ralph Francis,Lyceums
 Ralph Francis,H.H. Garnet
 Ralph Francis,Robert Johnson
-Ralph Francis,P. M.
 Ralph Francis,H. H.
 Ralph Francis,Moreton
 Ralph Francis,R. Johnson
@@ -1529,7 +1378,7 @@ James Hall,Thomas Addison
 James Hall,Henry March
 James Hall,William Beggett
 James Hall,Abram Stanley
-James Hall,Henry Â· H. Garnet
+James Hall,Henry · H. Garnet
 James Hall,James Johnson
 James Hall,Richard Livingston
 James Hall,L. D. Beckett
@@ -1619,7 +1468,6 @@ James Hall,P. Powel
 James Hall,Lyceums
 James Hall,H.H. Garnet
 James Hall,Robert Johnson
-James Hall,P. M.
 James Hall,H. H.
 James Hall,Moreton
 James Hall,R. Johnson
@@ -1658,7 +1506,7 @@ John Wandell,Thomas Addison
 John Wandell,Henry March
 John Wandell,William Beggett
 John Wandell,Abram Stanley
-John Wandell,Henry Â· H. Garnet
+John Wandell,Henry · H. Garnet
 John Wandell,James Johnson
 John Wandell,Richard Livingston
 John Wandell,L. D. Beckett
@@ -1748,7 +1596,6 @@ John Wandell,P. Powel
 John Wandell,Lyceums
 John Wandell,H.H. Garnet
 John Wandell,Robert Johnson
-John Wandell,P. M.
 John Wandell,H. H.
 John Wandell,Moreton
 John Wandell,R. Johnson
@@ -1786,7 +1633,7 @@ Peter Hornbeck,Thomas Addison
 Peter Hornbeck,Henry March
 Peter Hornbeck,William Beggett
 Peter Hornbeck,Abram Stanley
-Peter Hornbeck,Henry Â· H. Garnet
+Peter Hornbeck,Henry · H. Garnet
 Peter Hornbeck,James Johnson
 Peter Hornbeck,Richard Livingston
 Peter Hornbeck,L. D. Beckett
@@ -1876,7 +1723,6 @@ Peter Hornbeck,P. Powel
 Peter Hornbeck,Lyceums
 Peter Hornbeck,H.H. Garnet
 Peter Hornbeck,Robert Johnson
-Peter Hornbeck,P. M.
 Peter Hornbeck,H. H.
 Peter Hornbeck,Moreton
 Peter Hornbeck,R. Johnson
@@ -1913,7 +1759,7 @@ George W. Gordon,Thomas Addison
 George W. Gordon,Henry March
 George W. Gordon,William Beggett
 George W. Gordon,Abram Stanley
-George W. Gordon,Henry Â· H. Garnet
+George W. Gordon,Henry · H. Garnet
 George W. Gordon,James Johnson
 George W. Gordon,Richard Livingston
 George W. Gordon,L. D. Beckett
@@ -2003,7 +1849,6 @@ George W. Gordon,P. Powel
 George W. Gordon,Lyceums
 George W. Gordon,H.H. Garnet
 George W. Gordon,Robert Johnson
-George W. Gordon,P. M.
 George W. Gordon,H. H.
 George W. Gordon,Moreton
 George W. Gordon,R. Johnson
@@ -2039,7 +1884,7 @@ James Mccune Smith,Thomas Addison
 James Mccune Smith,Henry March
 James Mccune Smith,William Beggett
 James Mccune Smith,Abram Stanley
-James Mccune Smith,Henry Â· H. Garnet
+James Mccune Smith,Henry · H. Garnet
 James Mccune Smith,James Johnson
 James Mccune Smith,Richard Livingston
 James Mccune Smith,L. D. Beckett
@@ -2129,7 +1974,6 @@ James Mccune Smith,P. Powel
 James Mccune Smith,Lyceums
 James Mccune Smith,H.H. Garnet
 James Mccune Smith,Robert Johnson
-James Mccune Smith,P. M.
 James Mccune Smith,H. H.
 James Mccune Smith,Moreton
 James Mccune Smith,R. Johnson
@@ -2164,7 +2008,7 @@ Ulyssis B. Videl,Thomas Addison
 Ulyssis B. Videl,Henry March
 Ulyssis B. Videl,William Beggett
 Ulyssis B. Videl,Abram Stanley
-Ulyssis B. Videl,Henry Â· H. Garnet
+Ulyssis B. Videl,Henry · H. Garnet
 Ulyssis B. Videl,James Johnson
 Ulyssis B. Videl,Richard Livingston
 Ulyssis B. Videl,L. D. Beckett
@@ -2254,7 +2098,6 @@ Ulyssis B. Videl,P. Powel
 Ulyssis B. Videl,Lyceums
 Ulyssis B. Videl,H.H. Garnet
 Ulyssis B. Videl,Robert Johnson
-Ulyssis B. Videl,P. M.
 Ulyssis B. Videl,H. H.
 Ulyssis B. Videl,Moreton
 Ulyssis B. Videl,R. Johnson
@@ -2288,7 +2131,7 @@ Troy,Thomas Addison
 Troy,Henry March
 Troy,William Beggett
 Troy,Abram Stanley
-Troy,Henry Â· H. Garnet
+Troy,Henry · H. Garnet
 Troy,James Johnson
 Troy,Richard Livingston
 Troy,L. D. Beckett
@@ -2378,7 +2221,6 @@ Troy,P. Powel
 Troy,Lyceums
 Troy,H.H. Garnet
 Troy,Robert Johnson
-Troy,P. M.
 Troy,H. H.
 Troy,Moreton
 Troy,R. Johnson
@@ -2411,7 +2253,7 @@ James H. Henderson,Thomas Addison
 James H. Henderson,Henry March
 James H. Henderson,William Beggett
 James H. Henderson,Abram Stanley
-James H. Henderson,Henry Â· H. Garnet
+James H. Henderson,Henry · H. Garnet
 James H. Henderson,James Johnson
 James H. Henderson,Richard Livingston
 James H. Henderson,L. D. Beckett
@@ -2501,7 +2343,6 @@ James H. Henderson,P. Powel
 James H. Henderson,Lyceums
 James H. Henderson,H.H. Garnet
 James H. Henderson,Robert Johnson
-James H. Henderson,P. M.
 James H. Henderson,H. H.
 James H. Henderson,Moreton
 James H. Henderson,R. Johnson
@@ -2533,7 +2374,7 @@ William P. Powell,Thomas Addison
 William P. Powell,Henry March
 William P. Powell,William Beggett
 William P. Powell,Abram Stanley
-William P. Powell,Henry Â· H. Garnet
+William P. Powell,Henry · H. Garnet
 William P. Powell,James Johnson
 William P. Powell,Richard Livingston
 William P. Powell,L. D. Beckett
@@ -2623,7 +2464,6 @@ William P. Powell,P. Powel
 William P. Powell,Lyceums
 William P. Powell,H.H. Garnet
 William P. Powell,Robert Johnson
-William P. Powell,P. M.
 William P. Powell,H. H.
 William P. Powell,Moreton
 William P. Powell,R. Johnson
@@ -2654,7 +2494,7 @@ Richard Thompson,Thomas Addison
 Richard Thompson,Henry March
 Richard Thompson,William Beggett
 Richard Thompson,Abram Stanley
-Richard Thompson,Henry Â· H. Garnet
+Richard Thompson,Henry · H. Garnet
 Richard Thompson,James Johnson
 Richard Thompson,Richard Livingston
 Richard Thompson,L. D. Beckett
@@ -2744,7 +2584,6 @@ Richard Thompson,P. Powel
 Richard Thompson,Lyceums
 Richard Thompson,H.H. Garnet
 Richard Thompson,Robert Johnson
-Richard Thompson,P. M.
 Richard Thompson,H. H.
 Richard Thompson,Moreton
 Richard Thompson,R. Johnson
@@ -2774,7 +2613,7 @@ Clarence P. Seldon,Thomas Addison
 Clarence P. Seldon,Henry March
 Clarence P. Seldon,William Beggett
 Clarence P. Seldon,Abram Stanley
-Clarence P. Seldon,Henry Â· H. Garnet
+Clarence P. Seldon,Henry · H. Garnet
 Clarence P. Seldon,James Johnson
 Clarence P. Seldon,Richard Livingston
 Clarence P. Seldon,L. D. Beckett
@@ -2864,7 +2703,6 @@ Clarence P. Seldon,P. Powel
 Clarence P. Seldon,Lyceums
 Clarence P. Seldon,H.H. Garnet
 Clarence P. Seldon,Robert Johnson
-Clarence P. Seldon,P. M.
 Clarence P. Seldon,H. H.
 Clarence P. Seldon,Moreton
 Clarence P. Seldon,R. Johnson
@@ -2893,7 +2731,7 @@ Francis Simson,Thomas Addison
 Francis Simson,Henry March
 Francis Simson,William Beggett
 Francis Simson,Abram Stanley
-Francis Simson,Henry Â· H. Garnet
+Francis Simson,Henry · H. Garnet
 Francis Simson,James Johnson
 Francis Simson,Richard Livingston
 Francis Simson,L. D. Beckett
@@ -2983,7 +2821,6 @@ Francis Simson,P. Powel
 Francis Simson,Lyceums
 Francis Simson,H.H. Garnet
 Francis Simson,Robert Johnson
-Francis Simson,P. M.
 Francis Simson,H. H.
 Francis Simson,Moreton
 Francis Simson,R. Johnson
@@ -3011,7 +2848,7 @@ George B. Moreton,Thomas Addison
 George B. Moreton,Henry March
 George B. Moreton,William Beggett
 George B. Moreton,Abram Stanley
-George B. Moreton,Henry Â· H. Garnet
+George B. Moreton,Henry · H. Garnet
 George B. Moreton,James Johnson
 George B. Moreton,Richard Livingston
 George B. Moreton,L. D. Beckett
@@ -3101,7 +2938,6 @@ George B. Moreton,P. Powel
 George B. Moreton,Lyceums
 George B. Moreton,H.H. Garnet
 George B. Moreton,Robert Johnson
-George B. Moreton,P. M.
 George B. Moreton,H. H.
 George B. Moreton,Moreton
 George B. Moreton,R. Johnson
@@ -3128,7 +2964,7 @@ Stephen Myers,Thomas Addison
 Stephen Myers,Henry March
 Stephen Myers,William Beggett
 Stephen Myers,Abram Stanley
-Stephen Myers,Henry Â· H. Garnet
+Stephen Myers,Henry · H. Garnet
 Stephen Myers,James Johnson
 Stephen Myers,Richard Livingston
 Stephen Myers,L. D. Beckett
@@ -3218,7 +3054,6 @@ Stephen Myers,P. Powel
 Stephen Myers,Lyceums
 Stephen Myers,H.H. Garnet
 Stephen Myers,Robert Johnson
-Stephen Myers,P. M.
 Stephen Myers,H. H.
 Stephen Myers,Moreton
 Stephen Myers,R. Johnson
@@ -3244,7 +3079,7 @@ Smith,Thomas Addison
 Smith,Henry March
 Smith,William Beggett
 Smith,Abram Stanley
-Smith,Henry Â· H. Garnet
+Smith,Henry · H. Garnet
 Smith,James Johnson
 Smith,Richard Livingston
 Smith,L. D. Beckett
@@ -3334,7 +3169,6 @@ Smith,P. Powel
 Smith,Lyceums
 Smith,H.H. Garnet
 Smith,Robert Johnson
-Smith,P. M.
 Smith,H. H.
 Smith,Moreton
 Smith,R. Johnson
@@ -3359,7 +3193,7 @@ Myers,Thomas Addison
 Myers,Henry March
 Myers,William Beggett
 Myers,Abram Stanley
-Myers,Henry Â· H. Garnet
+Myers,Henry · H. Garnet
 Myers,James Johnson
 Myers,Richard Livingston
 Myers,L. D. Beckett
@@ -3449,7 +3283,6 @@ Myers,P. Powel
 Myers,Lyceums
 Myers,H.H. Garnet
 Myers,Robert Johnson
-Myers,P. M.
 Myers,H. H.
 Myers,Moreton
 Myers,R. Johnson
@@ -3473,7 +3306,7 @@ U. B. Videl,Thomas Addison
 U. B. Videl,Henry March
 U. B. Videl,William Beggett
 U. B. Videl,Abram Stanley
-U. B. Videl,Henry Â· H. Garnet
+U. B. Videl,Henry · H. Garnet
 U. B. Videl,James Johnson
 U. B. Videl,Richard Livingston
 U. B. Videl,L. D. Beckett
@@ -3563,7 +3396,6 @@ U. B. Videl,P. Powel
 U. B. Videl,Lyceums
 U. B. Videl,H.H. Garnet
 U. B. Videl,Robert Johnson
-U. B. Videl,P. M.
 U. B. Videl,H. H.
 U. B. Videl,Moreton
 U. B. Videl,R. Johnson
@@ -3586,7 +3418,7 @@ Garnet,Thomas Addison
 Garnet,Henry March
 Garnet,William Beggett
 Garnet,Abram Stanley
-Garnet,Henry Â· H. Garnet
+Garnet,Henry · H. Garnet
 Garnet,James Johnson
 Garnet,Richard Livingston
 Garnet,L. D. Beckett
@@ -3676,7 +3508,6 @@ Garnet,P. Powel
 Garnet,Lyceums
 Garnet,H.H. Garnet
 Garnet,Robert Johnson
-Garnet,P. M.
 Garnet,H. H.
 Garnet,Moreton
 Garnet,R. Johnson
@@ -3698,7 +3529,7 @@ Videl,Thomas Addison
 Videl,Henry March
 Videl,William Beggett
 Videl,Abram Stanley
-Videl,Henry Â· H. Garnet
+Videl,Henry · H. Garnet
 Videl,James Johnson
 Videl,Richard Livingston
 Videl,L. D. Beckett
@@ -3788,7 +3619,6 @@ Videl,P. Powel
 Videl,Lyceums
 Videl,H.H. Garnet
 Videl,Robert Johnson
-Videl,P. M.
 Videl,H. H.
 Videl,Moreton
 Videl,R. Johnson
@@ -3809,7 +3639,7 @@ Powell,Thomas Addison
 Powell,Henry March
 Powell,William Beggett
 Powell,Abram Stanley
-Powell,Henry Â· H. Garnet
+Powell,Henry · H. Garnet
 Powell,James Johnson
 Powell,Richard Livingston
 Powell,L. D. Beckett
@@ -3899,7 +3729,6 @@ Powell,P. Powel
 Powell,Lyceums
 Powell,H.H. Garnet
 Powell,Robert Johnson
-Powell,P. M.
 Powell,H. H.
 Powell,Moreton
 Powell,R. Johnson
@@ -3919,7 +3748,7 @@ W. P. Johnson,Thomas Addison
 W. P. Johnson,Henry March
 W. P. Johnson,William Beggett
 W. P. Johnson,Abram Stanley
-W. P. Johnson,Henry Â· H. Garnet
+W. P. Johnson,Henry · H. Garnet
 W. P. Johnson,James Johnson
 W. P. Johnson,Richard Livingston
 W. P. Johnson,L. D. Beckett
@@ -4009,7 +3838,6 @@ W. P. Johnson,P. Powel
 W. P. Johnson,Lyceums
 W. P. Johnson,H.H. Garnet
 W. P. Johnson,Robert Johnson
-W. P. Johnson,P. M.
 W. P. Johnson,H. H.
 W. P. Johnson,Moreton
 W. P. Johnson,R. Johnson
@@ -4028,7 +3856,7 @@ R. P. G. Wright,Thomas Addison
 R. P. G. Wright,Henry March
 R. P. G. Wright,William Beggett
 R. P. G. Wright,Abram Stanley
-R. P. G. Wright,Henry Â· H. Garnet
+R. P. G. Wright,Henry · H. Garnet
 R. P. G. Wright,James Johnson
 R. P. G. Wright,Richard Livingston
 R. P. G. Wright,L. D. Beckett
@@ -4118,7 +3946,6 @@ R. P. G. Wright,P. Powel
 R. P. G. Wright,Lyceums
 R. P. G. Wright,H.H. Garnet
 R. P. G. Wright,Robert Johnson
-R. P. G. Wright,P. M.
 R. P. G. Wright,H. H.
 R. P. G. Wright,Moreton
 R. P. G. Wright,R. Johnson
@@ -4136,7 +3963,7 @@ William P. Johnson,Thomas Addison
 William P. Johnson,Henry March
 William P. Johnson,William Beggett
 William P. Johnson,Abram Stanley
-William P. Johnson,Henry Â· H. Garnet
+William P. Johnson,Henry · H. Garnet
 William P. Johnson,James Johnson
 William P. Johnson,Richard Livingston
 William P. Johnson,L. D. Beckett
@@ -4226,7 +4053,6 @@ William P. Johnson,P. Powel
 William P. Johnson,Lyceums
 William P. Johnson,H.H. Garnet
 William P. Johnson,Robert Johnson
-William P. Johnson,P. M.
 William P. Johnson,H. H.
 William P. Johnson,Moreton
 William P. Johnson,R. Johnson
@@ -4243,7 +4069,7 @@ York La Ture,Thomas Addison
 York La Ture,Henry March
 York La Ture,William Beggett
 York La Ture,Abram Stanley
-York La Ture,Henry Â· H. Garnet
+York La Ture,Henry · H. Garnet
 York La Ture,James Johnson
 York La Ture,Richard Livingston
 York La Ture,L. D. Beckett
@@ -4333,7 +4159,6 @@ York La Ture,P. Powel
 York La Ture,Lyceums
 York La Ture,H.H. Garnet
 York La Ture,Robert Johnson
-York La Ture,P. M.
 York La Ture,H. H.
 York La Ture,Moreton
 York La Ture,R. Johnson
@@ -4349,7 +4174,7 @@ Clarence P. Selden,Thomas Addison
 Clarence P. Selden,Henry March
 Clarence P. Selden,William Beggett
 Clarence P. Selden,Abram Stanley
-Clarence P. Selden,Henry Â· H. Garnet
+Clarence P. Selden,Henry · H. Garnet
 Clarence P. Selden,James Johnson
 Clarence P. Selden,Richard Livingston
 Clarence P. Selden,L. D. Beckett
@@ -4439,7 +4264,6 @@ Clarence P. Selden,P. Powel
 Clarence P. Selden,Lyceums
 Clarence P. Selden,H.H. Garnet
 Clarence P. Selden,Robert Johnson
-Clarence P. Selden,P. M.
 Clarence P. Selden,H. H.
 Clarence P. Selden,Moreton
 Clarence P. Selden,R. Johnson
@@ -4454,7 +4278,7 @@ Ezekiel George,Thomas Addison
 Ezekiel George,Henry March
 Ezekiel George,William Beggett
 Ezekiel George,Abram Stanley
-Ezekiel George,Henry Â· H. Garnet
+Ezekiel George,Henry · H. Garnet
 Ezekiel George,James Johnson
 Ezekiel George,Richard Livingston
 Ezekiel George,L. D. Beckett
@@ -4544,7 +4368,6 @@ Ezekiel George,P. Powel
 Ezekiel George,Lyceums
 Ezekiel George,H.H. Garnet
 Ezekiel George,Robert Johnson
-Ezekiel George,P. M.
 Ezekiel George,H. H.
 Ezekiel George,Moreton
 Ezekiel George,R. Johnson
@@ -4558,7 +4381,7 @@ Samuel Lawyer,Thomas Addison
 Samuel Lawyer,Henry March
 Samuel Lawyer,William Beggett
 Samuel Lawyer,Abram Stanley
-Samuel Lawyer,Henry Â· H. Garnet
+Samuel Lawyer,Henry · H. Garnet
 Samuel Lawyer,James Johnson
 Samuel Lawyer,Richard Livingston
 Samuel Lawyer,L. D. Beckett
@@ -4648,7 +4471,6 @@ Samuel Lawyer,P. Powel
 Samuel Lawyer,Lyceums
 Samuel Lawyer,H.H. Garnet
 Samuel Lawyer,Robert Johnson
-Samuel Lawyer,P. M.
 Samuel Lawyer,H. H.
 Samuel Lawyer,Moreton
 Samuel Lawyer,R. Johnson
@@ -4661,7 +4483,7 @@ Jacob Brown,Thomas Addison
 Jacob Brown,Henry March
 Jacob Brown,William Beggett
 Jacob Brown,Abram Stanley
-Jacob Brown,Henry Â· H. Garnet
+Jacob Brown,Henry · H. Garnet
 Jacob Brown,James Johnson
 Jacob Brown,Richard Livingston
 Jacob Brown,L. D. Beckett
@@ -4751,7 +4573,6 @@ Jacob Brown,P. Powel
 Jacob Brown,Lyceums
 Jacob Brown,H.H. Garnet
 Jacob Brown,Robert Johnson
-Jacob Brown,P. M.
 Jacob Brown,H. H.
 Jacob Brown,Moreton
 Jacob Brown,R. Johnson
@@ -4763,7 +4584,7 @@ Lewis Washington,Thomas Addison
 Lewis Washington,Henry March
 Lewis Washington,William Beggett
 Lewis Washington,Abram Stanley
-Lewis Washington,Henry Â· H. Garnet
+Lewis Washington,Henry · H. Garnet
 Lewis Washington,James Johnson
 Lewis Washington,Richard Livingston
 Lewis Washington,L. D. Beckett
@@ -4853,7 +4674,6 @@ Lewis Washington,P. Powel
 Lewis Washington,Lyceums
 Lewis Washington,H.H. Garnet
 Lewis Washington,Robert Johnson
-Lewis Washington,P. M.
 Lewis Washington,H. H.
 Lewis Washington,Moreton
 Lewis Washington,R. Johnson
@@ -4864,7 +4684,7 @@ Lewis Jones,Thomas Addison
 Lewis Jones,Henry March
 Lewis Jones,William Beggett
 Lewis Jones,Abram Stanley
-Lewis Jones,Henry Â· H. Garnet
+Lewis Jones,Henry · H. Garnet
 Lewis Jones,James Johnson
 Lewis Jones,Richard Livingston
 Lewis Jones,L. D. Beckett
@@ -4954,7 +4774,6 @@ Lewis Jones,P. Powel
 Lewis Jones,Lyceums
 Lewis Jones,H.H. Garnet
 Lewis Jones,Robert Johnson
-Lewis Jones,P. M.
 Lewis Jones,H. H.
 Lewis Jones,Moreton
 Lewis Jones,R. Johnson
@@ -4964,7 +4783,7 @@ Abram Jackson,Thomas Addison
 Abram Jackson,Henry March
 Abram Jackson,William Beggett
 Abram Jackson,Abram Stanley
-Abram Jackson,Henry Â· H. Garnet
+Abram Jackson,Henry · H. Garnet
 Abram Jackson,James Johnson
 Abram Jackson,Richard Livingston
 Abram Jackson,L. D. Beckett
@@ -5054,7 +4873,6 @@ Abram Jackson,P. Powel
 Abram Jackson,Lyceums
 Abram Jackson,H.H. Garnet
 Abram Jackson,Robert Johnson
-Abram Jackson,P. M.
 Abram Jackson,H. H.
 Abram Jackson,Moreton
 Abram Jackson,R. Johnson
@@ -5063,7 +4881,7 @@ Abram Jackson,Theodore Sedgwick Wright
 Thomas Addison,Henry March
 Thomas Addison,William Beggett
 Thomas Addison,Abram Stanley
-Thomas Addison,Henry Â· H. Garnet
+Thomas Addison,Henry · H. Garnet
 Thomas Addison,James Johnson
 Thomas Addison,Richard Livingston
 Thomas Addison,L. D. Beckett
@@ -5153,7 +4971,6 @@ Thomas Addison,P. Powel
 Thomas Addison,Lyceums
 Thomas Addison,H.H. Garnet
 Thomas Addison,Robert Johnson
-Thomas Addison,P. M.
 Thomas Addison,H. H.
 Thomas Addison,Moreton
 Thomas Addison,R. Johnson
@@ -5161,7 +4978,7 @@ Thomas Addison,Theodore St. Wright
 Thomas Addison,Theodore Sedgwick Wright
 Henry March,William Beggett
 Henry March,Abram Stanley
-Henry March,Henry Â· H. Garnet
+Henry March,Henry · H. Garnet
 Henry March,James Johnson
 Henry March,Richard Livingston
 Henry March,L. D. Beckett
@@ -5251,14 +5068,13 @@ Henry March,P. Powel
 Henry March,Lyceums
 Henry March,H.H. Garnet
 Henry March,Robert Johnson
-Henry March,P. M.
 Henry March,H. H.
 Henry March,Moreton
 Henry March,R. Johnson
 Henry March,Theodore St. Wright
 Henry March,Theodore Sedgwick Wright
 William Beggett,Abram Stanley
-William Beggett,Henry Â· H. Garnet
+William Beggett,Henry · H. Garnet
 William Beggett,James Johnson
 William Beggett,Richard Livingston
 William Beggett,L. D. Beckett
@@ -5348,13 +5164,12 @@ William Beggett,P. Powel
 William Beggett,Lyceums
 William Beggett,H.H. Garnet
 William Beggett,Robert Johnson
-William Beggett,P. M.
 William Beggett,H. H.
 William Beggett,Moreton
 William Beggett,R. Johnson
 William Beggett,Theodore St. Wright
 William Beggett,Theodore Sedgwick Wright
-Abram Stanley,Henry Â· H. Garnet
+Abram Stanley,Henry · H. Garnet
 Abram Stanley,James Johnson
 Abram Stanley,Richard Livingston
 Abram Stanley,L. D. Beckett
@@ -5444,107 +5259,105 @@ Abram Stanley,P. Powel
 Abram Stanley,Lyceums
 Abram Stanley,H.H. Garnet
 Abram Stanley,Robert Johnson
-Abram Stanley,P. M.
 Abram Stanley,H. H.
 Abram Stanley,Moreton
 Abram Stanley,R. Johnson
 Abram Stanley,Theodore St. Wright
 Abram Stanley,Theodore Sedgwick Wright
-Henry Â· H. Garnet,James Johnson
-Henry Â· H. Garnet,Richard Livingston
-Henry Â· H. Garnet,L. D. Beckett
-Henry Â· H. Garnet,William Rich
-Henry Â· H. Garnet,John Carasaw
-Henry Â· H. Garnet,Thomas Jefferson
-Henry Â· H. Garnet,J. W. Randolph
-Henry Â· H. Garnet,John
-Henry Â· H. Garnet,H. Smothers
-Henry Â· H. Garnet,Cato Jackson
-Henry Â· H. Garnet,Austin White
-Henry Â· H. Garnet,Augustus Howard
-Henry Â· H. Garnet,John Landon
-Henry Â· H. Garnet,George Mott
-Henry Â· H. Garnet,Thomas Johnson
-Henry Â· H. Garnet,Thomas Thompson
-Henry Â· H. Garnet,R. Munay
-Henry Â· H. Garnet,Tobias Harklis
-Henry Â· H. Garnet,Thomas Jackson
-Henry Â· H. Garnet,John Jackson
-Henry Â· H. Garnet,James Jackson
-Henry Â· H. Garnet,Moses Wilcox
-Henry Â· H. Garnet,Peter Johnson
-Henry Â· H. Garnet,Henry Thompson
-Henry Â· H. Garnet,Henry Jackson
-Henry Â· H. Garnet,Peter Wandell
-Henry Â· H. Garnet,Albert Brown
-Henry Â· H. Garnet,Peter Ofdyke
-Henry Â· H. Garnet,John T. Simpson
-Henry Â· H. Garnet,John Dunbar
-Henry Â· H. Garnet,Garret Harris
-Henry Â· H. Garnet,Henry Harris
-Henry Â· H. Garnet,Richard Sampson
-Henry Â· H. Garnet,N. Caesar
-Henry Â· H. Garnet,N. Hardy
-Henry Â· H. Garnet,Thomas Gray
-Henry Â· H. Garnet,F. Lattin
-Henry Â· H. Garnet,Francis Dana
-Henry Â· H. Garnet,Henry L. Simpson
-Henry Â· H. Garnet,H. M. I. Rogers
-Henry Â· H. Garnet,Daniel A. Oliver
-Henry Â· H. Garnet,Francis Whitbeck
-Henry Â· H. Garnet,Francis Cobus
-Henry Â· H. Garnet,Alexander Welch
-Henry Â· H. Garnet,A. James
-Henry Â· H. Garnet,Isaac Hornbeck
-Henry Â· H. Garnet,John Tribble
-Henry Â· H. Garnet,Caroline Jones
-Henry Â· H. Garnet,Constantin
-Henry Â· H. Garnet,Peter P. Feler
-Henry Â· H. Garnet,Samuel Serrington
-Henry Â· H. Garnet,Robert H. Johnson
-Henry Â· H. Garnet,Simon Jackson
-Henry Â· H. Garnet,William Jackson
-Henry Â· H. Garnet,Nicholas Hemous
-Henry Â· H. Garnet,Theodore S. Wright
-Henry Â· H. Garnet,Charles B. Ray
-Henry Â· H. Garnet,Ray
-Henry Â· H. Garnet,Powel
-Henry Â· H. Garnet,R. Thompson
-Henry Â· H. Garnet,Serrington
-Henry Â· H. Garnet,Wm. P. Johnson
-Henry Â· H. Garnet,James Mccune
-Henry Â· H. Garnet,Wm. P. Powell
-Henry Â· H. Garnet,Reuben Murray
-Henry Â· H. Garnet,Francis Simpson
-Henry Â· H. Garnet,F. Thompson
-Henry Â· H. Garnet,G.B. Moreton
-Henry Â· H. Garnet,E. George
-Henry Â· H. Garnet,Wm. Begget
-Henry Â· H. Garnet,W. Gordon
-Henry Â· H. Garnet,R. Livingston
-Henry Â· H. Garnet,L.D. Beckett
-Henry Â· H. Garnet,Carrasol
-Henry Â· H. Garnet,John H. Smothers
-Henry Â· H. Garnet,Thomas Whitbeck
-Henry Â· H. Garnet,Samuel Serringson
-Henry Â· H. Garnet,C. F. Selden
-Henry Â· H. Garnet,H.J.M. Rogers
-Henry Â· H. Garnet,R.P.G. Wright
-Henry Â· H. Garnet,P. Johnson
-Henry Â· H. Garnet,W. P. Powell
-Henry Â· H. Garnet,P. Powell
-Henry Â· H. Garnet,Messrs
-Henry Â· H. Garnet,J. Mccune Smith
-Henry Â· H. Garnet,P. Powel
-Henry Â· H. Garnet,Lyceums
-Henry Â· H. Garnet,H.H. Garnet
-Henry Â· H. Garnet,Robert Johnson
-Henry Â· H. Garnet,P. M.
-Henry Â· H. Garnet,H. H.
-Henry Â· H. Garnet,Moreton
-Henry Â· H. Garnet,R. Johnson
-Henry Â· H. Garnet,Theodore St. Wright
-Henry Â· H. Garnet,Theodore Sedgwick Wright
+Henry · H. Garnet,James Johnson
+Henry · H. Garnet,Richard Livingston
+Henry · H. Garnet,L. D. Beckett
+Henry · H. Garnet,William Rich
+Henry · H. Garnet,John Carasaw
+Henry · H. Garnet,Thomas Jefferson
+Henry · H. Garnet,J. W. Randolph
+Henry · H. Garnet,John
+Henry · H. Garnet,H. Smothers
+Henry · H. Garnet,Cato Jackson
+Henry · H. Garnet,Austin White
+Henry · H. Garnet,Augustus Howard
+Henry · H. Garnet,John Landon
+Henry · H. Garnet,George Mott
+Henry · H. Garnet,Thomas Johnson
+Henry · H. Garnet,Thomas Thompson
+Henry · H. Garnet,R. Munay
+Henry · H. Garnet,Tobias Harklis
+Henry · H. Garnet,Thomas Jackson
+Henry · H. Garnet,John Jackson
+Henry · H. Garnet,James Jackson
+Henry · H. Garnet,Moses Wilcox
+Henry · H. Garnet,Peter Johnson
+Henry · H. Garnet,Henry Thompson
+Henry · H. Garnet,Henry Jackson
+Henry · H. Garnet,Peter Wandell
+Henry · H. Garnet,Albert Brown
+Henry · H. Garnet,Peter Ofdyke
+Henry · H. Garnet,John T. Simpson
+Henry · H. Garnet,John Dunbar
+Henry · H. Garnet,Garret Harris
+Henry · H. Garnet,Henry Harris
+Henry · H. Garnet,Richard Sampson
+Henry · H. Garnet,N. Caesar
+Henry · H. Garnet,N. Hardy
+Henry · H. Garnet,Thomas Gray
+Henry · H. Garnet,F. Lattin
+Henry · H. Garnet,Francis Dana
+Henry · H. Garnet,Henry L. Simpson
+Henry · H. Garnet,H. M. I. Rogers
+Henry · H. Garnet,Daniel A. Oliver
+Henry · H. Garnet,Francis Whitbeck
+Henry · H. Garnet,Francis Cobus
+Henry · H. Garnet,Alexander Welch
+Henry · H. Garnet,A. James
+Henry · H. Garnet,Isaac Hornbeck
+Henry · H. Garnet,John Tribble
+Henry · H. Garnet,Caroline Jones
+Henry · H. Garnet,Constantin
+Henry · H. Garnet,Peter P. Feler
+Henry · H. Garnet,Samuel Serrington
+Henry · H. Garnet,Robert H. Johnson
+Henry · H. Garnet,Simon Jackson
+Henry · H. Garnet,William Jackson
+Henry · H. Garnet,Nicholas Hemous
+Henry · H. Garnet,Theodore S. Wright
+Henry · H. Garnet,Charles B. Ray
+Henry · H. Garnet,Ray
+Henry · H. Garnet,Powel
+Henry · H. Garnet,R. Thompson
+Henry · H. Garnet,Serrington
+Henry · H. Garnet,Wm. P. Johnson
+Henry · H. Garnet,James Mccune
+Henry · H. Garnet,Wm. P. Powell
+Henry · H. Garnet,Reuben Murray
+Henry · H. Garnet,Francis Simpson
+Henry · H. Garnet,F. Thompson
+Henry · H. Garnet,G.B. Moreton
+Henry · H. Garnet,E. George
+Henry · H. Garnet,Wm. Begget
+Henry · H. Garnet,W. Gordon
+Henry · H. Garnet,R. Livingston
+Henry · H. Garnet,L.D. Beckett
+Henry · H. Garnet,Carrasol
+Henry · H. Garnet,John H. Smothers
+Henry · H. Garnet,Thomas Whitbeck
+Henry · H. Garnet,Samuel Serringson
+Henry · H. Garnet,C. F. Selden
+Henry · H. Garnet,H.J.M. Rogers
+Henry · H. Garnet,R.P.G. Wright
+Henry · H. Garnet,P. Johnson
+Henry · H. Garnet,W. P. Powell
+Henry · H. Garnet,P. Powell
+Henry · H. Garnet,Messrs
+Henry · H. Garnet,J. Mccune Smith
+Henry · H. Garnet,P. Powel
+Henry · H. Garnet,Lyceums
+Henry · H. Garnet,H.H. Garnet
+Henry · H. Garnet,Robert Johnson
+Henry · H. Garnet,H. H.
+Henry · H. Garnet,Moreton
+Henry · H. Garnet,R. Johnson
+Henry · H. Garnet,Theodore St. Wright
+Henry · H. Garnet,Theodore Sedgwick Wright
 James Johnson,Richard Livingston
 James Johnson,L. D. Beckett
 James Johnson,William Rich
@@ -5633,7 +5446,6 @@ James Johnson,P. Powel
 James Johnson,Lyceums
 James Johnson,H.H. Garnet
 James Johnson,Robert Johnson
-James Johnson,P. M.
 James Johnson,H. H.
 James Johnson,Moreton
 James Johnson,R. Johnson
@@ -5726,7 +5538,6 @@ Richard Livingston,P. Powel
 Richard Livingston,Lyceums
 Richard Livingston,H.H. Garnet
 Richard Livingston,Robert Johnson
-Richard Livingston,P. M.
 Richard Livingston,H. H.
 Richard Livingston,Moreton
 Richard Livingston,R. Johnson
@@ -5818,7 +5629,6 @@ L. D. Beckett,P. Powel
 L. D. Beckett,Lyceums
 L. D. Beckett,H.H. Garnet
 L. D. Beckett,Robert Johnson
-L. D. Beckett,P. M.
 L. D. Beckett,H. H.
 L. D. Beckett,Moreton
 L. D. Beckett,R. Johnson
@@ -5909,7 +5719,6 @@ William Rich,P. Powel
 William Rich,Lyceums
 William Rich,H.H. Garnet
 William Rich,Robert Johnson
-William Rich,P. M.
 William Rich,H. H.
 William Rich,Moreton
 William Rich,R. Johnson
@@ -5999,7 +5808,6 @@ John Carasaw,P. Powel
 John Carasaw,Lyceums
 John Carasaw,H.H. Garnet
 John Carasaw,Robert Johnson
-John Carasaw,P. M.
 John Carasaw,H. H.
 John Carasaw,Moreton
 John Carasaw,R. Johnson
@@ -6088,7 +5896,6 @@ Thomas Jefferson,P. Powel
 Thomas Jefferson,Lyceums
 Thomas Jefferson,H.H. Garnet
 Thomas Jefferson,Robert Johnson
-Thomas Jefferson,P. M.
 Thomas Jefferson,H. H.
 Thomas Jefferson,Moreton
 Thomas Jefferson,R. Johnson
@@ -6176,7 +5983,6 @@ J. W. Randolph,P. Powel
 J. W. Randolph,Lyceums
 J. W. Randolph,H.H. Garnet
 J. W. Randolph,Robert Johnson
-J. W. Randolph,P. M.
 J. W. Randolph,H. H.
 J. W. Randolph,Moreton
 J. W. Randolph,R. Johnson
@@ -6263,7 +6069,6 @@ John,P. Powel
 John,Lyceums
 John,H.H. Garnet
 John,Robert Johnson
-John,P. M.
 John,H. H.
 John,Moreton
 John,R. Johnson
@@ -6349,7 +6154,6 @@ H. Smothers,P. Powel
 H. Smothers,Lyceums
 H. Smothers,H.H. Garnet
 H. Smothers,Robert Johnson
-H. Smothers,P. M.
 H. Smothers,H. H.
 H. Smothers,Moreton
 H. Smothers,R. Johnson
@@ -6434,7 +6238,6 @@ Cato Jackson,P. Powel
 Cato Jackson,Lyceums
 Cato Jackson,H.H. Garnet
 Cato Jackson,Robert Johnson
-Cato Jackson,P. M.
 Cato Jackson,H. H.
 Cato Jackson,Moreton
 Cato Jackson,R. Johnson
@@ -6518,7 +6321,6 @@ Austin White,P. Powel
 Austin White,Lyceums
 Austin White,H.H. Garnet
 Austin White,Robert Johnson
-Austin White,P. M.
 Austin White,H. H.
 Austin White,Moreton
 Austin White,R. Johnson
@@ -6601,7 +6403,6 @@ Augustus Howard,P. Powel
 Augustus Howard,Lyceums
 Augustus Howard,H.H. Garnet
 Augustus Howard,Robert Johnson
-Augustus Howard,P. M.
 Augustus Howard,H. H.
 Augustus Howard,Moreton
 Augustus Howard,R. Johnson
@@ -6683,7 +6484,6 @@ John Landon,P. Powel
 John Landon,Lyceums
 John Landon,H.H. Garnet
 John Landon,Robert Johnson
-John Landon,P. M.
 John Landon,H. H.
 John Landon,Moreton
 John Landon,R. Johnson
@@ -6764,7 +6564,6 @@ George Mott,P. Powel
 George Mott,Lyceums
 George Mott,H.H. Garnet
 George Mott,Robert Johnson
-George Mott,P. M.
 George Mott,H. H.
 George Mott,Moreton
 George Mott,R. Johnson
@@ -6844,7 +6643,6 @@ Thomas Johnson,P. Powel
 Thomas Johnson,Lyceums
 Thomas Johnson,H.H. Garnet
 Thomas Johnson,Robert Johnson
-Thomas Johnson,P. M.
 Thomas Johnson,H. H.
 Thomas Johnson,Moreton
 Thomas Johnson,R. Johnson
@@ -6923,7 +6721,6 @@ Thomas Thompson,P. Powel
 Thomas Thompson,Lyceums
 Thomas Thompson,H.H. Garnet
 Thomas Thompson,Robert Johnson
-Thomas Thompson,P. M.
 Thomas Thompson,H. H.
 Thomas Thompson,Moreton
 Thomas Thompson,R. Johnson
@@ -7001,7 +6798,6 @@ R. Munay,P. Powel
 R. Munay,Lyceums
 R. Munay,H.H. Garnet
 R. Munay,Robert Johnson
-R. Munay,P. M.
 R. Munay,H. H.
 R. Munay,Moreton
 R. Munay,R. Johnson
@@ -7078,7 +6874,6 @@ Tobias Harklis,P. Powel
 Tobias Harklis,Lyceums
 Tobias Harklis,H.H. Garnet
 Tobias Harklis,Robert Johnson
-Tobias Harklis,P. M.
 Tobias Harklis,H. H.
 Tobias Harklis,Moreton
 Tobias Harklis,R. Johnson
@@ -7154,7 +6949,6 @@ Thomas Jackson,P. Powel
 Thomas Jackson,Lyceums
 Thomas Jackson,H.H. Garnet
 Thomas Jackson,Robert Johnson
-Thomas Jackson,P. M.
 Thomas Jackson,H. H.
 Thomas Jackson,Moreton
 Thomas Jackson,R. Johnson
@@ -7229,7 +7023,6 @@ John Jackson,P. Powel
 John Jackson,Lyceums
 John Jackson,H.H. Garnet
 John Jackson,Robert Johnson
-John Jackson,P. M.
 John Jackson,H. H.
 John Jackson,Moreton
 John Jackson,R. Johnson
@@ -7303,7 +7096,6 @@ James Jackson,P. Powel
 James Jackson,Lyceums
 James Jackson,H.H. Garnet
 James Jackson,Robert Johnson
-James Jackson,P. M.
 James Jackson,H. H.
 James Jackson,Moreton
 James Jackson,R. Johnson
@@ -7376,7 +7168,6 @@ Moses Wilcox,P. Powel
 Moses Wilcox,Lyceums
 Moses Wilcox,H.H. Garnet
 Moses Wilcox,Robert Johnson
-Moses Wilcox,P. M.
 Moses Wilcox,H. H.
 Moses Wilcox,Moreton
 Moses Wilcox,R. Johnson
@@ -7448,7 +7239,6 @@ Peter Johnson,P. Powel
 Peter Johnson,Lyceums
 Peter Johnson,H.H. Garnet
 Peter Johnson,Robert Johnson
-Peter Johnson,P. M.
 Peter Johnson,H. H.
 Peter Johnson,Moreton
 Peter Johnson,R. Johnson
@@ -7519,7 +7309,6 @@ Henry Thompson,P. Powel
 Henry Thompson,Lyceums
 Henry Thompson,H.H. Garnet
 Henry Thompson,Robert Johnson
-Henry Thompson,P. M.
 Henry Thompson,H. H.
 Henry Thompson,Moreton
 Henry Thompson,R. Johnson
@@ -7589,7 +7378,6 @@ Henry Jackson,P. Powel
 Henry Jackson,Lyceums
 Henry Jackson,H.H. Garnet
 Henry Jackson,Robert Johnson
-Henry Jackson,P. M.
 Henry Jackson,H. H.
 Henry Jackson,Moreton
 Henry Jackson,R. Johnson
@@ -7658,7 +7446,6 @@ Peter Wandell,P. Powel
 Peter Wandell,Lyceums
 Peter Wandell,H.H. Garnet
 Peter Wandell,Robert Johnson
-Peter Wandell,P. M.
 Peter Wandell,H. H.
 Peter Wandell,Moreton
 Peter Wandell,R. Johnson
@@ -7726,7 +7513,6 @@ Albert Brown,P. Powel
 Albert Brown,Lyceums
 Albert Brown,H.H. Garnet
 Albert Brown,Robert Johnson
-Albert Brown,P. M.
 Albert Brown,H. H.
 Albert Brown,Moreton
 Albert Brown,R. Johnson
@@ -7793,7 +7579,6 @@ Peter Ofdyke,P. Powel
 Peter Ofdyke,Lyceums
 Peter Ofdyke,H.H. Garnet
 Peter Ofdyke,Robert Johnson
-Peter Ofdyke,P. M.
 Peter Ofdyke,H. H.
 Peter Ofdyke,Moreton
 Peter Ofdyke,R. Johnson
@@ -7859,7 +7644,6 @@ John T. Simpson,P. Powel
 John T. Simpson,Lyceums
 John T. Simpson,H.H. Garnet
 John T. Simpson,Robert Johnson
-John T. Simpson,P. M.
 John T. Simpson,H. H.
 John T. Simpson,Moreton
 John T. Simpson,R. Johnson
@@ -7924,7 +7708,6 @@ John Dunbar,P. Powel
 John Dunbar,Lyceums
 John Dunbar,H.H. Garnet
 John Dunbar,Robert Johnson
-John Dunbar,P. M.
 John Dunbar,H. H.
 John Dunbar,Moreton
 John Dunbar,R. Johnson
@@ -7988,7 +7771,6 @@ Garret Harris,P. Powel
 Garret Harris,Lyceums
 Garret Harris,H.H. Garnet
 Garret Harris,Robert Johnson
-Garret Harris,P. M.
 Garret Harris,H. H.
 Garret Harris,Moreton
 Garret Harris,R. Johnson
@@ -8051,7 +7833,6 @@ Henry Harris,P. Powel
 Henry Harris,Lyceums
 Henry Harris,H.H. Garnet
 Henry Harris,Robert Johnson
-Henry Harris,P. M.
 Henry Harris,H. H.
 Henry Harris,Moreton
 Henry Harris,R. Johnson
@@ -8113,7 +7894,6 @@ Richard Sampson,P. Powel
 Richard Sampson,Lyceums
 Richard Sampson,H.H. Garnet
 Richard Sampson,Robert Johnson
-Richard Sampson,P. M.
 Richard Sampson,H. H.
 Richard Sampson,Moreton
 Richard Sampson,R. Johnson
@@ -8174,7 +7954,6 @@ N. Caesar,P. Powel
 N. Caesar,Lyceums
 N. Caesar,H.H. Garnet
 N. Caesar,Robert Johnson
-N. Caesar,P. M.
 N. Caesar,H. H.
 N. Caesar,Moreton
 N. Caesar,R. Johnson
@@ -8234,7 +8013,6 @@ N. Hardy,P. Powel
 N. Hardy,Lyceums
 N. Hardy,H.H. Garnet
 N. Hardy,Robert Johnson
-N. Hardy,P. M.
 N. Hardy,H. H.
 N. Hardy,Moreton
 N. Hardy,R. Johnson
@@ -8293,7 +8071,6 @@ Thomas Gray,P. Powel
 Thomas Gray,Lyceums
 Thomas Gray,H.H. Garnet
 Thomas Gray,Robert Johnson
-Thomas Gray,P. M.
 Thomas Gray,H. H.
 Thomas Gray,Moreton
 Thomas Gray,R. Johnson
@@ -8351,7 +8128,6 @@ F. Lattin,P. Powel
 F. Lattin,Lyceums
 F. Lattin,H.H. Garnet
 F. Lattin,Robert Johnson
-F. Lattin,P. M.
 F. Lattin,H. H.
 F. Lattin,Moreton
 F. Lattin,R. Johnson
@@ -8408,7 +8184,6 @@ Francis Dana,P. Powel
 Francis Dana,Lyceums
 Francis Dana,H.H. Garnet
 Francis Dana,Robert Johnson
-Francis Dana,P. M.
 Francis Dana,H. H.
 Francis Dana,Moreton
 Francis Dana,R. Johnson
@@ -8464,7 +8239,6 @@ Henry L. Simpson,P. Powel
 Henry L. Simpson,Lyceums
 Henry L. Simpson,H.H. Garnet
 Henry L. Simpson,Robert Johnson
-Henry L. Simpson,P. M.
 Henry L. Simpson,H. H.
 Henry L. Simpson,Moreton
 Henry L. Simpson,R. Johnson
@@ -8519,7 +8293,6 @@ H. M. I. Rogers,P. Powel
 H. M. I. Rogers,Lyceums
 H. M. I. Rogers,H.H. Garnet
 H. M. I. Rogers,Robert Johnson
-H. M. I. Rogers,P. M.
 H. M. I. Rogers,H. H.
 H. M. I. Rogers,Moreton
 H. M. I. Rogers,R. Johnson
@@ -8573,7 +8346,6 @@ Daniel A. Oliver,P. Powel
 Daniel A. Oliver,Lyceums
 Daniel A. Oliver,H.H. Garnet
 Daniel A. Oliver,Robert Johnson
-Daniel A. Oliver,P. M.
 Daniel A. Oliver,H. H.
 Daniel A. Oliver,Moreton
 Daniel A. Oliver,R. Johnson
@@ -8626,7 +8398,6 @@ Francis Whitbeck,P. Powel
 Francis Whitbeck,Lyceums
 Francis Whitbeck,H.H. Garnet
 Francis Whitbeck,Robert Johnson
-Francis Whitbeck,P. M.
 Francis Whitbeck,H. H.
 Francis Whitbeck,Moreton
 Francis Whitbeck,R. Johnson
@@ -8678,7 +8449,6 @@ Francis Cobus,P. Powel
 Francis Cobus,Lyceums
 Francis Cobus,H.H. Garnet
 Francis Cobus,Robert Johnson
-Francis Cobus,P. M.
 Francis Cobus,H. H.
 Francis Cobus,Moreton
 Francis Cobus,R. Johnson
@@ -8729,7 +8499,6 @@ Alexander Welch,P. Powel
 Alexander Welch,Lyceums
 Alexander Welch,H.H. Garnet
 Alexander Welch,Robert Johnson
-Alexander Welch,P. M.
 Alexander Welch,H. H.
 Alexander Welch,Moreton
 Alexander Welch,R. Johnson
@@ -8779,7 +8548,6 @@ A. James,P. Powel
 A. James,Lyceums
 A. James,H.H. Garnet
 A. James,Robert Johnson
-A. James,P. M.
 A. James,H. H.
 A. James,Moreton
 A. James,R. Johnson
@@ -8828,7 +8596,6 @@ Isaac Hornbeck,P. Powel
 Isaac Hornbeck,Lyceums
 Isaac Hornbeck,H.H. Garnet
 Isaac Hornbeck,Robert Johnson
-Isaac Hornbeck,P. M.
 Isaac Hornbeck,H. H.
 Isaac Hornbeck,Moreton
 Isaac Hornbeck,R. Johnson
@@ -8876,7 +8643,6 @@ John Tribble,P. Powel
 John Tribble,Lyceums
 John Tribble,H.H. Garnet
 John Tribble,Robert Johnson
-John Tribble,P. M.
 John Tribble,H. H.
 John Tribble,Moreton
 John Tribble,R. Johnson
@@ -8923,7 +8689,6 @@ Caroline Jones,P. Powel
 Caroline Jones,Lyceums
 Caroline Jones,H.H. Garnet
 Caroline Jones,Robert Johnson
-Caroline Jones,P. M.
 Caroline Jones,H. H.
 Caroline Jones,Moreton
 Caroline Jones,R. Johnson
@@ -8969,7 +8734,6 @@ Constantin,P. Powel
 Constantin,Lyceums
 Constantin,H.H. Garnet
 Constantin,Robert Johnson
-Constantin,P. M.
 Constantin,H. H.
 Constantin,Moreton
 Constantin,R. Johnson
@@ -9014,7 +8778,6 @@ Peter P. Feler,P. Powel
 Peter P. Feler,Lyceums
 Peter P. Feler,H.H. Garnet
 Peter P. Feler,Robert Johnson
-Peter P. Feler,P. M.
 Peter P. Feler,H. H.
 Peter P. Feler,Moreton
 Peter P. Feler,R. Johnson
@@ -9058,7 +8821,6 @@ Samuel Serrington,P. Powel
 Samuel Serrington,Lyceums
 Samuel Serrington,H.H. Garnet
 Samuel Serrington,Robert Johnson
-Samuel Serrington,P. M.
 Samuel Serrington,H. H.
 Samuel Serrington,Moreton
 Samuel Serrington,R. Johnson
@@ -9101,7 +8863,6 @@ Robert H. Johnson,P. Powel
 Robert H. Johnson,Lyceums
 Robert H. Johnson,H.H. Garnet
 Robert H. Johnson,Robert Johnson
-Robert H. Johnson,P. M.
 Robert H. Johnson,H. H.
 Robert H. Johnson,Moreton
 Robert H. Johnson,R. Johnson
@@ -9143,7 +8904,6 @@ Simon Jackson,P. Powel
 Simon Jackson,Lyceums
 Simon Jackson,H.H. Garnet
 Simon Jackson,Robert Johnson
-Simon Jackson,P. M.
 Simon Jackson,H. H.
 Simon Jackson,Moreton
 Simon Jackson,R. Johnson
@@ -9184,7 +8944,6 @@ William Jackson,P. Powel
 William Jackson,Lyceums
 William Jackson,H.H. Garnet
 William Jackson,Robert Johnson
-William Jackson,P. M.
 William Jackson,H. H.
 William Jackson,Moreton
 William Jackson,R. Johnson
@@ -9224,7 +8983,6 @@ Nicholas Hemous,P. Powel
 Nicholas Hemous,Lyceums
 Nicholas Hemous,H.H. Garnet
 Nicholas Hemous,Robert Johnson
-Nicholas Hemous,P. M.
 Nicholas Hemous,H. H.
 Nicholas Hemous,Moreton
 Nicholas Hemous,R. Johnson
@@ -9263,7 +9021,6 @@ Theodore S. Wright,P. Powel
 Theodore S. Wright,Lyceums
 Theodore S. Wright,H.H. Garnet
 Theodore S. Wright,Robert Johnson
-Theodore S. Wright,P. M.
 Theodore S. Wright,H. H.
 Theodore S. Wright,Moreton
 Theodore S. Wright,R. Johnson
@@ -9301,7 +9058,6 @@ Charles B. Ray,P. Powel
 Charles B. Ray,Lyceums
 Charles B. Ray,H.H. Garnet
 Charles B. Ray,Robert Johnson
-Charles B. Ray,P. M.
 Charles B. Ray,H. H.
 Charles B. Ray,Moreton
 Charles B. Ray,R. Johnson
@@ -9338,7 +9094,6 @@ Ray,P. Powel
 Ray,Lyceums
 Ray,H.H. Garnet
 Ray,Robert Johnson
-Ray,P. M.
 Ray,H. H.
 Ray,Moreton
 Ray,R. Johnson
@@ -9374,7 +9129,6 @@ Powel,P. Powel
 Powel,Lyceums
 Powel,H.H. Garnet
 Powel,Robert Johnson
-Powel,P. M.
 Powel,H. H.
 Powel,Moreton
 Powel,R. Johnson
@@ -9409,7 +9163,6 @@ R. Thompson,P. Powel
 R. Thompson,Lyceums
 R. Thompson,H.H. Garnet
 R. Thompson,Robert Johnson
-R. Thompson,P. M.
 R. Thompson,H. H.
 R. Thompson,Moreton
 R. Thompson,R. Johnson
@@ -9443,7 +9196,6 @@ Serrington,P. Powel
 Serrington,Lyceums
 Serrington,H.H. Garnet
 Serrington,Robert Johnson
-Serrington,P. M.
 Serrington,H. H.
 Serrington,Moreton
 Serrington,R. Johnson
@@ -9476,7 +9228,6 @@ Wm. P. Johnson,P. Powel
 Wm. P. Johnson,Lyceums
 Wm. P. Johnson,H.H. Garnet
 Wm. P. Johnson,Robert Johnson
-Wm. P. Johnson,P. M.
 Wm. P. Johnson,H. H.
 Wm. P. Johnson,Moreton
 Wm. P. Johnson,R. Johnson
@@ -9508,7 +9259,6 @@ James Mccune,P. Powel
 James Mccune,Lyceums
 James Mccune,H.H. Garnet
 James Mccune,Robert Johnson
-James Mccune,P. M.
 James Mccune,H. H.
 James Mccune,Moreton
 James Mccune,R. Johnson
@@ -9539,7 +9289,6 @@ Wm. P. Powell,P. Powel
 Wm. P. Powell,Lyceums
 Wm. P. Powell,H.H. Garnet
 Wm. P. Powell,Robert Johnson
-Wm. P. Powell,P. M.
 Wm. P. Powell,H. H.
 Wm. P. Powell,Moreton
 Wm. P. Powell,R. Johnson
@@ -9569,7 +9318,6 @@ Reuben Murray,P. Powel
 Reuben Murray,Lyceums
 Reuben Murray,H.H. Garnet
 Reuben Murray,Robert Johnson
-Reuben Murray,P. M.
 Reuben Murray,H. H.
 Reuben Murray,Moreton
 Reuben Murray,R. Johnson
@@ -9598,7 +9346,6 @@ Francis Simpson,P. Powel
 Francis Simpson,Lyceums
 Francis Simpson,H.H. Garnet
 Francis Simpson,Robert Johnson
-Francis Simpson,P. M.
 Francis Simpson,H. H.
 Francis Simpson,Moreton
 Francis Simpson,R. Johnson
@@ -9626,7 +9373,6 @@ F. Thompson,P. Powel
 F. Thompson,Lyceums
 F. Thompson,H.H. Garnet
 F. Thompson,Robert Johnson
-F. Thompson,P. M.
 F. Thompson,H. H.
 F. Thompson,Moreton
 F. Thompson,R. Johnson
@@ -9653,7 +9399,6 @@ G.B. Moreton,P. Powel
 G.B. Moreton,Lyceums
 G.B. Moreton,H.H. Garnet
 G.B. Moreton,Robert Johnson
-G.B. Moreton,P. M.
 G.B. Moreton,H. H.
 G.B. Moreton,Moreton
 G.B. Moreton,R. Johnson
@@ -9679,7 +9424,6 @@ E. George,P. Powel
 E. George,Lyceums
 E. George,H.H. Garnet
 E. George,Robert Johnson
-E. George,P. M.
 E. George,H. H.
 E. George,Moreton
 E. George,R. Johnson
@@ -9704,7 +9448,6 @@ Wm. Begget,P. Powel
 Wm. Begget,Lyceums
 Wm. Begget,H.H. Garnet
 Wm. Begget,Robert Johnson
-Wm. Begget,P. M.
 Wm. Begget,H. H.
 Wm. Begget,Moreton
 Wm. Begget,R. Johnson
@@ -9728,7 +9471,6 @@ W. Gordon,P. Powel
 W. Gordon,Lyceums
 W. Gordon,H.H. Garnet
 W. Gordon,Robert Johnson
-W. Gordon,P. M.
 W. Gordon,H. H.
 W. Gordon,Moreton
 W. Gordon,R. Johnson
@@ -9751,7 +9493,6 @@ R. Livingston,P. Powel
 R. Livingston,Lyceums
 R. Livingston,H.H. Garnet
 R. Livingston,Robert Johnson
-R. Livingston,P. M.
 R. Livingston,H. H.
 R. Livingston,Moreton
 R. Livingston,R. Johnson
@@ -9773,7 +9514,6 @@ L.D. Beckett,P. Powel
 L.D. Beckett,Lyceums
 L.D. Beckett,H.H. Garnet
 L.D. Beckett,Robert Johnson
-L.D. Beckett,P. M.
 L.D. Beckett,H. H.
 L.D. Beckett,Moreton
 L.D. Beckett,R. Johnson
@@ -9794,7 +9534,6 @@ Carrasol,P. Powel
 Carrasol,Lyceums
 Carrasol,H.H. Garnet
 Carrasol,Robert Johnson
-Carrasol,P. M.
 Carrasol,H. H.
 Carrasol,Moreton
 Carrasol,R. Johnson
@@ -9814,7 +9553,6 @@ John H. Smothers,P. Powel
 John H. Smothers,Lyceums
 John H. Smothers,H.H. Garnet
 John H. Smothers,Robert Johnson
-John H. Smothers,P. M.
 John H. Smothers,H. H.
 John H. Smothers,Moreton
 John H. Smothers,R. Johnson
@@ -9833,7 +9571,6 @@ Thomas Whitbeck,P. Powel
 Thomas Whitbeck,Lyceums
 Thomas Whitbeck,H.H. Garnet
 Thomas Whitbeck,Robert Johnson
-Thomas Whitbeck,P. M.
 Thomas Whitbeck,H. H.
 Thomas Whitbeck,Moreton
 Thomas Whitbeck,R. Johnson
@@ -9851,7 +9588,6 @@ Samuel Serringson,P. Powel
 Samuel Serringson,Lyceums
 Samuel Serringson,H.H. Garnet
 Samuel Serringson,Robert Johnson
-Samuel Serringson,P. M.
 Samuel Serringson,H. H.
 Samuel Serringson,Moreton
 Samuel Serringson,R. Johnson
@@ -9868,7 +9604,6 @@ C. F. Selden,P. Powel
 C. F. Selden,Lyceums
 C. F. Selden,H.H. Garnet
 C. F. Selden,Robert Johnson
-C. F. Selden,P. M.
 C. F. Selden,H. H.
 C. F. Selden,Moreton
 C. F. Selden,R. Johnson
@@ -9884,7 +9619,6 @@ H.J.M. Rogers,P. Powel
 H.J.M. Rogers,Lyceums
 H.J.M. Rogers,H.H. Garnet
 H.J.M. Rogers,Robert Johnson
-H.J.M. Rogers,P. M.
 H.J.M. Rogers,H. H.
 H.J.M. Rogers,Moreton
 H.J.M. Rogers,R. Johnson
@@ -9899,7 +9633,6 @@ R.P.G. Wright,P. Powel
 R.P.G. Wright,Lyceums
 R.P.G. Wright,H.H. Garnet
 R.P.G. Wright,Robert Johnson
-R.P.G. Wright,P. M.
 R.P.G. Wright,H. H.
 R.P.G. Wright,Moreton
 R.P.G. Wright,R. Johnson
@@ -9913,7 +9646,6 @@ P. Johnson,P. Powel
 P. Johnson,Lyceums
 P. Johnson,H.H. Garnet
 P. Johnson,Robert Johnson
-P. Johnson,P. M.
 P. Johnson,H. H.
 P. Johnson,Moreton
 P. Johnson,R. Johnson
@@ -9926,7 +9658,6 @@ W. P. Powell,P. Powel
 W. P. Powell,Lyceums
 W. P. Powell,H.H. Garnet
 W. P. Powell,Robert Johnson
-W. P. Powell,P. M.
 W. P. Powell,H. H.
 W. P. Powell,Moreton
 W. P. Powell,R. Johnson
@@ -9938,7 +9669,6 @@ P. Powell,P. Powel
 P. Powell,Lyceums
 P. Powell,H.H. Garnet
 P. Powell,Robert Johnson
-P. Powell,P. M.
 P. Powell,H. H.
 P. Powell,Moreton
 P. Powell,R. Johnson
@@ -9949,7 +9679,6 @@ Messrs,P. Powel
 Messrs,Lyceums
 Messrs,H.H. Garnet
 Messrs,Robert Johnson
-Messrs,P. M.
 Messrs,H. H.
 Messrs,Moreton
 Messrs,R. Johnson
@@ -9959,7 +9688,6 @@ J. Mccune Smith,P. Powel
 J. Mccune Smith,Lyceums
 J. Mccune Smith,H.H. Garnet
 J. Mccune Smith,Robert Johnson
-J. Mccune Smith,P. M.
 J. Mccune Smith,H. H.
 J. Mccune Smith,Moreton
 J. Mccune Smith,R. Johnson
@@ -9968,7 +9696,6 @@ J. Mccune Smith,Theodore Sedgwick Wright
 P. Powel,Lyceums
 P. Powel,H.H. Garnet
 P. Powel,Robert Johnson
-P. Powel,P. M.
 P. Powel,H. H.
 P. Powel,Moreton
 P. Powel,R. Johnson
@@ -9976,30 +9703,22 @@ P. Powel,Theodore St. Wright
 P. Powel,Theodore Sedgwick Wright
 Lyceums,H.H. Garnet
 Lyceums,Robert Johnson
-Lyceums,P. M.
 Lyceums,H. H.
 Lyceums,Moreton
 Lyceums,R. Johnson
 Lyceums,Theodore St. Wright
 Lyceums,Theodore Sedgwick Wright
 H.H. Garnet,Robert Johnson
-H.H. Garnet,P. M.
 H.H. Garnet,H. H.
 H.H. Garnet,Moreton
 H.H. Garnet,R. Johnson
 H.H. Garnet,Theodore St. Wright
 H.H. Garnet,Theodore Sedgwick Wright
-Robert Johnson,P. M.
 Robert Johnson,H. H.
 Robert Johnson,Moreton
 Robert Johnson,R. Johnson
 Robert Johnson,Theodore St. Wright
 Robert Johnson,Theodore Sedgwick Wright
-P. M.,H. H.
-P. M.,Moreton
-P. M.,R. Johnson
-P. M.,Theodore St. Wright
-P. M.,Theodore Sedgwick Wright
 H. H.,Moreton
 H. H.,R. Johnson
 H. H.,Theodore St. Wright

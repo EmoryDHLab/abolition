@@ -1,4 +1,4 @@
-name1,name2
+source,target
 J.S. Rock,John S. Rock
 J.S. Rock,George L. Ruffin
 J.S. Rock,Henry Highland Garnet
@@ -218,8 +218,6 @@ J.S. Rock,N. Y.
 J.S. Rock,J. P. Sampson
 J.S. Rock,J. M. Langston
 J.S. Rock,Turner
-J.S. Rock,A. M.
-J.S. Rock,P. M.
 J.S. Rock,W. P. Newman
 J.S. Rock,Weaver
 J.S. Rock,William Howard Day
@@ -273,7 +271,7 @@ J.S. Rock,Bill
 J.S. Rock,Taney
 J.S. Rock,William H. Seward
 J.S. Rock,Jefferson Davis
-J.S. Rock,Hughes
+J.S. Rock,Bishop Hughes
 J.S. Rock,Seymour
 J.S. Rock,Grant
 J.S. Rock,Sherman
@@ -495,8 +493,6 @@ John S. Rock,N. Y.
 John S. Rock,J. P. Sampson
 John S. Rock,J. M. Langston
 John S. Rock,Turner
-John S. Rock,A. M.
-John S. Rock,P. M.
 John S. Rock,W. P. Newman
 John S. Rock,Weaver
 John S. Rock,William Howard Day
@@ -550,7 +546,7 @@ John S. Rock,Bill
 John S. Rock,Taney
 John S. Rock,William H. Seward
 John S. Rock,Jefferson Davis
-John S. Rock,Hughes
+John S. Rock,Bishop Hughes
 John S. Rock,Seymour
 John S. Rock,Grant
 John S. Rock,Sherman
@@ -771,8 +767,6 @@ George L. Ruffin,N. Y.
 George L. Ruffin,J. P. Sampson
 George L. Ruffin,J. M. Langston
 George L. Ruffin,Turner
-George L. Ruffin,A. M.
-George L. Ruffin,P. M.
 George L. Ruffin,W. P. Newman
 George L. Ruffin,Weaver
 George L. Ruffin,William Howard Day
@@ -826,7 +820,7 @@ George L. Ruffin,Bill
 George L. Ruffin,Taney
 George L. Ruffin,William H. Seward
 George L. Ruffin,Jefferson Davis
-George L. Ruffin,Hughes
+George L. Ruffin,Bishop Hughes
 George L. Ruffin,Seymour
 George L. Ruffin,Grant
 George L. Ruffin,Sherman
@@ -1046,8 +1040,6 @@ Henry Highland Garnet,N. Y.
 Henry Highland Garnet,J. P. Sampson
 Henry Highland Garnet,J. M. Langston
 Henry Highland Garnet,Turner
-Henry Highland Garnet,A. M.
-Henry Highland Garnet,P. M.
 Henry Highland Garnet,W. P. Newman
 Henry Highland Garnet,Weaver
 Henry Highland Garnet,William Howard Day
@@ -1101,7 +1093,7 @@ Henry Highland Garnet,Bill
 Henry Highland Garnet,Taney
 Henry Highland Garnet,William H. Seward
 Henry Highland Garnet,Jefferson Davis
-Henry Highland Garnet,Hughes
+Henry Highland Garnet,Bishop Hughes
 Henry Highland Garnet,Seymour
 Henry Highland Garnet,Grant
 Henry Highland Garnet,Sherman
@@ -1320,8 +1312,6 @@ John M. Langston,N. Y.
 John M. Langston,J. P. Sampson
 John M. Langston,J. M. Langston
 John M. Langston,Turner
-John M. Langston,A. M.
-John M. Langston,P. M.
 John M. Langston,W. P. Newman
 John M. Langston,Weaver
 John M. Langston,William Howard Day
@@ -1375,7 +1365,7 @@ John M. Langston,Bill
 John M. Langston,Taney
 John M. Langston,William H. Seward
 John M. Langston,Jefferson Davis
-John M. Langston,Hughes
+John M. Langston,Bishop Hughes
 John M. Langston,Seymour
 John M. Langston,Grant
 John M. Langston,Sherman
@@ -1593,8 +1583,6 @@ Howard Day,N. Y.
 Howard Day,J. P. Sampson
 Howard Day,J. M. Langston
 Howard Day,Turner
-Howard Day,A. M.
-Howard Day,P. M.
 Howard Day,W. P. Newman
 Howard Day,Weaver
 Howard Day,William Howard Day
@@ -1648,7 +1636,7 @@ Howard Day,Bill
 Howard Day,Taney
 Howard Day,William H. Seward
 Howard Day,Jefferson Davis
-Howard Day,Hughes
+Howard Day,Bishop Hughes
 Howard Day,Seymour
 Howard Day,Grant
 Howard Day,Sherman
@@ -1865,8 +1853,6 @@ George R. Taylor,N. Y.
 George R. Taylor,J. P. Sampson
 George R. Taylor,J. M. Langston
 George R. Taylor,Turner
-George R. Taylor,A. M.
-George R. Taylor,P. M.
 George R. Taylor,W. P. Newman
 George R. Taylor,Weaver
 George R. Taylor,William Howard Day
@@ -1920,7 +1906,7 @@ George R. Taylor,Bill
 George R. Taylor,Taney
 George R. Taylor,William H. Seward
 George R. Taylor,Jefferson Davis
-George R. Taylor,Hughes
+George R. Taylor,Bishop Hughes
 George R. Taylor,Seymour
 George R. Taylor,Grant
 George R. Taylor,Sherman
@@ -2136,8 +2122,6 @@ Garnet,N. Y.
 Garnet,J. P. Sampson
 Garnet,J. M. Langston
 Garnet,Turner
-Garnet,A. M.
-Garnet,P. M.
 Garnet,W. P. Newman
 Garnet,Weaver
 Garnet,William Howard Day
@@ -2191,7 +2175,7 @@ Garnet,Bill
 Garnet,Taney
 Garnet,William H. Seward
 Garnet,Jefferson Davis
-Garnet,Hughes
+Garnet,Bishop Hughes
 Garnet,Seymour
 Garnet,Grant
 Garnet,Sherman
@@ -2406,8 +2390,6 @@ Frederick Douglass,N. Y.
 Frederick Douglass,J. P. Sampson
 Frederick Douglass,J. M. Langston
 Frederick Douglass,Turner
-Frederick Douglass,A. M.
-Frederick Douglass,P. M.
 Frederick Douglass,W. P. Newman
 Frederick Douglass,Weaver
 Frederick Douglass,William Howard Day
@@ -2461,7 +2443,7 @@ Frederick Douglass,Bill
 Frederick Douglass,Taney
 Frederick Douglass,William H. Seward
 Frederick Douglass,Jefferson Davis
-Frederick Douglass,Hughes
+Frederick Douglass,Bishop Hughes
 Frederick Douglass,Seymour
 Frederick Douglass,Grant
 Frederick Douglass,Sherman
@@ -2675,8 +2657,6 @@ Peter H. Clark,N. Y.
 Peter H. Clark,J. P. Sampson
 Peter H. Clark,J. M. Langston
 Peter H. Clark,Turner
-Peter H. Clark,A. M.
-Peter H. Clark,P. M.
 Peter H. Clark,W. P. Newman
 Peter H. Clark,Weaver
 Peter H. Clark,William Howard Day
@@ -2730,7 +2710,7 @@ Peter H. Clark,Bill
 Peter H. Clark,Taney
 Peter H. Clark,William H. Seward
 Peter H. Clark,Jefferson Davis
-Peter H. Clark,Hughes
+Peter H. Clark,Bishop Hughes
 Peter H. Clark,Seymour
 Peter H. Clark,Grant
 Peter H. Clark,Sherman
@@ -2943,8 +2923,6 @@ William W. Brown,N. Y.
 William W. Brown,J. P. Sampson
 William W. Brown,J. M. Langston
 William W. Brown,Turner
-William W. Brown,A. M.
-William W. Brown,P. M.
 William W. Brown,W. P. Newman
 William W. Brown,Weaver
 William W. Brown,William Howard Day
@@ -2998,7 +2976,7 @@ William W. Brown,Bill
 William W. Brown,Taney
 William W. Brown,William H. Seward
 William W. Brown,Jefferson Davis
-William W. Brown,Hughes
+William W. Brown,Bishop Hughes
 William W. Brown,Seymour
 William W. Brown,Grant
 William W. Brown,Sherman
@@ -3210,8 +3188,6 @@ Stephen Myers,N. Y.
 Stephen Myers,J. P. Sampson
 Stephen Myers,J. M. Langston
 Stephen Myers,Turner
-Stephen Myers,A. M.
-Stephen Myers,P. M.
 Stephen Myers,W. P. Newman
 Stephen Myers,Weaver
 Stephen Myers,William Howard Day
@@ -3265,7 +3241,7 @@ Stephen Myers,Bill
 Stephen Myers,Taney
 Stephen Myers,William H. Seward
 Stephen Myers,Jefferson Davis
-Stephen Myers,Hughes
+Stephen Myers,Bishop Hughes
 Stephen Myers,Seymour
 Stephen Myers,Grant
 Stephen Myers,Sherman
@@ -3476,8 +3452,6 @@ Elisha Weaver,N. Y.
 Elisha Weaver,J. P. Sampson
 Elisha Weaver,J. M. Langston
 Elisha Weaver,Turner
-Elisha Weaver,A. M.
-Elisha Weaver,P. M.
 Elisha Weaver,W. P. Newman
 Elisha Weaver,Weaver
 Elisha Weaver,William Howard Day
@@ -3531,7 +3505,7 @@ Elisha Weaver,Bill
 Elisha Weaver,Taney
 Elisha Weaver,William H. Seward
 Elisha Weaver,Jefferson Davis
-Elisha Weaver,Hughes
+Elisha Weaver,Bishop Hughes
 Elisha Weaver,Seymour
 Elisha Weaver,Grant
 Elisha Weaver,Sherman
@@ -3741,8 +3715,6 @@ Samuel J. Murray,N. Y.
 Samuel J. Murray,J. P. Sampson
 Samuel J. Murray,J. M. Langston
 Samuel J. Murray,Turner
-Samuel J. Murray,A. M.
-Samuel J. Murray,P. M.
 Samuel J. Murray,W. P. Newman
 Samuel J. Murray,Weaver
 Samuel J. Murray,William Howard Day
@@ -3796,7 +3768,7 @@ Samuel J. Murray,Bill
 Samuel J. Murray,Taney
 Samuel J. Murray,William H. Seward
 Samuel J. Murray,Jefferson Davis
-Samuel J. Murray,Hughes
+Samuel J. Murray,Bishop Hughes
 Samuel J. Murray,Seymour
 Samuel J. Murray,Grant
 Samuel J. Murray,Sherman
@@ -4005,8 +3977,6 @@ William W. Ruby,N. Y.
 William W. Ruby,J. P. Sampson
 William W. Ruby,J. M. Langston
 William W. Ruby,Turner
-William W. Ruby,A. M.
-William W. Ruby,P. M.
 William W. Ruby,W. P. Newman
 William W. Ruby,Weaver
 William W. Ruby,William Howard Day
@@ -4060,7 +4030,7 @@ William W. Ruby,Bill
 William W. Ruby,Taney
 William W. Ruby,William H. Seward
 William W. Ruby,Jefferson Davis
-William W. Ruby,Hughes
+William W. Ruby,Bishop Hughes
 William W. Ruby,Seymour
 William W. Ruby,Grant
 William W. Ruby,Sherman
@@ -4268,8 +4238,6 @@ James F. Murray,N. Y.
 James F. Murray,J. P. Sampson
 James F. Murray,J. M. Langston
 James F. Murray,Turner
-James F. Murray,A. M.
-James F. Murray,P. M.
 James F. Murray,W. P. Newman
 James F. Murray,Weaver
 James F. Murray,William Howard Day
@@ -4323,7 +4291,7 @@ James F. Murray,Bill
 James F. Murray,Taney
 James F. Murray,William H. Seward
 James F. Murray,Jefferson Davis
-James F. Murray,Hughes
+James F. Murray,Bishop Hughes
 James F. Murray,Seymour
 James F. Murray,Grant
 James F. Murray,Sherman
@@ -4530,8 +4498,6 @@ John B. Smith,N. Y.
 John B. Smith,J. P. Sampson
 John B. Smith,J. M. Langston
 John B. Smith,Turner
-John B. Smith,A. M.
-John B. Smith,P. M.
 John B. Smith,W. P. Newman
 John B. Smith,Weaver
 John B. Smith,William Howard Day
@@ -4585,7 +4551,7 @@ John B. Smith,Bill
 John B. Smith,Taney
 John B. Smith,William H. Seward
 John B. Smith,Jefferson Davis
-John B. Smith,Hughes
+John B. Smith,Bishop Hughes
 John B. Smith,Seymour
 John B. Smith,Grant
 John B. Smith,Sherman
@@ -4791,8 +4757,6 @@ Wm. W. Brown,N. Y.
 Wm. W. Brown,J. P. Sampson
 Wm. W. Brown,J. M. Langston
 Wm. W. Brown,Turner
-Wm. W. Brown,A. M.
-Wm. W. Brown,P. M.
 Wm. W. Brown,W. P. Newman
 Wm. W. Brown,Weaver
 Wm. W. Brown,William Howard Day
@@ -4846,7 +4810,7 @@ Wm. W. Brown,Bill
 Wm. W. Brown,Taney
 Wm. W. Brown,William H. Seward
 Wm. W. Brown,Jefferson Davis
-Wm. W. Brown,Hughes
+Wm. W. Brown,Bishop Hughes
 Wm. W. Brown,Seymour
 Wm. W. Brown,Grant
 Wm. W. Brown,Sherman
@@ -5051,8 +5015,6 @@ Samuel Harrison,N. Y.
 Samuel Harrison,J. P. Sampson
 Samuel Harrison,J. M. Langston
 Samuel Harrison,Turner
-Samuel Harrison,A. M.
-Samuel Harrison,P. M.
 Samuel Harrison,W. P. Newman
 Samuel Harrison,Weaver
 Samuel Harrison,William Howard Day
@@ -5106,7 +5068,7 @@ Samuel Harrison,Bill
 Samuel Harrison,Taney
 Samuel Harrison,William H. Seward
 Samuel Harrison,Jefferson Davis
-Samuel Harrison,Hughes
+Samuel Harrison,Bishop Hughes
 Samuel Harrison,Seymour
 Samuel Harrison,Grant
 Samuel Harrison,Sherman
@@ -5310,8 +5272,6 @@ T. Downing,N. Y.
 T. Downing,J. P. Sampson
 T. Downing,J. M. Langston
 T. Downing,Turner
-T. Downing,A. M.
-T. Downing,P. M.
 T. Downing,W. P. Newman
 T. Downing,Weaver
 T. Downing,William Howard Day
@@ -5365,7 +5325,7 @@ T. Downing,Bill
 T. Downing,Taney
 T. Downing,William H. Seward
 T. Downing,Jefferson Davis
-T. Downing,Hughes
+T. Downing,Bishop Hughes
 T. Downing,Seymour
 T. Downing,Grant
 T. Downing,Sherman
@@ -5568,8 +5528,6 @@ F.L. Cordozo,N. Y.
 F.L. Cordozo,J. P. Sampson
 F.L. Cordozo,J. M. Langston
 F.L. Cordozo,Turner
-F.L. Cordozo,A. M.
-F.L. Cordozo,P. M.
 F.L. Cordozo,W. P. Newman
 F.L. Cordozo,Weaver
 F.L. Cordozo,William Howard Day
@@ -5623,7 +5581,7 @@ F.L. Cordozo,Bill
 F.L. Cordozo,Taney
 F.L. Cordozo,William H. Seward
 F.L. Cordozo,Jefferson Davis
-F.L. Cordozo,Hughes
+F.L. Cordozo,Bishop Hughes
 F.L. Cordozo,Seymour
 F.L. Cordozo,Grant
 F.L. Cordozo,Sherman
@@ -5825,8 +5783,6 @@ Peter H. Nott,N. Y.
 Peter H. Nott,J. P. Sampson
 Peter H. Nott,J. M. Langston
 Peter H. Nott,Turner
-Peter H. Nott,A. M.
-Peter H. Nott,P. M.
 Peter H. Nott,W. P. Newman
 Peter H. Nott,Weaver
 Peter H. Nott,William Howard Day
@@ -5880,7 +5836,7 @@ Peter H. Nott,Bill
 Peter H. Nott,Taney
 Peter H. Nott,William H. Seward
 Peter H. Nott,Jefferson Davis
-Peter H. Nott,Hughes
+Peter H. Nott,Bishop Hughes
 Peter H. Nott,Seymour
 Peter H. Nott,Grant
 Peter H. Nott,Sherman
@@ -6081,8 +6037,6 @@ C. Freeman,N. Y.
 C. Freeman,J. P. Sampson
 C. Freeman,J. M. Langston
 C. Freeman,Turner
-C. Freeman,A. M.
-C. Freeman,P. M.
 C. Freeman,W. P. Newman
 C. Freeman,Weaver
 C. Freeman,William Howard Day
@@ -6136,7 +6090,7 @@ C. Freeman,Bill
 C. Freeman,Taney
 C. Freeman,William H. Seward
 C. Freeman,Jefferson Davis
-C. Freeman,Hughes
+C. Freeman,Bishop Hughes
 C. Freeman,Seymour
 C. Freeman,Grant
 C. Freeman,Sherman
@@ -6336,8 +6290,6 @@ Wm. F. Johnson,N. Y.
 Wm. F. Johnson,J. P. Sampson
 Wm. F. Johnson,J. M. Langston
 Wm. F. Johnson,Turner
-Wm. F. Johnson,A. M.
-Wm. F. Johnson,P. M.
 Wm. F. Johnson,W. P. Newman
 Wm. F. Johnson,Weaver
 Wm. F. Johnson,William Howard Day
@@ -6391,7 +6343,7 @@ Wm. F. Johnson,Bill
 Wm. F. Johnson,Taney
 Wm. F. Johnson,William H. Seward
 Wm. F. Johnson,Jefferson Davis
-Wm. F. Johnson,Hughes
+Wm. F. Johnson,Bishop Hughes
 Wm. F. Johnson,Seymour
 Wm. F. Johnson,Grant
 Wm. F. Johnson,Sherman
@@ -6590,8 +6542,6 @@ Abram J. Morrison,N. Y.
 Abram J. Morrison,J. P. Sampson
 Abram J. Morrison,J. M. Langston
 Abram J. Morrison,Turner
-Abram J. Morrison,A. M.
-Abram J. Morrison,P. M.
 Abram J. Morrison,W. P. Newman
 Abram J. Morrison,Weaver
 Abram J. Morrison,William Howard Day
@@ -6645,7 +6595,7 @@ Abram J. Morrison,Bill
 Abram J. Morrison,Taney
 Abram J. Morrison,William H. Seward
 Abram J. Morrison,Jefferson Davis
-Abram J. Morrison,Hughes
+Abram J. Morrison,Bishop Hughes
 Abram J. Morrison,Seymour
 Abram J. Morrison,Grant
 Abram J. Morrison,Sherman
@@ -6843,8 +6793,6 @@ R.J.,N. Y.
 R.J.,J. P. Sampson
 R.J.,J. M. Langston
 R.J.,Turner
-R.J.,A. M.
-R.J.,P. M.
 R.J.,W. P. Newman
 R.J.,Weaver
 R.J.,William Howard Day
@@ -6898,7 +6846,7 @@ R.J.,Bill
 R.J.,Taney
 R.J.,William H. Seward
 R.J.,Jefferson Davis
-R.J.,Hughes
+R.J.,Bishop Hughes
 R.J.,Seymour
 R.J.,Grant
 R.J.,Sherman
@@ -7095,8 +7043,6 @@ Hamilton,N. Y.
 Hamilton,J. P. Sampson
 Hamilton,J. M. Langston
 Hamilton,Turner
-Hamilton,A. M.
-Hamilton,P. M.
 Hamilton,W. P. Newman
 Hamilton,Weaver
 Hamilton,William Howard Day
@@ -7150,7 +7096,7 @@ Hamilton,Bill
 Hamilton,Taney
 Hamilton,William H. Seward
 Hamilton,Jefferson Davis
-Hamilton,Hughes
+Hamilton,Bishop Hughes
 Hamilton,Seymour
 Hamilton,Grant
 Hamilton,Sherman
@@ -7346,8 +7292,6 @@ Singleton Jones,N. Y.
 Singleton Jones,J. P. Sampson
 Singleton Jones,J. M. Langston
 Singleton Jones,Turner
-Singleton Jones,A. M.
-Singleton Jones,P. M.
 Singleton Jones,W. P. Newman
 Singleton Jones,Weaver
 Singleton Jones,William Howard Day
@@ -7401,7 +7345,7 @@ Singleton Jones,Bill
 Singleton Jones,Taney
 Singleton Jones,William H. Seward
 Singleton Jones,Jefferson Davis
-Singleton Jones,Hughes
+Singleton Jones,Bishop Hughes
 Singleton Jones,Seymour
 Singleton Jones,Grant
 Singleton Jones,Sherman
@@ -7596,8 +7540,6 @@ J.W.C. Pennington,N. Y.
 J.W.C. Pennington,J. P. Sampson
 J.W.C. Pennington,J. M. Langston
 J.W.C. Pennington,Turner
-J.W.C. Pennington,A. M.
-J.W.C. Pennington,P. M.
 J.W.C. Pennington,W. P. Newman
 J.W.C. Pennington,Weaver
 J.W.C. Pennington,William Howard Day
@@ -7651,7 +7593,7 @@ J.W.C. Pennington,Bill
 J.W.C. Pennington,Taney
 J.W.C. Pennington,William H. Seward
 J.W.C. Pennington,Jefferson Davis
-J.W.C. Pennington,Hughes
+J.W.C. Pennington,Bishop Hughes
 J.W.C. Pennington,Seymour
 J.W.C. Pennington,Grant
 J.W.C. Pennington,Sherman
@@ -7845,8 +7787,6 @@ P.B. Randolph,N. Y.
 P.B. Randolph,J. P. Sampson
 P.B. Randolph,J. M. Langston
 P.B. Randolph,Turner
-P.B. Randolph,A. M.
-P.B. Randolph,P. M.
 P.B. Randolph,W. P. Newman
 P.B. Randolph,Weaver
 P.B. Randolph,William Howard Day
@@ -7900,7 +7840,7 @@ P.B. Randolph,Bill
 P.B. Randolph,Taney
 P.B. Randolph,William H. Seward
 P.B. Randolph,Jefferson Davis
-P.B. Randolph,Hughes
+P.B. Randolph,Bishop Hughes
 P.B. Randolph,Seymour
 P.B. Randolph,Grant
 P.B. Randolph,Sherman
@@ -8093,8 +8033,6 @@ Henry H. Garnet,N. Y.
 Henry H. Garnet,J. P. Sampson
 Henry H. Garnet,J. M. Langston
 Henry H. Garnet,Turner
-Henry H. Garnet,A. M.
-Henry H. Garnet,P. M.
 Henry H. Garnet,W. P. Newman
 Henry H. Garnet,Weaver
 Henry H. Garnet,William Howard Day
@@ -8148,7 +8086,7 @@ Henry H. Garnet,Bill
 Henry H. Garnet,Taney
 Henry H. Garnet,William H. Seward
 Henry H. Garnet,Jefferson Davis
-Henry H. Garnet,Hughes
+Henry H. Garnet,Bishop Hughes
 Henry H. Garnet,Seymour
 Henry H. Garnet,Grant
 Henry H. Garnet,Sherman
@@ -8340,8 +8278,6 @@ J. Sella Martin,N. Y.
 J. Sella Martin,J. P. Sampson
 J. Sella Martin,J. M. Langston
 J. Sella Martin,Turner
-J. Sella Martin,A. M.
-J. Sella Martin,P. M.
 J. Sella Martin,W. P. Newman
 J. Sella Martin,Weaver
 J. Sella Martin,William Howard Day
@@ -8395,7 +8331,7 @@ J. Sella Martin,Bill
 J. Sella Martin,Taney
 J. Sella Martin,William H. Seward
 J. Sella Martin,Jefferson Davis
-J. Sella Martin,Hughes
+J. Sella Martin,Bishop Hughes
 J. Sella Martin,Seymour
 J. Sella Martin,Grant
 J. Sella Martin,Sherman
@@ -8586,8 +8522,6 @@ R.H. Cain,N. Y.
 R.H. Cain,J. P. Sampson
 R.H. Cain,J. M. Langston
 R.H. Cain,Turner
-R.H. Cain,A. M.
-R.H. Cain,P. M.
 R.H. Cain,W. P. Newman
 R.H. Cain,Weaver
 R.H. Cain,William Howard Day
@@ -8641,7 +8575,7 @@ R.H. Cain,Bill
 R.H. Cain,Taney
 R.H. Cain,William H. Seward
 R.H. Cain,Jefferson Davis
-R.H. Cain,Hughes
+R.H. Cain,Bishop Hughes
 R.H. Cain,Seymour
 R.H. Cain,Grant
 R.H. Cain,Sherman
@@ -8831,8 +8765,6 @@ Lewis H. Putnam,N. Y.
 Lewis H. Putnam,J. P. Sampson
 Lewis H. Putnam,J. M. Langston
 Lewis H. Putnam,Turner
-Lewis H. Putnam,A. M.
-Lewis H. Putnam,P. M.
 Lewis H. Putnam,W. P. Newman
 Lewis H. Putnam,Weaver
 Lewis H. Putnam,William Howard Day
@@ -8886,7 +8818,7 @@ Lewis H. Putnam,Bill
 Lewis H. Putnam,Taney
 Lewis H. Putnam,William H. Seward
 Lewis H. Putnam,Jefferson Davis
-Lewis H. Putnam,Hughes
+Lewis H. Putnam,Bishop Hughes
 Lewis H. Putnam,Seymour
 Lewis H. Putnam,Grant
 Lewis H. Putnam,Sherman
@@ -9075,8 +9007,6 @@ Peter H. Williams,N. Y.
 Peter H. Williams,J. P. Sampson
 Peter H. Williams,J. M. Langston
 Peter H. Williams,Turner
-Peter H. Williams,A. M.
-Peter H. Williams,P. M.
 Peter H. Williams,W. P. Newman
 Peter H. Williams,Weaver
 Peter H. Williams,William Howard Day
@@ -9130,7 +9060,7 @@ Peter H. Williams,Bill
 Peter H. Williams,Taney
 Peter H. Williams,William H. Seward
 Peter H. Williams,Jefferson Davis
-Peter H. Williams,Hughes
+Peter H. Williams,Bishop Hughes
 Peter H. Williams,Seymour
 Peter H. Williams,Grant
 Peter H. Williams,Sherman
@@ -9318,8 +9248,6 @@ Peter W. Ray,N. Y.
 Peter W. Ray,J. P. Sampson
 Peter W. Ray,J. M. Langston
 Peter W. Ray,Turner
-Peter W. Ray,A. M.
-Peter W. Ray,P. M.
 Peter W. Ray,W. P. Newman
 Peter W. Ray,Weaver
 Peter W. Ray,William Howard Day
@@ -9373,7 +9301,7 @@ Peter W. Ray,Bill
 Peter W. Ray,Taney
 Peter W. Ray,William H. Seward
 Peter W. Ray,Jefferson Davis
-Peter W. Ray,Hughes
+Peter W. Ray,Bishop Hughes
 Peter W. Ray,Seymour
 Peter W. Ray,Grant
 Peter W. Ray,Sherman
@@ -9560,8 +9488,6 @@ William H. Johnson,N. Y.
 William H. Johnson,J. P. Sampson
 William H. Johnson,J. M. Langston
 William H. Johnson,Turner
-William H. Johnson,A. M.
-William H. Johnson,P. M.
 William H. Johnson,W. P. Newman
 William H. Johnson,Weaver
 William H. Johnson,William Howard Day
@@ -9615,7 +9541,7 @@ William H. Johnson,Bill
 William H. Johnson,Taney
 William H. Johnson,William H. Seward
 William H. Johnson,Jefferson Davis
-William H. Johnson,Hughes
+William H. Johnson,Bishop Hughes
 William H. Johnson,Seymour
 William H. Johnson,Grant
 William H. Johnson,Sherman
@@ -9801,8 +9727,6 @@ George W. Johnson,N. Y.
 George W. Johnson,J. P. Sampson
 George W. Johnson,J. M. Langston
 George W. Johnson,Turner
-George W. Johnson,A. M.
-George W. Johnson,P. M.
 George W. Johnson,W. P. Newman
 George W. Johnson,Weaver
 George W. Johnson,William Howard Day
@@ -9856,7 +9780,7 @@ George W. Johnson,Bill
 George W. Johnson,Taney
 George W. Johnson,William H. Seward
 George W. Johnson,Jefferson Davis
-George W. Johnson,Hughes
+George W. Johnson,Bishop Hughes
 George W. Johnson,Seymour
 George W. Johnson,Grant
 George W. Johnson,Sherman
@@ -10041,8 +9965,6 @@ James C. Matthews,N. Y.
 James C. Matthews,J. P. Sampson
 James C. Matthews,J. M. Langston
 James C. Matthews,Turner
-James C. Matthews,A. M.
-James C. Matthews,P. M.
 James C. Matthews,W. P. Newman
 James C. Matthews,Weaver
 James C. Matthews,William Howard Day
@@ -10096,7 +10018,7 @@ James C. Matthews,Bill
 James C. Matthews,Taney
 James C. Matthews,William H. Seward
 James C. Matthews,Jefferson Davis
-James C. Matthews,Hughes
+James C. Matthews,Bishop Hughes
 James C. Matthews,Seymour
 James C. Matthews,Grant
 James C. Matthews,Sherman
@@ -10280,8 +10202,6 @@ Robert Jackson,N. Y.
 Robert Jackson,J. P. Sampson
 Robert Jackson,J. M. Langston
 Robert Jackson,Turner
-Robert Jackson,A. M.
-Robert Jackson,P. M.
 Robert Jackson,W. P. Newman
 Robert Jackson,Weaver
 Robert Jackson,William Howard Day
@@ -10335,7 +10255,7 @@ Robert Jackson,Bill
 Robert Jackson,Taney
 Robert Jackson,William H. Seward
 Robert Jackson,Jefferson Davis
-Robert Jackson,Hughes
+Robert Jackson,Bishop Hughes
 Robert Jackson,Seymour
 Robert Jackson,Grant
 Robert Jackson,Sherman
@@ -10518,8 +10438,6 @@ John Cutler,N. Y.
 John Cutler,J. P. Sampson
 John Cutler,J. M. Langston
 John Cutler,Turner
-John Cutler,A. M.
-John Cutler,P. M.
 John Cutler,W. P. Newman
 John Cutler,Weaver
 John Cutler,William Howard Day
@@ -10573,7 +10491,7 @@ John Cutler,Bill
 John Cutler,Taney
 John Cutler,William H. Seward
 John Cutler,Jefferson Davis
-John Cutler,Hughes
+John Cutler,Bishop Hughes
 John Cutler,Seymour
 John Cutler,Grant
 John Cutler,Sherman
@@ -10755,8 +10673,6 @@ H.W. Johnson,N. Y.
 H.W. Johnson,J. P. Sampson
 H.W. Johnson,J. M. Langston
 H.W. Johnson,Turner
-H.W. Johnson,A. M.
-H.W. Johnson,P. M.
 H.W. Johnson,W. P. Newman
 H.W. Johnson,Weaver
 H.W. Johnson,William Howard Day
@@ -10810,7 +10726,7 @@ H.W. Johnson,Bill
 H.W. Johnson,Taney
 H.W. Johnson,William H. Seward
 H.W. Johnson,Jefferson Davis
-H.W. Johnson,Hughes
+H.W. Johnson,Bishop Hughes
 H.W. Johnson,Seymour
 H.W. Johnson,Grant
 H.W. Johnson,Sherman
@@ -10991,8 +10907,6 @@ Cunandaigua,N. Y.
 Cunandaigua,J. P. Sampson
 Cunandaigua,J. M. Langston
 Cunandaigua,Turner
-Cunandaigua,A. M.
-Cunandaigua,P. M.
 Cunandaigua,W. P. Newman
 Cunandaigua,Weaver
 Cunandaigua,William Howard Day
@@ -11046,7 +10960,7 @@ Cunandaigua,Bill
 Cunandaigua,Taney
 Cunandaigua,William H. Seward
 Cunandaigua,Jefferson Davis
-Cunandaigua,Hughes
+Cunandaigua,Bishop Hughes
 Cunandaigua,Seymour
 Cunandaigua,Grant
 Cunandaigua,Sherman
@@ -11226,8 +11140,6 @@ Andrew B. Slater,N. Y.
 Andrew B. Slater,J. P. Sampson
 Andrew B. Slater,J. M. Langston
 Andrew B. Slater,Turner
-Andrew B. Slater,A. M.
-Andrew B. Slater,P. M.
 Andrew B. Slater,W. P. Newman
 Andrew B. Slater,Weaver
 Andrew B. Slater,William Howard Day
@@ -11281,7 +11193,7 @@ Andrew B. Slater,Bill
 Andrew B. Slater,Taney
 Andrew B. Slater,William H. Seward
 Andrew B. Slater,Jefferson Davis
-Andrew B. Slater,Hughes
+Andrew B. Slater,Bishop Hughes
 Andrew B. Slater,Seymour
 Andrew B. Slater,Grant
 Andrew B. Slater,Sherman
@@ -11460,8 +11372,6 @@ W.W. Denike,N. Y.
 W.W. Denike,J. P. Sampson
 W.W. Denike,J. M. Langston
 W.W. Denike,Turner
-W.W. Denike,A. M.
-W.W. Denike,P. M.
 W.W. Denike,W. P. Newman
 W.W. Denike,Weaver
 W.W. Denike,William Howard Day
@@ -11515,7 +11425,7 @@ W.W. Denike,Bill
 W.W. Denike,Taney
 W.W. Denike,William H. Seward
 W.W. Denike,Jefferson Davis
-W.W. Denike,Hughes
+W.W. Denike,Bishop Hughes
 W.W. Denike,Seymour
 W.W. Denike,Grant
 W.W. Denike,Sherman
@@ -11693,8 +11603,6 @@ William Grey,N. Y.
 William Grey,J. P. Sampson
 William Grey,J. M. Langston
 William Grey,Turner
-William Grey,A. M.
-William Grey,P. M.
 William Grey,W. P. Newman
 William Grey,Weaver
 William Grey,William Howard Day
@@ -11748,7 +11656,7 @@ William Grey,Bill
 William Grey,Taney
 William Grey,William H. Seward
 William Grey,Jefferson Davis
-William Grey,Hughes
+William Grey,Bishop Hughes
 William Grey,Seymour
 William Grey,Grant
 William Grey,Sherman
@@ -11925,8 +11833,6 @@ F.P. Lapierre,N. Y.
 F.P. Lapierre,J. P. Sampson
 F.P. Lapierre,J. M. Langston
 F.P. Lapierre,Turner
-F.P. Lapierre,A. M.
-F.P. Lapierre,P. M.
 F.P. Lapierre,W. P. Newman
 F.P. Lapierre,Weaver
 F.P. Lapierre,William Howard Day
@@ -11980,7 +11886,7 @@ F.P. Lapierre,Bill
 F.P. Lapierre,Taney
 F.P. Lapierre,William H. Seward
 F.P. Lapierre,Jefferson Davis
-F.P. Lapierre,Hughes
+F.P. Lapierre,Bishop Hughes
 F.P. Lapierre,Seymour
 F.P. Lapierre,Grant
 F.P. Lapierre,Sherman
@@ -12156,8 +12062,6 @@ F.C. Lippins,N. Y.
 F.C. Lippins,J. P. Sampson
 F.C. Lippins,J. M. Langston
 F.C. Lippins,Turner
-F.C. Lippins,A. M.
-F.C. Lippins,P. M.
 F.C. Lippins,W. P. Newman
 F.C. Lippins,Weaver
 F.C. Lippins,William Howard Day
@@ -12211,7 +12115,7 @@ F.C. Lippins,Bill
 F.C. Lippins,Taney
 F.C. Lippins,William H. Seward
 F.C. Lippins,Jefferson Davis
-F.C. Lippins,Hughes
+F.C. Lippins,Bishop Hughes
 F.C. Lippins,Seymour
 F.C. Lippins,Grant
 F.C. Lippins,Sherman
@@ -12386,8 +12290,6 @@ Peter Freeman,N. Y.
 Peter Freeman,J. P. Sampson
 Peter Freeman,J. M. Langston
 Peter Freeman,Turner
-Peter Freeman,A. M.
-Peter Freeman,P. M.
 Peter Freeman,W. P. Newman
 Peter Freeman,Weaver
 Peter Freeman,William Howard Day
@@ -12441,7 +12343,7 @@ Peter Freeman,Bill
 Peter Freeman,Taney
 Peter Freeman,William H. Seward
 Peter Freeman,Jefferson Davis
-Peter Freeman,Hughes
+Peter Freeman,Bishop Hughes
 Peter Freeman,Seymour
 Peter Freeman,Grant
 Peter Freeman,Sherman
@@ -12615,8 +12517,6 @@ James H. Washington,N. Y.
 James H. Washington,J. P. Sampson
 James H. Washington,J. M. Langston
 James H. Washington,Turner
-James H. Washington,A. M.
-James H. Washington,P. M.
 James H. Washington,W. P. Newman
 James H. Washington,Weaver
 James H. Washington,William Howard Day
@@ -12670,7 +12570,7 @@ James H. Washington,Bill
 James H. Washington,Taney
 James H. Washington,William H. Seward
 James H. Washington,Jefferson Davis
-James H. Washington,Hughes
+James H. Washington,Bishop Hughes
 James H. Washington,Seymour
 James H. Washington,Grant
 James H. Washington,Sherman
@@ -12843,8 +12743,6 @@ Francis J. Peck,N. Y.
 Francis J. Peck,J. P. Sampson
 Francis J. Peck,J. M. Langston
 Francis J. Peck,Turner
-Francis J. Peck,A. M.
-Francis J. Peck,P. M.
 Francis J. Peck,W. P. Newman
 Francis J. Peck,Weaver
 Francis J. Peck,William Howard Day
@@ -12898,7 +12796,7 @@ Francis J. Peck,Bill
 Francis J. Peck,Taney
 Francis J. Peck,William H. Seward
 Francis J. Peck,Jefferson Davis
-Francis J. Peck,Hughes
+Francis J. Peck,Bishop Hughes
 Francis J. Peck,Seymour
 Francis J. Peck,Grant
 Francis J. Peck,Sherman
@@ -13070,8 +12968,6 @@ George Weir,N. Y.
 George Weir,J. P. Sampson
 George Weir,J. M. Langston
 George Weir,Turner
-George Weir,A. M.
-George Weir,P. M.
 George Weir,W. P. Newman
 George Weir,Weaver
 George Weir,William Howard Day
@@ -13125,7 +13021,7 @@ George Weir,Bill
 George Weir,Taney
 George Weir,William H. Seward
 George Weir,Jefferson Davis
-George Weir,Hughes
+George Weir,Bishop Hughes
 George Weir,Seymour
 George Weir,Grant
 George Weir,Sherman
@@ -13296,8 +13192,6 @@ George Dover,N. Y.
 George Dover,J. P. Sampson
 George Dover,J. M. Langston
 George Dover,Turner
-George Dover,A. M.
-George Dover,P. M.
 George Dover,W. P. Newman
 George Dover,Weaver
 George Dover,William Howard Day
@@ -13351,7 +13245,7 @@ George Dover,Bill
 George Dover,Taney
 George Dover,William H. Seward
 George Dover,Jefferson Davis
-George Dover,Hughes
+George Dover,Bishop Hughes
 George Dover,Seymour
 George Dover,Grant
 George Dover,Sherman
@@ -13521,8 +13415,6 @@ Samuel Murray,N. Y.
 Samuel Murray,J. P. Sampson
 Samuel Murray,J. M. Langston
 Samuel Murray,Turner
-Samuel Murray,A. M.
-Samuel Murray,P. M.
 Samuel Murray,W. P. Newman
 Samuel Murray,Weaver
 Samuel Murray,William Howard Day
@@ -13576,7 +13468,7 @@ Samuel Murray,Bill
 Samuel Murray,Taney
 Samuel Murray,William H. Seward
 Samuel Murray,Jefferson Davis
-Samuel Murray,Hughes
+Samuel Murray,Bishop Hughes
 Samuel Murray,Seymour
 Samuel Murray,Grant
 Samuel Murray,Sherman
@@ -13745,8 +13637,6 @@ Peyton Harris,N. Y.
 Peyton Harris,J. P. Sampson
 Peyton Harris,J. M. Langston
 Peyton Harris,Turner
-Peyton Harris,A. M.
-Peyton Harris,P. M.
 Peyton Harris,W. P. Newman
 Peyton Harris,Weaver
 Peyton Harris,William Howard Day
@@ -13800,7 +13690,7 @@ Peyton Harris,Bill
 Peyton Harris,Taney
 Peyton Harris,William H. Seward
 Peyton Harris,Jefferson Davis
-Peyton Harris,Hughes
+Peyton Harris,Bishop Hughes
 Peyton Harris,Seymour
 Peyton Harris,Grant
 Peyton Harris,Sherman
@@ -13968,8 +13858,6 @@ Fred ' K Douglass,N. Y.
 Fred ' K Douglass,J. P. Sampson
 Fred ' K Douglass,J. M. Langston
 Fred ' K Douglass,Turner
-Fred ' K Douglass,A. M.
-Fred ' K Douglass,P. M.
 Fred ' K Douglass,W. P. Newman
 Fred ' K Douglass,Weaver
 Fred ' K Douglass,William Howard Day
@@ -14023,7 +13911,7 @@ Fred ' K Douglass,Bill
 Fred ' K Douglass,Taney
 Fred ' K Douglass,William H. Seward
 Fred ' K Douglass,Jefferson Davis
-Fred ' K Douglass,Hughes
+Fred ' K Douglass,Bishop Hughes
 Fred ' K Douglass,Seymour
 Fred ' K Douglass,Grant
 Fred ' K Douglass,Sherman
@@ -14190,8 +14078,6 @@ James Taylor,N. Y.
 James Taylor,J. P. Sampson
 James Taylor,J. M. Langston
 James Taylor,Turner
-James Taylor,A. M.
-James Taylor,P. M.
 James Taylor,W. P. Newman
 James Taylor,Weaver
 James Taylor,William Howard Day
@@ -14245,7 +14131,7 @@ James Taylor,Bill
 James Taylor,Taney
 James Taylor,William H. Seward
 James Taylor,Jefferson Davis
-James Taylor,Hughes
+James Taylor,Bishop Hughes
 James Taylor,Seymour
 James Taylor,Grant
 James Taylor,Sherman
@@ -14411,8 +14297,6 @@ Thomas James,N. Y.
 Thomas James,J. P. Sampson
 Thomas James,J. M. Langston
 Thomas James,Turner
-Thomas James,A. M.
-Thomas James,P. M.
 Thomas James,W. P. Newman
 Thomas James,Weaver
 Thomas James,William Howard Day
@@ -14466,7 +14350,7 @@ Thomas James,Bill
 Thomas James,Taney
 Thomas James,William H. Seward
 Thomas James,Jefferson Davis
-Thomas James,Hughes
+Thomas James,Bishop Hughes
 Thomas James,Seymour
 Thomas James,Grant
 Thomas James,Sherman
@@ -14631,8 +14515,6 @@ William H. Bruce,N. Y.
 William H. Bruce,J. P. Sampson
 William H. Bruce,J. M. Langston
 William H. Bruce,Turner
-William H. Bruce,A. M.
-William H. Bruce,P. M.
 William H. Bruce,W. P. Newman
 William H. Bruce,Weaver
 William H. Bruce,William Howard Day
@@ -14686,7 +14568,7 @@ William H. Bruce,Bill
 William H. Bruce,Taney
 William H. Bruce,William H. Seward
 William H. Bruce,Jefferson Davis
-William H. Bruce,Hughes
+William H. Bruce,Bishop Hughes
 William H. Bruce,Seymour
 William H. Bruce,Grant
 William H. Bruce,Sherman
@@ -14850,8 +14732,6 @@ J.W. Loguen,N. Y.
 J.W. Loguen,J. P. Sampson
 J.W. Loguen,J. M. Langston
 J.W. Loguen,Turner
-J.W. Loguen,A. M.
-J.W. Loguen,P. M.
 J.W. Loguen,W. P. Newman
 J.W. Loguen,Weaver
 J.W. Loguen,William Howard Day
@@ -14905,7 +14785,7 @@ J.W. Loguen,Bill
 J.W. Loguen,Taney
 J.W. Loguen,William H. Seward
 J.W. Loguen,Jefferson Davis
-J.W. Loguen,Hughes
+J.W. Loguen,Bishop Hughes
 J.W. Loguen,Seymour
 J.W. Loguen,Grant
 J.W. Loguen,Sherman
@@ -15068,8 +14948,6 @@ W.H. Brown,N. Y.
 W.H. Brown,J. P. Sampson
 W.H. Brown,J. M. Langston
 W.H. Brown,Turner
-W.H. Brown,A. M.
-W.H. Brown,P. M.
 W.H. Brown,W. P. Newman
 W.H. Brown,Weaver
 W.H. Brown,William Howard Day
@@ -15123,7 +15001,7 @@ W.H. Brown,Bill
 W.H. Brown,Taney
 W.H. Brown,William H. Seward
 W.H. Brown,Jefferson Davis
-W.H. Brown,Hughes
+W.H. Brown,Bishop Hughes
 W.H. Brown,Seymour
 W.H. Brown,Grant
 W.H. Brown,Sherman
@@ -15285,8 +15163,6 @@ T.A. Keen,N. Y.
 T.A. Keen,J. P. Sampson
 T.A. Keen,J. M. Langston
 T.A. Keen,Turner
-T.A. Keen,A. M.
-T.A. Keen,P. M.
 T.A. Keen,W. P. Newman
 T.A. Keen,Weaver
 T.A. Keen,William Howard Day
@@ -15340,7 +15216,7 @@ T.A. Keen,Bill
 T.A. Keen,Taney
 T.A. Keen,William H. Seward
 T.A. Keen,Jefferson Davis
-T.A. Keen,Hughes
+T.A. Keen,Bishop Hughes
 T.A. Keen,Seymour
 T.A. Keen,Grant
 T.A. Keen,Sherman
@@ -15501,8 +15377,6 @@ Isaac Deyo,N. Y.
 Isaac Deyo,J. P. Sampson
 Isaac Deyo,J. M. Langston
 Isaac Deyo,Turner
-Isaac Deyo,A. M.
-Isaac Deyo,P. M.
 Isaac Deyo,W. P. Newman
 Isaac Deyo,Weaver
 Isaac Deyo,William Howard Day
@@ -15556,7 +15430,7 @@ Isaac Deyo,Bill
 Isaac Deyo,Taney
 Isaac Deyo,William H. Seward
 Isaac Deyo,Jefferson Davis
-Isaac Deyo,Hughes
+Isaac Deyo,Bishop Hughes
 Isaac Deyo,Seymour
 Isaac Deyo,Grant
 Isaac Deyo,Sherman
@@ -15716,8 +15590,6 @@ A. Bolden,N. Y.
 A. Bolden,J. P. Sampson
 A. Bolden,J. M. Langston
 A. Bolden,Turner
-A. Bolden,A. M.
-A. Bolden,P. M.
 A. Bolden,W. P. Newman
 A. Bolden,Weaver
 A. Bolden,William Howard Day
@@ -15771,7 +15643,7 @@ A. Bolden,Bill
 A. Bolden,Taney
 A. Bolden,William H. Seward
 A. Bolden,Jefferson Davis
-A. Bolden,Hughes
+A. Bolden,Bishop Hughes
 A. Bolden,Seymour
 A. Bolden,Grant
 A. Bolden,Sherman
@@ -15930,8 +15802,6 @@ Thomas Johnson,N. Y.
 Thomas Johnson,J. P. Sampson
 Thomas Johnson,J. M. Langston
 Thomas Johnson,Turner
-Thomas Johnson,A. M.
-Thomas Johnson,P. M.
 Thomas Johnson,W. P. Newman
 Thomas Johnson,Weaver
 Thomas Johnson,William Howard Day
@@ -15985,7 +15855,7 @@ Thomas Johnson,Bill
 Thomas Johnson,Taney
 Thomas Johnson,William H. Seward
 Thomas Johnson,Jefferson Davis
-Thomas Johnson,Hughes
+Thomas Johnson,Bishop Hughes
 Thomas Johnson,Seymour
 Thomas Johnson,Grant
 Thomas Johnson,Sherman
@@ -16143,8 +16013,6 @@ James Schemeohorn,N. Y.
 James Schemeohorn,J. P. Sampson
 James Schemeohorn,J. M. Langston
 James Schemeohorn,Turner
-James Schemeohorn,A. M.
-James Schemeohorn,P. M.
 James Schemeohorn,W. P. Newman
 James Schemeohorn,Weaver
 James Schemeohorn,William Howard Day
@@ -16198,7 +16066,7 @@ James Schemeohorn,Bill
 James Schemeohorn,Taney
 James Schemeohorn,William H. Seward
 James Schemeohorn,Jefferson Davis
-James Schemeohorn,Hughes
+James Schemeohorn,Bishop Hughes
 James Schemeohorn,Seymour
 James Schemeohorn,Grant
 James Schemeohorn,Sherman
@@ -16355,8 +16223,6 @@ W.H. Decker,N. Y.
 W.H. Decker,J. P. Sampson
 W.H. Decker,J. M. Langston
 W.H. Decker,Turner
-W.H. Decker,A. M.
-W.H. Decker,P. M.
 W.H. Decker,W. P. Newman
 W.H. Decker,Weaver
 W.H. Decker,William Howard Day
@@ -16410,7 +16276,7 @@ W.H. Decker,Bill
 W.H. Decker,Taney
 W.H. Decker,William H. Seward
 W.H. Decker,Jefferson Davis
-W.H. Decker,Hughes
+W.H. Decker,Bishop Hughes
 W.H. Decker,Seymour
 W.H. Decker,Grant
 W.H. Decker,Sherman
@@ -16566,8 +16432,6 @@ Walter K. Mower,N. Y.
 Walter K. Mower,J. P. Sampson
 Walter K. Mower,J. M. Langston
 Walter K. Mower,Turner
-Walter K. Mower,A. M.
-Walter K. Mower,P. M.
 Walter K. Mower,W. P. Newman
 Walter K. Mower,Weaver
 Walter K. Mower,William Howard Day
@@ -16621,7 +16485,7 @@ Walter K. Mower,Bill
 Walter K. Mower,Taney
 Walter K. Mower,William H. Seward
 Walter K. Mower,Jefferson Davis
-Walter K. Mower,Hughes
+Walter K. Mower,Bishop Hughes
 Walter K. Mower,Seymour
 Walter K. Mower,Grant
 Walter K. Mower,Sherman
@@ -16776,8 +16640,6 @@ Samuel J. Hollinsworth,N. Y.
 Samuel J. Hollinsworth,J. P. Sampson
 Samuel J. Hollinsworth,J. M. Langston
 Samuel J. Hollinsworth,Turner
-Samuel J. Hollinsworth,A. M.
-Samuel J. Hollinsworth,P. M.
 Samuel J. Hollinsworth,W. P. Newman
 Samuel J. Hollinsworth,Weaver
 Samuel J. Hollinsworth,William Howard Day
@@ -16831,7 +16693,7 @@ Samuel J. Hollinsworth,Bill
 Samuel J. Hollinsworth,Taney
 Samuel J. Hollinsworth,William H. Seward
 Samuel J. Hollinsworth,Jefferson Davis
-Samuel J. Hollinsworth,Hughes
+Samuel J. Hollinsworth,Bishop Hughes
 Samuel J. Hollinsworth,Seymour
 Samuel J. Hollinsworth,Grant
 Samuel J. Hollinsworth,Sherman
@@ -16985,8 +16847,6 @@ Thomas H. Thomas,N. Y.
 Thomas H. Thomas,J. P. Sampson
 Thomas H. Thomas,J. M. Langston
 Thomas H. Thomas,Turner
-Thomas H. Thomas,A. M.
-Thomas H. Thomas,P. M.
 Thomas H. Thomas,W. P. Newman
 Thomas H. Thomas,Weaver
 Thomas H. Thomas,William Howard Day
@@ -17040,7 +16900,7 @@ Thomas H. Thomas,Bill
 Thomas H. Thomas,Taney
 Thomas H. Thomas,William H. Seward
 Thomas H. Thomas,Jefferson Davis
-Thomas H. Thomas,Hughes
+Thomas H. Thomas,Bishop Hughes
 Thomas H. Thomas,Seymour
 Thomas H. Thomas,Grant
 Thomas H. Thomas,Sherman
@@ -17193,8 +17053,6 @@ Jacob Thomas,N. Y.
 Jacob Thomas,J. P. Sampson
 Jacob Thomas,J. M. Langston
 Jacob Thomas,Turner
-Jacob Thomas,A. M.
-Jacob Thomas,P. M.
 Jacob Thomas,W. P. Newman
 Jacob Thomas,Weaver
 Jacob Thomas,William Howard Day
@@ -17248,7 +17106,7 @@ Jacob Thomas,Bill
 Jacob Thomas,Taney
 Jacob Thomas,William H. Seward
 Jacob Thomas,Jefferson Davis
-Jacob Thomas,Hughes
+Jacob Thomas,Bishop Hughes
 Jacob Thomas,Seymour
 Jacob Thomas,Grant
 Jacob Thomas,Sherman
@@ -17400,8 +17258,6 @@ C.W. Robinson,N. Y.
 C.W. Robinson,J. P. Sampson
 C.W. Robinson,J. M. Langston
 C.W. Robinson,Turner
-C.W. Robinson,A. M.
-C.W. Robinson,P. M.
 C.W. Robinson,W. P. Newman
 C.W. Robinson,Weaver
 C.W. Robinson,William Howard Day
@@ -17455,7 +17311,7 @@ C.W. Robinson,Bill
 C.W. Robinson,Taney
 C.W. Robinson,William H. Seward
 C.W. Robinson,Jefferson Davis
-C.W. Robinson,Hughes
+C.W. Robinson,Bishop Hughes
 C.W. Robinson,Seymour
 C.W. Robinson,Grant
 C.W. Robinson,Sherman
@@ -17606,8 +17462,6 @@ A.J. Barrier,N. Y.
 A.J. Barrier,J. P. Sampson
 A.J. Barrier,J. M. Langston
 A.J. Barrier,Turner
-A.J. Barrier,A. M.
-A.J. Barrier,P. M.
 A.J. Barrier,W. P. Newman
 A.J. Barrier,Weaver
 A.J. Barrier,William Howard Day
@@ -17661,7 +17515,7 @@ A.J. Barrier,Bill
 A.J. Barrier,Taney
 A.J. Barrier,William H. Seward
 A.J. Barrier,Jefferson Davis
-A.J. Barrier,Hughes
+A.J. Barrier,Bishop Hughes
 A.J. Barrier,Seymour
 A.J. Barrier,Grant
 A.J. Barrier,Sherman
@@ -17811,8 +17665,6 @@ Enoch Moore,N. Y.
 Enoch Moore,J. P. Sampson
 Enoch Moore,J. M. Langston
 Enoch Moore,Turner
-Enoch Moore,A. M.
-Enoch Moore,P. M.
 Enoch Moore,W. P. Newman
 Enoch Moore,Weaver
 Enoch Moore,William Howard Day
@@ -17866,7 +17718,7 @@ Enoch Moore,Bill
 Enoch Moore,Taney
 Enoch Moore,William H. Seward
 Enoch Moore,Jefferson Davis
-Enoch Moore,Hughes
+Enoch Moore,Bishop Hughes
 Enoch Moore,Seymour
 Enoch Moore,Grant
 Enoch Moore,Sherman
@@ -18015,8 +17867,6 @@ Edwin H. Freeman,N. Y.
 Edwin H. Freeman,J. P. Sampson
 Edwin H. Freeman,J. M. Langston
 Edwin H. Freeman,Turner
-Edwin H. Freeman,A. M.
-Edwin H. Freeman,P. M.
 Edwin H. Freeman,W. P. Newman
 Edwin H. Freeman,Weaver
 Edwin H. Freeman,William Howard Day
@@ -18070,7 +17920,7 @@ Edwin H. Freeman,Bill
 Edwin H. Freeman,Taney
 Edwin H. Freeman,William H. Seward
 Edwin H. Freeman,Jefferson Davis
-Edwin H. Freeman,Hughes
+Edwin H. Freeman,Bishop Hughes
 Edwin H. Freeman,Seymour
 Edwin H. Freeman,Grant
 Edwin H. Freeman,Sherman
@@ -18218,8 +18068,6 @@ Thomas G. Gould,N. Y.
 Thomas G. Gould,J. P. Sampson
 Thomas G. Gould,J. M. Langston
 Thomas G. Gould,Turner
-Thomas G. Gould,A. M.
-Thomas G. Gould,P. M.
 Thomas G. Gould,W. P. Newman
 Thomas G. Gould,Weaver
 Thomas G. Gould,William Howard Day
@@ -18273,7 +18121,7 @@ Thomas G. Gould,Bill
 Thomas G. Gould,Taney
 Thomas G. Gould,William H. Seward
 Thomas G. Gould,Jefferson Davis
-Thomas G. Gould,Hughes
+Thomas G. Gould,Bishop Hughes
 Thomas G. Gould,Seymour
 Thomas G. Gould,Grant
 Thomas G. Gould,Sherman
@@ -18420,8 +18268,6 @@ Thomas H. Cooper,N. Y.
 Thomas H. Cooper,J. P. Sampson
 Thomas H. Cooper,J. M. Langston
 Thomas H. Cooper,Turner
-Thomas H. Cooper,A. M.
-Thomas H. Cooper,P. M.
 Thomas H. Cooper,W. P. Newman
 Thomas H. Cooper,Weaver
 Thomas H. Cooper,William Howard Day
@@ -18475,7 +18321,7 @@ Thomas H. Cooper,Bill
 Thomas H. Cooper,Taney
 Thomas H. Cooper,William H. Seward
 Thomas H. Cooper,Jefferson Davis
-Thomas H. Cooper,Hughes
+Thomas H. Cooper,Bishop Hughes
 Thomas H. Cooper,Seymour
 Thomas H. Cooper,Grant
 Thomas H. Cooper,Sherman
@@ -18621,8 +18467,6 @@ D.P. Seaton,N. Y.
 D.P. Seaton,J. P. Sampson
 D.P. Seaton,J. M. Langston
 D.P. Seaton,Turner
-D.P. Seaton,A. M.
-D.P. Seaton,P. M.
 D.P. Seaton,W. P. Newman
 D.P. Seaton,Weaver
 D.P. Seaton,William Howard Day
@@ -18676,7 +18520,7 @@ D.P. Seaton,Bill
 D.P. Seaton,Taney
 D.P. Seaton,William H. Seward
 D.P. Seaton,Jefferson Davis
-D.P. Seaton,Hughes
+D.P. Seaton,Bishop Hughes
 D.P. Seaton,Seymour
 D.P. Seaton,Grant
 D.P. Seaton,Sherman
@@ -18821,8 +18665,6 @@ E.D. Basset,N. Y.
 E.D. Basset,J. P. Sampson
 E.D. Basset,J. M. Langston
 E.D. Basset,Turner
-E.D. Basset,A. M.
-E.D. Basset,P. M.
 E.D. Basset,W. P. Newman
 E.D. Basset,Weaver
 E.D. Basset,William Howard Day
@@ -18876,7 +18718,7 @@ E.D. Basset,Bill
 E.D. Basset,Taney
 E.D. Basset,William H. Seward
 E.D. Basset,Jefferson Davis
-E.D. Basset,Hughes
+E.D. Basset,Bishop Hughes
 E.D. Basset,Seymour
 E.D. Basset,Grant
 E.D. Basset,Sherman
@@ -19020,8 +18862,6 @@ J.C. Gibbs,N. Y.
 J.C. Gibbs,J. P. Sampson
 J.C. Gibbs,J. M. Langston
 J.C. Gibbs,Turner
-J.C. Gibbs,A. M.
-J.C. Gibbs,P. M.
 J.C. Gibbs,W. P. Newman
 J.C. Gibbs,Weaver
 J.C. Gibbs,William Howard Day
@@ -19075,7 +18915,7 @@ J.C. Gibbs,Bill
 J.C. Gibbs,Taney
 J.C. Gibbs,William H. Seward
 J.C. Gibbs,Jefferson Davis
-J.C. Gibbs,Hughes
+J.C. Gibbs,Bishop Hughes
 J.C. Gibbs,Seymour
 J.C. Gibbs,Grant
 J.C. Gibbs,Sherman
@@ -19218,8 +19058,6 @@ John B. Reeve,N. Y.
 John B. Reeve,J. P. Sampson
 John B. Reeve,J. M. Langston
 John B. Reeve,Turner
-John B. Reeve,A. M.
-John B. Reeve,P. M.
 John B. Reeve,W. P. Newman
 John B. Reeve,Weaver
 John B. Reeve,William Howard Day
@@ -19273,7 +19111,7 @@ John B. Reeve,Bill
 John B. Reeve,Taney
 John B. Reeve,William H. Seward
 John B. Reeve,Jefferson Davis
-John B. Reeve,Hughes
+John B. Reeve,Bishop Hughes
 John B. Reeve,Seymour
 John B. Reeve,Grant
 John B. Reeve,Sherman
@@ -19415,8 +19253,6 @@ Thomas J. Bowers,N. Y.
 Thomas J. Bowers,J. P. Sampson
 Thomas J. Bowers,J. M. Langston
 Thomas J. Bowers,Turner
-Thomas J. Bowers,A. M.
-Thomas J. Bowers,P. M.
 Thomas J. Bowers,W. P. Newman
 Thomas J. Bowers,Weaver
 Thomas J. Bowers,William Howard Day
@@ -19470,7 +19306,7 @@ Thomas J. Bowers,Bill
 Thomas J. Bowers,Taney
 Thomas J. Bowers,William H. Seward
 Thomas J. Bowers,Jefferson Davis
-Thomas J. Bowers,Hughes
+Thomas J. Bowers,Bishop Hughes
 Thomas J. Bowers,Seymour
 Thomas J. Bowers,Grant
 Thomas J. Bowers,Sherman
@@ -19611,8 +19447,6 @@ Alfred M. Green,N. Y.
 Alfred M. Green,J. P. Sampson
 Alfred M. Green,J. M. Langston
 Alfred M. Green,Turner
-Alfred M. Green,A. M.
-Alfred M. Green,P. M.
 Alfred M. Green,W. P. Newman
 Alfred M. Green,Weaver
 Alfred M. Green,William Howard Day
@@ -19666,7 +19500,7 @@ Alfred M. Green,Bill
 Alfred M. Green,Taney
 Alfred M. Green,William H. Seward
 Alfred M. Green,Jefferson Davis
-Alfred M. Green,Hughes
+Alfred M. Green,Bishop Hughes
 Alfred M. Green,Seymour
 Alfred M. Green,Grant
 Alfred M. Green,Sherman
@@ -19806,8 +19640,6 @@ H.J. Brown,N. Y.
 H.J. Brown,J. P. Sampson
 H.J. Brown,J. M. Langston
 H.J. Brown,Turner
-H.J. Brown,A. M.
-H.J. Brown,P. M.
 H.J. Brown,W. P. Newman
 H.J. Brown,Weaver
 H.J. Brown,William Howard Day
@@ -19861,7 +19693,7 @@ H.J. Brown,Bill
 H.J. Brown,Taney
 H.J. Brown,William H. Seward
 H.J. Brown,Jefferson Davis
-H.J. Brown,Hughes
+H.J. Brown,Bishop Hughes
 H.J. Brown,Seymour
 H.J. Brown,Grant
 H.J. Brown,Sherman
@@ -20000,8 +19832,6 @@ George W. Goines,N. Y.
 George W. Goines,J. P. Sampson
 George W. Goines,J. M. Langston
 George W. Goines,Turner
-George W. Goines,A. M.
-George W. Goines,P. M.
 George W. Goines,W. P. Newman
 George W. Goines,Weaver
 George W. Goines,William Howard Day
@@ -20055,7 +19885,7 @@ George W. Goines,Bill
 George W. Goines,Taney
 George W. Goines,William H. Seward
 George W. Goines,Jefferson Davis
-George W. Goines,Hughes
+George W. Goines,Bishop Hughes
 George W. Goines,Seymour
 George W. Goines,Grant
 George W. Goines,Sherman
@@ -20193,8 +20023,6 @@ John W. Page,N. Y.
 John W. Page,J. P. Sampson
 John W. Page,J. M. Langston
 John W. Page,Turner
-John W. Page,A. M.
-John W. Page,P. M.
 John W. Page,W. P. Newman
 John W. Page,Weaver
 John W. Page,William Howard Day
@@ -20248,7 +20076,7 @@ John W. Page,Bill
 John W. Page,Taney
 John W. Page,William H. Seward
 John W. Page,Jefferson Davis
-John W. Page,Hughes
+John W. Page,Bishop Hughes
 John W. Page,Seymour
 John W. Page,Grant
 John W. Page,Sherman
@@ -20385,8 +20213,6 @@ P.N. Judah,N. Y.
 P.N. Judah,J. P. Sampson
 P.N. Judah,J. M. Langston
 P.N. Judah,Turner
-P.N. Judah,A. M.
-P.N. Judah,P. M.
 P.N. Judah,W. P. Newman
 P.N. Judah,Weaver
 P.N. Judah,William Howard Day
@@ -20440,7 +20266,7 @@ P.N. Judah,Bill
 P.N. Judah,Taney
 P.N. Judah,William H. Seward
 P.N. Judah,Jefferson Davis
-P.N. Judah,Hughes
+P.N. Judah,Bishop Hughes
 P.N. Judah,Seymour
 P.N. Judah,Grant
 P.N. Judah,Sherman
@@ -20576,8 +20402,6 @@ A. Bryan,N. Y.
 A. Bryan,J. P. Sampson
 A. Bryan,J. M. Langston
 A. Bryan,Turner
-A. Bryan,A. M.
-A. Bryan,P. M.
 A. Bryan,W. P. Newman
 A. Bryan,Weaver
 A. Bryan,William Howard Day
@@ -20631,7 +20455,7 @@ A. Bryan,Bill
 A. Bryan,Taney
 A. Bryan,William H. Seward
 A. Bryan,Jefferson Davis
-A. Bryan,Hughes
+A. Bryan,Bishop Hughes
 A. Bryan,Seymour
 A. Bryan,Grant
 A. Bryan,Sherman
@@ -20766,8 +20590,6 @@ D.D. Turner,N. Y.
 D.D. Turner,J. P. Sampson
 D.D. Turner,J. M. Langston
 D.D. Turner,Turner
-D.D. Turner,A. M.
-D.D. Turner,P. M.
 D.D. Turner,W. P. Newman
 D.D. Turner,Weaver
 D.D. Turner,William Howard Day
@@ -20821,7 +20643,7 @@ D.D. Turner,Bill
 D.D. Turner,Taney
 D.D. Turner,William H. Seward
 D.D. Turner,Jefferson Davis
-D.D. Turner,Hughes
+D.D. Turner,Bishop Hughes
 D.D. Turner,Seymour
 D.D. Turner,Grant
 D.D. Turner,Sherman
@@ -20955,8 +20777,6 @@ John W. Simpson,N. Y.
 John W. Simpson,J. P. Sampson
 John W. Simpson,J. M. Langston
 John W. Simpson,Turner
-John W. Simpson,A. M.
-John W. Simpson,P. M.
 John W. Simpson,W. P. Newman
 John W. Simpson,Weaver
 John W. Simpson,William Howard Day
@@ -21010,7 +20830,7 @@ John W. Simpson,Bill
 John W. Simpson,Taney
 John W. Simpson,William H. Seward
 John W. Simpson,Jefferson Davis
-John W. Simpson,Hughes
+John W. Simpson,Bishop Hughes
 John W. Simpson,Seymour
 John W. Simpson,Grant
 John W. Simpson,Sherman
@@ -21143,8 +20963,6 @@ D. Miller,N. Y.
 D. Miller,J. P. Sampson
 D. Miller,J. M. Langston
 D. Miller,Turner
-D. Miller,A. M.
-D. Miller,P. M.
 D. Miller,W. P. Newman
 D. Miller,Weaver
 D. Miller,William Howard Day
@@ -21198,7 +21016,7 @@ D. Miller,Bill
 D. Miller,Taney
 D. Miller,William H. Seward
 D. Miller,Jefferson Davis
-D. Miller,Hughes
+D. Miller,Bishop Hughes
 D. Miller,Seymour
 D. Miller,Grant
 D. Miller,Sherman
@@ -21330,8 +21148,6 @@ Joseph C. Bustill,N. Y.
 Joseph C. Bustill,J. P. Sampson
 Joseph C. Bustill,J. M. Langston
 Joseph C. Bustill,Turner
-Joseph C. Bustill,A. M.
-Joseph C. Bustill,P. M.
 Joseph C. Bustill,W. P. Newman
 Joseph C. Bustill,Weaver
 Joseph C. Bustill,William Howard Day
@@ -21385,7 +21201,7 @@ Joseph C. Bustill,Bill
 Joseph C. Bustill,Taney
 Joseph C. Bustill,William H. Seward
 Joseph C. Bustill,Jefferson Davis
-Joseph C. Bustill,Hughes
+Joseph C. Bustill,Bishop Hughes
 Joseph C. Bustill,Seymour
 Joseph C. Bustill,Grant
 Joseph C. Bustill,Sherman
@@ -21516,8 +21332,6 @@ Charles B. Colly,N. Y.
 Charles B. Colly,J. P. Sampson
 Charles B. Colly,J. M. Langston
 Charles B. Colly,Turner
-Charles B. Colly,A. M.
-Charles B. Colly,P. M.
 Charles B. Colly,W. P. Newman
 Charles B. Colly,Weaver
 Charles B. Colly,William Howard Day
@@ -21571,7 +21385,7 @@ Charles B. Colly,Bill
 Charles B. Colly,Taney
 Charles B. Colly,William H. Seward
 Charles B. Colly,Jefferson Davis
-Charles B. Colly,Hughes
+Charles B. Colly,Bishop Hughes
 Charles B. Colly,Seymour
 Charles B. Colly,Grant
 Charles B. Colly,Sherman
@@ -21701,8 +21515,6 @@ Octavius V. Catto,N. Y.
 Octavius V. Catto,J. P. Sampson
 Octavius V. Catto,J. M. Langston
 Octavius V. Catto,Turner
-Octavius V. Catto,A. M.
-Octavius V. Catto,P. M.
 Octavius V. Catto,W. P. Newman
 Octavius V. Catto,Weaver
 Octavius V. Catto,William Howard Day
@@ -21756,7 +21568,7 @@ Octavius V. Catto,Bill
 Octavius V. Catto,Taney
 Octavius V. Catto,William H. Seward
 Octavius V. Catto,Jefferson Davis
-Octavius V. Catto,Hughes
+Octavius V. Catto,Bishop Hughes
 Octavius V. Catto,Seymour
 Octavius V. Catto,Grant
 Octavius V. Catto,Sherman
@@ -21885,8 +21697,6 @@ James Needham,N. Y.
 James Needham,J. P. Sampson
 James Needham,J. M. Langston
 James Needham,Turner
-James Needham,A. M.
-James Needham,P. M.
 James Needham,W. P. Newman
 James Needham,Weaver
 James Needham,William Howard Day
@@ -21940,7 +21750,7 @@ James Needham,Bill
 James Needham,Taney
 James Needham,William H. Seward
 James Needham,Jefferson Davis
-James Needham,Hughes
+James Needham,Bishop Hughes
 James Needham,Seymour
 James Needham,Grant
 James Needham,Sherman
@@ -22068,8 +21878,6 @@ Jacob C. White,N. Y.
 Jacob C. White,J. P. Sampson
 Jacob C. White,J. M. Langston
 Jacob C. White,Turner
-Jacob C. White,A. M.
-Jacob C. White,P. M.
 Jacob C. White,W. P. Newman
 Jacob C. White,Weaver
 Jacob C. White,William Howard Day
@@ -22123,7 +21931,7 @@ Jacob C. White,Bill
 Jacob C. White,Taney
 Jacob C. White,William H. Seward
 Jacob C. White,Jefferson Davis
-Jacob C. White,Hughes
+Jacob C. White,Bishop Hughes
 Jacob C. White,Seymour
 Jacob C. White,Grant
 Jacob C. White,Sherman
@@ -22250,8 +22058,6 @@ R. Taylor,N. Y.
 R. Taylor,J. P. Sampson
 R. Taylor,J. M. Langston
 R. Taylor,Turner
-R. Taylor,A. M.
-R. Taylor,P. M.
 R. Taylor,W. P. Newman
 R. Taylor,Weaver
 R. Taylor,William Howard Day
@@ -22305,7 +22111,7 @@ R. Taylor,Bill
 R. Taylor,Taney
 R. Taylor,William H. Seward
 R. Taylor,Jefferson Davis
-R. Taylor,Hughes
+R. Taylor,Bishop Hughes
 R. Taylor,Seymour
 R. Taylor,Grant
 R. Taylor,Sherman
@@ -22431,8 +22237,6 @@ James H. Wilson,N. Y.
 James H. Wilson,J. P. Sampson
 James H. Wilson,J. M. Langston
 James H. Wilson,Turner
-James H. Wilson,A. M.
-James H. Wilson,P. M.
 James H. Wilson,W. P. Newman
 James H. Wilson,Weaver
 James H. Wilson,William Howard Day
@@ -22486,7 +22290,7 @@ James H. Wilson,Bill
 James H. Wilson,Taney
 James H. Wilson,William H. Seward
 James H. Wilson,Jefferson Davis
-James H. Wilson,Hughes
+James H. Wilson,Bishop Hughes
 James H. Wilson,Seymour
 James H. Wilson,Grant
 James H. Wilson,Sherman
@@ -22611,8 +22415,6 @@ Samuel Morris,N. Y.
 Samuel Morris,J. P. Sampson
 Samuel Morris,J. M. Langston
 Samuel Morris,Turner
-Samuel Morris,A. M.
-Samuel Morris,P. M.
 Samuel Morris,W. P. Newman
 Samuel Morris,Weaver
 Samuel Morris,William Howard Day
@@ -22666,7 +22468,7 @@ Samuel Morris,Bill
 Samuel Morris,Taney
 Samuel Morris,William H. Seward
 Samuel Morris,Jefferson Davis
-Samuel Morris,Hughes
+Samuel Morris,Bishop Hughes
 Samuel Morris,Seymour
 Samuel Morris,Grant
 Samuel Morris,Sherman
@@ -22790,8 +22592,6 @@ William Nesbit,N. Y.
 William Nesbit,J. P. Sampson
 William Nesbit,J. M. Langston
 William Nesbit,Turner
-William Nesbit,A. M.
-William Nesbit,P. M.
 William Nesbit,W. P. Newman
 William Nesbit,Weaver
 William Nesbit,William Howard Day
@@ -22845,7 +22645,7 @@ William Nesbit,Bill
 William Nesbit,Taney
 William Nesbit,William H. Seward
 William Nesbit,Jefferson Davis
-William Nesbit,Hughes
+William Nesbit,Bishop Hughes
 William Nesbit,Seymour
 William Nesbit,Grant
 William Nesbit,Sherman
@@ -22968,8 +22768,6 @@ Daniel Williams,N. Y.
 Daniel Williams,J. P. Sampson
 Daniel Williams,J. M. Langston
 Daniel Williams,Turner
-Daniel Williams,A. M.
-Daniel Williams,P. M.
 Daniel Williams,W. P. Newman
 Daniel Williams,Weaver
 Daniel Williams,William Howard Day
@@ -23023,7 +22821,7 @@ Daniel Williams,Bill
 Daniel Williams,Taney
 Daniel Williams,William H. Seward
 Daniel Williams,Jefferson Davis
-Daniel Williams,Hughes
+Daniel Williams,Bishop Hughes
 Daniel Williams,Seymour
 Daniel Williams,Grant
 Daniel Williams,Sherman
@@ -23145,8 +22943,6 @@ Joseph A. Nelson,N. Y.
 Joseph A. Nelson,J. P. Sampson
 Joseph A. Nelson,J. M. Langston
 Joseph A. Nelson,Turner
-Joseph A. Nelson,A. M.
-Joseph A. Nelson,P. M.
 Joseph A. Nelson,W. P. Newman
 Joseph A. Nelson,Weaver
 Joseph A. Nelson,William Howard Day
@@ -23200,7 +22996,7 @@ Joseph A. Nelson,Bill
 Joseph A. Nelson,Taney
 Joseph A. Nelson,William H. Seward
 Joseph A. Nelson,Jefferson Davis
-Joseph A. Nelson,Hughes
+Joseph A. Nelson,Bishop Hughes
 Joseph A. Nelson,Seymour
 Joseph A. Nelson,Grant
 Joseph A. Nelson,Sherman
@@ -23321,8 +23117,6 @@ John Peck,N. Y.
 John Peck,J. P. Sampson
 John Peck,J. M. Langston
 John Peck,Turner
-John Peck,A. M.
-John Peck,P. M.
 John Peck,W. P. Newman
 John Peck,Weaver
 John Peck,William Howard Day
@@ -23376,7 +23170,7 @@ John Peck,Bill
 John Peck,Taney
 John Peck,William H. Seward
 John Peck,Jefferson Davis
-John Peck,Hughes
+John Peck,Bishop Hughes
 John Peck,Seymour
 John Peck,Grant
 John Peck,Sherman
@@ -23496,8 +23290,6 @@ B.W. Arnett,N. Y.
 B.W. Arnett,J. P. Sampson
 B.W. Arnett,J. M. Langston
 B.W. Arnett,Turner
-B.W. Arnett,A. M.
-B.W. Arnett,P. M.
 B.W. Arnett,W. P. Newman
 B.W. Arnett,Weaver
 B.W. Arnett,William Howard Day
@@ -23551,7 +23343,7 @@ B.W. Arnett,Bill
 B.W. Arnett,Taney
 B.W. Arnett,William H. Seward
 B.W. Arnett,Jefferson Davis
-B.W. Arnett,Hughes
+B.W. Arnett,Bishop Hughes
 B.W. Arnett,Seymour
 B.W. Arnett,Grant
 B.W. Arnett,Sherman
@@ -23670,8 +23462,6 @@ P. Houston Murray,N. Y.
 P. Houston Murray,J. P. Sampson
 P. Houston Murray,J. M. Langston
 P. Houston Murray,Turner
-P. Houston Murray,A. M.
-P. Houston Murray,P. M.
 P. Houston Murray,W. P. Newman
 P. Houston Murray,Weaver
 P. Houston Murray,William Howard Day
@@ -23725,7 +23515,7 @@ P. Houston Murray,Bill
 P. Houston Murray,Taney
 P. Houston Murray,William H. Seward
 P. Houston Murray,Jefferson Davis
-P. Houston Murray,Hughes
+P. Houston Murray,Bishop Hughes
 P. Houston Murray,Seymour
 P. Houston Murray,Grant
 P. Houston Murray,Sherman
@@ -23843,8 +23633,6 @@ J.J. Wright,N. Y.
 J.J. Wright,J. P. Sampson
 J.J. Wright,J. M. Langston
 J.J. Wright,Turner
-J.J. Wright,A. M.
-J.J. Wright,P. M.
 J.J. Wright,W. P. Newman
 J.J. Wright,Weaver
 J.J. Wright,William Howard Day
@@ -23898,7 +23686,7 @@ J.J. Wright,Bill
 J.J. Wright,Taney
 J.J. Wright,William H. Seward
 J.J. Wright,Jefferson Davis
-J.J. Wright,Hughes
+J.J. Wright,Bishop Hughes
 J.J. Wright,Seymour
 J.J. Wright,Grant
 J.J. Wright,Sherman
@@ -24015,8 +23803,6 @@ Wlliam Douglass,N. Y.
 Wlliam Douglass,J. P. Sampson
 Wlliam Douglass,J. M. Langston
 Wlliam Douglass,Turner
-Wlliam Douglass,A. M.
-Wlliam Douglass,P. M.
 Wlliam Douglass,W. P. Newman
 Wlliam Douglass,Weaver
 Wlliam Douglass,William Howard Day
@@ -24070,7 +23856,7 @@ Wlliam Douglass,Bill
 Wlliam Douglass,Taney
 Wlliam Douglass,William H. Seward
 Wlliam Douglass,Jefferson Davis
-Wlliam Douglass,Hughes
+Wlliam Douglass,Bishop Hughes
 Wlliam Douglass,Seymour
 Wlliam Douglass,Grant
 Wlliam Douglass,Sherman
@@ -24186,8 +23972,6 @@ Corris,N. Y.
 Corris,J. P. Sampson
 Corris,J. M. Langston
 Corris,Turner
-Corris,A. M.
-Corris,P. M.
 Corris,W. P. Newman
 Corris,Weaver
 Corris,William Howard Day
@@ -24241,7 +24025,7 @@ Corris,Bill
 Corris,Taney
 Corris,William H. Seward
 Corris,Jefferson Davis
-Corris,Hughes
+Corris,Bishop Hughes
 Corris,Seymour
 Corris,Grant
 Corris,Sherman
@@ -24356,8 +24140,6 @@ James Davenger,N. Y.
 James Davenger,J. P. Sampson
 James Davenger,J. M. Langston
 James Davenger,Turner
-James Davenger,A. M.
-James Davenger,P. M.
 James Davenger,W. P. Newman
 James Davenger,Weaver
 James Davenger,William Howard Day
@@ -24411,7 +24193,7 @@ James Davenger,Bill
 James Davenger,Taney
 James Davenger,William H. Seward
 James Davenger,Jefferson Davis
-James Davenger,Hughes
+James Davenger,Bishop Hughes
 James Davenger,Seymour
 James Davenger,Grant
 James Davenger,Sherman
@@ -24525,8 +24307,6 @@ George Butler,N. Y.
 George Butler,J. P. Sampson
 George Butler,J. M. Langston
 George Butler,Turner
-George Butler,A. M.
-George Butler,P. M.
 George Butler,W. P. Newman
 George Butler,Weaver
 George Butler,William Howard Day
@@ -24580,7 +24360,7 @@ George Butler,Bill
 George Butler,Taney
 George Butler,William H. Seward
 George Butler,Jefferson Davis
-George Butler,Hughes
+George Butler,Bishop Hughes
 George Butler,Seymour
 George Butler,Grant
 George Butler,Sherman
@@ -24693,8 +24473,6 @@ R.D. Beckley,N. Y.
 R.D. Beckley,J. P. Sampson
 R.D. Beckley,J. M. Langston
 R.D. Beckley,Turner
-R.D. Beckley,A. M.
-R.D. Beckley,P. M.
 R.D. Beckley,W. P. Newman
 R.D. Beckley,Weaver
 R.D. Beckley,William Howard Day
@@ -24748,7 +24526,7 @@ R.D. Beckley,Bill
 R.D. Beckley,Taney
 R.D. Beckley,William H. Seward
 R.D. Beckley,Jefferson Davis
-R.D. Beckley,Hughes
+R.D. Beckley,Bishop Hughes
 R.D. Beckley,Seymour
 R.D. Beckley,Grant
 R.D. Beckley,Sherman
@@ -24860,8 +24638,6 @@ Sampson,N. Y.
 Sampson,J. P. Sampson
 Sampson,J. M. Langston
 Sampson,Turner
-Sampson,A. M.
-Sampson,P. M.
 Sampson,W. P. Newman
 Sampson,Weaver
 Sampson,William Howard Day
@@ -24915,7 +24691,7 @@ Sampson,Bill
 Sampson,Taney
 Sampson,William H. Seward
 Sampson,Jefferson Davis
-Sampson,Hughes
+Sampson,Bishop Hughes
 Sampson,Seymour
 Sampson,Grant
 Sampson,Sherman
@@ -25026,8 +24802,6 @@ P. Morrison,N. Y.
 P. Morrison,J. P. Sampson
 P. Morrison,J. M. Langston
 P. Morrison,Turner
-P. Morrison,A. M.
-P. Morrison,P. M.
 P. Morrison,W. P. Newman
 P. Morrison,Weaver
 P. Morrison,William Howard Day
@@ -25081,7 +24855,7 @@ P. Morrison,Bill
 P. Morrison,Taney
 P. Morrison,William H. Seward
 P. Morrison,Jefferson Davis
-P. Morrison,Hughes
+P. Morrison,Bishop Hughes
 P. Morrison,Seymour
 P. Morrison,Grant
 P. Morrison,Sherman
@@ -25191,8 +24965,6 @@ E.G. Corprew,N. Y.
 E.G. Corprew,J. P. Sampson
 E.G. Corprew,J. M. Langston
 E.G. Corprew,Turner
-E.G. Corprew,A. M.
-E.G. Corprew,P. M.
 E.G. Corprew,W. P. Newman
 E.G. Corprew,Weaver
 E.G. Corprew,William Howard Day
@@ -25246,7 +25018,7 @@ E.G. Corprew,Bill
 E.G. Corprew,Taney
 E.G. Corprew,William H. Seward
 E.G. Corprew,Jefferson Davis
-E.G. Corprew,Hughes
+E.G. Corprew,Bishop Hughes
 E.G. Corprew,Seymour
 E.G. Corprew,Grant
 E.G. Corprew,Sherman
@@ -25355,8 +25127,6 @@ William Keeling,N. Y.
 William Keeling,J. P. Sampson
 William Keeling,J. M. Langston
 William Keeling,Turner
-William Keeling,A. M.
-William Keeling,P. M.
 William Keeling,W. P. Newman
 William Keeling,Weaver
 William Keeling,William Howard Day
@@ -25410,7 +25180,7 @@ William Keeling,Bill
 William Keeling,Taney
 William Keeling,William H. Seward
 William Keeling,Jefferson Davis
-William Keeling,Hughes
+William Keeling,Bishop Hughes
 William Keeling,Seymour
 William Keeling,Grant
 William Keeling,Sherman
@@ -25518,8 +25288,6 @@ A.H. Galloway,N. Y.
 A.H. Galloway,J. P. Sampson
 A.H. Galloway,J. M. Langston
 A.H. Galloway,Turner
-A.H. Galloway,A. M.
-A.H. Galloway,P. M.
 A.H. Galloway,W. P. Newman
 A.H. Galloway,Weaver
 A.H. Galloway,William Howard Day
@@ -25573,7 +25341,7 @@ A.H. Galloway,Bill
 A.H. Galloway,Taney
 A.H. Galloway,William H. Seward
 A.H. Galloway,Jefferson Davis
-A.H. Galloway,Hughes
+A.H. Galloway,Bishop Hughes
 A.H. Galloway,Seymour
 A.H. Galloway,Grant
 A.H. Galloway,Sherman
@@ -25680,8 +25448,6 @@ Newbern,N. Y.
 Newbern,J. P. Sampson
 Newbern,J. M. Langston
 Newbern,Turner
-Newbern,A. M.
-Newbern,P. M.
 Newbern,W. P. Newman
 Newbern,Weaver
 Newbern,William Howard Day
@@ -25735,7 +25501,7 @@ Newbern,Bill
 Newbern,Taney
 Newbern,William H. Seward
 Newbern,Jefferson Davis
-Newbern,Hughes
+Newbern,Bishop Hughes
 Newbern,Seymour
 Newbern,Grant
 Newbern,Sherman
@@ -25841,8 +25607,6 @@ Samuel J. Williams,N. Y.
 Samuel J. Williams,J. P. Sampson
 Samuel J. Williams,J. M. Langston
 Samuel J. Williams,Turner
-Samuel J. Williams,A. M.
-Samuel J. Williams,P. M.
 Samuel J. Williams,W. P. Newman
 Samuel J. Williams,Weaver
 Samuel J. Williams,William Howard Day
@@ -25896,7 +25660,7 @@ Samuel J. Williams,Bill
 Samuel J. Williams,Taney
 Samuel J. Williams,William H. Seward
 Samuel J. Williams,Jefferson Davis
-Samuel J. Williams,Hughes
+Samuel J. Williams,Bishop Hughes
 Samuel J. Williams,Seymour
 Samuel J. Williams,Grant
 Samuel J. Williams,Sherman
@@ -26001,8 +25765,6 @@ M. Scottron,N. Y.
 M. Scottron,J. P. Sampson
 M. Scottron,J. M. Langston
 M. Scottron,Turner
-M. Scottron,A. M.
-M. Scottron,P. M.
 M. Scottron,W. P. Newman
 M. Scottron,Weaver
 M. Scottron,William Howard Day
@@ -26056,7 +25818,7 @@ M. Scottron,Bill
 M. Scottron,Taney
 M. Scottron,William H. Seward
 M. Scottron,Jefferson Davis
-M. Scottron,Hughes
+M. Scottron,Bishop Hughes
 M. Scottron,Seymour
 M. Scottron,Grant
 M. Scottron,Sherman
@@ -26160,8 +25922,6 @@ James H. Ingraham,N. Y.
 James H. Ingraham,J. P. Sampson
 James H. Ingraham,J. M. Langston
 James H. Ingraham,Turner
-James H. Ingraham,A. M.
-James H. Ingraham,P. M.
 James H. Ingraham,W. P. Newman
 James H. Ingraham,Weaver
 James H. Ingraham,William Howard Day
@@ -26215,7 +25975,7 @@ James H. Ingraham,Bill
 James H. Ingraham,Taney
 James H. Ingraham,William H. Seward
 James H. Ingraham,Jefferson Davis
-James H. Ingraham,Hughes
+James H. Ingraham,Bishop Hughes
 James H. Ingraham,Seymour
 James H. Ingraham,Grant
 James H. Ingraham,Sherman
@@ -26318,8 +26078,6 @@ Samuel Scott,N. Y.
 Samuel Scott,J. P. Sampson
 Samuel Scott,J. M. Langston
 Samuel Scott,Turner
-Samuel Scott,A. M.
-Samuel Scott,P. M.
 Samuel Scott,W. P. Newman
 Samuel Scott,Weaver
 Samuel Scott,William Howard Day
@@ -26373,7 +26131,7 @@ Samuel Scott,Bill
 Samuel Scott,Taney
 Samuel Scott,William H. Seward
 Samuel Scott,Jefferson Davis
-Samuel Scott,Hughes
+Samuel Scott,Bishop Hughes
 Samuel Scott,Seymour
 Samuel Scott,Grant
 Samuel Scott,Sherman
@@ -26475,8 +26233,6 @@ N. Orleans,N. Y.
 N. Orleans,J. P. Sampson
 N. Orleans,J. M. Langston
 N. Orleans,Turner
-N. Orleans,A. M.
-N. Orleans,P. M.
 N. Orleans,W. P. Newman
 N. Orleans,Weaver
 N. Orleans,William Howard Day
@@ -26530,7 +26286,7 @@ N. Orleans,Bill
 N. Orleans,Taney
 N. Orleans,William H. Seward
 N. Orleans,Jefferson Davis
-N. Orleans,Hughes
+N. Orleans,Bishop Hughes
 N. Orleans,Seymour
 N. Orleans,Grant
 N. Orleans,Sherman
@@ -26631,8 +26387,6 @@ John P. Sampson,N. Y.
 John P. Sampson,J. P. Sampson
 John P. Sampson,J. M. Langston
 John P. Sampson,Turner
-John P. Sampson,A. M.
-John P. Sampson,P. M.
 John P. Sampson,W. P. Newman
 John P. Sampson,Weaver
 John P. Sampson,William Howard Day
@@ -26686,7 +26440,7 @@ John P. Sampson,Bill
 John P. Sampson,Taney
 John P. Sampson,William H. Seward
 John P. Sampson,Jefferson Davis
-John P. Sampson,Hughes
+John P. Sampson,Bishop Hughes
 John P. Sampson,Seymour
 John P. Sampson,Grant
 John P. Sampson,Sherman
@@ -26786,8 +26540,6 @@ Wm. P. Newman,N. Y.
 Wm. P. Newman,J. P. Sampson
 Wm. P. Newman,J. M. Langston
 Wm. P. Newman,Turner
-Wm. P. Newman,A. M.
-Wm. P. Newman,P. M.
 Wm. P. Newman,W. P. Newman
 Wm. P. Newman,Weaver
 Wm. P. Newman,William Howard Day
@@ -26841,7 +26593,7 @@ Wm. P. Newman,Bill
 Wm. P. Newman,Taney
 Wm. P. Newman,William H. Seward
 Wm. P. Newman,Jefferson Davis
-Wm. P. Newman,Hughes
+Wm. P. Newman,Bishop Hughes
 Wm. P. Newman,Seymour
 Wm. P. Newman,Grant
 Wm. P. Newman,Sherman
@@ -26940,8 +26692,6 @@ John Malvin,N. Y.
 John Malvin,J. P. Sampson
 John Malvin,J. M. Langston
 John Malvin,Turner
-John Malvin,A. M.
-John Malvin,P. M.
 John Malvin,W. P. Newman
 John Malvin,Weaver
 John Malvin,William Howard Day
@@ -26995,7 +26745,7 @@ John Malvin,Bill
 John Malvin,Taney
 John Malvin,William H. Seward
 John Malvin,Jefferson Davis
-John Malvin,Hughes
+John Malvin,Bishop Hughes
 John Malvin,Seymour
 John Malvin,Grant
 John Malvin,Sherman
@@ -27093,8 +26843,6 @@ J.A. Davis,N. Y.
 J.A. Davis,J. P. Sampson
 J.A. Davis,J. M. Langston
 J.A. Davis,Turner
-J.A. Davis,A. M.
-J.A. Davis,P. M.
 J.A. Davis,W. P. Newman
 J.A. Davis,Weaver
 J.A. Davis,William Howard Day
@@ -27148,7 +26896,7 @@ J.A. Davis,Bill
 J.A. Davis,Taney
 J.A. Davis,William H. Seward
 J.A. Davis,Jefferson Davis
-J.A. Davis,Hughes
+J.A. Davis,Bishop Hughes
 J.A. Davis,Seymour
 J.A. Davis,Grant
 J.A. Davis,Sherman
@@ -27245,8 +26993,6 @@ Henry Lee,N. Y.
 Henry Lee,J. P. Sampson
 Henry Lee,J. M. Langston
 Henry Lee,Turner
-Henry Lee,A. M.
-Henry Lee,P. M.
 Henry Lee,W. P. Newman
 Henry Lee,Weaver
 Henry Lee,William Howard Day
@@ -27300,7 +27046,7 @@ Henry Lee,Bill
 Henry Lee,Taney
 Henry Lee,William H. Seward
 Henry Lee,Jefferson Davis
-Henry Lee,Hughes
+Henry Lee,Bishop Hughes
 Henry Lee,Seymour
 Henry Lee,Grant
 Henry Lee,Sherman
@@ -27396,8 +27142,6 @@ J.M.C. Simpson,N. Y.
 J.M.C. Simpson,J. P. Sampson
 J.M.C. Simpson,J. M. Langston
 J.M.C. Simpson,Turner
-J.M.C. Simpson,A. M.
-J.M.C. Simpson,P. M.
 J.M.C. Simpson,W. P. Newman
 J.M.C. Simpson,Weaver
 J.M.C. Simpson,William Howard Day
@@ -27451,7 +27195,7 @@ J.M.C. Simpson,Bill
 J.M.C. Simpson,Taney
 J.M.C. Simpson,William H. Seward
 J.M.C. Simpson,Jefferson Davis
-J.M.C. Simpson,Hughes
+J.M.C. Simpson,Bishop Hughes
 J.M.C. Simpson,Seymour
 J.M.C. Simpson,Grant
 J.M.C. Simpson,Sherman
@@ -27546,8 +27290,6 @@ G.W. Bryant,N. Y.
 G.W. Bryant,J. P. Sampson
 G.W. Bryant,J. M. Langston
 G.W. Bryant,Turner
-G.W. Bryant,A. M.
-G.W. Bryant,P. M.
 G.W. Bryant,W. P. Newman
 G.W. Bryant,Weaver
 G.W. Bryant,William Howard Day
@@ -27601,7 +27343,7 @@ G.W. Bryant,Bill
 G.W. Bryant,Taney
 G.W. Bryant,William H. Seward
 G.W. Bryant,Jefferson Davis
-G.W. Bryant,Hughes
+G.W. Bryant,Bishop Hughes
 G.W. Bryant,Seymour
 G.W. Bryant,Grant
 G.W. Bryant,Sherman
@@ -27695,8 +27437,6 @@ B.K. Sampson,N. Y.
 B.K. Sampson,J. P. Sampson
 B.K. Sampson,J. M. Langston
 B.K. Sampson,Turner
-B.K. Sampson,A. M.
-B.K. Sampson,P. M.
 B.K. Sampson,W. P. Newman
 B.K. Sampson,Weaver
 B.K. Sampson,William Howard Day
@@ -27750,7 +27490,7 @@ B.K. Sampson,Bill
 B.K. Sampson,Taney
 B.K. Sampson,William H. Seward
 B.K. Sampson,Jefferson Davis
-B.K. Sampson,Hughes
+B.K. Sampson,Bishop Hughes
 B.K. Sampson,Seymour
 B.K. Sampson,Grant
 B.K. Sampson,Sherman
@@ -27843,8 +27583,6 @@ H.P. Harris,N. Y.
 H.P. Harris,J. P. Sampson
 H.P. Harris,J. M. Langston
 H.P. Harris,Turner
-H.P. Harris,A. M.
-H.P. Harris,P. M.
 H.P. Harris,W. P. Newman
 H.P. Harris,Weaver
 H.P. Harris,William Howard Day
@@ -27898,7 +27636,7 @@ H.P. Harris,Bill
 H.P. Harris,Taney
 H.P. Harris,William H. Seward
 H.P. Harris,Jefferson Davis
-H.P. Harris,Hughes
+H.P. Harris,Bishop Hughes
 H.P. Harris,Seymour
 H.P. Harris,Grant
 H.P. Harris,Sherman
@@ -27990,8 +27728,6 @@ Adrian,N. Y.
 Adrian,J. P. Sampson
 Adrian,J. M. Langston
 Adrian,Turner
-Adrian,A. M.
-Adrian,P. M.
 Adrian,W. P. Newman
 Adrian,Weaver
 Adrian,William Howard Day
@@ -28045,7 +27781,7 @@ Adrian,Bill
 Adrian,Taney
 Adrian,William H. Seward
 Adrian,Jefferson Davis
-Adrian,Hughes
+Adrian,Bishop Hughes
 Adrian,Seymour
 Adrian,Grant
 Adrian,Sherman
@@ -28136,8 +27872,6 @@ Henry F. Butler,N. Y.
 Henry F. Butler,J. P. Sampson
 Henry F. Butler,J. M. Langston
 Henry F. Butler,Turner
-Henry F. Butler,A. M.
-Henry F. Butler,P. M.
 Henry F. Butler,W. P. Newman
 Henry F. Butler,Weaver
 Henry F. Butler,William Howard Day
@@ -28191,7 +27925,7 @@ Henry F. Butler,Bill
 Henry F. Butler,Taney
 Henry F. Butler,William H. Seward
 Henry F. Butler,Jefferson Davis
-Henry F. Butler,Hughes
+Henry F. Butler,Bishop Hughes
 Henry F. Butler,Seymour
 Henry F. Butler,Grant
 Henry F. Butler,Sherman
@@ -28281,8 +28015,6 @@ John D. Richards,N. Y.
 John D. Richards,J. P. Sampson
 John D. Richards,J. M. Langston
 John D. Richards,Turner
-John D. Richards,A. M.
-John D. Richards,P. M.
 John D. Richards,W. P. Newman
 John D. Richards,Weaver
 John D. Richards,William Howard Day
@@ -28336,7 +28068,7 @@ John D. Richards,Bill
 John D. Richards,Taney
 John D. Richards,William H. Seward
 John D. Richards,Jefferson Davis
-John D. Richards,Hughes
+John D. Richards,Bishop Hughes
 John D. Richards,Seymour
 John D. Richards,Grant
 John D. Richards,Sherman
@@ -28425,8 +28157,6 @@ George H. Parker,N. Y.
 George H. Parker,J. P. Sampson
 George H. Parker,J. M. Langston
 George H. Parker,Turner
-George H. Parker,A. M.
-George H. Parker,P. M.
 George H. Parker,W. P. Newman
 George H. Parker,Weaver
 George H. Parker,William Howard Day
@@ -28480,7 +28210,7 @@ George H. Parker,Bill
 George H. Parker,Taney
 George H. Parker,William H. Seward
 George H. Parker,Jefferson Davis
-George H. Parker,Hughes
+George H. Parker,Bishop Hughes
 George H. Parker,Seymour
 George H. Parker,Grant
 George H. Parker,Sherman
@@ -28568,8 +28298,6 @@ Peter Lowrey,N. Y.
 Peter Lowrey,J. P. Sampson
 Peter Lowrey,J. M. Langston
 Peter Lowrey,Turner
-Peter Lowrey,A. M.
-Peter Lowrey,P. M.
 Peter Lowrey,W. P. Newman
 Peter Lowrey,Weaver
 Peter Lowrey,William Howard Day
@@ -28623,7 +28351,7 @@ Peter Lowrey,Bill
 Peter Lowrey,Taney
 Peter Lowrey,William H. Seward
 Peter Lowrey,Jefferson Davis
-Peter Lowrey,Hughes
+Peter Lowrey,Bishop Hughes
 Peter Lowrey,Seymour
 Peter Lowrey,Grant
 Peter Lowrey,Sherman
@@ -28710,8 +28438,6 @@ Abraham Smith,N. Y.
 Abraham Smith,J. P. Sampson
 Abraham Smith,J. M. Langston
 Abraham Smith,Turner
-Abraham Smith,A. M.
-Abraham Smith,P. M.
 Abraham Smith,W. P. Newman
 Abraham Smith,Weaver
 Abraham Smith,William Howard Day
@@ -28765,7 +28491,7 @@ Abraham Smith,Bill
 Abraham Smith,Taney
 Abraham Smith,William H. Seward
 Abraham Smith,Jefferson Davis
-Abraham Smith,Hughes
+Abraham Smith,Bishop Hughes
 Abraham Smith,Seymour
 Abraham Smith,Grant
 Abraham Smith,Sherman
@@ -28851,8 +28577,6 @@ Morris Henderson,N. Y.
 Morris Henderson,J. P. Sampson
 Morris Henderson,J. M. Langston
 Morris Henderson,Turner
-Morris Henderson,A. M.
-Morris Henderson,P. M.
 Morris Henderson,W. P. Newman
 Morris Henderson,Weaver
 Morris Henderson,William Howard Day
@@ -28906,7 +28630,7 @@ Morris Henderson,Bill
 Morris Henderson,Taney
 Morris Henderson,William H. Seward
 Morris Henderson,Jefferson Davis
-Morris Henderson,Hughes
+Morris Henderson,Bishop Hughes
 Morris Henderson,Seymour
 Morris Henderson,Grant
 Morris Henderson,Sherman
@@ -28991,8 +28715,6 @@ Horatio N. Rankin,N. Y.
 Horatio N. Rankin,J. P. Sampson
 Horatio N. Rankin,J. M. Langston
 Horatio N. Rankin,Turner
-Horatio N. Rankin,A. M.
-Horatio N. Rankin,P. M.
 Horatio N. Rankin,W. P. Newman
 Horatio N. Rankin,Weaver
 Horatio N. Rankin,William Howard Day
@@ -29046,7 +28768,7 @@ Horatio N. Rankin,Bill
 Horatio N. Rankin,Taney
 Horatio N. Rankin,William H. Seward
 Horatio N. Rankin,Jefferson Davis
-Horatio N. Rankin,Hughes
+Horatio N. Rankin,Bishop Hughes
 Horatio N. Rankin,Seymour
 Horatio N. Rankin,Grant
 Horatio N. Rankin,Sherman
@@ -29130,8 +28852,6 @@ Preston G. Wells,N. Y.
 Preston G. Wells,J. P. Sampson
 Preston G. Wells,J. M. Langston
 Preston G. Wells,Turner
-Preston G. Wells,A. M.
-Preston G. Wells,P. M.
 Preston G. Wells,W. P. Newman
 Preston G. Wells,Weaver
 Preston G. Wells,William Howard Day
@@ -29185,7 +28905,7 @@ Preston G. Wells,Bill
 Preston G. Wells,Taney
 Preston G. Wells,William H. Seward
 Preston G. Wells,Jefferson Davis
-Preston G. Wells,Hughes
+Preston G. Wells,Bishop Hughes
 Preston G. Wells,Seymour
 Preston G. Wells,Grant
 Preston G. Wells,Sherman
@@ -29268,8 +28988,6 @@ William Wilson,N. Y.
 William Wilson,J. P. Sampson
 William Wilson,J. M. Langston
 William Wilson,Turner
-William Wilson,A. M.
-William Wilson,P. M.
 William Wilson,W. P. Newman
 William Wilson,Weaver
 William Wilson,William Howard Day
@@ -29323,7 +29041,7 @@ William Wilson,Bill
 William Wilson,Taney
 William Wilson,William H. Seward
 William Wilson,Jefferson Davis
-William Wilson,Hughes
+William Wilson,Bishop Hughes
 William Wilson,Seymour
 William Wilson,Grant
 William Wilson,Sherman
@@ -29405,8 +29123,6 @@ Green,N. Y.
 Green,J. P. Sampson
 Green,J. M. Langston
 Green,Turner
-Green,A. M.
-Green,P. M.
 Green,W. P. Newman
 Green,Weaver
 Green,William Howard Day
@@ -29460,7 +29176,7 @@ Green,Bill
 Green,Taney
 Green,William H. Seward
 Green,Jefferson Davis
-Green,Hughes
+Green,Bishop Hughes
 Green,Seymour
 Green,Grant
 Green,Sherman
@@ -29541,8 +29257,6 @@ H.H. Garnet,N. Y.
 H.H. Garnet,J. P. Sampson
 H.H. Garnet,J. M. Langston
 H.H. Garnet,Turner
-H.H. Garnet,A. M.
-H.H. Garnet,P. M.
 H.H. Garnet,W. P. Newman
 H.H. Garnet,Weaver
 H.H. Garnet,William Howard Day
@@ -29596,7 +29310,7 @@ H.H. Garnet,Bill
 H.H. Garnet,Taney
 H.H. Garnet,William H. Seward
 H.H. Garnet,Jefferson Davis
-H.H. Garnet,Hughes
+H.H. Garnet,Bishop Hughes
 H.H. Garnet,Seymour
 H.H. Garnet,Grant
 H.H. Garnet,Sherman
@@ -29676,8 +29390,6 @@ William Douglass,N. Y.
 William Douglass,J. P. Sampson
 William Douglass,J. M. Langston
 William Douglass,Turner
-William Douglass,A. M.
-William Douglass,P. M.
 William Douglass,W. P. Newman
 William Douglass,Weaver
 William Douglass,William Howard Day
@@ -29731,7 +29443,7 @@ William Douglass,Bill
 William Douglass,Taney
 William Douglass,William H. Seward
 William Douglass,Jefferson Davis
-William Douglass,Hughes
+William Douglass,Bishop Hughes
 William Douglass,Seymour
 William Douglass,Grant
 William Douglass,Sherman
@@ -29810,8 +29522,6 @@ E.D. Bassett,N. Y.
 E.D. Bassett,J. P. Sampson
 E.D. Bassett,J. M. Langston
 E.D. Bassett,Turner
-E.D. Bassett,A. M.
-E.D. Bassett,P. M.
 E.D. Bassett,W. P. Newman
 E.D. Bassett,Weaver
 E.D. Bassett,William Howard Day
@@ -29865,7 +29575,7 @@ E.D. Bassett,Bill
 E.D. Bassett,Taney
 E.D. Bassett,William H. Seward
 E.D. Bassett,Jefferson Davis
-E.D. Bassett,Hughes
+E.D. Bassett,Bishop Hughes
 E.D. Bassett,Seymour
 E.D. Bassett,Grant
 E.D. Bassett,Sherman
@@ -29943,8 +29653,6 @@ Randolph,N. Y.
 Randolph,J. P. Sampson
 Randolph,J. M. Langston
 Randolph,Turner
-Randolph,A. M.
-Randolph,P. M.
 Randolph,W. P. Newman
 Randolph,Weaver
 Randolph,William Howard Day
@@ -29998,7 +29706,7 @@ Randolph,Bill
 Randolph,Taney
 Randolph,William H. Seward
 Randolph,Jefferson Davis
-Randolph,Hughes
+Randolph,Bishop Hughes
 Randolph,Seymour
 Randolph,Grant
 Randolph,Sherman
@@ -30075,8 +29783,6 @@ H. Johnson,N. Y.
 H. Johnson,J. P. Sampson
 H. Johnson,J. M. Langston
 H. Johnson,Turner
-H. Johnson,A. M.
-H. Johnson,P. M.
 H. Johnson,W. P. Newman
 H. Johnson,Weaver
 H. Johnson,William Howard Day
@@ -30130,7 +29836,7 @@ H. Johnson,Bill
 H. Johnson,Taney
 H. Johnson,William H. Seward
 H. Johnson,Jefferson Davis
-H. Johnson,Hughes
+H. Johnson,Bishop Hughes
 H. Johnson,Seymour
 H. Johnson,Grant
 H. Johnson,Sherman
@@ -30206,8 +29912,6 @@ E. Weaver,N. Y.
 E. Weaver,J. P. Sampson
 E. Weaver,J. M. Langston
 E. Weaver,Turner
-E. Weaver,A. M.
-E. Weaver,P. M.
 E. Weaver,W. P. Newman
 E. Weaver,Weaver
 E. Weaver,William Howard Day
@@ -30261,7 +29965,7 @@ E. Weaver,Bill
 E. Weaver,Taney
 E. Weaver,William H. Seward
 E. Weaver,Jefferson Davis
-E. Weaver,Hughes
+E. Weaver,Bishop Hughes
 E. Weaver,Seymour
 E. Weaver,Grant
 E. Weaver,Sherman
@@ -30336,8 +30040,6 @@ Robert Hamilton,N. Y.
 Robert Hamilton,J. P. Sampson
 Robert Hamilton,J. M. Langston
 Robert Hamilton,Turner
-Robert Hamilton,A. M.
-Robert Hamilton,P. M.
 Robert Hamilton,W. P. Newman
 Robert Hamilton,Weaver
 Robert Hamilton,William Howard Day
@@ -30391,7 +30093,7 @@ Robert Hamilton,Bill
 Robert Hamilton,Taney
 Robert Hamilton,William H. Seward
 Robert Hamilton,Jefferson Davis
-Robert Hamilton,Hughes
+Robert Hamilton,Bishop Hughes
 Robert Hamilton,Seymour
 Robert Hamilton,Grant
 Robert Hamilton,Sherman
@@ -30465,8 +30167,6 @@ Downing,N. Y.
 Downing,J. P. Sampson
 Downing,J. M. Langston
 Downing,Turner
-Downing,A. M.
-Downing,P. M.
 Downing,W. P. Newman
 Downing,Weaver
 Downing,William Howard Day
@@ -30520,7 +30220,7 @@ Downing,Bill
 Downing,Taney
 Downing,William H. Seward
 Downing,Jefferson Davis
-Downing,Hughes
+Downing,Bishop Hughes
 Downing,Seymour
 Downing,Grant
 Downing,Sherman
@@ -30593,8 +30293,6 @@ Bassett,N. Y.
 Bassett,J. P. Sampson
 Bassett,J. M. Langston
 Bassett,Turner
-Bassett,A. M.
-Bassett,P. M.
 Bassett,W. P. Newman
 Bassett,Weaver
 Bassett,William Howard Day
@@ -30648,7 +30346,7 @@ Bassett,Bill
 Bassett,Taney
 Bassett,William H. Seward
 Bassett,Jefferson Davis
-Bassett,Hughes
+Bassett,Bishop Hughes
 Bassett,Seymour
 Bassett,Grant
 Bassett,Sherman
@@ -30720,8 +30418,6 @@ P.W. Ray,N. Y.
 P.W. Ray,J. P. Sampson
 P.W. Ray,J. M. Langston
 P.W. Ray,Turner
-P.W. Ray,A. M.
-P.W. Ray,P. M.
 P.W. Ray,W. P. Newman
 P.W. Ray,Weaver
 P.W. Ray,William Howard Day
@@ -30775,7 +30471,7 @@ P.W. Ray,Bill
 P.W. Ray,Taney
 P.W. Ray,William H. Seward
 P.W. Ray,Jefferson Davis
-P.W. Ray,Hughes
+P.W. Ray,Bishop Hughes
 P.W. Ray,Seymour
 P.W. Ray,Grant
 P.W. Ray,Sherman
@@ -30846,8 +30542,6 @@ George T. Downing,N. Y.
 George T. Downing,J. P. Sampson
 George T. Downing,J. M. Langston
 George T. Downing,Turner
-George T. Downing,A. M.
-George T. Downing,P. M.
 George T. Downing,W. P. Newman
 George T. Downing,Weaver
 George T. Downing,William Howard Day
@@ -30901,7 +30595,7 @@ George T. Downing,Bill
 George T. Downing,Taney
 George T. Downing,William H. Seward
 George T. Downing,Jefferson Davis
-George T. Downing,Hughes
+George T. Downing,Bishop Hughes
 George T. Downing,Seymour
 George T. Downing,Grant
 George T. Downing,Sherman
@@ -30971,8 +30665,6 @@ James M. Scottron,N. Y.
 James M. Scottron,J. P. Sampson
 James M. Scottron,J. M. Langston
 James M. Scottron,Turner
-James M. Scottron,A. M.
-James M. Scottron,P. M.
 James M. Scottron,W. P. Newman
 James M. Scottron,Weaver
 James M. Scottron,William Howard Day
@@ -31026,7 +30718,7 @@ James M. Scottron,Bill
 James M. Scottron,Taney
 James M. Scottron,William H. Seward
 James M. Scottron,Jefferson Davis
-James M. Scottron,Hughes
+James M. Scottron,Bishop Hughes
 James M. Scottron,Seymour
 James M. Scottron,Grant
 James M. Scottron,Sherman
@@ -31095,8 +30787,6 @@ P.G. Wells,N. Y.
 P.G. Wells,J. P. Sampson
 P.G. Wells,J. M. Langston
 P.G. Wells,Turner
-P.G. Wells,A. M.
-P.G. Wells,P. M.
 P.G. Wells,W. P. Newman
 P.G. Wells,Weaver
 P.G. Wells,William Howard Day
@@ -31150,7 +30840,7 @@ P.G. Wells,Bill
 P.G. Wells,Taney
 P.G. Wells,William H. Seward
 P.G. Wells,Jefferson Davis
-P.G. Wells,Hughes
+P.G. Wells,Bishop Hughes
 P.G. Wells,Seymour
 P.G. Wells,Grant
 P.G. Wells,Sherman
@@ -31218,8 +30908,6 @@ Douglass,N. Y.
 Douglass,J. P. Sampson
 Douglass,J. M. Langston
 Douglass,Turner
-Douglass,A. M.
-Douglass,P. M.
 Douglass,W. P. Newman
 Douglass,Weaver
 Douglass,William Howard Day
@@ -31273,7 +30961,7 @@ Douglass,Bill
 Douglass,Taney
 Douglass,William H. Seward
 Douglass,Jefferson Davis
-Douglass,Hughes
+Douglass,Bishop Hughes
 Douglass,Seymour
 Douglass,Grant
 Douglass,Sherman
@@ -31340,8 +31028,6 @@ W.W. Ruby,N. Y.
 W.W. Ruby,J. P. Sampson
 W.W. Ruby,J. M. Langston
 W.W. Ruby,Turner
-W.W. Ruby,A. M.
-W.W. Ruby,P. M.
 W.W. Ruby,W. P. Newman
 W.W. Ruby,Weaver
 W.W. Ruby,William Howard Day
@@ -31395,7 +31081,7 @@ W.W. Ruby,Bill
 W.W. Ruby,Taney
 W.W. Ruby,William H. Seward
 W.W. Ruby,Jefferson Davis
-W.W. Ruby,Hughes
+W.W. Ruby,Bishop Hughes
 W.W. Ruby,Seymour
 W.W. Ruby,Grant
 W.W. Ruby,Sherman
@@ -31461,8 +31147,6 @@ James Jefferson,N. Y.
 James Jefferson,J. P. Sampson
 James Jefferson,J. M. Langston
 James Jefferson,Turner
-James Jefferson,A. M.
-James Jefferson,P. M.
 James Jefferson,W. P. Newman
 James Jefferson,Weaver
 James Jefferson,William Howard Day
@@ -31516,7 +31200,7 @@ James Jefferson,Bill
 James Jefferson,Taney
 James Jefferson,William H. Seward
 James Jefferson,Jefferson Davis
-James Jefferson,Hughes
+James Jefferson,Bishop Hughes
 James Jefferson,Seymour
 James Jefferson,Grant
 James Jefferson,Sherman
@@ -31581,8 +31265,6 @@ Abraham J. Morrison,N. Y.
 Abraham J. Morrison,J. P. Sampson
 Abraham J. Morrison,J. M. Langston
 Abraham J. Morrison,Turner
-Abraham J. Morrison,A. M.
-Abraham J. Morrison,P. M.
 Abraham J. Morrison,W. P. Newman
 Abraham J. Morrison,Weaver
 Abraham J. Morrison,William Howard Day
@@ -31636,7 +31318,7 @@ Abraham J. Morrison,Bill
 Abraham J. Morrison,Taney
 Abraham J. Morrison,William H. Seward
 Abraham J. Morrison,Jefferson Davis
-Abraham J. Morrison,Hughes
+Abraham J. Morrison,Bishop Hughes
 Abraham J. Morrison,Seymour
 Abraham J. Morrison,Grant
 Abraham J. Morrison,Sherman
@@ -31700,8 +31382,6 @@ William Rich,N. Y.
 William Rich,J. P. Sampson
 William Rich,J. M. Langston
 William Rich,Turner
-William Rich,A. M.
-William Rich,P. M.
 William Rich,W. P. Newman
 William Rich,Weaver
 William Rich,William Howard Day
@@ -31755,7 +31435,7 @@ William Rich,Bill
 William Rich,Taney
 William Rich,William H. Seward
 William Rich,Jefferson Davis
-William Rich,Hughes
+William Rich,Bishop Hughes
 William Rich,Seymour
 William Rich,Grant
 William Rich,Sherman
@@ -31818,8 +31498,6 @@ S.G. Gould,N. Y.
 S.G. Gould,J. P. Sampson
 S.G. Gould,J. M. Langston
 S.G. Gould,Turner
-S.G. Gould,A. M.
-S.G. Gould,P. M.
 S.G. Gould,W. P. Newman
 S.G. Gould,Weaver
 S.G. Gould,William Howard Day
@@ -31873,7 +31551,7 @@ S.G. Gould,Bill
 S.G. Gould,Taney
 S.G. Gould,William H. Seward
 S.G. Gould,Jefferson Davis
-S.G. Gould,Hughes
+S.G. Gould,Bishop Hughes
 S.G. Gould,Seymour
 S.G. Gould,Grant
 S.G. Gould,Sherman
@@ -31935,8 +31613,6 @@ Abram H. Galloway,N. Y.
 Abram H. Galloway,J. P. Sampson
 Abram H. Galloway,J. M. Langston
 Abram H. Galloway,Turner
-Abram H. Galloway,A. M.
-Abram H. Galloway,P. M.
 Abram H. Galloway,W. P. Newman
 Abram H. Galloway,Weaver
 Abram H. Galloway,William Howard Day
@@ -31990,7 +31666,7 @@ Abram H. Galloway,Bill
 Abram H. Galloway,Taney
 Abram H. Galloway,William H. Seward
 Abram H. Galloway,Jefferson Davis
-Abram H. Galloway,Hughes
+Abram H. Galloway,Bishop Hughes
 Abram H. Galloway,Seymour
 Abram H. Galloway,Grant
 Abram H. Galloway,Sherman
@@ -32051,8 +31727,6 @@ Charles P. Head,N. Y.
 Charles P. Head,J. P. Sampson
 Charles P. Head,J. M. Langston
 Charles P. Head,Turner
-Charles P. Head,A. M.
-Charles P. Head,P. M.
 Charles P. Head,W. P. Newman
 Charles P. Head,Weaver
 Charles P. Head,William Howard Day
@@ -32106,7 +31780,7 @@ Charles P. Head,Bill
 Charles P. Head,Taney
 Charles P. Head,William H. Seward
 Charles P. Head,Jefferson Davis
-Charles P. Head,Hughes
+Charles P. Head,Bishop Hughes
 Charles P. Head,Seymour
 Charles P. Head,Grant
 Charles P. Head,Sherman
@@ -32166,8 +31840,6 @@ Ebenezer D. Bassett,N. Y.
 Ebenezer D. Bassett,J. P. Sampson
 Ebenezer D. Bassett,J. M. Langston
 Ebenezer D. Bassett,Turner
-Ebenezer D. Bassett,A. M.
-Ebenezer D. Bassett,P. M.
 Ebenezer D. Bassett,W. P. Newman
 Ebenezer D. Bassett,Weaver
 Ebenezer D. Bassett,William Howard Day
@@ -32221,7 +31893,7 @@ Ebenezer D. Bassett,Bill
 Ebenezer D. Bassett,Taney
 Ebenezer D. Bassett,William H. Seward
 Ebenezer D. Bassett,Jefferson Davis
-Ebenezer D. Bassett,Hughes
+Ebenezer D. Bassett,Bishop Hughes
 Ebenezer D. Bassett,Seymour
 Ebenezer D. Bassett,Grant
 Ebenezer D. Bassett,Sherman
@@ -32280,8 +31952,6 @@ Edwin C. Freeman,N. Y.
 Edwin C. Freeman,J. P. Sampson
 Edwin C. Freeman,J. M. Langston
 Edwin C. Freeman,Turner
-Edwin C. Freeman,A. M.
-Edwin C. Freeman,P. M.
 Edwin C. Freeman,W. P. Newman
 Edwin C. Freeman,Weaver
 Edwin C. Freeman,William Howard Day
@@ -32335,7 +32005,7 @@ Edwin C. Freeman,Bill
 Edwin C. Freeman,Taney
 Edwin C. Freeman,William H. Seward
 Edwin C. Freeman,Jefferson Davis
-Edwin C. Freeman,Hughes
+Edwin C. Freeman,Bishop Hughes
 Edwin C. Freeman,Seymour
 Edwin C. Freeman,Grant
 Edwin C. Freeman,Sherman
@@ -32393,8 +32063,6 @@ Johnson,N. Y.
 Johnson,J. P. Sampson
 Johnson,J. M. Langston
 Johnson,Turner
-Johnson,A. M.
-Johnson,P. M.
 Johnson,W. P. Newman
 Johnson,Weaver
 Johnson,William Howard Day
@@ -32448,7 +32116,7 @@ Johnson,Bill
 Johnson,Taney
 Johnson,William H. Seward
 Johnson,Jefferson Davis
-Johnson,Hughes
+Johnson,Bishop Hughes
 Johnson,Seymour
 Johnson,Grant
 Johnson,Sherman
@@ -32505,8 +32173,6 @@ J. Mercer Langston,N. Y.
 J. Mercer Langston,J. P. Sampson
 J. Mercer Langston,J. M. Langston
 J. Mercer Langston,Turner
-J. Mercer Langston,A. M.
-J. Mercer Langston,P. M.
 J. Mercer Langston,W. P. Newman
 J. Mercer Langston,Weaver
 J. Mercer Langston,William Howard Day
@@ -32560,7 +32226,7 @@ J. Mercer Langston,Bill
 J. Mercer Langston,Taney
 J. Mercer Langston,William H. Seward
 J. Mercer Langston,Jefferson Davis
-J. Mercer Langston,Hughes
+J. Mercer Langston,Bishop Hughes
 J. Mercer Langston,Seymour
 J. Mercer Langston,Grant
 J. Mercer Langston,Sherman
@@ -32616,8 +32282,6 @@ William P. Newman,N. Y.
 William P. Newman,J. P. Sampson
 William P. Newman,J. M. Langston
 William P. Newman,Turner
-William P. Newman,A. M.
-William P. Newman,P. M.
 William P. Newman,W. P. Newman
 William P. Newman,Weaver
 William P. Newman,William Howard Day
@@ -32671,7 +32335,7 @@ William P. Newman,Bill
 William P. Newman,Taney
 William P. Newman,William H. Seward
 William P. Newman,Jefferson Davis
-William P. Newman,Hughes
+William P. Newman,Bishop Hughes
 William P. Newman,Seymour
 William P. Newman,Grant
 William P. Newman,Sherman
@@ -32726,8 +32390,6 @@ James,N. Y.
 James,J. P. Sampson
 James,J. M. Langston
 James,Turner
-James,A. M.
-James,P. M.
 James,W. P. Newman
 James,Weaver
 James,William Howard Day
@@ -32781,7 +32443,7 @@ James,Bill
 James,Taney
 James,William H. Seward
 James,Jefferson Davis
-James,Hughes
+James,Bishop Hughes
 James,Seymour
 James,Grant
 James,Sherman
@@ -32835,8 +32497,6 @@ Bruce,N. Y.
 Bruce,J. P. Sampson
 Bruce,J. M. Langston
 Bruce,Turner
-Bruce,A. M.
-Bruce,P. M.
 Bruce,W. P. Newman
 Bruce,Weaver
 Bruce,William Howard Day
@@ -32890,7 +32550,7 @@ Bruce,Bill
 Bruce,Taney
 Bruce,William H. Seward
 Bruce,Jefferson Davis
-Bruce,Hughes
+Bruce,Bishop Hughes
 Bruce,Seymour
 Bruce,Grant
 Bruce,Sherman
@@ -32943,8 +32603,6 @@ Davenger,N. Y.
 Davenger,J. P. Sampson
 Davenger,J. M. Langston
 Davenger,Turner
-Davenger,A. M.
-Davenger,P. M.
 Davenger,W. P. Newman
 Davenger,Weaver
 Davenger,William Howard Day
@@ -32998,7 +32656,7 @@ Davenger,Bill
 Davenger,Taney
 Davenger,William H. Seward
 Davenger,Jefferson Davis
-Davenger,Hughes
+Davenger,Bishop Hughes
 Davenger,Seymour
 Davenger,Grant
 Davenger,Sherman
@@ -33050,8 +32708,6 @@ Basset,N. Y.
 Basset,J. P. Sampson
 Basset,J. M. Langston
 Basset,Turner
-Basset,A. M.
-Basset,P. M.
 Basset,W. P. Newman
 Basset,Weaver
 Basset,William Howard Day
@@ -33105,7 +32761,7 @@ Basset,Bill
 Basset,Taney
 Basset,William H. Seward
 Basset,Jefferson Davis
-Basset,Hughes
+Basset,Bishop Hughes
 Basset,Seymour
 Basset,Grant
 Basset,Sherman
@@ -33156,8 +32812,6 @@ Lee,N. Y.
 Lee,J. P. Sampson
 Lee,J. M. Langston
 Lee,Turner
-Lee,A. M.
-Lee,P. M.
 Lee,W. P. Newman
 Lee,Weaver
 Lee,William Howard Day
@@ -33211,7 +32865,7 @@ Lee,Bill
 Lee,Taney
 Lee,William H. Seward
 Lee,Jefferson Davis
-Lee,Hughes
+Lee,Bishop Hughes
 Lee,Seymour
 Lee,Grant
 Lee,Sherman
@@ -33261,8 +32915,6 @@ Clark,N. Y.
 Clark,J. P. Sampson
 Clark,J. M. Langston
 Clark,Turner
-Clark,A. M.
-Clark,P. M.
 Clark,W. P. Newman
 Clark,Weaver
 Clark,William Howard Day
@@ -33316,7 +32968,7 @@ Clark,Bill
 Clark,Taney
 Clark,William H. Seward
 Clark,Jefferson Davis
-Clark,Hughes
+Clark,Bishop Hughes
 Clark,Seymour
 Clark,Grant
 Clark,Sherman
@@ -33365,8 +33017,6 @@ Brown,N. Y.
 Brown,J. P. Sampson
 Brown,J. M. Langston
 Brown,Turner
-Brown,A. M.
-Brown,P. M.
 Brown,W. P. Newman
 Brown,Weaver
 Brown,William Howard Day
@@ -33420,7 +33070,7 @@ Brown,Bill
 Brown,Taney
 Brown,William H. Seward
 Brown,Jefferson Davis
-Brown,Hughes
+Brown,Bishop Hughes
 Brown,Seymour
 Brown,Grant
 Brown,Sherman
@@ -33468,8 +33118,6 @@ J.M. Langston,N. Y.
 J.M. Langston,J. P. Sampson
 J.M. Langston,J. M. Langston
 J.M. Langston,Turner
-J.M. Langston,A. M.
-J.M. Langston,P. M.
 J.M. Langston,W. P. Newman
 J.M. Langston,Weaver
 J.M. Langston,William Howard Day
@@ -33523,7 +33171,7 @@ J.M. Langston,Bill
 J.M. Langston,Taney
 J.M. Langston,William H. Seward
 J.M. Langston,Jefferson Davis
-J.M. Langston,Hughes
+J.M. Langston,Bishop Hughes
 J.M. Langston,Seymour
 J.M. Langston,Grant
 J.M. Langston,Sherman
@@ -33570,8 +33218,6 @@ Wm. H. Johnson,N. Y.
 Wm. H. Johnson,J. P. Sampson
 Wm. H. Johnson,J. M. Langston
 Wm. H. Johnson,Turner
-Wm. H. Johnson,A. M.
-Wm. H. Johnson,P. M.
 Wm. H. Johnson,W. P. Newman
 Wm. H. Johnson,Weaver
 Wm. H. Johnson,William Howard Day
@@ -33625,7 +33271,7 @@ Wm. H. Johnson,Bill
 Wm. H. Johnson,Taney
 Wm. H. Johnson,William H. Seward
 Wm. H. Johnson,Jefferson Davis
-Wm. H. Johnson,Hughes
+Wm. H. Johnson,Bishop Hughes
 Wm. H. Johnson,Seymour
 Wm. H. Johnson,Grant
 Wm. H. Johnson,Sherman
@@ -33671,8 +33317,6 @@ J.H. Ingraham,N. Y.
 J.H. Ingraham,J. P. Sampson
 J.H. Ingraham,J. M. Langston
 J.H. Ingraham,Turner
-J.H. Ingraham,A. M.
-J.H. Ingraham,P. M.
 J.H. Ingraham,W. P. Newman
 J.H. Ingraham,Weaver
 J.H. Ingraham,William Howard Day
@@ -33726,7 +33370,7 @@ J.H. Ingraham,Bill
 J.H. Ingraham,Taney
 J.H. Ingraham,William H. Seward
 J.H. Ingraham,Jefferson Davis
-J.H. Ingraham,Hughes
+J.H. Ingraham,Bishop Hughes
 J.H. Ingraham,Seymour
 J.H. Ingraham,Grant
 J.H. Ingraham,Sherman
@@ -33771,8 +33415,6 @@ Samuel M. Scottron,N. Y.
 Samuel M. Scottron,J. P. Sampson
 Samuel M. Scottron,J. M. Langston
 Samuel M. Scottron,Turner
-Samuel M. Scottron,A. M.
-Samuel M. Scottron,P. M.
 Samuel M. Scottron,W. P. Newman
 Samuel M. Scottron,Weaver
 Samuel M. Scottron,William Howard Day
@@ -33826,7 +33468,7 @@ Samuel M. Scottron,Bill
 Samuel M. Scottron,Taney
 Samuel M. Scottron,William H. Seward
 Samuel M. Scottron,Jefferson Davis
-Samuel M. Scottron,Hughes
+Samuel M. Scottron,Bishop Hughes
 Samuel M. Scottron,Seymour
 Samuel M. Scottron,Grant
 Samuel M. Scottron,Sherman
@@ -33870,8 +33512,6 @@ J.D. Richards,N. Y.
 J.D. Richards,J. P. Sampson
 J.D. Richards,J. M. Langston
 J.D. Richards,Turner
-J.D. Richards,A. M.
-J.D. Richards,P. M.
 J.D. Richards,W. P. Newman
 J.D. Richards,Weaver
 J.D. Richards,William Howard Day
@@ -33925,7 +33565,7 @@ J.D. Richards,Bill
 J.D. Richards,Taney
 J.D. Richards,William H. Seward
 J.D. Richards,Jefferson Davis
-J.D. Richards,Hughes
+J.D. Richards,Bishop Hughes
 J.D. Richards,Seymour
 J.D. Richards,Grant
 J.D. Richards,Sherman
@@ -33968,8 +33608,6 @@ F.L. Cordoza,N. Y.
 F.L. Cordoza,J. P. Sampson
 F.L. Cordoza,J. M. Langston
 F.L. Cordoza,Turner
-F.L. Cordoza,A. M.
-F.L. Cordoza,P. M.
 F.L. Cordoza,W. P. Newman
 F.L. Cordoza,Weaver
 F.L. Cordoza,William Howard Day
@@ -34023,7 +33661,7 @@ F.L. Cordoza,Bill
 F.L. Cordoza,Taney
 F.L. Cordoza,William H. Seward
 F.L. Cordoza,Jefferson Davis
-F.L. Cordoza,Hughes
+F.L. Cordoza,Bishop Hughes
 F.L. Cordoza,Seymour
 F.L. Cordoza,Grant
 F.L. Cordoza,Sherman
@@ -34065,8 +33703,6 @@ S.J. Murray,N. Y.
 S.J. Murray,J. P. Sampson
 S.J. Murray,J. M. Langston
 S.J. Murray,Turner
-S.J. Murray,A. M.
-S.J. Murray,P. M.
 S.J. Murray,W. P. Newman
 S.J. Murray,Weaver
 S.J. Murray,William Howard Day
@@ -34120,7 +33756,7 @@ S.J. Murray,Bill
 S.J. Murray,Taney
 S.J. Murray,William H. Seward
 S.J. Murray,Jefferson Davis
-S.J. Murray,Hughes
+S.J. Murray,Bishop Hughes
 S.J. Murray,Seymour
 S.J. Murray,Grant
 S.J. Murray,Sherman
@@ -34161,8 +33797,6 @@ W.H. Johnson,N. Y.
 W.H. Johnson,J. P. Sampson
 W.H. Johnson,J. M. Langston
 W.H. Johnson,Turner
-W.H. Johnson,A. M.
-W.H. Johnson,P. M.
 W.H. Johnson,W. P. Newman
 W.H. Johnson,Weaver
 W.H. Johnson,William Howard Day
@@ -34216,7 +33850,7 @@ W.H. Johnson,Bill
 W.H. Johnson,Taney
 W.H. Johnson,William H. Seward
 W.H. Johnson,Jefferson Davis
-W.H. Johnson,Hughes
+W.H. Johnson,Bishop Hughes
 W.H. Johnson,Seymour
 W.H. Johnson,Grant
 W.H. Johnson,Sherman
@@ -34256,8 +33890,6 @@ G.B. Vashon,N. Y.
 G.B. Vashon,J. P. Sampson
 G.B. Vashon,J. M. Langston
 G.B. Vashon,Turner
-G.B. Vashon,A. M.
-G.B. Vashon,P. M.
 G.B. Vashon,W. P. Newman
 G.B. Vashon,Weaver
 G.B. Vashon,William Howard Day
@@ -34311,7 +33943,7 @@ G.B. Vashon,Bill
 G.B. Vashon,Taney
 G.B. Vashon,William H. Seward
 G.B. Vashon,Jefferson Davis
-G.B. Vashon,Hughes
+G.B. Vashon,Bishop Hughes
 G.B. Vashon,Seymour
 G.B. Vashon,Grant
 G.B. Vashon,Sherman
@@ -34350,8 +33982,6 @@ William Nesbitt,N. Y.
 William Nesbitt,J. P. Sampson
 William Nesbitt,J. M. Langston
 William Nesbitt,Turner
-William Nesbitt,A. M.
-William Nesbitt,P. M.
 William Nesbitt,W. P. Newman
 William Nesbitt,Weaver
 William Nesbitt,William Howard Day
@@ -34405,7 +34035,7 @@ William Nesbitt,Bill
 William Nesbitt,Taney
 William Nesbitt,William H. Seward
 William Nesbitt,Jefferson Davis
-William Nesbitt,Hughes
+William Nesbitt,Bishop Hughes
 William Nesbitt,Seymour
 William Nesbitt,Grant
 William Nesbitt,Sherman
@@ -34443,8 +34073,6 @@ George B. Vashon,N. Y.
 George B. Vashon,J. P. Sampson
 George B. Vashon,J. M. Langston
 George B. Vashon,Turner
-George B. Vashon,A. M.
-George B. Vashon,P. M.
 George B. Vashon,W. P. Newman
 George B. Vashon,Weaver
 George B. Vashon,William Howard Day
@@ -34498,7 +34126,7 @@ George B. Vashon,Bill
 George B. Vashon,Taney
 George B. Vashon,William H. Seward
 George B. Vashon,Jefferson Davis
-George B. Vashon,Hughes
+George B. Vashon,Bishop Hughes
 George B. Vashon,Seymour
 George B. Vashon,Grant
 George B. Vashon,Sherman
@@ -34535,8 +34163,6 @@ H.H. Bruce,N. Y.
 H.H. Bruce,J. P. Sampson
 H.H. Bruce,J. M. Langston
 H.H. Bruce,Turner
-H.H. Bruce,A. M.
-H.H. Bruce,P. M.
 H.H. Bruce,W. P. Newman
 H.H. Bruce,Weaver
 H.H. Bruce,William Howard Day
@@ -34590,7 +34216,7 @@ H.H. Bruce,Bill
 H.H. Bruce,Taney
 H.H. Bruce,William H. Seward
 H.H. Bruce,Jefferson Davis
-H.H. Bruce,Hughes
+H.H. Bruce,Bishop Hughes
 H.H. Bruce,Seymour
 H.H. Bruce,Grant
 H.H. Bruce,Sherman
@@ -34626,8 +34252,6 @@ Langston,N. Y.
 Langston,J. P. Sampson
 Langston,J. M. Langston
 Langston,Turner
-Langston,A. M.
-Langston,P. M.
 Langston,W. P. Newman
 Langston,Weaver
 Langston,William Howard Day
@@ -34681,7 +34305,7 @@ Langston,Bill
 Langston,Taney
 Langston,William H. Seward
 Langston,Jefferson Davis
-Langston,Hughes
+Langston,Bishop Hughes
 Langston,Seymour
 Langston,Grant
 Langston,Sherman
@@ -34716,8 +34340,6 @@ B. Randolph,N. Y.
 B. Randolph,J. P. Sampson
 B. Randolph,J. M. Langston
 B. Randolph,Turner
-B. Randolph,A. M.
-B. Randolph,P. M.
 B. Randolph,W. P. Newman
 B. Randolph,Weaver
 B. Randolph,William Howard Day
@@ -34771,7 +34393,7 @@ B. Randolph,Bill
 B. Randolph,Taney
 B. Randolph,William H. Seward
 B. Randolph,Jefferson Davis
-B. Randolph,Hughes
+B. Randolph,Bishop Hughes
 B. Randolph,Seymour
 B. Randolph,Grant
 B. Randolph,Sherman
@@ -34805,8 +34427,6 @@ Bryant,N. Y.
 Bryant,J. P. Sampson
 Bryant,J. M. Langston
 Bryant,Turner
-Bryant,A. M.
-Bryant,P. M.
 Bryant,W. P. Newman
 Bryant,Weaver
 Bryant,William Howard Day
@@ -34860,7 +34480,7 @@ Bryant,Bill
 Bryant,Taney
 Bryant,William H. Seward
 Bryant,Jefferson Davis
-Bryant,Hughes
+Bryant,Bishop Hughes
 Bryant,Seymour
 Bryant,Grant
 Bryant,Sherman
@@ -34893,8 +34513,6 @@ O.C. Hughes,N. Y.
 O.C. Hughes,J. P. Sampson
 O.C. Hughes,J. M. Langston
 O.C. Hughes,Turner
-O.C. Hughes,A. M.
-O.C. Hughes,P. M.
 O.C. Hughes,W. P. Newman
 O.C. Hughes,Weaver
 O.C. Hughes,William Howard Day
@@ -34948,7 +34566,7 @@ O.C. Hughes,Bill
 O.C. Hughes,Taney
 O.C. Hughes,William H. Seward
 O.C. Hughes,Jefferson Davis
-O.C. Hughes,Hughes
+O.C. Hughes,Bishop Hughes
 O.C. Hughes,Seymour
 O.C. Hughes,Grant
 O.C. Hughes,Sherman
@@ -34980,8 +34598,6 @@ William Wells Brown,N. Y.
 William Wells Brown,J. P. Sampson
 William Wells Brown,J. M. Langston
 William Wells Brown,Turner
-William Wells Brown,A. M.
-William Wells Brown,P. M.
 William Wells Brown,W. P. Newman
 William Wells Brown,Weaver
 William Wells Brown,William Howard Day
@@ -35035,7 +34651,7 @@ William Wells Brown,Bill
 William Wells Brown,Taney
 William Wells Brown,William H. Seward
 William Wells Brown,Jefferson Davis
-William Wells Brown,Hughes
+William Wells Brown,Bishop Hughes
 William Wells Brown,Seymour
 William Wells Brown,Grant
 William Wells Brown,Sherman
@@ -35066,8 +34682,6 @@ Wright,N. Y.
 Wright,J. P. Sampson
 Wright,J. M. Langston
 Wright,Turner
-Wright,A. M.
-Wright,P. M.
 Wright,W. P. Newman
 Wright,Weaver
 Wright,William Howard Day
@@ -35121,7 +34735,7 @@ Wright,Bill
 Wright,Taney
 Wright,William H. Seward
 Wright,Jefferson Davis
-Wright,Hughes
+Wright,Bishop Hughes
 Wright,Seymour
 Wright,Grant
 Wright,Sherman
@@ -35151,8 +34765,6 @@ F. Douglass,N. Y.
 F. Douglass,J. P. Sampson
 F. Douglass,J. M. Langston
 F. Douglass,Turner
-F. Douglass,A. M.
-F. Douglass,P. M.
 F. Douglass,W. P. Newman
 F. Douglass,Weaver
 F. Douglass,William Howard Day
@@ -35206,7 +34818,7 @@ F. Douglass,Bill
 F. Douglass,Taney
 F. Douglass,William H. Seward
 F. Douglass,Jefferson Davis
-F. Douglass,Hughes
+F. Douglass,Bishop Hughes
 F. Douglass,Seymour
 F. Douglass,Grant
 F. Douglass,Sherman
@@ -35235,8 +34847,6 @@ W.W. Brown,N. Y.
 W.W. Brown,J. P. Sampson
 W.W. Brown,J. M. Langston
 W.W. Brown,Turner
-W.W. Brown,A. M.
-W.W. Brown,P. M.
 W.W. Brown,W. P. Newman
 W.W. Brown,Weaver
 W.W. Brown,William Howard Day
@@ -35290,7 +34900,7 @@ W.W. Brown,Bill
 W.W. Brown,Taney
 W.W. Brown,William H. Seward
 W.W. Brown,Jefferson Davis
-W.W. Brown,Hughes
+W.W. Brown,Bishop Hughes
 W.W. Brown,Seymour
 W.W. Brown,Grant
 W.W. Brown,Sherman
@@ -35318,8 +34928,6 @@ Murray,N. Y.
 Murray,J. P. Sampson
 Murray,J. M. Langston
 Murray,Turner
-Murray,A. M.
-Murray,P. M.
 Murray,W. P. Newman
 Murray,Weaver
 Murray,William Howard Day
@@ -35373,7 +34981,7 @@ Murray,Bill
 Murray,Taney
 Murray,William H. Seward
 Murray,Jefferson Davis
-Murray,Hughes
+Murray,Bishop Hughes
 Murray,Seymour
 Murray,Grant
 Murray,Sherman
@@ -35400,8 +35008,6 @@ Myers,N. Y.
 Myers,J. P. Sampson
 Myers,J. M. Langston
 Myers,Turner
-Myers,A. M.
-Myers,P. M.
 Myers,W. P. Newman
 Myers,Weaver
 Myers,William Howard Day
@@ -35455,7 +35061,7 @@ Myers,Bill
 Myers,Taney
 Myers,William H. Seward
 Myers,Jefferson Davis
-Myers,Hughes
+Myers,Bishop Hughes
 Myers,Seymour
 Myers,Grant
 Myers,Sherman
@@ -35481,8 +35087,6 @@ Elkins,N. Y.
 Elkins,J. P. Sampson
 Elkins,J. M. Langston
 Elkins,Turner
-Elkins,A. M.
-Elkins,P. M.
 Elkins,W. P. Newman
 Elkins,Weaver
 Elkins,William Howard Day
@@ -35536,7 +35140,7 @@ Elkins,Bill
 Elkins,Taney
 Elkins,William H. Seward
 Elkins,Jefferson Davis
-Elkins,Hughes
+Elkins,Bishop Hughes
 Elkins,Seymour
 Elkins,Grant
 Elkins,Sherman
@@ -35561,8 +35165,6 @@ Henry Moore,N. Y.
 Henry Moore,J. P. Sampson
 Henry Moore,J. M. Langston
 Henry Moore,Turner
-Henry Moore,A. M.
-Henry Moore,P. M.
 Henry Moore,W. P. Newman
 Henry Moore,Weaver
 Henry Moore,William Howard Day
@@ -35616,7 +35218,7 @@ Henry Moore,Bill
 Henry Moore,Taney
 Henry Moore,William H. Seward
 Henry Moore,Jefferson Davis
-Henry Moore,Hughes
+Henry Moore,Bishop Hughes
 Henry Moore,Seymour
 Henry Moore,Grant
 Henry Moore,Sherman
@@ -35640,8 +35242,6 @@ Richards,N. Y.
 Richards,J. P. Sampson
 Richards,J. M. Langston
 Richards,Turner
-Richards,A. M.
-Richards,P. M.
 Richards,W. P. Newman
 Richards,Weaver
 Richards,William Howard Day
@@ -35695,7 +35295,7 @@ Richards,Bill
 Richards,Taney
 Richards,William H. Seward
 Richards,Jefferson Davis
-Richards,Hughes
+Richards,Bishop Hughes
 Richards,Seymour
 Richards,Grant
 Richards,Sherman
@@ -35718,8 +35318,6 @@ Newman,N. Y.
 Newman,J. P. Sampson
 Newman,J. M. Langston
 Newman,Turner
-Newman,A. M.
-Newman,P. M.
 Newman,W. P. Newman
 Newman,Weaver
 Newman,William Howard Day
@@ -35773,7 +35371,7 @@ Newman,Bill
 Newman,Taney
 Newman,William H. Seward
 Newman,Jefferson Davis
-Newman,Hughes
+Newman,Bishop Hughes
 Newman,Seymour
 Newman,Grant
 Newman,Sherman
@@ -35795,8 +35393,6 @@ J.B. Smith,N. Y.
 J.B. Smith,J. P. Sampson
 J.B. Smith,J. M. Langston
 J.B. Smith,Turner
-J.B. Smith,A. M.
-J.B. Smith,P. M.
 J.B. Smith,W. P. Newman
 J.B. Smith,Weaver
 J.B. Smith,William Howard Day
@@ -35850,7 +35446,7 @@ J.B. Smith,Bill
 J.B. Smith,Taney
 J.B. Smith,William H. Seward
 J.B. Smith,Jefferson Davis
-J.B. Smith,Hughes
+J.B. Smith,Bishop Hughes
 J.B. Smith,Seymour
 J.B. Smith,Grant
 J.B. Smith,Sherman
@@ -35871,8 +35467,6 @@ Ingraham,N. Y.
 Ingraham,J. P. Sampson
 Ingraham,J. M. Langston
 Ingraham,Turner
-Ingraham,A. M.
-Ingraham,P. M.
 Ingraham,W. P. Newman
 Ingraham,Weaver
 Ingraham,William Howard Day
@@ -35926,7 +35520,7 @@ Ingraham,Bill
 Ingraham,Taney
 Ingraham,William H. Seward
 Ingraham,Jefferson Davis
-Ingraham,Hughes
+Ingraham,Bishop Hughes
 Ingraham,Seymour
 Ingraham,Grant
 Ingraham,Sherman
@@ -35946,8 +35540,6 @@ Cailloux,N. Y.
 Cailloux,J. P. Sampson
 Cailloux,J. M. Langston
 Cailloux,Turner
-Cailloux,A. M.
-Cailloux,P. M.
 Cailloux,W. P. Newman
 Cailloux,Weaver
 Cailloux,William Howard Day
@@ -36001,7 +35593,7 @@ Cailloux,Bill
 Cailloux,Taney
 Cailloux,William H. Seward
 Cailloux,Jefferson Davis
-Cailloux,Hughes
+Cailloux,Bishop Hughes
 Cailloux,Seymour
 Cailloux,Grant
 Cailloux,Sherman
@@ -36020,8 +35612,6 @@ John Brown,N. Y.
 John Brown,J. P. Sampson
 John Brown,J. M. Langston
 John Brown,Turner
-John Brown,A. M.
-John Brown,P. M.
 John Brown,W. P. Newman
 John Brown,Weaver
 John Brown,William Howard Day
@@ -36075,7 +35665,7 @@ John Brown,Bill
 John Brown,Taney
 John Brown,William H. Seward
 John Brown,Jefferson Davis
-John Brown,Hughes
+John Brown,Bishop Hughes
 John Brown,Seymour
 John Brown,Grant
 John Brown,Sherman
@@ -36093,8 +35683,6 @@ Seward,N. Y.
 Seward,J. P. Sampson
 Seward,J. M. Langston
 Seward,Turner
-Seward,A. M.
-Seward,P. M.
 Seward,W. P. Newman
 Seward,Weaver
 Seward,William Howard Day
@@ -36148,7 +35736,7 @@ Seward,Bill
 Seward,Taney
 Seward,William H. Seward
 Seward,Jefferson Davis
-Seward,Hughes
+Seward,Bishop Hughes
 Seward,Seymour
 Seward,Grant
 Seward,Sherman
@@ -36165,8 +35753,6 @@ Martin,N. Y.
 Martin,J. P. Sampson
 Martin,J. M. Langston
 Martin,Turner
-Martin,A. M.
-Martin,P. M.
 Martin,W. P. Newman
 Martin,Weaver
 Martin,William Howard Day
@@ -36220,7 +35806,7 @@ Martin,Bill
 Martin,Taney
 Martin,William H. Seward
 Martin,Jefferson Davis
-Martin,Hughes
+Martin,Bishop Hughes
 Martin,Seymour
 Martin,Grant
 Martin,Sherman
@@ -36236,8 +35822,6 @@ Anna Dickinsons,N. Y.
 Anna Dickinsons,J. P. Sampson
 Anna Dickinsons,J. M. Langston
 Anna Dickinsons,Turner
-Anna Dickinsons,A. M.
-Anna Dickinsons,P. M.
 Anna Dickinsons,W. P. Newman
 Anna Dickinsons,Weaver
 Anna Dickinsons,William Howard Day
@@ -36291,7 +35875,7 @@ Anna Dickinsons,Bill
 Anna Dickinsons,Taney
 Anna Dickinsons,William H. Seward
 Anna Dickinsons,Jefferson Davis
-Anna Dickinsons,Hughes
+Anna Dickinsons,Bishop Hughes
 Anna Dickinsons,Seymour
 Anna Dickinsons,Grant
 Anna Dickinsons,Sherman
@@ -36306,8 +35890,6 @@ Edmonia Highgate,N. Y.
 Edmonia Highgate,J. P. Sampson
 Edmonia Highgate,J. M. Langston
 Edmonia Highgate,Turner
-Edmonia Highgate,A. M.
-Edmonia Highgate,P. M.
 Edmonia Highgate,W. P. Newman
 Edmonia Highgate,Weaver
 Edmonia Highgate,William Howard Day
@@ -36361,7 +35943,7 @@ Edmonia Highgate,Bill
 Edmonia Highgate,Taney
 Edmonia Highgate,William H. Seward
 Edmonia Highgate,Jefferson Davis
-Edmonia Highgate,Hughes
+Edmonia Highgate,Bishop Hughes
 Edmonia Highgate,Seymour
 Edmonia Highgate,Grant
 Edmonia Highgate,Sherman
@@ -36375,8 +35957,6 @@ Bates,N. Y.
 Bates,J. P. Sampson
 Bates,J. M. Langston
 Bates,Turner
-Bates,A. M.
-Bates,P. M.
 Bates,W. P. Newman
 Bates,Weaver
 Bates,William Howard Day
@@ -36430,7 +36010,7 @@ Bates,Bill
 Bates,Taney
 Bates,William H. Seward
 Bates,Jefferson Davis
-Bates,Hughes
+Bates,Bishop Hughes
 Bates,Seymour
 Bates,Grant
 Bates,Sherman
@@ -36443,8 +36023,6 @@ P. H. Clark,N. Y.
 P. H. Clark,J. P. Sampson
 P. H. Clark,J. M. Langston
 P. H. Clark,Turner
-P. H. Clark,A. M.
-P. H. Clark,P. M.
 P. H. Clark,W. P. Newman
 P. H. Clark,Weaver
 P. H. Clark,William Howard Day
@@ -36498,7 +36076,7 @@ P. H. Clark,Bill
 P. H. Clark,Taney
 P. H. Clark,William H. Seward
 P. H. Clark,Jefferson Davis
-P. H. Clark,Hughes
+P. H. Clark,Bishop Hughes
 P. H. Clark,Seymour
 P. H. Clark,Grant
 P. H. Clark,Sherman
@@ -36510,8 +36088,6 @@ H. H. Garnet,N. Y.
 H. H. Garnet,J. P. Sampson
 H. H. Garnet,J. M. Langston
 H. H. Garnet,Turner
-H. H. Garnet,A. M.
-H. H. Garnet,P. M.
 H. H. Garnet,W. P. Newman
 H. H. Garnet,Weaver
 H. H. Garnet,William Howard Day
@@ -36565,7 +36141,7 @@ H. H. Garnet,Bill
 H. H. Garnet,Taney
 H. H. Garnet,William H. Seward
 H. H. Garnet,Jefferson Davis
-H. H. Garnet,Hughes
+H. H. Garnet,Bishop Hughes
 H. H. Garnet,Seymour
 H. H. Garnet,Grant
 H. H. Garnet,Sherman
@@ -36576,8 +36152,6 @@ L. H. Putnam,N. Y.
 L. H. Putnam,J. P. Sampson
 L. H. Putnam,J. M. Langston
 L. H. Putnam,Turner
-L. H. Putnam,A. M.
-L. H. Putnam,P. M.
 L. H. Putnam,W. P. Newman
 L. H. Putnam,Weaver
 L. H. Putnam,William Howard Day
@@ -36631,7 +36205,7 @@ L. H. Putnam,Bill
 L. H. Putnam,Taney
 L. H. Putnam,William H. Seward
 L. H. Putnam,Jefferson Davis
-L. H. Putnam,Hughes
+L. H. Putnam,Bishop Hughes
 L. H. Putnam,Seymour
 L. H. Putnam,Grant
 L. H. Putnam,Sherman
@@ -36641,8 +36215,6 @@ W. H. Johnson,N. Y.
 W. H. Johnson,J. P. Sampson
 W. H. Johnson,J. M. Langston
 W. H. Johnson,Turner
-W. H. Johnson,A. M.
-W. H. Johnson,P. M.
 W. H. Johnson,W. P. Newman
 W. H. Johnson,Weaver
 W. H. Johnson,William Howard Day
@@ -36696,7 +36268,7 @@ W. H. Johnson,Bill
 W. H. Johnson,Taney
 W. H. Johnson,William H. Seward
 W. H. Johnson,Jefferson Davis
-W. H. Johnson,Hughes
+W. H. Johnson,Bishop Hughes
 W. H. Johnson,Seymour
 W. H. Johnson,Grant
 W. H. Johnson,Sherman
@@ -36705,8 +36277,6 @@ William F. Murray,N. Y.
 William F. Murray,J. P. Sampson
 William F. Murray,J. M. Langston
 William F. Murray,Turner
-William F. Murray,A. M.
-William F. Murray,P. M.
 William F. Murray,W. P. Newman
 William F. Murray,Weaver
 William F. Murray,William Howard Day
@@ -36760,7 +36330,7 @@ William F. Murray,Bill
 William F. Murray,Taney
 William F. Murray,William H. Seward
 William F. Murray,Jefferson Davis
-William F. Murray,Hughes
+William F. Murray,Bishop Hughes
 William F. Murray,Seymour
 William F. Murray,Grant
 William F. Murray,Sherman
@@ -36768,8 +36338,6 @@ D. D. Turner,N. Y.
 D. D. Turner,J. P. Sampson
 D. D. Turner,J. M. Langston
 D. D. Turner,Turner
-D. D. Turner,A. M.
-D. D. Turner,P. M.
 D. D. Turner,W. P. Newman
 D. D. Turner,Weaver
 D. D. Turner,William Howard Day
@@ -36823,15 +36391,13 @@ D. D. Turner,Bill
 D. D. Turner,Taney
 D. D. Turner,William H. Seward
 D. D. Turner,Jefferson Davis
-D. D. Turner,Hughes
+D. D. Turner,Bishop Hughes
 D. D. Turner,Seymour
 D. D. Turner,Grant
 D. D. Turner,Sherman
 N. Y.,J. P. Sampson
 N. Y.,J. M. Langston
 N. Y.,Turner
-N. Y.,A. M.
-N. Y.,P. M.
 N. Y.,W. P. Newman
 N. Y.,Weaver
 N. Y.,William Howard Day
@@ -36885,14 +36451,12 @@ N. Y.,Bill
 N. Y.,Taney
 N. Y.,William H. Seward
 N. Y.,Jefferson Davis
-N. Y.,Hughes
+N. Y.,Bishop Hughes
 N. Y.,Seymour
 N. Y.,Grant
 N. Y.,Sherman
 J. P. Sampson,J. M. Langston
 J. P. Sampson,Turner
-J. P. Sampson,A. M.
-J. P. Sampson,P. M.
 J. P. Sampson,W. P. Newman
 J. P. Sampson,Weaver
 J. P. Sampson,William Howard Day
@@ -36946,13 +36510,11 @@ J. P. Sampson,Bill
 J. P. Sampson,Taney
 J. P. Sampson,William H. Seward
 J. P. Sampson,Jefferson Davis
-J. P. Sampson,Hughes
+J. P. Sampson,Bishop Hughes
 J. P. Sampson,Seymour
 J. P. Sampson,Grant
 J. P. Sampson,Sherman
 J. M. Langston,Turner
-J. M. Langston,A. M.
-J. M. Langston,P. M.
 J. M. Langston,W. P. Newman
 J. M. Langston,Weaver
 J. M. Langston,William Howard Day
@@ -37006,12 +36568,10 @@ J. M. Langston,Bill
 J. M. Langston,Taney
 J. M. Langston,William H. Seward
 J. M. Langston,Jefferson Davis
-J. M. Langston,Hughes
+J. M. Langston,Bishop Hughes
 J. M. Langston,Seymour
 J. M. Langston,Grant
 J. M. Langston,Sherman
-Turner,A. M.
-Turner,P. M.
 Turner,W. P. Newman
 Turner,Weaver
 Turner,William Howard Day
@@ -37065,125 +36625,10 @@ Turner,Bill
 Turner,Taney
 Turner,William H. Seward
 Turner,Jefferson Davis
-Turner,Hughes
+Turner,Bishop Hughes
 Turner,Seymour
 Turner,Grant
 Turner,Sherman
-A. M.,P. M.
-A. M.,W. P. Newman
-A. M.,Weaver
-A. M.,William Howard Day
-A. M.,Cork
-A. M.,O'Connell
-A. M.,P. B. Randolph
-A. M.,Abraham
-A. M.,Wagner
-A. M.,Afric
-A. M.,Jonathan C. Gibbs
-A. M.,Gibbs
-A. M.,John A. Andrew
-A. M.,Milliken
-A. M.,Lincoln
-A. M.,Mcclellan
-A. M.,Patercules
-A. M.,Frances Ellen Watkins Harper
-A. M.,Cain
-A. M.,W.P. Newman
-A. M.,Chase
-A. M.,Jeff
-A. M.,Davis
-A. M.,Vashon
-A. M.,J. Houston
-A. M.,James Cochran
-A. M.,Abram Smith
-A. M.,Davis D. Turner
-A. M.,J. D. Richards
-A. M.,Harris
-A. M.,A. H. Galloway
-A. M.,W. Keeling
-A. M.,Singleton T. Jones
-A. M.,J. M Langston
-A. M.,O. C. Hughes
-A. M.,Sumner
-A. M.,Butler
-A. M.,William H. Day
-A. M.,J. W. Loguen
-A. M.,Samuel F. Murray
-A. M.,J. H. Ingraham
-A. M.,P. G. Wells
-A. M.,H. P. Harris
-A. M.,D. P. Seaton
-A. M.,Paschal B. Randolph
-A. M.,W. H. Decker
-A. M.,W. H. Bruce
-A. M.,M.D. George B. Vashon
-A. M.,P. W. Ray
-A. M.,William Howard
-A. M.,Bill
-A. M.,Taney
-A. M.,William H. Seward
-A. M.,Jefferson Davis
-A. M.,Hughes
-A. M.,Seymour
-A. M.,Grant
-A. M.,Sherman
-P. M.,W. P. Newman
-P. M.,Weaver
-P. M.,William Howard Day
-P. M.,Cork
-P. M.,O'Connell
-P. M.,P. B. Randolph
-P. M.,Abraham
-P. M.,Wagner
-P. M.,Afric
-P. M.,Jonathan C. Gibbs
-P. M.,Gibbs
-P. M.,John A. Andrew
-P. M.,Milliken
-P. M.,Lincoln
-P. M.,Mcclellan
-P. M.,Patercules
-P. M.,Frances Ellen Watkins Harper
-P. M.,Cain
-P. M.,W.P. Newman
-P. M.,Chase
-P. M.,Jeff
-P. M.,Davis
-P. M.,Vashon
-P. M.,J. Houston
-P. M.,James Cochran
-P. M.,Abram Smith
-P. M.,Davis D. Turner
-P. M.,J. D. Richards
-P. M.,Harris
-P. M.,A. H. Galloway
-P. M.,W. Keeling
-P. M.,Singleton T. Jones
-P. M.,J. M Langston
-P. M.,O. C. Hughes
-P. M.,Sumner
-P. M.,Butler
-P. M.,William H. Day
-P. M.,J. W. Loguen
-P. M.,Samuel F. Murray
-P. M.,J. H. Ingraham
-P. M.,P. G. Wells
-P. M.,H. P. Harris
-P. M.,D. P. Seaton
-P. M.,Paschal B. Randolph
-P. M.,W. H. Decker
-P. M.,W. H. Bruce
-P. M.,M.D. George B. Vashon
-P. M.,P. W. Ray
-P. M.,William Howard
-P. M.,Bill
-P. M.,Taney
-P. M.,William H. Seward
-P. M.,Jefferson Davis
-P. M.,Hughes
-P. M.,Seymour
-P. M.,Grant
-P. M.,Sherman
 W. P. Newman,Weaver
 W. P. Newman,William Howard Day
 W. P. Newman,Cork
@@ -37236,7 +36681,7 @@ W. P. Newman,Bill
 W. P. Newman,Taney
 W. P. Newman,William H. Seward
 W. P. Newman,Jefferson Davis
-W. P. Newman,Hughes
+W. P. Newman,Bishop Hughes
 W. P. Newman,Seymour
 W. P. Newman,Grant
 W. P. Newman,Sherman
@@ -37291,7 +36736,7 @@ Weaver,Bill
 Weaver,Taney
 Weaver,William H. Seward
 Weaver,Jefferson Davis
-Weaver,Hughes
+Weaver,Bishop Hughes
 Weaver,Seymour
 Weaver,Grant
 Weaver,Sherman
@@ -37345,7 +36790,7 @@ William Howard Day,Bill
 William Howard Day,Taney
 William Howard Day,William H. Seward
 William Howard Day,Jefferson Davis
-William Howard Day,Hughes
+William Howard Day,Bishop Hughes
 William Howard Day,Seymour
 William Howard Day,Grant
 William Howard Day,Sherman
@@ -37398,7 +36843,7 @@ Cork,Bill
 Cork,Taney
 Cork,William H. Seward
 Cork,Jefferson Davis
-Cork,Hughes
+Cork,Bishop Hughes
 Cork,Seymour
 Cork,Grant
 Cork,Sherman
@@ -37450,7 +36895,7 @@ O'Connell,Bill
 O'Connell,Taney
 O'Connell,William H. Seward
 O'Connell,Jefferson Davis
-O'Connell,Hughes
+O'Connell,Bishop Hughes
 O'Connell,Seymour
 O'Connell,Grant
 O'Connell,Sherman
@@ -37501,7 +36946,7 @@ P. B. Randolph,Bill
 P. B. Randolph,Taney
 P. B. Randolph,William H. Seward
 P. B. Randolph,Jefferson Davis
-P. B. Randolph,Hughes
+P. B. Randolph,Bishop Hughes
 P. B. Randolph,Seymour
 P. B. Randolph,Grant
 P. B. Randolph,Sherman
@@ -37551,7 +36996,7 @@ Abraham,Bill
 Abraham,Taney
 Abraham,William H. Seward
 Abraham,Jefferson Davis
-Abraham,Hughes
+Abraham,Bishop Hughes
 Abraham,Seymour
 Abraham,Grant
 Abraham,Sherman
@@ -37600,7 +37045,7 @@ Wagner,Bill
 Wagner,Taney
 Wagner,William H. Seward
 Wagner,Jefferson Davis
-Wagner,Hughes
+Wagner,Bishop Hughes
 Wagner,Seymour
 Wagner,Grant
 Wagner,Sherman
@@ -37648,7 +37093,7 @@ Afric,Bill
 Afric,Taney
 Afric,William H. Seward
 Afric,Jefferson Davis
-Afric,Hughes
+Afric,Bishop Hughes
 Afric,Seymour
 Afric,Grant
 Afric,Sherman
@@ -37695,7 +37140,7 @@ Jonathan C. Gibbs,Bill
 Jonathan C. Gibbs,Taney
 Jonathan C. Gibbs,William H. Seward
 Jonathan C. Gibbs,Jefferson Davis
-Jonathan C. Gibbs,Hughes
+Jonathan C. Gibbs,Bishop Hughes
 Jonathan C. Gibbs,Seymour
 Jonathan C. Gibbs,Grant
 Jonathan C. Gibbs,Sherman
@@ -37741,7 +37186,7 @@ Gibbs,Bill
 Gibbs,Taney
 Gibbs,William H. Seward
 Gibbs,Jefferson Davis
-Gibbs,Hughes
+Gibbs,Bishop Hughes
 Gibbs,Seymour
 Gibbs,Grant
 Gibbs,Sherman
@@ -37786,7 +37231,7 @@ John A. Andrew,Bill
 John A. Andrew,Taney
 John A. Andrew,William H. Seward
 John A. Andrew,Jefferson Davis
-John A. Andrew,Hughes
+John A. Andrew,Bishop Hughes
 John A. Andrew,Seymour
 John A. Andrew,Grant
 John A. Andrew,Sherman
@@ -37830,7 +37275,7 @@ Milliken,Bill
 Milliken,Taney
 Milliken,William H. Seward
 Milliken,Jefferson Davis
-Milliken,Hughes
+Milliken,Bishop Hughes
 Milliken,Seymour
 Milliken,Grant
 Milliken,Sherman
@@ -37873,7 +37318,7 @@ Lincoln,Bill
 Lincoln,Taney
 Lincoln,William H. Seward
 Lincoln,Jefferson Davis
-Lincoln,Hughes
+Lincoln,Bishop Hughes
 Lincoln,Seymour
 Lincoln,Grant
 Lincoln,Sherman
@@ -37915,7 +37360,7 @@ Mcclellan,Bill
 Mcclellan,Taney
 Mcclellan,William H. Seward
 Mcclellan,Jefferson Davis
-Mcclellan,Hughes
+Mcclellan,Bishop Hughes
 Mcclellan,Seymour
 Mcclellan,Grant
 Mcclellan,Sherman
@@ -37956,7 +37401,7 @@ Patercules,Bill
 Patercules,Taney
 Patercules,William H. Seward
 Patercules,Jefferson Davis
-Patercules,Hughes
+Patercules,Bishop Hughes
 Patercules,Seymour
 Patercules,Grant
 Patercules,Sherman
@@ -37996,7 +37441,7 @@ Frances Ellen Watkins Harper,Bill
 Frances Ellen Watkins Harper,Taney
 Frances Ellen Watkins Harper,William H. Seward
 Frances Ellen Watkins Harper,Jefferson Davis
-Frances Ellen Watkins Harper,Hughes
+Frances Ellen Watkins Harper,Bishop Hughes
 Frances Ellen Watkins Harper,Seymour
 Frances Ellen Watkins Harper,Grant
 Frances Ellen Watkins Harper,Sherman
@@ -38035,7 +37480,7 @@ Cain,Bill
 Cain,Taney
 Cain,William H. Seward
 Cain,Jefferson Davis
-Cain,Hughes
+Cain,Bishop Hughes
 Cain,Seymour
 Cain,Grant
 Cain,Sherman
@@ -38073,7 +37518,7 @@ W.P. Newman,Bill
 W.P. Newman,Taney
 W.P. Newman,William H. Seward
 W.P. Newman,Jefferson Davis
-W.P. Newman,Hughes
+W.P. Newman,Bishop Hughes
 W.P. Newman,Seymour
 W.P. Newman,Grant
 W.P. Newman,Sherman
@@ -38110,7 +37555,7 @@ Chase,Bill
 Chase,Taney
 Chase,William H. Seward
 Chase,Jefferson Davis
-Chase,Hughes
+Chase,Bishop Hughes
 Chase,Seymour
 Chase,Grant
 Chase,Sherman
@@ -38146,7 +37591,7 @@ Jeff,Bill
 Jeff,Taney
 Jeff,William H. Seward
 Jeff,Jefferson Davis
-Jeff,Hughes
+Jeff,Bishop Hughes
 Jeff,Seymour
 Jeff,Grant
 Jeff,Sherman
@@ -38181,7 +37626,7 @@ Davis,Bill
 Davis,Taney
 Davis,William H. Seward
 Davis,Jefferson Davis
-Davis,Hughes
+Davis,Bishop Hughes
 Davis,Seymour
 Davis,Grant
 Davis,Sherman
@@ -38215,7 +37660,7 @@ Vashon,Bill
 Vashon,Taney
 Vashon,William H. Seward
 Vashon,Jefferson Davis
-Vashon,Hughes
+Vashon,Bishop Hughes
 Vashon,Seymour
 Vashon,Grant
 Vashon,Sherman
@@ -38248,7 +37693,7 @@ J. Houston,Bill
 J. Houston,Taney
 J. Houston,William H. Seward
 J. Houston,Jefferson Davis
-J. Houston,Hughes
+J. Houston,Bishop Hughes
 J. Houston,Seymour
 J. Houston,Grant
 J. Houston,Sherman
@@ -38280,7 +37725,7 @@ James Cochran,Bill
 James Cochran,Taney
 James Cochran,William H. Seward
 James Cochran,Jefferson Davis
-James Cochran,Hughes
+James Cochran,Bishop Hughes
 James Cochran,Seymour
 James Cochran,Grant
 James Cochran,Sherman
@@ -38311,7 +37756,7 @@ Abram Smith,Bill
 Abram Smith,Taney
 Abram Smith,William H. Seward
 Abram Smith,Jefferson Davis
-Abram Smith,Hughes
+Abram Smith,Bishop Hughes
 Abram Smith,Seymour
 Abram Smith,Grant
 Abram Smith,Sherman
@@ -38341,7 +37786,7 @@ Davis D. Turner,Bill
 Davis D. Turner,Taney
 Davis D. Turner,William H. Seward
 Davis D. Turner,Jefferson Davis
-Davis D. Turner,Hughes
+Davis D. Turner,Bishop Hughes
 Davis D. Turner,Seymour
 Davis D. Turner,Grant
 Davis D. Turner,Sherman
@@ -38370,7 +37815,7 @@ J. D. Richards,Bill
 J. D. Richards,Taney
 J. D. Richards,William H. Seward
 J. D. Richards,Jefferson Davis
-J. D. Richards,Hughes
+J. D. Richards,Bishop Hughes
 J. D. Richards,Seymour
 J. D. Richards,Grant
 J. D. Richards,Sherman
@@ -38398,7 +37843,7 @@ Harris,Bill
 Harris,Taney
 Harris,William H. Seward
 Harris,Jefferson Davis
-Harris,Hughes
+Harris,Bishop Hughes
 Harris,Seymour
 Harris,Grant
 Harris,Sherman
@@ -38425,7 +37870,7 @@ A. H. Galloway,Bill
 A. H. Galloway,Taney
 A. H. Galloway,William H. Seward
 A. H. Galloway,Jefferson Davis
-A. H. Galloway,Hughes
+A. H. Galloway,Bishop Hughes
 A. H. Galloway,Seymour
 A. H. Galloway,Grant
 A. H. Galloway,Sherman
@@ -38451,7 +37896,7 @@ W. Keeling,Bill
 W. Keeling,Taney
 W. Keeling,William H. Seward
 W. Keeling,Jefferson Davis
-W. Keeling,Hughes
+W. Keeling,Bishop Hughes
 W. Keeling,Seymour
 W. Keeling,Grant
 W. Keeling,Sherman
@@ -38476,7 +37921,7 @@ Singleton T. Jones,Bill
 Singleton T. Jones,Taney
 Singleton T. Jones,William H. Seward
 Singleton T. Jones,Jefferson Davis
-Singleton T. Jones,Hughes
+Singleton T. Jones,Bishop Hughes
 Singleton T. Jones,Seymour
 Singleton T. Jones,Grant
 Singleton T. Jones,Sherman
@@ -38500,7 +37945,7 @@ J. M Langston,Bill
 J. M Langston,Taney
 J. M Langston,William H. Seward
 J. M Langston,Jefferson Davis
-J. M Langston,Hughes
+J. M Langston,Bishop Hughes
 J. M Langston,Seymour
 J. M Langston,Grant
 J. M Langston,Sherman
@@ -38523,7 +37968,7 @@ O. C. Hughes,Bill
 O. C. Hughes,Taney
 O. C. Hughes,William H. Seward
 O. C. Hughes,Jefferson Davis
-O. C. Hughes,Hughes
+O. C. Hughes,Bishop Hughes
 O. C. Hughes,Seymour
 O. C. Hughes,Grant
 O. C. Hughes,Sherman
@@ -38545,7 +37990,7 @@ Sumner,Bill
 Sumner,Taney
 Sumner,William H. Seward
 Sumner,Jefferson Davis
-Sumner,Hughes
+Sumner,Bishop Hughes
 Sumner,Seymour
 Sumner,Grant
 Sumner,Sherman
@@ -38566,7 +38011,7 @@ Butler,Bill
 Butler,Taney
 Butler,William H. Seward
 Butler,Jefferson Davis
-Butler,Hughes
+Butler,Bishop Hughes
 Butler,Seymour
 Butler,Grant
 Butler,Sherman
@@ -38586,7 +38031,7 @@ William H. Day,Bill
 William H. Day,Taney
 William H. Day,William H. Seward
 William H. Day,Jefferson Davis
-William H. Day,Hughes
+William H. Day,Bishop Hughes
 William H. Day,Seymour
 William H. Day,Grant
 William H. Day,Sherman
@@ -38605,7 +38050,7 @@ J. W. Loguen,Bill
 J. W. Loguen,Taney
 J. W. Loguen,William H. Seward
 J. W. Loguen,Jefferson Davis
-J. W. Loguen,Hughes
+J. W. Loguen,Bishop Hughes
 J. W. Loguen,Seymour
 J. W. Loguen,Grant
 J. W. Loguen,Sherman
@@ -38623,7 +38068,7 @@ Samuel F. Murray,Bill
 Samuel F. Murray,Taney
 Samuel F. Murray,William H. Seward
 Samuel F. Murray,Jefferson Davis
-Samuel F. Murray,Hughes
+Samuel F. Murray,Bishop Hughes
 Samuel F. Murray,Seymour
 Samuel F. Murray,Grant
 Samuel F. Murray,Sherman
@@ -38640,7 +38085,7 @@ J. H. Ingraham,Bill
 J. H. Ingraham,Taney
 J. H. Ingraham,William H. Seward
 J. H. Ingraham,Jefferson Davis
-J. H. Ingraham,Hughes
+J. H. Ingraham,Bishop Hughes
 J. H. Ingraham,Seymour
 J. H. Ingraham,Grant
 J. H. Ingraham,Sherman
@@ -38656,7 +38101,7 @@ P. G. Wells,Bill
 P. G. Wells,Taney
 P. G. Wells,William H. Seward
 P. G. Wells,Jefferson Davis
-P. G. Wells,Hughes
+P. G. Wells,Bishop Hughes
 P. G. Wells,Seymour
 P. G. Wells,Grant
 P. G. Wells,Sherman
@@ -38671,7 +38116,7 @@ H. P. Harris,Bill
 H. P. Harris,Taney
 H. P. Harris,William H. Seward
 H. P. Harris,Jefferson Davis
-H. P. Harris,Hughes
+H. P. Harris,Bishop Hughes
 H. P. Harris,Seymour
 H. P. Harris,Grant
 H. P. Harris,Sherman
@@ -38685,7 +38130,7 @@ D. P. Seaton,Bill
 D. P. Seaton,Taney
 D. P. Seaton,William H. Seward
 D. P. Seaton,Jefferson Davis
-D. P. Seaton,Hughes
+D. P. Seaton,Bishop Hughes
 D. P. Seaton,Seymour
 D. P. Seaton,Grant
 D. P. Seaton,Sherman
@@ -38698,7 +38143,7 @@ Paschal B. Randolph,Bill
 Paschal B. Randolph,Taney
 Paschal B. Randolph,William H. Seward
 Paschal B. Randolph,Jefferson Davis
-Paschal B. Randolph,Hughes
+Paschal B. Randolph,Bishop Hughes
 Paschal B. Randolph,Seymour
 Paschal B. Randolph,Grant
 Paschal B. Randolph,Sherman
@@ -38710,7 +38155,7 @@ W. H. Decker,Bill
 W. H. Decker,Taney
 W. H. Decker,William H. Seward
 W. H. Decker,Jefferson Davis
-W. H. Decker,Hughes
+W. H. Decker,Bishop Hughes
 W. H. Decker,Seymour
 W. H. Decker,Grant
 W. H. Decker,Sherman
@@ -38721,7 +38166,7 @@ W. H. Bruce,Bill
 W. H. Bruce,Taney
 W. H. Bruce,William H. Seward
 W. H. Bruce,Jefferson Davis
-W. H. Bruce,Hughes
+W. H. Bruce,Bishop Hughes
 W. H. Bruce,Seymour
 W. H. Bruce,Grant
 W. H. Bruce,Sherman
@@ -38731,7 +38176,7 @@ M.D. George B. Vashon,Bill
 M.D. George B. Vashon,Taney
 M.D. George B. Vashon,William H. Seward
 M.D. George B. Vashon,Jefferson Davis
-M.D. George B. Vashon,Hughes
+M.D. George B. Vashon,Bishop Hughes
 M.D. George B. Vashon,Seymour
 M.D. George B. Vashon,Grant
 M.D. George B. Vashon,Sherman
@@ -38740,7 +38185,7 @@ P. W. Ray,Bill
 P. W. Ray,Taney
 P. W. Ray,William H. Seward
 P. W. Ray,Jefferson Davis
-P. W. Ray,Hughes
+P. W. Ray,Bishop Hughes
 P. W. Ray,Seymour
 P. W. Ray,Grant
 P. W. Ray,Sherman
@@ -38748,35 +38193,35 @@ William Howard,Bill
 William Howard,Taney
 William Howard,William H. Seward
 William Howard,Jefferson Davis
-William Howard,Hughes
+William Howard,Bishop Hughes
 William Howard,Seymour
 William Howard,Grant
 William Howard,Sherman
 Bill,Taney
 Bill,William H. Seward
 Bill,Jefferson Davis
-Bill,Hughes
+Bill,Bishop Hughes
 Bill,Seymour
 Bill,Grant
 Bill,Sherman
 Taney,William H. Seward
 Taney,Jefferson Davis
-Taney,Hughes
+Taney,Bishop Hughes
 Taney,Seymour
 Taney,Grant
 Taney,Sherman
 William H. Seward,Jefferson Davis
-William H. Seward,Hughes
+William H. Seward,Bishop Hughes
 William H. Seward,Seymour
 William H. Seward,Grant
 William H. Seward,Sherman
-Jefferson Davis,Hughes
+Jefferson Davis,Bishop Hughes
 Jefferson Davis,Seymour
 Jefferson Davis,Grant
 Jefferson Davis,Sherman
-Hughes,Seymour
-Hughes,Grant
-Hughes,Sherman
+Bishop Hughes,Seymour
+Bishop Hughes,Grant
+Bishop Hughes,Sherman
 Seymour,Grant
 Seymour,Sherman
 Grant,Sherman

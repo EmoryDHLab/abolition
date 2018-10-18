@@ -1,4 +1,4 @@
-name1,name2
+source,target
 D. Jenkins,L. D. Taylor
 D. Jenkins,C. A. Yancy
 D. Jenkins,N. Nooks
@@ -122,7 +122,6 @@ D. Jenkins,Wm. H. Burnham
 D. Jenkins,David Jenkins
 D. Jenkins,R. Williams
 D. Jenkins,J. Mccune Smith
-D. Jenkins,H. Hurd
 D. Jenkins,Carthagena
 L. D. Taylor,C. A. Yancy
 L. D. Taylor,N. Nooks
@@ -246,7 +245,6 @@ L. D. Taylor,Wm. H. Burnham
 L. D. Taylor,David Jenkins
 L. D. Taylor,R. Williams
 L. D. Taylor,J. Mccune Smith
-L. D. Taylor,H. Hurd
 L. D. Taylor,Carthagena
 C. A. Yancy,N. Nooks
 C. A. Yancy,A. Strauder
@@ -369,7 +367,6 @@ C. A. Yancy,Wm. H. Burnham
 C. A. Yancy,David Jenkins
 C. A. Yancy,R. Williams
 C. A. Yancy,J. Mccune Smith
-C. A. Yancy,H. Hurd
 C. A. Yancy,Carthagena
 N. Nooks,A. Strauder
 N. Nooks,John Watson
@@ -491,7 +488,6 @@ N. Nooks,Wm. H. Burnham
 N. Nooks,David Jenkins
 N. Nooks,R. Williams
 N. Nooks,J. Mccune Smith
-N. Nooks,H. Hurd
 N. Nooks,Carthagena
 A. Strauder,John Watson
 A. Strauder,Thomas Brown
@@ -612,7 +608,6 @@ A. Strauder,Wm. H. Burnham
 A. Strauder,David Jenkins
 A. Strauder,R. Williams
 A. Strauder,J. Mccune Smith
-A. Strauder,H. Hurd
 A. Strauder,Carthagena
 John Watson,Thomas Brown
 John Watson,C. Ross
@@ -732,7 +727,6 @@ John Watson,Wm. H. Burnham
 John Watson,David Jenkins
 John Watson,R. Williams
 John Watson,J. Mccune Smith
-John Watson,H. Hurd
 John Watson,Carthagena
 Thomas Brown,C. Ross
 Thomas Brown,G. Hilton
@@ -851,7 +845,6 @@ Thomas Brown,Wm. H. Burnham
 Thomas Brown,David Jenkins
 Thomas Brown,R. Williams
 Thomas Brown,J. Mccune Smith
-Thomas Brown,H. Hurd
 Thomas Brown,Carthagena
 C. Ross,G. Hilton
 C. Ross,H. Ford
@@ -969,7 +962,6 @@ C. Ross,Wm. H. Burnham
 C. Ross,David Jenkins
 C. Ross,R. Williams
 C. Ross,J. Mccune Smith
-C. Ross,H. Hurd
 C. Ross,Carthagena
 G. Hilton,H. Ford
 G. Hilton,J. D. Pattison
@@ -1086,7 +1078,6 @@ G. Hilton,Wm. H. Burnham
 G. Hilton,David Jenkins
 G. Hilton,R. Williams
 G. Hilton,J. Mccune Smith
-G. Hilton,H. Hurd
 G. Hilton,Carthagena
 H. Ford,J. D. Pattison
 H. Ford,L. Adams
@@ -1202,7 +1193,6 @@ H. Ford,Wm. H. Burnham
 H. Ford,David Jenkins
 H. Ford,R. Williams
 H. Ford,J. Mccune Smith
-H. Ford,H. Hurd
 H. Ford,Carthagena
 J. D. Pattison,L. Adams
 J. D. Pattison,J. Purnell
@@ -1317,7 +1307,6 @@ J. D. Pattison,Wm. H. Burnham
 J. D. Pattison,David Jenkins
 J. D. Pattison,R. Williams
 J. D. Pattison,J. Mccune Smith
-J. D. Pattison,H. Hurd
 J. D. Pattison,Carthagena
 L. Adams,J. Purnell
 L. Adams,J. L. Watson
@@ -1431,7 +1420,6 @@ L. Adams,Wm. H. Burnham
 L. Adams,David Jenkins
 L. Adams,R. Williams
 L. Adams,J. Mccune Smith
-L. Adams,H. Hurd
 L. Adams,Carthagena
 J. Purnell,J. L. Watson
 J. Purnell,J. Mercer Langston
@@ -1544,7 +1532,6 @@ J. Purnell,Wm. H. Burnham
 J. Purnell,David Jenkins
 J. Purnell,R. Williams
 J. Purnell,J. Mccune Smith
-J. Purnell,H. Hurd
 J. Purnell,Carthagena
 J. L. Watson,J. Mercer Langston
 J. L. Watson,H. F. Douglass
@@ -1656,7 +1643,6 @@ J. L. Watson,Wm. H. Burnham
 J. L. Watson,David Jenkins
 J. L. Watson,R. Williams
 J. L. Watson,J. Mccune Smith
-J. L. Watson,H. Hurd
 J. L. Watson,Carthagena
 J. Mercer Langston,H. F. Douglass
 J. Mercer Langston,Monroe Jones
@@ -1767,7 +1753,6 @@ J. Mercer Langston,Wm. H. Burnham
 J. Mercer Langston,David Jenkins
 J. Mercer Langston,R. Williams
 J. Mercer Langston,J. Mccune Smith
-J. Mercer Langston,H. Hurd
 J. Mercer Langston,Carthagena
 H. F. Douglass,Monroe Jones
 H. F. Douglass,A. Yancy
@@ -1877,7 +1862,6 @@ H. F. Douglass,Wm. H. Burnham
 H. F. Douglass,David Jenkins
 H. F. Douglass,R. Williams
 H. F. Douglass,J. Mccune Smith
-H. F. Douglass,H. Hurd
 H. F. Douglass,Carthagena
 Monroe Jones,A. Yancy
 Monroe Jones,J. W. Stuart
@@ -1986,7 +1970,6 @@ Monroe Jones,Wm. H. Burnham
 Monroe Jones,David Jenkins
 Monroe Jones,R. Williams
 Monroe Jones,J. Mccune Smith
-Monroe Jones,H. Hurd
 Monroe Jones,Carthagena
 A. Yancy,J. W. Stuart
 A. Yancy,W. Stuart
@@ -2094,7 +2077,6 @@ A. Yancy,Wm. H. Burnham
 A. Yancy,David Jenkins
 A. Yancy,R. Williams
 A. Yancy,J. Mccune Smith
-A. Yancy,H. Hurd
 A. Yancy,Carthagena
 J. W. Stuart,W. Stuart
 J. W. Stuart,J. Gee
@@ -2201,7 +2183,6 @@ J. W. Stuart,Wm. H. Burnham
 J. W. Stuart,David Jenkins
 J. W. Stuart,R. Williams
 J. W. Stuart,J. Mccune Smith
-J. W. Stuart,H. Hurd
 J. W. Stuart,Carthagena
 W. Stuart,J. Gee
 W. Stuart,K. Artis
@@ -2307,7 +2288,6 @@ W. Stuart,Wm. H. Burnham
 W. Stuart,David Jenkins
 W. Stuart,R. Williams
 W. Stuart,J. Mccune Smith
-W. Stuart,H. Hurd
 W. Stuart,Carthagena
 J. Gee,K. Artis
 J. Gee,D. S. Moss
@@ -2412,7 +2392,6 @@ J. Gee,Wm. H. Burnham
 J. Gee,David Jenkins
 J. Gee,R. Williams
 J. Gee,J. Mccune Smith
-J. Gee,H. Hurd
 J. Gee,Carthagena
 K. Artis,D. S. Moss
 K. Artis,G. Adams
@@ -2516,7 +2495,6 @@ K. Artis,Wm. H. Burnham
 K. Artis,David Jenkins
 K. Artis,R. Williams
 K. Artis,J. Mccune Smith
-K. Artis,H. Hurd
 K. Artis,Carthagena
 D. S. Moss,G. Adams
 D. S. Moss,F. Wilson
@@ -2619,7 +2597,6 @@ D. S. Moss,Wm. H. Burnham
 D. S. Moss,David Jenkins
 D. S. Moss,R. Williams
 D. S. Moss,J. Mccune Smith
-D. S. Moss,H. Hurd
 D. S. Moss,Carthagena
 G. Adams,F. Wilson
 G. Adams,H. Lott
@@ -2721,7 +2698,6 @@ G. Adams,Wm. H. Burnham
 G. Adams,David Jenkins
 G. Adams,R. Williams
 G. Adams,J. Mccune Smith
-G. Adams,H. Hurd
 G. Adams,Carthagena
 F. Wilson,H. Lott
 F. Wilson,J. J. Pearce
@@ -2822,7 +2798,6 @@ F. Wilson,Wm. H. Burnham
 F. Wilson,David Jenkins
 F. Wilson,R. Williams
 F. Wilson,J. Mccune Smith
-F. Wilson,H. Hurd
 F. Wilson,Carthagena
 H. Lott,J. J. Pearce
 H. Lott,S. Jones
@@ -2922,7 +2897,6 @@ H. Lott,Wm. H. Burnham
 H. Lott,David Jenkins
 H. Lott,R. Williams
 H. Lott,J. Mccune Smith
-H. Lott,H. Hurd
 H. Lott,Carthagena
 J. J. Pearce,S. Jones
 J. J. Pearce,N. Morgan
@@ -3021,7 +2995,6 @@ J. J. Pearce,Wm. H. Burnham
 J. J. Pearce,David Jenkins
 J. J. Pearce,R. Williams
 J. J. Pearce,J. Mccune Smith
-J. J. Pearce,H. Hurd
 J. J. Pearce,Carthagena
 S. Jones,N. Morgan
 S. Jones,A. Dempsey
@@ -3119,7 +3092,6 @@ S. Jones,Wm. H. Burnham
 S. Jones,David Jenkins
 S. Jones,R. Williams
 S. Jones,J. Mccune Smith
-S. Jones,H. Hurd
 S. Jones,Carthagena
 N. Morgan,A. Dempsey
 N. Morgan,W. P. Morgan
@@ -3216,7 +3188,6 @@ N. Morgan,Wm. H. Burnham
 N. Morgan,David Jenkins
 N. Morgan,R. Williams
 N. Morgan,J. Mccune Smith
-N. Morgan,H. Hurd
 N. Morgan,Carthagena
 A. Dempsey,W. P. Morgan
 A. Dempsey,J. W. Divine
@@ -3312,7 +3283,6 @@ A. Dempsey,Wm. H. Burnham
 A. Dempsey,David Jenkins
 A. Dempsey,R. Williams
 A. Dempsey,J. Mccune Smith
-A. Dempsey,H. Hurd
 A. Dempsey,Carthagena
 W. P. Morgan,J. W. Divine
 W. P. Morgan,J. H. Johnson
@@ -3407,7 +3377,6 @@ W. P. Morgan,Wm. H. Burnham
 W. P. Morgan,David Jenkins
 W. P. Morgan,R. Williams
 W. P. Morgan,J. Mccune Smith
-W. P. Morgan,H. Hurd
 W. P. Morgan,Carthagena
 J. W. Divine,J. H. Johnson
 J. W. Divine,T. H. Dorsey
@@ -3501,7 +3470,6 @@ J. W. Divine,Wm. H. Burnham
 J. W. Divine,David Jenkins
 J. W. Divine,R. Williams
 J. W. Divine,J. Mccune Smith
-J. W. Divine,H. Hurd
 J. W. Divine,Carthagena
 J. H. Johnson,T. H. Dorsey
 J. H. Johnson,J. P. Underwood
@@ -3594,7 +3562,6 @@ J. H. Johnson,Wm. H. Burnham
 J. H. Johnson,David Jenkins
 J. H. Johnson,R. Williams
 J. H. Johnson,J. Mccune Smith
-J. H. Johnson,H. Hurd
 J. H. Johnson,Carthagena
 T. H. Dorsey,J. P. Underwood
 T. H. Dorsey,D. Roberts
@@ -3686,7 +3653,6 @@ T. H. Dorsey,Wm. H. Burnham
 T. H. Dorsey,David Jenkins
 T. H. Dorsey,R. Williams
 T. H. Dorsey,J. Mccune Smith
-T. H. Dorsey,H. Hurd
 T. H. Dorsey,Carthagena
 J. P. Underwood,D. Roberts
 J. P. Underwood,W. H. Burnham
@@ -3777,7 +3743,6 @@ J. P. Underwood,Wm. H. Burnham
 J. P. Underwood,David Jenkins
 J. P. Underwood,R. Williams
 J. P. Underwood,J. Mccune Smith
-J. P. Underwood,H. Hurd
 J. P. Underwood,Carthagena
 D. Roberts,W. H. Burnham
 D. Roberts,G. R. Williams
@@ -3867,7 +3832,6 @@ D. Roberts,Wm. H. Burnham
 D. Roberts,David Jenkins
 D. Roberts,R. Williams
 D. Roberts,J. Mccune Smith
-D. Roberts,H. Hurd
 D. Roberts,Carthagena
 W. H. Burnham,G. R. Williams
 W. H. Burnham,C. H. Langston
@@ -3956,7 +3920,6 @@ W. H. Burnham,Wm. H. Burnham
 W. H. Burnham,David Jenkins
 W. H. Burnham,R. Williams
 W. H. Burnham,J. Mccune Smith
-W. H. Burnham,H. Hurd
 W. H. Burnham,Carthagena
 G. R. Williams,C. H. Langston
 G. R. Williams,J. Poindexter
@@ -4044,7 +4007,6 @@ G. R. Williams,Wm. H. Burnham
 G. R. Williams,David Jenkins
 G. R. Williams,R. Williams
 G. R. Williams,J. Mccune Smith
-G. R. Williams,H. Hurd
 G. R. Williams,Carthagena
 C. H. Langston,J. Poindexter
 C. H. Langston,J. Booker
@@ -4131,7 +4093,6 @@ C. H. Langston,Wm. H. Burnham
 C. H. Langston,David Jenkins
 C. H. Langston,R. Williams
 C. H. Langston,J. Mccune Smith
-C. H. Langston,H. Hurd
 C. H. Langston,Carthagena
 J. Poindexter,J. Booker
 J. Poindexter,P. Letchford
@@ -4217,7 +4178,6 @@ J. Poindexter,Wm. H. Burnham
 J. Poindexter,David Jenkins
 J. Poindexter,R. Williams
 J. Poindexter,J. Mccune Smith
-J. Poindexter,H. Hurd
 J. Poindexter,Carthagena
 J. Booker,P. Letchford
 J. Booker,W. S. Davis
@@ -4302,7 +4262,6 @@ J. Booker,Wm. H. Burnham
 J. Booker,David Jenkins
 J. Booker,R. Williams
 J. Booker,J. Mccune Smith
-J. Booker,H. Hurd
 J. Booker,Carthagena
 P. Letchford,W. S. Davis
 P. Letchford,J. M. Brown
@@ -4386,7 +4345,6 @@ P. Letchford,Wm. H. Burnham
 P. Letchford,David Jenkins
 P. Letchford,R. Williams
 P. Letchford,J. Mccune Smith
-P. Letchford,H. Hurd
 P. Letchford,Carthagena
 W. S. Davis,J. M. Brown
 W. S. Davis,T. Washington
@@ -4469,7 +4427,6 @@ W. S. Davis,Wm. H. Burnham
 W. S. Davis,David Jenkins
 W. S. Davis,R. Williams
 W. S. Davis,J. Mccune Smith
-W. S. Davis,H. Hurd
 W. S. Davis,Carthagena
 J. M. Brown,T. Washington
 J. M. Brown,T. J. Goode
@@ -4551,7 +4508,6 @@ J. M. Brown,Wm. H. Burnham
 J. M. Brown,David Jenkins
 J. M. Brown,R. Williams
 J. M. Brown,J. Mccune Smith
-J. M. Brown,H. Hurd
 J. M. Brown,Carthagena
 T. Washington,T. J. Goode
 T. Washington,D. Hart
@@ -4632,7 +4588,6 @@ T. Washington,Wm. H. Burnham
 T. Washington,David Jenkins
 T. Washington,R. Williams
 T. Washington,J. Mccune Smith
-T. Washington,H. Hurd
 T. Washington,Carthagena
 T. J. Goode,D. Hart
 T. J. Goode,D. Trent
@@ -4712,7 +4667,6 @@ T. J. Goode,Wm. H. Burnham
 T. J. Goode,David Jenkins
 T. J. Goode,R. Williams
 T. J. Goode,J. Mccune Smith
-T. J. Goode,H. Hurd
 T. J. Goode,Carthagena
 D. Hart,D. Trent
 D. Hart,W. Copeland
@@ -4791,7 +4745,6 @@ D. Hart,Wm. H. Burnham
 D. Hart,David Jenkins
 D. Hart,R. Williams
 D. Hart,J. Mccune Smith
-D. Hart,H. Hurd
 D. Hart,Carthagena
 D. Trent,W. Copeland
 D. Trent,J. Bennett
@@ -4869,7 +4822,6 @@ D. Trent,Wm. H. Burnham
 D. Trent,David Jenkins
 D. Trent,R. Williams
 D. Trent,J. Mccune Smith
-D. Trent,H. Hurd
 D. Trent,Carthagena
 W. Copeland,J. Bennett
 W. Copeland,J. Freeland
@@ -4946,7 +4898,6 @@ W. Copeland,Wm. H. Burnham
 W. Copeland,David Jenkins
 W. Copeland,R. Williams
 W. Copeland,J. Mccune Smith
-W. Copeland,H. Hurd
 W. Copeland,Carthagena
 J. Bennett,J. Freeland
 J. Bennett,Morgan Melton
@@ -5022,7 +4973,6 @@ J. Bennett,Wm. H. Burnham
 J. Bennett,David Jenkins
 J. Bennett,R. Williams
 J. Bennett,J. Mccune Smith
-J. Bennett,H. Hurd
 J. Bennett,Carthagena
 J. Freeland,Morgan Melton
 J. Freeland,J. W. Delany
@@ -5097,7 +5047,6 @@ J. Freeland,Wm. H. Burnham
 J. Freeland,David Jenkins
 J. Freeland,R. Williams
 J. Freeland,J. Mccune Smith
-J. Freeland,H. Hurd
 J. Freeland,Carthagena
 Morgan Melton,J. W. Delany
 Morgan Melton,J. Taylor
@@ -5171,7 +5120,6 @@ Morgan Melton,Wm. H. Burnham
 Morgan Melton,David Jenkins
 Morgan Melton,R. Williams
 Morgan Melton,J. Mccune Smith
-Morgan Melton,H. Hurd
 Morgan Melton,Carthagena
 J. W. Delany,J. Taylor
 J. W. Delany,John Jackson
@@ -5244,7 +5192,6 @@ J. W. Delany,Wm. H. Burnham
 J. W. Delany,David Jenkins
 J. W. Delany,R. Williams
 J. W. Delany,J. Mccune Smith
-J. W. Delany,H. Hurd
 J. W. Delany,Carthagena
 J. Taylor,John Jackson
 J. Taylor,Jefferson
@@ -5316,7 +5263,6 @@ J. Taylor,Wm. H. Burnham
 J. Taylor,David Jenkins
 J. Taylor,R. Williams
 J. Taylor,J. Mccune Smith
-J. Taylor,H. Hurd
 J. Taylor,Carthagena
 John Jackson,Jefferson
 John Jackson,G. W. Evans
@@ -5387,7 +5333,6 @@ John Jackson,Wm. H. Burnham
 John Jackson,David Jenkins
 John Jackson,R. Williams
 John Jackson,J. Mccune Smith
-John Jackson,H. Hurd
 John Jackson,Carthagena
 Jefferson,G. W. Evans
 Jefferson,John Gee
@@ -5457,7 +5402,6 @@ Jefferson,Wm. H. Burnham
 Jefferson,David Jenkins
 Jefferson,R. Williams
 Jefferson,J. Mccune Smith
-Jefferson,H. Hurd
 Jefferson,Carthagena
 G. W. Evans,John Gee
 G. W. Evans,George R. Williams
@@ -5526,7 +5470,6 @@ G. W. Evans,Wm. H. Burnham
 G. W. Evans,David Jenkins
 G. W. Evans,R. Williams
 G. W. Evans,J. Mccune Smith
-G. W. Evans,H. Hurd
 G. W. Evans,Carthagena
 John Gee,George R. Williams
 John Gee,W. H. Day
@@ -5594,7 +5537,6 @@ John Gee,Wm. H. Burnham
 John Gee,David Jenkins
 John Gee,R. Williams
 John Gee,J. Mccune Smith
-John Gee,H. Hurd
 John Gee,Carthagena
 George R. Williams,W. H. Day
 George R. Williams,Wm. Copeland
@@ -5661,7 +5603,6 @@ George R. Williams,Wm. H. Burnham
 George R. Williams,David Jenkins
 George R. Williams,R. Williams
 George R. Williams,J. Mccune Smith
-George R. Williams,H. Hurd
 George R. Williams,Carthagena
 W. H. Day,Wm. Copeland
 W. H. Day,Watson
@@ -5727,7 +5668,6 @@ W. H. Day,Wm. H. Burnham
 W. H. Day,David Jenkins
 W. H. Day,R. Williams
 W. H. Day,J. Mccune Smith
-W. H. Day,H. Hurd
 W. H. Day,Carthagena
 Wm. Copeland,Watson
 Wm. Copeland,W
@@ -5792,7 +5732,6 @@ Wm. Copeland,Wm. H. Burnham
 Wm. Copeland,David Jenkins
 Wm. Copeland,R. Williams
 Wm. Copeland,J. Mccune Smith
-Wm. Copeland,H. Hurd
 Wm. Copeland,Carthagena
 Watson,W
 Watson,John Mercer Langston
@@ -5856,7 +5795,6 @@ Watson,Wm. H. Burnham
 Watson,David Jenkins
 Watson,R. Williams
 Watson,J. Mccune Smith
-Watson,H. Hurd
 Watson,Carthagena
 W,John Mercer Langston
 W,Ross
@@ -5919,7 +5857,6 @@ W,Wm. H. Burnham
 W,David Jenkins
 W,R. Williams
 W,J. Mccune Smith
-W,H. Hurd
 W,Carthagena
 John Mercer Langston,Ross
 John Mercer Langston,T. H. Johnson
@@ -5981,7 +5918,6 @@ John Mercer Langston,Wm. H. Burnham
 John Mercer Langston,David Jenkins
 John Mercer Langston,R. Williams
 John Mercer Langston,J. Mccune Smith
-John Mercer Langston,H. Hurd
 John Mercer Langston,Carthagena
 Ross,T. H. Johnson
 Ross,Greene
@@ -6042,7 +5978,6 @@ Ross,Wm. H. Burnham
 Ross,David Jenkins
 Ross,R. Williams
 Ross,J. Mccune Smith
-Ross,H. Hurd
 Ross,Carthagena
 T. H. Johnson,Greene
 T. H. Johnson,Brown
@@ -6102,7 +6037,6 @@ T. H. Johnson,Wm. H. Burnham
 T. H. Johnson,David Jenkins
 T. H. Johnson,R. Williams
 T. H. Johnson,J. Mccune Smith
-T. H. Johnson,H. Hurd
 T. H. Johnson,Carthagena
 Greene,Brown
 Greene,Warren
@@ -6161,7 +6095,6 @@ Greene,Wm. H. Burnham
 Greene,David Jenkins
 Greene,R. Williams
 Greene,J. Mccune Smith
-Greene,H. Hurd
 Greene,Carthagena
 Brown,Warren
 Brown,Eric
@@ -6219,7 +6152,6 @@ Brown,Wm. H. Burnham
 Brown,David Jenkins
 Brown,R. Williams
 Brown,J. Mccune Smith
-Brown,H. Hurd
 Brown,Carthagena
 Warren,Eric
 Warren,J. Lott
@@ -6276,7 +6208,6 @@ Warren,Wm. H. Burnham
 Warren,David Jenkins
 Warren,R. Williams
 Warren,J. Mccune Smith
-Warren,H. Hurd
 Warren,Carthagena
 Eric,J. Lott
 Eric,D. L. Moss
@@ -6332,7 +6263,6 @@ Eric,Wm. H. Burnham
 Eric,David Jenkins
 Eric,R. Williams
 Eric,J. Mccune Smith
-Eric,H. Hurd
 Eric,Carthagena
 J. Lott,D. L. Moss
 J. Lott,Jason
@@ -6387,7 +6317,6 @@ J. Lott,Wm. H. Burnham
 J. Lott,David Jenkins
 J. Lott,R. Williams
 J. Lott,J. Mccune Smith
-J. Lott,H. Hurd
 J. Lott,Carthagena
 D. L. Moss,Jason
 D. L. Moss,Pike
@@ -6441,7 +6370,6 @@ D. L. Moss,Wm. H. Burnham
 D. L. Moss,David Jenkins
 D. L. Moss,R. Williams
 D. L. Moss,J. Mccune Smith
-D. L. Moss,H. Hurd
 D. L. Moss,Carthagena
 Jason,Pike
 Jason,Clark
@@ -6494,7 +6422,6 @@ Jason,Wm. H. Burnham
 Jason,David Jenkins
 Jason,R. Williams
 Jason,J. Mccune Smith
-Jason,H. Hurd
 Jason,Carthagena
 Pike,Clark
 Pike,Morgan
@@ -6546,7 +6473,6 @@ Pike,Wm. H. Burnham
 Pike,David Jenkins
 Pike,R. Williams
 Pike,J. Mccune Smith
-Pike,H. Hurd
 Pike,Carthagena
 Clark,Morgan
 Clark,Day
@@ -6597,7 +6523,6 @@ Clark,Wm. H. Burnham
 Clark,David Jenkins
 Clark,R. Williams
 Clark,J. Mccune Smith
-Clark,H. Hurd
 Clark,Carthagena
 Morgan,Day
 Morgan,Adams
@@ -6647,7 +6572,6 @@ Morgan,Wm. H. Burnham
 Morgan,David Jenkins
 Morgan,R. Williams
 Morgan,J. Mccune Smith
-Morgan,H. Hurd
 Morgan,Carthagena
 Day,Adams
 Day,J. Watson
@@ -6696,7 +6620,6 @@ Day,Wm. H. Burnham
 Day,David Jenkins
 Day,R. Williams
 Day,J. Mccune Smith
-Day,H. Hurd
 Day,Carthagena
 Adams,J. Watson
 Adams,Poindexter
@@ -6744,7 +6667,6 @@ Adams,Wm. H. Burnham
 Adams,David Jenkins
 Adams,R. Williams
 Adams,J. Mccune Smith
-Adams,H. Hurd
 Adams,Carthagena
 J. Watson,Poindexter
 J. Watson,Burnham
@@ -6791,7 +6713,6 @@ J. Watson,Wm. H. Burnham
 J. Watson,David Jenkins
 J. Watson,R. Williams
 J. Watson,J. Mccune Smith
-J. Watson,H. Hurd
 J. Watson,Carthagena
 Poindexter,Burnham
 Poindexter,Divine
@@ -6837,7 +6758,6 @@ Poindexter,Wm. H. Burnham
 Poindexter,David Jenkins
 Poindexter,R. Williams
 Poindexter,J. Mccune Smith
-Poindexter,H. Hurd
 Poindexter,Carthagena
 Burnham,Divine
 Burnham,Underwood
@@ -6882,7 +6802,6 @@ Burnham,Wm. H. Burnham
 Burnham,David Jenkins
 Burnham,R. Williams
 Burnham,J. Mccune Smith
-Burnham,H. Hurd
 Burnham,Carthagena
 Divine,Underwood
 Divine,J. M. Langston
@@ -6926,7 +6845,6 @@ Divine,Wm. H. Burnham
 Divine,David Jenkins
 Divine,R. Williams
 Divine,J. Mccune Smith
-Divine,H. Hurd
 Divine,Carthagena
 Underwood,J. M. Langston
 Underwood,Copeland
@@ -6969,7 +6887,6 @@ Underwood,Wm. H. Burnham
 Underwood,David Jenkins
 Underwood,R. Williams
 Underwood,J. Mccune Smith
-Underwood,H. Hurd
 Underwood,Carthagena
 J. M. Langston,Copeland
 J. M. Langston,Douglass
@@ -7011,7 +6928,6 @@ J. M. Langston,Wm. H. Burnham
 J. M. Langston,David Jenkins
 J. M. Langston,R. Williams
 J. M. Langston,J. Mccune Smith
-J. M. Langston,H. Hurd
 J. M. Langston,Carthagena
 Copeland,Douglass
 Copeland,Artis
@@ -7052,7 +6968,6 @@ Copeland,Wm. H. Burnham
 Copeland,David Jenkins
 Copeland,R. Williams
 Copeland,J. Mccune Smith
-Copeland,H. Hurd
 Copeland,Carthagena
 Douglass,Artis
 Douglass,T. Brown
@@ -7092,7 +7007,6 @@ Douglass,Wm. H. Burnham
 Douglass,David Jenkins
 Douglass,R. Williams
 Douglass,J. Mccune Smith
-Douglass,H. Hurd
 Douglass,Carthagena
 Artis,T. Brown
 Artis,Stewart
@@ -7131,7 +7045,6 @@ Artis,Wm. H. Burnham
 Artis,David Jenkins
 Artis,R. Williams
 Artis,J. Mccune Smith
-Artis,H. Hurd
 Artis,Carthagena
 T. Brown,Stewart
 T. Brown,Williams
@@ -7169,7 +7082,6 @@ T. Brown,Wm. H. Burnham
 T. Brown,David Jenkins
 T. Brown,R. Williams
 T. Brown,J. Mccune Smith
-T. Brown,H. Hurd
 T. Brown,Carthagena
 Stewart,Williams
 Stewart,Jenkins
@@ -7206,7 +7118,6 @@ Stewart,Wm. H. Burnham
 Stewart,David Jenkins
 Stewart,R. Williams
 Stewart,J. Mccune Smith
-Stewart,H. Hurd
 Stewart,Carthagena
 Williams,Jenkins
 Williams,Lott
@@ -7242,7 +7153,6 @@ Williams,Wm. H. Burnham
 Williams,David Jenkins
 Williams,R. Williams
 Williams,J. Mccune Smith
-Williams,H. Hurd
 Williams,Carthagena
 Jenkins,Lott
 Jenkins,Langston
@@ -7277,7 +7187,6 @@ Jenkins,Wm. H. Burnham
 Jenkins,David Jenkins
 Jenkins,R. Williams
 Jenkins,J. Mccune Smith
-Jenkins,H. Hurd
 Jenkins,Carthagena
 Lott,Langston
 Lott,Nooks
@@ -7311,7 +7220,6 @@ Lott,Wm. H. Burnham
 Lott,David Jenkins
 Lott,R. Williams
 Lott,J. Mccune Smith
-Lott,H. Hurd
 Lott,Carthagena
 Langston,Nooks
 Langston,J. Jackson
@@ -7344,7 +7252,6 @@ Langston,Wm. H. Burnham
 Langston,David Jenkins
 Langston,R. Williams
 Langston,J. Mccune Smith
-Langston,H. Hurd
 Langston,Carthagena
 Nooks,J. Jackson
 Nooks,Gerrit Smith
@@ -7376,7 +7283,6 @@ Nooks,Wm. H. Burnham
 Nooks,David Jenkins
 Nooks,R. Williams
 Nooks,J. Mccune Smith
-Nooks,H. Hurd
 Nooks,Carthagena
 J. Jackson,Gerrit Smith
 J. Jackson,L. N. Milnor
@@ -7407,7 +7313,6 @@ J. Jackson,Wm. H. Burnham
 J. Jackson,David Jenkins
 J. Jackson,R. Williams
 J. Jackson,J. Mccune Smith
-J. Jackson,H. Hurd
 J. Jackson,Carthagena
 Gerrit Smith,L. N. Milnor
 Gerrit Smith,Sampson P. Lewis
@@ -7437,7 +7342,6 @@ Gerrit Smith,Wm. H. Burnham
 Gerrit Smith,David Jenkins
 Gerrit Smith,R. Williams
 Gerrit Smith,J. Mccune Smith
-Gerrit Smith,H. Hurd
 Gerrit Smith,Carthagena
 L. N. Milnor,Sampson P. Lewis
 L. N. Milnor,M. Jones
@@ -7466,7 +7370,6 @@ L. N. Milnor,Wm. H. Burnham
 L. N. Milnor,David Jenkins
 L. N. Milnor,R. Williams
 L. N. Milnor,J. Mccune Smith
-L. N. Milnor,H. Hurd
 L. N. Milnor,Carthagena
 Sampson P. Lewis,M. Jones
 Sampson P. Lewis,Gee
@@ -7494,7 +7397,6 @@ Sampson P. Lewis,Wm. H. Burnham
 Sampson P. Lewis,David Jenkins
 Sampson P. Lewis,R. Williams
 Sampson P. Lewis,J. Mccune Smith
-Sampson P. Lewis,H. Hurd
 Sampson P. Lewis,Carthagena
 M. Jones,Gee
 M. Jones,M. Langston
@@ -7521,7 +7423,6 @@ M. Jones,Wm. H. Burnham
 M. Jones,David Jenkins
 M. Jones,R. Williams
 M. Jones,J. Mccune Smith
-M. Jones,H. Hurd
 M. Jones,Carthagena
 Gee,M. Langston
 Gee,John Booker
@@ -7547,7 +7448,6 @@ Gee,Wm. H. Burnham
 Gee,David Jenkins
 Gee,R. Williams
 Gee,J. Mccune Smith
-Gee,H. Hurd
 Gee,Carthagena
 M. Langston,John Booker
 M. Langston,A. M. Taylor
@@ -7572,7 +7472,6 @@ M. Langston,Wm. H. Burnham
 M. Langston,David Jenkins
 M. Langston,R. Williams
 M. Langston,J. Mccune Smith
-M. Langston,H. Hurd
 M. Langston,Carthagena
 John Booker,A. M. Taylor
 John Booker,Booker
@@ -7596,7 +7495,6 @@ John Booker,Wm. H. Burnham
 John Booker,David Jenkins
 John Booker,R. Williams
 John Booker,J. Mccune Smith
-John Booker,H. Hurd
 John Booker,Carthagena
 A. M. Taylor,Booker
 A. M. Taylor,Yancey
@@ -7619,7 +7517,6 @@ A. M. Taylor,Wm. H. Burnham
 A. M. Taylor,David Jenkins
 A. M. Taylor,R. Williams
 A. M. Taylor,J. Mccune Smith
-A. M. Taylor,H. Hurd
 A. M. Taylor,Carthagena
 Booker,Yancey
 Booker,Lewis Adams
@@ -7641,7 +7538,6 @@ Booker,Wm. H. Burnham
 Booker,David Jenkins
 Booker,R. Williams
 Booker,J. Mccune Smith
-Booker,H. Hurd
 Booker,Carthagena
 Yancey,Lewis Adams
 Yancey,William H. Day
@@ -7662,7 +7558,6 @@ Yancey,Wm. H. Burnham
 Yancey,David Jenkins
 Yancey,R. Williams
 Yancey,J. Mccune Smith
-Yancey,H. Hurd
 Yancey,Carthagena
 Lewis Adams,William H. Day
 Lewis Adams,Scurry
@@ -7682,7 +7577,6 @@ Lewis Adams,Wm. H. Burnham
 Lewis Adams,David Jenkins
 Lewis Adams,R. Williams
 Lewis Adams,J. Mccune Smith
-Lewis Adams,H. Hurd
 Lewis Adams,Carthagena
 William H. Day,Scurry
 William H. Day,Elder Jones
@@ -7701,7 +7595,6 @@ William H. Day,Wm. H. Burnham
 William H. Day,David Jenkins
 William H. Day,R. Williams
 William H. Day,J. Mccune Smith
-William H. Day,H. Hurd
 William H. Day,Carthagena
 Scurry,Elder Jones
 Scurry,Henry Hurd
@@ -7719,7 +7612,6 @@ Scurry,Wm. H. Burnham
 Scurry,David Jenkins
 Scurry,R. Williams
 Scurry,J. Mccune Smith
-Scurry,H. Hurd
 Scurry,Carthagena
 Elder Jones,Henry Hurd
 Elder Jones,Justin Holland
@@ -7736,7 +7628,6 @@ Elder Jones,Wm. H. Burnham
 Elder Jones,David Jenkins
 Elder Jones,R. Williams
 Elder Jones,J. Mccune Smith
-Elder Jones,H. Hurd
 Elder Jones,Carthagena
 Henry Hurd,Justin Holland
 Henry Hurd,L. W. Minor
@@ -7752,7 +7643,6 @@ Henry Hurd,Wm. H. Burnham
 Henry Hurd,David Jenkins
 Henry Hurd,R. Williams
 Henry Hurd,J. Mccune Smith
-Henry Hurd,H. Hurd
 Henry Hurd,Carthagena
 Justin Holland,L. W. Minor
 Justin Holland,Nichols
@@ -7767,7 +7657,6 @@ Justin Holland,Wm. H. Burnham
 Justin Holland,David Jenkins
 Justin Holland,R. Williams
 Justin Holland,J. Mccune Smith
-Justin Holland,H. Hurd
 Justin Holland,Carthagena
 L. W. Minor,Nichols
 L. W. Minor,Samuel Jones
@@ -7781,7 +7670,6 @@ L. W. Minor,Wm. H. Burnham
 L. W. Minor,David Jenkins
 L. W. Minor,R. Williams
 L. W. Minor,J. Mccune Smith
-L. W. Minor,H. Hurd
 L. W. Minor,Carthagena
 Nichols,Samuel Jones
 Nichols,T. Crawford
@@ -7794,7 +7682,6 @@ Nichols,Wm. H. Burnham
 Nichols,David Jenkins
 Nichols,R. Williams
 Nichols,J. Mccune Smith
-Nichols,H. Hurd
 Nichols,Carthagena
 Samuel Jones,T. Crawford
 Samuel Jones,Jesus Christ
@@ -7806,7 +7693,6 @@ Samuel Jones,Wm. H. Burnham
 Samuel Jones,David Jenkins
 Samuel Jones,R. Williams
 Samuel Jones,J. Mccune Smith
-Samuel Jones,H. Hurd
 Samuel Jones,Carthagena
 T. Crawford,Jesus Christ
 T. Crawford,L. W. Miner
@@ -7817,7 +7703,6 @@ T. Crawford,Wm. H. Burnham
 T. Crawford,David Jenkins
 T. Crawford,R. Williams
 T. Crawford,J. Mccune Smith
-T. Crawford,H. Hurd
 T. Crawford,Carthagena
 Jesus Christ,L. W. Miner
 Jesus Christ,Mr. W. H. Burnham
@@ -7827,7 +7712,6 @@ Jesus Christ,Wm. H. Burnham
 Jesus Christ,David Jenkins
 Jesus Christ,R. Williams
 Jesus Christ,J. Mccune Smith
-Jesus Christ,H. Hurd
 Jesus Christ,Carthagena
 L. W. Miner,Mr. W. H. Burnham
 L. W. Miner,A. R. Green
@@ -7836,7 +7720,6 @@ L. W. Miner,Wm. H. Burnham
 L. W. Miner,David Jenkins
 L. W. Miner,R. Williams
 L. W. Miner,J. Mccune Smith
-L. W. Miner,H. Hurd
 L. W. Miner,Carthagena
 Mr. W. H. Burnham,A. R. Green
 Mr. W. H. Burnham,V. William H. Day
@@ -7844,33 +7727,25 @@ Mr. W. H. Burnham,Wm. H. Burnham
 Mr. W. H. Burnham,David Jenkins
 Mr. W. H. Burnham,R. Williams
 Mr. W. H. Burnham,J. Mccune Smith
-Mr. W. H. Burnham,H. Hurd
 Mr. W. H. Burnham,Carthagena
 A. R. Green,V. William H. Day
 A. R. Green,Wm. H. Burnham
 A. R. Green,David Jenkins
 A. R. Green,R. Williams
 A. R. Green,J. Mccune Smith
-A. R. Green,H. Hurd
 A. R. Green,Carthagena
 V. William H. Day,Wm. H. Burnham
 V. William H. Day,David Jenkins
 V. William H. Day,R. Williams
 V. William H. Day,J. Mccune Smith
-V. William H. Day,H. Hurd
 V. William H. Day,Carthagena
 Wm. H. Burnham,David Jenkins
 Wm. H. Burnham,R. Williams
 Wm. H. Burnham,J. Mccune Smith
-Wm. H. Burnham,H. Hurd
 Wm. H. Burnham,Carthagena
 David Jenkins,R. Williams
 David Jenkins,J. Mccune Smith
-David Jenkins,H. Hurd
 David Jenkins,Carthagena
 R. Williams,J. Mccune Smith
-R. Williams,H. Hurd
 R. Williams,Carthagena
-J. Mccune Smith,H. Hurd
 J. Mccune Smith,Carthagena
-H. Hurd,Carthagena

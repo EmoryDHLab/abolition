@@ -1,8 +1,7 @@
-name1,name2
+source,target
 Newbern,J. W. Hood
 Newbern,J. P. Shooks
 Newbern,John Randolph
-Newbern,W.
 Newbern,Cawthorn
 Newbern,J. R. Caswell
 Newbern,Alex. Bass
@@ -21,7 +20,6 @@ Newbern,Brooks
 Newbern,Omeka
 J. W. Hood,J. P. Shooks
 J. W. Hood,John Randolph
-J. W. Hood,W.
 J. W. Hood,Cawthorn
 J. W. Hood,J. R. Caswell
 J. W. Hood,Alex. Bass
@@ -39,7 +37,6 @@ J. W. Hood,Stevens
 J. W. Hood,Brooks
 J. W. Hood,Omeka
 J. P. Shooks,John Randolph
-J. P. Shooks,W.
 J. P. Shooks,Cawthorn
 J. P. Shooks,J. R. Caswell
 J. P. Shooks,Alex. Bass
@@ -56,7 +53,6 @@ J. P. Shooks,Sumner
 J. P. Shooks,Stevens
 J. P. Shooks,Brooks
 J. P. Shooks,Omeka
-John Randolph,W.
 John Randolph,Cawthorn
 John Randolph,J. R. Caswell
 John Randolph,Alex. Bass
@@ -73,22 +69,6 @@ John Randolph,Sumner
 John Randolph,Stevens
 John Randolph,Brooks
 John Randolph,Omeka
-W.,Cawthorn
-W.,J. R. Caswell
-W.,Alex. Bass
-W.,William H. Coleman
-W.,Coleman
-W.,J. Harris
-W.,Horace Greeley
-W.,Harris
-W.,Bass
-W.,Greeley
-W.,Rock
-W.,Chase
-W.,Sumner
-W.,Stevens
-W.,Brooks
-W.,Omeka
 Cawthorn,J. R. Caswell
 Cawthorn,Alex. Bass
 Cawthorn,William H. Coleman

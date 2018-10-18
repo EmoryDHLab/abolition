@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Benj,Paschal
 Benj,Butler
 Benj,C. Matthews
@@ -42,7 +42,6 @@ Benj,John Dowers
 Benj,L. Jennings
 Benj,R. R. Gurley
 Benj,Brackenridge
-Benj,Abraham
 Benj,Pennington
 Benj,Gurley
 Benj,Hamilton
@@ -64,7 +63,6 @@ Benj,Elliot
 Benj,Roberts
 Benj,Hiner
 Benj,A. D. Shad
-Benj,P. M.
 Benj,Easton
 Benj,Patterson
 Benj,Garrison
@@ -84,7 +82,6 @@ Benj,Alfred Niger
 Benj,C. Augustus
 Benj,Peter Osborn
 Benj,John Liverpool
-Benj,V. P.
 Benj,Abner Crocker
 Benj,Peter Spencer
 Benj,Richard Allen
@@ -223,7 +220,6 @@ Paschal,John Dowers
 Paschal,L. Jennings
 Paschal,R. R. Gurley
 Paschal,Brackenridge
-Paschal,Abraham
 Paschal,Pennington
 Paschal,Gurley
 Paschal,Hamilton
@@ -245,7 +241,6 @@ Paschal,Elliot
 Paschal,Roberts
 Paschal,Hiner
 Paschal,A. D. Shad
-Paschal,P. M.
 Paschal,Easton
 Paschal,Patterson
 Paschal,Garrison
@@ -265,7 +260,6 @@ Paschal,Alfred Niger
 Paschal,C. Augustus
 Paschal,Peter Osborn
 Paschal,John Liverpool
-Paschal,V. P.
 Paschal,Abner Crocker
 Paschal,Peter Spencer
 Paschal,Richard Allen
@@ -403,7 +397,6 @@ Butler,John Dowers
 Butler,L. Jennings
 Butler,R. R. Gurley
 Butler,Brackenridge
-Butler,Abraham
 Butler,Pennington
 Butler,Gurley
 Butler,Hamilton
@@ -425,7 +418,6 @@ Butler,Elliot
 Butler,Roberts
 Butler,Hiner
 Butler,A. D. Shad
-Butler,P. M.
 Butler,Easton
 Butler,Patterson
 Butler,Garrison
@@ -445,7 +437,6 @@ Butler,Alfred Niger
 Butler,C. Augustus
 Butler,Peter Osborn
 Butler,John Liverpool
-Butler,V. P.
 Butler,Abner Crocker
 Butler,Peter Spencer
 Butler,Richard Allen
@@ -582,7 +573,6 @@ C. Matthews,John Dowers
 C. Matthews,L. Jennings
 C. Matthews,R. R. Gurley
 C. Matthews,Brackenridge
-C. Matthews,Abraham
 C. Matthews,Pennington
 C. Matthews,Gurley
 C. Matthews,Hamilton
@@ -604,7 +594,6 @@ C. Matthews,Elliot
 C. Matthews,Roberts
 C. Matthews,Hiner
 C. Matthews,A. D. Shad
-C. Matthews,P. M.
 C. Matthews,Easton
 C. Matthews,Patterson
 C. Matthews,Garrison
@@ -624,7 +613,6 @@ C. Matthews,Alfred Niger
 C. Matthews,C. Augustus
 C. Matthews,Peter Osborn
 C. Matthews,John Liverpool
-C. Matthews,V. P.
 C. Matthews,Abner Crocker
 C. Matthews,Peter Spencer
 C. Matthews,Richard Allen
@@ -760,7 +748,6 @@ John Bowers,John Dowers
 John Bowers,L. Jennings
 John Bowers,R. R. Gurley
 John Bowers,Brackenridge
-John Bowers,Abraham
 John Bowers,Pennington
 John Bowers,Gurley
 John Bowers,Hamilton
@@ -782,7 +769,6 @@ John Bowers,Elliot
 John Bowers,Roberts
 John Bowers,Hiner
 John Bowers,A. D. Shad
-John Bowers,P. M.
 John Bowers,Easton
 John Bowers,Patterson
 John Bowers,Garrison
@@ -802,7 +788,6 @@ John Bowers,Alfred Niger
 John Bowers,C. Augustus
 John Bowers,Peter Osborn
 John Bowers,John Liverpool
-John Bowers,V. P.
 John Bowers,Abner Crocker
 John Bowers,Peter Spencer
 John Bowers,Richard Allen
@@ -937,7 +922,6 @@ Junius C. Morel,John Dowers
 Junius C. Morel,L. Jennings
 Junius C. Morel,R. R. Gurley
 Junius C. Morel,Brackenridge
-Junius C. Morel,Abraham
 Junius C. Morel,Pennington
 Junius C. Morel,Gurley
 Junius C. Morel,Hamilton
@@ -959,7 +943,6 @@ Junius C. Morel,Elliot
 Junius C. Morel,Roberts
 Junius C. Morel,Hiner
 Junius C. Morel,A. D. Shad
-Junius C. Morel,P. M.
 Junius C. Morel,Easton
 Junius C. Morel,Patterson
 Junius C. Morel,Garrison
@@ -979,7 +962,6 @@ Junius C. Morel,Alfred Niger
 Junius C. Morel,C. Augustus
 Junius C. Morel,Peter Osborn
 Junius C. Morel,John Liverpool
-Junius C. Morel,V. P.
 Junius C. Morel,Abner Crocker
 Junius C. Morel,Peter Spencer
 Junius C. Morel,Richard Allen
@@ -1113,7 +1095,6 @@ Charles W. Gardner,John Dowers
 Charles W. Gardner,L. Jennings
 Charles W. Gardner,R. R. Gurley
 Charles W. Gardner,Brackenridge
-Charles W. Gardner,Abraham
 Charles W. Gardner,Pennington
 Charles W. Gardner,Gurley
 Charles W. Gardner,Hamilton
@@ -1135,7 +1116,6 @@ Charles W. Gardner,Elliot
 Charles W. Gardner,Roberts
 Charles W. Gardner,Hiner
 Charles W. Gardner,A. D. Shad
-Charles W. Gardner,P. M.
 Charles W. Gardner,Easton
 Charles W. Gardner,Patterson
 Charles W. Gardner,Garrison
@@ -1155,7 +1135,6 @@ Charles W. Gardner,Alfred Niger
 Charles W. Gardner,C. Augustus
 Charles W. Gardner,Peter Osborn
 Charles W. Gardner,John Liverpool
-Charles W. Gardner,V. P.
 Charles W. Gardner,Abner Crocker
 Charles W. Gardner,Peter Spencer
 Charles W. Gardner,Richard Allen
@@ -1288,7 +1267,6 @@ John B. Vashon,John Dowers
 John B. Vashon,L. Jennings
 John B. Vashon,R. R. Gurley
 John B. Vashon,Brackenridge
-John B. Vashon,Abraham
 John B. Vashon,Pennington
 John B. Vashon,Gurley
 John B. Vashon,Hamilton
@@ -1310,7 +1288,6 @@ John B. Vashon,Elliot
 John B. Vashon,Roberts
 John B. Vashon,Hiner
 John B. Vashon,A. D. Shad
-John B. Vashon,P. M.
 John B. Vashon,Easton
 John B. Vashon,Patterson
 John B. Vashon,Garrison
@@ -1330,7 +1307,6 @@ John B. Vashon,Alfred Niger
 John B. Vashon,C. Augustus
 John B. Vashon,Peter Osborn
 John B. Vashon,John Liverpool
-John B. Vashon,V. P.
 John B. Vashon,Abner Crocker
 John B. Vashon,Peter Spencer
 John B. Vashon,Richard Allen
@@ -1462,7 +1438,6 @@ Benjamin Paschal,John Dowers
 Benjamin Paschal,L. Jennings
 Benjamin Paschal,R. R. Gurley
 Benjamin Paschal,Brackenridge
-Benjamin Paschal,Abraham
 Benjamin Paschal,Pennington
 Benjamin Paschal,Gurley
 Benjamin Paschal,Hamilton
@@ -1484,7 +1459,6 @@ Benjamin Paschal,Elliot
 Benjamin Paschal,Roberts
 Benjamin Paschal,Hiner
 Benjamin Paschal,A. D. Shad
-Benjamin Paschal,P. M.
 Benjamin Paschal,Easton
 Benjamin Paschal,Patterson
 Benjamin Paschal,Garrison
@@ -1504,7 +1478,6 @@ Benjamin Paschal,Alfred Niger
 Benjamin Paschal,C. Augustus
 Benjamin Paschal,Peter Osborn
 Benjamin Paschal,John Liverpool
-Benjamin Paschal,V. P.
 Benjamin Paschal,Abner Crocker
 Benjamin Paschal,Peter Spencer
 Benjamin Paschal,Richard Allen
@@ -1635,7 +1608,6 @@ William Whipper,John Dowers
 William Whipper,L. Jennings
 William Whipper,R. R. Gurley
 William Whipper,Brackenridge
-William Whipper,Abraham
 William Whipper,Pennington
 William Whipper,Gurley
 William Whipper,Hamilton
@@ -1657,7 +1629,6 @@ William Whipper,Elliot
 William Whipper,Roberts
 William Whipper,Hiner
 William Whipper,A. D. Shad
-William Whipper,P. M.
 William Whipper,Easton
 William Whipper,Patterson
 William Whipper,Garrison
@@ -1677,7 +1648,6 @@ William Whipper,Alfred Niger
 William Whipper,C. Augustus
 William Whipper,Peter Osborn
 William Whipper,John Liverpool
-William Whipper,V. P.
 William Whipper,Abner Crocker
 William Whipper,Peter Spencer
 William Whipper,Richard Allen
@@ -1807,7 +1777,6 @@ F. A. Hinton,John Dowers
 F. A. Hinton,L. Jennings
 F. A. Hinton,R. R. Gurley
 F. A. Hinton,Brackenridge
-F. A. Hinton,Abraham
 F. A. Hinton,Pennington
 F. A. Hinton,Gurley
 F. A. Hinton,Hamilton
@@ -1829,7 +1798,6 @@ F. A. Hinton,Elliot
 F. A. Hinton,Roberts
 F. A. Hinton,Hiner
 F. A. Hinton,A. D. Shad
-F. A. Hinton,P. M.
 F. A. Hinton,Easton
 F. A. Hinton,Patterson
 F. A. Hinton,Garrison
@@ -1849,7 +1817,6 @@ F. A. Hinton,Alfred Niger
 F. A. Hinton,C. Augustus
 F. A. Hinton,Peter Osborn
 F. A. Hinton,John Liverpool
-F. A. Hinton,V. P.
 F. A. Hinton,Abner Crocker
 F. A. Hinton,Peter Spencer
 F. A. Hinton,Richard Allen
@@ -1978,7 +1945,6 @@ J. C. Morel,John Dowers
 J. C. Morel,L. Jennings
 J. C. Morel,R. R. Gurley
 J. C. Morel,Brackenridge
-J. C. Morel,Abraham
 J. C. Morel,Pennington
 J. C. Morel,Gurley
 J. C. Morel,Hamilton
@@ -2000,7 +1966,6 @@ J. C. Morel,Elliot
 J. C. Morel,Roberts
 J. C. Morel,Hiner
 J. C. Morel,A. D. Shad
-J. C. Morel,P. M.
 J. C. Morel,Easton
 J. C. Morel,Patterson
 J. C. Morel,Garrison
@@ -2020,7 +1985,6 @@ J. C. Morel,Alfred Niger
 J. C. Morel,C. Augustus
 J. C. Morel,Peter Osborn
 J. C. Morel,John Liverpool
-J. C. Morel,V. P.
 J. C. Morel,Abner Crocker
 J. C. Morel,Peter Spencer
 J. C. Morel,Richard Allen
@@ -2148,7 +2112,6 @@ Carlisle,John Dowers
 Carlisle,L. Jennings
 Carlisle,R. R. Gurley
 Carlisle,Brackenridge
-Carlisle,Abraham
 Carlisle,Pennington
 Carlisle,Gurley
 Carlisle,Hamilton
@@ -2170,7 +2133,6 @@ Carlisle,Elliot
 Carlisle,Roberts
 Carlisle,Hiner
 Carlisle,A. D. Shad
-Carlisle,P. M.
 Carlisle,Easton
 Carlisle,Patterson
 Carlisle,Garrison
@@ -2190,7 +2152,6 @@ Carlisle,Alfred Niger
 Carlisle,C. Augustus
 Carlisle,Peter Osborn
 Carlisle,John Liverpool
-Carlisle,V. P.
 Carlisle,Abner Crocker
 Carlisle,Peter Spencer
 Carlisle,Richard Allen
@@ -2317,7 +2278,6 @@ John Peck,John Dowers
 John Peck,L. Jennings
 John Peck,R. R. Gurley
 John Peck,Brackenridge
-John Peck,Abraham
 John Peck,Pennington
 John Peck,Gurley
 John Peck,Hamilton
@@ -2339,7 +2299,6 @@ John Peck,Elliot
 John Peck,Roberts
 John Peck,Hiner
 John Peck,A. D. Shad
-John Peck,P. M.
 John Peck,Easton
 John Peck,Patterson
 John Peck,Garrison
@@ -2359,7 +2318,6 @@ John Peck,Alfred Niger
 John Peck,C. Augustus
 John Peck,Peter Osborn
 John Peck,John Liverpool
-John Peck,V. P.
 John Peck,Abner Crocker
 John Peck,Peter Spencer
 John Peck,Richard Allen
@@ -2485,7 +2443,6 @@ Samuel Johnson,John Dowers
 Samuel Johnson,L. Jennings
 Samuel Johnson,R. R. Gurley
 Samuel Johnson,Brackenridge
-Samuel Johnson,Abraham
 Samuel Johnson,Pennington
 Samuel Johnson,Gurley
 Samuel Johnson,Hamilton
@@ -2507,7 +2464,6 @@ Samuel Johnson,Elliot
 Samuel Johnson,Roberts
 Samuel Johnson,Hiner
 Samuel Johnson,A. D. Shad
-Samuel Johnson,P. M.
 Samuel Johnson,Easton
 Samuel Johnson,Patterson
 Samuel Johnson,Garrison
@@ -2527,7 +2483,6 @@ Samuel Johnson,Alfred Niger
 Samuel Johnson,C. Augustus
 Samuel Johnson,Peter Osborn
 Samuel Johnson,John Liverpool
-Samuel Johnson,V. P.
 Samuel Johnson,Abner Crocker
 Samuel Johnson,Peter Spencer
 Samuel Johnson,Richard Allen
@@ -2652,7 +2607,6 @@ William Hamilton,John Dowers
 William Hamilton,L. Jennings
 William Hamilton,R. R. Gurley
 William Hamilton,Brackenridge
-William Hamilton,Abraham
 William Hamilton,Pennington
 William Hamilton,Gurley
 William Hamilton,Hamilton
@@ -2674,7 +2628,6 @@ William Hamilton,Elliot
 William Hamilton,Roberts
 William Hamilton,Hiner
 William Hamilton,A. D. Shad
-William Hamilton,P. M.
 William Hamilton,Easton
 William Hamilton,Patterson
 William Hamilton,Garrison
@@ -2694,7 +2647,6 @@ William Hamilton,Alfred Niger
 William Hamilton,C. Augustus
 William Hamilton,Peter Osborn
 William Hamilton,John Liverpool
-William Hamilton,V. P.
 William Hamilton,Abner Crocker
 William Hamilton,Peter Spencer
 William Hamilton,Richard Allen
@@ -2818,7 +2770,6 @@ Henry Sipkins,John Dowers
 Henry Sipkins,L. Jennings
 Henry Sipkins,R. R. Gurley
 Henry Sipkins,Brackenridge
-Henry Sipkins,Abraham
 Henry Sipkins,Pennington
 Henry Sipkins,Gurley
 Henry Sipkins,Hamilton
@@ -2840,7 +2791,6 @@ Henry Sipkins,Elliot
 Henry Sipkins,Roberts
 Henry Sipkins,Hiner
 Henry Sipkins,A. D. Shad
-Henry Sipkins,P. M.
 Henry Sipkins,Easton
 Henry Sipkins,Patterson
 Henry Sipkins,Garrison
@@ -2860,7 +2810,6 @@ Henry Sipkins,Alfred Niger
 Henry Sipkins,C. Augustus
 Henry Sipkins,Peter Osborn
 Henry Sipkins,John Liverpool
-Henry Sipkins,V. P.
 Henry Sipkins,Abner Crocker
 Henry Sipkins,Peter Spencer
 Henry Sipkins,Richard Allen
@@ -2983,7 +2932,6 @@ Thomas L. Jennings,John Dowers
 Thomas L. Jennings,L. Jennings
 Thomas L. Jennings,R. R. Gurley
 Thomas L. Jennings,Brackenridge
-Thomas L. Jennings,Abraham
 Thomas L. Jennings,Pennington
 Thomas L. Jennings,Gurley
 Thomas L. Jennings,Hamilton
@@ -3005,7 +2953,6 @@ Thomas L. Jennings,Elliot
 Thomas L. Jennings,Roberts
 Thomas L. Jennings,Hiner
 Thomas L. Jennings,A. D. Shad
-Thomas L. Jennings,P. M.
 Thomas L. Jennings,Easton
 Thomas L. Jennings,Patterson
 Thomas L. Jennings,Garrison
@@ -3025,7 +2972,6 @@ Thomas L. Jennings,Alfred Niger
 Thomas L. Jennings,C. Augustus
 Thomas L. Jennings,Peter Osborn
 Thomas L. Jennings,John Liverpool
-Thomas L. Jennings,V. P.
 Thomas L. Jennings,Abner Crocker
 Thomas L. Jennings,Peter Spencer
 Thomas L. Jennings,Richard Allen
@@ -3147,7 +3093,6 @@ Philip A. Bell,John Dowers
 Philip A. Bell,L. Jennings
 Philip A. Bell,R. R. Gurley
 Philip A. Bell,Brackenridge
-Philip A. Bell,Abraham
 Philip A. Bell,Pennington
 Philip A. Bell,Gurley
 Philip A. Bell,Hamilton
@@ -3169,7 +3114,6 @@ Philip A. Bell,Elliot
 Philip A. Bell,Roberts
 Philip A. Bell,Hiner
 Philip A. Bell,A. D. Shad
-Philip A. Bell,P. M.
 Philip A. Bell,Easton
 Philip A. Bell,Patterson
 Philip A. Bell,Garrison
@@ -3189,7 +3133,6 @@ Philip A. Bell,Alfred Niger
 Philip A. Bell,C. Augustus
 Philip A. Bell,Peter Osborn
 Philip A. Bell,John Liverpool
-Philip A. Bell,V. P.
 Philip A. Bell,Abner Crocker
 Philip A. Bell,Peter Spencer
 Philip A. Bell,Richard Allen
@@ -3310,7 +3253,6 @@ James Pennington,John Dowers
 James Pennington,L. Jennings
 James Pennington,R. R. Gurley
 James Pennington,Brackenridge
-James Pennington,Abraham
 James Pennington,Pennington
 James Pennington,Gurley
 James Pennington,Hamilton
@@ -3332,7 +3274,6 @@ James Pennington,Elliot
 James Pennington,Roberts
 James Pennington,Hiner
 James Pennington,A. D. Shad
-James Pennington,P. M.
 James Pennington,Easton
 James Pennington,Patterson
 James Pennington,Garrison
@@ -3352,7 +3293,6 @@ James Pennington,Alfred Niger
 James Pennington,C. Augustus
 James Pennington,Peter Osborn
 James Pennington,John Liverpool
-James Pennington,V. P.
 James Pennington,Abner Crocker
 James Pennington,Peter Spencer
 James Pennington,Richard Allen
@@ -3472,7 +3412,6 @@ Joseph Burton,John Dowers
 Joseph Burton,L. Jennings
 Joseph Burton,R. R. Gurley
 Joseph Burton,Brackenridge
-Joseph Burton,Abraham
 Joseph Burton,Pennington
 Joseph Burton,Gurley
 Joseph Burton,Hamilton
@@ -3494,7 +3433,6 @@ Joseph Burton,Elliot
 Joseph Burton,Roberts
 Joseph Burton,Hiner
 Joseph Burton,A. D. Shad
-Joseph Burton,P. M.
 Joseph Burton,Easton
 Joseph Burton,Patterson
 Joseph Burton,Garrison
@@ -3514,7 +3452,6 @@ Joseph Burton,Alfred Niger
 Joseph Burton,C. Augustus
 Joseph Burton,Peter Osborn
 Joseph Burton,John Liverpool
-Joseph Burton,V. P.
 Joseph Burton,Abner Crocker
 Joseph Burton,Peter Spencer
 Joseph Burton,Richard Allen
@@ -3633,7 +3570,6 @@ William Johnson,John Dowers
 William Johnson,L. Jennings
 William Johnson,R. R. Gurley
 William Johnson,Brackenridge
-William Johnson,Abraham
 William Johnson,Pennington
 William Johnson,Gurley
 William Johnson,Hamilton
@@ -3655,7 +3591,6 @@ William Johnson,Elliot
 William Johnson,Roberts
 William Johnson,Hiner
 William Johnson,A. D. Shad
-William Johnson,P. M.
 William Johnson,Easton
 William Johnson,Patterson
 William Johnson,Garrison
@@ -3675,7 +3610,6 @@ William Johnson,Alfred Niger
 William Johnson,C. Augustus
 William Johnson,Peter Osborn
 William Johnson,John Liverpool
-William Johnson,V. P.
 William Johnson,Abner Crocker
 William Johnson,Peter Spencer
 William Johnson,Richard Allen
@@ -3793,7 +3727,6 @@ Jacob Morgan,John Dowers
 Jacob Morgan,L. Jennings
 Jacob Morgan,R. R. Gurley
 Jacob Morgan,Brackenridge
-Jacob Morgan,Abraham
 Jacob Morgan,Pennington
 Jacob Morgan,Gurley
 Jacob Morgan,Hamilton
@@ -3815,7 +3748,6 @@ Jacob Morgan,Elliot
 Jacob Morgan,Roberts
 Jacob Morgan,Hiner
 Jacob Morgan,A. D. Shad
-Jacob Morgan,P. M.
 Jacob Morgan,Easton
 Jacob Morgan,Patterson
 Jacob Morgan,Garrison
@@ -3835,7 +3767,6 @@ Jacob Morgan,Alfred Niger
 Jacob Morgan,C. Augustus
 Jacob Morgan,Peter Osborn
 Jacob Morgan,John Liverpool
-Jacob Morgan,V. P.
 Jacob Morgan,Abner Crocker
 Jacob Morgan,Peter Spencer
 Jacob Morgan,Richard Allen
@@ -3952,7 +3883,6 @@ Peter Gardiner,John Dowers
 Peter Gardiner,L. Jennings
 Peter Gardiner,R. R. Gurley
 Peter Gardiner,Brackenridge
-Peter Gardiner,Abraham
 Peter Gardiner,Pennington
 Peter Gardiner,Gurley
 Peter Gardiner,Hamilton
@@ -3974,7 +3904,6 @@ Peter Gardiner,Elliot
 Peter Gardiner,Roberts
 Peter Gardiner,Hiner
 Peter Gardiner,A. D. Shad
-Peter Gardiner,P. M.
 Peter Gardiner,Easton
 Peter Gardiner,Patterson
 Peter Gardiner,Garrison
@@ -3994,7 +3923,6 @@ Peter Gardiner,Alfred Niger
 Peter Gardiner,C. Augustus
 Peter Gardiner,Peter Osborn
 Peter Gardiner,John Liverpool
-Peter Gardiner,V. P.
 Peter Gardiner,Abner Crocker
 Peter Gardiner,Peter Spencer
 Peter Gardiner,Richard Allen
@@ -4110,7 +4038,6 @@ D. Shad,John Dowers
 D. Shad,L. Jennings
 D. Shad,R. R. Gurley
 D. Shad,Brackenridge
-D. Shad,Abraham
 D. Shad,Pennington
 D. Shad,Gurley
 D. Shad,Hamilton
@@ -4132,7 +4059,6 @@ D. Shad,Elliot
 D. Shad,Roberts
 D. Shad,Hiner
 D. Shad,A. D. Shad
-D. Shad,P. M.
 D. Shad,Easton
 D. Shad,Patterson
 D. Shad,Garrison
@@ -4152,7 +4078,6 @@ D. Shad,Alfred Niger
 D. Shad,C. Augustus
 D. Shad,Peter Osborn
 D. Shad,John Liverpool
-D. Shad,V. P.
 D. Shad,Abner Crocker
 D. Shad,Peter Spencer
 D. Shad,Richard Allen
@@ -4267,7 +4192,6 @@ Samuel Elliott,John Dowers
 Samuel Elliott,L. Jennings
 Samuel Elliott,R. R. Gurley
 Samuel Elliott,Brackenridge
-Samuel Elliott,Abraham
 Samuel Elliott,Pennington
 Samuel Elliott,Gurley
 Samuel Elliott,Hamilton
@@ -4289,7 +4213,6 @@ Samuel Elliott,Elliot
 Samuel Elliott,Roberts
 Samuel Elliott,Hiner
 Samuel Elliott,A. D. Shad
-Samuel Elliott,P. M.
 Samuel Elliott,Easton
 Samuel Elliott,Patterson
 Samuel Elliott,Garrison
@@ -4309,7 +4232,6 @@ Samuel Elliott,Alfred Niger
 Samuel Elliott,C. Augustus
 Samuel Elliott,Peter Osborn
 Samuel Elliott,John Liverpool
-Samuel Elliott,V. P.
 Samuel Elliott,Abner Crocker
 Samuel Elliott,Peter Spencer
 Samuel Elliott,Richard Allen
@@ -4423,7 +4345,6 @@ Robert Cowley,John Dowers
 Robert Cowley,L. Jennings
 Robert Cowley,R. R. Gurley
 Robert Cowley,Brackenridge
-Robert Cowley,Abraham
 Robert Cowley,Pennington
 Robert Cowley,Gurley
 Robert Cowley,Hamilton
@@ -4445,7 +4366,6 @@ Robert Cowley,Elliot
 Robert Cowley,Roberts
 Robert Cowley,Hiner
 Robert Cowley,A. D. Shad
-Robert Cowley,P. M.
 Robert Cowley,Easton
 Robert Cowley,Patterson
 Robert Cowley,Garrison
@@ -4465,7 +4385,6 @@ Robert Cowley,Alfred Niger
 Robert Cowley,C. Augustus
 Robert Cowley,Peter Osborn
 Robert Cowley,John Liverpool
-Robert Cowley,V. P.
 Robert Cowley,Abner Crocker
 Robert Cowley,Peter Spencer
 Robert Cowley,Richard Allen
@@ -4578,7 +4497,6 @@ Samuel Hiner,John Dowers
 Samuel Hiner,L. Jennings
 Samuel Hiner,R. R. Gurley
 Samuel Hiner,Brackenridge
-Samuel Hiner,Abraham
 Samuel Hiner,Pennington
 Samuel Hiner,Gurley
 Samuel Hiner,Hamilton
@@ -4600,7 +4518,6 @@ Samuel Hiner,Elliot
 Samuel Hiner,Roberts
 Samuel Hiner,Hiner
 Samuel Hiner,A. D. Shad
-Samuel Hiner,P. M.
 Samuel Hiner,Easton
 Samuel Hiner,Patterson
 Samuel Hiner,Garrison
@@ -4620,7 +4537,6 @@ Samuel Hiner,Alfred Niger
 Samuel Hiner,C. Augustus
 Samuel Hiner,Peter Osborn
 Samuel Hiner,John Liverpool
-Samuel Hiner,V. P.
 Samuel Hiner,Abner Crocker
 Samuel Hiner,Peter Spencer
 Samuel Hiner,Richard Allen
@@ -4732,7 +4648,6 @@ Thomas D. Coxsin,John Dowers
 Thomas D. Coxsin,L. Jennings
 Thomas D. Coxsin,R. R. Gurley
 Thomas D. Coxsin,Brackenridge
-Thomas D. Coxsin,Abraham
 Thomas D. Coxsin,Pennington
 Thomas D. Coxsin,Gurley
 Thomas D. Coxsin,Hamilton
@@ -4754,7 +4669,6 @@ Thomas D. Coxsin,Elliot
 Thomas D. Coxsin,Roberts
 Thomas D. Coxsin,Hiner
 Thomas D. Coxsin,A. D. Shad
-Thomas D. Coxsin,P. M.
 Thomas D. Coxsin,Easton
 Thomas D. Coxsin,Patterson
 Thomas D. Coxsin,Garrison
@@ -4774,7 +4688,6 @@ Thomas D. Coxsin,Alfred Niger
 Thomas D. Coxsin,C. Augustus
 Thomas D. Coxsin,Peter Osborn
 Thomas D. Coxsin,John Liverpool
-Thomas D. Coxsin,V. P.
 Thomas D. Coxsin,Abner Crocker
 Thomas D. Coxsin,Peter Spencer
 Thomas D. Coxsin,Richard Allen
@@ -4885,7 +4798,6 @@ Thomas Banks,John Dowers
 Thomas Banks,L. Jennings
 Thomas Banks,R. R. Gurley
 Thomas Banks,Brackenridge
-Thomas Banks,Abraham
 Thomas Banks,Pennington
 Thomas Banks,Gurley
 Thomas Banks,Hamilton
@@ -4907,7 +4819,6 @@ Thomas Banks,Elliot
 Thomas Banks,Roberts
 Thomas Banks,Hiner
 Thomas Banks,A. D. Shad
-Thomas Banks,P. M.
 Thomas Banks,Easton
 Thomas Banks,Patterson
 Thomas Banks,Garrison
@@ -4927,7 +4838,6 @@ Thomas Banks,Alfred Niger
 Thomas Banks,C. Augustus
 Thomas Banks,Peter Osborn
 Thomas Banks,John Liverpool
-Thomas Banks,V. P.
 Thomas Banks,Abner Crocker
 Thomas Banks,Peter Spencer
 Thomas Banks,Richard Allen
@@ -5037,7 +4947,6 @@ Aaron Roberts,John Dowers
 Aaron Roberts,L. Jennings
 Aaron Roberts,R. R. Gurley
 Aaron Roberts,Brackenridge
-Aaron Roberts,Abraham
 Aaron Roberts,Pennington
 Aaron Roberts,Gurley
 Aaron Roberts,Hamilton
@@ -5059,7 +4968,6 @@ Aaron Roberts,Elliot
 Aaron Roberts,Roberts
 Aaron Roberts,Hiner
 Aaron Roberts,A. D. Shad
-Aaron Roberts,P. M.
 Aaron Roberts,Easton
 Aaron Roberts,Patterson
 Aaron Roberts,Garrison
@@ -5079,7 +4987,6 @@ Aaron Roberts,Alfred Niger
 Aaron Roberts,C. Augustus
 Aaron Roberts,Peter Osborn
 Aaron Roberts,John Liverpool
-Aaron Roberts,V. P.
 Aaron Roberts,Abner Crocker
 Aaron Roberts,Peter Spencer
 Aaron Roberts,Richard Allen
@@ -5188,7 +5095,6 @@ Hosea Easton,John Dowers
 Hosea Easton,L. Jennings
 Hosea Easton,R. R. Gurley
 Hosea Easton,Brackenridge
-Hosea Easton,Abraham
 Hosea Easton,Pennington
 Hosea Easton,Gurley
 Hosea Easton,Hamilton
@@ -5210,7 +5116,6 @@ Hosea Easton,Elliot
 Hosea Easton,Roberts
 Hosea Easton,Hiner
 Hosea Easton,A. D. Shad
-Hosea Easton,P. M.
 Hosea Easton,Easton
 Hosea Easton,Patterson
 Hosea Easton,Garrison
@@ -5230,7 +5135,6 @@ Hosea Easton,Alfred Niger
 Hosea Easton,C. Augustus
 Hosea Easton,Peter Osborn
 Hosea Easton,John Liverpool
-Hosea Easton,V. P.
 Hosea Easton,Abner Crocker
 Hosea Easton,Peter Spencer
 Hosea Easton,Richard Allen
@@ -5338,7 +5242,6 @@ Nathan Johnson,John Dowers
 Nathan Johnson,L. Jennings
 Nathan Johnson,R. R. Gurley
 Nathan Johnson,Brackenridge
-Nathan Johnson,Abraham
 Nathan Johnson,Pennington
 Nathan Johnson,Gurley
 Nathan Johnson,Hamilton
@@ -5360,7 +5263,6 @@ Nathan Johnson,Elliot
 Nathan Johnson,Roberts
 Nathan Johnson,Hiner
 Nathan Johnson,A. D. Shad
-Nathan Johnson,P. M.
 Nathan Johnson,Easton
 Nathan Johnson,Patterson
 Nathan Johnson,Garrison
@@ -5380,7 +5282,6 @@ Nathan Johnson,Alfred Niger
 Nathan Johnson,C. Augustus
 Nathan Johnson,Peter Osborn
 Nathan Johnson,John Liverpool
-Nathan Johnson,V. P.
 Nathan Johnson,Abner Crocker
 Nathan Johnson,Peter Spencer
 Nathan Johnson,Richard Allen
@@ -5487,7 +5388,6 @@ Paul Drayton,John Dowers
 Paul Drayton,L. Jennings
 Paul Drayton,R. R. Gurley
 Paul Drayton,Brackenridge
-Paul Drayton,Abraham
 Paul Drayton,Pennington
 Paul Drayton,Gurley
 Paul Drayton,Hamilton
@@ -5509,7 +5409,6 @@ Paul Drayton,Elliot
 Paul Drayton,Roberts
 Paul Drayton,Hiner
 Paul Drayton,A. D. Shad
-Paul Drayton,P. M.
 Paul Drayton,Easton
 Paul Drayton,Patterson
 Paul Drayton,Garrison
@@ -5529,7 +5428,6 @@ Paul Drayton,Alfred Niger
 Paul Drayton,C. Augustus
 Paul Drayton,Peter Osborn
 Paul Drayton,John Liverpool
-Paul Drayton,V. P.
 Paul Drayton,Abner Crocker
 Paul Drayton,Peter Spencer
 Paul Drayton,Richard Allen
@@ -5635,7 +5533,6 @@ Scipio C. Augustus,John Dowers
 Scipio C. Augustus,L. Jennings
 Scipio C. Augustus,R. R. Gurley
 Scipio C. Augustus,Brackenridge
-Scipio C. Augustus,Abraham
 Scipio C. Augustus,Pennington
 Scipio C. Augustus,Gurley
 Scipio C. Augustus,Hamilton
@@ -5657,7 +5554,6 @@ Scipio C. Augustus,Elliot
 Scipio C. Augustus,Roberts
 Scipio C. Augustus,Hiner
 Scipio C. Augustus,A. D. Shad
-Scipio C. Augustus,P. M.
 Scipio C. Augustus,Easton
 Scipio C. Augustus,Patterson
 Scipio C. Augustus,Garrison
@@ -5677,7 +5573,6 @@ Scipio C. Augustus,Alfred Niger
 Scipio C. Augustus,C. Augustus
 Scipio C. Augustus,Peter Osborn
 Scipio C. Augustus,John Liverpool
-Scipio C. Augustus,V. P.
 Scipio C. Augustus,Abner Crocker
 Scipio C. Augustus,Peter Spencer
 Scipio C. Augustus,Richard Allen
@@ -5782,7 +5677,6 @@ Ichabod Northrop,John Dowers
 Ichabod Northrop,L. Jennings
 Ichabod Northrop,R. R. Gurley
 Ichabod Northrop,Brackenridge
-Ichabod Northrop,Abraham
 Ichabod Northrop,Pennington
 Ichabod Northrop,Gurley
 Ichabod Northrop,Hamilton
@@ -5804,7 +5698,6 @@ Ichabod Northrop,Elliot
 Ichabod Northrop,Roberts
 Ichabod Northrop,Hiner
 Ichabod Northrop,A. D. Shad
-Ichabod Northrop,P. M.
 Ichabod Northrop,Easton
 Ichabod Northrop,Patterson
 Ichabod Northrop,Garrison
@@ -5824,7 +5717,6 @@ Ichabod Northrop,Alfred Niger
 Ichabod Northrop,C. Augustus
 Ichabod Northrop,Peter Osborn
 Ichabod Northrop,John Liverpool
-Ichabod Northrop,V. P.
 Ichabod Northrop,Abner Crocker
 Ichabod Northrop,Peter Spencer
 Ichabod Northrop,Richard Allen
@@ -5928,7 +5820,6 @@ Frederick A. Hinton,John Dowers
 Frederick A. Hinton,L. Jennings
 Frederick A. Hinton,R. R. Gurley
 Frederick A. Hinton,Brackenridge
-Frederick A. Hinton,Abraham
 Frederick A. Hinton,Pennington
 Frederick A. Hinton,Gurley
 Frederick A. Hinton,Hamilton
@@ -5950,7 +5841,6 @@ Frederick A. Hinton,Elliot
 Frederick A. Hinton,Roberts
 Frederick A. Hinton,Hiner
 Frederick A. Hinton,A. D. Shad
-Frederick A. Hinton,P. M.
 Frederick A. Hinton,Easton
 Frederick A. Hinton,Patterson
 Frederick A. Hinton,Garrison
@@ -5970,7 +5860,6 @@ Frederick A. Hinton,Alfred Niger
 Frederick A. Hinton,C. Augustus
 Frederick A. Hinton,Peter Osborn
 Frederick A. Hinton,John Liverpool
-Frederick A. Hinton,V. P.
 Frederick A. Hinton,Abner Crocker
 Frederick A. Hinton,Peter Spencer
 Frederick A. Hinton,Richard Allen
@@ -6073,7 +5962,6 @@ Charles H. Leveck,John Dowers
 Charles H. Leveck,L. Jennings
 Charles H. Leveck,R. R. Gurley
 Charles H. Leveck,Brackenridge
-Charles H. Leveck,Abraham
 Charles H. Leveck,Pennington
 Charles H. Leveck,Gurley
 Charles H. Leveck,Hamilton
@@ -6095,7 +5983,6 @@ Charles H. Leveck,Elliot
 Charles H. Leveck,Roberts
 Charles H. Leveck,Hiner
 Charles H. Leveck,A. D. Shad
-Charles H. Leveck,P. M.
 Charles H. Leveck,Easton
 Charles H. Leveck,Patterson
 Charles H. Leveck,Garrison
@@ -6115,7 +6002,6 @@ Charles H. Leveck,Alfred Niger
 Charles H. Leveck,C. Augustus
 Charles H. Leveck,Peter Osborn
 Charles H. Leveck,John Liverpool
-Charles H. Leveck,V. P.
 Charles H. Leveck,Abner Crocker
 Charles H. Leveck,Peter Spencer
 Charles H. Leveck,Richard Allen
@@ -6217,7 +6103,6 @@ Sipkins,John Dowers
 Sipkins,L. Jennings
 Sipkins,R. R. Gurley
 Sipkins,Brackenridge
-Sipkins,Abraham
 Sipkins,Pennington
 Sipkins,Gurley
 Sipkins,Hamilton
@@ -6239,7 +6124,6 @@ Sipkins,Elliot
 Sipkins,Roberts
 Sipkins,Hiner
 Sipkins,A. D. Shad
-Sipkins,P. M.
 Sipkins,Easton
 Sipkins,Patterson
 Sipkins,Garrison
@@ -6259,7 +6143,6 @@ Sipkins,Alfred Niger
 Sipkins,C. Augustus
 Sipkins,Peter Osborn
 Sipkins,John Liverpool
-Sipkins,V. P.
 Sipkins,Abner Crocker
 Sipkins,Peter Spencer
 Sipkins,Richard Allen
@@ -6360,7 +6243,6 @@ C. W. Gardner,John Dowers
 C. W. Gardner,L. Jennings
 C. W. Gardner,R. R. Gurley
 C. W. Gardner,Brackenridge
-C. W. Gardner,Abraham
 C. W. Gardner,Pennington
 C. W. Gardner,Gurley
 C. W. Gardner,Hamilton
@@ -6382,7 +6264,6 @@ C. W. Gardner,Elliot
 C. W. Gardner,Roberts
 C. W. Gardner,Hiner
 C. W. Gardner,A. D. Shad
-C. W. Gardner,P. M.
 C. W. Gardner,Easton
 C. W. Gardner,Patterson
 C. W. Gardner,Garrison
@@ -6402,7 +6283,6 @@ C. W. Gardner,Alfred Niger
 C. W. Gardner,C. Augustus
 C. W. Gardner,Peter Osborn
 C. W. Gardner,John Liverpool
-C. W. Gardner,V. P.
 C. W. Gardner,Abner Crocker
 C. W. Gardner,Peter Spencer
 C. W. Gardner,Richard Allen
@@ -6502,7 +6382,6 @@ C. W. Gardner,Aid-De-Camp
 John Dowers,L. Jennings
 John Dowers,R. R. Gurley
 John Dowers,Brackenridge
-John Dowers,Abraham
 John Dowers,Pennington
 John Dowers,Gurley
 John Dowers,Hamilton
@@ -6524,7 +6403,6 @@ John Dowers,Elliot
 John Dowers,Roberts
 John Dowers,Hiner
 John Dowers,A. D. Shad
-John Dowers,P. M.
 John Dowers,Easton
 John Dowers,Patterson
 John Dowers,Garrison
@@ -6544,7 +6422,6 @@ John Dowers,Alfred Niger
 John Dowers,C. Augustus
 John Dowers,Peter Osborn
 John Dowers,John Liverpool
-John Dowers,V. P.
 John Dowers,Abner Crocker
 John Dowers,Peter Spencer
 John Dowers,Richard Allen
@@ -6643,7 +6520,6 @@ John Dowers,Lloyd Garrison
 John Dowers,Aid-De-Camp
 L. Jennings,R. R. Gurley
 L. Jennings,Brackenridge
-L. Jennings,Abraham
 L. Jennings,Pennington
 L. Jennings,Gurley
 L. Jennings,Hamilton
@@ -6665,7 +6541,6 @@ L. Jennings,Elliot
 L. Jennings,Roberts
 L. Jennings,Hiner
 L. Jennings,A. D. Shad
-L. Jennings,P. M.
 L. Jennings,Easton
 L. Jennings,Patterson
 L. Jennings,Garrison
@@ -6685,7 +6560,6 @@ L. Jennings,Alfred Niger
 L. Jennings,C. Augustus
 L. Jennings,Peter Osborn
 L. Jennings,John Liverpool
-L. Jennings,V. P.
 L. Jennings,Abner Crocker
 L. Jennings,Peter Spencer
 L. Jennings,Richard Allen
@@ -6783,7 +6657,6 @@ L. Jennings,Dennison
 L. Jennings,Lloyd Garrison
 L. Jennings,Aid-De-Camp
 R. R. Gurley,Brackenridge
-R. R. Gurley,Abraham
 R. R. Gurley,Pennington
 R. R. Gurley,Gurley
 R. R. Gurley,Hamilton
@@ -6805,7 +6678,6 @@ R. R. Gurley,Elliot
 R. R. Gurley,Roberts
 R. R. Gurley,Hiner
 R. R. Gurley,A. D. Shad
-R. R. Gurley,P. M.
 R. R. Gurley,Easton
 R. R. Gurley,Patterson
 R. R. Gurley,Garrison
@@ -6825,7 +6697,6 @@ R. R. Gurley,Alfred Niger
 R. R. Gurley,C. Augustus
 R. R. Gurley,Peter Osborn
 R. R. Gurley,John Liverpool
-R. R. Gurley,V. P.
 R. R. Gurley,Abner Crocker
 R. R. Gurley,Peter Spencer
 R. R. Gurley,Richard Allen
@@ -6922,7 +6793,6 @@ R. R. Gurley,Barbour
 R. R. Gurley,Dennison
 R. R. Gurley,Lloyd Garrison
 R. R. Gurley,Aid-De-Camp
-Brackenridge,Abraham
 Brackenridge,Pennington
 Brackenridge,Gurley
 Brackenridge,Hamilton
@@ -6944,7 +6814,6 @@ Brackenridge,Elliot
 Brackenridge,Roberts
 Brackenridge,Hiner
 Brackenridge,A. D. Shad
-Brackenridge,P. M.
 Brackenridge,Easton
 Brackenridge,Patterson
 Brackenridge,Garrison
@@ -6964,7 +6833,6 @@ Brackenridge,Alfred Niger
 Brackenridge,C. Augustus
 Brackenridge,Peter Osborn
 Brackenridge,John Liverpool
-Brackenridge,V. P.
 Brackenridge,Abner Crocker
 Brackenridge,Peter Spencer
 Brackenridge,Richard Allen
@@ -7061,144 +6929,6 @@ Brackenridge,Barbour
 Brackenridge,Dennison
 Brackenridge,Lloyd Garrison
 Brackenridge,Aid-De-Camp
-Abraham,Pennington
-Abraham,Gurley
-Abraham,Hamilton
-Abraham,Bell
-Abraham,Wm. Hamilton
-Abraham,T. D. Coxsin
-Abraham,Wm. Whipper
-Abraham,Abraham D. Shad
-Abraham,Wm. Lloyd Garrison
-Abraham,Vashon
-Abraham,Thomas Shipley
-Abraham,Coxsin
-Abraham,Jennings
-Abraham,Johnson
-Abraham,Peck
-Abraham,Cowley
-Abraham,Morel
-Abraham,Elliot
-Abraham,Roberts
-Abraham,Hiner
-Abraham,A. D. Shad
-Abraham,P. M.
-Abraham,Easton
-Abraham,Patterson
-Abraham,Garrison
-Abraham,Evan Lewis
-Abraham,Andrew Jackson
-Abraham,Thos
-Abraham,Jackson
-Abraham,Jolin B. Vashon
-Abraham,C. W Gardner
-Abraham,T. Coxsin
-Abraham,Henrv Slpkins
-Abraham,Cor
-Abraham,G. Barbadoes
-Abraham,V. P. -- H. H. Mauday
-Abraham,C. Willis
-Abraham,Alfred Niger
-Abraham,C. Augustus
-Abraham,Peter Osborn
-Abraham,John Liverpool
-Abraham,V. P.
-Abraham,Abner Crocker
-Abraham,Peter Spencer
-Abraham,Richard Allen
-Abraham,Cyrus Black
-Abraham,Benjamin Pascal
-Abraham,James E. Cornish
-Abraham,Benjamin Lundy
-Abraham,D. Coxsin
-Abraham,J.C. Morel
-Abraham,Robt
-Abraham,P. A. Bell
-Abraham,J. B. Vashon
-Abraham,B. Paschal
-Abraham,Robert Brown
-Abraham,Thomas Butler
-Abraham,C. Mathews
-Abraham,George Johnson
-Abraham,James Bird
-Abraham,Wm. C. West
-Abraham,Stephen H. Gloucester
-Abraham,Simeon S. Jocelyn
-Abraham,T. L. Jennings
-Abraham,Harrison
-Abraham,S. S. Jocelyn
-Abraham,Jocelyn
-Abraham,Samuel E. Cornish
-Abraham,K. A. Hinton
-Abraham,Cornish
-Abraham,Peter Wiliams
-Abraham,Peter Voglesang
-Abraham,Arthur Tappan
-Abraham,Peter Williams
-Abraham,Thomas Downing
-Abraham,Benjamin Latimore
-Abraham,Charles Morton
-Abraham,Francis March
-Abraham,Jacob Deyes
-Abraham,Henry Thompson
-Abraham,Willis Jones
-Abraham,Thomas Johnson
-Abraham,John Potter
-Abraham,Joseph Cassey
-Abraham,Robert Douglass
-Abraham,James Forten
-Abraham,Robert Purvis
-Abraham,Gardner
-Abraham,Abraham Lewis
-Abraham,Lewis Woodson
-Abraham,Charles Butler
-Abraham,Simmons
-Abraham,Roland G. Robinson
-Abraham,Dennis Berry
-Abraham,Robert Roberts
-Abraham,James G. Barbadoes
-Abraham,Samuel Snowden
-Abraham,Charles K. Kook
-Abraham,Morris Anderson
-Abraham,Richard C. Johnson
-Abraham,H. Foster
-Abraham,C. Munroe
-Abraham,John Creed
-Abraham,Alexander C. Lucas
-Abraham,J. C. Bemen
-Abraham,Joseph Gilbert
-Abraham,Robert Henson
-Abraham,James C. Cowes
-Abraham,John Barclay
-Abraham,Peter Petit
-Abraham,Charles Anderson
-Abraham,Adam Ray
-Abraham,John Kelly
-Abraham,Thomas Green
-Abraham,James P. Walker
-Abraham,Samuel G. Mathews
-Abraham,Isaac Whipper
-Abraham,Wm. S. Thomas
-Abraham,Arthur Waring
-Abraham,Isaac Carey
-Abraham,Kennedy
-Abraham,Hinton
-Abraham,P. Drayton
-Abraham,William L. Garrison
-Abraham,Austin Stewart
-Abraham,Grice
-Abraham,Hezekiah Grice
-Abraham,Bill
-Abraham,William Lloyd Garrison
-Abraham,W. Gardner
-Abraham,Whipper
-Abraham,Thomas Wiliiams
-Abraham,J. G. Smith
-Abraham,Thornas D. Coxsin
-Abraham,Barbour
-Abraham,Dennison
-Abraham,Lloyd Garrison
-Abraham,Aid-De-Camp
 Pennington,Gurley
 Pennington,Hamilton
 Pennington,Bell
@@ -7219,7 +6949,6 @@ Pennington,Elliot
 Pennington,Roberts
 Pennington,Hiner
 Pennington,A. D. Shad
-Pennington,P. M.
 Pennington,Easton
 Pennington,Patterson
 Pennington,Garrison
@@ -7239,7 +6968,6 @@ Pennington,Alfred Niger
 Pennington,C. Augustus
 Pennington,Peter Osborn
 Pennington,John Liverpool
-Pennington,V. P.
 Pennington,Abner Crocker
 Pennington,Peter Spencer
 Pennington,Richard Allen
@@ -7355,7 +7083,6 @@ Gurley,Elliot
 Gurley,Roberts
 Gurley,Hiner
 Gurley,A. D. Shad
-Gurley,P. M.
 Gurley,Easton
 Gurley,Patterson
 Gurley,Garrison
@@ -7375,7 +7102,6 @@ Gurley,Alfred Niger
 Gurley,C. Augustus
 Gurley,Peter Osborn
 Gurley,John Liverpool
-Gurley,V. P.
 Gurley,Abner Crocker
 Gurley,Peter Spencer
 Gurley,Richard Allen
@@ -7490,7 +7216,6 @@ Hamilton,Elliot
 Hamilton,Roberts
 Hamilton,Hiner
 Hamilton,A. D. Shad
-Hamilton,P. M.
 Hamilton,Easton
 Hamilton,Patterson
 Hamilton,Garrison
@@ -7510,7 +7235,6 @@ Hamilton,Alfred Niger
 Hamilton,C. Augustus
 Hamilton,Peter Osborn
 Hamilton,John Liverpool
-Hamilton,V. P.
 Hamilton,Abner Crocker
 Hamilton,Peter Spencer
 Hamilton,Richard Allen
@@ -7624,7 +7348,6 @@ Bell,Elliot
 Bell,Roberts
 Bell,Hiner
 Bell,A. D. Shad
-Bell,P. M.
 Bell,Easton
 Bell,Patterson
 Bell,Garrison
@@ -7644,7 +7367,6 @@ Bell,Alfred Niger
 Bell,C. Augustus
 Bell,Peter Osborn
 Bell,John Liverpool
-Bell,V. P.
 Bell,Abner Crocker
 Bell,Peter Spencer
 Bell,Richard Allen
@@ -7757,7 +7479,6 @@ Wm. Hamilton,Elliot
 Wm. Hamilton,Roberts
 Wm. Hamilton,Hiner
 Wm. Hamilton,A. D. Shad
-Wm. Hamilton,P. M.
 Wm. Hamilton,Easton
 Wm. Hamilton,Patterson
 Wm. Hamilton,Garrison
@@ -7777,7 +7498,6 @@ Wm. Hamilton,Alfred Niger
 Wm. Hamilton,C. Augustus
 Wm. Hamilton,Peter Osborn
 Wm. Hamilton,John Liverpool
-Wm. Hamilton,V. P.
 Wm. Hamilton,Abner Crocker
 Wm. Hamilton,Peter Spencer
 Wm. Hamilton,Richard Allen
@@ -7889,7 +7609,6 @@ T. D. Coxsin,Elliot
 T. D. Coxsin,Roberts
 T. D. Coxsin,Hiner
 T. D. Coxsin,A. D. Shad
-T. D. Coxsin,P. M.
 T. D. Coxsin,Easton
 T. D. Coxsin,Patterson
 T. D. Coxsin,Garrison
@@ -7909,7 +7628,6 @@ T. D. Coxsin,Alfred Niger
 T. D. Coxsin,C. Augustus
 T. D. Coxsin,Peter Osborn
 T. D. Coxsin,John Liverpool
-T. D. Coxsin,V. P.
 T. D. Coxsin,Abner Crocker
 T. D. Coxsin,Peter Spencer
 T. D. Coxsin,Richard Allen
@@ -8020,7 +7738,6 @@ Wm. Whipper,Elliot
 Wm. Whipper,Roberts
 Wm. Whipper,Hiner
 Wm. Whipper,A. D. Shad
-Wm. Whipper,P. M.
 Wm. Whipper,Easton
 Wm. Whipper,Patterson
 Wm. Whipper,Garrison
@@ -8040,7 +7757,6 @@ Wm. Whipper,Alfred Niger
 Wm. Whipper,C. Augustus
 Wm. Whipper,Peter Osborn
 Wm. Whipper,John Liverpool
-Wm. Whipper,V. P.
 Wm. Whipper,Abner Crocker
 Wm. Whipper,Peter Spencer
 Wm. Whipper,Richard Allen
@@ -8150,7 +7866,6 @@ Abraham D. Shad,Elliot
 Abraham D. Shad,Roberts
 Abraham D. Shad,Hiner
 Abraham D. Shad,A. D. Shad
-Abraham D. Shad,P. M.
 Abraham D. Shad,Easton
 Abraham D. Shad,Patterson
 Abraham D. Shad,Garrison
@@ -8170,7 +7885,6 @@ Abraham D. Shad,Alfred Niger
 Abraham D. Shad,C. Augustus
 Abraham D. Shad,Peter Osborn
 Abraham D. Shad,John Liverpool
-Abraham D. Shad,V. P.
 Abraham D. Shad,Abner Crocker
 Abraham D. Shad,Peter Spencer
 Abraham D. Shad,Richard Allen
@@ -8279,7 +7993,6 @@ Wm. Lloyd Garrison,Elliot
 Wm. Lloyd Garrison,Roberts
 Wm. Lloyd Garrison,Hiner
 Wm. Lloyd Garrison,A. D. Shad
-Wm. Lloyd Garrison,P. M.
 Wm. Lloyd Garrison,Easton
 Wm. Lloyd Garrison,Patterson
 Wm. Lloyd Garrison,Garrison
@@ -8299,7 +8012,6 @@ Wm. Lloyd Garrison,Alfred Niger
 Wm. Lloyd Garrison,C. Augustus
 Wm. Lloyd Garrison,Peter Osborn
 Wm. Lloyd Garrison,John Liverpool
-Wm. Lloyd Garrison,V. P.
 Wm. Lloyd Garrison,Abner Crocker
 Wm. Lloyd Garrison,Peter Spencer
 Wm. Lloyd Garrison,Richard Allen
@@ -8407,7 +8119,6 @@ Vashon,Elliot
 Vashon,Roberts
 Vashon,Hiner
 Vashon,A. D. Shad
-Vashon,P. M.
 Vashon,Easton
 Vashon,Patterson
 Vashon,Garrison
@@ -8427,7 +8138,6 @@ Vashon,Alfred Niger
 Vashon,C. Augustus
 Vashon,Peter Osborn
 Vashon,John Liverpool
-Vashon,V. P.
 Vashon,Abner Crocker
 Vashon,Peter Spencer
 Vashon,Richard Allen
@@ -8534,7 +8244,6 @@ Thomas Shipley,Elliot
 Thomas Shipley,Roberts
 Thomas Shipley,Hiner
 Thomas Shipley,A. D. Shad
-Thomas Shipley,P. M.
 Thomas Shipley,Easton
 Thomas Shipley,Patterson
 Thomas Shipley,Garrison
@@ -8554,7 +8263,6 @@ Thomas Shipley,Alfred Niger
 Thomas Shipley,C. Augustus
 Thomas Shipley,Peter Osborn
 Thomas Shipley,John Liverpool
-Thomas Shipley,V. P.
 Thomas Shipley,Abner Crocker
 Thomas Shipley,Peter Spencer
 Thomas Shipley,Richard Allen
@@ -8660,7 +8368,6 @@ Coxsin,Elliot
 Coxsin,Roberts
 Coxsin,Hiner
 Coxsin,A. D. Shad
-Coxsin,P. M.
 Coxsin,Easton
 Coxsin,Patterson
 Coxsin,Garrison
@@ -8680,7 +8387,6 @@ Coxsin,Alfred Niger
 Coxsin,C. Augustus
 Coxsin,Peter Osborn
 Coxsin,John Liverpool
-Coxsin,V. P.
 Coxsin,Abner Crocker
 Coxsin,Peter Spencer
 Coxsin,Richard Allen
@@ -8785,7 +8491,6 @@ Jennings,Elliot
 Jennings,Roberts
 Jennings,Hiner
 Jennings,A. D. Shad
-Jennings,P. M.
 Jennings,Easton
 Jennings,Patterson
 Jennings,Garrison
@@ -8805,7 +8510,6 @@ Jennings,Alfred Niger
 Jennings,C. Augustus
 Jennings,Peter Osborn
 Jennings,John Liverpool
-Jennings,V. P.
 Jennings,Abner Crocker
 Jennings,Peter Spencer
 Jennings,Richard Allen
@@ -8909,7 +8613,6 @@ Johnson,Elliot
 Johnson,Roberts
 Johnson,Hiner
 Johnson,A. D. Shad
-Johnson,P. M.
 Johnson,Easton
 Johnson,Patterson
 Johnson,Garrison
@@ -8929,7 +8632,6 @@ Johnson,Alfred Niger
 Johnson,C. Augustus
 Johnson,Peter Osborn
 Johnson,John Liverpool
-Johnson,V. P.
 Johnson,Abner Crocker
 Johnson,Peter Spencer
 Johnson,Richard Allen
@@ -9032,7 +8734,6 @@ Peck,Elliot
 Peck,Roberts
 Peck,Hiner
 Peck,A. D. Shad
-Peck,P. M.
 Peck,Easton
 Peck,Patterson
 Peck,Garrison
@@ -9052,7 +8753,6 @@ Peck,Alfred Niger
 Peck,C. Augustus
 Peck,Peter Osborn
 Peck,John Liverpool
-Peck,V. P.
 Peck,Abner Crocker
 Peck,Peter Spencer
 Peck,Richard Allen
@@ -9154,7 +8854,6 @@ Cowley,Elliot
 Cowley,Roberts
 Cowley,Hiner
 Cowley,A. D. Shad
-Cowley,P. M.
 Cowley,Easton
 Cowley,Patterson
 Cowley,Garrison
@@ -9174,7 +8873,6 @@ Cowley,Alfred Niger
 Cowley,C. Augustus
 Cowley,Peter Osborn
 Cowley,John Liverpool
-Cowley,V. P.
 Cowley,Abner Crocker
 Cowley,Peter Spencer
 Cowley,Richard Allen
@@ -9275,7 +8973,6 @@ Morel,Elliot
 Morel,Roberts
 Morel,Hiner
 Morel,A. D. Shad
-Morel,P. M.
 Morel,Easton
 Morel,Patterson
 Morel,Garrison
@@ -9295,7 +8992,6 @@ Morel,Alfred Niger
 Morel,C. Augustus
 Morel,Peter Osborn
 Morel,John Liverpool
-Morel,V. P.
 Morel,Abner Crocker
 Morel,Peter Spencer
 Morel,Richard Allen
@@ -9395,7 +9091,6 @@ Morel,Aid-De-Camp
 Elliot,Roberts
 Elliot,Hiner
 Elliot,A. D. Shad
-Elliot,P. M.
 Elliot,Easton
 Elliot,Patterson
 Elliot,Garrison
@@ -9415,7 +9110,6 @@ Elliot,Alfred Niger
 Elliot,C. Augustus
 Elliot,Peter Osborn
 Elliot,John Liverpool
-Elliot,V. P.
 Elliot,Abner Crocker
 Elliot,Peter Spencer
 Elliot,Richard Allen
@@ -9514,7 +9208,6 @@ Elliot,Lloyd Garrison
 Elliot,Aid-De-Camp
 Roberts,Hiner
 Roberts,A. D. Shad
-Roberts,P. M.
 Roberts,Easton
 Roberts,Patterson
 Roberts,Garrison
@@ -9534,7 +9227,6 @@ Roberts,Alfred Niger
 Roberts,C. Augustus
 Roberts,Peter Osborn
 Roberts,John Liverpool
-Roberts,V. P.
 Roberts,Abner Crocker
 Roberts,Peter Spencer
 Roberts,Richard Allen
@@ -9632,7 +9324,6 @@ Roberts,Dennison
 Roberts,Lloyd Garrison
 Roberts,Aid-De-Camp
 Hiner,A. D. Shad
-Hiner,P. M.
 Hiner,Easton
 Hiner,Patterson
 Hiner,Garrison
@@ -9652,7 +9343,6 @@ Hiner,Alfred Niger
 Hiner,C. Augustus
 Hiner,Peter Osborn
 Hiner,John Liverpool
-Hiner,V. P.
 Hiner,Abner Crocker
 Hiner,Peter Spencer
 Hiner,Richard Allen
@@ -9749,7 +9439,6 @@ Hiner,Barbour
 Hiner,Dennison
 Hiner,Lloyd Garrison
 Hiner,Aid-De-Camp
-A. D. Shad,P. M.
 A. D. Shad,Easton
 A. D. Shad,Patterson
 A. D. Shad,Garrison
@@ -9769,7 +9458,6 @@ A. D. Shad,Alfred Niger
 A. D. Shad,C. Augustus
 A. D. Shad,Peter Osborn
 A. D. Shad,John Liverpool
-A. D. Shad,V. P.
 A. D. Shad,Abner Crocker
 A. D. Shad,Peter Spencer
 A. D. Shad,Richard Allen
@@ -9866,122 +9554,6 @@ A. D. Shad,Barbour
 A. D. Shad,Dennison
 A. D. Shad,Lloyd Garrison
 A. D. Shad,Aid-De-Camp
-P. M.,Easton
-P. M.,Patterson
-P. M.,Garrison
-P. M.,Evan Lewis
-P. M.,Andrew Jackson
-P. M.,Thos
-P. M.,Jackson
-P. M.,Jolin B. Vashon
-P. M.,C. W Gardner
-P. M.,T. Coxsin
-P. M.,Henrv Slpkins
-P. M.,Cor
-P. M.,G. Barbadoes
-P. M.,V. P. -- H. H. Mauday
-P. M.,C. Willis
-P. M.,Alfred Niger
-P. M.,C. Augustus
-P. M.,Peter Osborn
-P. M.,John Liverpool
-P. M.,V. P.
-P. M.,Abner Crocker
-P. M.,Peter Spencer
-P. M.,Richard Allen
-P. M.,Cyrus Black
-P. M.,Benjamin Pascal
-P. M.,James E. Cornish
-P. M.,Benjamin Lundy
-P. M.,D. Coxsin
-P. M.,J.C. Morel
-P. M.,Robt
-P. M.,P. A. Bell
-P. M.,J. B. Vashon
-P. M.,B. Paschal
-P. M.,Robert Brown
-P. M.,Thomas Butler
-P. M.,C. Mathews
-P. M.,George Johnson
-P. M.,James Bird
-P. M.,Wm. C. West
-P. M.,Stephen H. Gloucester
-P. M.,Simeon S. Jocelyn
-P. M.,T. L. Jennings
-P. M.,Harrison
-P. M.,S. S. Jocelyn
-P. M.,Jocelyn
-P. M.,Samuel E. Cornish
-P. M.,K. A. Hinton
-P. M.,Cornish
-P. M.,Peter Wiliams
-P. M.,Peter Voglesang
-P. M.,Arthur Tappan
-P. M.,Peter Williams
-P. M.,Thomas Downing
-P. M.,Benjamin Latimore
-P. M.,Charles Morton
-P. M.,Francis March
-P. M.,Jacob Deyes
-P. M.,Henry Thompson
-P. M.,Willis Jones
-P. M.,Thomas Johnson
-P. M.,John Potter
-P. M.,Joseph Cassey
-P. M.,Robert Douglass
-P. M.,James Forten
-P. M.,Robert Purvis
-P. M.,Gardner
-P. M.,Abraham Lewis
-P. M.,Lewis Woodson
-P. M.,Charles Butler
-P. M.,Simmons
-P. M.,Roland G. Robinson
-P. M.,Dennis Berry
-P. M.,Robert Roberts
-P. M.,James G. Barbadoes
-P. M.,Samuel Snowden
-P. M.,Charles K. Kook
-P. M.,Morris Anderson
-P. M.,Richard C. Johnson
-P. M.,H. Foster
-P. M.,C. Munroe
-P. M.,John Creed
-P. M.,Alexander C. Lucas
-P. M.,J. C. Bemen
-P. M.,Joseph Gilbert
-P. M.,Robert Henson
-P. M.,James C. Cowes
-P. M.,John Barclay
-P. M.,Peter Petit
-P. M.,Charles Anderson
-P. M.,Adam Ray
-P. M.,John Kelly
-P. M.,Thomas Green
-P. M.,James P. Walker
-P. M.,Samuel G. Mathews
-P. M.,Isaac Whipper
-P. M.,Wm. S. Thomas
-P. M.,Arthur Waring
-P. M.,Isaac Carey
-P. M.,Kennedy
-P. M.,Hinton
-P. M.,P. Drayton
-P. M.,William L. Garrison
-P. M.,Austin Stewart
-P. M.,Grice
-P. M.,Hezekiah Grice
-P. M.,Bill
-P. M.,William Lloyd Garrison
-P. M.,W. Gardner
-P. M.,Whipper
-P. M.,Thomas Wiliiams
-P. M.,J. G. Smith
-P. M.,Thornas D. Coxsin
-P. M.,Barbour
-P. M.,Dennison
-P. M.,Lloyd Garrison
-P. M.,Aid-De-Camp
 Easton,Patterson
 Easton,Garrison
 Easton,Evan Lewis
@@ -10000,7 +9572,6 @@ Easton,Alfred Niger
 Easton,C. Augustus
 Easton,Peter Osborn
 Easton,John Liverpool
-Easton,V. P.
 Easton,Abner Crocker
 Easton,Peter Spencer
 Easton,Richard Allen
@@ -10114,7 +9685,6 @@ Patterson,Alfred Niger
 Patterson,C. Augustus
 Patterson,Peter Osborn
 Patterson,John Liverpool
-Patterson,V. P.
 Patterson,Abner Crocker
 Patterson,Peter Spencer
 Patterson,Richard Allen
@@ -10227,7 +9797,6 @@ Garrison,Alfred Niger
 Garrison,C. Augustus
 Garrison,Peter Osborn
 Garrison,John Liverpool
-Garrison,V. P.
 Garrison,Abner Crocker
 Garrison,Peter Spencer
 Garrison,Richard Allen
@@ -10339,7 +9908,6 @@ Evan Lewis,Alfred Niger
 Evan Lewis,C. Augustus
 Evan Lewis,Peter Osborn
 Evan Lewis,John Liverpool
-Evan Lewis,V. P.
 Evan Lewis,Abner Crocker
 Evan Lewis,Peter Spencer
 Evan Lewis,Richard Allen
@@ -10450,7 +10018,6 @@ Andrew Jackson,Alfred Niger
 Andrew Jackson,C. Augustus
 Andrew Jackson,Peter Osborn
 Andrew Jackson,John Liverpool
-Andrew Jackson,V. P.
 Andrew Jackson,Abner Crocker
 Andrew Jackson,Peter Spencer
 Andrew Jackson,Richard Allen
@@ -10560,7 +10127,6 @@ Thos,Alfred Niger
 Thos,C. Augustus
 Thos,Peter Osborn
 Thos,John Liverpool
-Thos,V. P.
 Thos,Abner Crocker
 Thos,Peter Spencer
 Thos,Richard Allen
@@ -10669,7 +10235,6 @@ Jackson,Alfred Niger
 Jackson,C. Augustus
 Jackson,Peter Osborn
 Jackson,John Liverpool
-Jackson,V. P.
 Jackson,Abner Crocker
 Jackson,Peter Spencer
 Jackson,Richard Allen
@@ -10777,7 +10342,6 @@ Jolin B. Vashon,Alfred Niger
 Jolin B. Vashon,C. Augustus
 Jolin B. Vashon,Peter Osborn
 Jolin B. Vashon,John Liverpool
-Jolin B. Vashon,V. P.
 Jolin B. Vashon,Abner Crocker
 Jolin B. Vashon,Peter Spencer
 Jolin B. Vashon,Richard Allen
@@ -10884,7 +10448,6 @@ C. W Gardner,Alfred Niger
 C. W Gardner,C. Augustus
 C. W Gardner,Peter Osborn
 C. W Gardner,John Liverpool
-C. W Gardner,V. P.
 C. W Gardner,Abner Crocker
 C. W Gardner,Peter Spencer
 C. W Gardner,Richard Allen
@@ -10990,7 +10553,6 @@ T. Coxsin,Alfred Niger
 T. Coxsin,C. Augustus
 T. Coxsin,Peter Osborn
 T. Coxsin,John Liverpool
-T. Coxsin,V. P.
 T. Coxsin,Abner Crocker
 T. Coxsin,Peter Spencer
 T. Coxsin,Richard Allen
@@ -11095,7 +10657,6 @@ Henrv Slpkins,Alfred Niger
 Henrv Slpkins,C. Augustus
 Henrv Slpkins,Peter Osborn
 Henrv Slpkins,John Liverpool
-Henrv Slpkins,V. P.
 Henrv Slpkins,Abner Crocker
 Henrv Slpkins,Peter Spencer
 Henrv Slpkins,Richard Allen
@@ -11199,7 +10760,6 @@ Cor,Alfred Niger
 Cor,C. Augustus
 Cor,Peter Osborn
 Cor,John Liverpool
-Cor,V. P.
 Cor,Abner Crocker
 Cor,Peter Spencer
 Cor,Richard Allen
@@ -11302,7 +10862,6 @@ G. Barbadoes,Alfred Niger
 G. Barbadoes,C. Augustus
 G. Barbadoes,Peter Osborn
 G. Barbadoes,John Liverpool
-G. Barbadoes,V. P.
 G. Barbadoes,Abner Crocker
 G. Barbadoes,Peter Spencer
 G. Barbadoes,Richard Allen
@@ -11404,7 +10963,6 @@ V. P. -- H. H. Mauday,Alfred Niger
 V. P. -- H. H. Mauday,C. Augustus
 V. P. -- H. H. Mauday,Peter Osborn
 V. P. -- H. H. Mauday,John Liverpool
-V. P. -- H. H. Mauday,V. P.
 V. P. -- H. H. Mauday,Abner Crocker
 V. P. -- H. H. Mauday,Peter Spencer
 V. P. -- H. H. Mauday,Richard Allen
@@ -11505,7 +11063,6 @@ C. Willis,Alfred Niger
 C. Willis,C. Augustus
 C. Willis,Peter Osborn
 C. Willis,John Liverpool
-C. Willis,V. P.
 C. Willis,Abner Crocker
 C. Willis,Peter Spencer
 C. Willis,Richard Allen
@@ -11605,7 +11162,6 @@ C. Willis,Aid-De-Camp
 Alfred Niger,C. Augustus
 Alfred Niger,Peter Osborn
 Alfred Niger,John Liverpool
-Alfred Niger,V. P.
 Alfred Niger,Abner Crocker
 Alfred Niger,Peter Spencer
 Alfred Niger,Richard Allen
@@ -11704,7 +11260,6 @@ Alfred Niger,Lloyd Garrison
 Alfred Niger,Aid-De-Camp
 C. Augustus,Peter Osborn
 C. Augustus,John Liverpool
-C. Augustus,V. P.
 C. Augustus,Abner Crocker
 C. Augustus,Peter Spencer
 C. Augustus,Richard Allen
@@ -11802,7 +11357,6 @@ C. Augustus,Dennison
 C. Augustus,Lloyd Garrison
 C. Augustus,Aid-De-Camp
 Peter Osborn,John Liverpool
-Peter Osborn,V. P.
 Peter Osborn,Abner Crocker
 Peter Osborn,Peter Spencer
 Peter Osborn,Richard Allen
@@ -11899,7 +11453,6 @@ Peter Osborn,Barbour
 Peter Osborn,Dennison
 Peter Osborn,Lloyd Garrison
 Peter Osborn,Aid-De-Camp
-John Liverpool,V. P.
 John Liverpool,Abner Crocker
 John Liverpool,Peter Spencer
 John Liverpool,Richard Allen
@@ -11996,102 +11549,6 @@ John Liverpool,Barbour
 John Liverpool,Dennison
 John Liverpool,Lloyd Garrison
 John Liverpool,Aid-De-Camp
-V. P.,Abner Crocker
-V. P.,Peter Spencer
-V. P.,Richard Allen
-V. P.,Cyrus Black
-V. P.,Benjamin Pascal
-V. P.,James E. Cornish
-V. P.,Benjamin Lundy
-V. P.,D. Coxsin
-V. P.,J.C. Morel
-V. P.,Robt
-V. P.,P. A. Bell
-V. P.,J. B. Vashon
-V. P.,B. Paschal
-V. P.,Robert Brown
-V. P.,Thomas Butler
-V. P.,C. Mathews
-V. P.,George Johnson
-V. P.,James Bird
-V. P.,Wm. C. West
-V. P.,Stephen H. Gloucester
-V. P.,Simeon S. Jocelyn
-V. P.,T. L. Jennings
-V. P.,Harrison
-V. P.,S. S. Jocelyn
-V. P.,Jocelyn
-V. P.,Samuel E. Cornish
-V. P.,K. A. Hinton
-V. P.,Cornish
-V. P.,Peter Wiliams
-V. P.,Peter Voglesang
-V. P.,Arthur Tappan
-V. P.,Peter Williams
-V. P.,Thomas Downing
-V. P.,Benjamin Latimore
-V. P.,Charles Morton
-V. P.,Francis March
-V. P.,Jacob Deyes
-V. P.,Henry Thompson
-V. P.,Willis Jones
-V. P.,Thomas Johnson
-V. P.,John Potter
-V. P.,Joseph Cassey
-V. P.,Robert Douglass
-V. P.,James Forten
-V. P.,Robert Purvis
-V. P.,Gardner
-V. P.,Abraham Lewis
-V. P.,Lewis Woodson
-V. P.,Charles Butler
-V. P.,Simmons
-V. P.,Roland G. Robinson
-V. P.,Dennis Berry
-V. P.,Robert Roberts
-V. P.,James G. Barbadoes
-V. P.,Samuel Snowden
-V. P.,Charles K. Kook
-V. P.,Morris Anderson
-V. P.,Richard C. Johnson
-V. P.,H. Foster
-V. P.,C. Munroe
-V. P.,John Creed
-V. P.,Alexander C. Lucas
-V. P.,J. C. Bemen
-V. P.,Joseph Gilbert
-V. P.,Robert Henson
-V. P.,James C. Cowes
-V. P.,John Barclay
-V. P.,Peter Petit
-V. P.,Charles Anderson
-V. P.,Adam Ray
-V. P.,John Kelly
-V. P.,Thomas Green
-V. P.,James P. Walker
-V. P.,Samuel G. Mathews
-V. P.,Isaac Whipper
-V. P.,Wm. S. Thomas
-V. P.,Arthur Waring
-V. P.,Isaac Carey
-V. P.,Kennedy
-V. P.,Hinton
-V. P.,P. Drayton
-V. P.,William L. Garrison
-V. P.,Austin Stewart
-V. P.,Grice
-V. P.,Hezekiah Grice
-V. P.,Bill
-V. P.,William Lloyd Garrison
-V. P.,W. Gardner
-V. P.,Whipper
-V. P.,Thomas Wiliiams
-V. P.,J. G. Smith
-V. P.,Thornas D. Coxsin
-V. P.,Barbour
-V. P.,Dennison
-V. P.,Lloyd Garrison
-V. P.,Aid-De-Camp
 Abner Crocker,Peter Spencer
 Abner Crocker,Richard Allen
 Abner Crocker,Cyrus Black

@@ -1,4 +1,4 @@
-name1,name2
+source,target
 J.T. Fisher,Henry Bibb
 J.T. Fisher,J.S. Cary
 J.T. Fisher,Thomas Smallwood
@@ -52,8 +52,6 @@ J.T. Fisher,James Baker
 J.T. Fisher,William H. Topp
 J.T. Fisher,John Scoble
 J.T. Fisher,Henry Grey
-J.T. Fisher,Anderson
-J.T. Fisher,M.R. Delaney
 J.T. Fisher,Isaiah Clifford
 J.T. Fisher,J.P. Campbell
 J.T. Fisher,George Carey
@@ -72,7 +70,7 @@ J.T. Fisher,Messrs Bibb
 J.T. Fisher,Jt Fisher
 J.T. Fisher,Wh Topp
 J.T. Fisher,J Lyles
-J.T. Fisher,Russel
+J.T. Fisher,F Russel
 J.T. Fisher,H K Thomas
 J.T. Fisher,Baker
 J.T. Fisher,Hollins
@@ -82,6 +80,7 @@ J.T. Fisher,Harris
 J.T. Fisher,Jp Campbell
 J.T. Fisher,Topp
 J.T. Fisher,Thomas
+J.T. Fisher,Anderson
 J.T. Fisher,Israel Campbell
 J.T. Fisher,William H. Harris
 J.T. Fisher,Scobie
@@ -96,9 +95,7 @@ J.T. Fisher,David Jenkins
 J.T. Fisher,G. Beeman
 J.T. Fisher,William Lambert
 J.T. Fisher,M R Delaney
-J.T. Fisher,Stephen Myers
 J.T. Fisher,J. T. Fisher
-J.T. Fisher,James T. Taylor
 J.T. Fisher,J. Theodore Holly
 Henry Bibb,J.S. Cary
 Henry Bibb,Thomas Smallwood
@@ -152,8 +149,6 @@ Henry Bibb,James Baker
 Henry Bibb,William H. Topp
 Henry Bibb,John Scoble
 Henry Bibb,Henry Grey
-Henry Bibb,Anderson
-Henry Bibb,M.R. Delaney
 Henry Bibb,Isaiah Clifford
 Henry Bibb,J.P. Campbell
 Henry Bibb,George Carey
@@ -172,7 +167,7 @@ Henry Bibb,Messrs Bibb
 Henry Bibb,Jt Fisher
 Henry Bibb,Wh Topp
 Henry Bibb,J Lyles
-Henry Bibb,Russel
+Henry Bibb,F Russel
 Henry Bibb,H K Thomas
 Henry Bibb,Baker
 Henry Bibb,Hollins
@@ -182,6 +177,7 @@ Henry Bibb,Harris
 Henry Bibb,Jp Campbell
 Henry Bibb,Topp
 Henry Bibb,Thomas
+Henry Bibb,Anderson
 Henry Bibb,Israel Campbell
 Henry Bibb,William H. Harris
 Henry Bibb,Scobie
@@ -196,9 +192,7 @@ Henry Bibb,David Jenkins
 Henry Bibb,G. Beeman
 Henry Bibb,William Lambert
 Henry Bibb,M R Delaney
-Henry Bibb,Stephen Myers
 Henry Bibb,J. T. Fisher
-Henry Bibb,James T. Taylor
 Henry Bibb,J. Theodore Holly
 J.S. Cary,Thomas Smallwood
 J.S. Cary,James D. Tinsley
@@ -251,8 +245,6 @@ J.S. Cary,James Baker
 J.S. Cary,William H. Topp
 J.S. Cary,John Scoble
 J.S. Cary,Henry Grey
-J.S. Cary,Anderson
-J.S. Cary,M.R. Delaney
 J.S. Cary,Isaiah Clifford
 J.S. Cary,J.P. Campbell
 J.S. Cary,George Carey
@@ -271,7 +263,7 @@ J.S. Cary,Messrs Bibb
 J.S. Cary,Jt Fisher
 J.S. Cary,Wh Topp
 J.S. Cary,J Lyles
-J.S. Cary,Russel
+J.S. Cary,F Russel
 J.S. Cary,H K Thomas
 J.S. Cary,Baker
 J.S. Cary,Hollins
@@ -281,6 +273,7 @@ J.S. Cary,Harris
 J.S. Cary,Jp Campbell
 J.S. Cary,Topp
 J.S. Cary,Thomas
+J.S. Cary,Anderson
 J.S. Cary,Israel Campbell
 J.S. Cary,William H. Harris
 J.S. Cary,Scobie
@@ -295,9 +288,7 @@ J.S. Cary,David Jenkins
 J.S. Cary,G. Beeman
 J.S. Cary,William Lambert
 J.S. Cary,M R Delaney
-J.S. Cary,Stephen Myers
 J.S. Cary,J. T. Fisher
-J.S. Cary,James T. Taylor
 J.S. Cary,J. Theodore Holly
 Thomas Smallwood,James D. Tinsley
 Thomas Smallwood,D. Hollins
@@ -349,8 +340,6 @@ Thomas Smallwood,James Baker
 Thomas Smallwood,William H. Topp
 Thomas Smallwood,John Scoble
 Thomas Smallwood,Henry Grey
-Thomas Smallwood,Anderson
-Thomas Smallwood,M.R. Delaney
 Thomas Smallwood,Isaiah Clifford
 Thomas Smallwood,J.P. Campbell
 Thomas Smallwood,George Carey
@@ -369,7 +358,7 @@ Thomas Smallwood,Messrs Bibb
 Thomas Smallwood,Jt Fisher
 Thomas Smallwood,Wh Topp
 Thomas Smallwood,J Lyles
-Thomas Smallwood,Russel
+Thomas Smallwood,F Russel
 Thomas Smallwood,H K Thomas
 Thomas Smallwood,Baker
 Thomas Smallwood,Hollins
@@ -379,6 +368,7 @@ Thomas Smallwood,Harris
 Thomas Smallwood,Jp Campbell
 Thomas Smallwood,Topp
 Thomas Smallwood,Thomas
+Thomas Smallwood,Anderson
 Thomas Smallwood,Israel Campbell
 Thomas Smallwood,William H. Harris
 Thomas Smallwood,Scobie
@@ -393,9 +383,7 @@ Thomas Smallwood,David Jenkins
 Thomas Smallwood,G. Beeman
 Thomas Smallwood,William Lambert
 Thomas Smallwood,M R Delaney
-Thomas Smallwood,Stephen Myers
 Thomas Smallwood,J. T. Fisher
-Thomas Smallwood,James T. Taylor
 Thomas Smallwood,J. Theodore Holly
 James D. Tinsley,D. Hollins
 James D. Tinsley,Jabez P. Campbell
@@ -446,8 +434,6 @@ James D. Tinsley,James Baker
 James D. Tinsley,William H. Topp
 James D. Tinsley,John Scoble
 James D. Tinsley,Henry Grey
-James D. Tinsley,Anderson
-James D. Tinsley,M.R. Delaney
 James D. Tinsley,Isaiah Clifford
 James D. Tinsley,J.P. Campbell
 James D. Tinsley,George Carey
@@ -466,7 +452,7 @@ James D. Tinsley,Messrs Bibb
 James D. Tinsley,Jt Fisher
 James D. Tinsley,Wh Topp
 James D. Tinsley,J Lyles
-James D. Tinsley,Russel
+James D. Tinsley,F Russel
 James D. Tinsley,H K Thomas
 James D. Tinsley,Baker
 James D. Tinsley,Hollins
@@ -476,6 +462,7 @@ James D. Tinsley,Harris
 James D. Tinsley,Jp Campbell
 James D. Tinsley,Topp
 James D. Tinsley,Thomas
+James D. Tinsley,Anderson
 James D. Tinsley,Israel Campbell
 James D. Tinsley,William H. Harris
 James D. Tinsley,Scobie
@@ -490,9 +477,7 @@ James D. Tinsley,David Jenkins
 James D. Tinsley,G. Beeman
 James D. Tinsley,William Lambert
 James D. Tinsley,M R Delaney
-James D. Tinsley,Stephen Myers
 James D. Tinsley,J. T. Fisher
-James D. Tinsley,James T. Taylor
 James D. Tinsley,J. Theodore Holly
 D. Hollins,Jabez P. Campbell
 D. Hollins,Jd Fisher
@@ -542,8 +527,6 @@ D. Hollins,James Baker
 D. Hollins,William H. Topp
 D. Hollins,John Scoble
 D. Hollins,Henry Grey
-D. Hollins,Anderson
-D. Hollins,M.R. Delaney
 D. Hollins,Isaiah Clifford
 D. Hollins,J.P. Campbell
 D. Hollins,George Carey
@@ -562,7 +545,7 @@ D. Hollins,Messrs Bibb
 D. Hollins,Jt Fisher
 D. Hollins,Wh Topp
 D. Hollins,J Lyles
-D. Hollins,Russel
+D. Hollins,F Russel
 D. Hollins,H K Thomas
 D. Hollins,Baker
 D. Hollins,Hollins
@@ -572,6 +555,7 @@ D. Hollins,Harris
 D. Hollins,Jp Campbell
 D. Hollins,Topp
 D. Hollins,Thomas
+D. Hollins,Anderson
 D. Hollins,Israel Campbell
 D. Hollins,William H. Harris
 D. Hollins,Scobie
@@ -586,9 +570,7 @@ D. Hollins,David Jenkins
 D. Hollins,G. Beeman
 D. Hollins,William Lambert
 D. Hollins,M R Delaney
-D. Hollins,Stephen Myers
 D. Hollins,J. T. Fisher
-D. Hollins,James T. Taylor
 D. Hollins,J. Theodore Holly
 Jabez P. Campbell,Jd Fisher
 Jabez P. Campbell,James Thomas Fisher
@@ -637,8 +619,6 @@ Jabez P. Campbell,James Baker
 Jabez P. Campbell,William H. Topp
 Jabez P. Campbell,John Scoble
 Jabez P. Campbell,Henry Grey
-Jabez P. Campbell,Anderson
-Jabez P. Campbell,M.R. Delaney
 Jabez P. Campbell,Isaiah Clifford
 Jabez P. Campbell,J.P. Campbell
 Jabez P. Campbell,George Carey
@@ -657,7 +637,7 @@ Jabez P. Campbell,Messrs Bibb
 Jabez P. Campbell,Jt Fisher
 Jabez P. Campbell,Wh Topp
 Jabez P. Campbell,J Lyles
-Jabez P. Campbell,Russel
+Jabez P. Campbell,F Russel
 Jabez P. Campbell,H K Thomas
 Jabez P. Campbell,Baker
 Jabez P. Campbell,Hollins
@@ -667,6 +647,7 @@ Jabez P. Campbell,Harris
 Jabez P. Campbell,Jp Campbell
 Jabez P. Campbell,Topp
 Jabez P. Campbell,Thomas
+Jabez P. Campbell,Anderson
 Jabez P. Campbell,Israel Campbell
 Jabez P. Campbell,William H. Harris
 Jabez P. Campbell,Scobie
@@ -681,9 +662,7 @@ Jabez P. Campbell,David Jenkins
 Jabez P. Campbell,G. Beeman
 Jabez P. Campbell,William Lambert
 Jabez P. Campbell,M R Delaney
-Jabez P. Campbell,Stephen Myers
 Jabez P. Campbell,J. T. Fisher
-Jabez P. Campbell,James T. Taylor
 Jabez P. Campbell,J. Theodore Holly
 Jd Fisher,James Thomas Fisher
 Jd Fisher,Hiram Wilson
@@ -731,8 +710,6 @@ Jd Fisher,James Baker
 Jd Fisher,William H. Topp
 Jd Fisher,John Scoble
 Jd Fisher,Henry Grey
-Jd Fisher,Anderson
-Jd Fisher,M.R. Delaney
 Jd Fisher,Isaiah Clifford
 Jd Fisher,J.P. Campbell
 Jd Fisher,George Carey
@@ -751,7 +728,7 @@ Jd Fisher,Messrs Bibb
 Jd Fisher,Jt Fisher
 Jd Fisher,Wh Topp
 Jd Fisher,J Lyles
-Jd Fisher,Russel
+Jd Fisher,F Russel
 Jd Fisher,H K Thomas
 Jd Fisher,Baker
 Jd Fisher,Hollins
@@ -761,6 +738,7 @@ Jd Fisher,Harris
 Jd Fisher,Jp Campbell
 Jd Fisher,Topp
 Jd Fisher,Thomas
+Jd Fisher,Anderson
 Jd Fisher,Israel Campbell
 Jd Fisher,William H. Harris
 Jd Fisher,Scobie
@@ -775,9 +753,7 @@ Jd Fisher,David Jenkins
 Jd Fisher,G. Beeman
 Jd Fisher,William Lambert
 Jd Fisher,M R Delaney
-Jd Fisher,Stephen Myers
 Jd Fisher,J. T. Fisher
-Jd Fisher,James T. Taylor
 Jd Fisher,J. Theodore Holly
 James Thomas Fisher,Hiram Wilson
 James Thomas Fisher,Josiah Henson
@@ -824,8 +800,6 @@ James Thomas Fisher,James Baker
 James Thomas Fisher,William H. Topp
 James Thomas Fisher,John Scoble
 James Thomas Fisher,Henry Grey
-James Thomas Fisher,Anderson
-James Thomas Fisher,M.R. Delaney
 James Thomas Fisher,Isaiah Clifford
 James Thomas Fisher,J.P. Campbell
 James Thomas Fisher,George Carey
@@ -844,7 +818,7 @@ James Thomas Fisher,Messrs Bibb
 James Thomas Fisher,Jt Fisher
 James Thomas Fisher,Wh Topp
 James Thomas Fisher,J Lyles
-James Thomas Fisher,Russel
+James Thomas Fisher,F Russel
 James Thomas Fisher,H K Thomas
 James Thomas Fisher,Baker
 James Thomas Fisher,Hollins
@@ -854,6 +828,7 @@ James Thomas Fisher,Harris
 James Thomas Fisher,Jp Campbell
 James Thomas Fisher,Topp
 James Thomas Fisher,Thomas
+James Thomas Fisher,Anderson
 James Thomas Fisher,Israel Campbell
 James Thomas Fisher,William H. Harris
 James Thomas Fisher,Scobie
@@ -868,9 +843,7 @@ James Thomas Fisher,David Jenkins
 James Thomas Fisher,G. Beeman
 James Thomas Fisher,William Lambert
 James Thomas Fisher,M R Delaney
-James Thomas Fisher,Stephen Myers
 James Thomas Fisher,J. T. Fisher
-James Thomas Fisher,James T. Taylor
 James Thomas Fisher,J. Theodore Holly
 Hiram Wilson,Josiah Henson
 Hiram Wilson,Wh Harris
@@ -916,8 +889,6 @@ Hiram Wilson,James Baker
 Hiram Wilson,William H. Topp
 Hiram Wilson,John Scoble
 Hiram Wilson,Henry Grey
-Hiram Wilson,Anderson
-Hiram Wilson,M.R. Delaney
 Hiram Wilson,Isaiah Clifford
 Hiram Wilson,J.P. Campbell
 Hiram Wilson,George Carey
@@ -936,7 +907,7 @@ Hiram Wilson,Messrs Bibb
 Hiram Wilson,Jt Fisher
 Hiram Wilson,Wh Topp
 Hiram Wilson,J Lyles
-Hiram Wilson,Russel
+Hiram Wilson,F Russel
 Hiram Wilson,H K Thomas
 Hiram Wilson,Baker
 Hiram Wilson,Hollins
@@ -946,6 +917,7 @@ Hiram Wilson,Harris
 Hiram Wilson,Jp Campbell
 Hiram Wilson,Topp
 Hiram Wilson,Thomas
+Hiram Wilson,Anderson
 Hiram Wilson,Israel Campbell
 Hiram Wilson,William H. Harris
 Hiram Wilson,Scobie
@@ -960,9 +932,7 @@ Hiram Wilson,David Jenkins
 Hiram Wilson,G. Beeman
 Hiram Wilson,William Lambert
 Hiram Wilson,M R Delaney
-Hiram Wilson,Stephen Myers
 Hiram Wilson,J. T. Fisher
-Hiram Wilson,James T. Taylor
 Hiram Wilson,J. Theodore Holly
 Josiah Henson,Wh Harris
 Josiah Henson,John J. Carey
@@ -1007,8 +977,6 @@ Josiah Henson,James Baker
 Josiah Henson,William H. Topp
 Josiah Henson,John Scoble
 Josiah Henson,Henry Grey
-Josiah Henson,Anderson
-Josiah Henson,M.R. Delaney
 Josiah Henson,Isaiah Clifford
 Josiah Henson,J.P. Campbell
 Josiah Henson,George Carey
@@ -1027,7 +995,7 @@ Josiah Henson,Messrs Bibb
 Josiah Henson,Jt Fisher
 Josiah Henson,Wh Topp
 Josiah Henson,J Lyles
-Josiah Henson,Russel
+Josiah Henson,F Russel
 Josiah Henson,H K Thomas
 Josiah Henson,Baker
 Josiah Henson,Hollins
@@ -1037,6 +1005,7 @@ Josiah Henson,Harris
 Josiah Henson,Jp Campbell
 Josiah Henson,Topp
 Josiah Henson,Thomas
+Josiah Henson,Anderson
 Josiah Henson,Israel Campbell
 Josiah Henson,William H. Harris
 Josiah Henson,Scobie
@@ -1051,9 +1020,7 @@ Josiah Henson,David Jenkins
 Josiah Henson,G. Beeman
 Josiah Henson,William Lambert
 Josiah Henson,M R Delaney
-Josiah Henson,Stephen Myers
 Josiah Henson,J. T. Fisher
-Josiah Henson,James T. Taylor
 Josiah Henson,J. Theodore Holly
 Wh Harris,John J. Carey
 Wh Harris,William H. Harrison
@@ -1097,8 +1064,6 @@ Wh Harris,James Baker
 Wh Harris,William H. Topp
 Wh Harris,John Scoble
 Wh Harris,Henry Grey
-Wh Harris,Anderson
-Wh Harris,M.R. Delaney
 Wh Harris,Isaiah Clifford
 Wh Harris,J.P. Campbell
 Wh Harris,George Carey
@@ -1117,7 +1082,7 @@ Wh Harris,Messrs Bibb
 Wh Harris,Jt Fisher
 Wh Harris,Wh Topp
 Wh Harris,J Lyles
-Wh Harris,Russel
+Wh Harris,F Russel
 Wh Harris,H K Thomas
 Wh Harris,Baker
 Wh Harris,Hollins
@@ -1127,6 +1092,7 @@ Wh Harris,Harris
 Wh Harris,Jp Campbell
 Wh Harris,Topp
 Wh Harris,Thomas
+Wh Harris,Anderson
 Wh Harris,Israel Campbell
 Wh Harris,William H. Harris
 Wh Harris,Scobie
@@ -1141,9 +1107,7 @@ Wh Harris,David Jenkins
 Wh Harris,G. Beeman
 Wh Harris,William Lambert
 Wh Harris,M R Delaney
-Wh Harris,Stephen Myers
 Wh Harris,J. T. Fisher
-Wh Harris,James T. Taylor
 Wh Harris,J. Theodore Holly
 John J. Carey,William H. Harrison
 John J. Carey,David Hollins
@@ -1186,8 +1150,6 @@ John J. Carey,James Baker
 John J. Carey,William H. Topp
 John J. Carey,John Scoble
 John J. Carey,Henry Grey
-John J. Carey,Anderson
-John J. Carey,M.R. Delaney
 John J. Carey,Isaiah Clifford
 John J. Carey,J.P. Campbell
 John J. Carey,George Carey
@@ -1206,7 +1168,7 @@ John J. Carey,Messrs Bibb
 John J. Carey,Jt Fisher
 John J. Carey,Wh Topp
 John J. Carey,J Lyles
-John J. Carey,Russel
+John J. Carey,F Russel
 John J. Carey,H K Thomas
 John J. Carey,Baker
 John J. Carey,Hollins
@@ -1216,6 +1178,7 @@ John J. Carey,Harris
 John J. Carey,Jp Campbell
 John J. Carey,Topp
 John J. Carey,Thomas
+John J. Carey,Anderson
 John J. Carey,Israel Campbell
 John J. Carey,William H. Harris
 John J. Carey,Scobie
@@ -1230,9 +1193,7 @@ John J. Carey,David Jenkins
 John J. Carey,G. Beeman
 John J. Carey,William Lambert
 John J. Carey,M R Delaney
-John J. Carey,Stephen Myers
 John J. Carey,J. T. Fisher
-John J. Carey,James T. Taylor
 John J. Carey,J. Theodore Holly
 William H. Harrison,David Hollins
 William H. Harrison,F. Lacy
@@ -1274,8 +1235,6 @@ William H. Harrison,James Baker
 William H. Harrison,William H. Topp
 William H. Harrison,John Scoble
 William H. Harrison,Henry Grey
-William H. Harrison,Anderson
-William H. Harrison,M.R. Delaney
 William H. Harrison,Isaiah Clifford
 William H. Harrison,J.P. Campbell
 William H. Harrison,George Carey
@@ -1294,7 +1253,7 @@ William H. Harrison,Messrs Bibb
 William H. Harrison,Jt Fisher
 William H. Harrison,Wh Topp
 William H. Harrison,J Lyles
-William H. Harrison,Russel
+William H. Harrison,F Russel
 William H. Harrison,H K Thomas
 William H. Harrison,Baker
 William H. Harrison,Hollins
@@ -1304,6 +1263,7 @@ William H. Harrison,Harris
 William H. Harrison,Jp Campbell
 William H. Harrison,Topp
 William H. Harrison,Thomas
+William H. Harrison,Anderson
 William H. Harrison,Israel Campbell
 William H. Harrison,William H. Harris
 William H. Harrison,Scobie
@@ -1318,9 +1278,7 @@ William H. Harrison,David Jenkins
 William H. Harrison,G. Beeman
 William H. Harrison,William Lambert
 William H. Harrison,M R Delaney
-William H. Harrison,Stephen Myers
 William H. Harrison,J. T. Fisher
-William H. Harrison,James T. Taylor
 William H. Harrison,J. Theodore Holly
 David Hollins,F. Lacy
 David Hollins,B. Hoyt
@@ -1361,8 +1319,6 @@ David Hollins,James Baker
 David Hollins,William H. Topp
 David Hollins,John Scoble
 David Hollins,Henry Grey
-David Hollins,Anderson
-David Hollins,M.R. Delaney
 David Hollins,Isaiah Clifford
 David Hollins,J.P. Campbell
 David Hollins,George Carey
@@ -1381,7 +1337,7 @@ David Hollins,Messrs Bibb
 David Hollins,Jt Fisher
 David Hollins,Wh Topp
 David Hollins,J Lyles
-David Hollins,Russel
+David Hollins,F Russel
 David Hollins,H K Thomas
 David Hollins,Baker
 David Hollins,Hollins
@@ -1391,6 +1347,7 @@ David Hollins,Harris
 David Hollins,Jp Campbell
 David Hollins,Topp
 David Hollins,Thomas
+David Hollins,Anderson
 David Hollins,Israel Campbell
 David Hollins,William H. Harris
 David Hollins,Scobie
@@ -1405,9 +1362,7 @@ David Hollins,David Jenkins
 David Hollins,G. Beeman
 David Hollins,William Lambert
 David Hollins,M R Delaney
-David Hollins,Stephen Myers
 David Hollins,J. T. Fisher
-David Hollins,James T. Taylor
 David Hollins,J. Theodore Holly
 F. Lacy,B. Hoyt
 F. Lacy,William Scott
@@ -1447,8 +1402,6 @@ F. Lacy,James Baker
 F. Lacy,William H. Topp
 F. Lacy,John Scoble
 F. Lacy,Henry Grey
-F. Lacy,Anderson
-F. Lacy,M.R. Delaney
 F. Lacy,Isaiah Clifford
 F. Lacy,J.P. Campbell
 F. Lacy,George Carey
@@ -1467,7 +1420,7 @@ F. Lacy,Messrs Bibb
 F. Lacy,Jt Fisher
 F. Lacy,Wh Topp
 F. Lacy,J Lyles
-F. Lacy,Russel
+F. Lacy,F Russel
 F. Lacy,H K Thomas
 F. Lacy,Baker
 F. Lacy,Hollins
@@ -1477,6 +1430,7 @@ F. Lacy,Harris
 F. Lacy,Jp Campbell
 F. Lacy,Topp
 F. Lacy,Thomas
+F. Lacy,Anderson
 F. Lacy,Israel Campbell
 F. Lacy,William H. Harris
 F. Lacy,Scobie
@@ -1491,9 +1445,7 @@ F. Lacy,David Jenkins
 F. Lacy,G. Beeman
 F. Lacy,William Lambert
 F. Lacy,M R Delaney
-F. Lacy,Stephen Myers
 F. Lacy,J. T. Fisher
-F. Lacy,James T. Taylor
 F. Lacy,J. Theodore Holly
 B. Hoyt,William Scott
 B. Hoyt,Isaac Washington
@@ -1532,8 +1484,6 @@ B. Hoyt,James Baker
 B. Hoyt,William H. Topp
 B. Hoyt,John Scoble
 B. Hoyt,Henry Grey
-B. Hoyt,Anderson
-B. Hoyt,M.R. Delaney
 B. Hoyt,Isaiah Clifford
 B. Hoyt,J.P. Campbell
 B. Hoyt,George Carey
@@ -1552,7 +1502,7 @@ B. Hoyt,Messrs Bibb
 B. Hoyt,Jt Fisher
 B. Hoyt,Wh Topp
 B. Hoyt,J Lyles
-B. Hoyt,Russel
+B. Hoyt,F Russel
 B. Hoyt,H K Thomas
 B. Hoyt,Baker
 B. Hoyt,Hollins
@@ -1562,6 +1512,7 @@ B. Hoyt,Harris
 B. Hoyt,Jp Campbell
 B. Hoyt,Topp
 B. Hoyt,Thomas
+B. Hoyt,Anderson
 B. Hoyt,Israel Campbell
 B. Hoyt,William H. Harris
 B. Hoyt,Scobie
@@ -1576,9 +1527,7 @@ B. Hoyt,David Jenkins
 B. Hoyt,G. Beeman
 B. Hoyt,William Lambert
 B. Hoyt,M R Delaney
-B. Hoyt,Stephen Myers
 B. Hoyt,J. T. Fisher
-B. Hoyt,James T. Taylor
 B. Hoyt,J. Theodore Holly
 William Scott,Isaac Washington
 William Scott,D. Goodley
@@ -1616,8 +1565,6 @@ William Scott,James Baker
 William Scott,William H. Topp
 William Scott,John Scoble
 William Scott,Henry Grey
-William Scott,Anderson
-William Scott,M.R. Delaney
 William Scott,Isaiah Clifford
 William Scott,J.P. Campbell
 William Scott,George Carey
@@ -1636,7 +1583,7 @@ William Scott,Messrs Bibb
 William Scott,Jt Fisher
 William Scott,Wh Topp
 William Scott,J Lyles
-William Scott,Russel
+William Scott,F Russel
 William Scott,H K Thomas
 William Scott,Baker
 William Scott,Hollins
@@ -1646,6 +1593,7 @@ William Scott,Harris
 William Scott,Jp Campbell
 William Scott,Topp
 William Scott,Thomas
+William Scott,Anderson
 William Scott,Israel Campbell
 William Scott,William H. Harris
 William Scott,Scobie
@@ -1660,9 +1608,7 @@ William Scott,David Jenkins
 William Scott,G. Beeman
 William Scott,William Lambert
 William Scott,M R Delaney
-William Scott,Stephen Myers
 William Scott,J. T. Fisher
-William Scott,James T. Taylor
 William Scott,J. Theodore Holly
 Isaac Washington,D. Goodley
 Isaac Washington,G. Moragn
@@ -1699,8 +1645,6 @@ Isaac Washington,James Baker
 Isaac Washington,William H. Topp
 Isaac Washington,John Scoble
 Isaac Washington,Henry Grey
-Isaac Washington,Anderson
-Isaac Washington,M.R. Delaney
 Isaac Washington,Isaiah Clifford
 Isaac Washington,J.P. Campbell
 Isaac Washington,George Carey
@@ -1719,7 +1663,7 @@ Isaac Washington,Messrs Bibb
 Isaac Washington,Jt Fisher
 Isaac Washington,Wh Topp
 Isaac Washington,J Lyles
-Isaac Washington,Russel
+Isaac Washington,F Russel
 Isaac Washington,H K Thomas
 Isaac Washington,Baker
 Isaac Washington,Hollins
@@ -1729,6 +1673,7 @@ Isaac Washington,Harris
 Isaac Washington,Jp Campbell
 Isaac Washington,Topp
 Isaac Washington,Thomas
+Isaac Washington,Anderson
 Isaac Washington,Israel Campbell
 Isaac Washington,William H. Harris
 Isaac Washington,Scobie
@@ -1743,9 +1688,7 @@ Isaac Washington,David Jenkins
 Isaac Washington,G. Beeman
 Isaac Washington,William Lambert
 Isaac Washington,M R Delaney
-Isaac Washington,Stephen Myers
 Isaac Washington,J. T. Fisher
-Isaac Washington,James T. Taylor
 Isaac Washington,J. Theodore Holly
 D. Goodley,G. Moragn
 D. Goodley,G. Brackston
@@ -1781,8 +1724,6 @@ D. Goodley,James Baker
 D. Goodley,William H. Topp
 D. Goodley,John Scoble
 D. Goodley,Henry Grey
-D. Goodley,Anderson
-D. Goodley,M.R. Delaney
 D. Goodley,Isaiah Clifford
 D. Goodley,J.P. Campbell
 D. Goodley,George Carey
@@ -1801,7 +1742,7 @@ D. Goodley,Messrs Bibb
 D. Goodley,Jt Fisher
 D. Goodley,Wh Topp
 D. Goodley,J Lyles
-D. Goodley,Russel
+D. Goodley,F Russel
 D. Goodley,H K Thomas
 D. Goodley,Baker
 D. Goodley,Hollins
@@ -1811,6 +1752,7 @@ D. Goodley,Harris
 D. Goodley,Jp Campbell
 D. Goodley,Topp
 D. Goodley,Thomas
+D. Goodley,Anderson
 D. Goodley,Israel Campbell
 D. Goodley,William H. Harris
 D. Goodley,Scobie
@@ -1825,9 +1767,7 @@ D. Goodley,David Jenkins
 D. Goodley,G. Beeman
 D. Goodley,William Lambert
 D. Goodley,M R Delaney
-D. Goodley,Stephen Myers
 D. Goodley,J. T. Fisher
-D. Goodley,James T. Taylor
 D. Goodley,J. Theodore Holly
 G. Moragn,G. Brackston
 G. Moragn,G. Carey
@@ -1862,8 +1802,6 @@ G. Moragn,James Baker
 G. Moragn,William H. Topp
 G. Moragn,John Scoble
 G. Moragn,Henry Grey
-G. Moragn,Anderson
-G. Moragn,M.R. Delaney
 G. Moragn,Isaiah Clifford
 G. Moragn,J.P. Campbell
 G. Moragn,George Carey
@@ -1882,7 +1820,7 @@ G. Moragn,Messrs Bibb
 G. Moragn,Jt Fisher
 G. Moragn,Wh Topp
 G. Moragn,J Lyles
-G. Moragn,Russel
+G. Moragn,F Russel
 G. Moragn,H K Thomas
 G. Moragn,Baker
 G. Moragn,Hollins
@@ -1892,6 +1830,7 @@ G. Moragn,Harris
 G. Moragn,Jp Campbell
 G. Moragn,Topp
 G. Moragn,Thomas
+G. Moragn,Anderson
 G. Moragn,Israel Campbell
 G. Moragn,William H. Harris
 G. Moragn,Scobie
@@ -1906,9 +1845,7 @@ G. Moragn,David Jenkins
 G. Moragn,G. Beeman
 G. Moragn,William Lambert
 G. Moragn,M R Delaney
-G. Moragn,Stephen Myers
 G. Moragn,J. T. Fisher
-G. Moragn,James T. Taylor
 G. Moragn,J. Theodore Holly
 G. Brackston,G. Carey
 G. Brackston,W.P. Newman
@@ -1942,8 +1879,6 @@ G. Brackston,James Baker
 G. Brackston,William H. Topp
 G. Brackston,John Scoble
 G. Brackston,Henry Grey
-G. Brackston,Anderson
-G. Brackston,M.R. Delaney
 G. Brackston,Isaiah Clifford
 G. Brackston,J.P. Campbell
 G. Brackston,George Carey
@@ -1962,7 +1897,7 @@ G. Brackston,Messrs Bibb
 G. Brackston,Jt Fisher
 G. Brackston,Wh Topp
 G. Brackston,J Lyles
-G. Brackston,Russel
+G. Brackston,F Russel
 G. Brackston,H K Thomas
 G. Brackston,Baker
 G. Brackston,Hollins
@@ -1972,6 +1907,7 @@ G. Brackston,Harris
 G. Brackston,Jp Campbell
 G. Brackston,Topp
 G. Brackston,Thomas
+G. Brackston,Anderson
 G. Brackston,Israel Campbell
 G. Brackston,William H. Harris
 G. Brackston,Scobie
@@ -1986,9 +1922,7 @@ G. Brackston,David Jenkins
 G. Brackston,G. Beeman
 G. Brackston,William Lambert
 G. Brackston,M R Delaney
-G. Brackston,Stephen Myers
 G. Brackston,J. T. Fisher
-G. Brackston,James T. Taylor
 G. Brackston,J. Theodore Holly
 G. Carey,W.P. Newman
 G. Carey,J. Wilson
@@ -2021,8 +1955,6 @@ G. Carey,James Baker
 G. Carey,William H. Topp
 G. Carey,John Scoble
 G. Carey,Henry Grey
-G. Carey,Anderson
-G. Carey,M.R. Delaney
 G. Carey,Isaiah Clifford
 G. Carey,J.P. Campbell
 G. Carey,George Carey
@@ -2041,7 +1973,7 @@ G. Carey,Messrs Bibb
 G. Carey,Jt Fisher
 G. Carey,Wh Topp
 G. Carey,J Lyles
-G. Carey,Russel
+G. Carey,F Russel
 G. Carey,H K Thomas
 G. Carey,Baker
 G. Carey,Hollins
@@ -2051,6 +1983,7 @@ G. Carey,Harris
 G. Carey,Jp Campbell
 G. Carey,Topp
 G. Carey,Thomas
+G. Carey,Anderson
 G. Carey,Israel Campbell
 G. Carey,William H. Harris
 G. Carey,Scobie
@@ -2065,9 +1998,7 @@ G. Carey,David Jenkins
 G. Carey,G. Beeman
 G. Carey,William Lambert
 G. Carey,M R Delaney
-G. Carey,Stephen Myers
 G. Carey,J. T. Fisher
-G. Carey,James T. Taylor
 G. Carey,J. Theodore Holly
 W.P. Newman,J. Wilson
 W.P. Newman,L.P. Barton
@@ -2099,8 +2030,6 @@ W.P. Newman,James Baker
 W.P. Newman,William H. Topp
 W.P. Newman,John Scoble
 W.P. Newman,Henry Grey
-W.P. Newman,Anderson
-W.P. Newman,M.R. Delaney
 W.P. Newman,Isaiah Clifford
 W.P. Newman,J.P. Campbell
 W.P. Newman,George Carey
@@ -2119,7 +2048,7 @@ W.P. Newman,Messrs Bibb
 W.P. Newman,Jt Fisher
 W.P. Newman,Wh Topp
 W.P. Newman,J Lyles
-W.P. Newman,Russel
+W.P. Newman,F Russel
 W.P. Newman,H K Thomas
 W.P. Newman,Baker
 W.P. Newman,Hollins
@@ -2129,6 +2058,7 @@ W.P. Newman,Harris
 W.P. Newman,Jp Campbell
 W.P. Newman,Topp
 W.P. Newman,Thomas
+W.P. Newman,Anderson
 W.P. Newman,Israel Campbell
 W.P. Newman,William H. Harris
 W.P. Newman,Scobie
@@ -2143,9 +2073,7 @@ W.P. Newman,David Jenkins
 W.P. Newman,G. Beeman
 W.P. Newman,William Lambert
 W.P. Newman,M R Delaney
-W.P. Newman,Stephen Myers
 W.P. Newman,J. T. Fisher
-W.P. Newman,James T. Taylor
 W.P. Newman,J. Theodore Holly
 J. Wilson,L.P. Barton
 J. Wilson,J. Anderson
@@ -2176,8 +2104,6 @@ J. Wilson,James Baker
 J. Wilson,William H. Topp
 J. Wilson,John Scoble
 J. Wilson,Henry Grey
-J. Wilson,Anderson
-J. Wilson,M.R. Delaney
 J. Wilson,Isaiah Clifford
 J. Wilson,J.P. Campbell
 J. Wilson,George Carey
@@ -2196,7 +2122,7 @@ J. Wilson,Messrs Bibb
 J. Wilson,Jt Fisher
 J. Wilson,Wh Topp
 J. Wilson,J Lyles
-J. Wilson,Russel
+J. Wilson,F Russel
 J. Wilson,H K Thomas
 J. Wilson,Baker
 J. Wilson,Hollins
@@ -2206,6 +2132,7 @@ J. Wilson,Harris
 J. Wilson,Jp Campbell
 J. Wilson,Topp
 J. Wilson,Thomas
+J. Wilson,Anderson
 J. Wilson,Israel Campbell
 J. Wilson,William H. Harris
 J. Wilson,Scobie
@@ -2220,9 +2147,7 @@ J. Wilson,David Jenkins
 J. Wilson,G. Beeman
 J. Wilson,William Lambert
 J. Wilson,M R Delaney
-J. Wilson,Stephen Myers
 J. Wilson,J. T. Fisher
-J. Wilson,James T. Taylor
 J. Wilson,J. Theodore Holly
 L.P. Barton,J. Anderson
 L.P. Barton,E.B. Dunlop
@@ -2252,8 +2177,6 @@ L.P. Barton,James Baker
 L.P. Barton,William H. Topp
 L.P. Barton,John Scoble
 L.P. Barton,Henry Grey
-L.P. Barton,Anderson
-L.P. Barton,M.R. Delaney
 L.P. Barton,Isaiah Clifford
 L.P. Barton,J.P. Campbell
 L.P. Barton,George Carey
@@ -2272,7 +2195,7 @@ L.P. Barton,Messrs Bibb
 L.P. Barton,Jt Fisher
 L.P. Barton,Wh Topp
 L.P. Barton,J Lyles
-L.P. Barton,Russel
+L.P. Barton,F Russel
 L.P. Barton,H K Thomas
 L.P. Barton,Baker
 L.P. Barton,Hollins
@@ -2282,6 +2205,7 @@ L.P. Barton,Harris
 L.P. Barton,Jp Campbell
 L.P. Barton,Topp
 L.P. Barton,Thomas
+L.P. Barton,Anderson
 L.P. Barton,Israel Campbell
 L.P. Barton,William H. Harris
 L.P. Barton,Scobie
@@ -2296,9 +2220,7 @@ L.P. Barton,David Jenkins
 L.P. Barton,G. Beeman
 L.P. Barton,William Lambert
 L.P. Barton,M R Delaney
-L.P. Barton,Stephen Myers
 L.P. Barton,J. T. Fisher
-L.P. Barton,James T. Taylor
 L.P. Barton,J. Theodore Holly
 J. Anderson,E.B. Dunlop
 J. Anderson,H. Grey
@@ -2327,8 +2249,6 @@ J. Anderson,James Baker
 J. Anderson,William H. Topp
 J. Anderson,John Scoble
 J. Anderson,Henry Grey
-J. Anderson,Anderson
-J. Anderson,M.R. Delaney
 J. Anderson,Isaiah Clifford
 J. Anderson,J.P. Campbell
 J. Anderson,George Carey
@@ -2347,7 +2267,7 @@ J. Anderson,Messrs Bibb
 J. Anderson,Jt Fisher
 J. Anderson,Wh Topp
 J. Anderson,J Lyles
-J. Anderson,Russel
+J. Anderson,F Russel
 J. Anderson,H K Thomas
 J. Anderson,Baker
 J. Anderson,Hollins
@@ -2357,6 +2277,7 @@ J. Anderson,Harris
 J. Anderson,Jp Campbell
 J. Anderson,Topp
 J. Anderson,Thomas
+J. Anderson,Anderson
 J. Anderson,Israel Campbell
 J. Anderson,William H. Harris
 J. Anderson,Scobie
@@ -2371,9 +2292,7 @@ J. Anderson,David Jenkins
 J. Anderson,G. Beeman
 J. Anderson,William Lambert
 J. Anderson,M R Delaney
-J. Anderson,Stephen Myers
 J. Anderson,J. T. Fisher
-J. Anderson,James T. Taylor
 J. Anderson,J. Theodore Holly
 E.B. Dunlop,H. Grey
 E.B. Dunlop,H. Wilson
@@ -2401,8 +2320,6 @@ E.B. Dunlop,James Baker
 E.B. Dunlop,William H. Topp
 E.B. Dunlop,John Scoble
 E.B. Dunlop,Henry Grey
-E.B. Dunlop,Anderson
-E.B. Dunlop,M.R. Delaney
 E.B. Dunlop,Isaiah Clifford
 E.B. Dunlop,J.P. Campbell
 E.B. Dunlop,George Carey
@@ -2421,7 +2338,7 @@ E.B. Dunlop,Messrs Bibb
 E.B. Dunlop,Jt Fisher
 E.B. Dunlop,Wh Topp
 E.B. Dunlop,J Lyles
-E.B. Dunlop,Russel
+E.B. Dunlop,F Russel
 E.B. Dunlop,H K Thomas
 E.B. Dunlop,Baker
 E.B. Dunlop,Hollins
@@ -2431,6 +2348,7 @@ E.B. Dunlop,Harris
 E.B. Dunlop,Jp Campbell
 E.B. Dunlop,Topp
 E.B. Dunlop,Thomas
+E.B. Dunlop,Anderson
 E.B. Dunlop,Israel Campbell
 E.B. Dunlop,William H. Harris
 E.B. Dunlop,Scobie
@@ -2445,9 +2363,7 @@ E.B. Dunlop,David Jenkins
 E.B. Dunlop,G. Beeman
 E.B. Dunlop,William Lambert
 E.B. Dunlop,M R Delaney
-E.B. Dunlop,Stephen Myers
 E.B. Dunlop,J. T. Fisher
-E.B. Dunlop,James T. Taylor
 E.B. Dunlop,J. Theodore Holly
 H. Grey,H. Wilson
 H. Grey,Lawson
@@ -2474,8 +2390,6 @@ H. Grey,James Baker
 H. Grey,William H. Topp
 H. Grey,John Scoble
 H. Grey,Henry Grey
-H. Grey,Anderson
-H. Grey,M.R. Delaney
 H. Grey,Isaiah Clifford
 H. Grey,J.P. Campbell
 H. Grey,George Carey
@@ -2494,7 +2408,7 @@ H. Grey,Messrs Bibb
 H. Grey,Jt Fisher
 H. Grey,Wh Topp
 H. Grey,J Lyles
-H. Grey,Russel
+H. Grey,F Russel
 H. Grey,H K Thomas
 H. Grey,Baker
 H. Grey,Hollins
@@ -2504,6 +2418,7 @@ H. Grey,Harris
 H. Grey,Jp Campbell
 H. Grey,Topp
 H. Grey,Thomas
+H. Grey,Anderson
 H. Grey,Israel Campbell
 H. Grey,William H. Harris
 H. Grey,Scobie
@@ -2518,9 +2433,7 @@ H. Grey,David Jenkins
 H. Grey,G. Beeman
 H. Grey,William Lambert
 H. Grey,M R Delaney
-H. Grey,Stephen Myers
 H. Grey,J. T. Fisher
-H. Grey,James T. Taylor
 H. Grey,J. Theodore Holly
 H. Wilson,Lawson
 H. Wilson,H.R. Thomas
@@ -2546,8 +2459,6 @@ H. Wilson,James Baker
 H. Wilson,William H. Topp
 H. Wilson,John Scoble
 H. Wilson,Henry Grey
-H. Wilson,Anderson
-H. Wilson,M.R. Delaney
 H. Wilson,Isaiah Clifford
 H. Wilson,J.P. Campbell
 H. Wilson,George Carey
@@ -2566,7 +2477,7 @@ H. Wilson,Messrs Bibb
 H. Wilson,Jt Fisher
 H. Wilson,Wh Topp
 H. Wilson,J Lyles
-H. Wilson,Russel
+H. Wilson,F Russel
 H. Wilson,H K Thomas
 H. Wilson,Baker
 H. Wilson,Hollins
@@ -2576,6 +2487,7 @@ H. Wilson,Harris
 H. Wilson,Jp Campbell
 H. Wilson,Topp
 H. Wilson,Thomas
+H. Wilson,Anderson
 H. Wilson,Israel Campbell
 H. Wilson,William H. Harris
 H. Wilson,Scobie
@@ -2590,9 +2502,7 @@ H. Wilson,David Jenkins
 H. Wilson,G. Beeman
 H. Wilson,William Lambert
 H. Wilson,M R Delaney
-H. Wilson,Stephen Myers
 H. Wilson,J. T. Fisher
-H. Wilson,James T. Taylor
 H. Wilson,J. Theodore Holly
 Lawson,H.R. Thomas
 Lawson,P. Harris
@@ -2617,8 +2527,6 @@ Lawson,James Baker
 Lawson,William H. Topp
 Lawson,John Scoble
 Lawson,Henry Grey
-Lawson,Anderson
-Lawson,M.R. Delaney
 Lawson,Isaiah Clifford
 Lawson,J.P. Campbell
 Lawson,George Carey
@@ -2637,7 +2545,7 @@ Lawson,Messrs Bibb
 Lawson,Jt Fisher
 Lawson,Wh Topp
 Lawson,J Lyles
-Lawson,Russel
+Lawson,F Russel
 Lawson,H K Thomas
 Lawson,Baker
 Lawson,Hollins
@@ -2647,6 +2555,7 @@ Lawson,Harris
 Lawson,Jp Campbell
 Lawson,Topp
 Lawson,Thomas
+Lawson,Anderson
 Lawson,Israel Campbell
 Lawson,William H. Harris
 Lawson,Scobie
@@ -2661,9 +2570,7 @@ Lawson,David Jenkins
 Lawson,G. Beeman
 Lawson,William Lambert
 Lawson,M R Delaney
-Lawson,Stephen Myers
 Lawson,J. T. Fisher
-Lawson,James T. Taylor
 Lawson,J. Theodore Holly
 H.R. Thomas,P. Harris
 H.R. Thomas,B.F. Young
@@ -2687,8 +2594,6 @@ H.R. Thomas,James Baker
 H.R. Thomas,William H. Topp
 H.R. Thomas,John Scoble
 H.R. Thomas,Henry Grey
-H.R. Thomas,Anderson
-H.R. Thomas,M.R. Delaney
 H.R. Thomas,Isaiah Clifford
 H.R. Thomas,J.P. Campbell
 H.R. Thomas,George Carey
@@ -2707,7 +2612,7 @@ H.R. Thomas,Messrs Bibb
 H.R. Thomas,Jt Fisher
 H.R. Thomas,Wh Topp
 H.R. Thomas,J Lyles
-H.R. Thomas,Russel
+H.R. Thomas,F Russel
 H.R. Thomas,H K Thomas
 H.R. Thomas,Baker
 H.R. Thomas,Hollins
@@ -2717,6 +2622,7 @@ H.R. Thomas,Harris
 H.R. Thomas,Jp Campbell
 H.R. Thomas,Topp
 H.R. Thomas,Thomas
+H.R. Thomas,Anderson
 H.R. Thomas,Israel Campbell
 H.R. Thomas,William H. Harris
 H.R. Thomas,Scobie
@@ -2731,9 +2637,7 @@ H.R. Thomas,David Jenkins
 H.R. Thomas,G. Beeman
 H.R. Thomas,William Lambert
 H.R. Thomas,M R Delaney
-H.R. Thomas,Stephen Myers
 H.R. Thomas,J. T. Fisher
-H.R. Thomas,James T. Taylor
 H.R. Thomas,J. Theodore Holly
 P. Harris,B.F. Young
 P. Harris,J. Simpson
@@ -2756,8 +2660,6 @@ P. Harris,James Baker
 P. Harris,William H. Topp
 P. Harris,John Scoble
 P. Harris,Henry Grey
-P. Harris,Anderson
-P. Harris,M.R. Delaney
 P. Harris,Isaiah Clifford
 P. Harris,J.P. Campbell
 P. Harris,George Carey
@@ -2776,7 +2678,7 @@ P. Harris,Messrs Bibb
 P. Harris,Jt Fisher
 P. Harris,Wh Topp
 P. Harris,J Lyles
-P. Harris,Russel
+P. Harris,F Russel
 P. Harris,H K Thomas
 P. Harris,Baker
 P. Harris,Hollins
@@ -2786,6 +2688,7 @@ P. Harris,Harris
 P. Harris,Jp Campbell
 P. Harris,Topp
 P. Harris,Thomas
+P. Harris,Anderson
 P. Harris,Israel Campbell
 P. Harris,William H. Harris
 P. Harris,Scobie
@@ -2800,9 +2703,7 @@ P. Harris,David Jenkins
 P. Harris,G. Beeman
 P. Harris,William Lambert
 P. Harris,M R Delaney
-P. Harris,Stephen Myers
 P. Harris,J. T. Fisher
-P. Harris,James T. Taylor
 P. Harris,J. Theodore Holly
 B.F. Young,J. Simpson
 B.F. Young,G. Weir
@@ -2824,8 +2725,6 @@ B.F. Young,James Baker
 B.F. Young,William H. Topp
 B.F. Young,John Scoble
 B.F. Young,Henry Grey
-B.F. Young,Anderson
-B.F. Young,M.R. Delaney
 B.F. Young,Isaiah Clifford
 B.F. Young,J.P. Campbell
 B.F. Young,George Carey
@@ -2844,7 +2743,7 @@ B.F. Young,Messrs Bibb
 B.F. Young,Jt Fisher
 B.F. Young,Wh Topp
 B.F. Young,J Lyles
-B.F. Young,Russel
+B.F. Young,F Russel
 B.F. Young,H K Thomas
 B.F. Young,Baker
 B.F. Young,Hollins
@@ -2854,6 +2753,7 @@ B.F. Young,Harris
 B.F. Young,Jp Campbell
 B.F. Young,Topp
 B.F. Young,Thomas
+B.F. Young,Anderson
 B.F. Young,Israel Campbell
 B.F. Young,William H. Harris
 B.F. Young,Scobie
@@ -2868,9 +2768,7 @@ B.F. Young,David Jenkins
 B.F. Young,G. Beeman
 B.F. Young,William Lambert
 B.F. Young,M R Delaney
-B.F. Young,Stephen Myers
 B.F. Young,J. T. Fisher
-B.F. Young,James T. Taylor
 B.F. Young,J. Theodore Holly
 J. Simpson,G. Weir
 J. Simpson,J. Mclean
@@ -2891,8 +2789,6 @@ J. Simpson,James Baker
 J. Simpson,William H. Topp
 J. Simpson,John Scoble
 J. Simpson,Henry Grey
-J. Simpson,Anderson
-J. Simpson,M.R. Delaney
 J. Simpson,Isaiah Clifford
 J. Simpson,J.P. Campbell
 J. Simpson,George Carey
@@ -2911,7 +2807,7 @@ J. Simpson,Messrs Bibb
 J. Simpson,Jt Fisher
 J. Simpson,Wh Topp
 J. Simpson,J Lyles
-J. Simpson,Russel
+J. Simpson,F Russel
 J. Simpson,H K Thomas
 J. Simpson,Baker
 J. Simpson,Hollins
@@ -2921,6 +2817,7 @@ J. Simpson,Harris
 J. Simpson,Jp Campbell
 J. Simpson,Topp
 J. Simpson,Thomas
+J. Simpson,Anderson
 J. Simpson,Israel Campbell
 J. Simpson,William H. Harris
 J. Simpson,Scobie
@@ -2935,9 +2832,7 @@ J. Simpson,David Jenkins
 J. Simpson,G. Beeman
 J. Simpson,William Lambert
 J. Simpson,M R Delaney
-J. Simpson,Stephen Myers
 J. Simpson,J. T. Fisher
-J. Simpson,James T. Taylor
 J. Simpson,J. Theodore Holly
 G. Weir,J. Mclean
 G. Weir,R. Cheney
@@ -2957,8 +2852,6 @@ G. Weir,James Baker
 G. Weir,William H. Topp
 G. Weir,John Scoble
 G. Weir,Henry Grey
-G. Weir,Anderson
-G. Weir,M.R. Delaney
 G. Weir,Isaiah Clifford
 G. Weir,J.P. Campbell
 G. Weir,George Carey
@@ -2977,7 +2870,7 @@ G. Weir,Messrs Bibb
 G. Weir,Jt Fisher
 G. Weir,Wh Topp
 G. Weir,J Lyles
-G. Weir,Russel
+G. Weir,F Russel
 G. Weir,H K Thomas
 G. Weir,Baker
 G. Weir,Hollins
@@ -2987,6 +2880,7 @@ G. Weir,Harris
 G. Weir,Jp Campbell
 G. Weir,Topp
 G. Weir,Thomas
+G. Weir,Anderson
 G. Weir,Israel Campbell
 G. Weir,William H. Harris
 G. Weir,Scobie
@@ -3001,9 +2895,7 @@ G. Weir,David Jenkins
 G. Weir,G. Beeman
 G. Weir,William Lambert
 G. Weir,M R Delaney
-G. Weir,Stephen Myers
 G. Weir,J. T. Fisher
-G. Weir,James T. Taylor
 G. Weir,J. Theodore Holly
 J. Mclean,R. Cheney
 J. Mclean,H. Bibb
@@ -3022,8 +2914,6 @@ J. Mclean,James Baker
 J. Mclean,William H. Topp
 J. Mclean,John Scoble
 J. Mclean,Henry Grey
-J. Mclean,Anderson
-J. Mclean,M.R. Delaney
 J. Mclean,Isaiah Clifford
 J. Mclean,J.P. Campbell
 J. Mclean,George Carey
@@ -3042,7 +2932,7 @@ J. Mclean,Messrs Bibb
 J. Mclean,Jt Fisher
 J. Mclean,Wh Topp
 J. Mclean,J Lyles
-J. Mclean,Russel
+J. Mclean,F Russel
 J. Mclean,H K Thomas
 J. Mclean,Baker
 J. Mclean,Hollins
@@ -3052,6 +2942,7 @@ J. Mclean,Harris
 J. Mclean,Jp Campbell
 J. Mclean,Topp
 J. Mclean,Thomas
+J. Mclean,Anderson
 J. Mclean,Israel Campbell
 J. Mclean,William H. Harris
 J. Mclean,Scobie
@@ -3066,9 +2957,7 @@ J. Mclean,David Jenkins
 J. Mclean,G. Beeman
 J. Mclean,William Lambert
 J. Mclean,M R Delaney
-J. Mclean,Stephen Myers
 J. Mclean,J. T. Fisher
-J. Mclean,James T. Taylor
 J. Mclean,J. Theodore Holly
 R. Cheney,H. Bibb
 R. Cheney,A. Smith
@@ -3086,8 +2975,6 @@ R. Cheney,James Baker
 R. Cheney,William H. Topp
 R. Cheney,John Scoble
 R. Cheney,Henry Grey
-R. Cheney,Anderson
-R. Cheney,M.R. Delaney
 R. Cheney,Isaiah Clifford
 R. Cheney,J.P. Campbell
 R. Cheney,George Carey
@@ -3106,7 +2993,7 @@ R. Cheney,Messrs Bibb
 R. Cheney,Jt Fisher
 R. Cheney,Wh Topp
 R. Cheney,J Lyles
-R. Cheney,Russel
+R. Cheney,F Russel
 R. Cheney,H K Thomas
 R. Cheney,Baker
 R. Cheney,Hollins
@@ -3116,6 +3003,7 @@ R. Cheney,Harris
 R. Cheney,Jp Campbell
 R. Cheney,Topp
 R. Cheney,Thomas
+R. Cheney,Anderson
 R. Cheney,Israel Campbell
 R. Cheney,William H. Harris
 R. Cheney,Scobie
@@ -3130,9 +3018,7 @@ R. Cheney,David Jenkins
 R. Cheney,G. Beeman
 R. Cheney,William Lambert
 R. Cheney,M R Delaney
-R. Cheney,Stephen Myers
 R. Cheney,J. T. Fisher
-R. Cheney,James T. Taylor
 R. Cheney,J. Theodore Holly
 H. Bibb,A. Smith
 H. Bibb,H. Brent
@@ -3149,8 +3035,6 @@ H. Bibb,James Baker
 H. Bibb,William H. Topp
 H. Bibb,John Scoble
 H. Bibb,Henry Grey
-H. Bibb,Anderson
-H. Bibb,M.R. Delaney
 H. Bibb,Isaiah Clifford
 H. Bibb,J.P. Campbell
 H. Bibb,George Carey
@@ -3169,7 +3053,7 @@ H. Bibb,Messrs Bibb
 H. Bibb,Jt Fisher
 H. Bibb,Wh Topp
 H. Bibb,J Lyles
-H. Bibb,Russel
+H. Bibb,F Russel
 H. Bibb,H K Thomas
 H. Bibb,Baker
 H. Bibb,Hollins
@@ -3179,6 +3063,7 @@ H. Bibb,Harris
 H. Bibb,Jp Campbell
 H. Bibb,Topp
 H. Bibb,Thomas
+H. Bibb,Anderson
 H. Bibb,Israel Campbell
 H. Bibb,William H. Harris
 H. Bibb,Scobie
@@ -3193,9 +3078,7 @@ H. Bibb,David Jenkins
 H. Bibb,G. Beeman
 H. Bibb,William Lambert
 H. Bibb,M R Delaney
-H. Bibb,Stephen Myers
 H. Bibb,J. T. Fisher
-H. Bibb,James T. Taylor
 H. Bibb,J. Theodore Holly
 A. Smith,H. Brent
 A. Smith,A. Anderson
@@ -3211,8 +3094,6 @@ A. Smith,James Baker
 A. Smith,William H. Topp
 A. Smith,John Scoble
 A. Smith,Henry Grey
-A. Smith,Anderson
-A. Smith,M.R. Delaney
 A. Smith,Isaiah Clifford
 A. Smith,J.P. Campbell
 A. Smith,George Carey
@@ -3231,7 +3112,7 @@ A. Smith,Messrs Bibb
 A. Smith,Jt Fisher
 A. Smith,Wh Topp
 A. Smith,J Lyles
-A. Smith,Russel
+A. Smith,F Russel
 A. Smith,H K Thomas
 A. Smith,Baker
 A. Smith,Hollins
@@ -3241,6 +3122,7 @@ A. Smith,Harris
 A. Smith,Jp Campbell
 A. Smith,Topp
 A. Smith,Thomas
+A. Smith,Anderson
 A. Smith,Israel Campbell
 A. Smith,William H. Harris
 A. Smith,Scobie
@@ -3255,9 +3137,7 @@ A. Smith,David Jenkins
 A. Smith,G. Beeman
 A. Smith,William Lambert
 A. Smith,M R Delaney
-A. Smith,Stephen Myers
 A. Smith,J. T. Fisher
-A. Smith,James T. Taylor
 A. Smith,J. Theodore Holly
 H. Brent,A. Anderson
 H. Brent,H.F. Stanton
@@ -3272,8 +3152,6 @@ H. Brent,James Baker
 H. Brent,William H. Topp
 H. Brent,John Scoble
 H. Brent,Henry Grey
-H. Brent,Anderson
-H. Brent,M.R. Delaney
 H. Brent,Isaiah Clifford
 H. Brent,J.P. Campbell
 H. Brent,George Carey
@@ -3292,7 +3170,7 @@ H. Brent,Messrs Bibb
 H. Brent,Jt Fisher
 H. Brent,Wh Topp
 H. Brent,J Lyles
-H. Brent,Russel
+H. Brent,F Russel
 H. Brent,H K Thomas
 H. Brent,Baker
 H. Brent,Hollins
@@ -3302,6 +3180,7 @@ H. Brent,Harris
 H. Brent,Jp Campbell
 H. Brent,Topp
 H. Brent,Thomas
+H. Brent,Anderson
 H. Brent,Israel Campbell
 H. Brent,William H. Harris
 H. Brent,Scobie
@@ -3316,9 +3195,7 @@ H. Brent,David Jenkins
 H. Brent,G. Beeman
 H. Brent,William Lambert
 H. Brent,M R Delaney
-H. Brent,Stephen Myers
 H. Brent,J. T. Fisher
-H. Brent,James T. Taylor
 H. Brent,J. Theodore Holly
 A. Anderson,H.F. Stanton
 A. Anderson,Hamilton
@@ -3332,8 +3209,6 @@ A. Anderson,James Baker
 A. Anderson,William H. Topp
 A. Anderson,John Scoble
 A. Anderson,Henry Grey
-A. Anderson,Anderson
-A. Anderson,M.R. Delaney
 A. Anderson,Isaiah Clifford
 A. Anderson,J.P. Campbell
 A. Anderson,George Carey
@@ -3352,7 +3227,7 @@ A. Anderson,Messrs Bibb
 A. Anderson,Jt Fisher
 A. Anderson,Wh Topp
 A. Anderson,J Lyles
-A. Anderson,Russel
+A. Anderson,F Russel
 A. Anderson,H K Thomas
 A. Anderson,Baker
 A. Anderson,Hollins
@@ -3362,6 +3237,7 @@ A. Anderson,Harris
 A. Anderson,Jp Campbell
 A. Anderson,Topp
 A. Anderson,Thomas
+A. Anderson,Anderson
 A. Anderson,Israel Campbell
 A. Anderson,William H. Harris
 A. Anderson,Scobie
@@ -3376,9 +3252,7 @@ A. Anderson,David Jenkins
 A. Anderson,G. Beeman
 A. Anderson,William Lambert
 A. Anderson,M R Delaney
-A. Anderson,Stephen Myers
 A. Anderson,J. T. Fisher
-A. Anderson,James T. Taylor
 A. Anderson,J. Theodore Holly
 H.F. Stanton,Hamilton
 H.F. Stanton,F. Russel
@@ -3391,8 +3265,6 @@ H.F. Stanton,James Baker
 H.F. Stanton,William H. Topp
 H.F. Stanton,John Scoble
 H.F. Stanton,Henry Grey
-H.F. Stanton,Anderson
-H.F. Stanton,M.R. Delaney
 H.F. Stanton,Isaiah Clifford
 H.F. Stanton,J.P. Campbell
 H.F. Stanton,George Carey
@@ -3411,7 +3283,7 @@ H.F. Stanton,Messrs Bibb
 H.F. Stanton,Jt Fisher
 H.F. Stanton,Wh Topp
 H.F. Stanton,J Lyles
-H.F. Stanton,Russel
+H.F. Stanton,F Russel
 H.F. Stanton,H K Thomas
 H.F. Stanton,Baker
 H.F. Stanton,Hollins
@@ -3421,6 +3293,7 @@ H.F. Stanton,Harris
 H.F. Stanton,Jp Campbell
 H.F. Stanton,Topp
 H.F. Stanton,Thomas
+H.F. Stanton,Anderson
 H.F. Stanton,Israel Campbell
 H.F. Stanton,William H. Harris
 H.F. Stanton,Scobie
@@ -3435,9 +3308,7 @@ H.F. Stanton,David Jenkins
 H.F. Stanton,G. Beeman
 H.F. Stanton,William Lambert
 H.F. Stanton,M R Delaney
-H.F. Stanton,Stephen Myers
 H.F. Stanton,J. T. Fisher
-H.F. Stanton,James T. Taylor
 H.F. Stanton,J. Theodore Holly
 Hamilton,F. Russel
 Hamilton,J. Burns
@@ -3449,8 +3320,6 @@ Hamilton,James Baker
 Hamilton,William H. Topp
 Hamilton,John Scoble
 Hamilton,Henry Grey
-Hamilton,Anderson
-Hamilton,M.R. Delaney
 Hamilton,Isaiah Clifford
 Hamilton,J.P. Campbell
 Hamilton,George Carey
@@ -3469,7 +3338,7 @@ Hamilton,Messrs Bibb
 Hamilton,Jt Fisher
 Hamilton,Wh Topp
 Hamilton,J Lyles
-Hamilton,Russel
+Hamilton,F Russel
 Hamilton,H K Thomas
 Hamilton,Baker
 Hamilton,Hollins
@@ -3479,6 +3348,7 @@ Hamilton,Harris
 Hamilton,Jp Campbell
 Hamilton,Topp
 Hamilton,Thomas
+Hamilton,Anderson
 Hamilton,Israel Campbell
 Hamilton,William H. Harris
 Hamilton,Scobie
@@ -3493,9 +3363,7 @@ Hamilton,David Jenkins
 Hamilton,G. Beeman
 Hamilton,William Lambert
 Hamilton,M R Delaney
-Hamilton,Stephen Myers
 Hamilton,J. T. Fisher
-Hamilton,James T. Taylor
 Hamilton,J. Theodore Holly
 F. Russel,J. Burns
 F. Russel,J. Wagner
@@ -3506,8 +3374,6 @@ F. Russel,James Baker
 F. Russel,William H. Topp
 F. Russel,John Scoble
 F. Russel,Henry Grey
-F. Russel,Anderson
-F. Russel,M.R. Delaney
 F. Russel,Isaiah Clifford
 F. Russel,J.P. Campbell
 F. Russel,George Carey
@@ -3526,7 +3392,7 @@ F. Russel,Messrs Bibb
 F. Russel,Jt Fisher
 F. Russel,Wh Topp
 F. Russel,J Lyles
-F. Russel,Russel
+F. Russel,F Russel
 F. Russel,H K Thomas
 F. Russel,Baker
 F. Russel,Hollins
@@ -3536,6 +3402,7 @@ F. Russel,Harris
 F. Russel,Jp Campbell
 F. Russel,Topp
 F. Russel,Thomas
+F. Russel,Anderson
 F. Russel,Israel Campbell
 F. Russel,William H. Harris
 F. Russel,Scobie
@@ -3550,9 +3417,7 @@ F. Russel,David Jenkins
 F. Russel,G. Beeman
 F. Russel,William Lambert
 F. Russel,M R Delaney
-F. Russel,Stephen Myers
 F. Russel,J. T. Fisher
-F. Russel,James T. Taylor
 F. Russel,J. Theodore Holly
 J. Burns,J. Wagner
 J. Burns,F. Degroat
@@ -3562,8 +3427,6 @@ J. Burns,James Baker
 J. Burns,William H. Topp
 J. Burns,John Scoble
 J. Burns,Henry Grey
-J. Burns,Anderson
-J. Burns,M.R. Delaney
 J. Burns,Isaiah Clifford
 J. Burns,J.P. Campbell
 J. Burns,George Carey
@@ -3582,7 +3445,7 @@ J. Burns,Messrs Bibb
 J. Burns,Jt Fisher
 J. Burns,Wh Topp
 J. Burns,J Lyles
-J. Burns,Russel
+J. Burns,F Russel
 J. Burns,H K Thomas
 J. Burns,Baker
 J. Burns,Hollins
@@ -3592,6 +3455,7 @@ J. Burns,Harris
 J. Burns,Jp Campbell
 J. Burns,Topp
 J. Burns,Thomas
+J. Burns,Anderson
 J. Burns,Israel Campbell
 J. Burns,William H. Harris
 J. Burns,Scobie
@@ -3606,9 +3470,7 @@ J. Burns,David Jenkins
 J. Burns,G. Beeman
 J. Burns,William Lambert
 J. Burns,M R Delaney
-J. Burns,Stephen Myers
 J. Burns,J. T. Fisher
-J. Burns,James T. Taylor
 J. Burns,J. Theodore Holly
 J. Wagner,F. Degroat
 J. Wagner,J.C. Brown
@@ -3617,8 +3479,6 @@ J. Wagner,James Baker
 J. Wagner,William H. Topp
 J. Wagner,John Scoble
 J. Wagner,Henry Grey
-J. Wagner,Anderson
-J. Wagner,M.R. Delaney
 J. Wagner,Isaiah Clifford
 J. Wagner,J.P. Campbell
 J. Wagner,George Carey
@@ -3637,7 +3497,7 @@ J. Wagner,Messrs Bibb
 J. Wagner,Jt Fisher
 J. Wagner,Wh Topp
 J. Wagner,J Lyles
-J. Wagner,Russel
+J. Wagner,F Russel
 J. Wagner,H K Thomas
 J. Wagner,Baker
 J. Wagner,Hollins
@@ -3647,6 +3507,7 @@ J. Wagner,Harris
 J. Wagner,Jp Campbell
 J. Wagner,Topp
 J. Wagner,Thomas
+J. Wagner,Anderson
 J. Wagner,Israel Campbell
 J. Wagner,William H. Harris
 J. Wagner,Scobie
@@ -3661,9 +3522,7 @@ J. Wagner,David Jenkins
 J. Wagner,G. Beeman
 J. Wagner,William Lambert
 J. Wagner,M R Delaney
-J. Wagner,Stephen Myers
 J. Wagner,J. T. Fisher
-J. Wagner,James T. Taylor
 J. Wagner,J. Theodore Holly
 F. Degroat,J.C. Brown
 F. Degroat,J. Lisle
@@ -3671,8 +3530,6 @@ F. Degroat,James Baker
 F. Degroat,William H. Topp
 F. Degroat,John Scoble
 F. Degroat,Henry Grey
-F. Degroat,Anderson
-F. Degroat,M.R. Delaney
 F. Degroat,Isaiah Clifford
 F. Degroat,J.P. Campbell
 F. Degroat,George Carey
@@ -3691,7 +3548,7 @@ F. Degroat,Messrs Bibb
 F. Degroat,Jt Fisher
 F. Degroat,Wh Topp
 F. Degroat,J Lyles
-F. Degroat,Russel
+F. Degroat,F Russel
 F. Degroat,H K Thomas
 F. Degroat,Baker
 F. Degroat,Hollins
@@ -3701,6 +3558,7 @@ F. Degroat,Harris
 F. Degroat,Jp Campbell
 F. Degroat,Topp
 F. Degroat,Thomas
+F. Degroat,Anderson
 F. Degroat,Israel Campbell
 F. Degroat,William H. Harris
 F. Degroat,Scobie
@@ -3715,17 +3573,13 @@ F. Degroat,David Jenkins
 F. Degroat,G. Beeman
 F. Degroat,William Lambert
 F. Degroat,M R Delaney
-F. Degroat,Stephen Myers
 F. Degroat,J. T. Fisher
-F. Degroat,James T. Taylor
 F. Degroat,J. Theodore Holly
 J.C. Brown,J. Lisle
 J.C. Brown,James Baker
 J.C. Brown,William H. Topp
 J.C. Brown,John Scoble
 J.C. Brown,Henry Grey
-J.C. Brown,Anderson
-J.C. Brown,M.R. Delaney
 J.C. Brown,Isaiah Clifford
 J.C. Brown,J.P. Campbell
 J.C. Brown,George Carey
@@ -3744,7 +3598,7 @@ J.C. Brown,Messrs Bibb
 J.C. Brown,Jt Fisher
 J.C. Brown,Wh Topp
 J.C. Brown,J Lyles
-J.C. Brown,Russel
+J.C. Brown,F Russel
 J.C. Brown,H K Thomas
 J.C. Brown,Baker
 J.C. Brown,Hollins
@@ -3754,6 +3608,7 @@ J.C. Brown,Harris
 J.C. Brown,Jp Campbell
 J.C. Brown,Topp
 J.C. Brown,Thomas
+J.C. Brown,Anderson
 J.C. Brown,Israel Campbell
 J.C. Brown,William H. Harris
 J.C. Brown,Scobie
@@ -3768,16 +3623,12 @@ J.C. Brown,David Jenkins
 J.C. Brown,G. Beeman
 J.C. Brown,William Lambert
 J.C. Brown,M R Delaney
-J.C. Brown,Stephen Myers
 J.C. Brown,J. T. Fisher
-J.C. Brown,James T. Taylor
 J.C. Brown,J. Theodore Holly
 J. Lisle,James Baker
 J. Lisle,William H. Topp
 J. Lisle,John Scoble
 J. Lisle,Henry Grey
-J. Lisle,Anderson
-J. Lisle,M.R. Delaney
 J. Lisle,Isaiah Clifford
 J. Lisle,J.P. Campbell
 J. Lisle,George Carey
@@ -3796,7 +3647,7 @@ J. Lisle,Messrs Bibb
 J. Lisle,Jt Fisher
 J. Lisle,Wh Topp
 J. Lisle,J Lyles
-J. Lisle,Russel
+J. Lisle,F Russel
 J. Lisle,H K Thomas
 J. Lisle,Baker
 J. Lisle,Hollins
@@ -3806,6 +3657,7 @@ J. Lisle,Harris
 J. Lisle,Jp Campbell
 J. Lisle,Topp
 J. Lisle,Thomas
+J. Lisle,Anderson
 J. Lisle,Israel Campbell
 J. Lisle,William H. Harris
 J. Lisle,Scobie
@@ -3820,15 +3672,11 @@ J. Lisle,David Jenkins
 J. Lisle,G. Beeman
 J. Lisle,William Lambert
 J. Lisle,M R Delaney
-J. Lisle,Stephen Myers
 J. Lisle,J. T. Fisher
-J. Lisle,James T. Taylor
 J. Lisle,J. Theodore Holly
 James Baker,William H. Topp
 James Baker,John Scoble
 James Baker,Henry Grey
-James Baker,Anderson
-James Baker,M.R. Delaney
 James Baker,Isaiah Clifford
 James Baker,J.P. Campbell
 James Baker,George Carey
@@ -3847,7 +3695,7 @@ James Baker,Messrs Bibb
 James Baker,Jt Fisher
 James Baker,Wh Topp
 James Baker,J Lyles
-James Baker,Russel
+James Baker,F Russel
 James Baker,H K Thomas
 James Baker,Baker
 James Baker,Hollins
@@ -3857,6 +3705,7 @@ James Baker,Harris
 James Baker,Jp Campbell
 James Baker,Topp
 James Baker,Thomas
+James Baker,Anderson
 James Baker,Israel Campbell
 James Baker,William H. Harris
 James Baker,Scobie
@@ -3871,14 +3720,10 @@ James Baker,David Jenkins
 James Baker,G. Beeman
 James Baker,William Lambert
 James Baker,M R Delaney
-James Baker,Stephen Myers
 James Baker,J. T. Fisher
-James Baker,James T. Taylor
 James Baker,J. Theodore Holly
 William H. Topp,John Scoble
 William H. Topp,Henry Grey
-William H. Topp,Anderson
-William H. Topp,M.R. Delaney
 William H. Topp,Isaiah Clifford
 William H. Topp,J.P. Campbell
 William H. Topp,George Carey
@@ -3897,7 +3742,7 @@ William H. Topp,Messrs Bibb
 William H. Topp,Jt Fisher
 William H. Topp,Wh Topp
 William H. Topp,J Lyles
-William H. Topp,Russel
+William H. Topp,F Russel
 William H. Topp,H K Thomas
 William H. Topp,Baker
 William H. Topp,Hollins
@@ -3907,6 +3752,7 @@ William H. Topp,Harris
 William H. Topp,Jp Campbell
 William H. Topp,Topp
 William H. Topp,Thomas
+William H. Topp,Anderson
 William H. Topp,Israel Campbell
 William H. Topp,William H. Harris
 William H. Topp,Scobie
@@ -3921,13 +3767,9 @@ William H. Topp,David Jenkins
 William H. Topp,G. Beeman
 William H. Topp,William Lambert
 William H. Topp,M R Delaney
-William H. Topp,Stephen Myers
 William H. Topp,J. T. Fisher
-William H. Topp,James T. Taylor
 William H. Topp,J. Theodore Holly
 John Scoble,Henry Grey
-John Scoble,Anderson
-John Scoble,M.R. Delaney
 John Scoble,Isaiah Clifford
 John Scoble,J.P. Campbell
 John Scoble,George Carey
@@ -3946,7 +3788,7 @@ John Scoble,Messrs Bibb
 John Scoble,Jt Fisher
 John Scoble,Wh Topp
 John Scoble,J Lyles
-John Scoble,Russel
+John Scoble,F Russel
 John Scoble,H K Thomas
 John Scoble,Baker
 John Scoble,Hollins
@@ -3956,6 +3798,7 @@ John Scoble,Harris
 John Scoble,Jp Campbell
 John Scoble,Topp
 John Scoble,Thomas
+John Scoble,Anderson
 John Scoble,Israel Campbell
 John Scoble,William H. Harris
 John Scoble,Scobie
@@ -3970,12 +3813,8 @@ John Scoble,David Jenkins
 John Scoble,G. Beeman
 John Scoble,William Lambert
 John Scoble,M R Delaney
-John Scoble,Stephen Myers
 John Scoble,J. T. Fisher
-John Scoble,James T. Taylor
 John Scoble,J. Theodore Holly
-Henry Grey,Anderson
-Henry Grey,M.R. Delaney
 Henry Grey,Isaiah Clifford
 Henry Grey,J.P. Campbell
 Henry Grey,George Carey
@@ -3994,7 +3833,7 @@ Henry Grey,Messrs Bibb
 Henry Grey,Jt Fisher
 Henry Grey,Wh Topp
 Henry Grey,J Lyles
-Henry Grey,Russel
+Henry Grey,F Russel
 Henry Grey,H K Thomas
 Henry Grey,Baker
 Henry Grey,Hollins
@@ -4004,6 +3843,7 @@ Henry Grey,Harris
 Henry Grey,Jp Campbell
 Henry Grey,Topp
 Henry Grey,Thomas
+Henry Grey,Anderson
 Henry Grey,Israel Campbell
 Henry Grey,William H. Harris
 Henry Grey,Scobie
@@ -4018,103 +3858,8 @@ Henry Grey,David Jenkins
 Henry Grey,G. Beeman
 Henry Grey,William Lambert
 Henry Grey,M R Delaney
-Henry Grey,Stephen Myers
 Henry Grey,J. T. Fisher
-Henry Grey,James T. Taylor
 Henry Grey,J. Theodore Holly
-Anderson,M.R. Delaney
-Anderson,Isaiah Clifford
-Anderson,J.P. Campbell
-Anderson,George Carey
-Anderson,T. Smallwood
-Anderson,J.J. Carey
-Anderson,Scoble
-Anderson,Campbell
-Anderson,J.C. Browns
-Anderson,J. C. Brown
-Anderson,Delaney
-Anderson,Wm H Topp
-Anderson,Henry F Stanton
-Anderson,Payton Harris
-Anderson,J P Campbell
-Anderson,Messrs Bibb
-Anderson,Jt Fisher
-Anderson,Wh Topp
-Anderson,J Lyles
-Anderson,Russel
-Anderson,H K Thomas
-Anderson,Baker
-Anderson,Hollins
-Anderson,J Lisle
-Anderson,J D Tinsley
-Anderson,Harris
-Anderson,Jp Campbell
-Anderson,Topp
-Anderson,Thomas
-Anderson,Israel Campbell
-Anderson,William H. Harris
-Anderson,Scobie
-Anderson,H. Henson
-Anderson,Bibb
-Anderson,J T Fisher
-Anderson,Fisher
-Anderson,Sandwich
-Anderson,Samuel R Ward
-Anderson,Shadd
-Anderson,David Jenkins
-Anderson,G. Beeman
-Anderson,William Lambert
-Anderson,M R Delaney
-Anderson,Stephen Myers
-Anderson,J. T. Fisher
-Anderson,James T. Taylor
-Anderson,J. Theodore Holly
-M.R. Delaney,Isaiah Clifford
-M.R. Delaney,J.P. Campbell
-M.R. Delaney,George Carey
-M.R. Delaney,T. Smallwood
-M.R. Delaney,J.J. Carey
-M.R. Delaney,Scoble
-M.R. Delaney,Campbell
-M.R. Delaney,J.C. Browns
-M.R. Delaney,J. C. Brown
-M.R. Delaney,Delaney
-M.R. Delaney,Wm H Topp
-M.R. Delaney,Henry F Stanton
-M.R. Delaney,Payton Harris
-M.R. Delaney,J P Campbell
-M.R. Delaney,Messrs Bibb
-M.R. Delaney,Jt Fisher
-M.R. Delaney,Wh Topp
-M.R. Delaney,J Lyles
-M.R. Delaney,Russel
-M.R. Delaney,H K Thomas
-M.R. Delaney,Baker
-M.R. Delaney,Hollins
-M.R. Delaney,J Lisle
-M.R. Delaney,J D Tinsley
-M.R. Delaney,Harris
-M.R. Delaney,Jp Campbell
-M.R. Delaney,Topp
-M.R. Delaney,Thomas
-M.R. Delaney,Israel Campbell
-M.R. Delaney,William H. Harris
-M.R. Delaney,Scobie
-M.R. Delaney,H. Henson
-M.R. Delaney,Bibb
-M.R. Delaney,J T Fisher
-M.R. Delaney,Fisher
-M.R. Delaney,Sandwich
-M.R. Delaney,Samuel R Ward
-M.R. Delaney,Shadd
-M.R. Delaney,David Jenkins
-M.R. Delaney,G. Beeman
-M.R. Delaney,William Lambert
-M.R. Delaney,M R Delaney
-M.R. Delaney,Stephen Myers
-M.R. Delaney,J. T. Fisher
-M.R. Delaney,James T. Taylor
-M.R. Delaney,J. Theodore Holly
 Isaiah Clifford,J.P. Campbell
 Isaiah Clifford,George Carey
 Isaiah Clifford,T. Smallwood
@@ -4132,7 +3877,7 @@ Isaiah Clifford,Messrs Bibb
 Isaiah Clifford,Jt Fisher
 Isaiah Clifford,Wh Topp
 Isaiah Clifford,J Lyles
-Isaiah Clifford,Russel
+Isaiah Clifford,F Russel
 Isaiah Clifford,H K Thomas
 Isaiah Clifford,Baker
 Isaiah Clifford,Hollins
@@ -4142,6 +3887,7 @@ Isaiah Clifford,Harris
 Isaiah Clifford,Jp Campbell
 Isaiah Clifford,Topp
 Isaiah Clifford,Thomas
+Isaiah Clifford,Anderson
 Isaiah Clifford,Israel Campbell
 Isaiah Clifford,William H. Harris
 Isaiah Clifford,Scobie
@@ -4156,9 +3902,7 @@ Isaiah Clifford,David Jenkins
 Isaiah Clifford,G. Beeman
 Isaiah Clifford,William Lambert
 Isaiah Clifford,M R Delaney
-Isaiah Clifford,Stephen Myers
 Isaiah Clifford,J. T. Fisher
-Isaiah Clifford,James T. Taylor
 Isaiah Clifford,J. Theodore Holly
 J.P. Campbell,George Carey
 J.P. Campbell,T. Smallwood
@@ -4176,7 +3920,7 @@ J.P. Campbell,Messrs Bibb
 J.P. Campbell,Jt Fisher
 J.P. Campbell,Wh Topp
 J.P. Campbell,J Lyles
-J.P. Campbell,Russel
+J.P. Campbell,F Russel
 J.P. Campbell,H K Thomas
 J.P. Campbell,Baker
 J.P. Campbell,Hollins
@@ -4186,6 +3930,7 @@ J.P. Campbell,Harris
 J.P. Campbell,Jp Campbell
 J.P. Campbell,Topp
 J.P. Campbell,Thomas
+J.P. Campbell,Anderson
 J.P. Campbell,Israel Campbell
 J.P. Campbell,William H. Harris
 J.P. Campbell,Scobie
@@ -4200,9 +3945,7 @@ J.P. Campbell,David Jenkins
 J.P. Campbell,G. Beeman
 J.P. Campbell,William Lambert
 J.P. Campbell,M R Delaney
-J.P. Campbell,Stephen Myers
 J.P. Campbell,J. T. Fisher
-J.P. Campbell,James T. Taylor
 J.P. Campbell,J. Theodore Holly
 George Carey,T. Smallwood
 George Carey,J.J. Carey
@@ -4219,7 +3962,7 @@ George Carey,Messrs Bibb
 George Carey,Jt Fisher
 George Carey,Wh Topp
 George Carey,J Lyles
-George Carey,Russel
+George Carey,F Russel
 George Carey,H K Thomas
 George Carey,Baker
 George Carey,Hollins
@@ -4229,6 +3972,7 @@ George Carey,Harris
 George Carey,Jp Campbell
 George Carey,Topp
 George Carey,Thomas
+George Carey,Anderson
 George Carey,Israel Campbell
 George Carey,William H. Harris
 George Carey,Scobie
@@ -4243,9 +3987,7 @@ George Carey,David Jenkins
 George Carey,G. Beeman
 George Carey,William Lambert
 George Carey,M R Delaney
-George Carey,Stephen Myers
 George Carey,J. T. Fisher
-George Carey,James T. Taylor
 George Carey,J. Theodore Holly
 T. Smallwood,J.J. Carey
 T. Smallwood,Scoble
@@ -4261,7 +4003,7 @@ T. Smallwood,Messrs Bibb
 T. Smallwood,Jt Fisher
 T. Smallwood,Wh Topp
 T. Smallwood,J Lyles
-T. Smallwood,Russel
+T. Smallwood,F Russel
 T. Smallwood,H K Thomas
 T. Smallwood,Baker
 T. Smallwood,Hollins
@@ -4271,6 +4013,7 @@ T. Smallwood,Harris
 T. Smallwood,Jp Campbell
 T. Smallwood,Topp
 T. Smallwood,Thomas
+T. Smallwood,Anderson
 T. Smallwood,Israel Campbell
 T. Smallwood,William H. Harris
 T. Smallwood,Scobie
@@ -4285,9 +4028,7 @@ T. Smallwood,David Jenkins
 T. Smallwood,G. Beeman
 T. Smallwood,William Lambert
 T. Smallwood,M R Delaney
-T. Smallwood,Stephen Myers
 T. Smallwood,J. T. Fisher
-T. Smallwood,James T. Taylor
 T. Smallwood,J. Theodore Holly
 J.J. Carey,Scoble
 J.J. Carey,Campbell
@@ -4302,7 +4043,7 @@ J.J. Carey,Messrs Bibb
 J.J. Carey,Jt Fisher
 J.J. Carey,Wh Topp
 J.J. Carey,J Lyles
-J.J. Carey,Russel
+J.J. Carey,F Russel
 J.J. Carey,H K Thomas
 J.J. Carey,Baker
 J.J. Carey,Hollins
@@ -4312,6 +4053,7 @@ J.J. Carey,Harris
 J.J. Carey,Jp Campbell
 J.J. Carey,Topp
 J.J. Carey,Thomas
+J.J. Carey,Anderson
 J.J. Carey,Israel Campbell
 J.J. Carey,William H. Harris
 J.J. Carey,Scobie
@@ -4326,9 +4068,7 @@ J.J. Carey,David Jenkins
 J.J. Carey,G. Beeman
 J.J. Carey,William Lambert
 J.J. Carey,M R Delaney
-J.J. Carey,Stephen Myers
 J.J. Carey,J. T. Fisher
-J.J. Carey,James T. Taylor
 J.J. Carey,J. Theodore Holly
 Scoble,Campbell
 Scoble,J.C. Browns
@@ -4342,7 +4082,7 @@ Scoble,Messrs Bibb
 Scoble,Jt Fisher
 Scoble,Wh Topp
 Scoble,J Lyles
-Scoble,Russel
+Scoble,F Russel
 Scoble,H K Thomas
 Scoble,Baker
 Scoble,Hollins
@@ -4352,6 +4092,7 @@ Scoble,Harris
 Scoble,Jp Campbell
 Scoble,Topp
 Scoble,Thomas
+Scoble,Anderson
 Scoble,Israel Campbell
 Scoble,William H. Harris
 Scoble,Scobie
@@ -4366,9 +4107,7 @@ Scoble,David Jenkins
 Scoble,G. Beeman
 Scoble,William Lambert
 Scoble,M R Delaney
-Scoble,Stephen Myers
 Scoble,J. T. Fisher
-Scoble,James T. Taylor
 Scoble,J. Theodore Holly
 Campbell,J.C. Browns
 Campbell,J. C. Brown
@@ -4381,7 +4120,7 @@ Campbell,Messrs Bibb
 Campbell,Jt Fisher
 Campbell,Wh Topp
 Campbell,J Lyles
-Campbell,Russel
+Campbell,F Russel
 Campbell,H K Thomas
 Campbell,Baker
 Campbell,Hollins
@@ -4391,6 +4130,7 @@ Campbell,Harris
 Campbell,Jp Campbell
 Campbell,Topp
 Campbell,Thomas
+Campbell,Anderson
 Campbell,Israel Campbell
 Campbell,William H. Harris
 Campbell,Scobie
@@ -4405,9 +4145,7 @@ Campbell,David Jenkins
 Campbell,G. Beeman
 Campbell,William Lambert
 Campbell,M R Delaney
-Campbell,Stephen Myers
 Campbell,J. T. Fisher
-Campbell,James T. Taylor
 Campbell,J. Theodore Holly
 J.C. Browns,J. C. Brown
 J.C. Browns,Delaney
@@ -4419,7 +4157,7 @@ J.C. Browns,Messrs Bibb
 J.C. Browns,Jt Fisher
 J.C. Browns,Wh Topp
 J.C. Browns,J Lyles
-J.C. Browns,Russel
+J.C. Browns,F Russel
 J.C. Browns,H K Thomas
 J.C. Browns,Baker
 J.C. Browns,Hollins
@@ -4429,6 +4167,7 @@ J.C. Browns,Harris
 J.C. Browns,Jp Campbell
 J.C. Browns,Topp
 J.C. Browns,Thomas
+J.C. Browns,Anderson
 J.C. Browns,Israel Campbell
 J.C. Browns,William H. Harris
 J.C. Browns,Scobie
@@ -4443,9 +4182,7 @@ J.C. Browns,David Jenkins
 J.C. Browns,G. Beeman
 J.C. Browns,William Lambert
 J.C. Browns,M R Delaney
-J.C. Browns,Stephen Myers
 J.C. Browns,J. T. Fisher
-J.C. Browns,James T. Taylor
 J.C. Browns,J. Theodore Holly
 J. C. Brown,Delaney
 J. C. Brown,Wm H Topp
@@ -4456,7 +4193,7 @@ J. C. Brown,Messrs Bibb
 J. C. Brown,Jt Fisher
 J. C. Brown,Wh Topp
 J. C. Brown,J Lyles
-J. C. Brown,Russel
+J. C. Brown,F Russel
 J. C. Brown,H K Thomas
 J. C. Brown,Baker
 J. C. Brown,Hollins
@@ -4466,6 +4203,7 @@ J. C. Brown,Harris
 J. C. Brown,Jp Campbell
 J. C. Brown,Topp
 J. C. Brown,Thomas
+J. C. Brown,Anderson
 J. C. Brown,Israel Campbell
 J. C. Brown,William H. Harris
 J. C. Brown,Scobie
@@ -4480,9 +4218,7 @@ J. C. Brown,David Jenkins
 J. C. Brown,G. Beeman
 J. C. Brown,William Lambert
 J. C. Brown,M R Delaney
-J. C. Brown,Stephen Myers
 J. C. Brown,J. T. Fisher
-J. C. Brown,James T. Taylor
 J. C. Brown,J. Theodore Holly
 Delaney,Wm H Topp
 Delaney,Henry F Stanton
@@ -4492,7 +4228,7 @@ Delaney,Messrs Bibb
 Delaney,Jt Fisher
 Delaney,Wh Topp
 Delaney,J Lyles
-Delaney,Russel
+Delaney,F Russel
 Delaney,H K Thomas
 Delaney,Baker
 Delaney,Hollins
@@ -4502,6 +4238,7 @@ Delaney,Harris
 Delaney,Jp Campbell
 Delaney,Topp
 Delaney,Thomas
+Delaney,Anderson
 Delaney,Israel Campbell
 Delaney,William H. Harris
 Delaney,Scobie
@@ -4516,9 +4253,7 @@ Delaney,David Jenkins
 Delaney,G. Beeman
 Delaney,William Lambert
 Delaney,M R Delaney
-Delaney,Stephen Myers
 Delaney,J. T. Fisher
-Delaney,James T. Taylor
 Delaney,J. Theodore Holly
 Wm H Topp,Henry F Stanton
 Wm H Topp,Payton Harris
@@ -4527,7 +4262,7 @@ Wm H Topp,Messrs Bibb
 Wm H Topp,Jt Fisher
 Wm H Topp,Wh Topp
 Wm H Topp,J Lyles
-Wm H Topp,Russel
+Wm H Topp,F Russel
 Wm H Topp,H K Thomas
 Wm H Topp,Baker
 Wm H Topp,Hollins
@@ -4537,6 +4272,7 @@ Wm H Topp,Harris
 Wm H Topp,Jp Campbell
 Wm H Topp,Topp
 Wm H Topp,Thomas
+Wm H Topp,Anderson
 Wm H Topp,Israel Campbell
 Wm H Topp,William H. Harris
 Wm H Topp,Scobie
@@ -4551,9 +4287,7 @@ Wm H Topp,David Jenkins
 Wm H Topp,G. Beeman
 Wm H Topp,William Lambert
 Wm H Topp,M R Delaney
-Wm H Topp,Stephen Myers
 Wm H Topp,J. T. Fisher
-Wm H Topp,James T. Taylor
 Wm H Topp,J. Theodore Holly
 Henry F Stanton,Payton Harris
 Henry F Stanton,J P Campbell
@@ -4561,7 +4295,7 @@ Henry F Stanton,Messrs Bibb
 Henry F Stanton,Jt Fisher
 Henry F Stanton,Wh Topp
 Henry F Stanton,J Lyles
-Henry F Stanton,Russel
+Henry F Stanton,F Russel
 Henry F Stanton,H K Thomas
 Henry F Stanton,Baker
 Henry F Stanton,Hollins
@@ -4571,6 +4305,7 @@ Henry F Stanton,Harris
 Henry F Stanton,Jp Campbell
 Henry F Stanton,Topp
 Henry F Stanton,Thomas
+Henry F Stanton,Anderson
 Henry F Stanton,Israel Campbell
 Henry F Stanton,William H. Harris
 Henry F Stanton,Scobie
@@ -4585,16 +4320,14 @@ Henry F Stanton,David Jenkins
 Henry F Stanton,G. Beeman
 Henry F Stanton,William Lambert
 Henry F Stanton,M R Delaney
-Henry F Stanton,Stephen Myers
 Henry F Stanton,J. T. Fisher
-Henry F Stanton,James T. Taylor
 Henry F Stanton,J. Theodore Holly
 Payton Harris,J P Campbell
 Payton Harris,Messrs Bibb
 Payton Harris,Jt Fisher
 Payton Harris,Wh Topp
 Payton Harris,J Lyles
-Payton Harris,Russel
+Payton Harris,F Russel
 Payton Harris,H K Thomas
 Payton Harris,Baker
 Payton Harris,Hollins
@@ -4604,6 +4337,7 @@ Payton Harris,Harris
 Payton Harris,Jp Campbell
 Payton Harris,Topp
 Payton Harris,Thomas
+Payton Harris,Anderson
 Payton Harris,Israel Campbell
 Payton Harris,William H. Harris
 Payton Harris,Scobie
@@ -4618,15 +4352,13 @@ Payton Harris,David Jenkins
 Payton Harris,G. Beeman
 Payton Harris,William Lambert
 Payton Harris,M R Delaney
-Payton Harris,Stephen Myers
 Payton Harris,J. T. Fisher
-Payton Harris,James T. Taylor
 Payton Harris,J. Theodore Holly
 J P Campbell,Messrs Bibb
 J P Campbell,Jt Fisher
 J P Campbell,Wh Topp
 J P Campbell,J Lyles
-J P Campbell,Russel
+J P Campbell,F Russel
 J P Campbell,H K Thomas
 J P Campbell,Baker
 J P Campbell,Hollins
@@ -4636,6 +4368,7 @@ J P Campbell,Harris
 J P Campbell,Jp Campbell
 J P Campbell,Topp
 J P Campbell,Thomas
+J P Campbell,Anderson
 J P Campbell,Israel Campbell
 J P Campbell,William H. Harris
 J P Campbell,Scobie
@@ -4650,14 +4383,12 @@ J P Campbell,David Jenkins
 J P Campbell,G. Beeman
 J P Campbell,William Lambert
 J P Campbell,M R Delaney
-J P Campbell,Stephen Myers
 J P Campbell,J. T. Fisher
-J P Campbell,James T. Taylor
 J P Campbell,J. Theodore Holly
 Messrs Bibb,Jt Fisher
 Messrs Bibb,Wh Topp
 Messrs Bibb,J Lyles
-Messrs Bibb,Russel
+Messrs Bibb,F Russel
 Messrs Bibb,H K Thomas
 Messrs Bibb,Baker
 Messrs Bibb,Hollins
@@ -4667,6 +4398,7 @@ Messrs Bibb,Harris
 Messrs Bibb,Jp Campbell
 Messrs Bibb,Topp
 Messrs Bibb,Thomas
+Messrs Bibb,Anderson
 Messrs Bibb,Israel Campbell
 Messrs Bibb,William H. Harris
 Messrs Bibb,Scobie
@@ -4681,13 +4413,11 @@ Messrs Bibb,David Jenkins
 Messrs Bibb,G. Beeman
 Messrs Bibb,William Lambert
 Messrs Bibb,M R Delaney
-Messrs Bibb,Stephen Myers
 Messrs Bibb,J. T. Fisher
-Messrs Bibb,James T. Taylor
 Messrs Bibb,J. Theodore Holly
 Jt Fisher,Wh Topp
 Jt Fisher,J Lyles
-Jt Fisher,Russel
+Jt Fisher,F Russel
 Jt Fisher,H K Thomas
 Jt Fisher,Baker
 Jt Fisher,Hollins
@@ -4697,6 +4427,7 @@ Jt Fisher,Harris
 Jt Fisher,Jp Campbell
 Jt Fisher,Topp
 Jt Fisher,Thomas
+Jt Fisher,Anderson
 Jt Fisher,Israel Campbell
 Jt Fisher,William H. Harris
 Jt Fisher,Scobie
@@ -4711,12 +4442,10 @@ Jt Fisher,David Jenkins
 Jt Fisher,G. Beeman
 Jt Fisher,William Lambert
 Jt Fisher,M R Delaney
-Jt Fisher,Stephen Myers
 Jt Fisher,J. T. Fisher
-Jt Fisher,James T. Taylor
 Jt Fisher,J. Theodore Holly
 Wh Topp,J Lyles
-Wh Topp,Russel
+Wh Topp,F Russel
 Wh Topp,H K Thomas
 Wh Topp,Baker
 Wh Topp,Hollins
@@ -4726,6 +4455,7 @@ Wh Topp,Harris
 Wh Topp,Jp Campbell
 Wh Topp,Topp
 Wh Topp,Thomas
+Wh Topp,Anderson
 Wh Topp,Israel Campbell
 Wh Topp,William H. Harris
 Wh Topp,Scobie
@@ -4740,11 +4470,9 @@ Wh Topp,David Jenkins
 Wh Topp,G. Beeman
 Wh Topp,William Lambert
 Wh Topp,M R Delaney
-Wh Topp,Stephen Myers
 Wh Topp,J. T. Fisher
-Wh Topp,James T. Taylor
 Wh Topp,J. Theodore Holly
-J Lyles,Russel
+J Lyles,F Russel
 J Lyles,H K Thomas
 J Lyles,Baker
 J Lyles,Hollins
@@ -4754,6 +4482,7 @@ J Lyles,Harris
 J Lyles,Jp Campbell
 J Lyles,Topp
 J Lyles,Thomas
+J Lyles,Anderson
 J Lyles,Israel Campbell
 J Lyles,William H. Harris
 J Lyles,Scobie
@@ -4768,37 +4497,34 @@ J Lyles,David Jenkins
 J Lyles,G. Beeman
 J Lyles,William Lambert
 J Lyles,M R Delaney
-J Lyles,Stephen Myers
 J Lyles,J. T. Fisher
-J Lyles,James T. Taylor
 J Lyles,J. Theodore Holly
-Russel,H K Thomas
-Russel,Baker
-Russel,Hollins
-Russel,J Lisle
-Russel,J D Tinsley
-Russel,Harris
-Russel,Jp Campbell
-Russel,Topp
-Russel,Thomas
-Russel,Israel Campbell
-Russel,William H. Harris
-Russel,Scobie
-Russel,H. Henson
-Russel,Bibb
-Russel,J T Fisher
-Russel,Fisher
-Russel,Sandwich
-Russel,Samuel R Ward
-Russel,Shadd
-Russel,David Jenkins
-Russel,G. Beeman
-Russel,William Lambert
-Russel,M R Delaney
-Russel,Stephen Myers
-Russel,J. T. Fisher
-Russel,James T. Taylor
-Russel,J. Theodore Holly
+F Russel,H K Thomas
+F Russel,Baker
+F Russel,Hollins
+F Russel,J Lisle
+F Russel,J D Tinsley
+F Russel,Harris
+F Russel,Jp Campbell
+F Russel,Topp
+F Russel,Thomas
+F Russel,Anderson
+F Russel,Israel Campbell
+F Russel,William H. Harris
+F Russel,Scobie
+F Russel,H. Henson
+F Russel,Bibb
+F Russel,J T Fisher
+F Russel,Fisher
+F Russel,Sandwich
+F Russel,Samuel R Ward
+F Russel,Shadd
+F Russel,David Jenkins
+F Russel,G. Beeman
+F Russel,William Lambert
+F Russel,M R Delaney
+F Russel,J. T. Fisher
+F Russel,J. Theodore Holly
 H K Thomas,Baker
 H K Thomas,Hollins
 H K Thomas,J Lisle
@@ -4807,6 +4533,7 @@ H K Thomas,Harris
 H K Thomas,Jp Campbell
 H K Thomas,Topp
 H K Thomas,Thomas
+H K Thomas,Anderson
 H K Thomas,Israel Campbell
 H K Thomas,William H. Harris
 H K Thomas,Scobie
@@ -4821,9 +4548,7 @@ H K Thomas,David Jenkins
 H K Thomas,G. Beeman
 H K Thomas,William Lambert
 H K Thomas,M R Delaney
-H K Thomas,Stephen Myers
 H K Thomas,J. T. Fisher
-H K Thomas,James T. Taylor
 H K Thomas,J. Theodore Holly
 Baker,Hollins
 Baker,J Lisle
@@ -4832,6 +4557,7 @@ Baker,Harris
 Baker,Jp Campbell
 Baker,Topp
 Baker,Thomas
+Baker,Anderson
 Baker,Israel Campbell
 Baker,William H. Harris
 Baker,Scobie
@@ -4846,9 +4572,7 @@ Baker,David Jenkins
 Baker,G. Beeman
 Baker,William Lambert
 Baker,M R Delaney
-Baker,Stephen Myers
 Baker,J. T. Fisher
-Baker,James T. Taylor
 Baker,J. Theodore Holly
 Hollins,J Lisle
 Hollins,J D Tinsley
@@ -4856,6 +4580,7 @@ Hollins,Harris
 Hollins,Jp Campbell
 Hollins,Topp
 Hollins,Thomas
+Hollins,Anderson
 Hollins,Israel Campbell
 Hollins,William H. Harris
 Hollins,Scobie
@@ -4870,15 +4595,14 @@ Hollins,David Jenkins
 Hollins,G. Beeman
 Hollins,William Lambert
 Hollins,M R Delaney
-Hollins,Stephen Myers
 Hollins,J. T. Fisher
-Hollins,James T. Taylor
 Hollins,J. Theodore Holly
 J Lisle,J D Tinsley
 J Lisle,Harris
 J Lisle,Jp Campbell
 J Lisle,Topp
 J Lisle,Thomas
+J Lisle,Anderson
 J Lisle,Israel Campbell
 J Lisle,William H. Harris
 J Lisle,Scobie
@@ -4893,14 +4617,13 @@ J Lisle,David Jenkins
 J Lisle,G. Beeman
 J Lisle,William Lambert
 J Lisle,M R Delaney
-J Lisle,Stephen Myers
 J Lisle,J. T. Fisher
-J Lisle,James T. Taylor
 J Lisle,J. Theodore Holly
 J D Tinsley,Harris
 J D Tinsley,Jp Campbell
 J D Tinsley,Topp
 J D Tinsley,Thomas
+J D Tinsley,Anderson
 J D Tinsley,Israel Campbell
 J D Tinsley,William H. Harris
 J D Tinsley,Scobie
@@ -4915,13 +4638,12 @@ J D Tinsley,David Jenkins
 J D Tinsley,G. Beeman
 J D Tinsley,William Lambert
 J D Tinsley,M R Delaney
-J D Tinsley,Stephen Myers
 J D Tinsley,J. T. Fisher
-J D Tinsley,James T. Taylor
 J D Tinsley,J. Theodore Holly
 Harris,Jp Campbell
 Harris,Topp
 Harris,Thomas
+Harris,Anderson
 Harris,Israel Campbell
 Harris,William H. Harris
 Harris,Scobie
@@ -4936,12 +4658,11 @@ Harris,David Jenkins
 Harris,G. Beeman
 Harris,William Lambert
 Harris,M R Delaney
-Harris,Stephen Myers
 Harris,J. T. Fisher
-Harris,James T. Taylor
 Harris,J. Theodore Holly
 Jp Campbell,Topp
 Jp Campbell,Thomas
+Jp Campbell,Anderson
 Jp Campbell,Israel Campbell
 Jp Campbell,William H. Harris
 Jp Campbell,Scobie
@@ -4956,11 +4677,10 @@ Jp Campbell,David Jenkins
 Jp Campbell,G. Beeman
 Jp Campbell,William Lambert
 Jp Campbell,M R Delaney
-Jp Campbell,Stephen Myers
 Jp Campbell,J. T. Fisher
-Jp Campbell,James T. Taylor
 Jp Campbell,J. Theodore Holly
 Topp,Thomas
+Topp,Anderson
 Topp,Israel Campbell
 Topp,William H. Harris
 Topp,Scobie
@@ -4975,10 +4695,9 @@ Topp,David Jenkins
 Topp,G. Beeman
 Topp,William Lambert
 Topp,M R Delaney
-Topp,Stephen Myers
 Topp,J. T. Fisher
-Topp,James T. Taylor
 Topp,J. Theodore Holly
+Thomas,Anderson
 Thomas,Israel Campbell
 Thomas,William H. Harris
 Thomas,Scobie
@@ -4993,10 +4712,24 @@ Thomas,David Jenkins
 Thomas,G. Beeman
 Thomas,William Lambert
 Thomas,M R Delaney
-Thomas,Stephen Myers
 Thomas,J. T. Fisher
-Thomas,James T. Taylor
 Thomas,J. Theodore Holly
+Anderson,Israel Campbell
+Anderson,William H. Harris
+Anderson,Scobie
+Anderson,H. Henson
+Anderson,Bibb
+Anderson,J T Fisher
+Anderson,Fisher
+Anderson,Sandwich
+Anderson,Samuel R Ward
+Anderson,Shadd
+Anderson,David Jenkins
+Anderson,G. Beeman
+Anderson,William Lambert
+Anderson,M R Delaney
+Anderson,J. T. Fisher
+Anderson,J. Theodore Holly
 Israel Campbell,William H. Harris
 Israel Campbell,Scobie
 Israel Campbell,H. Henson
@@ -5010,9 +4743,7 @@ Israel Campbell,David Jenkins
 Israel Campbell,G. Beeman
 Israel Campbell,William Lambert
 Israel Campbell,M R Delaney
-Israel Campbell,Stephen Myers
 Israel Campbell,J. T. Fisher
-Israel Campbell,James T. Taylor
 Israel Campbell,J. Theodore Holly
 William H. Harris,Scobie
 William H. Harris,H. Henson
@@ -5026,9 +4757,7 @@ William H. Harris,David Jenkins
 William H. Harris,G. Beeman
 William H. Harris,William Lambert
 William H. Harris,M R Delaney
-William H. Harris,Stephen Myers
 William H. Harris,J. T. Fisher
-William H. Harris,James T. Taylor
 William H. Harris,J. Theodore Holly
 Scobie,H. Henson
 Scobie,Bibb
@@ -5041,9 +4770,7 @@ Scobie,David Jenkins
 Scobie,G. Beeman
 Scobie,William Lambert
 Scobie,M R Delaney
-Scobie,Stephen Myers
 Scobie,J. T. Fisher
-Scobie,James T. Taylor
 Scobie,J. Theodore Holly
 H. Henson,Bibb
 H. Henson,J T Fisher
@@ -5055,9 +4782,7 @@ H. Henson,David Jenkins
 H. Henson,G. Beeman
 H. Henson,William Lambert
 H. Henson,M R Delaney
-H. Henson,Stephen Myers
 H. Henson,J. T. Fisher
-H. Henson,James T. Taylor
 H. Henson,J. Theodore Holly
 Bibb,J T Fisher
 Bibb,Fisher
@@ -5068,9 +4793,7 @@ Bibb,David Jenkins
 Bibb,G. Beeman
 Bibb,William Lambert
 Bibb,M R Delaney
-Bibb,Stephen Myers
 Bibb,J. T. Fisher
-Bibb,James T. Taylor
 Bibb,J. Theodore Holly
 J T Fisher,Fisher
 J T Fisher,Sandwich
@@ -5080,9 +4803,7 @@ J T Fisher,David Jenkins
 J T Fisher,G. Beeman
 J T Fisher,William Lambert
 J T Fisher,M R Delaney
-J T Fisher,Stephen Myers
 J T Fisher,J. T. Fisher
-J T Fisher,James T. Taylor
 J T Fisher,J. Theodore Holly
 Fisher,Sandwich
 Fisher,Samuel R Ward
@@ -5091,9 +4812,7 @@ Fisher,David Jenkins
 Fisher,G. Beeman
 Fisher,William Lambert
 Fisher,M R Delaney
-Fisher,Stephen Myers
 Fisher,J. T. Fisher
-Fisher,James T. Taylor
 Fisher,J. Theodore Holly
 Sandwich,Samuel R Ward
 Sandwich,Shadd
@@ -5101,52 +4820,33 @@ Sandwich,David Jenkins
 Sandwich,G. Beeman
 Sandwich,William Lambert
 Sandwich,M R Delaney
-Sandwich,Stephen Myers
 Sandwich,J. T. Fisher
-Sandwich,James T. Taylor
 Sandwich,J. Theodore Holly
 Samuel R Ward,Shadd
 Samuel R Ward,David Jenkins
 Samuel R Ward,G. Beeman
 Samuel R Ward,William Lambert
 Samuel R Ward,M R Delaney
-Samuel R Ward,Stephen Myers
 Samuel R Ward,J. T. Fisher
-Samuel R Ward,James T. Taylor
 Samuel R Ward,J. Theodore Holly
 Shadd,David Jenkins
 Shadd,G. Beeman
 Shadd,William Lambert
 Shadd,M R Delaney
-Shadd,Stephen Myers
 Shadd,J. T. Fisher
-Shadd,James T. Taylor
 Shadd,J. Theodore Holly
 David Jenkins,G. Beeman
 David Jenkins,William Lambert
 David Jenkins,M R Delaney
-David Jenkins,Stephen Myers
 David Jenkins,J. T. Fisher
-David Jenkins,James T. Taylor
 David Jenkins,J. Theodore Holly
 G. Beeman,William Lambert
 G. Beeman,M R Delaney
-G. Beeman,Stephen Myers
 G. Beeman,J. T. Fisher
-G. Beeman,James T. Taylor
 G. Beeman,J. Theodore Holly
 William Lambert,M R Delaney
-William Lambert,Stephen Myers
 William Lambert,J. T. Fisher
-William Lambert,James T. Taylor
 William Lambert,J. Theodore Holly
-M R Delaney,Stephen Myers
 M R Delaney,J. T. Fisher
-M R Delaney,James T. Taylor
 M R Delaney,J. Theodore Holly
-Stephen Myers,J. T. Fisher
-Stephen Myers,James T. Taylor
-Stephen Myers,J. Theodore Holly
-J. T. Fisher,James T. Taylor
 J. T. Fisher,J. Theodore Holly
-James T. Taylor,J. Theodore Holly

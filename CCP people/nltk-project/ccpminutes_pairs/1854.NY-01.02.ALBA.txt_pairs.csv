@@ -1,13 +1,11 @@
-name1,name2
+source,target
 J. W. Loguen,William H. Topp
 J. W. Loguen,Messrs. Topp
 J. W. Loguen,Rich
 J. W. Loguen,Duffins
 J. W. Loguen,Wm. H. Topp
-J. W. Loguen,Syracuse
 J. W. Loguen,J. C. Morrel
 J. W. Loguen,Wm. Rice
-J. W. Loguen,Troy
 J. W. Loguen,D. K. Mcdonough
 J. W. Loguen,J. W. B. Smith
 J. W. Loguen,Messr
@@ -73,10 +71,8 @@ William H. Topp,Messrs. Topp
 William H. Topp,Rich
 William H. Topp,Duffins
 William H. Topp,Wm. H. Topp
-William H. Topp,Syracuse
 William H. Topp,J. C. Morrel
 William H. Topp,Wm. Rice
-William H. Topp,Troy
 William H. Topp,D. K. Mcdonough
 William H. Topp,J. W. B. Smith
 William H. Topp,Messr
@@ -141,10 +137,8 @@ William H. Topp,Bell
 Messrs. Topp,Rich
 Messrs. Topp,Duffins
 Messrs. Topp,Wm. H. Topp
-Messrs. Topp,Syracuse
 Messrs. Topp,J. C. Morrel
 Messrs. Topp,Wm. Rice
-Messrs. Topp,Troy
 Messrs. Topp,D. K. Mcdonough
 Messrs. Topp,J. W. B. Smith
 Messrs. Topp,Messr
@@ -208,10 +202,8 @@ Messrs. Topp,James William Charles Pennington
 Messrs. Topp,Bell
 Rich,Duffins
 Rich,Wm. H. Topp
-Rich,Syracuse
 Rich,J. C. Morrel
 Rich,Wm. Rice
-Rich,Troy
 Rich,D. K. Mcdonough
 Rich,J. W. B. Smith
 Rich,Messr
@@ -274,10 +266,8 @@ Rich,James C. Morrel
 Rich,James William Charles Pennington
 Rich,Bell
 Duffins,Wm. H. Topp
-Duffins,Syracuse
 Duffins,J. C. Morrel
 Duffins,Wm. Rice
-Duffins,Troy
 Duffins,D. K. Mcdonough
 Duffins,J. W. B. Smith
 Duffins,Messr
@@ -339,10 +329,8 @@ Duffins,Wm. Rich
 Duffins,James C. Morrel
 Duffins,James William Charles Pennington
 Duffins,Bell
-Wm. H. Topp,Syracuse
 Wm. H. Topp,J. C. Morrel
 Wm. H. Topp,Wm. Rice
-Wm. H. Topp,Troy
 Wm. H. Topp,D. K. Mcdonough
 Wm. H. Topp,J. W. B. Smith
 Wm. H. Topp,Messr
@@ -404,72 +392,7 @@ Wm. H. Topp,Wm. Rich
 Wm. H. Topp,James C. Morrel
 Wm. H. Topp,James William Charles Pennington
 Wm. H. Topp,Bell
-Syracuse,J. C. Morrel
-Syracuse,Wm. Rice
-Syracuse,Troy
-Syracuse,D. K. Mcdonough
-Syracuse,J. W. B. Smith
-Syracuse,Messr
-Syracuse,Rick
-Syracuse,Smith
-Syracuse,J.W. Loguen
-Syracuse,J. W. Duffins '' Cor
-Syracuse,Mcdonough
-Syracuse,Morrel
-Syracuse,H. Topp
-Syracuse,W. Rich
-Syracuse,J. W. Duffins
-Syracuse,J. B. Smith
-Syracuse,Duffin
-Syracuse,Wm. J. Wilson
-Syracuse,J. W Loguen
-Syracuse,George Weir
-Syracuse,Uriah Boston
-Syracuse,Lougen
-Syracuse,Loguen
-Syracuse,H. M. Wilson
-Syracuse,William J. Wilson
-Syracuse,Charles B. Ray
-Syracuse,Messrs. J. C. Morrel
-Syracuse,J. W. C. Pennington
-Syracuse,Wilson
-Syracuse,John B. Vashon
-Syracuse,Frederick Douglass
-Syracuse,William Rich
-Syracuse,Topp
-Syracuse,Lewis H. Nelson
-Syracuse,P. A. Bell
-Syracuse,E. V. Clark
-Syracuse,J. E. Brown
-Syracuse,A. B. Platt
-Syracuse,W. H. Storum
-Syracuse,James Hall
-Syracuse,Stephen Meyers
-Syracuse,W. J. Wilson
-Syracuse,J. N. Still
-Syracuse,Wm. Tyson
-Syracuse,Amos A. Freeman
-Syracuse,A. B. Slater
-Syracuse,W. W. Mathews
-Syracuse,J. H. Storum
-Syracuse,Charles Pain
-Syracuse,George Morse
-Syracuse,Meyers
-Syracuse,Morse
-Syracuse,Philip A. Bell
-Syracuse,Edward V. Clark
-Syracuse,Wm. W. Mathews
-Syracuse,Charles Paine Lansinburgh
-Syracuse,James Hall Chemung
-Syracuse,William H. Storum Canandaigua
-Syracuse,Nelson
-Syracuse,J. C. Holly
-Syracuse,Wm. Rich
-Syracuse,James C. Morrel
-Syracuse,James William Charles Pennington
-Syracuse,Bell
 J. C. Morrel,Wm. Rice
-J. C. Morrel,Troy
 J. C. Morrel,D. K. Mcdonough
 J. C. Morrel,J. W. B. Smith
 J. C. Morrel,Messr
@@ -531,7 +454,6 @@ J. C. Morrel,Wm. Rich
 J. C. Morrel,James C. Morrel
 J. C. Morrel,James William Charles Pennington
 J. C. Morrel,Bell
-Wm. Rice,Troy
 Wm. Rice,D. K. Mcdonough
 Wm. Rice,J. W. B. Smith
 Wm. Rice,Messr
@@ -593,67 +515,6 @@ Wm. Rice,Wm. Rich
 Wm. Rice,James C. Morrel
 Wm. Rice,James William Charles Pennington
 Wm. Rice,Bell
-Troy,D. K. Mcdonough
-Troy,J. W. B. Smith
-Troy,Messr
-Troy,Rick
-Troy,Smith
-Troy,J.W. Loguen
-Troy,J. W. Duffins '' Cor
-Troy,Mcdonough
-Troy,Morrel
-Troy,H. Topp
-Troy,W. Rich
-Troy,J. W. Duffins
-Troy,J. B. Smith
-Troy,Duffin
-Troy,Wm. J. Wilson
-Troy,J. W Loguen
-Troy,George Weir
-Troy,Uriah Boston
-Troy,Lougen
-Troy,Loguen
-Troy,H. M. Wilson
-Troy,William J. Wilson
-Troy,Charles B. Ray
-Troy,Messrs. J. C. Morrel
-Troy,J. W. C. Pennington
-Troy,Wilson
-Troy,John B. Vashon
-Troy,Frederick Douglass
-Troy,William Rich
-Troy,Topp
-Troy,Lewis H. Nelson
-Troy,P. A. Bell
-Troy,E. V. Clark
-Troy,J. E. Brown
-Troy,A. B. Platt
-Troy,W. H. Storum
-Troy,James Hall
-Troy,Stephen Meyers
-Troy,W. J. Wilson
-Troy,J. N. Still
-Troy,Wm. Tyson
-Troy,Amos A. Freeman
-Troy,A. B. Slater
-Troy,W. W. Mathews
-Troy,J. H. Storum
-Troy,Charles Pain
-Troy,George Morse
-Troy,Meyers
-Troy,Morse
-Troy,Philip A. Bell
-Troy,Edward V. Clark
-Troy,Wm. W. Mathews
-Troy,Charles Paine Lansinburgh
-Troy,James Hall Chemung
-Troy,William H. Storum Canandaigua
-Troy,Nelson
-Troy,J. C. Holly
-Troy,Wm. Rich
-Troy,James C. Morrel
-Troy,James William Charles Pennington
-Troy,Bell
 D. K. Mcdonough,J. W. B. Smith
 D. K. Mcdonough,Messr
 D. K. Mcdonough,Rick

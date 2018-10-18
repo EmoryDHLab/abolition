@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Ruby,C.P. Hicks
 Ruby,S. A. Hackworth
 Ruby,J.C. Akers
@@ -21,7 +21,6 @@ Ruby,John P. St. John
 Ruby,William Lloyd Garrison
 Ruby,A. F. Jackson
 Ruby,Wm. Massie
-Ruby,J.F. Crozier
 Ruby,F. F. Conway
 Ruby,R. Nelson
 Ruby,J. R. Bryant
@@ -50,7 +49,6 @@ C.P. Hicks,John P. St. John
 C.P. Hicks,William Lloyd Garrison
 C.P. Hicks,A. F. Jackson
 C.P. Hicks,Wm. Massie
-C.P. Hicks,J.F. Crozier
 C.P. Hicks,F. F. Conway
 C.P. Hicks,R. Nelson
 C.P. Hicks,J. R. Bryant
@@ -78,7 +76,6 @@ S. A. Hackworth,John P. St. John
 S. A. Hackworth,William Lloyd Garrison
 S. A. Hackworth,A. F. Jackson
 S. A. Hackworth,Wm. Massie
-S. A. Hackworth,J.F. Crozier
 S. A. Hackworth,F. F. Conway
 S. A. Hackworth,R. Nelson
 S. A. Hackworth,J. R. Bryant
@@ -105,7 +102,6 @@ J.C. Akers,John P. St. John
 J.C. Akers,William Lloyd Garrison
 J.C. Akers,A. F. Jackson
 J.C. Akers,Wm. Massie
-J.C. Akers,J.F. Crozier
 J.C. Akers,F. F. Conway
 J.C. Akers,R. Nelson
 J.C. Akers,J. R. Bryant
@@ -131,7 +127,6 @@ Walker,John P. St. John
 Walker,William Lloyd Garrison
 Walker,A. F. Jackson
 Walker,Wm. Massie
-Walker,J.F. Crozier
 Walker,F. F. Conway
 Walker,R. Nelson
 Walker,J. R. Bryant
@@ -156,7 +151,6 @@ Mason,John P. St. John
 Mason,William Lloyd Garrison
 Mason,A. F. Jackson
 Mason,Wm. Massie
-Mason,J.F. Crozier
 Mason,F. F. Conway
 Mason,R. Nelson
 Mason,J. R. Bryant
@@ -180,7 +174,6 @@ Dixon,John P. St. John
 Dixon,William Lloyd Garrison
 Dixon,A. F. Jackson
 Dixon,Wm. Massie
-Dixon,J.F. Crozier
 Dixon,F. F. Conway
 Dixon,R. Nelson
 Dixon,J. R. Bryant
@@ -203,7 +196,6 @@ H. Ruby,John P. St. John
 H. Ruby,William Lloyd Garrison
 H. Ruby,A. F. Jackson
 H. Ruby,Wm. Massie
-H. Ruby,J.F. Crozier
 H. Ruby,F. F. Conway
 H. Ruby,R. Nelson
 H. Ruby,J. R. Bryant
@@ -225,7 +217,6 @@ Stewart,John P. St. John
 Stewart,William Lloyd Garrison
 Stewart,A. F. Jackson
 Stewart,Wm. Massie
-Stewart,J.F. Crozier
 Stewart,F. F. Conway
 Stewart,R. Nelson
 Stewart,J. R. Bryant
@@ -246,7 +237,6 @@ Charles Stewart,John P. St. John
 Charles Stewart,William Lloyd Garrison
 Charles Stewart,A. F. Jackson
 Charles Stewart,Wm. Massie
-Charles Stewart,J.F. Crozier
 Charles Stewart,F. F. Conway
 Charles Stewart,R. Nelson
 Charles Stewart,J. R. Bryant
@@ -266,7 +256,6 @@ Harris,John P. St. John
 Harris,William Lloyd Garrison
 Harris,A. F. Jackson
 Harris,Wm. Massie
-Harris,J.F. Crozier
 Harris,F. F. Conway
 Harris,R. Nelson
 Harris,J. R. Bryant
@@ -285,7 +274,6 @@ A.F. Jackson,John P. St. John
 A.F. Jackson,William Lloyd Garrison
 A.F. Jackson,A. F. Jackson
 A.F. Jackson,Wm. Massie
-A.F. Jackson,J.F. Crozier
 A.F. Jackson,F. F. Conway
 A.F. Jackson,R. Nelson
 A.F. Jackson,J. R. Bryant
@@ -303,7 +291,6 @@ Richard Allen,John P. St. John
 Richard Allen,William Lloyd Garrison
 Richard Allen,A. F. Jackson
 Richard Allen,Wm. Massie
-Richard Allen,J.F. Crozier
 Richard Allen,F. F. Conway
 Richard Allen,R. Nelson
 Richard Allen,J. R. Bryant
@@ -320,7 +307,6 @@ Butler,John P. St. John
 Butler,William Lloyd Garrison
 Butler,A. F. Jackson
 Butler,Wm. Massie
-Butler,J.F. Crozier
 Butler,F. F. Conway
 Butler,R. Nelson
 Butler,J. R. Bryant
@@ -336,7 +322,6 @@ W. Lewis,John P. St. John
 W. Lewis,William Lloyd Garrison
 W. Lewis,A. F. Jackson
 W. Lewis,Wm. Massie
-W. Lewis,J.F. Crozier
 W. Lewis,F. F. Conway
 W. Lewis,R. Nelson
 W. Lewis,J. R. Bryant
@@ -351,7 +336,6 @@ Mccaleb,John P. St. John
 Mccaleb,William Lloyd Garrison
 Mccaleb,A. F. Jackson
 Mccaleb,Wm. Massie
-Mccaleb,J.F. Crozier
 Mccaleb,F. F. Conway
 Mccaleb,R. Nelson
 Mccaleb,J. R. Bryant
@@ -365,7 +349,6 @@ Hayes,John P. St. John
 Hayes,William Lloyd Garrison
 Hayes,A. F. Jackson
 Hayes,Wm. Massie
-Hayes,J.F. Crozier
 Hayes,F. F. Conway
 Hayes,R. Nelson
 Hayes,J. R. Bryant
@@ -378,7 +361,6 @@ Richard Nelson,John P. St. John
 Richard Nelson,William Lloyd Garrison
 Richard Nelson,A. F. Jackson
 Richard Nelson,Wm. Massie
-Richard Nelson,J.F. Crozier
 Richard Nelson,F. F. Conway
 Richard Nelson,R. Nelson
 Richard Nelson,J. R. Bryant
@@ -390,7 +372,6 @@ Ruth,John P. St. John
 Ruth,William Lloyd Garrison
 Ruth,A. F. Jackson
 Ruth,Wm. Massie
-Ruth,J.F. Crozier
 Ruth,F. F. Conway
 Ruth,R. Nelson
 Ruth,J. R. Bryant
@@ -401,7 +382,6 @@ Ruth,S. M. Tod
 John P. St. John,William Lloyd Garrison
 John P. St. John,A. F. Jackson
 John P. St. John,Wm. Massie
-John P. St. John,J.F. Crozier
 John P. St. John,F. F. Conway
 John P. St. John,R. Nelson
 John P. St. John,J. R. Bryant
@@ -411,7 +391,6 @@ John P. St. John,R. J. Moor
 John P. St. John,S. M. Tod
 William Lloyd Garrison,A. F. Jackson
 William Lloyd Garrison,Wm. Massie
-William Lloyd Garrison,J.F. Crozier
 William Lloyd Garrison,F. F. Conway
 William Lloyd Garrison,R. Nelson
 William Lloyd Garrison,J. R. Bryant
@@ -420,7 +399,6 @@ William Lloyd Garrison,Alexander Lane
 William Lloyd Garrison,R. J. Moor
 William Lloyd Garrison,S. M. Tod
 A. F. Jackson,Wm. Massie
-A. F. Jackson,J.F. Crozier
 A. F. Jackson,F. F. Conway
 A. F. Jackson,R. Nelson
 A. F. Jackson,J. R. Bryant
@@ -428,7 +406,6 @@ A. F. Jackson,J. H. Carter
 A. F. Jackson,Alexander Lane
 A. F. Jackson,R. J. Moor
 A. F. Jackson,S. M. Tod
-Wm. Massie,J.F. Crozier
 Wm. Massie,F. F. Conway
 Wm. Massie,R. Nelson
 Wm. Massie,J. R. Bryant
@@ -436,13 +413,6 @@ Wm. Massie,J. H. Carter
 Wm. Massie,Alexander Lane
 Wm. Massie,R. J. Moor
 Wm. Massie,S. M. Tod
-J.F. Crozier,F. F. Conway
-J.F. Crozier,R. Nelson
-J.F. Crozier,J. R. Bryant
-J.F. Crozier,J. H. Carter
-J.F. Crozier,Alexander Lane
-J.F. Crozier,R. J. Moor
-J.F. Crozier,S. M. Tod
 F. F. Conway,R. Nelson
 F. F. Conway,J. R. Bryant
 F. F. Conway,J. H. Carter

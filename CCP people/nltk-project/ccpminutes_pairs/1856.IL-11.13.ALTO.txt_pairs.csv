@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Alton,John Jones
 Alton,Cook
 Alton,W. L. Barnes
@@ -25,7 +25,6 @@ Alton,J. Samuels
 Alton,R. J. Robinson
 Alton,H. D. King
 Alton,Lewis Overton
-Alton,Madison
 Alton,James H. Johnson
 Alton,William L. Barnes
 Alton,Thomas Of Mason
@@ -35,6 +34,7 @@ Alton,Johnson
 Alton,L. Overton
 Alton,George
 Alton,G. White
+Alton,Madison
 Alton,Robinson
 Alton,Louis Isbell
 Alton,A. H. Richardson
@@ -109,7 +109,6 @@ John Jones,J. Samuels
 John Jones,R. J. Robinson
 John Jones,H. D. King
 John Jones,Lewis Overton
-John Jones,Madison
 John Jones,James H. Johnson
 John Jones,William L. Barnes
 John Jones,Thomas Of Mason
@@ -119,6 +118,7 @@ John Jones,Johnson
 John Jones,L. Overton
 John Jones,George
 John Jones,G. White
+John Jones,Madison
 John Jones,Robinson
 John Jones,Louis Isbell
 John Jones,A. H. Richardson
@@ -192,7 +192,6 @@ Cook,J. Samuels
 Cook,R. J. Robinson
 Cook,H. D. King
 Cook,Lewis Overton
-Cook,Madison
 Cook,James H. Johnson
 Cook,William L. Barnes
 Cook,Thomas Of Mason
@@ -202,6 +201,7 @@ Cook,Johnson
 Cook,L. Overton
 Cook,George
 Cook,G. White
+Cook,Madison
 Cook,Robinson
 Cook,Louis Isbell
 Cook,A. H. Richardson
@@ -274,7 +274,6 @@ W. L. Barnes,J. Samuels
 W. L. Barnes,R. J. Robinson
 W. L. Barnes,H. D. King
 W. L. Barnes,Lewis Overton
-W. L. Barnes,Madison
 W. L. Barnes,James H. Johnson
 W. L. Barnes,William L. Barnes
 W. L. Barnes,Thomas Of Mason
@@ -284,6 +283,7 @@ W. L. Barnes,Johnson
 W. L. Barnes,L. Overton
 W. L. Barnes,George
 W. L. Barnes,G. White
+W. L. Barnes,Madison
 W. L. Barnes,Robinson
 W. L. Barnes,Louis Isbell
 W. L. Barnes,A. H. Richardson
@@ -355,7 +355,6 @@ H. Ford Douglass,J. Samuels
 H. Ford Douglass,R. J. Robinson
 H. Ford Douglass,H. D. King
 H. Ford Douglass,Lewis Overton
-H. Ford Douglass,Madison
 H. Ford Douglass,James H. Johnson
 H. Ford Douglass,William L. Barnes
 H. Ford Douglass,Thomas Of Mason
@@ -365,6 +364,7 @@ H. Ford Douglass,Johnson
 H. Ford Douglass,L. Overton
 H. Ford Douglass,George
 H. Ford Douglass,G. White
+H. Ford Douglass,Madison
 H. Ford Douglass,Robinson
 H. Ford Douglass,Louis Isbell
 H. Ford Douglass,A. H. Richardson
@@ -435,7 +435,6 @@ William Johnson,J. Samuels
 William Johnson,R. J. Robinson
 William Johnson,H. D. King
 William Johnson,Lewis Overton
-William Johnson,Madison
 William Johnson,James H. Johnson
 William Johnson,William L. Barnes
 William Johnson,Thomas Of Mason
@@ -445,6 +444,7 @@ William Johnson,Johnson
 William Johnson,L. Overton
 William Johnson,George
 William Johnson,G. White
+William Johnson,Madison
 William Johnson,Robinson
 William Johnson,Louis Isbell
 William Johnson,A. H. Richardson
@@ -514,7 +514,6 @@ C. W. Ellis,J. Samuels
 C. W. Ellis,R. J. Robinson
 C. W. Ellis,H. D. King
 C. W. Ellis,Lewis Overton
-C. W. Ellis,Madison
 C. W. Ellis,James H. Johnson
 C. W. Ellis,William L. Barnes
 C. W. Ellis,Thomas Of Mason
@@ -524,6 +523,7 @@ C. W. Ellis,Johnson
 C. W. Ellis,L. Overton
 C. W. Ellis,George
 C. W. Ellis,G. White
+C. W. Ellis,Madison
 C. W. Ellis,Robinson
 C. W. Ellis,Louis Isbell
 C. W. Ellis,A. H. Richardson
@@ -592,7 +592,6 @@ H. Bradford,J. Samuels
 H. Bradford,R. J. Robinson
 H. Bradford,H. D. King
 H. Bradford,Lewis Overton
-H. Bradford,Madison
 H. Bradford,James H. Johnson
 H. Bradford,William L. Barnes
 H. Bradford,Thomas Of Mason
@@ -602,6 +601,7 @@ H. Bradford,Johnson
 H. Bradford,L. Overton
 H. Bradford,George
 H. Bradford,G. White
+H. Bradford,Madison
 H. Bradford,Robinson
 H. Bradford,Louis Isbell
 H. Bradford,A. H. Richardson
@@ -669,7 +669,6 @@ J. H. Barguett,J. Samuels
 J. H. Barguett,R. J. Robinson
 J. H. Barguett,H. D. King
 J. H. Barguett,Lewis Overton
-J. H. Barguett,Madison
 J. H. Barguett,James H. Johnson
 J. H. Barguett,William L. Barnes
 J. H. Barguett,Thomas Of Mason
@@ -679,6 +678,7 @@ J. H. Barguett,Johnson
 J. H. Barguett,L. Overton
 J. H. Barguett,George
 J. H. Barguett,G. White
+J. H. Barguett,Madison
 J. H. Barguett,Robinson
 J. H. Barguett,Louis Isbell
 J. H. Barguett,A. H. Richardson
@@ -745,7 +745,6 @@ Joseph Patrick,J. Samuels
 Joseph Patrick,R. J. Robinson
 Joseph Patrick,H. D. King
 Joseph Patrick,Lewis Overton
-Joseph Patrick,Madison
 Joseph Patrick,James H. Johnson
 Joseph Patrick,William L. Barnes
 Joseph Patrick,Thomas Of Mason
@@ -755,6 +754,7 @@ Joseph Patrick,Johnson
 Joseph Patrick,L. Overton
 Joseph Patrick,George
 Joseph Patrick,G. White
+Joseph Patrick,Madison
 Joseph Patrick,Robinson
 Joseph Patrick,Louis Isbell
 Joseph Patrick,A. H. Richardson
@@ -820,7 +820,6 @@ Cary,J. Samuels
 Cary,R. J. Robinson
 Cary,H. D. King
 Cary,Lewis Overton
-Cary,Madison
 Cary,James H. Johnson
 Cary,William L. Barnes
 Cary,Thomas Of Mason
@@ -830,6 +829,7 @@ Cary,Johnson
 Cary,L. Overton
 Cary,George
 Cary,G. White
+Cary,Madison
 Cary,Robinson
 Cary,Louis Isbell
 Cary,A. H. Richardson
@@ -894,7 +894,6 @@ L. Isbell,J. Samuels
 L. Isbell,R. J. Robinson
 L. Isbell,H. D. King
 L. Isbell,Lewis Overton
-L. Isbell,Madison
 L. Isbell,James H. Johnson
 L. Isbell,William L. Barnes
 L. Isbell,Thomas Of Mason
@@ -904,6 +903,7 @@ L. Isbell,Johnson
 L. Isbell,L. Overton
 L. Isbell,George
 L. Isbell,G. White
+L. Isbell,Madison
 L. Isbell,Robinson
 L. Isbell,Louis Isbell
 L. Isbell,A. H. Richardson
@@ -967,7 +967,6 @@ Lewis Isbell,J. Samuels
 Lewis Isbell,R. J. Robinson
 Lewis Isbell,H. D. King
 Lewis Isbell,Lewis Overton
-Lewis Isbell,Madison
 Lewis Isbell,James H. Johnson
 Lewis Isbell,William L. Barnes
 Lewis Isbell,Thomas Of Mason
@@ -977,6 +976,7 @@ Lewis Isbell,Johnson
 Lewis Isbell,L. Overton
 Lewis Isbell,George
 Lewis Isbell,G. White
+Lewis Isbell,Madison
 Lewis Isbell,Robinson
 Lewis Isbell,Louis Isbell
 Lewis Isbell,A. H. Richardson
@@ -1039,7 +1039,6 @@ Thomas Mason,J. Samuels
 Thomas Mason,R. J. Robinson
 Thomas Mason,H. D. King
 Thomas Mason,Lewis Overton
-Thomas Mason,Madison
 Thomas Mason,James H. Johnson
 Thomas Mason,William L. Barnes
 Thomas Mason,Thomas Of Mason
@@ -1049,6 +1048,7 @@ Thomas Mason,Johnson
 Thomas Mason,L. Overton
 Thomas Mason,George
 Thomas Mason,G. White
+Thomas Mason,Madison
 Thomas Mason,Robinson
 Thomas Mason,Louis Isbell
 Thomas Mason,A. H. Richardson
@@ -1110,7 +1110,6 @@ C. C. Richardson,J. Samuels
 C. C. Richardson,R. J. Robinson
 C. C. Richardson,H. D. King
 C. C. Richardson,Lewis Overton
-C. C. Richardson,Madison
 C. C. Richardson,James H. Johnson
 C. C. Richardson,William L. Barnes
 C. C. Richardson,Thomas Of Mason
@@ -1120,6 +1119,7 @@ C. C. Richardson,Johnson
 C. C. Richardson,L. Overton
 C. C. Richardson,George
 C. C. Richardson,G. White
+C. C. Richardson,Madison
 C. C. Richardson,Robinson
 C. C. Richardson,Louis Isbell
 C. C. Richardson,A. H. Richardson
@@ -1180,7 +1180,6 @@ J. Kelley,J. Samuels
 J. Kelley,R. J. Robinson
 J. Kelley,H. D. King
 J. Kelley,Lewis Overton
-J. Kelley,Madison
 J. Kelley,James H. Johnson
 J. Kelley,William L. Barnes
 J. Kelley,Thomas Of Mason
@@ -1190,6 +1189,7 @@ J. Kelley,Johnson
 J. Kelley,L. Overton
 J. Kelley,George
 J. Kelley,G. White
+J. Kelley,Madison
 J. Kelley,Robinson
 J. Kelley,Louis Isbell
 J. Kelley,A. H. Richardson
@@ -1249,7 +1249,6 @@ Louis Overton,J. Samuels
 Louis Overton,R. J. Robinson
 Louis Overton,H. D. King
 Louis Overton,Lewis Overton
-Louis Overton,Madison
 Louis Overton,James H. Johnson
 Louis Overton,William L. Barnes
 Louis Overton,Thomas Of Mason
@@ -1259,6 +1258,7 @@ Louis Overton,Johnson
 Louis Overton,L. Overton
 Louis Overton,George
 Louis Overton,G. White
+Louis Overton,Madison
 Louis Overton,Robinson
 Louis Overton,Louis Isbell
 Louis Overton,A. H. Richardson
@@ -1317,7 +1317,6 @@ E. White,J. Samuels
 E. White,R. J. Robinson
 E. White,H. D. King
 E. White,Lewis Overton
-E. White,Madison
 E. White,James H. Johnson
 E. White,William L. Barnes
 E. White,Thomas Of Mason
@@ -1327,6 +1326,7 @@ E. White,Johnson
 E. White,L. Overton
 E. White,George
 E. White,G. White
+E. White,Madison
 E. White,Robinson
 E. White,Louis Isbell
 E. White,A. H. Richardson
@@ -1384,7 +1384,6 @@ E. Wilkerson,J. Samuels
 E. Wilkerson,R. J. Robinson
 E. Wilkerson,H. D. King
 E. Wilkerson,Lewis Overton
-E. Wilkerson,Madison
 E. Wilkerson,James H. Johnson
 E. Wilkerson,William L. Barnes
 E. Wilkerson,Thomas Of Mason
@@ -1394,6 +1393,7 @@ E. Wilkerson,Johnson
 E. Wilkerson,L. Overton
 E. Wilkerson,George
 E. Wilkerson,G. White
+E. Wilkerson,Madison
 E. Wilkerson,Robinson
 E. Wilkerson,Louis Isbell
 E. Wilkerson,A. H. Richardson
@@ -1450,7 +1450,6 @@ H. Douglass King,J. Samuels
 H. Douglass King,R. J. Robinson
 H. Douglass King,H. D. King
 H. Douglass King,Lewis Overton
-H. Douglass King,Madison
 H. Douglass King,James H. Johnson
 H. Douglass King,William L. Barnes
 H. Douglass King,Thomas Of Mason
@@ -1460,6 +1459,7 @@ H. Douglass King,Johnson
 H. Douglass King,L. Overton
 H. Douglass King,George
 H. Douglass King,G. White
+H. Douglass King,Madison
 H. Douglass King,Robinson
 H. Douglass King,Louis Isbell
 H. Douglass King,A. H. Richardson
@@ -1515,7 +1515,6 @@ J. H. Johnson,J. Samuels
 J. H. Johnson,R. J. Robinson
 J. H. Johnson,H. D. King
 J. H. Johnson,Lewis Overton
-J. H. Johnson,Madison
 J. H. Johnson,James H. Johnson
 J. H. Johnson,William L. Barnes
 J. H. Johnson,Thomas Of Mason
@@ -1525,6 +1524,7 @@ J. H. Johnson,Johnson
 J. H. Johnson,L. Overton
 J. H. Johnson,George
 J. H. Johnson,G. White
+J. H. Johnson,Madison
 J. H. Johnson,Robinson
 J. H. Johnson,Louis Isbell
 J. H. Johnson,A. H. Richardson
@@ -1579,7 +1579,6 @@ A. W. Jackson,J. Samuels
 A. W. Jackson,R. J. Robinson
 A. W. Jackson,H. D. King
 A. W. Jackson,Lewis Overton
-A. W. Jackson,Madison
 A. W. Jackson,James H. Johnson
 A. W. Jackson,William L. Barnes
 A. W. Jackson,Thomas Of Mason
@@ -1589,6 +1588,7 @@ A. W. Jackson,Johnson
 A. W. Jackson,L. Overton
 A. W. Jackson,George
 A. W. Jackson,G. White
+A. W. Jackson,Madison
 A. W. Jackson,Robinson
 A. W. Jackson,Louis Isbell
 A. W. Jackson,A. H. Richardson
@@ -1642,7 +1642,6 @@ L. Magee,J. Samuels
 L. Magee,R. J. Robinson
 L. Magee,H. D. King
 L. Magee,Lewis Overton
-L. Magee,Madison
 L. Magee,James H. Johnson
 L. Magee,William L. Barnes
 L. Magee,Thomas Of Mason
@@ -1652,6 +1651,7 @@ L. Magee,Johnson
 L. Magee,L. Overton
 L. Magee,George
 L. Magee,G. White
+L. Magee,Madison
 L. Magee,Robinson
 L. Magee,Louis Isbell
 L. Magee,A. H. Richardson
@@ -1704,7 +1704,6 @@ L. Magee,Viii
 J. Samuels,R. J. Robinson
 J. Samuels,H. D. King
 J. Samuels,Lewis Overton
-J. Samuels,Madison
 J. Samuels,James H. Johnson
 J. Samuels,William L. Barnes
 J. Samuels,Thomas Of Mason
@@ -1714,6 +1713,7 @@ J. Samuels,Johnson
 J. Samuels,L. Overton
 J. Samuels,George
 J. Samuels,G. White
+J. Samuels,Madison
 J. Samuels,Robinson
 J. Samuels,Louis Isbell
 J. Samuels,A. H. Richardson
@@ -1765,7 +1765,6 @@ J. Samuels,J. Robinson
 J. Samuels,Viii
 R. J. Robinson,H. D. King
 R. J. Robinson,Lewis Overton
-R. J. Robinson,Madison
 R. J. Robinson,James H. Johnson
 R. J. Robinson,William L. Barnes
 R. J. Robinson,Thomas Of Mason
@@ -1775,6 +1774,7 @@ R. J. Robinson,Johnson
 R. J. Robinson,L. Overton
 R. J. Robinson,George
 R. J. Robinson,G. White
+R. J. Robinson,Madison
 R. J. Robinson,Robinson
 R. J. Robinson,Louis Isbell
 R. J. Robinson,A. H. Richardson
@@ -1825,7 +1825,6 @@ R. J. Robinson,Bacon
 R. J. Robinson,J. Robinson
 R. J. Robinson,Viii
 H. D. King,Lewis Overton
-H. D. King,Madison
 H. D. King,James H. Johnson
 H. D. King,William L. Barnes
 H. D. King,Thomas Of Mason
@@ -1835,6 +1834,7 @@ H. D. King,Johnson
 H. D. King,L. Overton
 H. D. King,George
 H. D. King,G. White
+H. D. King,Madison
 H. D. King,Robinson
 H. D. King,Louis Isbell
 H. D. King,A. H. Richardson
@@ -1884,7 +1884,6 @@ H. D. King,Julius Caesar
 H. D. King,Bacon
 H. D. King,J. Robinson
 H. D. King,Viii
-Lewis Overton,Madison
 Lewis Overton,James H. Johnson
 Lewis Overton,William L. Barnes
 Lewis Overton,Thomas Of Mason
@@ -1894,6 +1893,7 @@ Lewis Overton,Johnson
 Lewis Overton,L. Overton
 Lewis Overton,George
 Lewis Overton,G. White
+Lewis Overton,Madison
 Lewis Overton,Robinson
 Lewis Overton,Louis Isbell
 Lewis Overton,A. H. Richardson
@@ -1943,64 +1943,6 @@ Lewis Overton,Julius Caesar
 Lewis Overton,Bacon
 Lewis Overton,J. Robinson
 Lewis Overton,Viii
-Madison,James H. Johnson
-Madison,William L. Barnes
-Madison,Thomas Of Mason
-Madison,H. F. Douglass
-Madison,Edward White
-Madison,Johnson
-Madison,L. Overton
-Madison,George
-Madison,G. White
-Madison,Robinson
-Madison,Louis Isbell
-Madison,A. H. Richardson
-Madison,Augustus Hill
-Madison,R. H. Rollins
-Madison,B. L. Ford
-Madison,J. F. Platt
-Madison,Mason
-Madison,Jones
-Madison,Overton
-Madison,Moses
-Madison,Douglass
-Madison,Jackson
-Madison,Kelly
-Madison,Magee
-Madison,Isbell
-Madison,Barnes
-Madison,Wilkerson
-Madison,Richardson
-Madison,Samuels
-Madison,H.O. Wagoner
-Madison,H. O. Wagoner
-Madison,Hill
-Madison,Wm. Johnson
-Madison,M. Cary Of Cook
-Madison,John A. Crisup
-Madison,William Jackson
-Madison,Henry Bradford
-Madison,J. H. Barquet
-Madison,Wm. Barton
-Madison,B. Henderson
-Madison,Frederick K. Waldren
-Madison,P. H. Ward
-Madison,B. Allen
-Madison,Frederick Douglass
-Madison,John C. Calhoun
-Madison,Franklin Pierce
-Madison,Kane
-Madison,Toombs
-Madison,Pompey
-Madison,Sherman
-Madison,Brougham
-Madison,Fremont
-Madison,Milton
-Madison,Wendell Phillips
-Madison,Julius Caesar
-Madison,Bacon
-Madison,J. Robinson
-Madison,Viii
 James H. Johnson,William L. Barnes
 James H. Johnson,Thomas Of Mason
 James H. Johnson,H. F. Douglass
@@ -2009,6 +1951,7 @@ James H. Johnson,Johnson
 James H. Johnson,L. Overton
 James H. Johnson,George
 James H. Johnson,G. White
+James H. Johnson,Madison
 James H. Johnson,Robinson
 James H. Johnson,Louis Isbell
 James H. Johnson,A. H. Richardson
@@ -2065,6 +2008,7 @@ William L. Barnes,Johnson
 William L. Barnes,L. Overton
 William L. Barnes,George
 William L. Barnes,G. White
+William L. Barnes,Madison
 William L. Barnes,Robinson
 William L. Barnes,Louis Isbell
 William L. Barnes,A. H. Richardson
@@ -2120,6 +2064,7 @@ Thomas Of Mason,Johnson
 Thomas Of Mason,L. Overton
 Thomas Of Mason,George
 Thomas Of Mason,G. White
+Thomas Of Mason,Madison
 Thomas Of Mason,Robinson
 Thomas Of Mason,Louis Isbell
 Thomas Of Mason,A. H. Richardson
@@ -2174,6 +2119,7 @@ H. F. Douglass,Johnson
 H. F. Douglass,L. Overton
 H. F. Douglass,George
 H. F. Douglass,G. White
+H. F. Douglass,Madison
 H. F. Douglass,Robinson
 H. F. Douglass,Louis Isbell
 H. F. Douglass,A. H. Richardson
@@ -2227,6 +2173,7 @@ Edward White,Johnson
 Edward White,L. Overton
 Edward White,George
 Edward White,G. White
+Edward White,Madison
 Edward White,Robinson
 Edward White,Louis Isbell
 Edward White,A. H. Richardson
@@ -2279,6 +2226,7 @@ Edward White,Viii
 Johnson,L. Overton
 Johnson,George
 Johnson,G. White
+Johnson,Madison
 Johnson,Robinson
 Johnson,Louis Isbell
 Johnson,A. H. Richardson
@@ -2330,6 +2278,7 @@ Johnson,J. Robinson
 Johnson,Viii
 L. Overton,George
 L. Overton,G. White
+L. Overton,Madison
 L. Overton,Robinson
 L. Overton,Louis Isbell
 L. Overton,A. H. Richardson
@@ -2380,6 +2329,7 @@ L. Overton,Bacon
 L. Overton,J. Robinson
 L. Overton,Viii
 George,G. White
+George,Madison
 George,Robinson
 George,Louis Isbell
 George,A. H. Richardson
@@ -2429,6 +2379,7 @@ George,Julius Caesar
 George,Bacon
 George,J. Robinson
 George,Viii
+G. White,Madison
 G. White,Robinson
 G. White,Louis Isbell
 G. White,A. H. Richardson
@@ -2478,6 +2429,55 @@ G. White,Julius Caesar
 G. White,Bacon
 G. White,J. Robinson
 G. White,Viii
+Madison,Robinson
+Madison,Louis Isbell
+Madison,A. H. Richardson
+Madison,Augustus Hill
+Madison,R. H. Rollins
+Madison,B. L. Ford
+Madison,J. F. Platt
+Madison,Mason
+Madison,Jones
+Madison,Overton
+Madison,Moses
+Madison,Douglass
+Madison,Jackson
+Madison,Kelly
+Madison,Magee
+Madison,Isbell
+Madison,Barnes
+Madison,Wilkerson
+Madison,Richardson
+Madison,Samuels
+Madison,H.O. Wagoner
+Madison,H. O. Wagoner
+Madison,Hill
+Madison,Wm. Johnson
+Madison,M. Cary Of Cook
+Madison,John A. Crisup
+Madison,William Jackson
+Madison,Henry Bradford
+Madison,J. H. Barquet
+Madison,Wm. Barton
+Madison,B. Henderson
+Madison,Frederick K. Waldren
+Madison,P. H. Ward
+Madison,B. Allen
+Madison,Frederick Douglass
+Madison,John C. Calhoun
+Madison,Franklin Pierce
+Madison,Kane
+Madison,Toombs
+Madison,Pompey
+Madison,Sherman
+Madison,Brougham
+Madison,Fremont
+Madison,Milton
+Madison,Wendell Phillips
+Madison,Julius Caesar
+Madison,Bacon
+Madison,J. Robinson
+Madison,Viii
 Robinson,Louis Isbell
 Robinson,A. H. Richardson
 Robinson,Augustus Hill

@@ -1,4 +1,4 @@
-name1,name2
+source,target
 P. A. Bell,Thomas L. Jennings
 P. A. Bell,Edward V. Clark
 P. A. Bell,Charles B. Ray
@@ -11,19 +11,14 @@ P. A. Bell,Joseph Smith
 P. A. Bell,Mcdonald
 P. A. Bell,J. W. Pennington
 P. A. Bell,Peter Ray
-P. A. Bell,Williamsburgh
 P. A. Bell,Lewis Nelson
 P. A. Bell,Wm. J. Wilson
 P. A. Bell,J. N. Still
-P. A. Bell,Catskill
 P. A. Bell,Jacob Schemerhorn
 P. A. Bell,Joseph Dell
-P. A. Bell,Hudson
 P. A. Bell,Chauncy Van Hussen
-P. A. Bell,Peter Van De Zee New Baltimore
 P. A. Bell,Lewis Jackson
 P. A. Bell,John Jones
-P. A. Bell,Sandy Lake
 P. A. Bell,Francis Thompson
 P. A. Bell,Peter Hornbeck
 P. A. Bell,George Brown
@@ -37,7 +32,6 @@ P. A. Bell,Stephen Myers
 P. A. Bell,Joseph Newit
 P. A. Bell,Benj
 P. A. Bell,Bourman
-P. A. Bell,Troy
 P. A. Bell,Wm. Rich
 P. A. Bell,Jonathan C. Gibbs
 P. A. Bell,James H. Davis
@@ -91,6 +85,7 @@ P. A. Bell,Philip A. Bell
 P. A. Bell,Peter W. Ray
 P. A. Bell,U. C. Farlen
 P. A. Bell,Rand
+P. A. Bell,Troy
 P. A. Bell,William J. Watkins
 P. A. Bell,Watkins
 P. A. Bell,Robert Morris
@@ -122,19 +117,14 @@ Thomas L. Jennings,Joseph Smith
 Thomas L. Jennings,Mcdonald
 Thomas L. Jennings,J. W. Pennington
 Thomas L. Jennings,Peter Ray
-Thomas L. Jennings,Williamsburgh
 Thomas L. Jennings,Lewis Nelson
 Thomas L. Jennings,Wm. J. Wilson
 Thomas L. Jennings,J. N. Still
-Thomas L. Jennings,Catskill
 Thomas L. Jennings,Jacob Schemerhorn
 Thomas L. Jennings,Joseph Dell
-Thomas L. Jennings,Hudson
 Thomas L. Jennings,Chauncy Van Hussen
-Thomas L. Jennings,Peter Van De Zee New Baltimore
 Thomas L. Jennings,Lewis Jackson
 Thomas L. Jennings,John Jones
-Thomas L. Jennings,Sandy Lake
 Thomas L. Jennings,Francis Thompson
 Thomas L. Jennings,Peter Hornbeck
 Thomas L. Jennings,George Brown
@@ -148,7 +138,6 @@ Thomas L. Jennings,Stephen Myers
 Thomas L. Jennings,Joseph Newit
 Thomas L. Jennings,Benj
 Thomas L. Jennings,Bourman
-Thomas L. Jennings,Troy
 Thomas L. Jennings,Wm. Rich
 Thomas L. Jennings,Jonathan C. Gibbs
 Thomas L. Jennings,James H. Davis
@@ -202,6 +191,7 @@ Thomas L. Jennings,Philip A. Bell
 Thomas L. Jennings,Peter W. Ray
 Thomas L. Jennings,U. C. Farlen
 Thomas L. Jennings,Rand
+Thomas L. Jennings,Troy
 Thomas L. Jennings,William J. Watkins
 Thomas L. Jennings,Watkins
 Thomas L. Jennings,Robert Morris
@@ -232,19 +222,14 @@ Edward V. Clark,Joseph Smith
 Edward V. Clark,Mcdonald
 Edward V. Clark,J. W. Pennington
 Edward V. Clark,Peter Ray
-Edward V. Clark,Williamsburgh
 Edward V. Clark,Lewis Nelson
 Edward V. Clark,Wm. J. Wilson
 Edward V. Clark,J. N. Still
-Edward V. Clark,Catskill
 Edward V. Clark,Jacob Schemerhorn
 Edward V. Clark,Joseph Dell
-Edward V. Clark,Hudson
 Edward V. Clark,Chauncy Van Hussen
-Edward V. Clark,Peter Van De Zee New Baltimore
 Edward V. Clark,Lewis Jackson
 Edward V. Clark,John Jones
-Edward V. Clark,Sandy Lake
 Edward V. Clark,Francis Thompson
 Edward V. Clark,Peter Hornbeck
 Edward V. Clark,George Brown
@@ -258,7 +243,6 @@ Edward V. Clark,Stephen Myers
 Edward V. Clark,Joseph Newit
 Edward V. Clark,Benj
 Edward V. Clark,Bourman
-Edward V. Clark,Troy
 Edward V. Clark,Wm. Rich
 Edward V. Clark,Jonathan C. Gibbs
 Edward V. Clark,James H. Davis
@@ -312,6 +296,7 @@ Edward V. Clark,Philip A. Bell
 Edward V. Clark,Peter W. Ray
 Edward V. Clark,U. C. Farlen
 Edward V. Clark,Rand
+Edward V. Clark,Troy
 Edward V. Clark,William J. Watkins
 Edward V. Clark,Watkins
 Edward V. Clark,Robert Morris
@@ -341,19 +326,14 @@ Charles B. Ray,Joseph Smith
 Charles B. Ray,Mcdonald
 Charles B. Ray,J. W. Pennington
 Charles B. Ray,Peter Ray
-Charles B. Ray,Williamsburgh
 Charles B. Ray,Lewis Nelson
 Charles B. Ray,Wm. J. Wilson
 Charles B. Ray,J. N. Still
-Charles B. Ray,Catskill
 Charles B. Ray,Jacob Schemerhorn
 Charles B. Ray,Joseph Dell
-Charles B. Ray,Hudson
 Charles B. Ray,Chauncy Van Hussen
-Charles B. Ray,Peter Van De Zee New Baltimore
 Charles B. Ray,Lewis Jackson
 Charles B. Ray,John Jones
-Charles B. Ray,Sandy Lake
 Charles B. Ray,Francis Thompson
 Charles B. Ray,Peter Hornbeck
 Charles B. Ray,George Brown
@@ -367,7 +347,6 @@ Charles B. Ray,Stephen Myers
 Charles B. Ray,Joseph Newit
 Charles B. Ray,Benj
 Charles B. Ray,Bourman
-Charles B. Ray,Troy
 Charles B. Ray,Wm. Rich
 Charles B. Ray,Jonathan C. Gibbs
 Charles B. Ray,James H. Davis
@@ -421,6 +400,7 @@ Charles B. Ray,Philip A. Bell
 Charles B. Ray,Peter W. Ray
 Charles B. Ray,U. C. Farlen
 Charles B. Ray,Rand
+Charles B. Ray,Troy
 Charles B. Ray,William J. Watkins
 Charles B. Ray,Watkins
 Charles B. Ray,Robert Morris
@@ -449,19 +429,14 @@ Jas,Joseph Smith
 Jas,Mcdonald
 Jas,J. W. Pennington
 Jas,Peter Ray
-Jas,Williamsburgh
 Jas,Lewis Nelson
 Jas,Wm. J. Wilson
 Jas,J. N. Still
-Jas,Catskill
 Jas,Jacob Schemerhorn
 Jas,Joseph Dell
-Jas,Hudson
 Jas,Chauncy Van Hussen
-Jas,Peter Van De Zee New Baltimore
 Jas,Lewis Jackson
 Jas,John Jones
-Jas,Sandy Lake
 Jas,Francis Thompson
 Jas,Peter Hornbeck
 Jas,George Brown
@@ -475,7 +450,6 @@ Jas,Stephen Myers
 Jas,Joseph Newit
 Jas,Benj
 Jas,Bourman
-Jas,Troy
 Jas,Wm. Rich
 Jas,Jonathan C. Gibbs
 Jas,James H. Davis
@@ -529,6 +503,7 @@ Jas,Philip A. Bell
 Jas,Peter W. Ray
 Jas,U. C. Farlen
 Jas,Rand
+Jas,Troy
 Jas,William J. Watkins
 Jas,Watkins
 Jas,Robert Morris
@@ -556,19 +531,14 @@ Mccune Smith,Joseph Smith
 Mccune Smith,Mcdonald
 Mccune Smith,J. W. Pennington
 Mccune Smith,Peter Ray
-Mccune Smith,Williamsburgh
 Mccune Smith,Lewis Nelson
 Mccune Smith,Wm. J. Wilson
 Mccune Smith,J. N. Still
-Mccune Smith,Catskill
 Mccune Smith,Jacob Schemerhorn
 Mccune Smith,Joseph Dell
-Mccune Smith,Hudson
 Mccune Smith,Chauncy Van Hussen
-Mccune Smith,Peter Van De Zee New Baltimore
 Mccune Smith,Lewis Jackson
 Mccune Smith,John Jones
-Mccune Smith,Sandy Lake
 Mccune Smith,Francis Thompson
 Mccune Smith,Peter Hornbeck
 Mccune Smith,George Brown
@@ -582,7 +552,6 @@ Mccune Smith,Stephen Myers
 Mccune Smith,Joseph Newit
 Mccune Smith,Benj
 Mccune Smith,Bourman
-Mccune Smith,Troy
 Mccune Smith,Wm. Rich
 Mccune Smith,Jonathan C. Gibbs
 Mccune Smith,James H. Davis
@@ -636,6 +605,7 @@ Mccune Smith,Philip A. Bell
 Mccune Smith,Peter W. Ray
 Mccune Smith,U. C. Farlen
 Mccune Smith,Rand
+Mccune Smith,Troy
 Mccune Smith,William J. Watkins
 Mccune Smith,Watkins
 Mccune Smith,Robert Morris
@@ -662,19 +632,14 @@ John J. Zuille,Joseph Smith
 John J. Zuille,Mcdonald
 John J. Zuille,J. W. Pennington
 John J. Zuille,Peter Ray
-John J. Zuille,Williamsburgh
 John J. Zuille,Lewis Nelson
 John J. Zuille,Wm. J. Wilson
 John J. Zuille,J. N. Still
-John J. Zuille,Catskill
 John J. Zuille,Jacob Schemerhorn
 John J. Zuille,Joseph Dell
-John J. Zuille,Hudson
 John J. Zuille,Chauncy Van Hussen
-John J. Zuille,Peter Van De Zee New Baltimore
 John J. Zuille,Lewis Jackson
 John J. Zuille,John Jones
-John J. Zuille,Sandy Lake
 John J. Zuille,Francis Thompson
 John J. Zuille,Peter Hornbeck
 John J. Zuille,George Brown
@@ -688,7 +653,6 @@ John J. Zuille,Stephen Myers
 John J. Zuille,Joseph Newit
 John J. Zuille,Benj
 John J. Zuille,Bourman
-John J. Zuille,Troy
 John J. Zuille,Wm. Rich
 John J. Zuille,Jonathan C. Gibbs
 John J. Zuille,James H. Davis
@@ -742,6 +706,7 @@ John J. Zuille,Philip A. Bell
 John J. Zuille,Peter W. Ray
 John J. Zuille,U. C. Farlen
 John J. Zuille,Rand
+John J. Zuille,Troy
 John J. Zuille,William J. Watkins
 John J. Zuille,Watkins
 John J. Zuille,Robert Morris
@@ -767,19 +732,14 @@ J. J. Simons,Joseph Smith
 J. J. Simons,Mcdonald
 J. J. Simons,J. W. Pennington
 J. J. Simons,Peter Ray
-J. J. Simons,Williamsburgh
 J. J. Simons,Lewis Nelson
 J. J. Simons,Wm. J. Wilson
 J. J. Simons,J. N. Still
-J. J. Simons,Catskill
 J. J. Simons,Jacob Schemerhorn
 J. J. Simons,Joseph Dell
-J. J. Simons,Hudson
 J. J. Simons,Chauncy Van Hussen
-J. J. Simons,Peter Van De Zee New Baltimore
 J. J. Simons,Lewis Jackson
 J. J. Simons,John Jones
-J. J. Simons,Sandy Lake
 J. J. Simons,Francis Thompson
 J. J. Simons,Peter Hornbeck
 J. J. Simons,George Brown
@@ -793,7 +753,6 @@ J. J. Simons,Stephen Myers
 J. J. Simons,Joseph Newit
 J. J. Simons,Benj
 J. J. Simons,Bourman
-J. J. Simons,Troy
 J. J. Simons,Wm. Rich
 J. J. Simons,Jonathan C. Gibbs
 J. J. Simons,James H. Davis
@@ -847,6 +806,7 @@ J. J. Simons,Philip A. Bell
 J. J. Simons,Peter W. Ray
 J. J. Simons,U. C. Farlen
 J. J. Simons,Rand
+J. J. Simons,Troy
 J. J. Simons,William J. Watkins
 J. J. Simons,Watkins
 J. J. Simons,Robert Morris
@@ -871,19 +831,14 @@ Jacob Gibbs,Joseph Smith
 Jacob Gibbs,Mcdonald
 Jacob Gibbs,J. W. Pennington
 Jacob Gibbs,Peter Ray
-Jacob Gibbs,Williamsburgh
 Jacob Gibbs,Lewis Nelson
 Jacob Gibbs,Wm. J. Wilson
 Jacob Gibbs,J. N. Still
-Jacob Gibbs,Catskill
 Jacob Gibbs,Jacob Schemerhorn
 Jacob Gibbs,Joseph Dell
-Jacob Gibbs,Hudson
 Jacob Gibbs,Chauncy Van Hussen
-Jacob Gibbs,Peter Van De Zee New Baltimore
 Jacob Gibbs,Lewis Jackson
 Jacob Gibbs,John Jones
-Jacob Gibbs,Sandy Lake
 Jacob Gibbs,Francis Thompson
 Jacob Gibbs,Peter Hornbeck
 Jacob Gibbs,George Brown
@@ -897,7 +852,6 @@ Jacob Gibbs,Stephen Myers
 Jacob Gibbs,Joseph Newit
 Jacob Gibbs,Benj
 Jacob Gibbs,Bourman
-Jacob Gibbs,Troy
 Jacob Gibbs,Wm. Rich
 Jacob Gibbs,Jonathan C. Gibbs
 Jacob Gibbs,James H. Davis
@@ -951,6 +905,7 @@ Jacob Gibbs,Philip A. Bell
 Jacob Gibbs,Peter W. Ray
 Jacob Gibbs,U. C. Farlen
 Jacob Gibbs,Rand
+Jacob Gibbs,Troy
 Jacob Gibbs,William J. Watkins
 Jacob Gibbs,Watkins
 Jacob Gibbs,Robert Morris
@@ -974,19 +929,14 @@ Jacob Gibbs,Malakhov
 Joseph Smith,Mcdonald
 Joseph Smith,J. W. Pennington
 Joseph Smith,Peter Ray
-Joseph Smith,Williamsburgh
 Joseph Smith,Lewis Nelson
 Joseph Smith,Wm. J. Wilson
 Joseph Smith,J. N. Still
-Joseph Smith,Catskill
 Joseph Smith,Jacob Schemerhorn
 Joseph Smith,Joseph Dell
-Joseph Smith,Hudson
 Joseph Smith,Chauncy Van Hussen
-Joseph Smith,Peter Van De Zee New Baltimore
 Joseph Smith,Lewis Jackson
 Joseph Smith,John Jones
-Joseph Smith,Sandy Lake
 Joseph Smith,Francis Thompson
 Joseph Smith,Peter Hornbeck
 Joseph Smith,George Brown
@@ -1000,7 +950,6 @@ Joseph Smith,Stephen Myers
 Joseph Smith,Joseph Newit
 Joseph Smith,Benj
 Joseph Smith,Bourman
-Joseph Smith,Troy
 Joseph Smith,Wm. Rich
 Joseph Smith,Jonathan C. Gibbs
 Joseph Smith,James H. Davis
@@ -1054,6 +1003,7 @@ Joseph Smith,Philip A. Bell
 Joseph Smith,Peter W. Ray
 Joseph Smith,U. C. Farlen
 Joseph Smith,Rand
+Joseph Smith,Troy
 Joseph Smith,William J. Watkins
 Joseph Smith,Watkins
 Joseph Smith,Robert Morris
@@ -1076,19 +1026,14 @@ Joseph Smith,G. I. Totlebein
 Joseph Smith,Malakhov
 Mcdonald,J. W. Pennington
 Mcdonald,Peter Ray
-Mcdonald,Williamsburgh
 Mcdonald,Lewis Nelson
 Mcdonald,Wm. J. Wilson
 Mcdonald,J. N. Still
-Mcdonald,Catskill
 Mcdonald,Jacob Schemerhorn
 Mcdonald,Joseph Dell
-Mcdonald,Hudson
 Mcdonald,Chauncy Van Hussen
-Mcdonald,Peter Van De Zee New Baltimore
 Mcdonald,Lewis Jackson
 Mcdonald,John Jones
-Mcdonald,Sandy Lake
 Mcdonald,Francis Thompson
 Mcdonald,Peter Hornbeck
 Mcdonald,George Brown
@@ -1102,7 +1047,6 @@ Mcdonald,Stephen Myers
 Mcdonald,Joseph Newit
 Mcdonald,Benj
 Mcdonald,Bourman
-Mcdonald,Troy
 Mcdonald,Wm. Rich
 Mcdonald,Jonathan C. Gibbs
 Mcdonald,James H. Davis
@@ -1156,6 +1100,7 @@ Mcdonald,Philip A. Bell
 Mcdonald,Peter W. Ray
 Mcdonald,U. C. Farlen
 Mcdonald,Rand
+Mcdonald,Troy
 Mcdonald,William J. Watkins
 Mcdonald,Watkins
 Mcdonald,Robert Morris
@@ -1177,19 +1122,14 @@ Mcdonald,Lawrence
 Mcdonald,G. I. Totlebein
 Mcdonald,Malakhov
 J. W. Pennington,Peter Ray
-J. W. Pennington,Williamsburgh
 J. W. Pennington,Lewis Nelson
 J. W. Pennington,Wm. J. Wilson
 J. W. Pennington,J. N. Still
-J. W. Pennington,Catskill
 J. W. Pennington,Jacob Schemerhorn
 J. W. Pennington,Joseph Dell
-J. W. Pennington,Hudson
 J. W. Pennington,Chauncy Van Hussen
-J. W. Pennington,Peter Van De Zee New Baltimore
 J. W. Pennington,Lewis Jackson
 J. W. Pennington,John Jones
-J. W. Pennington,Sandy Lake
 J. W. Pennington,Francis Thompson
 J. W. Pennington,Peter Hornbeck
 J. W. Pennington,George Brown
@@ -1203,7 +1143,6 @@ J. W. Pennington,Stephen Myers
 J. W. Pennington,Joseph Newit
 J. W. Pennington,Benj
 J. W. Pennington,Bourman
-J. W. Pennington,Troy
 J. W. Pennington,Wm. Rich
 J. W. Pennington,Jonathan C. Gibbs
 J. W. Pennington,James H. Davis
@@ -1257,6 +1196,7 @@ J. W. Pennington,Philip A. Bell
 J. W. Pennington,Peter W. Ray
 J. W. Pennington,U. C. Farlen
 J. W. Pennington,Rand
+J. W. Pennington,Troy
 J. W. Pennington,William J. Watkins
 J. W. Pennington,Watkins
 J. W. Pennington,Robert Morris
@@ -1277,19 +1217,14 @@ J. W. Pennington,Johnson
 J. W. Pennington,Lawrence
 J. W. Pennington,G. I. Totlebein
 J. W. Pennington,Malakhov
-Peter Ray,Williamsburgh
 Peter Ray,Lewis Nelson
 Peter Ray,Wm. J. Wilson
 Peter Ray,J. N. Still
-Peter Ray,Catskill
 Peter Ray,Jacob Schemerhorn
 Peter Ray,Joseph Dell
-Peter Ray,Hudson
 Peter Ray,Chauncy Van Hussen
-Peter Ray,Peter Van De Zee New Baltimore
 Peter Ray,Lewis Jackson
 Peter Ray,John Jones
-Peter Ray,Sandy Lake
 Peter Ray,Francis Thompson
 Peter Ray,Peter Hornbeck
 Peter Ray,George Brown
@@ -1303,7 +1238,6 @@ Peter Ray,Stephen Myers
 Peter Ray,Joseph Newit
 Peter Ray,Benj
 Peter Ray,Bourman
-Peter Ray,Troy
 Peter Ray,Wm. Rich
 Peter Ray,Jonathan C. Gibbs
 Peter Ray,James H. Davis
@@ -1357,6 +1291,7 @@ Peter Ray,Philip A. Bell
 Peter Ray,Peter W. Ray
 Peter Ray,U. C. Farlen
 Peter Ray,Rand
+Peter Ray,Troy
 Peter Ray,William J. Watkins
 Peter Ray,Watkins
 Peter Ray,Robert Morris
@@ -1377,116 +1312,13 @@ Peter Ray,Johnson
 Peter Ray,Lawrence
 Peter Ray,G. I. Totlebein
 Peter Ray,Malakhov
-Williamsburgh,Lewis Nelson
-Williamsburgh,Wm. J. Wilson
-Williamsburgh,J. N. Still
-Williamsburgh,Catskill
-Williamsburgh,Jacob Schemerhorn
-Williamsburgh,Joseph Dell
-Williamsburgh,Hudson
-Williamsburgh,Chauncy Van Hussen
-Williamsburgh,Peter Van De Zee New Baltimore
-Williamsburgh,Lewis Jackson
-Williamsburgh,John Jones
-Williamsburgh,Sandy Lake
-Williamsburgh,Francis Thompson
-Williamsburgh,Peter Hornbeck
-Williamsburgh,George Brown
-Williamsburgh,James Collins
-Williamsburgh,James Lewis
-Williamsburgh,J. W. Loguen
-Williamsburgh,James W. Randolph
-Williamsburgh,Wm. Gardiner
-Williamsburgh,Richard Wright
-Williamsburgh,Stephen Myers
-Williamsburgh,Joseph Newit
-Williamsburgh,Benj
-Williamsburgh,Bourman
-Williamsburgh,Troy
-Williamsburgh,Wm. Rich
-Williamsburgh,Jonathan C. Gibbs
-Williamsburgh,James H. Davis
-Williamsburgh,Uriah Boston
-Williamsburgh,Frederick Douglass
-Williamsburgh,Wm. J. Watkins
-Williamsburgh,Hodges
-Williamsburgh,J. J. Simonds
-Williamsburgh,Mathews
-Williamsburgh,Gibbs
-Williamsburgh,Bell
-Williamsburgh,Douglass
-Williamsburgh,J.J. Simonds
-Williamsburgh,Kelly
-Williamsburgh,Barbary Anna Stewart
-Williamsburgh,J. C. Gibbs
-Williamsburgh,Ray
-Williamsburgh,Joseph Bell
-Williamsburgh,R.A. Griffin
-Williamsburgh,Bowen
-Williamsburgh,Wayne
-Williamsburgh,Tompkins
-Williamsburgh,Madison
-Williamsburgh,Sullivan
-Williamsburgh,Montgomery
-Williamsburgh,G. F. Iverson
-Williamsburgh,Lewis
-Williamsburgh,Hamilton
-Williamsburgh,Warren
-Williamsburgh,Clinton
-Williamsburgh,St. Lawrence
-Williamsburgh,Greene
-Williamsburgh,Putnam
-Williamsburgh,C. B. Ray
-Williamsburgh,J. W. Duffin
-Williamsburgh,E. H. Mathews
-Williamsburgh,P. W. Ray
-Williamsburgh,S. Myers
-Williamsburgh,R. D. Kerndey
-Williamsburgh,Horace Greeley
-Williamsburgh,Daniel Webster
-Williamsburgh,Junius Of Lord Granville
-Williamsburgh,Cowper
-Williamsburgh,W.
-Williamsburgh,John
-Williamsburgh,Uncle Robert
-Williamsburgh,Rich
-Williamsburgh,Wm. J. Hodges
-Williamsburgh,A.B.
-Williamsburgh,Philip A. Bell
-Williamsburgh,Peter W. Ray
-Williamsburgh,U. C. Farlen
-Williamsburgh,Rand
-Williamsburgh,William J. Watkins
-Williamsburgh,Watkins
-Williamsburgh,Robert Morris
-Williamsburgh,Gerrit Smith
-Williamsburgh,John Mercer Langston
-Williamsburgh,Philip S. Foner
-Williamsburgh,John H. Wheeler
-Williamsburgh,Jane Johnson
-Williamsburgh,Daniel
-Williamsburgh,Isaiah
-Williamsburgh,Wheeler
-Williamsburgh,Passmore Williamson
-Williamsburgh,Williamson
-Williamsburgh,Jane
-Williamsburgh,John K. Kane
-Williamsburgh,Kane
-Williamsburgh,Johnson
-Williamsburgh,Lawrence
-Williamsburgh,G. I. Totlebein
-Williamsburgh,Malakhov
 Lewis Nelson,Wm. J. Wilson
 Lewis Nelson,J. N. Still
-Lewis Nelson,Catskill
 Lewis Nelson,Jacob Schemerhorn
 Lewis Nelson,Joseph Dell
-Lewis Nelson,Hudson
 Lewis Nelson,Chauncy Van Hussen
-Lewis Nelson,Peter Van De Zee New Baltimore
 Lewis Nelson,Lewis Jackson
 Lewis Nelson,John Jones
-Lewis Nelson,Sandy Lake
 Lewis Nelson,Francis Thompson
 Lewis Nelson,Peter Hornbeck
 Lewis Nelson,George Brown
@@ -1500,7 +1332,6 @@ Lewis Nelson,Stephen Myers
 Lewis Nelson,Joseph Newit
 Lewis Nelson,Benj
 Lewis Nelson,Bourman
-Lewis Nelson,Troy
 Lewis Nelson,Wm. Rich
 Lewis Nelson,Jonathan C. Gibbs
 Lewis Nelson,James H. Davis
@@ -1554,6 +1385,7 @@ Lewis Nelson,Philip A. Bell
 Lewis Nelson,Peter W. Ray
 Lewis Nelson,U. C. Farlen
 Lewis Nelson,Rand
+Lewis Nelson,Troy
 Lewis Nelson,William J. Watkins
 Lewis Nelson,Watkins
 Lewis Nelson,Robert Morris
@@ -1575,15 +1407,11 @@ Lewis Nelson,Lawrence
 Lewis Nelson,G. I. Totlebein
 Lewis Nelson,Malakhov
 Wm. J. Wilson,J. N. Still
-Wm. J. Wilson,Catskill
 Wm. J. Wilson,Jacob Schemerhorn
 Wm. J. Wilson,Joseph Dell
-Wm. J. Wilson,Hudson
 Wm. J. Wilson,Chauncy Van Hussen
-Wm. J. Wilson,Peter Van De Zee New Baltimore
 Wm. J. Wilson,Lewis Jackson
 Wm. J. Wilson,John Jones
-Wm. J. Wilson,Sandy Lake
 Wm. J. Wilson,Francis Thompson
 Wm. J. Wilson,Peter Hornbeck
 Wm. J. Wilson,George Brown
@@ -1597,7 +1425,6 @@ Wm. J. Wilson,Stephen Myers
 Wm. J. Wilson,Joseph Newit
 Wm. J. Wilson,Benj
 Wm. J. Wilson,Bourman
-Wm. J. Wilson,Troy
 Wm. J. Wilson,Wm. Rich
 Wm. J. Wilson,Jonathan C. Gibbs
 Wm. J. Wilson,James H. Davis
@@ -1651,6 +1478,7 @@ Wm. J. Wilson,Philip A. Bell
 Wm. J. Wilson,Peter W. Ray
 Wm. J. Wilson,U. C. Farlen
 Wm. J. Wilson,Rand
+Wm. J. Wilson,Troy
 Wm. J. Wilson,William J. Watkins
 Wm. J. Wilson,Watkins
 Wm. J. Wilson,Robert Morris
@@ -1671,15 +1499,11 @@ Wm. J. Wilson,Johnson
 Wm. J. Wilson,Lawrence
 Wm. J. Wilson,G. I. Totlebein
 Wm. J. Wilson,Malakhov
-J. N. Still,Catskill
 J. N. Still,Jacob Schemerhorn
 J. N. Still,Joseph Dell
-J. N. Still,Hudson
 J. N. Still,Chauncy Van Hussen
-J. N. Still,Peter Van De Zee New Baltimore
 J. N. Still,Lewis Jackson
 J. N. Still,John Jones
-J. N. Still,Sandy Lake
 J. N. Still,Francis Thompson
 J. N. Still,Peter Hornbeck
 J. N. Still,George Brown
@@ -1693,7 +1517,6 @@ J. N. Still,Stephen Myers
 J. N. Still,Joseph Newit
 J. N. Still,Benj
 J. N. Still,Bourman
-J. N. Still,Troy
 J. N. Still,Wm. Rich
 J. N. Still,Jonathan C. Gibbs
 J. N. Still,James H. Davis
@@ -1747,6 +1570,7 @@ J. N. Still,Philip A. Bell
 J. N. Still,Peter W. Ray
 J. N. Still,U. C. Farlen
 J. N. Still,Rand
+J. N. Still,Troy
 J. N. Still,William J. Watkins
 J. N. Still,Watkins
 J. N. Still,Robert Morris
@@ -1767,108 +1591,10 @@ J. N. Still,Johnson
 J. N. Still,Lawrence
 J. N. Still,G. I. Totlebein
 J. N. Still,Malakhov
-Catskill,Jacob Schemerhorn
-Catskill,Joseph Dell
-Catskill,Hudson
-Catskill,Chauncy Van Hussen
-Catskill,Peter Van De Zee New Baltimore
-Catskill,Lewis Jackson
-Catskill,John Jones
-Catskill,Sandy Lake
-Catskill,Francis Thompson
-Catskill,Peter Hornbeck
-Catskill,George Brown
-Catskill,James Collins
-Catskill,James Lewis
-Catskill,J. W. Loguen
-Catskill,James W. Randolph
-Catskill,Wm. Gardiner
-Catskill,Richard Wright
-Catskill,Stephen Myers
-Catskill,Joseph Newit
-Catskill,Benj
-Catskill,Bourman
-Catskill,Troy
-Catskill,Wm. Rich
-Catskill,Jonathan C. Gibbs
-Catskill,James H. Davis
-Catskill,Uriah Boston
-Catskill,Frederick Douglass
-Catskill,Wm. J. Watkins
-Catskill,Hodges
-Catskill,J. J. Simonds
-Catskill,Mathews
-Catskill,Gibbs
-Catskill,Bell
-Catskill,Douglass
-Catskill,J.J. Simonds
-Catskill,Kelly
-Catskill,Barbary Anna Stewart
-Catskill,J. C. Gibbs
-Catskill,Ray
-Catskill,Joseph Bell
-Catskill,R.A. Griffin
-Catskill,Bowen
-Catskill,Wayne
-Catskill,Tompkins
-Catskill,Madison
-Catskill,Sullivan
-Catskill,Montgomery
-Catskill,G. F. Iverson
-Catskill,Lewis
-Catskill,Hamilton
-Catskill,Warren
-Catskill,Clinton
-Catskill,St. Lawrence
-Catskill,Greene
-Catskill,Putnam
-Catskill,C. B. Ray
-Catskill,J. W. Duffin
-Catskill,E. H. Mathews
-Catskill,P. W. Ray
-Catskill,S. Myers
-Catskill,R. D. Kerndey
-Catskill,Horace Greeley
-Catskill,Daniel Webster
-Catskill,Junius Of Lord Granville
-Catskill,Cowper
-Catskill,W.
-Catskill,John
-Catskill,Uncle Robert
-Catskill,Rich
-Catskill,Wm. J. Hodges
-Catskill,A.B.
-Catskill,Philip A. Bell
-Catskill,Peter W. Ray
-Catskill,U. C. Farlen
-Catskill,Rand
-Catskill,William J. Watkins
-Catskill,Watkins
-Catskill,Robert Morris
-Catskill,Gerrit Smith
-Catskill,John Mercer Langston
-Catskill,Philip S. Foner
-Catskill,John H. Wheeler
-Catskill,Jane Johnson
-Catskill,Daniel
-Catskill,Isaiah
-Catskill,Wheeler
-Catskill,Passmore Williamson
-Catskill,Williamson
-Catskill,Jane
-Catskill,John K. Kane
-Catskill,Kane
-Catskill,Johnson
-Catskill,Lawrence
-Catskill,G. I. Totlebein
-Catskill,Malakhov
 Jacob Schemerhorn,Joseph Dell
-Jacob Schemerhorn,Hudson
 Jacob Schemerhorn,Chauncy Van Hussen
-Jacob Schemerhorn,Peter Van De Zee New Baltimore
 Jacob Schemerhorn,Lewis Jackson
 Jacob Schemerhorn,John Jones
-Jacob Schemerhorn,Sandy Lake
 Jacob Schemerhorn,Francis Thompson
 Jacob Schemerhorn,Peter Hornbeck
 Jacob Schemerhorn,George Brown
@@ -1882,7 +1608,6 @@ Jacob Schemerhorn,Stephen Myers
 Jacob Schemerhorn,Joseph Newit
 Jacob Schemerhorn,Benj
 Jacob Schemerhorn,Bourman
-Jacob Schemerhorn,Troy
 Jacob Schemerhorn,Wm. Rich
 Jacob Schemerhorn,Jonathan C. Gibbs
 Jacob Schemerhorn,James H. Davis
@@ -1936,6 +1661,7 @@ Jacob Schemerhorn,Philip A. Bell
 Jacob Schemerhorn,Peter W. Ray
 Jacob Schemerhorn,U. C. Farlen
 Jacob Schemerhorn,Rand
+Jacob Schemerhorn,Troy
 Jacob Schemerhorn,William J. Watkins
 Jacob Schemerhorn,Watkins
 Jacob Schemerhorn,Robert Morris
@@ -1956,12 +1682,9 @@ Jacob Schemerhorn,Johnson
 Jacob Schemerhorn,Lawrence
 Jacob Schemerhorn,G. I. Totlebein
 Jacob Schemerhorn,Malakhov
-Joseph Dell,Hudson
 Joseph Dell,Chauncy Van Hussen
-Joseph Dell,Peter Van De Zee New Baltimore
 Joseph Dell,Lewis Jackson
 Joseph Dell,John Jones
-Joseph Dell,Sandy Lake
 Joseph Dell,Francis Thompson
 Joseph Dell,Peter Hornbeck
 Joseph Dell,George Brown
@@ -1975,7 +1698,6 @@ Joseph Dell,Stephen Myers
 Joseph Dell,Joseph Newit
 Joseph Dell,Benj
 Joseph Dell,Bourman
-Joseph Dell,Troy
 Joseph Dell,Wm. Rich
 Joseph Dell,Jonathan C. Gibbs
 Joseph Dell,James H. Davis
@@ -2029,6 +1751,7 @@ Joseph Dell,Philip A. Bell
 Joseph Dell,Peter W. Ray
 Joseph Dell,U. C. Farlen
 Joseph Dell,Rand
+Joseph Dell,Troy
 Joseph Dell,William J. Watkins
 Joseph Dell,Watkins
 Joseph Dell,Robert Morris
@@ -2049,102 +1772,8 @@ Joseph Dell,Johnson
 Joseph Dell,Lawrence
 Joseph Dell,G. I. Totlebein
 Joseph Dell,Malakhov
-Hudson,Chauncy Van Hussen
-Hudson,Peter Van De Zee New Baltimore
-Hudson,Lewis Jackson
-Hudson,John Jones
-Hudson,Sandy Lake
-Hudson,Francis Thompson
-Hudson,Peter Hornbeck
-Hudson,George Brown
-Hudson,James Collins
-Hudson,James Lewis
-Hudson,J. W. Loguen
-Hudson,James W. Randolph
-Hudson,Wm. Gardiner
-Hudson,Richard Wright
-Hudson,Stephen Myers
-Hudson,Joseph Newit
-Hudson,Benj
-Hudson,Bourman
-Hudson,Troy
-Hudson,Wm. Rich
-Hudson,Jonathan C. Gibbs
-Hudson,James H. Davis
-Hudson,Uriah Boston
-Hudson,Frederick Douglass
-Hudson,Wm. J. Watkins
-Hudson,Hodges
-Hudson,J. J. Simonds
-Hudson,Mathews
-Hudson,Gibbs
-Hudson,Bell
-Hudson,Douglass
-Hudson,J.J. Simonds
-Hudson,Kelly
-Hudson,Barbary Anna Stewart
-Hudson,J. C. Gibbs
-Hudson,Ray
-Hudson,Joseph Bell
-Hudson,R.A. Griffin
-Hudson,Bowen
-Hudson,Wayne
-Hudson,Tompkins
-Hudson,Madison
-Hudson,Sullivan
-Hudson,Montgomery
-Hudson,G. F. Iverson
-Hudson,Lewis
-Hudson,Hamilton
-Hudson,Warren
-Hudson,Clinton
-Hudson,St. Lawrence
-Hudson,Greene
-Hudson,Putnam
-Hudson,C. B. Ray
-Hudson,J. W. Duffin
-Hudson,E. H. Mathews
-Hudson,P. W. Ray
-Hudson,S. Myers
-Hudson,R. D. Kerndey
-Hudson,Horace Greeley
-Hudson,Daniel Webster
-Hudson,Junius Of Lord Granville
-Hudson,Cowper
-Hudson,W.
-Hudson,John
-Hudson,Uncle Robert
-Hudson,Rich
-Hudson,Wm. J. Hodges
-Hudson,A.B.
-Hudson,Philip A. Bell
-Hudson,Peter W. Ray
-Hudson,U. C. Farlen
-Hudson,Rand
-Hudson,William J. Watkins
-Hudson,Watkins
-Hudson,Robert Morris
-Hudson,Gerrit Smith
-Hudson,John Mercer Langston
-Hudson,Philip S. Foner
-Hudson,John H. Wheeler
-Hudson,Jane Johnson
-Hudson,Daniel
-Hudson,Isaiah
-Hudson,Wheeler
-Hudson,Passmore Williamson
-Hudson,Williamson
-Hudson,Jane
-Hudson,John K. Kane
-Hudson,Kane
-Hudson,Johnson
-Hudson,Lawrence
-Hudson,G. I. Totlebein
-Hudson,Malakhov
-Chauncy Van Hussen,Peter Van De Zee New Baltimore
 Chauncy Van Hussen,Lewis Jackson
 Chauncy Van Hussen,John Jones
-Chauncy Van Hussen,Sandy Lake
 Chauncy Van Hussen,Francis Thompson
 Chauncy Van Hussen,Peter Hornbeck
 Chauncy Van Hussen,George Brown
@@ -2158,7 +1787,6 @@ Chauncy Van Hussen,Stephen Myers
 Chauncy Van Hussen,Joseph Newit
 Chauncy Van Hussen,Benj
 Chauncy Van Hussen,Bourman
-Chauncy Van Hussen,Troy
 Chauncy Van Hussen,Wm. Rich
 Chauncy Van Hussen,Jonathan C. Gibbs
 Chauncy Van Hussen,James H. Davis
@@ -2212,6 +1840,7 @@ Chauncy Van Hussen,Philip A. Bell
 Chauncy Van Hussen,Peter W. Ray
 Chauncy Van Hussen,U. C. Farlen
 Chauncy Van Hussen,Rand
+Chauncy Van Hussen,Troy
 Chauncy Van Hussen,William J. Watkins
 Chauncy Van Hussen,Watkins
 Chauncy Van Hussen,Robert Morris
@@ -2232,98 +1861,7 @@ Chauncy Van Hussen,Johnson
 Chauncy Van Hussen,Lawrence
 Chauncy Van Hussen,G. I. Totlebein
 Chauncy Van Hussen,Malakhov
-Peter Van De Zee New Baltimore,Lewis Jackson
-Peter Van De Zee New Baltimore,John Jones
-Peter Van De Zee New Baltimore,Sandy Lake
-Peter Van De Zee New Baltimore,Francis Thompson
-Peter Van De Zee New Baltimore,Peter Hornbeck
-Peter Van De Zee New Baltimore,George Brown
-Peter Van De Zee New Baltimore,James Collins
-Peter Van De Zee New Baltimore,James Lewis
-Peter Van De Zee New Baltimore,J. W. Loguen
-Peter Van De Zee New Baltimore,James W. Randolph
-Peter Van De Zee New Baltimore,Wm. Gardiner
-Peter Van De Zee New Baltimore,Richard Wright
-Peter Van De Zee New Baltimore,Stephen Myers
-Peter Van De Zee New Baltimore,Joseph Newit
-Peter Van De Zee New Baltimore,Benj
-Peter Van De Zee New Baltimore,Bourman
-Peter Van De Zee New Baltimore,Troy
-Peter Van De Zee New Baltimore,Wm. Rich
-Peter Van De Zee New Baltimore,Jonathan C. Gibbs
-Peter Van De Zee New Baltimore,James H. Davis
-Peter Van De Zee New Baltimore,Uriah Boston
-Peter Van De Zee New Baltimore,Frederick Douglass
-Peter Van De Zee New Baltimore,Wm. J. Watkins
-Peter Van De Zee New Baltimore,Hodges
-Peter Van De Zee New Baltimore,J. J. Simonds
-Peter Van De Zee New Baltimore,Mathews
-Peter Van De Zee New Baltimore,Gibbs
-Peter Van De Zee New Baltimore,Bell
-Peter Van De Zee New Baltimore,Douglass
-Peter Van De Zee New Baltimore,J.J. Simonds
-Peter Van De Zee New Baltimore,Kelly
-Peter Van De Zee New Baltimore,Barbary Anna Stewart
-Peter Van De Zee New Baltimore,J. C. Gibbs
-Peter Van De Zee New Baltimore,Ray
-Peter Van De Zee New Baltimore,Joseph Bell
-Peter Van De Zee New Baltimore,R.A. Griffin
-Peter Van De Zee New Baltimore,Bowen
-Peter Van De Zee New Baltimore,Wayne
-Peter Van De Zee New Baltimore,Tompkins
-Peter Van De Zee New Baltimore,Madison
-Peter Van De Zee New Baltimore,Sullivan
-Peter Van De Zee New Baltimore,Montgomery
-Peter Van De Zee New Baltimore,G. F. Iverson
-Peter Van De Zee New Baltimore,Lewis
-Peter Van De Zee New Baltimore,Hamilton
-Peter Van De Zee New Baltimore,Warren
-Peter Van De Zee New Baltimore,Clinton
-Peter Van De Zee New Baltimore,St. Lawrence
-Peter Van De Zee New Baltimore,Greene
-Peter Van De Zee New Baltimore,Putnam
-Peter Van De Zee New Baltimore,C. B. Ray
-Peter Van De Zee New Baltimore,J. W. Duffin
-Peter Van De Zee New Baltimore,E. H. Mathews
-Peter Van De Zee New Baltimore,P. W. Ray
-Peter Van De Zee New Baltimore,S. Myers
-Peter Van De Zee New Baltimore,R. D. Kerndey
-Peter Van De Zee New Baltimore,Horace Greeley
-Peter Van De Zee New Baltimore,Daniel Webster
-Peter Van De Zee New Baltimore,Junius Of Lord Granville
-Peter Van De Zee New Baltimore,Cowper
-Peter Van De Zee New Baltimore,W.
-Peter Van De Zee New Baltimore,John
-Peter Van De Zee New Baltimore,Uncle Robert
-Peter Van De Zee New Baltimore,Rich
-Peter Van De Zee New Baltimore,Wm. J. Hodges
-Peter Van De Zee New Baltimore,A.B.
-Peter Van De Zee New Baltimore,Philip A. Bell
-Peter Van De Zee New Baltimore,Peter W. Ray
-Peter Van De Zee New Baltimore,U. C. Farlen
-Peter Van De Zee New Baltimore,Rand
-Peter Van De Zee New Baltimore,William J. Watkins
-Peter Van De Zee New Baltimore,Watkins
-Peter Van De Zee New Baltimore,Robert Morris
-Peter Van De Zee New Baltimore,Gerrit Smith
-Peter Van De Zee New Baltimore,John Mercer Langston
-Peter Van De Zee New Baltimore,Philip S. Foner
-Peter Van De Zee New Baltimore,John H. Wheeler
-Peter Van De Zee New Baltimore,Jane Johnson
-Peter Van De Zee New Baltimore,Daniel
-Peter Van De Zee New Baltimore,Isaiah
-Peter Van De Zee New Baltimore,Wheeler
-Peter Van De Zee New Baltimore,Passmore Williamson
-Peter Van De Zee New Baltimore,Williamson
-Peter Van De Zee New Baltimore,Jane
-Peter Van De Zee New Baltimore,John K. Kane
-Peter Van De Zee New Baltimore,Kane
-Peter Van De Zee New Baltimore,Johnson
-Peter Van De Zee New Baltimore,Lawrence
-Peter Van De Zee New Baltimore,G. I. Totlebein
-Peter Van De Zee New Baltimore,Malakhov
 Lewis Jackson,John Jones
-Lewis Jackson,Sandy Lake
 Lewis Jackson,Francis Thompson
 Lewis Jackson,Peter Hornbeck
 Lewis Jackson,George Brown
@@ -2337,7 +1875,6 @@ Lewis Jackson,Stephen Myers
 Lewis Jackson,Joseph Newit
 Lewis Jackson,Benj
 Lewis Jackson,Bourman
-Lewis Jackson,Troy
 Lewis Jackson,Wm. Rich
 Lewis Jackson,Jonathan C. Gibbs
 Lewis Jackson,James H. Davis
@@ -2391,6 +1928,7 @@ Lewis Jackson,Philip A. Bell
 Lewis Jackson,Peter W. Ray
 Lewis Jackson,U. C. Farlen
 Lewis Jackson,Rand
+Lewis Jackson,Troy
 Lewis Jackson,William J. Watkins
 Lewis Jackson,Watkins
 Lewis Jackson,Robert Morris
@@ -2411,7 +1949,6 @@ Lewis Jackson,Johnson
 Lewis Jackson,Lawrence
 Lewis Jackson,G. I. Totlebein
 Lewis Jackson,Malakhov
-John Jones,Sandy Lake
 John Jones,Francis Thompson
 John Jones,Peter Hornbeck
 John Jones,George Brown
@@ -2425,7 +1962,6 @@ John Jones,Stephen Myers
 John Jones,Joseph Newit
 John Jones,Benj
 John Jones,Bourman
-John Jones,Troy
 John Jones,Wm. Rich
 John Jones,Jonathan C. Gibbs
 John Jones,James H. Davis
@@ -2479,6 +2015,7 @@ John Jones,Philip A. Bell
 John Jones,Peter W. Ray
 John Jones,U. C. Farlen
 John Jones,Rand
+John Jones,Troy
 John Jones,William J. Watkins
 John Jones,Watkins
 John Jones,Robert Morris
@@ -2499,93 +2036,6 @@ John Jones,Johnson
 John Jones,Lawrence
 John Jones,G. I. Totlebein
 John Jones,Malakhov
-Sandy Lake,Francis Thompson
-Sandy Lake,Peter Hornbeck
-Sandy Lake,George Brown
-Sandy Lake,James Collins
-Sandy Lake,James Lewis
-Sandy Lake,J. W. Loguen
-Sandy Lake,James W. Randolph
-Sandy Lake,Wm. Gardiner
-Sandy Lake,Richard Wright
-Sandy Lake,Stephen Myers
-Sandy Lake,Joseph Newit
-Sandy Lake,Benj
-Sandy Lake,Bourman
-Sandy Lake,Troy
-Sandy Lake,Wm. Rich
-Sandy Lake,Jonathan C. Gibbs
-Sandy Lake,James H. Davis
-Sandy Lake,Uriah Boston
-Sandy Lake,Frederick Douglass
-Sandy Lake,Wm. J. Watkins
-Sandy Lake,Hodges
-Sandy Lake,J. J. Simonds
-Sandy Lake,Mathews
-Sandy Lake,Gibbs
-Sandy Lake,Bell
-Sandy Lake,Douglass
-Sandy Lake,J.J. Simonds
-Sandy Lake,Kelly
-Sandy Lake,Barbary Anna Stewart
-Sandy Lake,J. C. Gibbs
-Sandy Lake,Ray
-Sandy Lake,Joseph Bell
-Sandy Lake,R.A. Griffin
-Sandy Lake,Bowen
-Sandy Lake,Wayne
-Sandy Lake,Tompkins
-Sandy Lake,Madison
-Sandy Lake,Sullivan
-Sandy Lake,Montgomery
-Sandy Lake,G. F. Iverson
-Sandy Lake,Lewis
-Sandy Lake,Hamilton
-Sandy Lake,Warren
-Sandy Lake,Clinton
-Sandy Lake,St. Lawrence
-Sandy Lake,Greene
-Sandy Lake,Putnam
-Sandy Lake,C. B. Ray
-Sandy Lake,J. W. Duffin
-Sandy Lake,E. H. Mathews
-Sandy Lake,P. W. Ray
-Sandy Lake,S. Myers
-Sandy Lake,R. D. Kerndey
-Sandy Lake,Horace Greeley
-Sandy Lake,Daniel Webster
-Sandy Lake,Junius Of Lord Granville
-Sandy Lake,Cowper
-Sandy Lake,W.
-Sandy Lake,John
-Sandy Lake,Uncle Robert
-Sandy Lake,Rich
-Sandy Lake,Wm. J. Hodges
-Sandy Lake,A.B.
-Sandy Lake,Philip A. Bell
-Sandy Lake,Peter W. Ray
-Sandy Lake,U. C. Farlen
-Sandy Lake,Rand
-Sandy Lake,William J. Watkins
-Sandy Lake,Watkins
-Sandy Lake,Robert Morris
-Sandy Lake,Gerrit Smith
-Sandy Lake,John Mercer Langston
-Sandy Lake,Philip S. Foner
-Sandy Lake,John H. Wheeler
-Sandy Lake,Jane Johnson
-Sandy Lake,Daniel
-Sandy Lake,Isaiah
-Sandy Lake,Wheeler
-Sandy Lake,Passmore Williamson
-Sandy Lake,Williamson
-Sandy Lake,Jane
-Sandy Lake,John K. Kane
-Sandy Lake,Kane
-Sandy Lake,Johnson
-Sandy Lake,Lawrence
-Sandy Lake,G. I. Totlebein
-Sandy Lake,Malakhov
 Francis Thompson,Peter Hornbeck
 Francis Thompson,George Brown
 Francis Thompson,James Collins
@@ -2598,7 +2048,6 @@ Francis Thompson,Stephen Myers
 Francis Thompson,Joseph Newit
 Francis Thompson,Benj
 Francis Thompson,Bourman
-Francis Thompson,Troy
 Francis Thompson,Wm. Rich
 Francis Thompson,Jonathan C. Gibbs
 Francis Thompson,James H. Davis
@@ -2652,6 +2101,7 @@ Francis Thompson,Philip A. Bell
 Francis Thompson,Peter W. Ray
 Francis Thompson,U. C. Farlen
 Francis Thompson,Rand
+Francis Thompson,Troy
 Francis Thompson,William J. Watkins
 Francis Thompson,Watkins
 Francis Thompson,Robert Morris
@@ -2683,7 +2133,6 @@ Peter Hornbeck,Stephen Myers
 Peter Hornbeck,Joseph Newit
 Peter Hornbeck,Benj
 Peter Hornbeck,Bourman
-Peter Hornbeck,Troy
 Peter Hornbeck,Wm. Rich
 Peter Hornbeck,Jonathan C. Gibbs
 Peter Hornbeck,James H. Davis
@@ -2737,6 +2186,7 @@ Peter Hornbeck,Philip A. Bell
 Peter Hornbeck,Peter W. Ray
 Peter Hornbeck,U. C. Farlen
 Peter Hornbeck,Rand
+Peter Hornbeck,Troy
 Peter Hornbeck,William J. Watkins
 Peter Hornbeck,Watkins
 Peter Hornbeck,Robert Morris
@@ -2767,7 +2217,6 @@ George Brown,Stephen Myers
 George Brown,Joseph Newit
 George Brown,Benj
 George Brown,Bourman
-George Brown,Troy
 George Brown,Wm. Rich
 George Brown,Jonathan C. Gibbs
 George Brown,James H. Davis
@@ -2821,6 +2270,7 @@ George Brown,Philip A. Bell
 George Brown,Peter W. Ray
 George Brown,U. C. Farlen
 George Brown,Rand
+George Brown,Troy
 George Brown,William J. Watkins
 George Brown,Watkins
 George Brown,Robert Morris
@@ -2850,7 +2300,6 @@ James Collins,Stephen Myers
 James Collins,Joseph Newit
 James Collins,Benj
 James Collins,Bourman
-James Collins,Troy
 James Collins,Wm. Rich
 James Collins,Jonathan C. Gibbs
 James Collins,James H. Davis
@@ -2904,6 +2353,7 @@ James Collins,Philip A. Bell
 James Collins,Peter W. Ray
 James Collins,U. C. Farlen
 James Collins,Rand
+James Collins,Troy
 James Collins,William J. Watkins
 James Collins,Watkins
 James Collins,Robert Morris
@@ -2932,7 +2382,6 @@ James Lewis,Stephen Myers
 James Lewis,Joseph Newit
 James Lewis,Benj
 James Lewis,Bourman
-James Lewis,Troy
 James Lewis,Wm. Rich
 James Lewis,Jonathan C. Gibbs
 James Lewis,James H. Davis
@@ -2986,6 +2435,7 @@ James Lewis,Philip A. Bell
 James Lewis,Peter W. Ray
 James Lewis,U. C. Farlen
 James Lewis,Rand
+James Lewis,Troy
 James Lewis,William J. Watkins
 James Lewis,Watkins
 James Lewis,Robert Morris
@@ -3013,7 +2463,6 @@ J. W. Loguen,Stephen Myers
 J. W. Loguen,Joseph Newit
 J. W. Loguen,Benj
 J. W. Loguen,Bourman
-J. W. Loguen,Troy
 J. W. Loguen,Wm. Rich
 J. W. Loguen,Jonathan C. Gibbs
 J. W. Loguen,James H. Davis
@@ -3067,6 +2516,7 @@ J. W. Loguen,Philip A. Bell
 J. W. Loguen,Peter W. Ray
 J. W. Loguen,U. C. Farlen
 J. W. Loguen,Rand
+J. W. Loguen,Troy
 J. W. Loguen,William J. Watkins
 J. W. Loguen,Watkins
 J. W. Loguen,Robert Morris
@@ -3093,7 +2543,6 @@ James W. Randolph,Stephen Myers
 James W. Randolph,Joseph Newit
 James W. Randolph,Benj
 James W. Randolph,Bourman
-James W. Randolph,Troy
 James W. Randolph,Wm. Rich
 James W. Randolph,Jonathan C. Gibbs
 James W. Randolph,James H. Davis
@@ -3147,6 +2596,7 @@ James W. Randolph,Philip A. Bell
 James W. Randolph,Peter W. Ray
 James W. Randolph,U. C. Farlen
 James W. Randolph,Rand
+James W. Randolph,Troy
 James W. Randolph,William J. Watkins
 James W. Randolph,Watkins
 James W. Randolph,Robert Morris
@@ -3172,7 +2622,6 @@ Wm. Gardiner,Stephen Myers
 Wm. Gardiner,Joseph Newit
 Wm. Gardiner,Benj
 Wm. Gardiner,Bourman
-Wm. Gardiner,Troy
 Wm. Gardiner,Wm. Rich
 Wm. Gardiner,Jonathan C. Gibbs
 Wm. Gardiner,James H. Davis
@@ -3226,6 +2675,7 @@ Wm. Gardiner,Philip A. Bell
 Wm. Gardiner,Peter W. Ray
 Wm. Gardiner,U. C. Farlen
 Wm. Gardiner,Rand
+Wm. Gardiner,Troy
 Wm. Gardiner,William J. Watkins
 Wm. Gardiner,Watkins
 Wm. Gardiner,Robert Morris
@@ -3250,7 +2700,6 @@ Richard Wright,Stephen Myers
 Richard Wright,Joseph Newit
 Richard Wright,Benj
 Richard Wright,Bourman
-Richard Wright,Troy
 Richard Wright,Wm. Rich
 Richard Wright,Jonathan C. Gibbs
 Richard Wright,James H. Davis
@@ -3304,6 +2753,7 @@ Richard Wright,Philip A. Bell
 Richard Wright,Peter W. Ray
 Richard Wright,U. C. Farlen
 Richard Wright,Rand
+Richard Wright,Troy
 Richard Wright,William J. Watkins
 Richard Wright,Watkins
 Richard Wright,Robert Morris
@@ -3327,7 +2777,6 @@ Richard Wright,Malakhov
 Stephen Myers,Joseph Newit
 Stephen Myers,Benj
 Stephen Myers,Bourman
-Stephen Myers,Troy
 Stephen Myers,Wm. Rich
 Stephen Myers,Jonathan C. Gibbs
 Stephen Myers,James H. Davis
@@ -3381,6 +2830,7 @@ Stephen Myers,Philip A. Bell
 Stephen Myers,Peter W. Ray
 Stephen Myers,U. C. Farlen
 Stephen Myers,Rand
+Stephen Myers,Troy
 Stephen Myers,William J. Watkins
 Stephen Myers,Watkins
 Stephen Myers,Robert Morris
@@ -3403,7 +2853,6 @@ Stephen Myers,G. I. Totlebein
 Stephen Myers,Malakhov
 Joseph Newit,Benj
 Joseph Newit,Bourman
-Joseph Newit,Troy
 Joseph Newit,Wm. Rich
 Joseph Newit,Jonathan C. Gibbs
 Joseph Newit,James H. Davis
@@ -3457,6 +2906,7 @@ Joseph Newit,Philip A. Bell
 Joseph Newit,Peter W. Ray
 Joseph Newit,U. C. Farlen
 Joseph Newit,Rand
+Joseph Newit,Troy
 Joseph Newit,William J. Watkins
 Joseph Newit,Watkins
 Joseph Newit,Robert Morris
@@ -3478,7 +2928,6 @@ Joseph Newit,Lawrence
 Joseph Newit,G. I. Totlebein
 Joseph Newit,Malakhov
 Benj,Bourman
-Benj,Troy
 Benj,Wm. Rich
 Benj,Jonathan C. Gibbs
 Benj,James H. Davis
@@ -3532,6 +2981,7 @@ Benj,Philip A. Bell
 Benj,Peter W. Ray
 Benj,U. C. Farlen
 Benj,Rand
+Benj,Troy
 Benj,William J. Watkins
 Benj,Watkins
 Benj,Robert Morris
@@ -3552,7 +3002,6 @@ Benj,Johnson
 Benj,Lawrence
 Benj,G. I. Totlebein
 Benj,Malakhov
-Bourman,Troy
 Bourman,Wm. Rich
 Bourman,Jonathan C. Gibbs
 Bourman,James H. Davis
@@ -3606,6 +3055,7 @@ Bourman,Philip A. Bell
 Bourman,Peter W. Ray
 Bourman,U. C. Farlen
 Bourman,Rand
+Bourman,Troy
 Bourman,William J. Watkins
 Bourman,Watkins
 Bourman,Robert Morris
@@ -3626,79 +3076,6 @@ Bourman,Johnson
 Bourman,Lawrence
 Bourman,G. I. Totlebein
 Bourman,Malakhov
-Troy,Wm. Rich
-Troy,Jonathan C. Gibbs
-Troy,James H. Davis
-Troy,Uriah Boston
-Troy,Frederick Douglass
-Troy,Wm. J. Watkins
-Troy,Hodges
-Troy,J. J. Simonds
-Troy,Mathews
-Troy,Gibbs
-Troy,Bell
-Troy,Douglass
-Troy,J.J. Simonds
-Troy,Kelly
-Troy,Barbary Anna Stewart
-Troy,J. C. Gibbs
-Troy,Ray
-Troy,Joseph Bell
-Troy,R.A. Griffin
-Troy,Bowen
-Troy,Wayne
-Troy,Tompkins
-Troy,Madison
-Troy,Sullivan
-Troy,Montgomery
-Troy,G. F. Iverson
-Troy,Lewis
-Troy,Hamilton
-Troy,Warren
-Troy,Clinton
-Troy,St. Lawrence
-Troy,Greene
-Troy,Putnam
-Troy,C. B. Ray
-Troy,J. W. Duffin
-Troy,E. H. Mathews
-Troy,P. W. Ray
-Troy,S. Myers
-Troy,R. D. Kerndey
-Troy,Horace Greeley
-Troy,Daniel Webster
-Troy,Junius Of Lord Granville
-Troy,Cowper
-Troy,W.
-Troy,John
-Troy,Uncle Robert
-Troy,Rich
-Troy,Wm. J. Hodges
-Troy,A.B.
-Troy,Philip A. Bell
-Troy,Peter W. Ray
-Troy,U. C. Farlen
-Troy,Rand
-Troy,William J. Watkins
-Troy,Watkins
-Troy,Robert Morris
-Troy,Gerrit Smith
-Troy,John Mercer Langston
-Troy,Philip S. Foner
-Troy,John H. Wheeler
-Troy,Jane Johnson
-Troy,Daniel
-Troy,Isaiah
-Troy,Wheeler
-Troy,Passmore Williamson
-Troy,Williamson
-Troy,Jane
-Troy,John K. Kane
-Troy,Kane
-Troy,Johnson
-Troy,Lawrence
-Troy,G. I. Totlebein
-Troy,Malakhov
 Wm. Rich,Jonathan C. Gibbs
 Wm. Rich,James H. Davis
 Wm. Rich,Uriah Boston
@@ -3751,6 +3128,7 @@ Wm. Rich,Philip A. Bell
 Wm. Rich,Peter W. Ray
 Wm. Rich,U. C. Farlen
 Wm. Rich,Rand
+Wm. Rich,Troy
 Wm. Rich,William J. Watkins
 Wm. Rich,Watkins
 Wm. Rich,Robert Morris
@@ -3822,6 +3200,7 @@ Jonathan C. Gibbs,Philip A. Bell
 Jonathan C. Gibbs,Peter W. Ray
 Jonathan C. Gibbs,U. C. Farlen
 Jonathan C. Gibbs,Rand
+Jonathan C. Gibbs,Troy
 Jonathan C. Gibbs,William J. Watkins
 Jonathan C. Gibbs,Watkins
 Jonathan C. Gibbs,Robert Morris
@@ -3892,6 +3271,7 @@ James H. Davis,Philip A. Bell
 James H. Davis,Peter W. Ray
 James H. Davis,U. C. Farlen
 James H. Davis,Rand
+James H. Davis,Troy
 James H. Davis,William J. Watkins
 James H. Davis,Watkins
 James H. Davis,Robert Morris
@@ -3961,6 +3341,7 @@ Uriah Boston,Philip A. Bell
 Uriah Boston,Peter W. Ray
 Uriah Boston,U. C. Farlen
 Uriah Boston,Rand
+Uriah Boston,Troy
 Uriah Boston,William J. Watkins
 Uriah Boston,Watkins
 Uriah Boston,Robert Morris
@@ -4029,6 +3410,7 @@ Frederick Douglass,Philip A. Bell
 Frederick Douglass,Peter W. Ray
 Frederick Douglass,U. C. Farlen
 Frederick Douglass,Rand
+Frederick Douglass,Troy
 Frederick Douglass,William J. Watkins
 Frederick Douglass,Watkins
 Frederick Douglass,Robert Morris
@@ -4096,6 +3478,7 @@ Wm. J. Watkins,Philip A. Bell
 Wm. J. Watkins,Peter W. Ray
 Wm. J. Watkins,U. C. Farlen
 Wm. J. Watkins,Rand
+Wm. J. Watkins,Troy
 Wm. J. Watkins,William J. Watkins
 Wm. J. Watkins,Watkins
 Wm. J. Watkins,Robert Morris
@@ -4162,6 +3545,7 @@ Hodges,Philip A. Bell
 Hodges,Peter W. Ray
 Hodges,U. C. Farlen
 Hodges,Rand
+Hodges,Troy
 Hodges,William J. Watkins
 Hodges,Watkins
 Hodges,Robert Morris
@@ -4227,6 +3611,7 @@ J. J. Simonds,Philip A. Bell
 J. J. Simonds,Peter W. Ray
 J. J. Simonds,U. C. Farlen
 J. J. Simonds,Rand
+J. J. Simonds,Troy
 J. J. Simonds,William J. Watkins
 J. J. Simonds,Watkins
 J. J. Simonds,Robert Morris
@@ -4291,6 +3676,7 @@ Mathews,Philip A. Bell
 Mathews,Peter W. Ray
 Mathews,U. C. Farlen
 Mathews,Rand
+Mathews,Troy
 Mathews,William J. Watkins
 Mathews,Watkins
 Mathews,Robert Morris
@@ -4354,6 +3740,7 @@ Gibbs,Philip A. Bell
 Gibbs,Peter W. Ray
 Gibbs,U. C. Farlen
 Gibbs,Rand
+Gibbs,Troy
 Gibbs,William J. Watkins
 Gibbs,Watkins
 Gibbs,Robert Morris
@@ -4416,6 +3803,7 @@ Bell,Philip A. Bell
 Bell,Peter W. Ray
 Bell,U. C. Farlen
 Bell,Rand
+Bell,Troy
 Bell,William J. Watkins
 Bell,Watkins
 Bell,Robert Morris
@@ -4477,6 +3865,7 @@ Douglass,Philip A. Bell
 Douglass,Peter W. Ray
 Douglass,U. C. Farlen
 Douglass,Rand
+Douglass,Troy
 Douglass,William J. Watkins
 Douglass,Watkins
 Douglass,Robert Morris
@@ -4537,6 +3926,7 @@ J.J. Simonds,Philip A. Bell
 J.J. Simonds,Peter W. Ray
 J.J. Simonds,U. C. Farlen
 J.J. Simonds,Rand
+J.J. Simonds,Troy
 J.J. Simonds,William J. Watkins
 J.J. Simonds,Watkins
 J.J. Simonds,Robert Morris
@@ -4596,6 +3986,7 @@ Kelly,Philip A. Bell
 Kelly,Peter W. Ray
 Kelly,U. C. Farlen
 Kelly,Rand
+Kelly,Troy
 Kelly,William J. Watkins
 Kelly,Watkins
 Kelly,Robert Morris
@@ -4654,6 +4045,7 @@ Barbary Anna Stewart,Philip A. Bell
 Barbary Anna Stewart,Peter W. Ray
 Barbary Anna Stewart,U. C. Farlen
 Barbary Anna Stewart,Rand
+Barbary Anna Stewart,Troy
 Barbary Anna Stewart,William J. Watkins
 Barbary Anna Stewart,Watkins
 Barbary Anna Stewart,Robert Morris
@@ -4711,6 +4103,7 @@ J. C. Gibbs,Philip A. Bell
 J. C. Gibbs,Peter W. Ray
 J. C. Gibbs,U. C. Farlen
 J. C. Gibbs,Rand
+J. C. Gibbs,Troy
 J. C. Gibbs,William J. Watkins
 J. C. Gibbs,Watkins
 J. C. Gibbs,Robert Morris
@@ -4767,6 +4160,7 @@ Ray,Philip A. Bell
 Ray,Peter W. Ray
 Ray,U. C. Farlen
 Ray,Rand
+Ray,Troy
 Ray,William J. Watkins
 Ray,Watkins
 Ray,Robert Morris
@@ -4822,6 +4216,7 @@ Joseph Bell,Philip A. Bell
 Joseph Bell,Peter W. Ray
 Joseph Bell,U. C. Farlen
 Joseph Bell,Rand
+Joseph Bell,Troy
 Joseph Bell,William J. Watkins
 Joseph Bell,Watkins
 Joseph Bell,Robert Morris
@@ -4876,6 +4271,7 @@ R.A. Griffin,Philip A. Bell
 R.A. Griffin,Peter W. Ray
 R.A. Griffin,U. C. Farlen
 R.A. Griffin,Rand
+R.A. Griffin,Troy
 R.A. Griffin,William J. Watkins
 R.A. Griffin,Watkins
 R.A. Griffin,Robert Morris
@@ -4929,6 +4325,7 @@ Bowen,Philip A. Bell
 Bowen,Peter W. Ray
 Bowen,U. C. Farlen
 Bowen,Rand
+Bowen,Troy
 Bowen,William J. Watkins
 Bowen,Watkins
 Bowen,Robert Morris
@@ -4981,6 +4378,7 @@ Wayne,Philip A. Bell
 Wayne,Peter W. Ray
 Wayne,U. C. Farlen
 Wayne,Rand
+Wayne,Troy
 Wayne,William J. Watkins
 Wayne,Watkins
 Wayne,Robert Morris
@@ -5032,6 +4430,7 @@ Tompkins,Philip A. Bell
 Tompkins,Peter W. Ray
 Tompkins,U. C. Farlen
 Tompkins,Rand
+Tompkins,Troy
 Tompkins,William J. Watkins
 Tompkins,Watkins
 Tompkins,Robert Morris
@@ -5082,6 +4481,7 @@ Madison,Philip A. Bell
 Madison,Peter W. Ray
 Madison,U. C. Farlen
 Madison,Rand
+Madison,Troy
 Madison,William J. Watkins
 Madison,Watkins
 Madison,Robert Morris
@@ -5131,6 +4531,7 @@ Sullivan,Philip A. Bell
 Sullivan,Peter W. Ray
 Sullivan,U. C. Farlen
 Sullivan,Rand
+Sullivan,Troy
 Sullivan,William J. Watkins
 Sullivan,Watkins
 Sullivan,Robert Morris
@@ -5179,6 +4580,7 @@ Montgomery,Philip A. Bell
 Montgomery,Peter W. Ray
 Montgomery,U. C. Farlen
 Montgomery,Rand
+Montgomery,Troy
 Montgomery,William J. Watkins
 Montgomery,Watkins
 Montgomery,Robert Morris
@@ -5226,6 +4628,7 @@ G. F. Iverson,Philip A. Bell
 G. F. Iverson,Peter W. Ray
 G. F. Iverson,U. C. Farlen
 G. F. Iverson,Rand
+G. F. Iverson,Troy
 G. F. Iverson,William J. Watkins
 G. F. Iverson,Watkins
 G. F. Iverson,Robert Morris
@@ -5272,6 +4675,7 @@ Lewis,Philip A. Bell
 Lewis,Peter W. Ray
 Lewis,U. C. Farlen
 Lewis,Rand
+Lewis,Troy
 Lewis,William J. Watkins
 Lewis,Watkins
 Lewis,Robert Morris
@@ -5317,6 +4721,7 @@ Hamilton,Philip A. Bell
 Hamilton,Peter W. Ray
 Hamilton,U. C. Farlen
 Hamilton,Rand
+Hamilton,Troy
 Hamilton,William J. Watkins
 Hamilton,Watkins
 Hamilton,Robert Morris
@@ -5361,6 +4766,7 @@ Warren,Philip A. Bell
 Warren,Peter W. Ray
 Warren,U. C. Farlen
 Warren,Rand
+Warren,Troy
 Warren,William J. Watkins
 Warren,Watkins
 Warren,Robert Morris
@@ -5404,6 +4810,7 @@ Clinton,Philip A. Bell
 Clinton,Peter W. Ray
 Clinton,U. C. Farlen
 Clinton,Rand
+Clinton,Troy
 Clinton,William J. Watkins
 Clinton,Watkins
 Clinton,Robert Morris
@@ -5446,6 +4853,7 @@ St. Lawrence,Philip A. Bell
 St. Lawrence,Peter W. Ray
 St. Lawrence,U. C. Farlen
 St. Lawrence,Rand
+St. Lawrence,Troy
 St. Lawrence,William J. Watkins
 St. Lawrence,Watkins
 St. Lawrence,Robert Morris
@@ -5487,6 +4895,7 @@ Greene,Philip A. Bell
 Greene,Peter W. Ray
 Greene,U. C. Farlen
 Greene,Rand
+Greene,Troy
 Greene,William J. Watkins
 Greene,Watkins
 Greene,Robert Morris
@@ -5527,6 +4936,7 @@ Putnam,Philip A. Bell
 Putnam,Peter W. Ray
 Putnam,U. C. Farlen
 Putnam,Rand
+Putnam,Troy
 Putnam,William J. Watkins
 Putnam,Watkins
 Putnam,Robert Morris
@@ -5566,6 +4976,7 @@ C. B. Ray,Philip A. Bell
 C. B. Ray,Peter W. Ray
 C. B. Ray,U. C. Farlen
 C. B. Ray,Rand
+C. B. Ray,Troy
 C. B. Ray,William J. Watkins
 C. B. Ray,Watkins
 C. B. Ray,Robert Morris
@@ -5604,6 +5015,7 @@ J. W. Duffin,Philip A. Bell
 J. W. Duffin,Peter W. Ray
 J. W. Duffin,U. C. Farlen
 J. W. Duffin,Rand
+J. W. Duffin,Troy
 J. W. Duffin,William J. Watkins
 J. W. Duffin,Watkins
 J. W. Duffin,Robert Morris
@@ -5641,6 +5053,7 @@ E. H. Mathews,Philip A. Bell
 E. H. Mathews,Peter W. Ray
 E. H. Mathews,U. C. Farlen
 E. H. Mathews,Rand
+E. H. Mathews,Troy
 E. H. Mathews,William J. Watkins
 E. H. Mathews,Watkins
 E. H. Mathews,Robert Morris
@@ -5677,6 +5090,7 @@ P. W. Ray,Philip A. Bell
 P. W. Ray,Peter W. Ray
 P. W. Ray,U. C. Farlen
 P. W. Ray,Rand
+P. W. Ray,Troy
 P. W. Ray,William J. Watkins
 P. W. Ray,Watkins
 P. W. Ray,Robert Morris
@@ -5712,6 +5126,7 @@ S. Myers,Philip A. Bell
 S. Myers,Peter W. Ray
 S. Myers,U. C. Farlen
 S. Myers,Rand
+S. Myers,Troy
 S. Myers,William J. Watkins
 S. Myers,Watkins
 S. Myers,Robert Morris
@@ -5746,6 +5161,7 @@ R. D. Kerndey,Philip A. Bell
 R. D. Kerndey,Peter W. Ray
 R. D. Kerndey,U. C. Farlen
 R. D. Kerndey,Rand
+R. D. Kerndey,Troy
 R. D. Kerndey,William J. Watkins
 R. D. Kerndey,Watkins
 R. D. Kerndey,Robert Morris
@@ -5779,6 +5195,7 @@ Horace Greeley,Philip A. Bell
 Horace Greeley,Peter W. Ray
 Horace Greeley,U. C. Farlen
 Horace Greeley,Rand
+Horace Greeley,Troy
 Horace Greeley,William J. Watkins
 Horace Greeley,Watkins
 Horace Greeley,Robert Morris
@@ -5811,6 +5228,7 @@ Daniel Webster,Philip A. Bell
 Daniel Webster,Peter W. Ray
 Daniel Webster,U. C. Farlen
 Daniel Webster,Rand
+Daniel Webster,Troy
 Daniel Webster,William J. Watkins
 Daniel Webster,Watkins
 Daniel Webster,Robert Morris
@@ -5842,6 +5260,7 @@ Junius Of Lord Granville,Philip A. Bell
 Junius Of Lord Granville,Peter W. Ray
 Junius Of Lord Granville,U. C. Farlen
 Junius Of Lord Granville,Rand
+Junius Of Lord Granville,Troy
 Junius Of Lord Granville,William J. Watkins
 Junius Of Lord Granville,Watkins
 Junius Of Lord Granville,Robert Morris
@@ -5872,6 +5291,7 @@ Cowper,Philip A. Bell
 Cowper,Peter W. Ray
 Cowper,U. C. Farlen
 Cowper,Rand
+Cowper,Troy
 Cowper,William J. Watkins
 Cowper,Watkins
 Cowper,Robert Morris
@@ -5901,6 +5321,7 @@ W.,Philip A. Bell
 W.,Peter W. Ray
 W.,U. C. Farlen
 W.,Rand
+W.,Troy
 W.,William J. Watkins
 W.,Watkins
 W.,Robert Morris
@@ -5929,6 +5350,7 @@ John,Philip A. Bell
 John,Peter W. Ray
 John,U. C. Farlen
 John,Rand
+John,Troy
 John,William J. Watkins
 John,Watkins
 John,Robert Morris
@@ -5956,6 +5378,7 @@ Uncle Robert,Philip A. Bell
 Uncle Robert,Peter W. Ray
 Uncle Robert,U. C. Farlen
 Uncle Robert,Rand
+Uncle Robert,Troy
 Uncle Robert,William J. Watkins
 Uncle Robert,Watkins
 Uncle Robert,Robert Morris
@@ -5982,6 +5405,7 @@ Rich,Philip A. Bell
 Rich,Peter W. Ray
 Rich,U. C. Farlen
 Rich,Rand
+Rich,Troy
 Rich,William J. Watkins
 Rich,Watkins
 Rich,Robert Morris
@@ -6007,6 +5431,7 @@ Wm. J. Hodges,Philip A. Bell
 Wm. J. Hodges,Peter W. Ray
 Wm. J. Hodges,U. C. Farlen
 Wm. J. Hodges,Rand
+Wm. J. Hodges,Troy
 Wm. J. Hodges,William J. Watkins
 Wm. J. Hodges,Watkins
 Wm. J. Hodges,Robert Morris
@@ -6031,6 +5456,7 @@ A.B.,Philip A. Bell
 A.B.,Peter W. Ray
 A.B.,U. C. Farlen
 A.B.,Rand
+A.B.,Troy
 A.B.,William J. Watkins
 A.B.,Watkins
 A.B.,Robert Morris
@@ -6054,6 +5480,7 @@ A.B.,Malakhov
 Philip A. Bell,Peter W. Ray
 Philip A. Bell,U. C. Farlen
 Philip A. Bell,Rand
+Philip A. Bell,Troy
 Philip A. Bell,William J. Watkins
 Philip A. Bell,Watkins
 Philip A. Bell,Robert Morris
@@ -6076,6 +5503,7 @@ Philip A. Bell,G. I. Totlebein
 Philip A. Bell,Malakhov
 Peter W. Ray,U. C. Farlen
 Peter W. Ray,Rand
+Peter W. Ray,Troy
 Peter W. Ray,William J. Watkins
 Peter W. Ray,Watkins
 Peter W. Ray,Robert Morris
@@ -6097,6 +5525,7 @@ Peter W. Ray,Lawrence
 Peter W. Ray,G. I. Totlebein
 Peter W. Ray,Malakhov
 U. C. Farlen,Rand
+U. C. Farlen,Troy
 U. C. Farlen,William J. Watkins
 U. C. Farlen,Watkins
 U. C. Farlen,Robert Morris
@@ -6117,6 +5546,7 @@ U. C. Farlen,Johnson
 U. C. Farlen,Lawrence
 U. C. Farlen,G. I. Totlebein
 U. C. Farlen,Malakhov
+Rand,Troy
 Rand,William J. Watkins
 Rand,Watkins
 Rand,Robert Morris
@@ -6137,6 +5567,26 @@ Rand,Johnson
 Rand,Lawrence
 Rand,G. I. Totlebein
 Rand,Malakhov
+Troy,William J. Watkins
+Troy,Watkins
+Troy,Robert Morris
+Troy,Gerrit Smith
+Troy,John Mercer Langston
+Troy,Philip S. Foner
+Troy,John H. Wheeler
+Troy,Jane Johnson
+Troy,Daniel
+Troy,Isaiah
+Troy,Wheeler
+Troy,Passmore Williamson
+Troy,Williamson
+Troy,Jane
+Troy,John K. Kane
+Troy,Kane
+Troy,Johnson
+Troy,Lawrence
+Troy,G. I. Totlebein
+Troy,Malakhov
 William J. Watkins,Watkins
 William J. Watkins,Robert Morris
 William J. Watkins,Gerrit Smith

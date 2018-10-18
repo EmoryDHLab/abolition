@@ -1,4 +1,4 @@
-name1,name2
+source,target
 L. A. Grime,William C. Nell
 L. A. Grime,Joel W. Lewis
 L. A. Grime,Lewis Hayden
@@ -15,7 +15,6 @@ L. A. Grime,Grimes
 L. A. Grime,J. B. Sanderson
 L. A. Grime,Thomas H. Ringgold
 L. A. Grime,Perry F. Adams
-L. A. Grime,P. M.
 L. A. Grime,William H. Woods
 L. A. Grime,H. Ringgold
 L. A. Grime,Jeremiah B. Sanderson
@@ -74,7 +73,6 @@ William C. Nell,Grimes
 William C. Nell,J. B. Sanderson
 William C. Nell,Thomas H. Ringgold
 William C. Nell,Perry F. Adams
-William C. Nell,P. M.
 William C. Nell,William H. Woods
 William C. Nell,H. Ringgold
 William C. Nell,Jeremiah B. Sanderson
@@ -132,7 +130,6 @@ Joel W. Lewis,Grimes
 Joel W. Lewis,J. B. Sanderson
 Joel W. Lewis,Thomas H. Ringgold
 Joel W. Lewis,Perry F. Adams
-Joel W. Lewis,P. M.
 Joel W. Lewis,William H. Woods
 Joel W. Lewis,H. Ringgold
 Joel W. Lewis,Jeremiah B. Sanderson
@@ -189,7 +186,6 @@ Lewis Hayden,Grimes
 Lewis Hayden,J. B. Sanderson
 Lewis Hayden,Thomas H. Ringgold
 Lewis Hayden,Perry F. Adams
-Lewis Hayden,P. M.
 Lewis Hayden,William H. Woods
 Lewis Hayden,H. Ringgold
 Lewis Hayden,Jeremiah B. Sanderson
@@ -245,7 +241,6 @@ Robert Morris,Grimes
 Robert Morris,J. B. Sanderson
 Robert Morris,Thomas H. Ringgold
 Robert Morris,Perry F. Adams
-Robert Morris,P. M.
 Robert Morris,William H. Woods
 Robert Morris,H. Ringgold
 Robert Morris,Jeremiah B. Sanderson
@@ -300,7 +295,6 @@ Nestor P. Freeman,Grimes
 Nestor P. Freeman,J. B. Sanderson
 Nestor P. Freeman,Thomas H. Ringgold
 Nestor P. Freeman,Perry F. Adams
-Nestor P. Freeman,P. M.
 Nestor P. Freeman,William H. Woods
 Nestor P. Freeman,H. Ringgold
 Nestor P. Freeman,Jeremiah B. Sanderson
@@ -354,7 +348,6 @@ Leonard A. Grimes,Grimes
 Leonard A. Grimes,J. B. Sanderson
 Leonard A. Grimes,Thomas H. Ringgold
 Leonard A. Grimes,Perry F. Adams
-Leonard A. Grimes,P. M.
 Leonard A. Grimes,William H. Woods
 Leonard A. Grimes,H. Ringgold
 Leonard A. Grimes,Jeremiah B. Sanderson
@@ -407,7 +400,6 @@ Henry Hatton,Grimes
 Henry Hatton,J. B. Sanderson
 Henry Hatton,Thomas H. Ringgold
 Henry Hatton,Perry F. Adams
-Henry Hatton,P. M.
 Henry Hatton,William H. Woods
 Henry Hatton,H. Ringgold
 Henry Hatton,Jeremiah B. Sanderson
@@ -459,7 +451,6 @@ T. H. Ringgold,Grimes
 T. H. Ringgold,J. B. Sanderson
 T. H. Ringgold,Thomas H. Ringgold
 T. H. Ringgold,Perry F. Adams
-T. H. Ringgold,P. M.
 T. H. Ringgold,William H. Woods
 T. H. Ringgold,H. Ringgold
 T. H. Ringgold,Jeremiah B. Sanderson
@@ -510,7 +501,6 @@ Perry Adams,Grimes
 Perry Adams,J. B. Sanderson
 Perry Adams,Thomas H. Ringgold
 Perry Adams,Perry F. Adams
-Perry Adams,P. M.
 Perry Adams,William H. Woods
 Perry Adams,H. Ringgold
 Perry Adams,Jeremiah B. Sanderson
@@ -560,7 +550,6 @@ Henry O. Remington,Grimes
 Henry O. Remington,J. B. Sanderson
 Henry O. Remington,Thomas H. Ringgold
 Henry O. Remington,Perry F. Adams
-Henry O. Remington,P. M.
 Henry O. Remington,William H. Woods
 Henry O. Remington,H. Ringgold
 Henry O. Remington,Jeremiah B. Sanderson
@@ -609,7 +598,6 @@ Wilham H. Woods,Grimes
 Wilham H. Woods,J. B. Sanderson
 Wilham H. Woods,Thomas H. Ringgold
 Wilham H. Woods,Perry F. Adams
-Wilham H. Woods,P. M.
 Wilham H. Woods,William H. Woods
 Wilham H. Woods,H. Ringgold
 Wilham H. Woods,Jeremiah B. Sanderson
@@ -657,7 +645,6 @@ H Ringgold,Grimes
 H Ringgold,J. B. Sanderson
 H Ringgold,Thomas H. Ringgold
 H Ringgold,Perry F. Adams
-H Ringgold,P. M.
 H Ringgold,William H. Woods
 H Ringgold,H. Ringgold
 H Ringgold,Jeremiah B. Sanderson
@@ -704,7 +691,6 @@ H Ringgold,Jeremiah Sanderson
 Grimes,J. B. Sanderson
 Grimes,Thomas H. Ringgold
 Grimes,Perry F. Adams
-Grimes,P. M.
 Grimes,William H. Woods
 Grimes,H. Ringgold
 Grimes,Jeremiah B. Sanderson
@@ -750,7 +736,6 @@ Grimes,Prest
 Grimes,Jeremiah Sanderson
 J. B. Sanderson,Thomas H. Ringgold
 J. B. Sanderson,Perry F. Adams
-J. B. Sanderson,P. M.
 J. B. Sanderson,William H. Woods
 J. B. Sanderson,H. Ringgold
 J. B. Sanderson,Jeremiah B. Sanderson
@@ -795,7 +780,6 @@ J. B. Sanderson,J. W. Fountain
 J. B. Sanderson,Prest
 J. B. Sanderson,Jeremiah Sanderson
 Thomas H. Ringgold,Perry F. Adams
-Thomas H. Ringgold,P. M.
 Thomas H. Ringgold,William H. Woods
 Thomas H. Ringgold,H. Ringgold
 Thomas H. Ringgold,Jeremiah B. Sanderson
@@ -839,7 +823,6 @@ Thomas H. Ringgold,Wesley Berry
 Thomas H. Ringgold,J. W. Fountain
 Thomas H. Ringgold,Prest
 Thomas H. Ringgold,Jeremiah Sanderson
-Perry F. Adams,P. M.
 Perry F. Adams,William H. Woods
 Perry F. Adams,H. Ringgold
 Perry F. Adams,Jeremiah B. Sanderson
@@ -883,49 +866,6 @@ Perry F. Adams,Wesley Berry
 Perry F. Adams,J. W. Fountain
 Perry F. Adams,Prest
 Perry F. Adams,Jeremiah Sanderson
-P. M.,William H. Woods
-P. M.,H. Ringgold
-P. M.,Jeremiah B. Sanderson
-P. M.,C. L. Reason
-P. M.,Morris
-P. M.,Ringgold
-P. M.,Hayden
-P. M.,Adams
-P. M.,Sanderson
-P. M.,Nell
-P. M.,Downing
-P. M.,Marr
-P. M.,Woods
-P. M.,Remington
-P. M.,H. B. Stowe
-P. M.,Frederick Douglass
-P. M.,Stowe
-P. M.,Douglass
-P. M.,W. C. Nell
-P. M.,P. F. Adams
-P. M.,Fredrick Douglass
-P. M.,Jonas W. Clark
-P. M.,Wm. C. Nell
-P. M.,Lewis Hyden
-P. M.,Harriet Beecher Stowe
-P. M.,H. O. Remington
-P. M.,John M. Lenox
-P. M.,C. L. Remond
-P. M.,C. Lenox Remond
-P. M.,Leonard Grimes
-P. M.,Adam
-P. M.,Hatton
-P. M.,Robert Johnson
-P. M.,H. Hatton
-P. M.,John T. Hilton
-P. M.,Francis Clough
-P. M.,William H. Brown
-P. M.,Wm. H. Woods
-P. M.,George Gilmore
-P. M.,Wesley Berry
-P. M.,J. W. Fountain
-P. M.,Prest
-P. M.,Jeremiah Sanderson
 William H. Woods,H. Ringgold
 William H. Woods,Jeremiah B. Sanderson
 William H. Woods,C. L. Reason

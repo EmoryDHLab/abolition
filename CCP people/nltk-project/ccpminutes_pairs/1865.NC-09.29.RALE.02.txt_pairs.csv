@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Newbern,M. E. Church
 Newbern,Galloway
 Newbern,John Good Of Newbern
@@ -17,7 +17,6 @@ Newbern,J.A. Harris
 Newbern,Greeley
 Newbern,Jas
 Newbern,Harris
-Newbern,E.S.
 Newbern,Alexander Bass
 Newbern,Edgecomb
 Newbern,Wayne
@@ -63,7 +62,6 @@ M. E. Church,J.A. Harris
 M. E. Church,Greeley
 M. E. Church,Jas
 M. E. Church,Harris
-M. E. Church,E.S.
 M. E. Church,Alexander Bass
 M. E. Church,Edgecomb
 M. E. Church,Wayne
@@ -108,7 +106,6 @@ Galloway,J.A. Harris
 Galloway,Greeley
 Galloway,Jas
 Galloway,Harris
-Galloway,E.S.
 Galloway,Alexander Bass
 Galloway,Edgecomb
 Galloway,Wayne
@@ -152,7 +149,6 @@ John Good Of Newbern,J.A. Harris
 John Good Of Newbern,Greeley
 John Good Of Newbern,Jas
 John Good Of Newbern,Harris
-John Good Of Newbern,E.S.
 John Good Of Newbern,Alexander Bass
 John Good Of Newbern,Edgecomb
 John Good Of Newbern,Wayne
@@ -195,7 +191,6 @@ J.W. Hood,J.A. Harris
 J.W. Hood,Greeley
 J.W. Hood,Jas
 J.W. Hood,Harris
-J.W. Hood,E.S.
 J.W. Hood,Alexander Bass
 J.W. Hood,Edgecomb
 J.W. Hood,Wayne
@@ -237,7 +232,6 @@ Craven,J.A. Harris
 Craven,Greeley
 Craven,Jas
 Craven,Harris
-Craven,E.S.
 Craven,Alexander Bass
 Craven,Edgecomb
 Craven,Wayne
@@ -278,7 +272,6 @@ J.H. Harris,J.A. Harris
 J.H. Harris,Greeley
 J.H. Harris,Jas
 J.H. Harris,Harris
-J.H. Harris,E.S.
 J.H. Harris,Alexander Bass
 J.H. Harris,Edgecomb
 J.H. Harris,Wayne
@@ -318,7 +311,6 @@ J.P. Shooks,J.A. Harris
 J.P. Shooks,Greeley
 J.P. Shooks,Jas
 J.P. Shooks,Harris
-J.P. Shooks,E.S.
 J.P. Shooks,Alexander Bass
 J.P. Shooks,Edgecomb
 J.P. Shooks,Wayne
@@ -357,7 +349,6 @@ John Randolph,J.A. Harris
 John Randolph,Greeley
 John Randolph,Jas
 John Randolph,Harris
-John Randolph,E.S.
 John Randolph,Alexander Bass
 John Randolph,Edgecomb
 John Randolph,Wayne
@@ -395,7 +386,6 @@ W. Cawthorn,J.A. Harris
 W. Cawthorn,Greeley
 W. Cawthorn,Jas
 W. Cawthorn,Harris
-W. Cawthorn,E.S.
 W. Cawthorn,Alexander Bass
 W. Cawthorn,Edgecomb
 W. Cawthorn,Wayne
@@ -432,7 +422,6 @@ J. R. Caswell,J.A. Harris
 J. R. Caswell,Greeley
 J. R. Caswell,Jas
 J. R. Caswell,Harris
-J. R. Caswell,E.S.
 J. R. Caswell,Alexander Bass
 J. R. Caswell,Edgecomb
 J. R. Caswell,Wayne
@@ -468,7 +457,6 @@ Alex. Bass,J.A. Harris
 Alex. Bass,Greeley
 Alex. Bass,Jas
 Alex. Bass,Harris
-Alex. Bass,E.S.
 Alex. Bass,Alexander Bass
 Alex. Bass,Edgecomb
 Alex. Bass,Wayne
@@ -503,7 +491,6 @@ Eliphalet Whittlesey,J.A. Harris
 Eliphalet Whittlesey,Greeley
 Eliphalet Whittlesey,Jas
 Eliphalet Whittlesey,Harris
-Eliphalet Whittlesey,E.S.
 Eliphalet Whittlesey,Alexander Bass
 Eliphalet Whittlesey,Edgecomb
 Eliphalet Whittlesey,Wayne
@@ -537,7 +524,6 @@ Holden,J.A. Harris
 Holden,Greeley
 Holden,Jas
 Holden,Harris
-Holden,E.S.
 Holden,Alexander Bass
 Holden,Edgecomb
 Holden,Wayne
@@ -570,7 +556,6 @@ Ruger,J.A. Harris
 Ruger,Greeley
 Ruger,Jas
 Ruger,Harris
-Ruger,E.S.
 Ruger,Alexander Bass
 Ruger,Edgecomb
 Ruger,Wayne
@@ -602,7 +587,6 @@ Ruger,Rue
 J.A. Harris,Greeley
 J.A. Harris,Jas
 J.A. Harris,Harris
-J.A. Harris,E.S.
 J.A. Harris,Alexander Bass
 J.A. Harris,Edgecomb
 J.A. Harris,Wayne
@@ -633,7 +617,6 @@ J.A. Harris,Sampson
 J.A. Harris,Rue
 Greeley,Jas
 Greeley,Harris
-Greeley,E.S.
 Greeley,Alexander Bass
 Greeley,Edgecomb
 Greeley,Wayne
@@ -663,7 +646,6 @@ Greeley,Brooks
 Greeley,Sampson
 Greeley,Rue
 Jas,Harris
-Jas,E.S.
 Jas,Alexander Bass
 Jas,Edgecomb
 Jas,Wayne
@@ -692,7 +674,6 @@ Jas,Stevens
 Jas,Brooks
 Jas,Sampson
 Jas,Rue
-Harris,E.S.
 Harris,Alexander Bass
 Harris,Edgecomb
 Harris,Wayne
@@ -721,34 +702,6 @@ Harris,Stevens
 Harris,Brooks
 Harris,Sampson
 Harris,Rue
-E.S.,Alexander Bass
-E.S.,Edgecomb
-E.S.,Wayne
-E.S.,Warren
-E.S.,Gates
-E.S.,Robingson
-E.S.,Pitt
-E.S.,Harset
-E.S.,Franklin
-E.S.,Granville
-E.S.,Caswell
-E.S.,Johnson
-E.S.,George A Rue
-E.S.,Isaac Swett
-E.S.,John R. Gove
-E.S.,Whittlesey
-E.S.,Clapp
-E.S.,Wm. H Coleman
-E.S.,Coleman
-E.S.,Horace Greeley
-E.S.,Baas
-E.S.,Rock
-E.S.,Chase
-E.S.,Sumner
-E.S.,Stevens
-E.S.,Brooks
-E.S.,Sampson
-E.S.,Rue
 Alexander Bass,Edgecomb
 Alexander Bass,Wayne
 Alexander Bass,Warren

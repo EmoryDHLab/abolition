@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Dear Zuille,A. Crummell
 Dear Zuille,C. L. Reason
 Dear Zuille,J. W. Duffin
@@ -34,10 +34,8 @@ Dear Zuille,Charles S. Morton
 Dear Zuille,Elimus P. Rodgers
 Dear Zuille,John Wendell
 Dear Zuille,Armstrong Archer
-Dear Zuille,Williamsburgh
 Dear Zuille,Patrick H. Reason
 Dear Zuille,Abner H. Francis
-Dear Zuille,Buffalo
 Dear Zuille,Henry H. Garnet
 Dear Zuille,Alexander Crummell
 Dear Zuille,J.W. Duffin
@@ -112,10 +110,8 @@ A. Crummell,Charles S. Morton
 A. Crummell,Elimus P. Rodgers
 A. Crummell,John Wendell
 A. Crummell,Armstrong Archer
-A. Crummell,Williamsburgh
 A. Crummell,Patrick H. Reason
 A. Crummell,Abner H. Francis
-A. Crummell,Buffalo
 A. Crummell,Henry H. Garnet
 A. Crummell,Alexander Crummell
 A. Crummell,J.W. Duffin
@@ -189,10 +185,8 @@ C. L. Reason,Charles S. Morton
 C. L. Reason,Elimus P. Rodgers
 C. L. Reason,John Wendell
 C. L. Reason,Armstrong Archer
-C. L. Reason,Williamsburgh
 C. L. Reason,Patrick H. Reason
 C. L. Reason,Abner H. Francis
-C. L. Reason,Buffalo
 C. L. Reason,Henry H. Garnet
 C. L. Reason,Alexander Crummell
 C. L. Reason,J.W. Duffin
@@ -265,10 +259,8 @@ J. W. Duffin,Charles S. Morton
 J. W. Duffin,Elimus P. Rodgers
 J. W. Duffin,John Wendell
 J. W. Duffin,Armstrong Archer
-J. W. Duffin,Williamsburgh
 J. W. Duffin,Patrick H. Reason
 J. W. Duffin,Abner H. Francis
-J. W. Duffin,Buffalo
 J. W. Duffin,Henry H. Garnet
 J. W. Duffin,Alexander Crummell
 J. W. Duffin,J.W. Duffin
@@ -340,10 +332,8 @@ A. Steward,Charles S. Morton
 A. Steward,Elimus P. Rodgers
 A. Steward,John Wendell
 A. Steward,Armstrong Archer
-A. Steward,Williamsburgh
 A. Steward,Patrick H. Reason
 A. Steward,Abner H. Francis
-A. Steward,Buffalo
 A. Steward,Henry H. Garnet
 A. Steward,Alexander Crummell
 A. Steward,J.W. Duffin
@@ -414,10 +404,8 @@ Theodore S. Wright,Charles S. Morton
 Theodore S. Wright,Elimus P. Rodgers
 Theodore S. Wright,John Wendell
 Theodore S. Wright,Armstrong Archer
-Theodore S. Wright,Williamsburgh
 Theodore S. Wright,Patrick H. Reason
 Theodore S. Wright,Abner H. Francis
-Theodore S. Wright,Buffalo
 Theodore S. Wright,Henry H. Garnet
 Theodore S. Wright,Alexander Crummell
 Theodore S. Wright,J.W. Duffin
@@ -487,10 +475,8 @@ J. T. Raymond,Charles S. Morton
 J. T. Raymond,Elimus P. Rodgers
 J. T. Raymond,John Wendell
 J. T. Raymond,Armstrong Archer
-J. T. Raymond,Williamsburgh
 J. T. Raymond,Patrick H. Reason
 J. T. Raymond,Abner H. Francis
-J. T. Raymond,Buffalo
 J. T. Raymond,Henry H. Garnet
 J. T. Raymond,Alexander Crummell
 J. T. Raymond,J.W. Duffin
@@ -559,10 +545,8 @@ Frederick Olney,Charles S. Morton
 Frederick Olney,Elimus P. Rodgers
 Frederick Olney,John Wendell
 Frederick Olney,Armstrong Archer
-Frederick Olney,Williamsburgh
 Frederick Olney,Patrick H. Reason
 Frederick Olney,Abner H. Francis
-Frederick Olney,Buffalo
 Frederick Olney,Henry H. Garnet
 Frederick Olney,Alexander Crummell
 Frederick Olney,J.W. Duffin
@@ -630,10 +614,8 @@ Charles Morton,Charles S. Morton
 Charles Morton,Elimus P. Rodgers
 Charles Morton,John Wendell
 Charles Morton,Armstrong Archer
-Charles Morton,Williamsburgh
 Charles Morton,Patrick H. Reason
 Charles Morton,Abner H. Francis
-Charles Morton,Buffalo
 Charles Morton,Henry H. Garnet
 Charles Morton,Alexander Crummell
 Charles Morton,J.W. Duffin
@@ -700,10 +682,8 @@ Austin Steward,Charles S. Morton
 Austin Steward,Elimus P. Rodgers
 Austin Steward,John Wendell
 Austin Steward,Armstrong Archer
-Austin Steward,Williamsburgh
 Austin Steward,Patrick H. Reason
 Austin Steward,Abner H. Francis
-Austin Steward,Buffalo
 Austin Steward,Henry H. Garnet
 Austin Steward,Alexander Crummell
 Austin Steward,J.W. Duffin
@@ -769,10 +749,8 @@ R. P. G. Wright,Charles S. Morton
 R. P. G. Wright,Elimus P. Rodgers
 R. P. G. Wright,John Wendell
 R. P. G. Wright,Armstrong Archer
-R. P. G. Wright,Williamsburgh
 R. P. G. Wright,Patrick H. Reason
 R. P. G. Wright,Abner H. Francis
-R. P. G. Wright,Buffalo
 R. P. G. Wright,Henry H. Garnet
 R. P. G. Wright,Alexander Crummell
 R. P. G. Wright,J.W. Duffin
@@ -837,10 +815,8 @@ P. Johnson,Charles S. Morton
 P. Johnson,Elimus P. Rodgers
 P. Johnson,John Wendell
 P. Johnson,Armstrong Archer
-P. Johnson,Williamsburgh
 P. Johnson,Patrick H. Reason
 P. Johnson,Abner H. Francis
-P. Johnson,Buffalo
 P. Johnson,Henry H. Garnet
 P. Johnson,Alexander Crummell
 P. Johnson,J.W. Duffin
@@ -904,10 +880,8 @@ H. H. Garnet,Charles S. Morton
 H. H. Garnet,Elimus P. Rodgers
 H. H. Garnet,John Wendell
 H. H. Garnet,Armstrong Archer
-H. H. Garnet,Williamsburgh
 H. H. Garnet,Patrick H. Reason
 H. H. Garnet,Abner H. Francis
-H. H. Garnet,Buffalo
 H. H. Garnet,Henry H. Garnet
 H. H. Garnet,Alexander Crummell
 H. H. Garnet,J.W. Duffin
@@ -970,10 +944,8 @@ Troy,Charles S. Morton
 Troy,Elimus P. Rodgers
 Troy,John Wendell
 Troy,Armstrong Archer
-Troy,Williamsburgh
 Troy,Patrick H. Reason
 Troy,Abner H. Francis
-Troy,Buffalo
 Troy,Henry H. Garnet
 Troy,Alexander Crummell
 Troy,J.W. Duffin
@@ -1035,10 +1007,8 @@ Wm. Topp,Charles S. Morton
 Wm. Topp,Elimus P. Rodgers
 Wm. Topp,John Wendell
 Wm. Topp,Armstrong Archer
-Wm. Topp,Williamsburgh
 Wm. Topp,Patrick H. Reason
 Wm. Topp,Abner H. Francis
-Wm. Topp,Buffalo
 Wm. Topp,Henry H. Garnet
 Wm. Topp,Alexander Crummell
 Wm. Topp,J.W. Duffin
@@ -1099,10 +1069,8 @@ S. Wright,Charles S. Morton
 S. Wright,Elimus P. Rodgers
 S. Wright,John Wendell
 S. Wright,Armstrong Archer
-S. Wright,Williamsburgh
 S. Wright,Patrick H. Reason
 S. Wright,Abner H. Francis
-S. Wright,Buffalo
 S. Wright,Henry H. Garnet
 S. Wright,Alexander Crummell
 S. Wright,J.W. Duffin
@@ -1162,10 +1130,8 @@ F. Olney,Charles S. Morton
 F. Olney,Elimus P. Rodgers
 F. Olney,John Wendell
 F. Olney,Armstrong Archer
-F. Olney,Williamsburgh
 F. Olney,Patrick H. Reason
 F. Olney,Abner H. Francis
-F. Olney,Buffalo
 F. Olney,Henry H. Garnet
 F. Olney,Alexander Crummell
 F. Olney,J.W. Duffin
@@ -1224,10 +1190,8 @@ P. H. Reason,Charles S. Morton
 P. H. Reason,Elimus P. Rodgers
 P. H. Reason,John Wendell
 P. H. Reason,Armstrong Archer
-P. H. Reason,Williamsburgh
 P. H. Reason,Patrick H. Reason
 P. H. Reason,Abner H. Francis
-P. H. Reason,Buffalo
 P. H. Reason,Henry H. Garnet
 P. H. Reason,Alexander Crummell
 P. H. Reason,J.W. Duffin
@@ -1285,10 +1249,8 @@ C. B. Ray,Charles S. Morton
 C. B. Ray,Elimus P. Rodgers
 C. B. Ray,John Wendell
 C. B. Ray,Armstrong Archer
-C. B. Ray,Williamsburgh
 C. B. Ray,Patrick H. Reason
 C. B. Ray,Abner H. Francis
-C. B. Ray,Buffalo
 C. B. Ray,Henry H. Garnet
 C. B. Ray,Alexander Crummell
 C. B. Ray,J.W. Duffin
@@ -1345,10 +1307,8 @@ E. P. Rogers,Charles S. Morton
 E. P. Rogers,Elimus P. Rodgers
 E. P. Rogers,John Wendell
 E. P. Rogers,Armstrong Archer
-E. P. Rogers,Williamsburgh
 E. P. Rogers,Patrick H. Reason
 E. P. Rogers,Abner H. Francis
-E. P. Rogers,Buffalo
 E. P. Rogers,Henry H. Garnet
 E. P. Rogers,Alexander Crummell
 E. P. Rogers,J.W. Duffin
@@ -1404,10 +1364,8 @@ Archer,Charles S. Morton
 Archer,Elimus P. Rodgers
 Archer,John Wendell
 Archer,Armstrong Archer
-Archer,Williamsburgh
 Archer,Patrick H. Reason
 Archer,Abner H. Francis
-Archer,Buffalo
 Archer,Henry H. Garnet
 Archer,Alexander Crummell
 Archer,J.W. Duffin
@@ -1462,10 +1420,8 @@ C. Morton,Charles S. Morton
 C. Morton,Elimus P. Rodgers
 C. Morton,John Wendell
 C. Morton,Armstrong Archer
-C. Morton,Williamsburgh
 C. Morton,Patrick H. Reason
 C. Morton,Abner H. Francis
-C. Morton,Buffalo
 C. Morton,Henry H. Garnet
 C. Morton,Alexander Crummell
 C. Morton,J.W. Duffin
@@ -1519,10 +1475,8 @@ J. Wencell,Charles S. Morton
 J. Wencell,Elimus P. Rodgers
 J. Wencell,John Wendell
 J. Wencell,Armstrong Archer
-J. Wencell,Williamsburgh
 J. Wencell,Patrick H. Reason
 J. Wencell,Abner H. Francis
-J. Wencell,Buffalo
 J. Wencell,Henry H. Garnet
 J. Wencell,Alexander Crummell
 J. Wencell,J.W. Duffin
@@ -1575,10 +1529,8 @@ George Baltimore,Charles S. Morton
 George Baltimore,Elimus P. Rodgers
 George Baltimore,John Wendell
 George Baltimore,Armstrong Archer
-George Baltimore,Williamsburgh
 George Baltimore,Patrick H. Reason
 George Baltimore,Abner H. Francis
-George Baltimore,Buffalo
 George Baltimore,Henry H. Garnet
 George Baltimore,Alexander Crummell
 George Baltimore,J.W. Duffin
@@ -1630,10 +1582,8 @@ A. H. Francis,Charles S. Morton
 A. H. Francis,Elimus P. Rodgers
 A. H. Francis,John Wendell
 A. H. Francis,Armstrong Archer
-A. H. Francis,Williamsburgh
 A. H. Francis,Patrick H. Reason
 A. H. Francis,Abner H. Francis
-A. H. Francis,Buffalo
 A. H. Francis,Henry H. Garnet
 A. H. Francis,Alexander Crummell
 A. H. Francis,J.W. Duffin
@@ -1684,10 +1634,8 @@ E. P. Rodgers,Charles S. Morton
 E. P. Rodgers,Elimus P. Rodgers
 E. P. Rodgers,John Wendell
 E. P. Rodgers,Armstrong Archer
-E. P. Rodgers,Williamsburgh
 E. P. Rodgers,Patrick H. Reason
 E. P. Rodgers,Abner H. Francis
-E. P. Rodgers,Buffalo
 E. P. Rodgers,Henry H. Garnet
 E. P. Rodgers,Alexander Crummell
 E. P. Rodgers,J.W. Duffin
@@ -1737,10 +1685,8 @@ Wm. P. Johnson,Charles S. Morton
 Wm. P. Johnson,Elimus P. Rodgers
 Wm. P. Johnson,John Wendell
 Wm. P. Johnson,Armstrong Archer
-Wm. P. Johnson,Williamsburgh
 Wm. P. Johnson,Patrick H. Reason
 Wm. P. Johnson,Abner H. Francis
-Wm. P. Johnson,Buffalo
 Wm. P. Johnson,Henry H. Garnet
 Wm. P. Johnson,Alexander Crummell
 Wm. P. Johnson,J.W. Duffin
@@ -1789,10 +1735,8 @@ Ed,Charles S. Morton
 Ed,Elimus P. Rodgers
 Ed,John Wendell
 Ed,Armstrong Archer
-Ed,Williamsburgh
 Ed,Patrick H. Reason
 Ed,Abner H. Francis
-Ed,Buffalo
 Ed,Henry H. Garnet
 Ed,Alexander Crummell
 Ed,J.W. Duffin
@@ -1840,10 +1784,8 @@ Charles B. Ray,Charles S. Morton
 Charles B. Ray,Elimus P. Rodgers
 Charles B. Ray,John Wendell
 Charles B. Ray,Armstrong Archer
-Charles B. Ray,Williamsburgh
 Charles B. Ray,Patrick H. Reason
 Charles B. Ray,Abner H. Francis
-Charles B. Ray,Buffalo
 Charles B. Ray,Henry H. Garnet
 Charles B. Ray,Alexander Crummell
 Charles B. Ray,J.W. Duffin
@@ -1890,10 +1832,8 @@ Charles L. Reason,Charles S. Morton
 Charles L. Reason,Elimus P. Rodgers
 Charles L. Reason,John Wendell
 Charles L. Reason,Armstrong Archer
-Charles L. Reason,Williamsburgh
 Charles L. Reason,Patrick H. Reason
 Charles L. Reason,Abner H. Francis
-Charles L. Reason,Buffalo
 Charles L. Reason,Henry H. Garnet
 Charles L. Reason,Alexander Crummell
 Charles L. Reason,J.W. Duffin
@@ -1939,10 +1879,8 @@ Eli N. Hall,Charles S. Morton
 Eli N. Hall,Elimus P. Rodgers
 Eli N. Hall,John Wendell
 Eli N. Hall,Armstrong Archer
-Eli N. Hall,Williamsburgh
 Eli N. Hall,Patrick H. Reason
 Eli N. Hall,Abner H. Francis
-Eli N. Hall,Buffalo
 Eli N. Hall,Henry H. Garnet
 Eli N. Hall,Alexander Crummell
 Eli N. Hall,J.W. Duffin
@@ -1987,10 +1925,8 @@ James W. Duffin,Charles S. Morton
 James W. Duffin,Elimus P. Rodgers
 James W. Duffin,John Wendell
 James W. Duffin,Armstrong Archer
-James W. Duffin,Williamsburgh
 James W. Duffin,Patrick H. Reason
 James W. Duffin,Abner H. Francis
-James W. Duffin,Buffalo
 James W. Duffin,Henry H. Garnet
 James W. Duffin,Alexander Crummell
 James W. Duffin,J.W. Duffin
@@ -2034,10 +1970,8 @@ James W. Duffin,Perry
 Charles S. Morton,Elimus P. Rodgers
 Charles S. Morton,John Wendell
 Charles S. Morton,Armstrong Archer
-Charles S. Morton,Williamsburgh
 Charles S. Morton,Patrick H. Reason
 Charles S. Morton,Abner H. Francis
-Charles S. Morton,Buffalo
 Charles S. Morton,Henry H. Garnet
 Charles S. Morton,Alexander Crummell
 Charles S. Morton,J.W. Duffin
@@ -2080,10 +2014,8 @@ Charles S. Morton,John T. Raymond
 Charles S. Morton,Perry
 Elimus P. Rodgers,John Wendell
 Elimus P. Rodgers,Armstrong Archer
-Elimus P. Rodgers,Williamsburgh
 Elimus P. Rodgers,Patrick H. Reason
 Elimus P. Rodgers,Abner H. Francis
-Elimus P. Rodgers,Buffalo
 Elimus P. Rodgers,Henry H. Garnet
 Elimus P. Rodgers,Alexander Crummell
 Elimus P. Rodgers,J.W. Duffin
@@ -2125,10 +2057,8 @@ Elimus P. Rodgers,Sexton
 Elimus P. Rodgers,John T. Raymond
 Elimus P. Rodgers,Perry
 John Wendell,Armstrong Archer
-John Wendell,Williamsburgh
 John Wendell,Patrick H. Reason
 John Wendell,Abner H. Francis
-John Wendell,Buffalo
 John Wendell,Henry H. Garnet
 John Wendell,Alexander Crummell
 John Wendell,J.W. Duffin
@@ -2169,10 +2099,8 @@ John Wendell,R.P.G. Wright
 John Wendell,Sexton
 John Wendell,John T. Raymond
 John Wendell,Perry
-Armstrong Archer,Williamsburgh
 Armstrong Archer,Patrick H. Reason
 Armstrong Archer,Abner H. Francis
-Armstrong Archer,Buffalo
 Armstrong Archer,Henry H. Garnet
 Armstrong Archer,Alexander Crummell
 Armstrong Archer,J.W. Duffin
@@ -2213,51 +2141,7 @@ Armstrong Archer,R.P.G. Wright
 Armstrong Archer,Sexton
 Armstrong Archer,John T. Raymond
 Armstrong Archer,Perry
-Williamsburgh,Patrick H. Reason
-Williamsburgh,Abner H. Francis
-Williamsburgh,Buffalo
-Williamsburgh,Henry H. Garnet
-Williamsburgh,Alexander Crummell
-Williamsburgh,J.W. Duffin
-Williamsburgh,J.N. Marrs
-Williamsburgh,Michael Dougee
-Williamsburgh,Uriah Boston
-Williamsburgh,Thomas James
-Williamsburgh,John Chester
-Williamsburgh,Henry R. Crummell
-Williamsburgh,P.H. Reason
-Williamsburgh,C.B. Ray
-Williamsburgh,H.H. Garnet
-Williamsburgh,E.P. Rogers
-Williamsburgh,J. Sharp
-Williamsburgh,T.S. Wright
-Williamsburgh,C.L. Reason
-Williamsburgh,E.P. Rodgers
-Williamsburgh,U. Boston
-Williamsburgh,Ray
-Williamsburgh,Austin Stewart
-Williamsburgh,Wm. H. Topp
-Williamsburgh,A.H. Francis
-Williamsburgh,A. Dunbar
-Williamsburgh,Marah
-Williamsburgh,Alex Crummell
-Williamsburgh,J.N. Mars
-Williamsburgh,J.W. Loguen
-Williamsburgh,William H. Topp
-Williamsburgh,Ambrose Dunbar
-Williamsburgh,James Sharp
-Williamsburgh,C.S. Morton
-Williamsburgh,M. Dougee
-Williamsburgh,John P. Anthony
-Williamsburgh,S. Myers
-Williamsburgh,G.H. Baltimore
-Williamsburgh,Daniel Jones
-Williamsburgh,R.P.G. Wright
-Williamsburgh,Sexton
-Williamsburgh,John T. Raymond
-Williamsburgh,Perry
 Patrick H. Reason,Abner H. Francis
-Patrick H. Reason,Buffalo
 Patrick H. Reason,Henry H. Garnet
 Patrick H. Reason,Alexander Crummell
 Patrick H. Reason,J.W. Duffin
@@ -2298,7 +2182,6 @@ Patrick H. Reason,R.P.G. Wright
 Patrick H. Reason,Sexton
 Patrick H. Reason,John T. Raymond
 Patrick H. Reason,Perry
-Abner H. Francis,Buffalo
 Abner H. Francis,Henry H. Garnet
 Abner H. Francis,Alexander Crummell
 Abner H. Francis,J.W. Duffin
@@ -2339,46 +2222,6 @@ Abner H. Francis,R.P.G. Wright
 Abner H. Francis,Sexton
 Abner H. Francis,John T. Raymond
 Abner H. Francis,Perry
-Buffalo,Henry H. Garnet
-Buffalo,Alexander Crummell
-Buffalo,J.W. Duffin
-Buffalo,J.N. Marrs
-Buffalo,Michael Dougee
-Buffalo,Uriah Boston
-Buffalo,Thomas James
-Buffalo,John Chester
-Buffalo,Henry R. Crummell
-Buffalo,P.H. Reason
-Buffalo,C.B. Ray
-Buffalo,H.H. Garnet
-Buffalo,E.P. Rogers
-Buffalo,J. Sharp
-Buffalo,T.S. Wright
-Buffalo,C.L. Reason
-Buffalo,E.P. Rodgers
-Buffalo,U. Boston
-Buffalo,Ray
-Buffalo,Austin Stewart
-Buffalo,Wm. H. Topp
-Buffalo,A.H. Francis
-Buffalo,A. Dunbar
-Buffalo,Marah
-Buffalo,Alex Crummell
-Buffalo,J.N. Mars
-Buffalo,J.W. Loguen
-Buffalo,William H. Topp
-Buffalo,Ambrose Dunbar
-Buffalo,James Sharp
-Buffalo,C.S. Morton
-Buffalo,M. Dougee
-Buffalo,John P. Anthony
-Buffalo,S. Myers
-Buffalo,G.H. Baltimore
-Buffalo,Daniel Jones
-Buffalo,R.P.G. Wright
-Buffalo,Sexton
-Buffalo,John T. Raymond
-Buffalo,Perry
 Henry H. Garnet,Alexander Crummell
 Henry H. Garnet,J.W. Duffin
 Henry H. Garnet,J.N. Marrs

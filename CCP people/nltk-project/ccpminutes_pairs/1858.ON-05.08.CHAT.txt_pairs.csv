@@ -1,7 +1,6 @@
-name1,name2
+source,target
 Harper,Brown
 Harper,Osborne P. Anderson
-Harper,A. M.
 Harper,John Brown
 Harper,Jackson
 Harper,William C. Munroe
@@ -25,7 +24,6 @@ Harper,Loguen
 Harper,A. M. Ellsworth
 Harper,Osborn Anderson
 Harper,Richard Realf
-Harper,P. M.
 Harper,George B. Grill
 Harper,L. F. Parsons
 Harper,C. P. Todd
@@ -70,7 +68,6 @@ Harper,Simon Fislin
 Harper,Isaac Holler
 Harper,James Smith
 Brown,Osborne P. Anderson
-Brown,A. M.
 Brown,John Brown
 Brown,Jackson
 Brown,William C. Munroe
@@ -94,7 +91,6 @@ Brown,Loguen
 Brown,A. M. Ellsworth
 Brown,Osborn Anderson
 Brown,Richard Realf
-Brown,P. M.
 Brown,George B. Grill
 Brown,L. F. Parsons
 Brown,C. P. Todd
@@ -138,7 +134,6 @@ Brown,Charles Smith
 Brown,Simon Fislin
 Brown,Isaac Holler
 Brown,James Smith
-Osborne P. Anderson,A. M.
 Osborne P. Anderson,John Brown
 Osborne P. Anderson,Jackson
 Osborne P. Anderson,William C. Munroe
@@ -162,7 +157,6 @@ Osborne P. Anderson,Loguen
 Osborne P. Anderson,A. M. Ellsworth
 Osborne P. Anderson,Osborn Anderson
 Osborne P. Anderson,Richard Realf
-Osborne P. Anderson,P. M.
 Osborne P. Anderson,George B. Grill
 Osborne P. Anderson,L. F. Parsons
 Osborne P. Anderson,C. P. Todd
@@ -206,73 +200,6 @@ Osborne P. Anderson,Charles Smith
 Osborne P. Anderson,Simon Fislin
 Osborne P. Anderson,Isaac Holler
 Osborne P. Anderson,James Smith
-A. M.,John Brown
-A. M.,Jackson
-A. M.,William C. Munroe
-A. M.,J. H. Kagi
-A. M.,Delany
-A. M.,Kinnard
-A. M.,Whipple
-A. M.,Reynolds
-A. M.,Munroe
-A. M.,Owen Brown
-A. M.,Kagi
-A. M.,M. R. Delany
-A. M.,Wm. C. Munroe
-A. M.,Cook
-A. M.,Bell
-A. M.,Realf
-A. M.,Thomas M. Kinnard
-A. M.,Anderson
-A. M.,J. W. Loguen
-A. M.,Loguen
-A. M.,A. M. Ellsworth
-A. M.,Osborn Anderson
-A. M.,Richard Realf
-A. M.,P. M.
-A. M.,George B. Grill
-A. M.,L. F. Parsons
-A. M.,C. P. Todd
-A. M.,C. Whipple
-A. M.,C. W. Moffit
-A. M.,John E. Cook
-A. M.,Stewart Taylor
-A. M.,Richard Richardson
-A. M.,W. H. Leeman
-A. M.,John Lawrence
-A. M.,William Charles Munroe
-A. M.,G. J. Reynolds
-A. M.,J. C. Grant
-A. M.,A. J. Smith
-A. M.,James M. Jones
-A. M.,George B. Gill
-A. M.,M. F. Bailey
-A. M.,William Lambert
-A. M.,S. Hunton
-A. M.,John J. Jackson
-A. M.,J. Anderson
-A. M.,Alfred Whipple
-A. M.,James M. Buel
-A. M.,Alfred M. Ellsworth
-A. M.,James W. Purnell
-A. M.,George Aiken
-A. M.,Stephen Dettin
-A. M.,Thomas Hickerson
-A. M.,John Caunel
-A. M.,Robinson Alexander
-A. M.,Thomas F. Cary
-A. M.,M. H. Delany
-A. M.,Robert Vanvanken
-A. M.,Thomas M. Stringer
-A. M.,Charles P. Tidd
-A. M.,John A. Thomas
-A. M.,I. D. Shadd
-A. M.,Robert Newman
-A. M.,J. H. Harris
-A. M.,Charles Smith
-A. M.,Simon Fislin
-A. M.,Isaac Holler
-A. M.,James Smith
 John Brown,Jackson
 John Brown,William C. Munroe
 John Brown,J. H. Kagi
@@ -295,7 +222,6 @@ John Brown,Loguen
 John Brown,A. M. Ellsworth
 John Brown,Osborn Anderson
 John Brown,Richard Realf
-John Brown,P. M.
 John Brown,George B. Grill
 John Brown,L. F. Parsons
 John Brown,C. P. Todd
@@ -360,7 +286,6 @@ Jackson,Loguen
 Jackson,A. M. Ellsworth
 Jackson,Osborn Anderson
 Jackson,Richard Realf
-Jackson,P. M.
 Jackson,George B. Grill
 Jackson,L. F. Parsons
 Jackson,C. P. Todd
@@ -424,7 +349,6 @@ William C. Munroe,Loguen
 William C. Munroe,A. M. Ellsworth
 William C. Munroe,Osborn Anderson
 William C. Munroe,Richard Realf
-William C. Munroe,P. M.
 William C. Munroe,George B. Grill
 William C. Munroe,L. F. Parsons
 William C. Munroe,C. P. Todd
@@ -487,7 +411,6 @@ J. H. Kagi,Loguen
 J. H. Kagi,A. M. Ellsworth
 J. H. Kagi,Osborn Anderson
 J. H. Kagi,Richard Realf
-J. H. Kagi,P. M.
 J. H. Kagi,George B. Grill
 J. H. Kagi,L. F. Parsons
 J. H. Kagi,C. P. Todd
@@ -549,7 +472,6 @@ Delany,Loguen
 Delany,A. M. Ellsworth
 Delany,Osborn Anderson
 Delany,Richard Realf
-Delany,P. M.
 Delany,George B. Grill
 Delany,L. F. Parsons
 Delany,C. P. Todd
@@ -610,7 +532,6 @@ Kinnard,Loguen
 Kinnard,A. M. Ellsworth
 Kinnard,Osborn Anderson
 Kinnard,Richard Realf
-Kinnard,P. M.
 Kinnard,George B. Grill
 Kinnard,L. F. Parsons
 Kinnard,C. P. Todd
@@ -670,7 +591,6 @@ Whipple,Loguen
 Whipple,A. M. Ellsworth
 Whipple,Osborn Anderson
 Whipple,Richard Realf
-Whipple,P. M.
 Whipple,George B. Grill
 Whipple,L. F. Parsons
 Whipple,C. P. Todd
@@ -729,7 +649,6 @@ Reynolds,Loguen
 Reynolds,A. M. Ellsworth
 Reynolds,Osborn Anderson
 Reynolds,Richard Realf
-Reynolds,P. M.
 Reynolds,George B. Grill
 Reynolds,L. F. Parsons
 Reynolds,C. P. Todd
@@ -787,7 +706,6 @@ Munroe,Loguen
 Munroe,A. M. Ellsworth
 Munroe,Osborn Anderson
 Munroe,Richard Realf
-Munroe,P. M.
 Munroe,George B. Grill
 Munroe,L. F. Parsons
 Munroe,C. P. Todd
@@ -844,7 +762,6 @@ Owen Brown,Loguen
 Owen Brown,A. M. Ellsworth
 Owen Brown,Osborn Anderson
 Owen Brown,Richard Realf
-Owen Brown,P. M.
 Owen Brown,George B. Grill
 Owen Brown,L. F. Parsons
 Owen Brown,C. P. Todd
@@ -900,7 +817,6 @@ Kagi,Loguen
 Kagi,A. M. Ellsworth
 Kagi,Osborn Anderson
 Kagi,Richard Realf
-Kagi,P. M.
 Kagi,George B. Grill
 Kagi,L. F. Parsons
 Kagi,C. P. Todd
@@ -955,7 +871,6 @@ M. R. Delany,Loguen
 M. R. Delany,A. M. Ellsworth
 M. R. Delany,Osborn Anderson
 M. R. Delany,Richard Realf
-M. R. Delany,P. M.
 M. R. Delany,George B. Grill
 M. R. Delany,L. F. Parsons
 M. R. Delany,C. P. Todd
@@ -1009,7 +924,6 @@ Wm. C. Munroe,Loguen
 Wm. C. Munroe,A. M. Ellsworth
 Wm. C. Munroe,Osborn Anderson
 Wm. C. Munroe,Richard Realf
-Wm. C. Munroe,P. M.
 Wm. C. Munroe,George B. Grill
 Wm. C. Munroe,L. F. Parsons
 Wm. C. Munroe,C. P. Todd
@@ -1062,7 +976,6 @@ Cook,Loguen
 Cook,A. M. Ellsworth
 Cook,Osborn Anderson
 Cook,Richard Realf
-Cook,P. M.
 Cook,George B. Grill
 Cook,L. F. Parsons
 Cook,C. P. Todd
@@ -1114,7 +1027,6 @@ Bell,Loguen
 Bell,A. M. Ellsworth
 Bell,Osborn Anderson
 Bell,Richard Realf
-Bell,P. M.
 Bell,George B. Grill
 Bell,L. F. Parsons
 Bell,C. P. Todd
@@ -1165,7 +1077,6 @@ Realf,Loguen
 Realf,A. M. Ellsworth
 Realf,Osborn Anderson
 Realf,Richard Realf
-Realf,P. M.
 Realf,George B. Grill
 Realf,L. F. Parsons
 Realf,C. P. Todd
@@ -1215,7 +1126,6 @@ Thomas M. Kinnard,Loguen
 Thomas M. Kinnard,A. M. Ellsworth
 Thomas M. Kinnard,Osborn Anderson
 Thomas M. Kinnard,Richard Realf
-Thomas M. Kinnard,P. M.
 Thomas M. Kinnard,George B. Grill
 Thomas M. Kinnard,L. F. Parsons
 Thomas M. Kinnard,C. P. Todd
@@ -1264,7 +1174,6 @@ Anderson,Loguen
 Anderson,A. M. Ellsworth
 Anderson,Osborn Anderson
 Anderson,Richard Realf
-Anderson,P. M.
 Anderson,George B. Grill
 Anderson,L. F. Parsons
 Anderson,C. P. Todd
@@ -1312,7 +1221,6 @@ J. W. Loguen,Loguen
 J. W. Loguen,A. M. Ellsworth
 J. W. Loguen,Osborn Anderson
 J. W. Loguen,Richard Realf
-J. W. Loguen,P. M.
 J. W. Loguen,George B. Grill
 J. W. Loguen,L. F. Parsons
 J. W. Loguen,C. P. Todd
@@ -1359,7 +1267,6 @@ J. W. Loguen,James Smith
 Loguen,A. M. Ellsworth
 Loguen,Osborn Anderson
 Loguen,Richard Realf
-Loguen,P. M.
 Loguen,George B. Grill
 Loguen,L. F. Parsons
 Loguen,C. P. Todd
@@ -1405,7 +1312,6 @@ Loguen,Isaac Holler
 Loguen,James Smith
 A. M. Ellsworth,Osborn Anderson
 A. M. Ellsworth,Richard Realf
-A. M. Ellsworth,P. M.
 A. M. Ellsworth,George B. Grill
 A. M. Ellsworth,L. F. Parsons
 A. M. Ellsworth,C. P. Todd
@@ -1450,7 +1356,6 @@ A. M. Ellsworth,Simon Fislin
 A. M. Ellsworth,Isaac Holler
 A. M. Ellsworth,James Smith
 Osborn Anderson,Richard Realf
-Osborn Anderson,P. M.
 Osborn Anderson,George B. Grill
 Osborn Anderson,L. F. Parsons
 Osborn Anderson,C. P. Todd
@@ -1494,7 +1399,6 @@ Osborn Anderson,Charles Smith
 Osborn Anderson,Simon Fislin
 Osborn Anderson,Isaac Holler
 Osborn Anderson,James Smith
-Richard Realf,P. M.
 Richard Realf,George B. Grill
 Richard Realf,L. F. Parsons
 Richard Realf,C. P. Todd
@@ -1538,49 +1442,6 @@ Richard Realf,Charles Smith
 Richard Realf,Simon Fislin
 Richard Realf,Isaac Holler
 Richard Realf,James Smith
-P. M.,George B. Grill
-P. M.,L. F. Parsons
-P. M.,C. P. Todd
-P. M.,C. Whipple
-P. M.,C. W. Moffit
-P. M.,John E. Cook
-P. M.,Stewart Taylor
-P. M.,Richard Richardson
-P. M.,W. H. Leeman
-P. M.,John Lawrence
-P. M.,William Charles Munroe
-P. M.,G. J. Reynolds
-P. M.,J. C. Grant
-P. M.,A. J. Smith
-P. M.,James M. Jones
-P. M.,George B. Gill
-P. M.,M. F. Bailey
-P. M.,William Lambert
-P. M.,S. Hunton
-P. M.,John J. Jackson
-P. M.,J. Anderson
-P. M.,Alfred Whipple
-P. M.,James M. Buel
-P. M.,Alfred M. Ellsworth
-P. M.,James W. Purnell
-P. M.,George Aiken
-P. M.,Stephen Dettin
-P. M.,Thomas Hickerson
-P. M.,John Caunel
-P. M.,Robinson Alexander
-P. M.,Thomas F. Cary
-P. M.,M. H. Delany
-P. M.,Robert Vanvanken
-P. M.,Thomas M. Stringer
-P. M.,Charles P. Tidd
-P. M.,John A. Thomas
-P. M.,I. D. Shadd
-P. M.,Robert Newman
-P. M.,J. H. Harris
-P. M.,Charles Smith
-P. M.,Simon Fislin
-P. M.,Isaac Holler
-P. M.,James Smith
 George B. Grill,L. F. Parsons
 George B. Grill,C. P. Todd
 George B. Grill,C. Whipple

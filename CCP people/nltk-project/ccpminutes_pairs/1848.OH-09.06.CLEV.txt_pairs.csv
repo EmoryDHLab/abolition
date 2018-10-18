@@ -1,4 +1,4 @@
-name1,name2
+source,target
 John Dick,D. Jenkins
 John Dick,Abner H. Francis
 John Dick,William H. Burnham
@@ -37,7 +37,6 @@ John Dick,Delany
 John Dick,W. H. Day
 John Dick,Douglass
 John Dick,John
-John Dick,Lyle Of N. Y.
 John Dick,J. D. Patterson
 John Dick,John L. Watson
 John Dick,David Jenkins
@@ -57,7 +56,6 @@ John Dick,Harris
 John Dick,H. G. Turner
 John Dick,P. M.
 John Dick,William Ruth
-John Dick,C. W.
 John Dick,Andrews
 John Dick,Alexander Bowman
 John Dick,J. Lott
@@ -114,7 +112,6 @@ D. Jenkins,Delany
 D. Jenkins,W. H. Day
 D. Jenkins,Douglass
 D. Jenkins,John
-D. Jenkins,Lyle Of N. Y.
 D. Jenkins,J. D. Patterson
 D. Jenkins,John L. Watson
 D. Jenkins,David Jenkins
@@ -134,7 +131,6 @@ D. Jenkins,Harris
 D. Jenkins,H. G. Turner
 D. Jenkins,P. M.
 D. Jenkins,William Ruth
-D. Jenkins,C. W.
 D. Jenkins,Andrews
 D. Jenkins,Alexander Bowman
 D. Jenkins,J. Lott
@@ -190,7 +186,6 @@ Abner H. Francis,Delany
 Abner H. Francis,W. H. Day
 Abner H. Francis,Douglass
 Abner H. Francis,John
-Abner H. Francis,Lyle Of N. Y.
 Abner H. Francis,J. D. Patterson
 Abner H. Francis,John L. Watson
 Abner H. Francis,David Jenkins
@@ -210,7 +205,6 @@ Abner H. Francis,Harris
 Abner H. Francis,H. G. Turner
 Abner H. Francis,P. M.
 Abner H. Francis,William Ruth
-Abner H. Francis,C. W.
 Abner H. Francis,Andrews
 Abner H. Francis,Alexander Bowman
 Abner H. Francis,J. Lott
@@ -265,7 +259,6 @@ William H. Burnham,Delany
 William H. Burnham,W. H. Day
 William H. Burnham,Douglass
 William H. Burnham,John
-William H. Burnham,Lyle Of N. Y.
 William H. Burnham,J. D. Patterson
 William H. Burnham,John L. Watson
 William H. Burnham,David Jenkins
@@ -285,7 +278,6 @@ William H. Burnham,Harris
 William H. Burnham,H. G. Turner
 William H. Burnham,P. M.
 William H. Burnham,William Ruth
-William H. Burnham,C. W.
 William H. Burnham,Andrews
 William H. Burnham,Alexander Bowman
 William H. Burnham,J. Lott
@@ -339,7 +331,6 @@ F. Douglass,Delany
 F. Douglass,W. H. Day
 F. Douglass,Douglass
 F. Douglass,John
-F. Douglass,Lyle Of N. Y.
 F. Douglass,J. D. Patterson
 F. Douglass,John L. Watson
 F. Douglass,David Jenkins
@@ -359,7 +350,6 @@ F. Douglass,Harris
 F. Douglass,H. G. Turner
 F. Douglass,P. M.
 F. Douglass,William Ruth
-F. Douglass,C. W.
 F. Douglass,Andrews
 F. Douglass,Alexander Bowman
 F. Douglass,J. Lott
@@ -412,7 +402,6 @@ Henry Bibb,Delany
 Henry Bibb,W. H. Day
 Henry Bibb,Douglass
 Henry Bibb,John
-Henry Bibb,Lyle Of N. Y.
 Henry Bibb,J. D. Patterson
 Henry Bibb,John L. Watson
 Henry Bibb,David Jenkins
@@ -432,7 +421,6 @@ Henry Bibb,Harris
 Henry Bibb,H. G. Turner
 Henry Bibb,P. M.
 Henry Bibb,William Ruth
-Henry Bibb,C. W.
 Henry Bibb,Andrews
 Henry Bibb,Alexander Bowman
 Henry Bibb,J. Lott
@@ -484,7 +472,6 @@ C. H. Langston,Delany
 C. H. Langston,W. H. Day
 C. H. Langston,Douglass
 C. H. Langston,John
-C. H. Langston,Lyle Of N. Y.
 C. H. Langston,J. D. Patterson
 C. H. Langston,John L. Watson
 C. H. Langston,David Jenkins
@@ -504,7 +491,6 @@ C. H. Langston,Harris
 C. H. Langston,H. G. Turner
 C. H. Langston,P. M.
 C. H. Langston,William Ruth
-C. H. Langston,C. W.
 C. H. Langston,Andrews
 C. H. Langston,Alexander Bowman
 C. H. Langston,J. Lott
@@ -555,7 +541,6 @@ L. Watson,Delany
 L. Watson,W. H. Day
 L. Watson,Douglass
 L. Watson,John
-L. Watson,Lyle Of N. Y.
 L. Watson,J. D. Patterson
 L. Watson,John L. Watson
 L. Watson,David Jenkins
@@ -575,7 +560,6 @@ L. Watson,Harris
 L. Watson,H. G. Turner
 L. Watson,P. M.
 L. Watson,William Ruth
-L. Watson,C. W.
 L. Watson,Andrews
 L. Watson,Alexander Bowman
 L. Watson,J. Lott
@@ -625,7 +609,6 @@ Frederick Douglass,Delany
 Frederick Douglass,W. H. Day
 Frederick Douglass,Douglass
 Frederick Douglass,John
-Frederick Douglass,Lyle Of N. Y.
 Frederick Douglass,J. D. Patterson
 Frederick Douglass,John L. Watson
 Frederick Douglass,David Jenkins
@@ -645,7 +628,6 @@ Frederick Douglass,Harris
 Frederick Douglass,H. G. Turner
 Frederick Douglass,P. M.
 Frederick Douglass,William Ruth
-Frederick Douglass,C. W.
 Frederick Douglass,Andrews
 Frederick Douglass,Alexander Bowman
 Frederick Douglass,J. Lott
@@ -694,7 +676,6 @@ J. Jones,Delany
 J. Jones,W. H. Day
 J. Jones,Douglass
 J. Jones,John
-J. Jones,Lyle Of N. Y.
 J. Jones,J. D. Patterson
 J. Jones,John L. Watson
 J. Jones,David Jenkins
@@ -714,7 +695,6 @@ J. Jones,Harris
 J. Jones,H. G. Turner
 J. Jones,P. M.
 J. Jones,William Ruth
-J. Jones,C. W.
 J. Jones,Andrews
 J. Jones,Alexander Bowman
 J. Jones,J. Lott
@@ -762,7 +742,6 @@ William H. Day,Delany
 William H. Day,W. H. Day
 William H. Day,Douglass
 William H. Day,John
-William H. Day,Lyle Of N. Y.
 William H. Day,J. D. Patterson
 William H. Day,John L. Watson
 William H. Day,David Jenkins
@@ -782,7 +761,6 @@ William H. Day,Harris
 William H. Day,H. G. Turner
 William H. Day,P. M.
 William H. Day,William Ruth
-William H. Day,C. W.
 William H. Day,Andrews
 William H. Day,Alexander Bowman
 William H. Day,J. Lott
@@ -829,7 +807,6 @@ Allen Jones,Delany
 Allen Jones,W. H. Day
 Allen Jones,Douglass
 Allen Jones,John
-Allen Jones,Lyle Of N. Y.
 Allen Jones,J. D. Patterson
 Allen Jones,John L. Watson
 Allen Jones,David Jenkins
@@ -849,7 +826,6 @@ Allen Jones,Harris
 Allen Jones,H. G. Turner
 Allen Jones,P. M.
 Allen Jones,William Ruth
-Allen Jones,C. W.
 Allen Jones,Andrews
 Allen Jones,Alexander Bowman
 Allen Jones,J. Lott
@@ -895,7 +871,6 @@ Thomas Johnson,Delany
 Thomas Johnson,W. H. Day
 Thomas Johnson,Douglass
 Thomas Johnson,John
-Thomas Johnson,Lyle Of N. Y.
 Thomas Johnson,J. D. Patterson
 Thomas Johnson,John L. Watson
 Thomas Johnson,David Jenkins
@@ -915,7 +890,6 @@ Thomas Johnson,Harris
 Thomas Johnson,H. G. Turner
 Thomas Johnson,P. M.
 Thomas Johnson,William Ruth
-Thomas Johnson,C. W.
 Thomas Johnson,Andrews
 Thomas Johnson,Alexander Bowman
 Thomas Johnson,J. Lott
@@ -960,7 +934,6 @@ Justin Holland,Delany
 Justin Holland,W. H. Day
 Justin Holland,Douglass
 Justin Holland,John
-Justin Holland,Lyle Of N. Y.
 Justin Holland,J. D. Patterson
 Justin Holland,John L. Watson
 Justin Holland,David Jenkins
@@ -980,7 +953,6 @@ Justin Holland,Harris
 Justin Holland,H. G. Turner
 Justin Holland,P. M.
 Justin Holland,William Ruth
-Justin Holland,C. W.
 Justin Holland,Andrews
 Justin Holland,Alexander Bowman
 Justin Holland,J. Lott
@@ -1024,7 +996,6 @@ A. H. Francis,Delany
 A. H. Francis,W. H. Day
 A. H. Francis,Douglass
 A. H. Francis,John
-A. H. Francis,Lyle Of N. Y.
 A. H. Francis,J. D. Patterson
 A. H. Francis,John L. Watson
 A. H. Francis,David Jenkins
@@ -1044,7 +1015,6 @@ A. H. Francis,Harris
 A. H. Francis,H. G. Turner
 A. H. Francis,P. M.
 A. H. Francis,William Ruth
-A. H. Francis,C. W.
 A. H. Francis,Andrews
 A. H. Francis,Alexander Bowman
 A. H. Francis,J. Lott
@@ -1087,7 +1057,6 @@ M. R. Delany,Delany
 M. R. Delany,W. H. Day
 M. R. Delany,Douglass
 M. R. Delany,John
-M. R. Delany,Lyle Of N. Y.
 M. R. Delany,J. D. Patterson
 M. R. Delany,John L. Watson
 M. R. Delany,David Jenkins
@@ -1107,7 +1076,6 @@ M. R. Delany,Harris
 M. R. Delany,H. G. Turner
 M. R. Delany,P. M.
 M. R. Delany,William Ruth
-M. R. Delany,C. W.
 M. R. Delany,Andrews
 M. R. Delany,Alexander Bowman
 M. R. Delany,J. Lott
@@ -1149,7 +1117,6 @@ C.H. Langston,Delany
 C.H. Langston,W. H. Day
 C.H. Langston,Douglass
 C.H. Langston,John
-C.H. Langston,Lyle Of N. Y.
 C.H. Langston,J. D. Patterson
 C.H. Langston,John L. Watson
 C.H. Langston,David Jenkins
@@ -1169,7 +1136,6 @@ C.H. Langston,Harris
 C.H. Langston,H. G. Turner
 C.H. Langston,P. M.
 C.H. Langston,William Ruth
-C.H. Langston,C. W.
 C.H. Langston,Andrews
 C.H. Langston,Alexander Bowman
 C.H. Langston,J. Lott
@@ -1210,7 +1176,6 @@ H. Bibb,Delany
 H. Bibb,W. H. Day
 H. Bibb,Douglass
 H. Bibb,John
-H. Bibb,Lyle Of N. Y.
 H. Bibb,J. D. Patterson
 H. Bibb,John L. Watson
 H. Bibb,David Jenkins
@@ -1230,7 +1195,6 @@ H. Bibb,Harris
 H. Bibb,H. G. Turner
 H. Bibb,P. M.
 H. Bibb,William Ruth
-H. Bibb,C. W.
 H. Bibb,Andrews
 H. Bibb,Alexander Bowman
 H. Bibb,J. Lott
@@ -1270,7 +1234,6 @@ G. W. Tucker,Delany
 G. W. Tucker,W. H. Day
 G. W. Tucker,Douglass
 G. W. Tucker,John
-G. W. Tucker,Lyle Of N. Y.
 G. W. Tucker,J. D. Patterson
 G. W. Tucker,John L. Watson
 G. W. Tucker,David Jenkins
@@ -1290,7 +1253,6 @@ G. W. Tucker,Harris
 G. W. Tucker,H. G. Turner
 G. W. Tucker,P. M.
 G. W. Tucker,William Ruth
-G. W. Tucker,C. W.
 G. W. Tucker,Andrews
 G. W. Tucker,Alexander Bowman
 G. W. Tucker,J. Lott
@@ -1329,7 +1291,6 @@ W. H. Topp,Delany
 W. H. Topp,W. H. Day
 W. H. Topp,Douglass
 W. H. Topp,John
-W. H. Topp,Lyle Of N. Y.
 W. H. Topp,J. D. Patterson
 W. H. Topp,John L. Watson
 W. H. Topp,David Jenkins
@@ -1349,7 +1310,6 @@ W. H. Topp,Harris
 W. H. Topp,H. G. Turner
 W. H. Topp,P. M.
 W. H. Topp,William Ruth
-W. H. Topp,C. W.
 W. H. Topp,Andrews
 W. H. Topp,Alexander Bowman
 W. H. Topp,J. Lott
@@ -1387,7 +1347,6 @@ Thomas Brown,Delany
 Thomas Brown,W. H. Day
 Thomas Brown,Douglass
 Thomas Brown,John
-Thomas Brown,Lyle Of N. Y.
 Thomas Brown,J. D. Patterson
 Thomas Brown,John L. Watson
 Thomas Brown,David Jenkins
@@ -1407,7 +1366,6 @@ Thomas Brown,Harris
 Thomas Brown,H. G. Turner
 Thomas Brown,P. M.
 Thomas Brown,William Ruth
-Thomas Brown,C. W.
 Thomas Brown,Andrews
 Thomas Brown,Alexander Bowman
 Thomas Brown,J. Lott
@@ -1444,7 +1402,6 @@ J. L. Watson,Delany
 J. L. Watson,W. H. Day
 J. L. Watson,Douglass
 J. L. Watson,John
-J. L. Watson,Lyle Of N. Y.
 J. L. Watson,J. D. Patterson
 J. L. Watson,John L. Watson
 J. L. Watson,David Jenkins
@@ -1464,7 +1421,6 @@ J. L. Watson,Harris
 J. L. Watson,H. G. Turner
 J. L. Watson,P. M.
 J. L. Watson,William Ruth
-J. L. Watson,C. W.
 J. L. Watson,Andrews
 J. L. Watson,Alexander Bowman
 J. L. Watson,J. Lott
@@ -1500,7 +1456,6 @@ J. Malvin,Delany
 J. Malvin,W. H. Day
 J. Malvin,Douglass
 J. Malvin,John
-J. Malvin,Lyle Of N. Y.
 J. Malvin,J. D. Patterson
 J. Malvin,John L. Watson
 J. Malvin,David Jenkins
@@ -1520,7 +1475,6 @@ J. Malvin,Harris
 J. Malvin,H. G. Turner
 J. Malvin,P. M.
 J. Malvin,William Ruth
-J. Malvin,C. W.
 J. Malvin,Andrews
 J. Malvin,Alexander Bowman
 J. Malvin,J. Lott
@@ -1555,7 +1509,6 @@ Allan Jones,Delany
 Allan Jones,W. H. Day
 Allan Jones,Douglass
 Allan Jones,John
-Allan Jones,Lyle Of N. Y.
 Allan Jones,J. D. Patterson
 Allan Jones,John L. Watson
 Allan Jones,David Jenkins
@@ -1575,7 +1528,6 @@ Allan Jones,Harris
 Allan Jones,H. G. Turner
 Allan Jones,P. M.
 Allan Jones,William Ruth
-Allan Jones,C. W.
 Allan Jones,Andrews
 Allan Jones,Alexander Bowman
 Allan Jones,J. Lott
@@ -1609,7 +1561,6 @@ Cox,Delany
 Cox,W. H. Day
 Cox,Douglass
 Cox,John
-Cox,Lyle Of N. Y.
 Cox,J. D. Patterson
 Cox,John L. Watson
 Cox,David Jenkins
@@ -1629,7 +1580,6 @@ Cox,Harris
 Cox,H. G. Turner
 Cox,P. M.
 Cox,William Ruth
-Cox,C. W.
 Cox,Andrews
 Cox,Alexander Bowman
 Cox,J. Lott
@@ -1662,7 +1612,6 @@ Sayres,Delany
 Sayres,W. H. Day
 Sayres,Douglass
 Sayres,John
-Sayres,Lyle Of N. Y.
 Sayres,J. D. Patterson
 Sayres,John L. Watson
 Sayres,David Jenkins
@@ -1682,7 +1631,6 @@ Sayres,Harris
 Sayres,H. G. Turner
 Sayres,P. M.
 Sayres,William Ruth
-Sayres,C. W.
 Sayres,Andrews
 Sayres,Alexander Bowman
 Sayres,J. Lott
@@ -1714,7 +1662,6 @@ Dayton,Delany
 Dayton,W. H. Day
 Dayton,Douglass
 Dayton,John
-Dayton,Lyle Of N. Y.
 Dayton,J. D. Patterson
 Dayton,John L. Watson
 Dayton,David Jenkins
@@ -1734,7 +1681,6 @@ Dayton,Harris
 Dayton,H. G. Turner
 Dayton,P. M.
 Dayton,William Ruth
-Dayton,C. W.
 Dayton,Andrews
 Dayton,Alexander Bowman
 Dayton,J. Lott
@@ -1765,7 +1711,6 @@ Bibb,Delany
 Bibb,W. H. Day
 Bibb,Douglass
 Bibb,John
-Bibb,Lyle Of N. Y.
 Bibb,J. D. Patterson
 Bibb,John L. Watson
 Bibb,David Jenkins
@@ -1785,7 +1730,6 @@ Bibb,Harris
 Bibb,H. G. Turner
 Bibb,P. M.
 Bibb,William Ruth
-Bibb,C. W.
 Bibb,Andrews
 Bibb,Alexander Bowman
 Bibb,J. Lott
@@ -1815,7 +1759,6 @@ Henry Lott,Delany
 Henry Lott,W. H. Day
 Henry Lott,Douglass
 Henry Lott,John
-Henry Lott,Lyle Of N. Y.
 Henry Lott,J. D. Patterson
 Henry Lott,John L. Watson
 Henry Lott,David Jenkins
@@ -1835,7 +1778,6 @@ Henry Lott,Harris
 Henry Lott,H. G. Turner
 Henry Lott,P. M.
 Henry Lott,William Ruth
-Henry Lott,C. W.
 Henry Lott,Andrews
 Henry Lott,Alexander Bowman
 Henry Lott,J. Lott
@@ -1864,7 +1806,6 @@ Patterson,Delany
 Patterson,W. H. Day
 Patterson,Douglass
 Patterson,John
-Patterson,Lyle Of N. Y.
 Patterson,J. D. Patterson
 Patterson,John L. Watson
 Patterson,David Jenkins
@@ -1884,7 +1825,6 @@ Patterson,Harris
 Patterson,H. G. Turner
 Patterson,P. M.
 Patterson,William Ruth
-Patterson,C. W.
 Patterson,Andrews
 Patterson,Alexander Bowman
 Patterson,J. Lott
@@ -1912,7 +1852,6 @@ Fitzgerald,Delany
 Fitzgerald,W. H. Day
 Fitzgerald,Douglass
 Fitzgerald,John
-Fitzgerald,Lyle Of N. Y.
 Fitzgerald,J. D. Patterson
 Fitzgerald,John L. Watson
 Fitzgerald,David Jenkins
@@ -1932,7 +1871,6 @@ Fitzgerald,Harris
 Fitzgerald,H. G. Turner
 Fitzgerald,P. M.
 Fitzgerald,William Ruth
-Fitzgerald,C. W.
 Fitzgerald,Andrews
 Fitzgerald,Alexander Bowman
 Fitzgerald,J. Lott
@@ -1959,7 +1897,6 @@ Lewis,Delany
 Lewis,W. H. Day
 Lewis,Douglass
 Lewis,John
-Lewis,Lyle Of N. Y.
 Lewis,J. D. Patterson
 Lewis,John L. Watson
 Lewis,David Jenkins
@@ -1979,7 +1916,6 @@ Lewis,Harris
 Lewis,H. G. Turner
 Lewis,P. M.
 Lewis,William Ruth
-Lewis,C. W.
 Lewis,Andrews
 Lewis,Alexander Bowman
 Lewis,J. Lott
@@ -2005,7 +1941,6 @@ J. M. Langston,Delany
 J. M. Langston,W. H. Day
 J. M. Langston,Douglass
 J. M. Langston,John
-J. M. Langston,Lyle Of N. Y.
 J. M. Langston,J. D. Patterson
 J. M. Langston,John L. Watson
 J. M. Langston,David Jenkins
@@ -2025,7 +1960,6 @@ J. M. Langston,Harris
 J. M. Langston,H. G. Turner
 J. M. Langston,P. M.
 J. M. Langston,William Ruth
-J. M. Langston,C. W.
 J. M. Langston,Andrews
 J. M. Langston,Alexander Bowman
 J. M. Langston,J. Lott
@@ -2050,7 +1984,6 @@ Watson,Delany
 Watson,W. H. Day
 Watson,Douglass
 Watson,John
-Watson,Lyle Of N. Y.
 Watson,J. D. Patterson
 Watson,John L. Watson
 Watson,David Jenkins
@@ -2070,7 +2003,6 @@ Watson,Harris
 Watson,H. G. Turner
 Watson,P. M.
 Watson,William Ruth
-Watson,C. W.
 Watson,Andrews
 Watson,Alexander Bowman
 Watson,J. Lott
@@ -2094,7 +2026,6 @@ Jones,Delany
 Jones,W. H. Day
 Jones,Douglass
 Jones,John
-Jones,Lyle Of N. Y.
 Jones,J. D. Patterson
 Jones,John L. Watson
 Jones,David Jenkins
@@ -2114,7 +2045,6 @@ Jones,Harris
 Jones,H. G. Turner
 Jones,P. M.
 Jones,William Ruth
-Jones,C. W.
 Jones,Andrews
 Jones,Alexander Bowman
 Jones,J. Lott
@@ -2137,7 +2067,6 @@ Jones,H. Francis
 Delany,W. H. Day
 Delany,Douglass
 Delany,John
-Delany,Lyle Of N. Y.
 Delany,J. D. Patterson
 Delany,John L. Watson
 Delany,David Jenkins
@@ -2157,7 +2086,6 @@ Delany,Harris
 Delany,H. G. Turner
 Delany,P. M.
 Delany,William Ruth
-Delany,C. W.
 Delany,Andrews
 Delany,Alexander Bowman
 Delany,J. Lott
@@ -2179,7 +2107,6 @@ Delany,H. Jenkins
 Delany,H. Francis
 W. H. Day,Douglass
 W. H. Day,John
-W. H. Day,Lyle Of N. Y.
 W. H. Day,J. D. Patterson
 W. H. Day,John L. Watson
 W. H. Day,David Jenkins
@@ -2199,7 +2126,6 @@ W. H. Day,Harris
 W. H. Day,H. G. Turner
 W. H. Day,P. M.
 W. H. Day,William Ruth
-W. H. Day,C. W.
 W. H. Day,Andrews
 W. H. Day,Alexander Bowman
 W. H. Day,J. Lott
@@ -2220,7 +2146,6 @@ W. H. Day,W. L. Day
 W. H. Day,H. Jenkins
 W. H. Day,H. Francis
 Douglass,John
-Douglass,Lyle Of N. Y.
 Douglass,J. D. Patterson
 Douglass,John L. Watson
 Douglass,David Jenkins
@@ -2240,7 +2165,6 @@ Douglass,Harris
 Douglass,H. G. Turner
 Douglass,P. M.
 Douglass,William Ruth
-Douglass,C. W.
 Douglass,Andrews
 Douglass,Alexander Bowman
 Douglass,J. Lott
@@ -2260,7 +2184,6 @@ Douglass,Roberts
 Douglass,W. L. Day
 Douglass,H. Jenkins
 Douglass,H. Francis
-John,Lyle Of N. Y.
 John,J. D. Patterson
 John,John L. Watson
 John,David Jenkins
@@ -2280,7 +2203,6 @@ John,Harris
 John,H. G. Turner
 John,P. M.
 John,William Ruth
-John,C. W.
 John,Andrews
 John,Alexander Bowman
 John,J. Lott
@@ -2300,45 +2222,6 @@ John,Roberts
 John,W. L. Day
 John,H. Jenkins
 John,H. Francis
-Lyle Of N. Y.,J. D. Patterson
-Lyle Of N. Y.,John L. Watson
-Lyle Of N. Y.,David Jenkins
-Lyle Of N. Y.,Copeland
-Lyle Of N. Y.,William H. Topp
-Lyle Of N. Y.,Van Buren
-Lyle Of N. Y.,Kenyon
-Lyle Of N. Y.,Francis
-Lyle Of N. Y.,Brown
-Lyle Of N. Y.,Jenkins
-Lyle Of N. Y.,Lightfoot
-Lyle Of N. Y.,John Lyle
-Lyle Of N. Y.,Sabram Cox
-Lyle Of N. Y.,Richard Copeland
-Lyle Of N. Y.,W. B. Depp
-Lyle Of N. Y.,Harris
-Lyle Of N. Y.,H. G. Turner
-Lyle Of N. Y.,P. M.
-Lyle Of N. Y.,William Ruth
-Lyle Of N. Y.,C. W.
-Lyle Of N. Y.,Andrews
-Lyle Of N. Y.,Alexander Bowman
-Lyle Of N. Y.,J. Lott
-Lyle Of N. Y.,O. D. O'Brien
-Lyle Of N. Y.,Sanford
-Lyle Of N. Y.,John M. Sterling
-Lyle Of N. Y.,Langston
-Lyle Of N. Y.,Frederick Douglas
-Lyle Of N. Y.,N. Y. Charles H. Langston
-Lyle Of N. Y.,J. G. Britton
-Lyle Of N. Y.,John Peck
-Lyle Of N. Y.,George Day
-Lyle Of N. Y.,Josiah Conville
-Lyle Of N. Y.,Mason
-Lyle Of N. Y.,Jefferson Fitzgerald
-Lyle Of N. Y.,Roberts
-Lyle Of N. Y.,W. L. Day
-Lyle Of N. Y.,H. Jenkins
-Lyle Of N. Y.,H. Francis
 J. D. Patterson,John L. Watson
 J. D. Patterson,David Jenkins
 J. D. Patterson,Copeland
@@ -2357,7 +2240,6 @@ J. D. Patterson,Harris
 J. D. Patterson,H. G. Turner
 J. D. Patterson,P. M.
 J. D. Patterson,William Ruth
-J. D. Patterson,C. W.
 J. D. Patterson,Andrews
 J. D. Patterson,Alexander Bowman
 J. D. Patterson,J. Lott
@@ -2394,7 +2276,6 @@ John L. Watson,Harris
 John L. Watson,H. G. Turner
 John L. Watson,P. M.
 John L. Watson,William Ruth
-John L. Watson,C. W.
 John L. Watson,Andrews
 John L. Watson,Alexander Bowman
 John L. Watson,J. Lott
@@ -2430,7 +2311,6 @@ David Jenkins,Harris
 David Jenkins,H. G. Turner
 David Jenkins,P. M.
 David Jenkins,William Ruth
-David Jenkins,C. W.
 David Jenkins,Andrews
 David Jenkins,Alexander Bowman
 David Jenkins,J. Lott
@@ -2465,7 +2345,6 @@ Copeland,Harris
 Copeland,H. G. Turner
 Copeland,P. M.
 Copeland,William Ruth
-Copeland,C. W.
 Copeland,Andrews
 Copeland,Alexander Bowman
 Copeland,J. Lott
@@ -2499,7 +2378,6 @@ William H. Topp,Harris
 William H. Topp,H. G. Turner
 William H. Topp,P. M.
 William H. Topp,William Ruth
-William H. Topp,C. W.
 William H. Topp,Andrews
 William H. Topp,Alexander Bowman
 William H. Topp,J. Lott
@@ -2532,7 +2410,6 @@ Van Buren,Harris
 Van Buren,H. G. Turner
 Van Buren,P. M.
 Van Buren,William Ruth
-Van Buren,C. W.
 Van Buren,Andrews
 Van Buren,Alexander Bowman
 Van Buren,J. Lott
@@ -2564,7 +2441,6 @@ Kenyon,Harris
 Kenyon,H. G. Turner
 Kenyon,P. M.
 Kenyon,William Ruth
-Kenyon,C. W.
 Kenyon,Andrews
 Kenyon,Alexander Bowman
 Kenyon,J. Lott
@@ -2595,7 +2471,6 @@ Francis,Harris
 Francis,H. G. Turner
 Francis,P. M.
 Francis,William Ruth
-Francis,C. W.
 Francis,Andrews
 Francis,Alexander Bowman
 Francis,J. Lott
@@ -2625,7 +2500,6 @@ Brown,Harris
 Brown,H. G. Turner
 Brown,P. M.
 Brown,William Ruth
-Brown,C. W.
 Brown,Andrews
 Brown,Alexander Bowman
 Brown,J. Lott
@@ -2654,7 +2528,6 @@ Jenkins,Harris
 Jenkins,H. G. Turner
 Jenkins,P. M.
 Jenkins,William Ruth
-Jenkins,C. W.
 Jenkins,Andrews
 Jenkins,Alexander Bowman
 Jenkins,J. Lott
@@ -2682,7 +2555,6 @@ Lightfoot,Harris
 Lightfoot,H. G. Turner
 Lightfoot,P. M.
 Lightfoot,William Ruth
-Lightfoot,C. W.
 Lightfoot,Andrews
 Lightfoot,Alexander Bowman
 Lightfoot,J. Lott
@@ -2709,7 +2581,6 @@ John Lyle,Harris
 John Lyle,H. G. Turner
 John Lyle,P. M.
 John Lyle,William Ruth
-John Lyle,C. W.
 John Lyle,Andrews
 John Lyle,Alexander Bowman
 John Lyle,J. Lott
@@ -2735,7 +2606,6 @@ Sabram Cox,Harris
 Sabram Cox,H. G. Turner
 Sabram Cox,P. M.
 Sabram Cox,William Ruth
-Sabram Cox,C. W.
 Sabram Cox,Andrews
 Sabram Cox,Alexander Bowman
 Sabram Cox,J. Lott
@@ -2760,7 +2630,6 @@ Richard Copeland,Harris
 Richard Copeland,H. G. Turner
 Richard Copeland,P. M.
 Richard Copeland,William Ruth
-Richard Copeland,C. W.
 Richard Copeland,Andrews
 Richard Copeland,Alexander Bowman
 Richard Copeland,J. Lott
@@ -2784,7 +2653,6 @@ W. B. Depp,Harris
 W. B. Depp,H. G. Turner
 W. B. Depp,P. M.
 W. B. Depp,William Ruth
-W. B. Depp,C. W.
 W. B. Depp,Andrews
 W. B. Depp,Alexander Bowman
 W. B. Depp,J. Lott
@@ -2807,7 +2675,6 @@ W. B. Depp,H. Francis
 Harris,H. G. Turner
 Harris,P. M.
 Harris,William Ruth
-Harris,C. W.
 Harris,Andrews
 Harris,Alexander Bowman
 Harris,J. Lott
@@ -2829,7 +2696,6 @@ Harris,H. Jenkins
 Harris,H. Francis
 H. G. Turner,P. M.
 H. G. Turner,William Ruth
-H. G. Turner,C. W.
 H. G. Turner,Andrews
 H. G. Turner,Alexander Bowman
 H. G. Turner,J. Lott
@@ -2850,7 +2716,6 @@ H. G. Turner,W. L. Day
 H. G. Turner,H. Jenkins
 H. G. Turner,H. Francis
 P. M.,William Ruth
-P. M.,C. W.
 P. M.,Andrews
 P. M.,Alexander Bowman
 P. M.,J. Lott
@@ -2870,7 +2735,6 @@ P. M.,Roberts
 P. M.,W. L. Day
 P. M.,H. Jenkins
 P. M.,H. Francis
-William Ruth,C. W.
 William Ruth,Andrews
 William Ruth,Alexander Bowman
 William Ruth,J. Lott
@@ -2890,25 +2754,6 @@ William Ruth,Roberts
 William Ruth,W. L. Day
 William Ruth,H. Jenkins
 William Ruth,H. Francis
-C. W.,Andrews
-C. W.,Alexander Bowman
-C. W.,J. Lott
-C. W.,O. D. O'Brien
-C. W.,Sanford
-C. W.,John M. Sterling
-C. W.,Langston
-C. W.,Frederick Douglas
-C. W.,N. Y. Charles H. Langston
-C. W.,J. G. Britton
-C. W.,John Peck
-C. W.,George Day
-C. W.,Josiah Conville
-C. W.,Mason
-C. W.,Jefferson Fitzgerald
-C. W.,Roberts
-C. W.,W. L. Day
-C. W.,H. Jenkins
-C. W.,H. Francis
 Andrews,Alexander Bowman
 Andrews,J. Lott
 Andrews,O. D. O'Brien

@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Martin Heim,James Holland
 Martin Heim,Daniel Yates
 Martin Heim,Aaron Johnson
@@ -30,7 +30,6 @@ Martin Heim,J. Lewis
 Martin Heim,Shadd
 Martin Heim,J. G. Bias
 Martin Heim,D. B. Anderson
-Martin Heim,P. M.
 Martin Heim,Burleigh
 Martin Heim,Kennady
 Martin Heim,Crummell
@@ -122,7 +121,7 @@ Martin Heim,Parmer Johnson
 Martin Heim,Walter Burr
 Martin Heim,Wm. Knight
 Martin Heim,Wm. Woods
-Martin Heim,Jacob
+Martin Heim,Jacob Trusty
 Martin Heim,J. Primrose
 Martin Heim,Robert M. Smith
 Martin Heim,John Charles Fortie
@@ -237,7 +236,6 @@ James Holland,J. Lewis
 James Holland,Shadd
 James Holland,J. G. Bias
 James Holland,D. B. Anderson
-James Holland,P. M.
 James Holland,Burleigh
 James Holland,Kennady
 James Holland,Crummell
@@ -329,7 +327,7 @@ James Holland,Parmer Johnson
 James Holland,Walter Burr
 James Holland,Wm. Knight
 James Holland,Wm. Woods
-James Holland,Jacob
+James Holland,Jacob Trusty
 James Holland,J. Primrose
 James Holland,Robert M. Smith
 James Holland,John Charles Fortie
@@ -443,7 +441,6 @@ Daniel Yates,J. Lewis
 Daniel Yates,Shadd
 Daniel Yates,J. G. Bias
 Daniel Yates,D. B. Anderson
-Daniel Yates,P. M.
 Daniel Yates,Burleigh
 Daniel Yates,Kennady
 Daniel Yates,Crummell
@@ -535,7 +532,7 @@ Daniel Yates,Parmer Johnson
 Daniel Yates,Walter Burr
 Daniel Yates,Wm. Knight
 Daniel Yates,Wm. Woods
-Daniel Yates,Jacob
+Daniel Yates,Jacob Trusty
 Daniel Yates,J. Primrose
 Daniel Yates,Robert M. Smith
 Daniel Yates,John Charles Fortie
@@ -648,7 +645,6 @@ Aaron Johnson,J. Lewis
 Aaron Johnson,Shadd
 Aaron Johnson,J. G. Bias
 Aaron Johnson,D. B. Anderson
-Aaron Johnson,P. M.
 Aaron Johnson,Burleigh
 Aaron Johnson,Kennady
 Aaron Johnson,Crummell
@@ -740,7 +736,7 @@ Aaron Johnson,Parmer Johnson
 Aaron Johnson,Walter Burr
 Aaron Johnson,Wm. Knight
 Aaron Johnson,Wm. Woods
-Aaron Johnson,Jacob
+Aaron Johnson,Jacob Trusty
 Aaron Johnson,J. Primrose
 Aaron Johnson,Robert M. Smith
 Aaron Johnson,John Charles Fortie
@@ -852,7 +848,6 @@ Rodgers,J. Lewis
 Rodgers,Shadd
 Rodgers,J. G. Bias
 Rodgers,D. B. Anderson
-Rodgers,P. M.
 Rodgers,Burleigh
 Rodgers,Kennady
 Rodgers,Crummell
@@ -944,7 +939,7 @@ Rodgers,Parmer Johnson
 Rodgers,Walter Burr
 Rodgers,Wm. Knight
 Rodgers,Wm. Woods
-Rodgers,Jacob
+Rodgers,Jacob Trusty
 Rodgers,J. Primrose
 Rodgers,Robert M. Smith
 Rodgers,John Charles Fortie
@@ -1055,7 +1050,6 @@ N. Jersey,J. Lewis
 N. Jersey,Shadd
 N. Jersey,J. G. Bias
 N. Jersey,D. B. Anderson
-N. Jersey,P. M.
 N. Jersey,Burleigh
 N. Jersey,Kennady
 N. Jersey,Crummell
@@ -1147,7 +1141,7 @@ N. Jersey,Parmer Johnson
 N. Jersey,Walter Burr
 N. Jersey,Wm. Knight
 N. Jersey,Wm. Woods
-N. Jersey,Jacob
+N. Jersey,Jacob Trusty
 N. Jersey,J. Primrose
 N. Jersey,Robert M. Smith
 N. Jersey,John Charles Fortie
@@ -1257,7 +1251,6 @@ James J. G. Bias,J. Lewis
 James J. G. Bias,Shadd
 James J. G. Bias,J. G. Bias
 James J. G. Bias,D. B. Anderson
-James J. G. Bias,P. M.
 James J. G. Bias,Burleigh
 James J. G. Bias,Kennady
 James J. G. Bias,Crummell
@@ -1349,7 +1342,7 @@ James J. G. Bias,Parmer Johnson
 James J. G. Bias,Walter Burr
 James J. G. Bias,Wm. Knight
 James J. G. Bias,Wm. Woods
-James J. G. Bias,Jacob
+James J. G. Bias,Jacob Trusty
 James J. G. Bias,J. Primrose
 James J. G. Bias,Robert M. Smith
 James J. G. Bias,John Charles Fortie
@@ -1458,7 +1451,6 @@ Samuel Van Brackle,J. Lewis
 Samuel Van Brackle,Shadd
 Samuel Van Brackle,J. G. Bias
 Samuel Van Brackle,D. B. Anderson
-Samuel Van Brackle,P. M.
 Samuel Van Brackle,Burleigh
 Samuel Van Brackle,Kennady
 Samuel Van Brackle,Crummell
@@ -1550,7 +1542,7 @@ Samuel Van Brackle,Parmer Johnson
 Samuel Van Brackle,Walter Burr
 Samuel Van Brackle,Wm. Knight
 Samuel Van Brackle,Wm. Woods
-Samuel Van Brackle,Jacob
+Samuel Van Brackle,Jacob Trusty
 Samuel Van Brackle,J. Primrose
 Samuel Van Brackle,Robert M. Smith
 Samuel Van Brackle,John Charles Fortie
@@ -1658,7 +1650,6 @@ James M ` C. Crummill,J. Lewis
 James M ` C. Crummill,Shadd
 James M ` C. Crummill,J. G. Bias
 James M ` C. Crummill,D. B. Anderson
-James M ` C. Crummill,P. M.
 James M ` C. Crummill,Burleigh
 James M ` C. Crummill,Kennady
 James M ` C. Crummill,Crummell
@@ -1750,7 +1741,7 @@ James M ` C. Crummill,Parmer Johnson
 James M ` C. Crummill,Walter Burr
 James M ` C. Crummill,Wm. Knight
 James M ` C. Crummill,Wm. Woods
-James M ` C. Crummill,Jacob
+James M ` C. Crummill,Jacob Trusty
 James M ` C. Crummill,J. Primrose
 James M ` C. Crummill,Robert M. Smith
 James M ` C. Crummill,John Charles Fortie
@@ -1857,7 +1848,6 @@ Stephen Smith,J. Lewis
 Stephen Smith,Shadd
 Stephen Smith,J. G. Bias
 Stephen Smith,D. B. Anderson
-Stephen Smith,P. M.
 Stephen Smith,Burleigh
 Stephen Smith,Kennady
 Stephen Smith,Crummell
@@ -1949,7 +1939,7 @@ Stephen Smith,Parmer Johnson
 Stephen Smith,Walter Burr
 Stephen Smith,Wm. Knight
 Stephen Smith,Wm. Woods
-Stephen Smith,Jacob
+Stephen Smith,Jacob Trusty
 Stephen Smith,J. Primrose
 Stephen Smith,Robert M. Smith
 Stephen Smith,John Charles Fortie
@@ -2055,7 +2045,6 @@ John Lewis,J. Lewis
 John Lewis,Shadd
 John Lewis,J. G. Bias
 John Lewis,D. B. Anderson
-John Lewis,P. M.
 John Lewis,Burleigh
 John Lewis,Kennady
 John Lewis,Crummell
@@ -2147,7 +2136,7 @@ John Lewis,Parmer Johnson
 John Lewis,Walter Burr
 John Lewis,Wm. Knight
 John Lewis,Wm. Woods
-John Lewis,Jacob
+John Lewis,Jacob Trusty
 John Lewis,J. Primrose
 John Lewis,Robert M. Smith
 John Lewis,John Charles Fortie
@@ -2252,7 +2241,6 @@ George H. Amos,J. Lewis
 George H. Amos,Shadd
 George H. Amos,J. G. Bias
 George H. Amos,D. B. Anderson
-George H. Amos,P. M.
 George H. Amos,Burleigh
 George H. Amos,Kennady
 George H. Amos,Crummell
@@ -2344,7 +2332,7 @@ George H. Amos,Parmer Johnson
 George H. Amos,Walter Burr
 George H. Amos,Wm. Knight
 George H. Amos,Wm. Woods
-George H. Amos,Jacob
+George H. Amos,Jacob Trusty
 George H. Amos,J. Primrose
 George H. Amos,Robert M. Smith
 George H. Amos,John Charles Fortie
@@ -2448,7 +2436,6 @@ Benjamin Clark,J. Lewis
 Benjamin Clark,Shadd
 Benjamin Clark,J. G. Bias
 Benjamin Clark,D. B. Anderson
-Benjamin Clark,P. M.
 Benjamin Clark,Burleigh
 Benjamin Clark,Kennady
 Benjamin Clark,Crummell
@@ -2540,7 +2527,7 @@ Benjamin Clark,Parmer Johnson
 Benjamin Clark,Walter Burr
 Benjamin Clark,Wm. Knight
 Benjamin Clark,Wm. Woods
-Benjamin Clark,Jacob
+Benjamin Clark,Jacob Trusty
 Benjamin Clark,J. Primrose
 Benjamin Clark,Robert M. Smith
 Benjamin Clark,John Charles Fortie
@@ -2643,7 +2630,6 @@ Hamilton Gray,J. Lewis
 Hamilton Gray,Shadd
 Hamilton Gray,J. G. Bias
 Hamilton Gray,D. B. Anderson
-Hamilton Gray,P. M.
 Hamilton Gray,Burleigh
 Hamilton Gray,Kennady
 Hamilton Gray,Crummell
@@ -2735,7 +2721,7 @@ Hamilton Gray,Parmer Johnson
 Hamilton Gray,Walter Burr
 Hamilton Gray,Wm. Knight
 Hamilton Gray,Wm. Woods
-Hamilton Gray,Jacob
+Hamilton Gray,Jacob Trusty
 Hamilton Gray,J. Primrose
 Hamilton Gray,Robert M. Smith
 Hamilton Gray,John Charles Fortie
@@ -2837,7 +2823,6 @@ John W. Adams,J. Lewis
 John W. Adams,Shadd
 John W. Adams,J. G. Bias
 John W. Adams,D. B. Anderson
-John W. Adams,P. M.
 John W. Adams,Burleigh
 John W. Adams,Kennady
 John W. Adams,Crummell
@@ -2929,7 +2914,7 @@ John W. Adams,Parmer Johnson
 John W. Adams,Walter Burr
 John W. Adams,Wm. Knight
 John W. Adams,Wm. Woods
-John W. Adams,Jacob
+John W. Adams,Jacob Trusty
 John W. Adams,J. Primrose
 John W. Adams,Robert M. Smith
 John W. Adams,John Charles Fortie
@@ -3030,7 +3015,6 @@ Levi Anderson,J. Lewis
 Levi Anderson,Shadd
 Levi Anderson,J. G. Bias
 Levi Anderson,D. B. Anderson
-Levi Anderson,P. M.
 Levi Anderson,Burleigh
 Levi Anderson,Kennady
 Levi Anderson,Crummell
@@ -3122,7 +3106,7 @@ Levi Anderson,Parmer Johnson
 Levi Anderson,Walter Burr
 Levi Anderson,Wm. Knight
 Levi Anderson,Wm. Woods
-Levi Anderson,Jacob
+Levi Anderson,Jacob Trusty
 Levi Anderson,J. Primrose
 Levi Anderson,Robert M. Smith
 Levi Anderson,John Charles Fortie
@@ -3222,7 +3206,6 @@ Matthew Lary,J. Lewis
 Matthew Lary,Shadd
 Matthew Lary,J. G. Bias
 Matthew Lary,D. B. Anderson
-Matthew Lary,P. M.
 Matthew Lary,Burleigh
 Matthew Lary,Kennady
 Matthew Lary,Crummell
@@ -3314,7 +3297,7 @@ Matthew Lary,Parmer Johnson
 Matthew Lary,Walter Burr
 Matthew Lary,Wm. Knight
 Matthew Lary,Wm. Woods
-Matthew Lary,Jacob
+Matthew Lary,Jacob Trusty
 Matthew Lary,J. Primrose
 Matthew Lary,Robert M. Smith
 Matthew Lary,John Charles Fortie
@@ -3413,7 +3396,6 @@ Henry C. Turner,J. Lewis
 Henry C. Turner,Shadd
 Henry C. Turner,J. G. Bias
 Henry C. Turner,D. B. Anderson
-Henry C. Turner,P. M.
 Henry C. Turner,Burleigh
 Henry C. Turner,Kennady
 Henry C. Turner,Crummell
@@ -3505,7 +3487,7 @@ Henry C. Turner,Parmer Johnson
 Henry C. Turner,Walter Burr
 Henry C. Turner,Wm. Knight
 Henry C. Turner,Wm. Woods
-Henry C. Turner,Jacob
+Henry C. Turner,Jacob Trusty
 Henry C. Turner,J. Primrose
 Henry C. Turner,Robert M. Smith
 Henry C. Turner,John Charles Fortie
@@ -3603,7 +3585,6 @@ Marylond,J. Lewis
 Marylond,Shadd
 Marylond,J. G. Bias
 Marylond,D. B. Anderson
-Marylond,P. M.
 Marylond,Burleigh
 Marylond,Kennady
 Marylond,Crummell
@@ -3695,7 +3676,7 @@ Marylond,Parmer Johnson
 Marylond,Walter Burr
 Marylond,Wm. Knight
 Marylond,Wm. Woods
-Marylond,Jacob
+Marylond,Jacob Trusty
 Marylond,J. Primrose
 Marylond,Robert M. Smith
 Marylond,John Charles Fortie
@@ -3792,7 +3773,6 @@ J. J. Bias,J. Lewis
 J. J. Bias,Shadd
 J. J. Bias,J. G. Bias
 J. J. Bias,D. B. Anderson
-J. J. Bias,P. M.
 J. J. Bias,Burleigh
 J. J. Bias,Kennady
 J. J. Bias,Crummell
@@ -3884,7 +3864,7 @@ J. J. Bias,Parmer Johnson
 J. J. Bias,Walter Burr
 J. J. Bias,Wm. Knight
 J. J. Bias,Wm. Woods
-J. J. Bias,Jacob
+J. J. Bias,Jacob Trusty
 J. J. Bias,J. Primrose
 J. J. Bias,Robert M. Smith
 J. J. Bias,John Charles Fortie
@@ -3980,7 +3960,6 @@ S. Van Brackle,J. Lewis
 S. Van Brackle,Shadd
 S. Van Brackle,J. G. Bias
 S. Van Brackle,D. B. Anderson
-S. Van Brackle,P. M.
 S. Van Brackle,Burleigh
 S. Van Brackle,Kennady
 S. Van Brackle,Crummell
@@ -4072,7 +4051,7 @@ S. Van Brackle,Parmer Johnson
 S. Van Brackle,Walter Burr
 S. Van Brackle,Wm. Knight
 S. Van Brackle,Wm. Woods
-S. Van Brackle,Jacob
+S. Van Brackle,Jacob Trusty
 S. Van Brackle,J. Primrose
 S. Van Brackle,Robert M. Smith
 S. Van Brackle,John Charles Fortie
@@ -4167,7 +4146,6 @@ Elimus P. Rogers,J. Lewis
 Elimus P. Rogers,Shadd
 Elimus P. Rogers,J. G. Bias
 Elimus P. Rogers,D. B. Anderson
-Elimus P. Rogers,P. M.
 Elimus P. Rogers,Burleigh
 Elimus P. Rogers,Kennady
 Elimus P. Rogers,Crummell
@@ -4259,7 +4237,7 @@ Elimus P. Rogers,Parmer Johnson
 Elimus P. Rogers,Walter Burr
 Elimus P. Rogers,Wm. Knight
 Elimus P. Rogers,Wm. Woods
-Elimus P. Rogers,Jacob
+Elimus P. Rogers,Jacob Trusty
 Elimus P. Rogers,J. Primrose
 Elimus P. Rogers,Robert M. Smith
 Elimus P. Rogers,John Charles Fortie
@@ -4353,7 +4331,6 @@ J. W. Adams,J. Lewis
 J. W. Adams,Shadd
 J. W. Adams,J. G. Bias
 J. W. Adams,D. B. Anderson
-J. W. Adams,P. M.
 J. W. Adams,Burleigh
 J. W. Adams,Kennady
 J. W. Adams,Crummell
@@ -4445,7 +4422,7 @@ J. W. Adams,Parmer Johnson
 J. W. Adams,Walter Burr
 J. W. Adams,Wm. Knight
 J. W. Adams,Wm. Woods
-J. W. Adams,Jacob
+J. W. Adams,Jacob Trusty
 J. W. Adams,J. Primrose
 J. W. Adams,Robert M. Smith
 J. W. Adams,John Charles Fortie
@@ -4538,7 +4515,6 @@ Samuel Harrison,J. Lewis
 Samuel Harrison,Shadd
 Samuel Harrison,J. G. Bias
 Samuel Harrison,D. B. Anderson
-Samuel Harrison,P. M.
 Samuel Harrison,Burleigh
 Samuel Harrison,Kennady
 Samuel Harrison,Crummell
@@ -4630,7 +4606,7 @@ Samuel Harrison,Parmer Johnson
 Samuel Harrison,Walter Burr
 Samuel Harrison,Wm. Knight
 Samuel Harrison,Wm. Woods
-Samuel Harrison,Jacob
+Samuel Harrison,Jacob Trusty
 Samuel Harrison,J. Primrose
 Samuel Harrison,Robert M. Smith
 Samuel Harrison,John Charles Fortie
@@ -4722,7 +4698,6 @@ A. D. Shadd,J. Lewis
 A. D. Shadd,Shadd
 A. D. Shadd,J. G. Bias
 A. D. Shadd,D. B. Anderson
-A. D. Shadd,P. M.
 A. D. Shadd,Burleigh
 A. D. Shadd,Kennady
 A. D. Shadd,Crummell
@@ -4814,7 +4789,7 @@ A. D. Shadd,Parmer Johnson
 A. D. Shadd,Walter Burr
 A. D. Shadd,Wm. Knight
 A. D. Shadd,Wm. Woods
-A. D. Shadd,Jacob
+A. D. Shadd,Jacob Trusty
 A. D. Shadd,J. Primrose
 A. D. Shadd,Robert M. Smith
 A. D. Shadd,John Charles Fortie
@@ -4905,7 +4880,6 @@ Thomas Watkins,J. Lewis
 Thomas Watkins,Shadd
 Thomas Watkins,J. G. Bias
 Thomas Watkins,D. B. Anderson
-Thomas Watkins,P. M.
 Thomas Watkins,Burleigh
 Thomas Watkins,Kennady
 Thomas Watkins,Crummell
@@ -4997,7 +4971,7 @@ Thomas Watkins,Parmer Johnson
 Thomas Watkins,Walter Burr
 Thomas Watkins,Wm. Knight
 Thomas Watkins,Wm. Woods
-Thomas Watkins,Jacob
+Thomas Watkins,Jacob Trusty
 Thomas Watkins,J. Primrose
 Thomas Watkins,Robert M. Smith
 Thomas Watkins,John Charles Fortie
@@ -5087,7 +5061,6 @@ C. W. Gardiner,J. Lewis
 C. W. Gardiner,Shadd
 C. W. Gardiner,J. G. Bias
 C. W. Gardiner,D. B. Anderson
-C. W. Gardiner,P. M.
 C. W. Gardiner,Burleigh
 C. W. Gardiner,Kennady
 C. W. Gardiner,Crummell
@@ -5179,7 +5152,7 @@ C. W. Gardiner,Parmer Johnson
 C. W. Gardiner,Walter Burr
 C. W. Gardiner,Wm. Knight
 C. W. Gardiner,Wm. Woods
-C. W. Gardiner,Jacob
+C. W. Gardiner,Jacob Trusty
 C. W. Gardiner,J. Primrose
 C. W. Gardiner,Robert M. Smith
 C. W. Gardiner,John Charles Fortie
@@ -5268,7 +5241,6 @@ C. Crummill,J. Lewis
 C. Crummill,Shadd
 C. Crummill,J. G. Bias
 C. Crummill,D. B. Anderson
-C. Crummill,P. M.
 C. Crummill,Burleigh
 C. Crummill,Kennady
 C. Crummill,Crummell
@@ -5360,7 +5332,7 @@ C. Crummill,Parmer Johnson
 C. Crummill,Walter Burr
 C. Crummill,Wm. Knight
 C. Crummill,Wm. Woods
-C. Crummill,Jacob
+C. Crummill,Jacob Trusty
 C. Crummill,J. Primrose
 C. Crummill,Robert M. Smith
 C. Crummill,John Charles Fortie
@@ -5448,7 +5420,6 @@ C. Crummill,C. Caldwell
 J. Lewis,Shadd
 J. Lewis,J. G. Bias
 J. Lewis,D. B. Anderson
-J. Lewis,P. M.
 J. Lewis,Burleigh
 J. Lewis,Kennady
 J. Lewis,Crummell
@@ -5540,7 +5511,7 @@ J. Lewis,Parmer Johnson
 J. Lewis,Walter Burr
 J. Lewis,Wm. Knight
 J. Lewis,Wm. Woods
-J. Lewis,Jacob
+J. Lewis,Jacob Trusty
 J. Lewis,J. Primrose
 J. Lewis,Robert M. Smith
 J. Lewis,John Charles Fortie
@@ -5627,7 +5598,6 @@ J. Lewis,B. Steward
 J. Lewis,C. Caldwell
 Shadd,J. G. Bias
 Shadd,D. B. Anderson
-Shadd,P. M.
 Shadd,Burleigh
 Shadd,Kennady
 Shadd,Crummell
@@ -5719,7 +5689,7 @@ Shadd,Parmer Johnson
 Shadd,Walter Burr
 Shadd,Wm. Knight
 Shadd,Wm. Woods
-Shadd,Jacob
+Shadd,Jacob Trusty
 Shadd,J. Primrose
 Shadd,Robert M. Smith
 Shadd,John Charles Fortie
@@ -5805,7 +5775,6 @@ Shadd,J. Smith
 Shadd,B. Steward
 Shadd,C. Caldwell
 J. G. Bias,D. B. Anderson
-J. G. Bias,P. M.
 J. G. Bias,Burleigh
 J. G. Bias,Kennady
 J. G. Bias,Crummell
@@ -5897,7 +5866,7 @@ J. G. Bias,Parmer Johnson
 J. G. Bias,Walter Burr
 J. G. Bias,Wm. Knight
 J. G. Bias,Wm. Woods
-J. G. Bias,Jacob
+J. G. Bias,Jacob Trusty
 J. G. Bias,J. Primrose
 J. G. Bias,Robert M. Smith
 J. G. Bias,John Charles Fortie
@@ -5982,7 +5951,6 @@ J. G. Bias,S. Holcomb
 J. G. Bias,J. Smith
 J. G. Bias,B. Steward
 J. G. Bias,C. Caldwell
-D. B. Anderson,P. M.
 D. B. Anderson,Burleigh
 D. B. Anderson,Kennady
 D. B. Anderson,Crummell
@@ -6074,7 +6042,7 @@ D. B. Anderson,Parmer Johnson
 D. B. Anderson,Walter Burr
 D. B. Anderson,Wm. Knight
 D. B. Anderson,Wm. Woods
-D. B. Anderson,Jacob
+D. B. Anderson,Jacob Trusty
 D. B. Anderson,J. Primrose
 D. B. Anderson,Robert M. Smith
 D. B. Anderson,John Charles Fortie
@@ -6159,182 +6127,6 @@ D. B. Anderson,S. Holcomb
 D. B. Anderson,J. Smith
 D. B. Anderson,B. Steward
 D. B. Anderson,C. Caldwell
-P. M.,Burleigh
-P. M.,Kennady
-P. M.,Crummell
-P. M.,J. J. G. Bias
-P. M.,Adams
-P. M.,Whilldin
-P. M.,George Milburn
-P. M.,Evan Jones
-P. M.,Henry C
-P. M.,Cornish
-P. M.,Wm. Burleigh
-P. M.,Samuel Nicholas
-P. M.,Isaac Jackson
-P. M.,Z. Purnell
-P. M.,George Davis
-P. M.,Nathaniel Depee
-P. M.,Geo
-P. M.,Galbreth
-P. M.,Samuel Morgan
-P. M.,Ephraim D. Williams
-P. M.,Albert H. Hall
-P. M.,Morris Hall
-P. M.,Edward Coulter
-P. M.,Limos Johnson
-P. M.,John Mentin
-P. M.,Sam
-P. M.,Van Bracle
-P. M.,Josh
-P. M.,P.B. Eddy
-P. M.,Matthew G. Lary
-P. M.,Dan
-P. M.,B. Anderson
-P. M.,B. Walker
-P. M.,Orange
-P. M.,J.W. Adams
-P. M.,Joseph Whittington
-P. M.,Ralph Harden
-P. M.,James Campbell
-P. M.,Levi Medford
-P. M.,Levi Naylor
-P. M.,Ezekiel Caldwell
-P. M.,Spencer
-P. M.,Samuel Brown
-P. M.,Moses G. Wilson
-P. M.,Thomas B. Walker
-P. M.,Henry Banks
-P. M.,James Wilson
-P. M.,Joseph G. Agness
-P. M.,Wm. Cooper
-P. M.,Joseph Agness
-P. M.,Wm. Johnson
-P. M.,James Butler
-P. M.,Michael Boyer
-P. M.,Wm. Saunders
-P. M.,Jacob Johnson
-P. M.,George Wharton
-P. M.,Abraham Murray
-P. M.,Henry W. Wright
-P. M.,Alexander Freeman
-P. M.,James
-P. M.,James Clark
-P. M.,Anthony Campbell
-P. M.,George Buck
-P. M.,Robert Robertson
-P. M.,John Nelson
-P. M.,James M. Fells
-P. M.,Wm. Douglass
-P. M.,Rueben Barret
-P. M.,John Morun
-P. M.,John C. Bowers
-P. M.,John Winer
-P. M.,Robert Jones
-P. M.,Isaac J. White
-P. M.,P. Clay
-P. M.,Jos. Cassy
-P. M.,Littleton Hubert
-P. M.,Jacob Reed
-P. M.,Jones Willson
-P. M.,Richard Wilson
-P. M.,George L. Frisby
-P. M.,Moses Worthington
-P. M.,Henry Cornish
-P. M.,Robert Barger
-P. M.,Benj
-P. M.,Joshua P.B. Eddy
-P. M.,Yates
-P. M.,George Milbern
-P. M.,Parmer Johnson
-P. M.,Walter Burr
-P. M.,Wm. Knight
-P. M.,Wm. Woods
-P. M.,Jacob
-P. M.,J. Primrose
-P. M.,Robert M. Smith
-P. M.,John Charles Fortie
-P. M.,Samuel Watts
-P. M.,James Willams
-P. M.,George Simpson
-P. M.,Isaiah Wears
-P. M.,John E. Moore
-P. M.,Joseph Green
-P. M.,Gidion Lewis
-P. M.,David Lomax
-P. M.,Joseph Louis
-P. M.,Thomas H. Queen
-P. M.,Daniel Koburn
-P. M.,Joshua Woodland
-P. M.,Wm. H. Sumner
-P. M.,William Washington
-P. M.,Randolph
-P. M.,Henderson Davis
-P. M.,John Wilson
-P. M.,James C. Watson
-P. M.,Giles Scott
-P. M.,Benjamin Harris
-P. M.,William Jackson
-P. M.,John B. Roberts
-P. M.,J. H. Townsend
-P. M.,Abraham D. Shadd
-P. M.,Joseph Thomas
-P. M.,Benjamin Freeman
-P. M.,John Williams
-P. M.,Charles W. Gardiner
-P. M.,Smithie
-P. M.,S. Wright
-P. M.,P. Johnson
-P. M.,H. Gibbons
-P. M.,Darby
-P. M.,Amos Waterman
-P. M.,Gideon Lewis
-P. M.,Alexander Crummell
-P. M.,E. P. Rogers
-P. M.,Levy Anderson
-P. M.,E. P. Rodgers
-P. M.,Alex. Crummell
-P. M.,J. W. Admas
-P. M.,A Crummell
-P. M.,C. P. Rogers
-P. M.,Stehen Smith
-P. M.,Williams B. Adams
-P. M.,Van Brackle
-P. M.,Crummill
-P. M.,Ignatius Beck
-P. M.,J.W. Addams
-P. M.,George Amos
-P. M.,E. P. Rorgers
-P. M.,H. Davis
-P. M.,W. Whipper
-P. M.,H.H. Webb
-P. M.,D. A. Payne
-P. M.,Jno
-P. M.,F. Cook
-P. M.,Francis Datcher
-P. M.,Jos. Warren
-P. M.,Collins
-P. M.,Enoch Bell
-P. M.,Williams
-P. M.,T. Watkins
-P. M.,Daniel W. Moore
-P. M.,Joseph Lewis
-P. M.,D. Coburn
-P. M.,H. C. Turner
-P. M.,Lea
-P. M.,J. C. Fortie
-P. M.,John Peck
-P. M.,Lewis
-P. M.,M. R. Delany
-P. M.,F. Davis
-P. M.,Lewis Woodson
-P. M.,J. Cole
-P. M.,D. Mahony
-P. M.,R. Thomas
-P. M.,S. Holcomb
-P. M.,J. Smith
-P. M.,B. Steward
-P. M.,C. Caldwell
 Burleigh,Kennady
 Burleigh,Crummell
 Burleigh,J. J. G. Bias
@@ -6425,7 +6217,7 @@ Burleigh,Parmer Johnson
 Burleigh,Walter Burr
 Burleigh,Wm. Knight
 Burleigh,Wm. Woods
-Burleigh,Jacob
+Burleigh,Jacob Trusty
 Burleigh,J. Primrose
 Burleigh,Robert M. Smith
 Burleigh,John Charles Fortie
@@ -6599,7 +6391,7 @@ Kennady,Parmer Johnson
 Kennady,Walter Burr
 Kennady,Wm. Knight
 Kennady,Wm. Woods
-Kennady,Jacob
+Kennady,Jacob Trusty
 Kennady,J. Primrose
 Kennady,Robert M. Smith
 Kennady,John Charles Fortie
@@ -6772,7 +6564,7 @@ Crummell,Parmer Johnson
 Crummell,Walter Burr
 Crummell,Wm. Knight
 Crummell,Wm. Woods
-Crummell,Jacob
+Crummell,Jacob Trusty
 Crummell,J. Primrose
 Crummell,Robert M. Smith
 Crummell,John Charles Fortie
@@ -6944,7 +6736,7 @@ J. J. G. Bias,Parmer Johnson
 J. J. G. Bias,Walter Burr
 J. J. G. Bias,Wm. Knight
 J. J. G. Bias,Wm. Woods
-J. J. G. Bias,Jacob
+J. J. G. Bias,Jacob Trusty
 J. J. G. Bias,J. Primrose
 J. J. G. Bias,Robert M. Smith
 J. J. G. Bias,John Charles Fortie
@@ -7115,7 +6907,7 @@ Adams,Parmer Johnson
 Adams,Walter Burr
 Adams,Wm. Knight
 Adams,Wm. Woods
-Adams,Jacob
+Adams,Jacob Trusty
 Adams,J. Primrose
 Adams,Robert M. Smith
 Adams,John Charles Fortie
@@ -7285,7 +7077,7 @@ Whilldin,Parmer Johnson
 Whilldin,Walter Burr
 Whilldin,Wm. Knight
 Whilldin,Wm. Woods
-Whilldin,Jacob
+Whilldin,Jacob Trusty
 Whilldin,J. Primrose
 Whilldin,Robert M. Smith
 Whilldin,John Charles Fortie
@@ -7454,7 +7246,7 @@ George Milburn,Parmer Johnson
 George Milburn,Walter Burr
 George Milburn,Wm. Knight
 George Milburn,Wm. Woods
-George Milburn,Jacob
+George Milburn,Jacob Trusty
 George Milburn,J. Primrose
 George Milburn,Robert M. Smith
 George Milburn,John Charles Fortie
@@ -7622,7 +7414,7 @@ Evan Jones,Parmer Johnson
 Evan Jones,Walter Burr
 Evan Jones,Wm. Knight
 Evan Jones,Wm. Woods
-Evan Jones,Jacob
+Evan Jones,Jacob Trusty
 Evan Jones,J. Primrose
 Evan Jones,Robert M. Smith
 Evan Jones,John Charles Fortie
@@ -7789,7 +7581,7 @@ Henry C,Parmer Johnson
 Henry C,Walter Burr
 Henry C,Wm. Knight
 Henry C,Wm. Woods
-Henry C,Jacob
+Henry C,Jacob Trusty
 Henry C,J. Primrose
 Henry C,Robert M. Smith
 Henry C,John Charles Fortie
@@ -7955,7 +7747,7 @@ Cornish,Parmer Johnson
 Cornish,Walter Burr
 Cornish,Wm. Knight
 Cornish,Wm. Woods
-Cornish,Jacob
+Cornish,Jacob Trusty
 Cornish,J. Primrose
 Cornish,Robert M. Smith
 Cornish,John Charles Fortie
@@ -8120,7 +7912,7 @@ Wm. Burleigh,Parmer Johnson
 Wm. Burleigh,Walter Burr
 Wm. Burleigh,Wm. Knight
 Wm. Burleigh,Wm. Woods
-Wm. Burleigh,Jacob
+Wm. Burleigh,Jacob Trusty
 Wm. Burleigh,J. Primrose
 Wm. Burleigh,Robert M. Smith
 Wm. Burleigh,John Charles Fortie
@@ -8284,7 +8076,7 @@ Samuel Nicholas,Parmer Johnson
 Samuel Nicholas,Walter Burr
 Samuel Nicholas,Wm. Knight
 Samuel Nicholas,Wm. Woods
-Samuel Nicholas,Jacob
+Samuel Nicholas,Jacob Trusty
 Samuel Nicholas,J. Primrose
 Samuel Nicholas,Robert M. Smith
 Samuel Nicholas,John Charles Fortie
@@ -8447,7 +8239,7 @@ Isaac Jackson,Parmer Johnson
 Isaac Jackson,Walter Burr
 Isaac Jackson,Wm. Knight
 Isaac Jackson,Wm. Woods
-Isaac Jackson,Jacob
+Isaac Jackson,Jacob Trusty
 Isaac Jackson,J. Primrose
 Isaac Jackson,Robert M. Smith
 Isaac Jackson,John Charles Fortie
@@ -8609,7 +8401,7 @@ Z. Purnell,Parmer Johnson
 Z. Purnell,Walter Burr
 Z. Purnell,Wm. Knight
 Z. Purnell,Wm. Woods
-Z. Purnell,Jacob
+Z. Purnell,Jacob Trusty
 Z. Purnell,J. Primrose
 Z. Purnell,Robert M. Smith
 Z. Purnell,John Charles Fortie
@@ -8770,7 +8562,7 @@ George Davis,Parmer Johnson
 George Davis,Walter Burr
 George Davis,Wm. Knight
 George Davis,Wm. Woods
-George Davis,Jacob
+George Davis,Jacob Trusty
 George Davis,J. Primrose
 George Davis,Robert M. Smith
 George Davis,John Charles Fortie
@@ -8930,7 +8722,7 @@ Nathaniel Depee,Parmer Johnson
 Nathaniel Depee,Walter Burr
 Nathaniel Depee,Wm. Knight
 Nathaniel Depee,Wm. Woods
-Nathaniel Depee,Jacob
+Nathaniel Depee,Jacob Trusty
 Nathaniel Depee,J. Primrose
 Nathaniel Depee,Robert M. Smith
 Nathaniel Depee,John Charles Fortie
@@ -9089,7 +8881,7 @@ Geo,Parmer Johnson
 Geo,Walter Burr
 Geo,Wm. Knight
 Geo,Wm. Woods
-Geo,Jacob
+Geo,Jacob Trusty
 Geo,J. Primrose
 Geo,Robert M. Smith
 Geo,John Charles Fortie
@@ -9247,7 +9039,7 @@ Galbreth,Parmer Johnson
 Galbreth,Walter Burr
 Galbreth,Wm. Knight
 Galbreth,Wm. Woods
-Galbreth,Jacob
+Galbreth,Jacob Trusty
 Galbreth,J. Primrose
 Galbreth,Robert M. Smith
 Galbreth,John Charles Fortie
@@ -9404,7 +9196,7 @@ Samuel Morgan,Parmer Johnson
 Samuel Morgan,Walter Burr
 Samuel Morgan,Wm. Knight
 Samuel Morgan,Wm. Woods
-Samuel Morgan,Jacob
+Samuel Morgan,Jacob Trusty
 Samuel Morgan,J. Primrose
 Samuel Morgan,Robert M. Smith
 Samuel Morgan,John Charles Fortie
@@ -9560,7 +9352,7 @@ Ephraim D. Williams,Parmer Johnson
 Ephraim D. Williams,Walter Burr
 Ephraim D. Williams,Wm. Knight
 Ephraim D. Williams,Wm. Woods
-Ephraim D. Williams,Jacob
+Ephraim D. Williams,Jacob Trusty
 Ephraim D. Williams,J. Primrose
 Ephraim D. Williams,Robert M. Smith
 Ephraim D. Williams,John Charles Fortie
@@ -9715,7 +9507,7 @@ Albert H. Hall,Parmer Johnson
 Albert H. Hall,Walter Burr
 Albert H. Hall,Wm. Knight
 Albert H. Hall,Wm. Woods
-Albert H. Hall,Jacob
+Albert H. Hall,Jacob Trusty
 Albert H. Hall,J. Primrose
 Albert H. Hall,Robert M. Smith
 Albert H. Hall,John Charles Fortie
@@ -9869,7 +9661,7 @@ Morris Hall,Parmer Johnson
 Morris Hall,Walter Burr
 Morris Hall,Wm. Knight
 Morris Hall,Wm. Woods
-Morris Hall,Jacob
+Morris Hall,Jacob Trusty
 Morris Hall,J. Primrose
 Morris Hall,Robert M. Smith
 Morris Hall,John Charles Fortie
@@ -10022,7 +9814,7 @@ Edward Coulter,Parmer Johnson
 Edward Coulter,Walter Burr
 Edward Coulter,Wm. Knight
 Edward Coulter,Wm. Woods
-Edward Coulter,Jacob
+Edward Coulter,Jacob Trusty
 Edward Coulter,J. Primrose
 Edward Coulter,Robert M. Smith
 Edward Coulter,John Charles Fortie
@@ -10174,7 +9966,7 @@ Limos Johnson,Parmer Johnson
 Limos Johnson,Walter Burr
 Limos Johnson,Wm. Knight
 Limos Johnson,Wm. Woods
-Limos Johnson,Jacob
+Limos Johnson,Jacob Trusty
 Limos Johnson,J. Primrose
 Limos Johnson,Robert M. Smith
 Limos Johnson,John Charles Fortie
@@ -10325,7 +10117,7 @@ John Mentin,Parmer Johnson
 John Mentin,Walter Burr
 John Mentin,Wm. Knight
 John Mentin,Wm. Woods
-John Mentin,Jacob
+John Mentin,Jacob Trusty
 John Mentin,J. Primrose
 John Mentin,Robert M. Smith
 John Mentin,John Charles Fortie
@@ -10475,7 +10267,7 @@ Sam,Parmer Johnson
 Sam,Walter Burr
 Sam,Wm. Knight
 Sam,Wm. Woods
-Sam,Jacob
+Sam,Jacob Trusty
 Sam,J. Primrose
 Sam,Robert M. Smith
 Sam,John Charles Fortie
@@ -10624,7 +10416,7 @@ Van Bracle,Parmer Johnson
 Van Bracle,Walter Burr
 Van Bracle,Wm. Knight
 Van Bracle,Wm. Woods
-Van Bracle,Jacob
+Van Bracle,Jacob Trusty
 Van Bracle,J. Primrose
 Van Bracle,Robert M. Smith
 Van Bracle,John Charles Fortie
@@ -10772,7 +10564,7 @@ Josh,Parmer Johnson
 Josh,Walter Burr
 Josh,Wm. Knight
 Josh,Wm. Woods
-Josh,Jacob
+Josh,Jacob Trusty
 Josh,J. Primrose
 Josh,Robert M. Smith
 Josh,John Charles Fortie
@@ -10919,7 +10711,7 @@ P.B. Eddy,Parmer Johnson
 P.B. Eddy,Walter Burr
 P.B. Eddy,Wm. Knight
 P.B. Eddy,Wm. Woods
-P.B. Eddy,Jacob
+P.B. Eddy,Jacob Trusty
 P.B. Eddy,J. Primrose
 P.B. Eddy,Robert M. Smith
 P.B. Eddy,John Charles Fortie
@@ -11065,7 +10857,7 @@ Matthew G. Lary,Parmer Johnson
 Matthew G. Lary,Walter Burr
 Matthew G. Lary,Wm. Knight
 Matthew G. Lary,Wm. Woods
-Matthew G. Lary,Jacob
+Matthew G. Lary,Jacob Trusty
 Matthew G. Lary,J. Primrose
 Matthew G. Lary,Robert M. Smith
 Matthew G. Lary,John Charles Fortie
@@ -11210,7 +11002,7 @@ Dan,Parmer Johnson
 Dan,Walter Burr
 Dan,Wm. Knight
 Dan,Wm. Woods
-Dan,Jacob
+Dan,Jacob Trusty
 Dan,J. Primrose
 Dan,Robert M. Smith
 Dan,John Charles Fortie
@@ -11354,7 +11146,7 @@ B. Anderson,Parmer Johnson
 B. Anderson,Walter Burr
 B. Anderson,Wm. Knight
 B. Anderson,Wm. Woods
-B. Anderson,Jacob
+B. Anderson,Jacob Trusty
 B. Anderson,J. Primrose
 B. Anderson,Robert M. Smith
 B. Anderson,John Charles Fortie
@@ -11497,7 +11289,7 @@ B. Walker,Parmer Johnson
 B. Walker,Walter Burr
 B. Walker,Wm. Knight
 B. Walker,Wm. Woods
-B. Walker,Jacob
+B. Walker,Jacob Trusty
 B. Walker,J. Primrose
 B. Walker,Robert M. Smith
 B. Walker,John Charles Fortie
@@ -11639,7 +11431,7 @@ Orange,Parmer Johnson
 Orange,Walter Burr
 Orange,Wm. Knight
 Orange,Wm. Woods
-Orange,Jacob
+Orange,Jacob Trusty
 Orange,J. Primrose
 Orange,Robert M. Smith
 Orange,John Charles Fortie
@@ -11780,7 +11572,7 @@ J.W. Adams,Parmer Johnson
 J.W. Adams,Walter Burr
 J.W. Adams,Wm. Knight
 J.W. Adams,Wm. Woods
-J.W. Adams,Jacob
+J.W. Adams,Jacob Trusty
 J.W. Adams,J. Primrose
 J.W. Adams,Robert M. Smith
 J.W. Adams,John Charles Fortie
@@ -11920,7 +11712,7 @@ Joseph Whittington,Parmer Johnson
 Joseph Whittington,Walter Burr
 Joseph Whittington,Wm. Knight
 Joseph Whittington,Wm. Woods
-Joseph Whittington,Jacob
+Joseph Whittington,Jacob Trusty
 Joseph Whittington,J. Primrose
 Joseph Whittington,Robert M. Smith
 Joseph Whittington,John Charles Fortie
@@ -12059,7 +11851,7 @@ Ralph Harden,Parmer Johnson
 Ralph Harden,Walter Burr
 Ralph Harden,Wm. Knight
 Ralph Harden,Wm. Woods
-Ralph Harden,Jacob
+Ralph Harden,Jacob Trusty
 Ralph Harden,J. Primrose
 Ralph Harden,Robert M. Smith
 Ralph Harden,John Charles Fortie
@@ -12197,7 +11989,7 @@ James Campbell,Parmer Johnson
 James Campbell,Walter Burr
 James Campbell,Wm. Knight
 James Campbell,Wm. Woods
-James Campbell,Jacob
+James Campbell,Jacob Trusty
 James Campbell,J. Primrose
 James Campbell,Robert M. Smith
 James Campbell,John Charles Fortie
@@ -12334,7 +12126,7 @@ Levi Medford,Parmer Johnson
 Levi Medford,Walter Burr
 Levi Medford,Wm. Knight
 Levi Medford,Wm. Woods
-Levi Medford,Jacob
+Levi Medford,Jacob Trusty
 Levi Medford,J. Primrose
 Levi Medford,Robert M. Smith
 Levi Medford,John Charles Fortie
@@ -12470,7 +12262,7 @@ Levi Naylor,Parmer Johnson
 Levi Naylor,Walter Burr
 Levi Naylor,Wm. Knight
 Levi Naylor,Wm. Woods
-Levi Naylor,Jacob
+Levi Naylor,Jacob Trusty
 Levi Naylor,J. Primrose
 Levi Naylor,Robert M. Smith
 Levi Naylor,John Charles Fortie
@@ -12605,7 +12397,7 @@ Ezekiel Caldwell,Parmer Johnson
 Ezekiel Caldwell,Walter Burr
 Ezekiel Caldwell,Wm. Knight
 Ezekiel Caldwell,Wm. Woods
-Ezekiel Caldwell,Jacob
+Ezekiel Caldwell,Jacob Trusty
 Ezekiel Caldwell,J. Primrose
 Ezekiel Caldwell,Robert M. Smith
 Ezekiel Caldwell,John Charles Fortie
@@ -12739,7 +12531,7 @@ Spencer,Parmer Johnson
 Spencer,Walter Burr
 Spencer,Wm. Knight
 Spencer,Wm. Woods
-Spencer,Jacob
+Spencer,Jacob Trusty
 Spencer,J. Primrose
 Spencer,Robert M. Smith
 Spencer,John Charles Fortie
@@ -12872,7 +12664,7 @@ Samuel Brown,Parmer Johnson
 Samuel Brown,Walter Burr
 Samuel Brown,Wm. Knight
 Samuel Brown,Wm. Woods
-Samuel Brown,Jacob
+Samuel Brown,Jacob Trusty
 Samuel Brown,J. Primrose
 Samuel Brown,Robert M. Smith
 Samuel Brown,John Charles Fortie
@@ -13004,7 +12796,7 @@ Moses G. Wilson,Parmer Johnson
 Moses G. Wilson,Walter Burr
 Moses G. Wilson,Wm. Knight
 Moses G. Wilson,Wm. Woods
-Moses G. Wilson,Jacob
+Moses G. Wilson,Jacob Trusty
 Moses G. Wilson,J. Primrose
 Moses G. Wilson,Robert M. Smith
 Moses G. Wilson,John Charles Fortie
@@ -13135,7 +12927,7 @@ Thomas B. Walker,Parmer Johnson
 Thomas B. Walker,Walter Burr
 Thomas B. Walker,Wm. Knight
 Thomas B. Walker,Wm. Woods
-Thomas B. Walker,Jacob
+Thomas B. Walker,Jacob Trusty
 Thomas B. Walker,J. Primrose
 Thomas B. Walker,Robert M. Smith
 Thomas B. Walker,John Charles Fortie
@@ -13265,7 +13057,7 @@ Henry Banks,Parmer Johnson
 Henry Banks,Walter Burr
 Henry Banks,Wm. Knight
 Henry Banks,Wm. Woods
-Henry Banks,Jacob
+Henry Banks,Jacob Trusty
 Henry Banks,J. Primrose
 Henry Banks,Robert M. Smith
 Henry Banks,John Charles Fortie
@@ -13394,7 +13186,7 @@ James Wilson,Parmer Johnson
 James Wilson,Walter Burr
 James Wilson,Wm. Knight
 James Wilson,Wm. Woods
-James Wilson,Jacob
+James Wilson,Jacob Trusty
 James Wilson,J. Primrose
 James Wilson,Robert M. Smith
 James Wilson,John Charles Fortie
@@ -13522,7 +13314,7 @@ Joseph G. Agness,Parmer Johnson
 Joseph G. Agness,Walter Burr
 Joseph G. Agness,Wm. Knight
 Joseph G. Agness,Wm. Woods
-Joseph G. Agness,Jacob
+Joseph G. Agness,Jacob Trusty
 Joseph G. Agness,J. Primrose
 Joseph G. Agness,Robert M. Smith
 Joseph G. Agness,John Charles Fortie
@@ -13649,7 +13441,7 @@ Wm. Cooper,Parmer Johnson
 Wm. Cooper,Walter Burr
 Wm. Cooper,Wm. Knight
 Wm. Cooper,Wm. Woods
-Wm. Cooper,Jacob
+Wm. Cooper,Jacob Trusty
 Wm. Cooper,J. Primrose
 Wm. Cooper,Robert M. Smith
 Wm. Cooper,John Charles Fortie
@@ -13775,7 +13567,7 @@ Joseph Agness,Parmer Johnson
 Joseph Agness,Walter Burr
 Joseph Agness,Wm. Knight
 Joseph Agness,Wm. Woods
-Joseph Agness,Jacob
+Joseph Agness,Jacob Trusty
 Joseph Agness,J. Primrose
 Joseph Agness,Robert M. Smith
 Joseph Agness,John Charles Fortie
@@ -13900,7 +13692,7 @@ Wm. Johnson,Parmer Johnson
 Wm. Johnson,Walter Burr
 Wm. Johnson,Wm. Knight
 Wm. Johnson,Wm. Woods
-Wm. Johnson,Jacob
+Wm. Johnson,Jacob Trusty
 Wm. Johnson,J. Primrose
 Wm. Johnson,Robert M. Smith
 Wm. Johnson,John Charles Fortie
@@ -14024,7 +13816,7 @@ James Butler,Parmer Johnson
 James Butler,Walter Burr
 James Butler,Wm. Knight
 James Butler,Wm. Woods
-James Butler,Jacob
+James Butler,Jacob Trusty
 James Butler,J. Primrose
 James Butler,Robert M. Smith
 James Butler,John Charles Fortie
@@ -14147,7 +13939,7 @@ Michael Boyer,Parmer Johnson
 Michael Boyer,Walter Burr
 Michael Boyer,Wm. Knight
 Michael Boyer,Wm. Woods
-Michael Boyer,Jacob
+Michael Boyer,Jacob Trusty
 Michael Boyer,J. Primrose
 Michael Boyer,Robert M. Smith
 Michael Boyer,John Charles Fortie
@@ -14269,7 +14061,7 @@ Wm. Saunders,Parmer Johnson
 Wm. Saunders,Walter Burr
 Wm. Saunders,Wm. Knight
 Wm. Saunders,Wm. Woods
-Wm. Saunders,Jacob
+Wm. Saunders,Jacob Trusty
 Wm. Saunders,J. Primrose
 Wm. Saunders,Robert M. Smith
 Wm. Saunders,John Charles Fortie
@@ -14390,7 +14182,7 @@ Jacob Johnson,Parmer Johnson
 Jacob Johnson,Walter Burr
 Jacob Johnson,Wm. Knight
 Jacob Johnson,Wm. Woods
-Jacob Johnson,Jacob
+Jacob Johnson,Jacob Trusty
 Jacob Johnson,J. Primrose
 Jacob Johnson,Robert M. Smith
 Jacob Johnson,John Charles Fortie
@@ -14510,7 +14302,7 @@ George Wharton,Parmer Johnson
 George Wharton,Walter Burr
 George Wharton,Wm. Knight
 George Wharton,Wm. Woods
-George Wharton,Jacob
+George Wharton,Jacob Trusty
 George Wharton,J. Primrose
 George Wharton,Robert M. Smith
 George Wharton,John Charles Fortie
@@ -14629,7 +14421,7 @@ Abraham Murray,Parmer Johnson
 Abraham Murray,Walter Burr
 Abraham Murray,Wm. Knight
 Abraham Murray,Wm. Woods
-Abraham Murray,Jacob
+Abraham Murray,Jacob Trusty
 Abraham Murray,J. Primrose
 Abraham Murray,Robert M. Smith
 Abraham Murray,John Charles Fortie
@@ -14747,7 +14539,7 @@ Henry W. Wright,Parmer Johnson
 Henry W. Wright,Walter Burr
 Henry W. Wright,Wm. Knight
 Henry W. Wright,Wm. Woods
-Henry W. Wright,Jacob
+Henry W. Wright,Jacob Trusty
 Henry W. Wright,J. Primrose
 Henry W. Wright,Robert M. Smith
 Henry W. Wright,John Charles Fortie
@@ -14864,7 +14656,7 @@ Alexander Freeman,Parmer Johnson
 Alexander Freeman,Walter Burr
 Alexander Freeman,Wm. Knight
 Alexander Freeman,Wm. Woods
-Alexander Freeman,Jacob
+Alexander Freeman,Jacob Trusty
 Alexander Freeman,J. Primrose
 Alexander Freeman,Robert M. Smith
 Alexander Freeman,John Charles Fortie
@@ -14980,7 +14772,7 @@ James,Parmer Johnson
 James,Walter Burr
 James,Wm. Knight
 James,Wm. Woods
-James,Jacob
+James,Jacob Trusty
 James,J. Primrose
 James,Robert M. Smith
 James,John Charles Fortie
@@ -15095,7 +14887,7 @@ James Clark,Parmer Johnson
 James Clark,Walter Burr
 James Clark,Wm. Knight
 James Clark,Wm. Woods
-James Clark,Jacob
+James Clark,Jacob Trusty
 James Clark,J. Primrose
 James Clark,Robert M. Smith
 James Clark,John Charles Fortie
@@ -15209,7 +15001,7 @@ Anthony Campbell,Parmer Johnson
 Anthony Campbell,Walter Burr
 Anthony Campbell,Wm. Knight
 Anthony Campbell,Wm. Woods
-Anthony Campbell,Jacob
+Anthony Campbell,Jacob Trusty
 Anthony Campbell,J. Primrose
 Anthony Campbell,Robert M. Smith
 Anthony Campbell,John Charles Fortie
@@ -15322,7 +15114,7 @@ George Buck,Parmer Johnson
 George Buck,Walter Burr
 George Buck,Wm. Knight
 George Buck,Wm. Woods
-George Buck,Jacob
+George Buck,Jacob Trusty
 George Buck,J. Primrose
 George Buck,Robert M. Smith
 George Buck,John Charles Fortie
@@ -15434,7 +15226,7 @@ Robert Robertson,Parmer Johnson
 Robert Robertson,Walter Burr
 Robert Robertson,Wm. Knight
 Robert Robertson,Wm. Woods
-Robert Robertson,Jacob
+Robert Robertson,Jacob Trusty
 Robert Robertson,J. Primrose
 Robert Robertson,Robert M. Smith
 Robert Robertson,John Charles Fortie
@@ -15545,7 +15337,7 @@ John Nelson,Parmer Johnson
 John Nelson,Walter Burr
 John Nelson,Wm. Knight
 John Nelson,Wm. Woods
-John Nelson,Jacob
+John Nelson,Jacob Trusty
 John Nelson,J. Primrose
 John Nelson,Robert M. Smith
 John Nelson,John Charles Fortie
@@ -15655,7 +15447,7 @@ James M. Fells,Parmer Johnson
 James M. Fells,Walter Burr
 James M. Fells,Wm. Knight
 James M. Fells,Wm. Woods
-James M. Fells,Jacob
+James M. Fells,Jacob Trusty
 James M. Fells,J. Primrose
 James M. Fells,Robert M. Smith
 James M. Fells,John Charles Fortie
@@ -15764,7 +15556,7 @@ Wm. Douglass,Parmer Johnson
 Wm. Douglass,Walter Burr
 Wm. Douglass,Wm. Knight
 Wm. Douglass,Wm. Woods
-Wm. Douglass,Jacob
+Wm. Douglass,Jacob Trusty
 Wm. Douglass,J. Primrose
 Wm. Douglass,Robert M. Smith
 Wm. Douglass,John Charles Fortie
@@ -15872,7 +15664,7 @@ Rueben Barret,Parmer Johnson
 Rueben Barret,Walter Burr
 Rueben Barret,Wm. Knight
 Rueben Barret,Wm. Woods
-Rueben Barret,Jacob
+Rueben Barret,Jacob Trusty
 Rueben Barret,J. Primrose
 Rueben Barret,Robert M. Smith
 Rueben Barret,John Charles Fortie
@@ -15979,7 +15771,7 @@ John Morun,Parmer Johnson
 John Morun,Walter Burr
 John Morun,Wm. Knight
 John Morun,Wm. Woods
-John Morun,Jacob
+John Morun,Jacob Trusty
 John Morun,J. Primrose
 John Morun,Robert M. Smith
 John Morun,John Charles Fortie
@@ -16085,7 +15877,7 @@ John C. Bowers,Parmer Johnson
 John C. Bowers,Walter Burr
 John C. Bowers,Wm. Knight
 John C. Bowers,Wm. Woods
-John C. Bowers,Jacob
+John C. Bowers,Jacob Trusty
 John C. Bowers,J. Primrose
 John C. Bowers,Robert M. Smith
 John C. Bowers,John Charles Fortie
@@ -16190,7 +15982,7 @@ John Winer,Parmer Johnson
 John Winer,Walter Burr
 John Winer,Wm. Knight
 John Winer,Wm. Woods
-John Winer,Jacob
+John Winer,Jacob Trusty
 John Winer,J. Primrose
 John Winer,Robert M. Smith
 John Winer,John Charles Fortie
@@ -16294,7 +16086,7 @@ Robert Jones,Parmer Johnson
 Robert Jones,Walter Burr
 Robert Jones,Wm. Knight
 Robert Jones,Wm. Woods
-Robert Jones,Jacob
+Robert Jones,Jacob Trusty
 Robert Jones,J. Primrose
 Robert Jones,Robert M. Smith
 Robert Jones,John Charles Fortie
@@ -16397,7 +16189,7 @@ Isaac J. White,Parmer Johnson
 Isaac J. White,Walter Burr
 Isaac J. White,Wm. Knight
 Isaac J. White,Wm. Woods
-Isaac J. White,Jacob
+Isaac J. White,Jacob Trusty
 Isaac J. White,J. Primrose
 Isaac J. White,Robert M. Smith
 Isaac J. White,John Charles Fortie
@@ -16499,7 +16291,7 @@ P. Clay,Parmer Johnson
 P. Clay,Walter Burr
 P. Clay,Wm. Knight
 P. Clay,Wm. Woods
-P. Clay,Jacob
+P. Clay,Jacob Trusty
 P. Clay,J. Primrose
 P. Clay,Robert M. Smith
 P. Clay,John Charles Fortie
@@ -16600,7 +16392,7 @@ Jos. Cassy,Parmer Johnson
 Jos. Cassy,Walter Burr
 Jos. Cassy,Wm. Knight
 Jos. Cassy,Wm. Woods
-Jos. Cassy,Jacob
+Jos. Cassy,Jacob Trusty
 Jos. Cassy,J. Primrose
 Jos. Cassy,Robert M. Smith
 Jos. Cassy,John Charles Fortie
@@ -16700,7 +16492,7 @@ Littleton Hubert,Parmer Johnson
 Littleton Hubert,Walter Burr
 Littleton Hubert,Wm. Knight
 Littleton Hubert,Wm. Woods
-Littleton Hubert,Jacob
+Littleton Hubert,Jacob Trusty
 Littleton Hubert,J. Primrose
 Littleton Hubert,Robert M. Smith
 Littleton Hubert,John Charles Fortie
@@ -16799,7 +16591,7 @@ Jacob Reed,Parmer Johnson
 Jacob Reed,Walter Burr
 Jacob Reed,Wm. Knight
 Jacob Reed,Wm. Woods
-Jacob Reed,Jacob
+Jacob Reed,Jacob Trusty
 Jacob Reed,J. Primrose
 Jacob Reed,Robert M. Smith
 Jacob Reed,John Charles Fortie
@@ -16897,7 +16689,7 @@ Jones Willson,Parmer Johnson
 Jones Willson,Walter Burr
 Jones Willson,Wm. Knight
 Jones Willson,Wm. Woods
-Jones Willson,Jacob
+Jones Willson,Jacob Trusty
 Jones Willson,J. Primrose
 Jones Willson,Robert M. Smith
 Jones Willson,John Charles Fortie
@@ -16994,7 +16786,7 @@ Richard Wilson,Parmer Johnson
 Richard Wilson,Walter Burr
 Richard Wilson,Wm. Knight
 Richard Wilson,Wm. Woods
-Richard Wilson,Jacob
+Richard Wilson,Jacob Trusty
 Richard Wilson,J. Primrose
 Richard Wilson,Robert M. Smith
 Richard Wilson,John Charles Fortie
@@ -17090,7 +16882,7 @@ George L. Frisby,Parmer Johnson
 George L. Frisby,Walter Burr
 George L. Frisby,Wm. Knight
 George L. Frisby,Wm. Woods
-George L. Frisby,Jacob
+George L. Frisby,Jacob Trusty
 George L. Frisby,J. Primrose
 George L. Frisby,Robert M. Smith
 George L. Frisby,John Charles Fortie
@@ -17185,7 +16977,7 @@ Moses Worthington,Parmer Johnson
 Moses Worthington,Walter Burr
 Moses Worthington,Wm. Knight
 Moses Worthington,Wm. Woods
-Moses Worthington,Jacob
+Moses Worthington,Jacob Trusty
 Moses Worthington,J. Primrose
 Moses Worthington,Robert M. Smith
 Moses Worthington,John Charles Fortie
@@ -17279,7 +17071,7 @@ Henry Cornish,Parmer Johnson
 Henry Cornish,Walter Burr
 Henry Cornish,Wm. Knight
 Henry Cornish,Wm. Woods
-Henry Cornish,Jacob
+Henry Cornish,Jacob Trusty
 Henry Cornish,J. Primrose
 Henry Cornish,Robert M. Smith
 Henry Cornish,John Charles Fortie
@@ -17372,7 +17164,7 @@ Robert Barger,Parmer Johnson
 Robert Barger,Walter Burr
 Robert Barger,Wm. Knight
 Robert Barger,Wm. Woods
-Robert Barger,Jacob
+Robert Barger,Jacob Trusty
 Robert Barger,J. Primrose
 Robert Barger,Robert M. Smith
 Robert Barger,John Charles Fortie
@@ -17464,7 +17256,7 @@ Benj,Parmer Johnson
 Benj,Walter Burr
 Benj,Wm. Knight
 Benj,Wm. Woods
-Benj,Jacob
+Benj,Jacob Trusty
 Benj,J. Primrose
 Benj,Robert M. Smith
 Benj,John Charles Fortie
@@ -17555,7 +17347,7 @@ Joshua P.B. Eddy,Parmer Johnson
 Joshua P.B. Eddy,Walter Burr
 Joshua P.B. Eddy,Wm. Knight
 Joshua P.B. Eddy,Wm. Woods
-Joshua P.B. Eddy,Jacob
+Joshua P.B. Eddy,Jacob Trusty
 Joshua P.B. Eddy,J. Primrose
 Joshua P.B. Eddy,Robert M. Smith
 Joshua P.B. Eddy,John Charles Fortie
@@ -17645,7 +17437,7 @@ Yates,Parmer Johnson
 Yates,Walter Burr
 Yates,Wm. Knight
 Yates,Wm. Woods
-Yates,Jacob
+Yates,Jacob Trusty
 Yates,J. Primrose
 Yates,Robert M. Smith
 Yates,John Charles Fortie
@@ -17734,7 +17526,7 @@ George Milbern,Parmer Johnson
 George Milbern,Walter Burr
 George Milbern,Wm. Knight
 George Milbern,Wm. Woods
-George Milbern,Jacob
+George Milbern,Jacob Trusty
 George Milbern,J. Primrose
 George Milbern,Robert M. Smith
 George Milbern,John Charles Fortie
@@ -17822,7 +17614,7 @@ George Milbern,C. Caldwell
 Parmer Johnson,Walter Burr
 Parmer Johnson,Wm. Knight
 Parmer Johnson,Wm. Woods
-Parmer Johnson,Jacob
+Parmer Johnson,Jacob Trusty
 Parmer Johnson,J. Primrose
 Parmer Johnson,Robert M. Smith
 Parmer Johnson,John Charles Fortie
@@ -17909,7 +17701,7 @@ Parmer Johnson,B. Steward
 Parmer Johnson,C. Caldwell
 Walter Burr,Wm. Knight
 Walter Burr,Wm. Woods
-Walter Burr,Jacob
+Walter Burr,Jacob Trusty
 Walter Burr,J. Primrose
 Walter Burr,Robert M. Smith
 Walter Burr,John Charles Fortie
@@ -17995,7 +17787,7 @@ Walter Burr,J. Smith
 Walter Burr,B. Steward
 Walter Burr,C. Caldwell
 Wm. Knight,Wm. Woods
-Wm. Knight,Jacob
+Wm. Knight,Jacob Trusty
 Wm. Knight,J. Primrose
 Wm. Knight,Robert M. Smith
 Wm. Knight,John Charles Fortie
@@ -18080,7 +17872,7 @@ Wm. Knight,S. Holcomb
 Wm. Knight,J. Smith
 Wm. Knight,B. Steward
 Wm. Knight,C. Caldwell
-Wm. Woods,Jacob
+Wm. Woods,Jacob Trusty
 Wm. Woods,J. Primrose
 Wm. Woods,Robert M. Smith
 Wm. Woods,John Charles Fortie
@@ -18165,90 +17957,90 @@ Wm. Woods,S. Holcomb
 Wm. Woods,J. Smith
 Wm. Woods,B. Steward
 Wm. Woods,C. Caldwell
-Jacob,J. Primrose
-Jacob,Robert M. Smith
-Jacob,John Charles Fortie
-Jacob,Samuel Watts
-Jacob,James Willams
-Jacob,George Simpson
-Jacob,Isaiah Wears
-Jacob,John E. Moore
-Jacob,Joseph Green
-Jacob,Gidion Lewis
-Jacob,David Lomax
-Jacob,Joseph Louis
-Jacob,Thomas H. Queen
-Jacob,Daniel Koburn
-Jacob,Joshua Woodland
-Jacob,Wm. H. Sumner
-Jacob,William Washington
-Jacob,Randolph
-Jacob,Henderson Davis
-Jacob,John Wilson
-Jacob,James C. Watson
-Jacob,Giles Scott
-Jacob,Benjamin Harris
-Jacob,William Jackson
-Jacob,John B. Roberts
-Jacob,J. H. Townsend
-Jacob,Abraham D. Shadd
-Jacob,Joseph Thomas
-Jacob,Benjamin Freeman
-Jacob,John Williams
-Jacob,Charles W. Gardiner
-Jacob,Smithie
-Jacob,S. Wright
-Jacob,P. Johnson
-Jacob,H. Gibbons
-Jacob,Darby
-Jacob,Amos Waterman
-Jacob,Gideon Lewis
-Jacob,Alexander Crummell
-Jacob,E. P. Rogers
-Jacob,Levy Anderson
-Jacob,E. P. Rodgers
-Jacob,Alex. Crummell
-Jacob,J. W. Admas
-Jacob,A Crummell
-Jacob,C. P. Rogers
-Jacob,Stehen Smith
-Jacob,Williams B. Adams
-Jacob,Van Brackle
-Jacob,Crummill
-Jacob,Ignatius Beck
-Jacob,J.W. Addams
-Jacob,George Amos
-Jacob,E. P. Rorgers
-Jacob,H. Davis
-Jacob,W. Whipper
-Jacob,H.H. Webb
-Jacob,D. A. Payne
-Jacob,Jno
-Jacob,F. Cook
-Jacob,Francis Datcher
-Jacob,Jos. Warren
-Jacob,Collins
-Jacob,Enoch Bell
-Jacob,Williams
-Jacob,T. Watkins
-Jacob,Daniel W. Moore
-Jacob,Joseph Lewis
-Jacob,D. Coburn
-Jacob,H. C. Turner
-Jacob,Lea
-Jacob,J. C. Fortie
-Jacob,John Peck
-Jacob,Lewis
-Jacob,M. R. Delany
-Jacob,F. Davis
-Jacob,Lewis Woodson
-Jacob,J. Cole
-Jacob,D. Mahony
-Jacob,R. Thomas
-Jacob,S. Holcomb
-Jacob,J. Smith
-Jacob,B. Steward
-Jacob,C. Caldwell
+Jacob Trusty,J. Primrose
+Jacob Trusty,Robert M. Smith
+Jacob Trusty,John Charles Fortie
+Jacob Trusty,Samuel Watts
+Jacob Trusty,James Willams
+Jacob Trusty,George Simpson
+Jacob Trusty,Isaiah Wears
+Jacob Trusty,John E. Moore
+Jacob Trusty,Joseph Green
+Jacob Trusty,Gidion Lewis
+Jacob Trusty,David Lomax
+Jacob Trusty,Joseph Louis
+Jacob Trusty,Thomas H. Queen
+Jacob Trusty,Daniel Koburn
+Jacob Trusty,Joshua Woodland
+Jacob Trusty,Wm. H. Sumner
+Jacob Trusty,William Washington
+Jacob Trusty,Randolph
+Jacob Trusty,Henderson Davis
+Jacob Trusty,John Wilson
+Jacob Trusty,James C. Watson
+Jacob Trusty,Giles Scott
+Jacob Trusty,Benjamin Harris
+Jacob Trusty,William Jackson
+Jacob Trusty,John B. Roberts
+Jacob Trusty,J. H. Townsend
+Jacob Trusty,Abraham D. Shadd
+Jacob Trusty,Joseph Thomas
+Jacob Trusty,Benjamin Freeman
+Jacob Trusty,John Williams
+Jacob Trusty,Charles W. Gardiner
+Jacob Trusty,Smithie
+Jacob Trusty,S. Wright
+Jacob Trusty,P. Johnson
+Jacob Trusty,H. Gibbons
+Jacob Trusty,Darby
+Jacob Trusty,Amos Waterman
+Jacob Trusty,Gideon Lewis
+Jacob Trusty,Alexander Crummell
+Jacob Trusty,E. P. Rogers
+Jacob Trusty,Levy Anderson
+Jacob Trusty,E. P. Rodgers
+Jacob Trusty,Alex. Crummell
+Jacob Trusty,J. W. Admas
+Jacob Trusty,A Crummell
+Jacob Trusty,C. P. Rogers
+Jacob Trusty,Stehen Smith
+Jacob Trusty,Williams B. Adams
+Jacob Trusty,Van Brackle
+Jacob Trusty,Crummill
+Jacob Trusty,Ignatius Beck
+Jacob Trusty,J.W. Addams
+Jacob Trusty,George Amos
+Jacob Trusty,E. P. Rorgers
+Jacob Trusty,H. Davis
+Jacob Trusty,W. Whipper
+Jacob Trusty,H.H. Webb
+Jacob Trusty,D. A. Payne
+Jacob Trusty,Jno
+Jacob Trusty,F. Cook
+Jacob Trusty,Francis Datcher
+Jacob Trusty,Jos. Warren
+Jacob Trusty,Collins
+Jacob Trusty,Enoch Bell
+Jacob Trusty,Williams
+Jacob Trusty,T. Watkins
+Jacob Trusty,Daniel W. Moore
+Jacob Trusty,Joseph Lewis
+Jacob Trusty,D. Coburn
+Jacob Trusty,H. C. Turner
+Jacob Trusty,Lea
+Jacob Trusty,J. C. Fortie
+Jacob Trusty,John Peck
+Jacob Trusty,Lewis
+Jacob Trusty,M. R. Delany
+Jacob Trusty,F. Davis
+Jacob Trusty,Lewis Woodson
+Jacob Trusty,J. Cole
+Jacob Trusty,D. Mahony
+Jacob Trusty,R. Thomas
+Jacob Trusty,S. Holcomb
+Jacob Trusty,J. Smith
+Jacob Trusty,B. Steward
+Jacob Trusty,C. Caldwell
 J. Primrose,Robert M. Smith
 J. Primrose,John Charles Fortie
 J. Primrose,Samuel Watts

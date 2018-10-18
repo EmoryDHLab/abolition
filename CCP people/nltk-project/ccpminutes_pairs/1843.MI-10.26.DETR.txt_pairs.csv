@@ -1,4 +1,4 @@
-name1,name2
+source,target
 Henry Jackson,O. P. Hoyt
 Henry Jackson,Wm. Lambert
 Henry Jackson,Wm. C. Monroe
@@ -65,7 +65,7 @@ Henry Jackson,Calhoun
 Henry Jackson,John Smith
 Henry Jackson,Samuel Dickerson
 Henry Jackson,Henry Powers
-Henry Jackson,Jefferson Fitzgerald Of York
+Henry Jackson,Jefferson Fitzgerald
 Henry Jackson,Gordon
 Henry Jackson,Wm. Smith
 Henry Jackson,Bibb
@@ -152,7 +152,7 @@ O. P. Hoyt,Calhoun
 O. P. Hoyt,John Smith
 O. P. Hoyt,Samuel Dickerson
 O. P. Hoyt,Henry Powers
-O. P. Hoyt,Jefferson Fitzgerald Of York
+O. P. Hoyt,Jefferson Fitzgerald
 O. P. Hoyt,Gordon
 O. P. Hoyt,Wm. Smith
 O. P. Hoyt,Bibb
@@ -238,7 +238,7 @@ Wm. Lambert,Calhoun
 Wm. Lambert,John Smith
 Wm. Lambert,Samuel Dickerson
 Wm. Lambert,Henry Powers
-Wm. Lambert,Jefferson Fitzgerald Of York
+Wm. Lambert,Jefferson Fitzgerald
 Wm. Lambert,Gordon
 Wm. Lambert,Wm. Smith
 Wm. Lambert,Bibb
@@ -323,7 +323,7 @@ Wm. C. Monroe,Calhoun
 Wm. C. Monroe,John Smith
 Wm. C. Monroe,Samuel Dickerson
 Wm. C. Monroe,Henry Powers
-Wm. C. Monroe,Jefferson Fitzgerald Of York
+Wm. C. Monroe,Jefferson Fitzgerald
 Wm. C. Monroe,Gordon
 Wm. C. Monroe,Wm. Smith
 Wm. C. Monroe,Bibb
@@ -407,7 +407,7 @@ F. Delany,Calhoun
 F. Delany,John Smith
 F. Delany,Samuel Dickerson
 F. Delany,Henry Powers
-F. Delany,Jefferson Fitzgerald Of York
+F. Delany,Jefferson Fitzgerald
 F. Delany,Gordon
 F. Delany,Wm. Smith
 F. Delany,Bibb
@@ -490,7 +490,7 @@ O.P. Hoyt,Calhoun
 O.P. Hoyt,John Smith
 O.P. Hoyt,Samuel Dickerson
 O.P. Hoyt,Henry Powers
-O.P. Hoyt,Jefferson Fitzgerald Of York
+O.P. Hoyt,Jefferson Fitzgerald
 O.P. Hoyt,Gordon
 O.P. Hoyt,Wm. Smith
 O.P. Hoyt,Bibb
@@ -572,7 +572,7 @@ W. C. Monroe,Calhoun
 W. C. Monroe,John Smith
 W. C. Monroe,Samuel Dickerson
 W. C. Monroe,Henry Powers
-W. C. Monroe,Jefferson Fitzgerald Of York
+W. C. Monroe,Jefferson Fitzgerald
 W. C. Monroe,Gordon
 W. C. Monroe,Wm. Smith
 W. C. Monroe,Bibb
@@ -653,7 +653,7 @@ W. R. Wilson,Calhoun
 W. R. Wilson,John Smith
 W. R. Wilson,Samuel Dickerson
 W. R. Wilson,Henry Powers
-W. R. Wilson,Jefferson Fitzgerald Of York
+W. R. Wilson,Jefferson Fitzgerald
 W. R. Wilson,Gordon
 W. R. Wilson,Wm. Smith
 W. R. Wilson,Bibb
@@ -733,7 +733,7 @@ Lambert,Calhoun
 Lambert,John Smith
 Lambert,Samuel Dickerson
 Lambert,Henry Powers
-Lambert,Jefferson Fitzgerald Of York
+Lambert,Jefferson Fitzgerald
 Lambert,Gordon
 Lambert,Wm. Smith
 Lambert,Bibb
@@ -812,7 +812,7 @@ Brooks,Calhoun
 Brooks,John Smith
 Brooks,Samuel Dickerson
 Brooks,Henry Powers
-Brooks,Jefferson Fitzgerald Of York
+Brooks,Jefferson Fitzgerald
 Brooks,Gordon
 Brooks,Wm. Smith
 Brooks,Bibb
@@ -890,7 +890,7 @@ M. J. Lightfoot,Calhoun
 M. J. Lightfoot,John Smith
 M. J. Lightfoot,Samuel Dickerson
 M. J. Lightfoot,Henry Powers
-M. J. Lightfoot,Jefferson Fitzgerald Of York
+M. J. Lightfoot,Jefferson Fitzgerald
 M. J. Lightfoot,Gordon
 M. J. Lightfoot,Wm. Smith
 M. J. Lightfoot,Bibb
@@ -967,7 +967,7 @@ A. Derrick,Calhoun
 A. Derrick,John Smith
 A. Derrick,Samuel Dickerson
 A. Derrick,Henry Powers
-A. Derrick,Jefferson Fitzgerald Of York
+A. Derrick,Jefferson Fitzgerald
 A. Derrick,Gordon
 A. Derrick,Wm. Smith
 A. Derrick,Bibb
@@ -1043,7 +1043,7 @@ J. W. Brooks,Calhoun
 J. W. Brooks,John Smith
 J. W. Brooks,Samuel Dickerson
 J. W. Brooks,Henry Powers
-J. W. Brooks,Jefferson Fitzgerald Of York
+J. W. Brooks,Jefferson Fitzgerald
 J. W. Brooks,Gordon
 J. W. Brooks,Wm. Smith
 J. W. Brooks,Bibb
@@ -1118,7 +1118,7 @@ A. Aray,Calhoun
 A. Aray,John Smith
 A. Aray,Samuel Dickerson
 A. Aray,Henry Powers
-A. Aray,Jefferson Fitzgerald Of York
+A. Aray,Jefferson Fitzgerald
 A. Aray,Gordon
 A. Aray,Wm. Smith
 A. Aray,Bibb
@@ -1192,7 +1192,7 @@ G. B. Blanks,Calhoun
 G. B. Blanks,John Smith
 G. B. Blanks,Samuel Dickerson
 G. B. Blanks,Henry Powers
-G. B. Blanks,Jefferson Fitzgerald Of York
+G. B. Blanks,Jefferson Fitzgerald
 G. B. Blanks,Gordon
 G. B. Blanks,Wm. Smith
 G. B. Blanks,Bibb
@@ -1265,7 +1265,7 @@ Marshall,Calhoun
 Marshall,John Smith
 Marshall,Samuel Dickerson
 Marshall,Henry Powers
-Marshall,Jefferson Fitzgerald Of York
+Marshall,Jefferson Fitzgerald
 Marshall,Gordon
 Marshall,Wm. Smith
 Marshall,Bibb
@@ -1337,7 +1337,7 @@ Richard Gordon,Calhoun
 Richard Gordon,John Smith
 Richard Gordon,Samuel Dickerson
 Richard Gordon,Henry Powers
-Richard Gordon,Jefferson Fitzgerald Of York
+Richard Gordon,Jefferson Fitzgerald
 Richard Gordon,Gordon
 Richard Gordon,Wm. Smith
 Richard Gordon,Bibb
@@ -1408,7 +1408,7 @@ W.C. Monroe,Calhoun
 W.C. Monroe,John Smith
 W.C. Monroe,Samuel Dickerson
 W.C. Monroe,Henry Powers
-W.C. Monroe,Jefferson Fitzgerald Of York
+W.C. Monroe,Jefferson Fitzgerald
 W.C. Monroe,Gordon
 W.C. Monroe,Wm. Smith
 W.C. Monroe,Bibb
@@ -1478,7 +1478,7 @@ William Dolerson,Calhoun
 William Dolerson,John Smith
 William Dolerson,Samuel Dickerson
 William Dolerson,Henry Powers
-William Dolerson,Jefferson Fitzgerald Of York
+William Dolerson,Jefferson Fitzgerald
 William Dolerson,Gordon
 William Dolerson,Wm. Smith
 William Dolerson,Bibb
@@ -1547,7 +1547,7 @@ William Lambert,Calhoun
 William Lambert,John Smith
 William Lambert,Samuel Dickerson
 William Lambert,Henry Powers
-William Lambert,Jefferson Fitzgerald Of York
+William Lambert,Jefferson Fitzgerald
 William Lambert,Gordon
 William Lambert,Wm. Smith
 William Lambert,Bibb
@@ -1615,7 +1615,7 @@ Willis R. Wilson,Calhoun
 Willis R. Wilson,John Smith
 Willis R. Wilson,Samuel Dickerson
 Willis R. Wilson,Henry Powers
-Willis R. Wilson,Jefferson Fitzgerald Of York
+Willis R. Wilson,Jefferson Fitzgerald
 Willis R. Wilson,Gordon
 Willis R. Wilson,Wm. Smith
 Willis R. Wilson,Bibb
@@ -1682,7 +1682,7 @@ Alford Derrick,Calhoun
 Alford Derrick,John Smith
 Alford Derrick,Samuel Dickerson
 Alford Derrick,Henry Powers
-Alford Derrick,Jefferson Fitzgerald Of York
+Alford Derrick,Jefferson Fitzgerald
 Alford Derrick,Gordon
 Alford Derrick,Wm. Smith
 Alford Derrick,Bibb
@@ -1748,7 +1748,7 @@ Madison J. Lightfoot,Calhoun
 Madison J. Lightfoot,John Smith
 Madison J. Lightfoot,Samuel Dickerson
 Madison J. Lightfoot,Henry Powers
-Madison J. Lightfoot,Jefferson Fitzgerald Of York
+Madison J. Lightfoot,Jefferson Fitzgerald
 Madison J. Lightfoot,Gordon
 Madison J. Lightfoot,Wm. Smith
 Madison J. Lightfoot,Bibb
@@ -1813,7 +1813,7 @@ Robert Allen,Calhoun
 Robert Allen,John Smith
 Robert Allen,Samuel Dickerson
 Robert Allen,Henry Powers
-Robert Allen,Jefferson Fitzgerald Of York
+Robert Allen,Jefferson Fitzgerald
 Robert Allen,Gordon
 Robert Allen,Wm. Smith
 Robert Allen,Bibb
@@ -1877,7 +1877,7 @@ George R. Sims,Calhoun
 George R. Sims,John Smith
 George R. Sims,Samuel Dickerson
 George R. Sims,Henry Powers
-George R. Sims,Jefferson Fitzgerald Of York
+George R. Sims,Jefferson Fitzgerald
 George R. Sims,Gordon
 George R. Sims,Wm. Smith
 George R. Sims,Bibb
@@ -1940,7 +1940,7 @@ Henry Bibb,Calhoun
 Henry Bibb,John Smith
 Henry Bibb,Samuel Dickerson
 Henry Bibb,Henry Powers
-Henry Bibb,Jefferson Fitzgerald Of York
+Henry Bibb,Jefferson Fitzgerald
 Henry Bibb,Gordon
 Henry Bibb,Wm. Smith
 Henry Bibb,Bibb
@@ -2002,7 +2002,7 @@ Othello P. Hoyt,Calhoun
 Othello P. Hoyt,John Smith
 Othello P. Hoyt,Samuel Dickerson
 Othello P. Hoyt,Henry Powers
-Othello P. Hoyt,Jefferson Fitzgerald Of York
+Othello P. Hoyt,Jefferson Fitzgerald
 Othello P. Hoyt,Gordon
 Othello P. Hoyt,Wm. Smith
 Othello P. Hoyt,Bibb
@@ -2063,7 +2063,7 @@ Jackson,Calhoun
 Jackson,John Smith
 Jackson,Samuel Dickerson
 Jackson,Henry Powers
-Jackson,Jefferson Fitzgerald Of York
+Jackson,Jefferson Fitzgerald
 Jackson,Gordon
 Jackson,Wm. Smith
 Jackson,Bibb
@@ -2123,7 +2123,7 @@ Calvin Hackett,Calhoun
 Calvin Hackett,John Smith
 Calvin Hackett,Samuel Dickerson
 Calvin Hackett,Henry Powers
-Calvin Hackett,Jefferson Fitzgerald Of York
+Calvin Hackett,Jefferson Fitzgerald
 Calvin Hackett,Gordon
 Calvin Hackett,Wm. Smith
 Calvin Hackett,Bibb
@@ -2182,7 +2182,7 @@ Henry Calvin,Calhoun
 Henry Calvin,John Smith
 Henry Calvin,Samuel Dickerson
 Henry Calvin,Henry Powers
-Henry Calvin,Jefferson Fitzgerald Of York
+Henry Calvin,Jefferson Fitzgerald
 Henry Calvin,Gordon
 Henry Calvin,Wm. Smith
 Henry Calvin,Bibb
@@ -2240,7 +2240,7 @@ A. R. West,Calhoun
 A. R. West,John Smith
 A. R. West,Samuel Dickerson
 A. R. West,Henry Powers
-A. R. West,Jefferson Fitzgerald Of York
+A. R. West,Jefferson Fitzgerald
 A. R. West,Gordon
 A. R. West,Wm. Smith
 A. R. West,Bibb
@@ -2297,7 +2297,7 @@ William Smith,Calhoun
 William Smith,John Smith
 William Smith,Samuel Dickerson
 William Smith,Henry Powers
-William Smith,Jefferson Fitzgerald Of York
+William Smith,Jefferson Fitzgerald
 William Smith,Gordon
 William Smith,Wm. Smith
 William Smith,Bibb
@@ -2353,7 +2353,7 @@ W. Hardy,Calhoun
 W. Hardy,John Smith
 W. Hardy,Samuel Dickerson
 W. Hardy,Henry Powers
-W. Hardy,Jefferson Fitzgerald Of York
+W. Hardy,Jefferson Fitzgerald
 W. Hardy,Gordon
 W. Hardy,Wm. Smith
 W. Hardy,Bibb
@@ -2408,7 +2408,7 @@ John Rigs,Calhoun
 John Rigs,John Smith
 John Rigs,Samuel Dickerson
 John Rigs,Henry Powers
-John Rigs,Jefferson Fitzgerald Of York
+John Rigs,Jefferson Fitzgerald
 John Rigs,Gordon
 John Rigs,Wm. Smith
 John Rigs,Bibb
@@ -2462,7 +2462,7 @@ Nelson Ockry,Calhoun
 Nelson Ockry,John Smith
 Nelson Ockry,Samuel Dickerson
 Nelson Ockry,Henry Powers
-Nelson Ockry,Jefferson Fitzgerald Of York
+Nelson Ockry,Jefferson Fitzgerald
 Nelson Ockry,Gordon
 Nelson Ockry,Wm. Smith
 Nelson Ockry,Bibb
@@ -2515,7 +2515,7 @@ Asher Aray,Calhoun
 Asher Aray,John Smith
 Asher Aray,Samuel Dickerson
 Asher Aray,Henry Powers
-Asher Aray,Jefferson Fitzgerald Of York
+Asher Aray,Jefferson Fitzgerald
 Asher Aray,Gordon
 Asher Aray,Wm. Smith
 Asher Aray,Bibb
@@ -2567,7 +2567,7 @@ Thomas Freeman,Calhoun
 Thomas Freeman,John Smith
 Thomas Freeman,Samuel Dickerson
 Thomas Freeman,Henry Powers
-Thomas Freeman,Jefferson Fitzgerald Of York
+Thomas Freeman,Jefferson Fitzgerald
 Thomas Freeman,Gordon
 Thomas Freeman,Wm. Smith
 Thomas Freeman,Bibb
@@ -2618,7 +2618,7 @@ Dolerson,Calhoun
 Dolerson,John Smith
 Dolerson,Samuel Dickerson
 Dolerson,Henry Powers
-Dolerson,Jefferson Fitzgerald Of York
+Dolerson,Jefferson Fitzgerald
 Dolerson,Gordon
 Dolerson,Wm. Smith
 Dolerson,Bibb
@@ -2668,7 +2668,7 @@ J.W. Brooks,Calhoun
 J.W. Brooks,John Smith
 J.W. Brooks,Samuel Dickerson
 J.W. Brooks,Henry Powers
-J.W. Brooks,Jefferson Fitzgerald Of York
+J.W. Brooks,Jefferson Fitzgerald
 J.W. Brooks,Gordon
 J.W. Brooks,Wm. Smith
 J.W. Brooks,Bibb
@@ -2717,7 +2717,7 @@ P. Hoyt,Calhoun
 P. Hoyt,John Smith
 P. Hoyt,Samuel Dickerson
 P. Hoyt,Henry Powers
-P. Hoyt,Jefferson Fitzgerald Of York
+P. Hoyt,Jefferson Fitzgerald
 P. Hoyt,Gordon
 P. Hoyt,Wm. Smith
 P. Hoyt,Bibb
@@ -2765,7 +2765,7 @@ Sharon,Calhoun
 Sharon,John Smith
 Sharon,Samuel Dickerson
 Sharon,Henry Powers
-Sharon,Jefferson Fitzgerald Of York
+Sharon,Jefferson Fitzgerald
 Sharon,Gordon
 Sharon,Wm. Smith
 Sharon,Bibb
@@ -2812,7 +2812,7 @@ William Hardy,Calhoun
 William Hardy,John Smith
 William Hardy,Samuel Dickerson
 William Hardy,Henry Powers
-William Hardy,Jefferson Fitzgerald Of York
+William Hardy,Jefferson Fitzgerald
 William Hardy,Gordon
 William Hardy,Wm. Smith
 William Hardy,Bibb
@@ -2858,7 +2858,7 @@ George W. Tucker,Calhoun
 George W. Tucker,John Smith
 George W. Tucker,Samuel Dickerson
 George W. Tucker,Henry Powers
-George W. Tucker,Jefferson Fitzgerald Of York
+George W. Tucker,Jefferson Fitzgerald
 George W. Tucker,Gordon
 George W. Tucker,Wm. Smith
 George W. Tucker,Bibb
@@ -2903,7 +2903,7 @@ Almond Goff,Calhoun
 Almond Goff,John Smith
 Almond Goff,Samuel Dickerson
 Almond Goff,Henry Powers
-Almond Goff,Jefferson Fitzgerald Of York
+Almond Goff,Jefferson Fitzgerald
 Almond Goff,Gordon
 Almond Goff,Wm. Smith
 Almond Goff,Bibb
@@ -2947,7 +2947,7 @@ H. Jackson,Calhoun
 H. Jackson,John Smith
 H. Jackson,Samuel Dickerson
 H. Jackson,Henry Powers
-H. Jackson,Jefferson Fitzgerald Of York
+H. Jackson,Jefferson Fitzgerald
 H. Jackson,Gordon
 H. Jackson,Wm. Smith
 H. Jackson,Bibb
@@ -2990,7 +2990,7 @@ H. Bibb,Calhoun
 H. Bibb,John Smith
 H. Bibb,Samuel Dickerson
 H. Bibb,Henry Powers
-H. Bibb,Jefferson Fitzgerald Of York
+H. Bibb,Jefferson Fitzgerald
 H. Bibb,Gordon
 H. Bibb,Wm. Smith
 H. Bibb,Bibb
@@ -3032,7 +3032,7 @@ Wm. Dolerson,Calhoun
 Wm. Dolerson,John Smith
 Wm. Dolerson,Samuel Dickerson
 Wm. Dolerson,Henry Powers
-Wm. Dolerson,Jefferson Fitzgerald Of York
+Wm. Dolerson,Jefferson Fitzgerald
 Wm. Dolerson,Gordon
 Wm. Dolerson,Wm. Smith
 Wm. Dolerson,Bibb
@@ -3073,7 +3073,7 @@ R. Allen,Calhoun
 R. Allen,John Smith
 R. Allen,Samuel Dickerson
 R. Allen,Henry Powers
-R. Allen,Jefferson Fitzgerald Of York
+R. Allen,Jefferson Fitzgerald
 R. Allen,Gordon
 R. Allen,Wm. Smith
 R. Allen,Bibb
@@ -3113,7 +3113,7 @@ Ockry,Calhoun
 Ockry,John Smith
 Ockry,Samuel Dickerson
 Ockry,Henry Powers
-Ockry,Jefferson Fitzgerald Of York
+Ockry,Jefferson Fitzgerald
 Ockry,Gordon
 Ockry,Wm. Smith
 Ockry,Bibb
@@ -3152,7 +3152,7 @@ R. Gordon,Calhoun
 R. Gordon,John Smith
 R. Gordon,Samuel Dickerson
 R. Gordon,Henry Powers
-R. Gordon,Jefferson Fitzgerald Of York
+R. Gordon,Jefferson Fitzgerald
 R. Gordon,Gordon
 R. Gordon,Wm. Smith
 R. Gordon,Bibb
@@ -3190,7 +3190,7 @@ Jabez M. Fitch,Calhoun
 Jabez M. Fitch,John Smith
 Jabez M. Fitch,Samuel Dickerson
 Jabez M. Fitch,Henry Powers
-Jabez M. Fitch,Jefferson Fitzgerald Of York
+Jabez M. Fitch,Jefferson Fitzgerald
 Jabez M. Fitch,Gordon
 Jabez M. Fitch,Wm. Smith
 Jabez M. Fitch,Bibb
@@ -3227,7 +3227,7 @@ Clarkson,Calhoun
 Clarkson,John Smith
 Clarkson,Samuel Dickerson
 Clarkson,Henry Powers
-Clarkson,Jefferson Fitzgerald Of York
+Clarkson,Jefferson Fitzgerald
 Clarkson,Gordon
 Clarkson,Wm. Smith
 Clarkson,Bibb
@@ -3263,7 +3263,7 @@ Lovejoy,Calhoun
 Lovejoy,John Smith
 Lovejoy,Samuel Dickerson
 Lovejoy,Henry Powers
-Lovejoy,Jefferson Fitzgerald Of York
+Lovejoy,Jefferson Fitzgerald
 Lovejoy,Gordon
 Lovejoy,Wm. Smith
 Lovejoy,Bibb
@@ -3298,7 +3298,7 @@ John Riggs,Calhoun
 John Riggs,John Smith
 John Riggs,Samuel Dickerson
 John Riggs,Henry Powers
-John Riggs,Jefferson Fitzgerald Of York
+John Riggs,Jefferson Fitzgerald
 John Riggs,Gordon
 John Riggs,Wm. Smith
 John Riggs,Bibb
@@ -3332,7 +3332,7 @@ J. Anderson,Calhoun
 J. Anderson,John Smith
 J. Anderson,Samuel Dickerson
 J. Anderson,Henry Powers
-J. Anderson,Jefferson Fitzgerald Of York
+J. Anderson,Jefferson Fitzgerald
 J. Anderson,Gordon
 J. Anderson,Wm. Smith
 J. Anderson,Bibb
@@ -3365,7 +3365,7 @@ J. Brooks,Calhoun
 J. Brooks,John Smith
 J. Brooks,Samuel Dickerson
 J. Brooks,Henry Powers
-J. Brooks,Jefferson Fitzgerald Of York
+J. Brooks,Jefferson Fitzgerald
 J. Brooks,Gordon
 J. Brooks,Wm. Smith
 J. Brooks,Bibb
@@ -3397,7 +3397,7 @@ La Fayette,Calhoun
 La Fayette,John Smith
 La Fayette,Samuel Dickerson
 La Fayette,Henry Powers
-La Fayette,Jefferson Fitzgerald Of York
+La Fayette,Jefferson Fitzgerald
 La Fayette,Gordon
 La Fayette,Wm. Smith
 La Fayette,Bibb
@@ -3428,7 +3428,7 @@ Green,Calhoun
 Green,John Smith
 Green,Samuel Dickerson
 Green,Henry Powers
-Green,Jefferson Fitzgerald Of York
+Green,Jefferson Fitzgerald
 Green,Gordon
 Green,Wm. Smith
 Green,Bibb
@@ -3458,7 +3458,7 @@ Perry,Calhoun
 Perry,John Smith
 Perry,Samuel Dickerson
 Perry,Henry Powers
-Perry,Jefferson Fitzgerald Of York
+Perry,Jefferson Fitzgerald
 Perry,Gordon
 Perry,Wm. Smith
 Perry,Bibb
@@ -3487,7 +3487,7 @@ Lycurgus,Calhoun
 Lycurgus,John Smith
 Lycurgus,Samuel Dickerson
 Lycurgus,Henry Powers
-Lycurgus,Jefferson Fitzgerald Of York
+Lycurgus,Jefferson Fitzgerald
 Lycurgus,Gordon
 Lycurgus,Wm. Smith
 Lycurgus,Bibb
@@ -3515,7 +3515,7 @@ Napoleon,Calhoun
 Napoleon,John Smith
 Napoleon,Samuel Dickerson
 Napoleon,Henry Powers
-Napoleon,Jefferson Fitzgerald Of York
+Napoleon,Jefferson Fitzgerald
 Napoleon,Gordon
 Napoleon,Wm. Smith
 Napoleon,Bibb
@@ -3542,7 +3542,7 @@ Herodotus,Calhoun
 Herodotus,John Smith
 Herodotus,Samuel Dickerson
 Herodotus,Henry Powers
-Herodotus,Jefferson Fitzgerald Of York
+Herodotus,Jefferson Fitzgerald
 Herodotus,Gordon
 Herodotus,Wm. Smith
 Herodotus,Bibb
@@ -3568,7 +3568,7 @@ Calvin Hacket,Calhoun
 Calvin Hacket,John Smith
 Calvin Hacket,Samuel Dickerson
 Calvin Hacket,Henry Powers
-Calvin Hacket,Jefferson Fitzgerald Of York
+Calvin Hacket,Jefferson Fitzgerald
 Calvin Hacket,Gordon
 Calvin Hacket,Wm. Smith
 Calvin Hacket,Bibb
@@ -3593,7 +3593,7 @@ Calvin Hacket,Rhodes
 Calhoun,John Smith
 Calhoun,Samuel Dickerson
 Calhoun,Henry Powers
-Calhoun,Jefferson Fitzgerald Of York
+Calhoun,Jefferson Fitzgerald
 Calhoun,Gordon
 Calhoun,Wm. Smith
 Calhoun,Bibb
@@ -3617,7 +3617,7 @@ Calhoun,Apollonius Rhodius
 Calhoun,Rhodes
 John Smith,Samuel Dickerson
 John Smith,Henry Powers
-John Smith,Jefferson Fitzgerald Of York
+John Smith,Jefferson Fitzgerald
 John Smith,Gordon
 John Smith,Wm. Smith
 John Smith,Bibb
@@ -3640,7 +3640,7 @@ John Smith,Strabo
 John Smith,Apollonius Rhodius
 John Smith,Rhodes
 Samuel Dickerson,Henry Powers
-Samuel Dickerson,Jefferson Fitzgerald Of York
+Samuel Dickerson,Jefferson Fitzgerald
 Samuel Dickerson,Gordon
 Samuel Dickerson,Wm. Smith
 Samuel Dickerson,Bibb
@@ -3662,7 +3662,7 @@ Samuel Dickerson,Socrates
 Samuel Dickerson,Strabo
 Samuel Dickerson,Apollonius Rhodius
 Samuel Dickerson,Rhodes
-Henry Powers,Jefferson Fitzgerald Of York
+Henry Powers,Jefferson Fitzgerald
 Henry Powers,Gordon
 Henry Powers,Wm. Smith
 Henry Powers,Bibb
@@ -3684,27 +3684,27 @@ Henry Powers,Socrates
 Henry Powers,Strabo
 Henry Powers,Apollonius Rhodius
 Henry Powers,Rhodes
-Jefferson Fitzgerald Of York,Gordon
-Jefferson Fitzgerald Of York,Wm. Smith
-Jefferson Fitzgerald Of York,Bibb
-Jefferson Fitzgerald Of York,Frederick Douglass
-Jefferson Fitzgerald Of York,William Wilberforce
-Jefferson Fitzgerald Of York,Thomas Clarkson
-Jefferson Fitzgerald Of York,Granville Sharpe
-Jefferson Fitzgerald Of York,Wilberforce
-Jefferson Fitzgerald Of York,Elijah P. Lovejoy
-Jefferson Fitzgerald Of York,John
-Jefferson Fitzgerald Of York,Nathanael Greene
-Jefferson Fitzgerald Of York,Christopher Greene
-Jefferson Fitzgerald Of York,Andrew Jackson
-Jefferson Fitzgerald Of York,Philip S. Foner
-Jefferson Fitzgerald Of York,Pindar
-Jefferson Fitzgerald Of York,Pythagoras
-Jefferson Fitzgerald Of York,Plato
-Jefferson Fitzgerald Of York,Socrates
-Jefferson Fitzgerald Of York,Strabo
-Jefferson Fitzgerald Of York,Apollonius Rhodius
-Jefferson Fitzgerald Of York,Rhodes
+Jefferson Fitzgerald,Gordon
+Jefferson Fitzgerald,Wm. Smith
+Jefferson Fitzgerald,Bibb
+Jefferson Fitzgerald,Frederick Douglass
+Jefferson Fitzgerald,William Wilberforce
+Jefferson Fitzgerald,Thomas Clarkson
+Jefferson Fitzgerald,Granville Sharpe
+Jefferson Fitzgerald,Wilberforce
+Jefferson Fitzgerald,Elijah P. Lovejoy
+Jefferson Fitzgerald,John
+Jefferson Fitzgerald,Nathanael Greene
+Jefferson Fitzgerald,Christopher Greene
+Jefferson Fitzgerald,Andrew Jackson
+Jefferson Fitzgerald,Philip S. Foner
+Jefferson Fitzgerald,Pindar
+Jefferson Fitzgerald,Pythagoras
+Jefferson Fitzgerald,Plato
+Jefferson Fitzgerald,Socrates
+Jefferson Fitzgerald,Strabo
+Jefferson Fitzgerald,Apollonius Rhodius
+Jefferson Fitzgerald,Rhodes
 Gordon,Wm. Smith
 Gordon,Bibb
 Gordon,Frederick Douglass

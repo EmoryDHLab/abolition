@@ -1,4 +1,4 @@
-name1,name2
+source,target
 William Steward,J.B. Ferguson
 William Steward,Wm. Steward
 William Steward,Theodore Gould
@@ -11,7 +11,6 @@ William Steward,Wm. Conover
 William Steward,Amos H. Johnson
 William Steward,Robert B. King
 William Steward,Samuel Allen
-William Steward,Pennington
 William Steward,Samuel Blackwell
 William Steward,Nelson H. Turpin
 William Steward,Samuel G. Gould
@@ -50,6 +49,7 @@ William Steward,Steward
 William Steward,T. Gould
 William Steward,Sam
 William Steward,S. Allen
+William Steward,Pennington
 William Steward,R. B. Johns
 William Steward,Blackwell
 William Steward,Jesus
@@ -67,7 +67,6 @@ William Steward,Morris
 William Steward,Hudson
 William Steward,Hunterdon
 William Steward,Mercer
-William Steward,Monmouth
 William Steward,Salem
 William Steward,Lincoln
 William Steward,Robert Penn
@@ -83,7 +82,6 @@ J.B. Ferguson,Wm. Conover
 J.B. Ferguson,Amos H. Johnson
 J.B. Ferguson,Robert B. King
 J.B. Ferguson,Samuel Allen
-J.B. Ferguson,Pennington
 J.B. Ferguson,Samuel Blackwell
 J.B. Ferguson,Nelson H. Turpin
 J.B. Ferguson,Samuel G. Gould
@@ -122,6 +120,7 @@ J.B. Ferguson,Steward
 J.B. Ferguson,T. Gould
 J.B. Ferguson,Sam
 J.B. Ferguson,S. Allen
+J.B. Ferguson,Pennington
 J.B. Ferguson,R. B. Johns
 J.B. Ferguson,Blackwell
 J.B. Ferguson,Jesus
@@ -139,7 +138,6 @@ J.B. Ferguson,Morris
 J.B. Ferguson,Hudson
 J.B. Ferguson,Hunterdon
 J.B. Ferguson,Mercer
-J.B. Ferguson,Monmouth
 J.B. Ferguson,Salem
 J.B. Ferguson,Lincoln
 J.B. Ferguson,Robert Penn
@@ -154,7 +152,6 @@ Wm. Steward,Wm. Conover
 Wm. Steward,Amos H. Johnson
 Wm. Steward,Robert B. King
 Wm. Steward,Samuel Allen
-Wm. Steward,Pennington
 Wm. Steward,Samuel Blackwell
 Wm. Steward,Nelson H. Turpin
 Wm. Steward,Samuel G. Gould
@@ -193,6 +190,7 @@ Wm. Steward,Steward
 Wm. Steward,T. Gould
 Wm. Steward,Sam
 Wm. Steward,S. Allen
+Wm. Steward,Pennington
 Wm. Steward,R. B. Johns
 Wm. Steward,Blackwell
 Wm. Steward,Jesus
@@ -210,7 +208,6 @@ Wm. Steward,Morris
 Wm. Steward,Hudson
 Wm. Steward,Hunterdon
 Wm. Steward,Mercer
-Wm. Steward,Monmouth
 Wm. Steward,Salem
 Wm. Steward,Lincoln
 Wm. Steward,Robert Penn
@@ -224,7 +221,6 @@ Theodore Gould,Wm. Conover
 Theodore Gould,Amos H. Johnson
 Theodore Gould,Robert B. King
 Theodore Gould,Samuel Allen
-Theodore Gould,Pennington
 Theodore Gould,Samuel Blackwell
 Theodore Gould,Nelson H. Turpin
 Theodore Gould,Samuel G. Gould
@@ -263,6 +259,7 @@ Theodore Gould,Steward
 Theodore Gould,T. Gould
 Theodore Gould,Sam
 Theodore Gould,S. Allen
+Theodore Gould,Pennington
 Theodore Gould,R. B. Johns
 Theodore Gould,Blackwell
 Theodore Gould,Jesus
@@ -280,7 +277,6 @@ Theodore Gould,Morris
 Theodore Gould,Hudson
 Theodore Gould,Hunterdon
 Theodore Gould,Mercer
-Theodore Gould,Monmouth
 Theodore Gould,Salem
 Theodore Gould,Lincoln
 Theodore Gould,Robert Penn
@@ -293,7 +289,6 @@ Abijah Gould,Wm. Conover
 Abijah Gould,Amos H. Johnson
 Abijah Gould,Robert B. King
 Abijah Gould,Samuel Allen
-Abijah Gould,Pennington
 Abijah Gould,Samuel Blackwell
 Abijah Gould,Nelson H. Turpin
 Abijah Gould,Samuel G. Gould
@@ -332,6 +327,7 @@ Abijah Gould,Steward
 Abijah Gould,T. Gould
 Abijah Gould,Sam
 Abijah Gould,S. Allen
+Abijah Gould,Pennington
 Abijah Gould,R. B. Johns
 Abijah Gould,Blackwell
 Abijah Gould,Jesus
@@ -349,7 +345,6 @@ Abijah Gould,Morris
 Abijah Gould,Hudson
 Abijah Gould,Hunterdon
 Abijah Gould,Mercer
-Abijah Gould,Monmouth
 Abijah Gould,Salem
 Abijah Gould,Lincoln
 Abijah Gould,Robert Penn
@@ -361,7 +356,6 @@ Robert Pinn,Wm. Conover
 Robert Pinn,Amos H. Johnson
 Robert Pinn,Robert B. King
 Robert Pinn,Samuel Allen
-Robert Pinn,Pennington
 Robert Pinn,Samuel Blackwell
 Robert Pinn,Nelson H. Turpin
 Robert Pinn,Samuel G. Gould
@@ -400,6 +394,7 @@ Robert Pinn,Steward
 Robert Pinn,T. Gould
 Robert Pinn,Sam
 Robert Pinn,S. Allen
+Robert Pinn,Pennington
 Robert Pinn,R. B. Johns
 Robert Pinn,Blackwell
 Robert Pinn,Jesus
@@ -417,7 +412,6 @@ Robert Pinn,Morris
 Robert Pinn,Hudson
 Robert Pinn,Hunterdon
 Robert Pinn,Mercer
-Robert Pinn,Monmouth
 Robert Pinn,Salem
 Robert Pinn,Lincoln
 Robert Pinn,Robert Penn
@@ -428,7 +422,6 @@ Reading B. Johns,Wm. Conover
 Reading B. Johns,Amos H. Johnson
 Reading B. Johns,Robert B. King
 Reading B. Johns,Samuel Allen
-Reading B. Johns,Pennington
 Reading B. Johns,Samuel Blackwell
 Reading B. Johns,Nelson H. Turpin
 Reading B. Johns,Samuel G. Gould
@@ -467,6 +460,7 @@ Reading B. Johns,Steward
 Reading B. Johns,T. Gould
 Reading B. Johns,Sam
 Reading B. Johns,S. Allen
+Reading B. Johns,Pennington
 Reading B. Johns,R. B. Johns
 Reading B. Johns,Blackwell
 Reading B. Johns,Jesus
@@ -484,7 +478,6 @@ Reading B. Johns,Morris
 Reading B. Johns,Hudson
 Reading B. Johns,Hunterdon
 Reading B. Johns,Mercer
-Reading B. Johns,Monmouth
 Reading B. Johns,Salem
 Reading B. Johns,Lincoln
 Reading B. Johns,Robert Penn
@@ -494,7 +487,6 @@ Gilbert Reading,Wm. Conover
 Gilbert Reading,Amos H. Johnson
 Gilbert Reading,Robert B. King
 Gilbert Reading,Samuel Allen
-Gilbert Reading,Pennington
 Gilbert Reading,Samuel Blackwell
 Gilbert Reading,Nelson H. Turpin
 Gilbert Reading,Samuel G. Gould
@@ -533,6 +525,7 @@ Gilbert Reading,Steward
 Gilbert Reading,T. Gould
 Gilbert Reading,Sam
 Gilbert Reading,S. Allen
+Gilbert Reading,Pennington
 Gilbert Reading,R. B. Johns
 Gilbert Reading,Blackwell
 Gilbert Reading,Jesus
@@ -550,7 +543,6 @@ Gilbert Reading,Morris
 Gilbert Reading,Hudson
 Gilbert Reading,Hunterdon
 Gilbert Reading,Mercer
-Gilbert Reading,Monmouth
 Gilbert Reading,Salem
 Gilbert Reading,Lincoln
 Gilbert Reading,Robert Penn
@@ -559,7 +551,6 @@ N. H. Turpin,Wm. Conover
 N. H. Turpin,Amos H. Johnson
 N. H. Turpin,Robert B. King
 N. H. Turpin,Samuel Allen
-N. H. Turpin,Pennington
 N. H. Turpin,Samuel Blackwell
 N. H. Turpin,Nelson H. Turpin
 N. H. Turpin,Samuel G. Gould
@@ -598,6 +589,7 @@ N. H. Turpin,Steward
 N. H. Turpin,T. Gould
 N. H. Turpin,Sam
 N. H. Turpin,S. Allen
+N. H. Turpin,Pennington
 N. H. Turpin,R. B. Johns
 N. H. Turpin,Blackwell
 N. H. Turpin,Jesus
@@ -615,7 +607,6 @@ N. H. Turpin,Morris
 N. H. Turpin,Hudson
 N. H. Turpin,Hunterdon
 N. H. Turpin,Mercer
-N. H. Turpin,Monmouth
 N. H. Turpin,Salem
 N. H. Turpin,Lincoln
 N. H. Turpin,Robert Penn
@@ -623,7 +614,6 @@ N. H. Turpin,R. Johns
 Wm. Conover,Amos H. Johnson
 Wm. Conover,Robert B. King
 Wm. Conover,Samuel Allen
-Wm. Conover,Pennington
 Wm. Conover,Samuel Blackwell
 Wm. Conover,Nelson H. Turpin
 Wm. Conover,Samuel G. Gould
@@ -662,6 +652,7 @@ Wm. Conover,Steward
 Wm. Conover,T. Gould
 Wm. Conover,Sam
 Wm. Conover,S. Allen
+Wm. Conover,Pennington
 Wm. Conover,R. B. Johns
 Wm. Conover,Blackwell
 Wm. Conover,Jesus
@@ -679,14 +670,12 @@ Wm. Conover,Morris
 Wm. Conover,Hudson
 Wm. Conover,Hunterdon
 Wm. Conover,Mercer
-Wm. Conover,Monmouth
 Wm. Conover,Salem
 Wm. Conover,Lincoln
 Wm. Conover,Robert Penn
 Wm. Conover,R. Johns
 Amos H. Johnson,Robert B. King
 Amos H. Johnson,Samuel Allen
-Amos H. Johnson,Pennington
 Amos H. Johnson,Samuel Blackwell
 Amos H. Johnson,Nelson H. Turpin
 Amos H. Johnson,Samuel G. Gould
@@ -725,6 +714,7 @@ Amos H. Johnson,Steward
 Amos H. Johnson,T. Gould
 Amos H. Johnson,Sam
 Amos H. Johnson,S. Allen
+Amos H. Johnson,Pennington
 Amos H. Johnson,R. B. Johns
 Amos H. Johnson,Blackwell
 Amos H. Johnson,Jesus
@@ -742,13 +732,11 @@ Amos H. Johnson,Morris
 Amos H. Johnson,Hudson
 Amos H. Johnson,Hunterdon
 Amos H. Johnson,Mercer
-Amos H. Johnson,Monmouth
 Amos H. Johnson,Salem
 Amos H. Johnson,Lincoln
 Amos H. Johnson,Robert Penn
 Amos H. Johnson,R. Johns
 Robert B. King,Samuel Allen
-Robert B. King,Pennington
 Robert B. King,Samuel Blackwell
 Robert B. King,Nelson H. Turpin
 Robert B. King,Samuel G. Gould
@@ -787,6 +775,7 @@ Robert B. King,Steward
 Robert B. King,T. Gould
 Robert B. King,Sam
 Robert B. King,S. Allen
+Robert B. King,Pennington
 Robert B. King,R. B. Johns
 Robert B. King,Blackwell
 Robert B. King,Jesus
@@ -804,12 +793,10 @@ Robert B. King,Morris
 Robert B. King,Hudson
 Robert B. King,Hunterdon
 Robert B. King,Mercer
-Robert B. King,Monmouth
 Robert B. King,Salem
 Robert B. King,Lincoln
 Robert B. King,Robert Penn
 Robert B. King,R. Johns
-Samuel Allen,Pennington
 Samuel Allen,Samuel Blackwell
 Samuel Allen,Nelson H. Turpin
 Samuel Allen,Samuel G. Gould
@@ -848,6 +835,7 @@ Samuel Allen,Steward
 Samuel Allen,T. Gould
 Samuel Allen,Sam
 Samuel Allen,S. Allen
+Samuel Allen,Pennington
 Samuel Allen,R. B. Johns
 Samuel Allen,Blackwell
 Samuel Allen,Jesus
@@ -865,71 +853,10 @@ Samuel Allen,Morris
 Samuel Allen,Hudson
 Samuel Allen,Hunterdon
 Samuel Allen,Mercer
-Samuel Allen,Monmouth
 Samuel Allen,Salem
 Samuel Allen,Lincoln
 Samuel Allen,Robert Penn
 Samuel Allen,R. Johns
-Pennington,Samuel Blackwell
-Pennington,Nelson H. Turpin
-Pennington,Samuel G. Gould
-Pennington,John Lewis
-Pennington,Thomas H. Cooper
-Pennington,James Sernby
-Pennington,B. Johns
-Pennington,Schank
-Pennington,Benjamin Shortis
-Pennington,Robert Cox
-Pennington,Gideon Lewis
-Pennington,Anthony Simmons
-Pennington,Amos Davis
-Pennington,Benjamin Tilmon
-Pennington,Spencer Emmons
-Pennington,Alfred Wood
-Pennington,Samuel Williams
-Pennington,John W. Stephenson
-Pennington,Francis Reinear
-Pennington,Brogden
-Pennington,Charles Stille
-Pennington,Jno
-Pennington,Hamilton
-Pennington,Gould
-Pennington,H. Cooper
-Pennington,T. H. Cooper
-Pennington,John H. Stephenson
-Pennington,Wm. Brogden
-Pennington,James Schank
-Pennington,Thos
-Pennington,Rob
-Pennington,Pinn
-Pennington,I. Conover
-Pennington,Theo
-Pennington,Steward
-Pennington,T. Gould
-Pennington,Sam
-Pennington,S. Allen
-Pennington,R. B. Johns
-Pennington,Blackwell
-Pennington,Jesus
-Pennington,Reading
-Pennington,B. King
-Pennington,N. Jersey
-Pennington,J. B. Hamilton
-Pennington,G. Gould
-Pennington,S. G. Gould
-Pennington,Sexton
-Pennington,Wm. Hamilton
-Pennington,J. W. Stephenson
-Pennington,Warren
-Pennington,Morris
-Pennington,Hudson
-Pennington,Hunterdon
-Pennington,Mercer
-Pennington,Monmouth
-Pennington,Salem
-Pennington,Lincoln
-Pennington,Robert Penn
-Pennington,R. Johns
 Samuel Blackwell,Nelson H. Turpin
 Samuel Blackwell,Samuel G. Gould
 Samuel Blackwell,John Lewis
@@ -967,6 +894,7 @@ Samuel Blackwell,Steward
 Samuel Blackwell,T. Gould
 Samuel Blackwell,Sam
 Samuel Blackwell,S. Allen
+Samuel Blackwell,Pennington
 Samuel Blackwell,R. B. Johns
 Samuel Blackwell,Blackwell
 Samuel Blackwell,Jesus
@@ -984,7 +912,6 @@ Samuel Blackwell,Morris
 Samuel Blackwell,Hudson
 Samuel Blackwell,Hunterdon
 Samuel Blackwell,Mercer
-Samuel Blackwell,Monmouth
 Samuel Blackwell,Salem
 Samuel Blackwell,Lincoln
 Samuel Blackwell,Robert Penn
@@ -1025,6 +952,7 @@ Nelson H. Turpin,Steward
 Nelson H. Turpin,T. Gould
 Nelson H. Turpin,Sam
 Nelson H. Turpin,S. Allen
+Nelson H. Turpin,Pennington
 Nelson H. Turpin,R. B. Johns
 Nelson H. Turpin,Blackwell
 Nelson H. Turpin,Jesus
@@ -1042,7 +970,6 @@ Nelson H. Turpin,Morris
 Nelson H. Turpin,Hudson
 Nelson H. Turpin,Hunterdon
 Nelson H. Turpin,Mercer
-Nelson H. Turpin,Monmouth
 Nelson H. Turpin,Salem
 Nelson H. Turpin,Lincoln
 Nelson H. Turpin,Robert Penn
@@ -1082,6 +1009,7 @@ Samuel G. Gould,Steward
 Samuel G. Gould,T. Gould
 Samuel G. Gould,Sam
 Samuel G. Gould,S. Allen
+Samuel G. Gould,Pennington
 Samuel G. Gould,R. B. Johns
 Samuel G. Gould,Blackwell
 Samuel G. Gould,Jesus
@@ -1099,7 +1027,6 @@ Samuel G. Gould,Morris
 Samuel G. Gould,Hudson
 Samuel G. Gould,Hunterdon
 Samuel G. Gould,Mercer
-Samuel G. Gould,Monmouth
 Samuel G. Gould,Salem
 Samuel G. Gould,Lincoln
 Samuel G. Gould,Robert Penn
@@ -1138,6 +1065,7 @@ John Lewis,Steward
 John Lewis,T. Gould
 John Lewis,Sam
 John Lewis,S. Allen
+John Lewis,Pennington
 John Lewis,R. B. Johns
 John Lewis,Blackwell
 John Lewis,Jesus
@@ -1155,7 +1083,6 @@ John Lewis,Morris
 John Lewis,Hudson
 John Lewis,Hunterdon
 John Lewis,Mercer
-John Lewis,Monmouth
 John Lewis,Salem
 John Lewis,Lincoln
 John Lewis,Robert Penn
@@ -1193,6 +1120,7 @@ Thomas H. Cooper,Steward
 Thomas H. Cooper,T. Gould
 Thomas H. Cooper,Sam
 Thomas H. Cooper,S. Allen
+Thomas H. Cooper,Pennington
 Thomas H. Cooper,R. B. Johns
 Thomas H. Cooper,Blackwell
 Thomas H. Cooper,Jesus
@@ -1210,7 +1138,6 @@ Thomas H. Cooper,Morris
 Thomas H. Cooper,Hudson
 Thomas H. Cooper,Hunterdon
 Thomas H. Cooper,Mercer
-Thomas H. Cooper,Monmouth
 Thomas H. Cooper,Salem
 Thomas H. Cooper,Lincoln
 Thomas H. Cooper,Robert Penn
@@ -1247,6 +1174,7 @@ James Sernby,Steward
 James Sernby,T. Gould
 James Sernby,Sam
 James Sernby,S. Allen
+James Sernby,Pennington
 James Sernby,R. B. Johns
 James Sernby,Blackwell
 James Sernby,Jesus
@@ -1264,7 +1192,6 @@ James Sernby,Morris
 James Sernby,Hudson
 James Sernby,Hunterdon
 James Sernby,Mercer
-James Sernby,Monmouth
 James Sernby,Salem
 James Sernby,Lincoln
 James Sernby,Robert Penn
@@ -1300,6 +1227,7 @@ B. Johns,Steward
 B. Johns,T. Gould
 B. Johns,Sam
 B. Johns,S. Allen
+B. Johns,Pennington
 B. Johns,R. B. Johns
 B. Johns,Blackwell
 B. Johns,Jesus
@@ -1317,7 +1245,6 @@ B. Johns,Morris
 B. Johns,Hudson
 B. Johns,Hunterdon
 B. Johns,Mercer
-B. Johns,Monmouth
 B. Johns,Salem
 B. Johns,Lincoln
 B. Johns,Robert Penn
@@ -1352,6 +1279,7 @@ Schank,Steward
 Schank,T. Gould
 Schank,Sam
 Schank,S. Allen
+Schank,Pennington
 Schank,R. B. Johns
 Schank,Blackwell
 Schank,Jesus
@@ -1369,7 +1297,6 @@ Schank,Morris
 Schank,Hudson
 Schank,Hunterdon
 Schank,Mercer
-Schank,Monmouth
 Schank,Salem
 Schank,Lincoln
 Schank,Robert Penn
@@ -1403,6 +1330,7 @@ Benjamin Shortis,Steward
 Benjamin Shortis,T. Gould
 Benjamin Shortis,Sam
 Benjamin Shortis,S. Allen
+Benjamin Shortis,Pennington
 Benjamin Shortis,R. B. Johns
 Benjamin Shortis,Blackwell
 Benjamin Shortis,Jesus
@@ -1420,7 +1348,6 @@ Benjamin Shortis,Morris
 Benjamin Shortis,Hudson
 Benjamin Shortis,Hunterdon
 Benjamin Shortis,Mercer
-Benjamin Shortis,Monmouth
 Benjamin Shortis,Salem
 Benjamin Shortis,Lincoln
 Benjamin Shortis,Robert Penn
@@ -1453,6 +1380,7 @@ Robert Cox,Steward
 Robert Cox,T. Gould
 Robert Cox,Sam
 Robert Cox,S. Allen
+Robert Cox,Pennington
 Robert Cox,R. B. Johns
 Robert Cox,Blackwell
 Robert Cox,Jesus
@@ -1470,7 +1398,6 @@ Robert Cox,Morris
 Robert Cox,Hudson
 Robert Cox,Hunterdon
 Robert Cox,Mercer
-Robert Cox,Monmouth
 Robert Cox,Salem
 Robert Cox,Lincoln
 Robert Cox,Robert Penn
@@ -1502,6 +1429,7 @@ Gideon Lewis,Steward
 Gideon Lewis,T. Gould
 Gideon Lewis,Sam
 Gideon Lewis,S. Allen
+Gideon Lewis,Pennington
 Gideon Lewis,R. B. Johns
 Gideon Lewis,Blackwell
 Gideon Lewis,Jesus
@@ -1519,7 +1447,6 @@ Gideon Lewis,Morris
 Gideon Lewis,Hudson
 Gideon Lewis,Hunterdon
 Gideon Lewis,Mercer
-Gideon Lewis,Monmouth
 Gideon Lewis,Salem
 Gideon Lewis,Lincoln
 Gideon Lewis,Robert Penn
@@ -1550,6 +1477,7 @@ Anthony Simmons,Steward
 Anthony Simmons,T. Gould
 Anthony Simmons,Sam
 Anthony Simmons,S. Allen
+Anthony Simmons,Pennington
 Anthony Simmons,R. B. Johns
 Anthony Simmons,Blackwell
 Anthony Simmons,Jesus
@@ -1567,7 +1495,6 @@ Anthony Simmons,Morris
 Anthony Simmons,Hudson
 Anthony Simmons,Hunterdon
 Anthony Simmons,Mercer
-Anthony Simmons,Monmouth
 Anthony Simmons,Salem
 Anthony Simmons,Lincoln
 Anthony Simmons,Robert Penn
@@ -1597,6 +1524,7 @@ Amos Davis,Steward
 Amos Davis,T. Gould
 Amos Davis,Sam
 Amos Davis,S. Allen
+Amos Davis,Pennington
 Amos Davis,R. B. Johns
 Amos Davis,Blackwell
 Amos Davis,Jesus
@@ -1614,7 +1542,6 @@ Amos Davis,Morris
 Amos Davis,Hudson
 Amos Davis,Hunterdon
 Amos Davis,Mercer
-Amos Davis,Monmouth
 Amos Davis,Salem
 Amos Davis,Lincoln
 Amos Davis,Robert Penn
@@ -1643,6 +1570,7 @@ Benjamin Tilmon,Steward
 Benjamin Tilmon,T. Gould
 Benjamin Tilmon,Sam
 Benjamin Tilmon,S. Allen
+Benjamin Tilmon,Pennington
 Benjamin Tilmon,R. B. Johns
 Benjamin Tilmon,Blackwell
 Benjamin Tilmon,Jesus
@@ -1660,7 +1588,6 @@ Benjamin Tilmon,Morris
 Benjamin Tilmon,Hudson
 Benjamin Tilmon,Hunterdon
 Benjamin Tilmon,Mercer
-Benjamin Tilmon,Monmouth
 Benjamin Tilmon,Salem
 Benjamin Tilmon,Lincoln
 Benjamin Tilmon,Robert Penn
@@ -1688,6 +1615,7 @@ Spencer Emmons,Steward
 Spencer Emmons,T. Gould
 Spencer Emmons,Sam
 Spencer Emmons,S. Allen
+Spencer Emmons,Pennington
 Spencer Emmons,R. B. Johns
 Spencer Emmons,Blackwell
 Spencer Emmons,Jesus
@@ -1705,7 +1633,6 @@ Spencer Emmons,Morris
 Spencer Emmons,Hudson
 Spencer Emmons,Hunterdon
 Spencer Emmons,Mercer
-Spencer Emmons,Monmouth
 Spencer Emmons,Salem
 Spencer Emmons,Lincoln
 Spencer Emmons,Robert Penn
@@ -1732,6 +1659,7 @@ Alfred Wood,Steward
 Alfred Wood,T. Gould
 Alfred Wood,Sam
 Alfred Wood,S. Allen
+Alfred Wood,Pennington
 Alfred Wood,R. B. Johns
 Alfred Wood,Blackwell
 Alfred Wood,Jesus
@@ -1749,7 +1677,6 @@ Alfred Wood,Morris
 Alfred Wood,Hudson
 Alfred Wood,Hunterdon
 Alfred Wood,Mercer
-Alfred Wood,Monmouth
 Alfred Wood,Salem
 Alfred Wood,Lincoln
 Alfred Wood,Robert Penn
@@ -1775,6 +1702,7 @@ Samuel Williams,Steward
 Samuel Williams,T. Gould
 Samuel Williams,Sam
 Samuel Williams,S. Allen
+Samuel Williams,Pennington
 Samuel Williams,R. B. Johns
 Samuel Williams,Blackwell
 Samuel Williams,Jesus
@@ -1792,7 +1720,6 @@ Samuel Williams,Morris
 Samuel Williams,Hudson
 Samuel Williams,Hunterdon
 Samuel Williams,Mercer
-Samuel Williams,Monmouth
 Samuel Williams,Salem
 Samuel Williams,Lincoln
 Samuel Williams,Robert Penn
@@ -1817,6 +1744,7 @@ John W. Stephenson,Steward
 John W. Stephenson,T. Gould
 John W. Stephenson,Sam
 John W. Stephenson,S. Allen
+John W. Stephenson,Pennington
 John W. Stephenson,R. B. Johns
 John W. Stephenson,Blackwell
 John W. Stephenson,Jesus
@@ -1834,7 +1762,6 @@ John W. Stephenson,Morris
 John W. Stephenson,Hudson
 John W. Stephenson,Hunterdon
 John W. Stephenson,Mercer
-John W. Stephenson,Monmouth
 John W. Stephenson,Salem
 John W. Stephenson,Lincoln
 John W. Stephenson,Robert Penn
@@ -1858,6 +1785,7 @@ Francis Reinear,Steward
 Francis Reinear,T. Gould
 Francis Reinear,Sam
 Francis Reinear,S. Allen
+Francis Reinear,Pennington
 Francis Reinear,R. B. Johns
 Francis Reinear,Blackwell
 Francis Reinear,Jesus
@@ -1875,7 +1803,6 @@ Francis Reinear,Morris
 Francis Reinear,Hudson
 Francis Reinear,Hunterdon
 Francis Reinear,Mercer
-Francis Reinear,Monmouth
 Francis Reinear,Salem
 Francis Reinear,Lincoln
 Francis Reinear,Robert Penn
@@ -1898,6 +1825,7 @@ Brogden,Steward
 Brogden,T. Gould
 Brogden,Sam
 Brogden,S. Allen
+Brogden,Pennington
 Brogden,R. B. Johns
 Brogden,Blackwell
 Brogden,Jesus
@@ -1915,7 +1843,6 @@ Brogden,Morris
 Brogden,Hudson
 Brogden,Hunterdon
 Brogden,Mercer
-Brogden,Monmouth
 Brogden,Salem
 Brogden,Lincoln
 Brogden,Robert Penn
@@ -1937,6 +1864,7 @@ Charles Stille,Steward
 Charles Stille,T. Gould
 Charles Stille,Sam
 Charles Stille,S. Allen
+Charles Stille,Pennington
 Charles Stille,R. B. Johns
 Charles Stille,Blackwell
 Charles Stille,Jesus
@@ -1954,7 +1882,6 @@ Charles Stille,Morris
 Charles Stille,Hudson
 Charles Stille,Hunterdon
 Charles Stille,Mercer
-Charles Stille,Monmouth
 Charles Stille,Salem
 Charles Stille,Lincoln
 Charles Stille,Robert Penn
@@ -1975,6 +1902,7 @@ Jno,Steward
 Jno,T. Gould
 Jno,Sam
 Jno,S. Allen
+Jno,Pennington
 Jno,R. B. Johns
 Jno,Blackwell
 Jno,Jesus
@@ -1992,7 +1920,6 @@ Jno,Morris
 Jno,Hudson
 Jno,Hunterdon
 Jno,Mercer
-Jno,Monmouth
 Jno,Salem
 Jno,Lincoln
 Jno,Robert Penn
@@ -2012,6 +1939,7 @@ Hamilton,Steward
 Hamilton,T. Gould
 Hamilton,Sam
 Hamilton,S. Allen
+Hamilton,Pennington
 Hamilton,R. B. Johns
 Hamilton,Blackwell
 Hamilton,Jesus
@@ -2029,7 +1957,6 @@ Hamilton,Morris
 Hamilton,Hudson
 Hamilton,Hunterdon
 Hamilton,Mercer
-Hamilton,Monmouth
 Hamilton,Salem
 Hamilton,Lincoln
 Hamilton,Robert Penn
@@ -2048,6 +1975,7 @@ Gould,Steward
 Gould,T. Gould
 Gould,Sam
 Gould,S. Allen
+Gould,Pennington
 Gould,R. B. Johns
 Gould,Blackwell
 Gould,Jesus
@@ -2065,7 +1993,6 @@ Gould,Morris
 Gould,Hudson
 Gould,Hunterdon
 Gould,Mercer
-Gould,Monmouth
 Gould,Salem
 Gould,Lincoln
 Gould,Robert Penn
@@ -2083,6 +2010,7 @@ H. Cooper,Steward
 H. Cooper,T. Gould
 H. Cooper,Sam
 H. Cooper,S. Allen
+H. Cooper,Pennington
 H. Cooper,R. B. Johns
 H. Cooper,Blackwell
 H. Cooper,Jesus
@@ -2100,7 +2028,6 @@ H. Cooper,Morris
 H. Cooper,Hudson
 H. Cooper,Hunterdon
 H. Cooper,Mercer
-H. Cooper,Monmouth
 H. Cooper,Salem
 H. Cooper,Lincoln
 H. Cooper,Robert Penn
@@ -2117,6 +2044,7 @@ T. H. Cooper,Steward
 T. H. Cooper,T. Gould
 T. H. Cooper,Sam
 T. H. Cooper,S. Allen
+T. H. Cooper,Pennington
 T. H. Cooper,R. B. Johns
 T. H. Cooper,Blackwell
 T. H. Cooper,Jesus
@@ -2134,7 +2062,6 @@ T. H. Cooper,Morris
 T. H. Cooper,Hudson
 T. H. Cooper,Hunterdon
 T. H. Cooper,Mercer
-T. H. Cooper,Monmouth
 T. H. Cooper,Salem
 T. H. Cooper,Lincoln
 T. H. Cooper,Robert Penn
@@ -2150,6 +2077,7 @@ John H. Stephenson,Steward
 John H. Stephenson,T. Gould
 John H. Stephenson,Sam
 John H. Stephenson,S. Allen
+John H. Stephenson,Pennington
 John H. Stephenson,R. B. Johns
 John H. Stephenson,Blackwell
 John H. Stephenson,Jesus
@@ -2167,7 +2095,6 @@ John H. Stephenson,Morris
 John H. Stephenson,Hudson
 John H. Stephenson,Hunterdon
 John H. Stephenson,Mercer
-John H. Stephenson,Monmouth
 John H. Stephenson,Salem
 John H. Stephenson,Lincoln
 John H. Stephenson,Robert Penn
@@ -2182,6 +2109,7 @@ Wm. Brogden,Steward
 Wm. Brogden,T. Gould
 Wm. Brogden,Sam
 Wm. Brogden,S. Allen
+Wm. Brogden,Pennington
 Wm. Brogden,R. B. Johns
 Wm. Brogden,Blackwell
 Wm. Brogden,Jesus
@@ -2199,7 +2127,6 @@ Wm. Brogden,Morris
 Wm. Brogden,Hudson
 Wm. Brogden,Hunterdon
 Wm. Brogden,Mercer
-Wm. Brogden,Monmouth
 Wm. Brogden,Salem
 Wm. Brogden,Lincoln
 Wm. Brogden,Robert Penn
@@ -2213,6 +2140,7 @@ James Schank,Steward
 James Schank,T. Gould
 James Schank,Sam
 James Schank,S. Allen
+James Schank,Pennington
 James Schank,R. B. Johns
 James Schank,Blackwell
 James Schank,Jesus
@@ -2230,7 +2158,6 @@ James Schank,Morris
 James Schank,Hudson
 James Schank,Hunterdon
 James Schank,Mercer
-James Schank,Monmouth
 James Schank,Salem
 James Schank,Lincoln
 James Schank,Robert Penn
@@ -2243,6 +2170,7 @@ Thos,Steward
 Thos,T. Gould
 Thos,Sam
 Thos,S. Allen
+Thos,Pennington
 Thos,R. B. Johns
 Thos,Blackwell
 Thos,Jesus
@@ -2260,7 +2188,6 @@ Thos,Morris
 Thos,Hudson
 Thos,Hunterdon
 Thos,Mercer
-Thos,Monmouth
 Thos,Salem
 Thos,Lincoln
 Thos,Robert Penn
@@ -2272,6 +2199,7 @@ Rob,Steward
 Rob,T. Gould
 Rob,Sam
 Rob,S. Allen
+Rob,Pennington
 Rob,R. B. Johns
 Rob,Blackwell
 Rob,Jesus
@@ -2289,7 +2217,6 @@ Rob,Morris
 Rob,Hudson
 Rob,Hunterdon
 Rob,Mercer
-Rob,Monmouth
 Rob,Salem
 Rob,Lincoln
 Rob,Robert Penn
@@ -2300,6 +2227,7 @@ Pinn,Steward
 Pinn,T. Gould
 Pinn,Sam
 Pinn,S. Allen
+Pinn,Pennington
 Pinn,R. B. Johns
 Pinn,Blackwell
 Pinn,Jesus
@@ -2317,7 +2245,6 @@ Pinn,Morris
 Pinn,Hudson
 Pinn,Hunterdon
 Pinn,Mercer
-Pinn,Monmouth
 Pinn,Salem
 Pinn,Lincoln
 Pinn,Robert Penn
@@ -2327,6 +2254,7 @@ I. Conover,Steward
 I. Conover,T. Gould
 I. Conover,Sam
 I. Conover,S. Allen
+I. Conover,Pennington
 I. Conover,R. B. Johns
 I. Conover,Blackwell
 I. Conover,Jesus
@@ -2344,7 +2272,6 @@ I. Conover,Morris
 I. Conover,Hudson
 I. Conover,Hunterdon
 I. Conover,Mercer
-I. Conover,Monmouth
 I. Conover,Salem
 I. Conover,Lincoln
 I. Conover,Robert Penn
@@ -2353,6 +2280,7 @@ Theo,Steward
 Theo,T. Gould
 Theo,Sam
 Theo,S. Allen
+Theo,Pennington
 Theo,R. B. Johns
 Theo,Blackwell
 Theo,Jesus
@@ -2370,7 +2298,6 @@ Theo,Morris
 Theo,Hudson
 Theo,Hunterdon
 Theo,Mercer
-Theo,Monmouth
 Theo,Salem
 Theo,Lincoln
 Theo,Robert Penn
@@ -2378,6 +2305,7 @@ Theo,R. Johns
 Steward,T. Gould
 Steward,Sam
 Steward,S. Allen
+Steward,Pennington
 Steward,R. B. Johns
 Steward,Blackwell
 Steward,Jesus
@@ -2395,13 +2323,13 @@ Steward,Morris
 Steward,Hudson
 Steward,Hunterdon
 Steward,Mercer
-Steward,Monmouth
 Steward,Salem
 Steward,Lincoln
 Steward,Robert Penn
 Steward,R. Johns
 T. Gould,Sam
 T. Gould,S. Allen
+T. Gould,Pennington
 T. Gould,R. B. Johns
 T. Gould,Blackwell
 T. Gould,Jesus
@@ -2419,12 +2347,12 @@ T. Gould,Morris
 T. Gould,Hudson
 T. Gould,Hunterdon
 T. Gould,Mercer
-T. Gould,Monmouth
 T. Gould,Salem
 T. Gould,Lincoln
 T. Gould,Robert Penn
 T. Gould,R. Johns
 Sam,S. Allen
+Sam,Pennington
 Sam,R. B. Johns
 Sam,Blackwell
 Sam,Jesus
@@ -2442,11 +2370,11 @@ Sam,Morris
 Sam,Hudson
 Sam,Hunterdon
 Sam,Mercer
-Sam,Monmouth
 Sam,Salem
 Sam,Lincoln
 Sam,Robert Penn
 Sam,R. Johns
+S. Allen,Pennington
 S. Allen,R. B. Johns
 S. Allen,Blackwell
 S. Allen,Jesus
@@ -2464,11 +2392,31 @@ S. Allen,Morris
 S. Allen,Hudson
 S. Allen,Hunterdon
 S. Allen,Mercer
-S. Allen,Monmouth
 S. Allen,Salem
 S. Allen,Lincoln
 S. Allen,Robert Penn
 S. Allen,R. Johns
+Pennington,R. B. Johns
+Pennington,Blackwell
+Pennington,Jesus
+Pennington,Reading
+Pennington,B. King
+Pennington,N. Jersey
+Pennington,J. B. Hamilton
+Pennington,G. Gould
+Pennington,S. G. Gould
+Pennington,Sexton
+Pennington,Wm. Hamilton
+Pennington,J. W. Stephenson
+Pennington,Warren
+Pennington,Morris
+Pennington,Hudson
+Pennington,Hunterdon
+Pennington,Mercer
+Pennington,Salem
+Pennington,Lincoln
+Pennington,Robert Penn
+Pennington,R. Johns
 R. B. Johns,Blackwell
 R. B. Johns,Jesus
 R. B. Johns,Reading
@@ -2485,7 +2433,6 @@ R. B. Johns,Morris
 R. B. Johns,Hudson
 R. B. Johns,Hunterdon
 R. B. Johns,Mercer
-R. B. Johns,Monmouth
 R. B. Johns,Salem
 R. B. Johns,Lincoln
 R. B. Johns,Robert Penn
@@ -2505,7 +2452,6 @@ Blackwell,Morris
 Blackwell,Hudson
 Blackwell,Hunterdon
 Blackwell,Mercer
-Blackwell,Monmouth
 Blackwell,Salem
 Blackwell,Lincoln
 Blackwell,Robert Penn
@@ -2524,7 +2470,6 @@ Jesus,Morris
 Jesus,Hudson
 Jesus,Hunterdon
 Jesus,Mercer
-Jesus,Monmouth
 Jesus,Salem
 Jesus,Lincoln
 Jesus,Robert Penn
@@ -2542,7 +2487,6 @@ Reading,Morris
 Reading,Hudson
 Reading,Hunterdon
 Reading,Mercer
-Reading,Monmouth
 Reading,Salem
 Reading,Lincoln
 Reading,Robert Penn
@@ -2559,7 +2503,6 @@ B. King,Morris
 B. King,Hudson
 B. King,Hunterdon
 B. King,Mercer
-B. King,Monmouth
 B. King,Salem
 B. King,Lincoln
 B. King,Robert Penn
@@ -2575,7 +2518,6 @@ N. Jersey,Morris
 N. Jersey,Hudson
 N. Jersey,Hunterdon
 N. Jersey,Mercer
-N. Jersey,Monmouth
 N. Jersey,Salem
 N. Jersey,Lincoln
 N. Jersey,Robert Penn
@@ -2590,7 +2532,6 @@ J. B. Hamilton,Morris
 J. B. Hamilton,Hudson
 J. B. Hamilton,Hunterdon
 J. B. Hamilton,Mercer
-J. B. Hamilton,Monmouth
 J. B. Hamilton,Salem
 J. B. Hamilton,Lincoln
 J. B. Hamilton,Robert Penn
@@ -2604,7 +2545,6 @@ G. Gould,Morris
 G. Gould,Hudson
 G. Gould,Hunterdon
 G. Gould,Mercer
-G. Gould,Monmouth
 G. Gould,Salem
 G. Gould,Lincoln
 G. Gould,Robert Penn
@@ -2617,7 +2557,6 @@ S. G. Gould,Morris
 S. G. Gould,Hudson
 S. G. Gould,Hunterdon
 S. G. Gould,Mercer
-S. G. Gould,Monmouth
 S. G. Gould,Salem
 S. G. Gould,Lincoln
 S. G. Gould,Robert Penn
@@ -2629,7 +2568,6 @@ Sexton,Morris
 Sexton,Hudson
 Sexton,Hunterdon
 Sexton,Mercer
-Sexton,Monmouth
 Sexton,Salem
 Sexton,Lincoln
 Sexton,Robert Penn
@@ -2640,7 +2578,6 @@ Wm. Hamilton,Morris
 Wm. Hamilton,Hudson
 Wm. Hamilton,Hunterdon
 Wm. Hamilton,Mercer
-Wm. Hamilton,Monmouth
 Wm. Hamilton,Salem
 Wm. Hamilton,Lincoln
 Wm. Hamilton,Robert Penn
@@ -2650,7 +2587,6 @@ J. W. Stephenson,Morris
 J. W. Stephenson,Hudson
 J. W. Stephenson,Hunterdon
 J. W. Stephenson,Mercer
-J. W. Stephenson,Monmouth
 J. W. Stephenson,Salem
 J. W. Stephenson,Lincoln
 J. W. Stephenson,Robert Penn
@@ -2659,7 +2595,6 @@ Warren,Morris
 Warren,Hudson
 Warren,Hunterdon
 Warren,Mercer
-Warren,Monmouth
 Warren,Salem
 Warren,Lincoln
 Warren,Robert Penn
@@ -2667,33 +2602,25 @@ Warren,R. Johns
 Morris,Hudson
 Morris,Hunterdon
 Morris,Mercer
-Morris,Monmouth
 Morris,Salem
 Morris,Lincoln
 Morris,Robert Penn
 Morris,R. Johns
 Hudson,Hunterdon
 Hudson,Mercer
-Hudson,Monmouth
 Hudson,Salem
 Hudson,Lincoln
 Hudson,Robert Penn
 Hudson,R. Johns
 Hunterdon,Mercer
-Hunterdon,Monmouth
 Hunterdon,Salem
 Hunterdon,Lincoln
 Hunterdon,Robert Penn
 Hunterdon,R. Johns
-Mercer,Monmouth
 Mercer,Salem
 Mercer,Lincoln
 Mercer,Robert Penn
 Mercer,R. Johns
-Monmouth,Salem
-Monmouth,Lincoln
-Monmouth,Robert Penn
-Monmouth,R. Johns
 Salem,Lincoln
 Salem,Robert Penn
 Salem,R. Johns
