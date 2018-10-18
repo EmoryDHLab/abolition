@@ -1,3 +1,7 @@
+# Louvain Cluster Description
+
+Note: cluster ID is independent of any of the other factors. It is just an arbitrary label. Additionally, co-occurring documents are listed as documents found within the cluster, not that every edge has these documents.
+
 | Cluster ID | # of Nodes | Co-occurring documents | Notes |
 | --------- | --------- | --------- | --------- |
 | 0 | 432 | 1879.TN-05.06.NASH.txt, 1879.TX-07.02.HOUS.txt, 1883.KY-09.24.LOUI.txt, 1895.TX-05.23.HOUS.txt | Time-span is within 6 years, revolve around kentucky, tennessee and texas |
