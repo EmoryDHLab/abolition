@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
+<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
+<!-- Coding style based on http://gist.github.com/mbostock/5977197 -->
+
+<style>
+body {
+  font: 11px sans-serif;
+}
+
+rect {
+  fill: transparent;
+  shape-rendering: crispEdges;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: rgba(0, 0, 0, 0.1);
+  shape-rendering: crispEdges;
+}
+
+.axisLine {
+  fill: none;
+  shape-rendering: crispEdges;
+  stroke: rgba(0, 0, 0, 0.5);
+  stroke-width: 2px;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  left: 950px;
+  top: 60px;
+  height: 30px;
+  font: 15px sans-serif;
+  background: lightsteelblue;
+  padding: 1px;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.button {
+  position: absolute;
+  left: 950px;
+  top: 30px;
+}
+</style>
+<body>
+  <div id="scatter"></div>
+  <input type="button" class="button" name="reset" value="reset">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<script>
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 900 - margin.top - margin.bottom;
+
+// setup x 
+var xValue = function(d) { return d.x;}, // data -> value
+    xScale = d3.scale.linear().range([0, width]), // value -> display
+    xMap = function(d) { return xScale(xValue(d));}, // data -> display
+    xAxis = d3.svg.axis().scale(xScale).orient("bottom").tickSize(-height);
+
+// setup y
+var yValue = function(d) { return d.y;}, // data -> value
+    yScale = d3.scale.linear().range([height, 0]), // value -> display
+    yMap = function(d) { return yScale(yValue(d));}, // data -> display
+    yAxis = d3.svg.axis().scale(yScale).orient("left").tickSize(-width);
+
+var cValue = function(d) { return d.Name;},
+    color = d3.scale.category10();
+
+// add the tooltip area to the webpage
+var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+// load data
+d3.csv("node2vec_viz_coordinates.csv", function(error, data) {
+
+  // change string (from CSV) into number format
+  data.forEach(function(d) {
+    d.x = +d.x;
+    d.y = +d.y;
+  });
+
+  // don't want dots overlapping axis, so add in buffer to data domain
+
+  var xMax = d3.max(data, function(d) { return d.x; }),
+      xMin = d3.min(data, function(d) { return d.x; }),
+      xMin = xMin > 0 ? 0 : xMin,
+      yMax = d3.max(data, function(d) { return d.y; }),
+      yMin = d3.min(data, function(d) { return d.y; }),
+      yMin = yMin > 0 ? 0 : yMin;
+
+  xScale.domain([xMin, xMax]);
+  yScale.domain([yMin, yMax]);
+
+  // add zoom
+  var zoomBeh = d3.behavior.zoom()
+      .x(xScale)
+      .y(yScale)
+      .scaleExtent([0, 500])
+      .on("zoom", zoom);
+
+  // add the graph canvas to the body of the webpage
+  var svg = d3.select("#scatter").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+      .call(zoomBeh);
+
+  svg.append("rect")
+      .attr("width", width)
+      .attr("height", height);
+
+  // x-axis
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+
+  // y-axis
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+
+  // zoomable area
+  var zoomable = svg.append("svg")
+      .classed("objects", true)
+      .attr("width", width)
+      .attr("height", height);
+
+  // grid lines
+  zoomable.append("svg:line")
+      .classed("axisLine hAxisLine", true)
+      .attr("x1", 0)
+      .attr("y1", 0)
+      .attr("x2", width)
+      .attr("y2", 0)
+      .attr("transform", "translate(0," + height + ")");
+
+  zoomable.append("svg:line")
+      .classed("axisLine vAxisLine", true)
+      .attr("x1", 0)
+      .attr("y1", 0)
+      .attr("x2", 0)
+      .attr("y2", height);
+
+  // draw dots
+  zoomable.selectAll(".dot")
+      .data(data)
+    .enter().append("circle")
+      .classed("dot", true)
+      .attr("r", 6)
+      .attr("transform", dot_zoom)
+      .style("fill", function(d) { return color(cValue(d));}) 
+      .on("mouseover", function(d) {
+          tooltip.transition()
+               .duration(200)
+               .style("opacity", .9);
+          tooltip.html(d["Name"])
+               .style("font-size", "medium");
+      })
+      .on("mouseout", function(d) {
+          tooltip.transition()
+               .duration(500)
+               .style("opacity", 0);
+      });
+
+  d3.select("input").on("click", reset);
+
+  //zoom functions
+  function reset() {
+    xMax = d3.max(data, function(d) { return d.x; });
+    xMin = d3.min(data, function(d) { return d.x; });
+    yMax = d3.max(data, function(d) { return d.y; });
+    yMin = d3.min(data, function(d) { return d.y; });
+
+    zoomBeh.x(xScale.domain([xMin, xMax])).y(yScale.domain([yMin, yMax]));
+
+    var svg = d3.select("#scatter").transition();
+
+    svg.select(".x.axis").duration(750).call(xAxis);
+    svg.select(".y.axis").duration(750).call(yAxis);
+
+    zoomable.selectAll(".dot").transition().duration(1000).attr("transform", dot_zoom);
+  }
+
+  function zoom() {
+    svg.select(".x.axis").call(xAxis);
+    svg.select(".y.axis").call(yAxis);
+
+    svg.selectAll(".dot")
+        .attr("transform", dot_zoom);
+  }
+  //zoom for dots
+  function dot_zoom(d) {
+    return "translate(" + xScale(d["x"]) + "," + yScale(d["y"]) + ")";
+  }
+});
+
+</script>
+</body>
+</html>

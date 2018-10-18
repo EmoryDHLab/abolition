@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  left: 1500px;
+  top: 50px;
+  height: 50px;
+  font: 15px sans-serif;
+  background: lightsteelblue;
+  padding: 1px;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+</style>
+<svg width="2000" height="1000"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(d => d.id))
+    .force("charge", d3.forceManyBody())
+    .force("center", d3.forceCenter(width / 2, height / 2))
+
+var legendRectSize = 18;
+var legendSpacing = 4;
+
+var tooltip_div = d3.select("body").append("div") 
+    .attr("class", "tooltip")       
+    .style("opacity", 0);
+
+d3.json("louvain_clusters_co.json", function(error, graph) {
+  if (error) throw error;
+
+  simulation.nodes(graph.nodes)
+        .on("tick", ticked);
+
+  simulation.force("link").links(graph.links);
+
+  //network fade
+  const linkedByIndex = {};
+  graph.links.forEach(d => {
+    linkedByIndex[`${d.source.index},${d.target.index}`] = 1;
+  });
+
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+    .on('mouseout', fade(1));
+
+  var node = svg.append("g")
+    .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      .attr("r", 5)
+      .attr("fill", d => color(d.group))
+
+    // mouseover/mouseout interactions
+  node.on("mouseover.circle", function(d) {
+            d3.select(this).attr('r', 15);
+            tooltip_div.transition()    
+                .duration(200)    
+                .style("opacity", .9);    
+            tooltip_div.html("Node:" + d.id + "<br/>"  + "Group:" + d.group)
+              .style("width", ("Node:" + d.id).length * 8 + "px");
+            })
+      .on("mouseover", fade(0.1))
+      .on("mouseout.circle", function(d) {
+          d3.select(this).attr('r', 5);
+          tooltip_div.transition()
+            .duration(500)
+            .style("opacity", 0);
+          })
+      .on("mouseout", fade(1))
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+  node.append("title")
+    .text(d => d.id);
+
+  var legend = svg.selectAll('.legend')                     // NEW
+    .data(color.domain())                                   // NEW
+    .enter()                                                // NEW
+    .append('g')                                            // NEW
+    .attr('class', 'legend')                                // NEW
+    .attr('transform', function(d, i) {                     // NEW
+      var height = legendRectSize + legendSpacing;          // NEW
+      var offset =  height * color.domain().length / 2;     // NEW
+      var horz = 105 * legendRectSize;                       // NEW
+      var vert = i * height - offset;                       // NEW
+      return 'translate(' + horz + ',' + (vert + 300) + ')';})      // NEW
+
+    legend.append('rect')                                     // NEW
+      .attr('width', legendRectSize)                          // NEW
+      .attr('height', legendRectSize)                         // NEW
+      .style('fill', color)                                   // NEW
+      .style('stroke', color);                                // NEW
+      
+    legend.append('text')                                     // NEW
+      .attr('x', legendRectSize + legendSpacing)              // NEW
+      .attr('y', legendRectSize - legendSpacing)              // NEW
+      .text(function(d) { return d; });
+
+  function ticked() {
+    link
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
+
+    node
+        .attr('transform', d => `translate(${d.x},${d.y})`);
+  }
+
+  function isConnected(a, b) {
+    return linkedByIndex[`${a.index},${b.index}`] 
+      || linkedByIndex[`${b.index},${a.index}`] 
+      || a.index === b.index;
+  }
+
+  function fade(opacity) {
+    return d => {
+      node.style('stroke-opacity', function (o) {
+          const thisOpacity = isConnected(d, o) ? 1 : opacity;
+          this.setAttribute('fill-opacity', thisOpacity);
+          return thisOpacity;
+      });
+
+      link.style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
+    };
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+</script>
