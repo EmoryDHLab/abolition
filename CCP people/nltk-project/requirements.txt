@@ -1,6 +1,0 @@
-networkx
-matplotlib
-python-igraph
-node2vec
-sklearn
-gensim
