@@ -1,8 +1,8 @@
 # Files to ignore
-nltk-project/.DS_Store
+community detection/.DS_Store
 
 # Folders to ignore
-nltk-project/stanford-corenlp-full-2018-02-27/
-nltk-project/ccpminutes/
-nltk-project/.idea/
-nltk-project/__MACOSX/
+community detection/stanford-corenlp-full-2018-02-27/
+community detection/ccpminutes/
+community detection/.idea/
+community detection/__MACOSX/
