@@ -1,5 +1,6 @@
 # Files to ignore
 community detection/.DS_Store
+community detection/stanford-corenlp-full-2018-02-27.zip
 
 # Folders to ignore
 community detection/stanford-corenlp-full-2018-02-27/
