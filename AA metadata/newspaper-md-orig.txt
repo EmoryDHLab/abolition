@@ -1,0 +1,18 @@
+DirectoryName,TitleID,Title,AAStart,AAEnd,PubCity,PubState,PreTitleID,PostTitleID,Frequency,HasPublishers,HasEditors
+TheNorthStar,14,The North Star,1847,1851,Rochester,NY,,2,Weekly,Y,Y
+FrederickDouglassPaper,2,Frederick Douglass Paper,1851,1855,Rochester,NY,14,,Weekly,Y,Y
+DouglassMonthly,0,Douglass' Monthly,1859,1863,Rochester,NY,,,Monthly,Y,N
+FrankLesliesWeekly,1,Frank Leslie's Weekly,1855,1922,New York,NY,,,Weekly,Y,Y
+FreedomsJournal,3,Freedom's Journal,1827,1829,New York,NY,,,Weekly,Y,Y
+GodeysLadysBook,4,Godey's Lady's Book,1830,1898,Philadelphia,PA,,,Monthly,Y,Y
+NationalAntiSlaveryStandard,5,National Anti-Slavery Standard,1840,1870,New York,NY,,,Weekly,Y,Y
+NationalCitizenandBallotBox,6,National Citizen and Ballot Box,1876,1881,Toledo,OH,,,Weekly,Y,Y
+ProvincialFreeman,7,Provincial Freeman,1854,1857,Ontario,CANADA,,,Weekly,N,Y
+TheChristianRecorder,9,The Christian Recorder,1861,1902,Philadelphia,PA,,,Weekly,Y,Y
+WeeklyAdvocate,18,Weekly Advocate,1837,1837,New York,NY,,10,Weekly,Y,Y
+TheColoredAmerican,10,The Colored American,1837,1841,New York,NY,18,,Weekly,Y,N
+TheLiberator,11,The Liberator,1831,1865,Boston,MA,,,Weekly,Y,Y
+TheLily,12,The Lily,1849,1856,Seneca Falls,NY,,,Weekly,N,Y
+TheNationalEra,13,The National Era,1847,1860,Washington,DC,,,Weekly,N,Y
+ThePennsylvaniaGazette,15,The Pennsylvania Gazette,1728,1800,Philadelphia,PA,,,Weekly,Y,N
+TheRevolution,16,The Revolution,1868,1871,New York,NY,,,Weekly,N,Y
