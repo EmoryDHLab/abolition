@@ -1,0 +1,112 @@
+DouglassMonthly
+T25 0.020 3.94 25 rebels rebel rebellion loyal mcclellan lincoln proclamation confederate davis
+T75 0.011 3.11 75 frank chess illustrated billiard game llustrated games budget leslie pictoria
+T06 0.007 1.90 6 negro negroes mulatto blacks niggers nigger picayune dated whites jail
+T51 0.012 1.73 51 negroes planters slaves negro blacks emancipation colonies africans slavehold
+T78 0.008 1.63 78 habeas corpus fugitive writ jury jerry dred plaintiff claimant constitutional
+
+FrankLesliesWeekly
+T37 0.063 9.01 37 table patented stereoscopic cartes druggists tiffany jewellery pianos medical
+T75 0.023 6.41 75 frank chess illustrated billiard game llustrated games budget leslie pictoria
+T85 0.021 5.24 85 opera musical laura concerts signor music miss madame dramatic performances
+T56 0.030 4.25 56 rebel rebels fort cavalry batteries mcclellan troops regiment brigade regimen
+T60 0.008 1.95 60 colonel regiment major regiments brigade troops commander volunteers fort lie
+
+FrederickDouglassPaper
+T50 0.005 1.70 50 frederick douglass baptist sermon pastor congregation rev preached unitarian 
+T65 0.010 1.45 65 whig whigs democrats democratic nomination democracy nominate democrat hunker
+T09 0.005 1.40 9 kansas wilmot territorial proviso territories nebraska lecompton territory mex
+T67 0.005 0.93 67 kossuth hungary despots hungarian oligarchy democracy inalienable tyrants dis
+T25 0.005 0.91 25 rebels rebel rebellion loyal mcclellan lincoln proclamation confederate davis
+
+FreedomsJournal
+T76 0.018 1.52 76 affray pistol stabbed inquest duel murderer jumped murder shots pistols
+T44 0.005 1.05 44 mary aged sarah susan elizabeth eliza caroline ann margaret hannah
+T99 0.006 0.91 99 vessel crew brig schooner cargo passengers steamer frigate boat sloop
+T07 0.004 0.90 7 explosion flames conflagration buildings fire earthquake brick insurance burne
+T47 0.003 0.89 47 king egypt highness princess greeks deacon nobles royal latimer kings
+
+GodeysLadysBook
+T58 0.065 12.62 58 trimmed skirt velvet lace sleeves ribbon corsage satin silk edged
+T02 0.047 10.77 2 knit stitches stitch dc loop seam rows wire ch crochet
+T05 0.031 5.23 5 boil pint pound boiled ounces bake juice teaspoonful butter quart
+T89 0.063 2.65 89 melody beauteous morn lonely radiance music softly dewy buds roses
+T52 0.026 2.49 52 miss exclaimed aunt uncle harry murmured mamma eleanor sobbed emily
+
+NationalAntiSlaveryStandard
+T98 0.043 11.33 98 rancis dmund ackson uincy sydney amuel endell hillips remittances edmund
+T39 0.021 5.77 39 table flour donations prices photograph nassau soap lecture abby knitting
+T71 0.020 5.39 71 ames miller cayuga homas ontario obert dward penn avis morris
+T68 0.005 4.55 68 parker phillips wendell pillsbury lloyd arker loyd hillips oster nti
+T27 0.019 3.43 27 assortment subscriber phrenological gum retail flour stationery importers che
+
+ProvincialFreeman
+T87 0.020 3.03 87 emperor russian austrian austria russians prussia vienna moniteur austrians c
+T05 0.014 2.35 5 boil pint pound boiled ounces bake juice teaspoonful butter quart
+T70 0.008 1.88 70 flour rye sales val bushels kegs bushel oats lard beef
+T07 0.007 1.42 7 explosion flames conflagration buildings fire earthquake brick insurance burne
+T41 0.006 1.38 41 plants snow wheat trees crops crop ice rain potatoes vines
+
+TheChristianRecorder
+T29 0.012 4.05 29 bishop tract recorder conference sabbath canada episcopal toronto canadian bi
+T83 0.012 2.48 83 churches baptist presbytery synod christ evangelical methodists jesus episcop
+T43 0.026 2.33 43 jesus christ ye jehovah lord gospel heavenly saviour sinners unto
+T26 0.006 1.73 26 bible sabbath jesus christ jewish bibles scriptures catholics sermon protesta
+T50 0.004 1.42 50 frederick douglass baptist sermon pastor congregation rev preached unitarian 
+
+TheColoredAmerican
+T68 0.007 6.40 68 parker phillips wendell pillsbury lloyd arker loyd hillips oster nti
+T46 0.004 2.87 46 adams quincy dams uincy stipulation representation correspondents reciprocal 
+T98 0.009 2.30 98 rancis dmund ackson uincy sydney amuel endell hillips remittances edmund
+T11 0.014 1.61 11 colored colonization colonizationists liberia blacks whites freedmen africa c
+T30 0.004 1.55 30 medical inquirer patients dr counsellor portland diseases medicine hospital s
+
+TheLiberator
+T68 0.009 9.09 68 parker phillips wendell pillsbury lloyd arker loyd hillips oster nti
+T46 0.006 3.80 46 adams quincy dams uincy stipulation representation correspondents reciprocal 
+T94 0.004 2.42 94 april yankee bela cornhill morgan wilson bailey trinity tf cambridge
+T15 0.004 2.18 15 boston faneuil salem lynn atlas lowell tremont transcript mann newburyport
+T25 0.011 2.13 25 rebels rebel rebellion loyal mcclellan lincoln proclamation confederate davis
+
+TheLily
+T35 0.052 6.22 35 woman husband female marry feminine womanly sex married masculine lucy
+T48 0.018 5.23 48 temperance intoxicating liquor rum intemperance liquors abstinence drunkard m
+T44 0.007 1.58 44 mary aged sarah susan elizabeth eliza caroline ann margaret hannah
+T30 0.004 1.48 30 medical inquirer patients dr counsellor portland diseases medicine hospital s
+T81 0.012 1.26 81 aching ghastly agony anguish pang couch babe baby wept clasped
+
+TheNationalEra
+T09 0.021 5.76 9 kansas wilmot territorial proviso territories nebraska lecompton territory mex
+T65 0.040 5.58 65 whig whigs democrats democratic nomination democracy nominate democrat hunker
+T66 0.015 3.13 66 yeas nays amendment amendments senate senator ayes johnson petitions committe
+T70 0.013 2.81 70 flour rye sales val bushels kegs bushel oats lard beef
+T97 0.011 2.11 97 santa san mexico mexican texas vera mexicans francisco rio treaty
+
+TheNorthStar
+T70 0.008 1.86 70 flour rye sales val bushels kegs bushel oats lard beef
+T82 0.003 0.84 82 carolina enquirer charleston confederacy southern disunion richmond nullifica
+T36 0.003 0.74 36 petitions petition petitioners annexation texas adams senators resolutions se
+T49 0.003 0.71 49 tribune courier democrat intelligencer chicago enquirer seward senator ashing
+T12 0.004 0.71 12 slaveholder slaveholders slavery abolitionists slaves abolish enslaving fugit
+
+WeeklyAdvocate
+T68 0.007 6.38 68 parker phillips wendell pillsbury lloyd arker loyd hillips oster nti
+T98 0.010 2.73 98 rancis dmund ackson uincy sydney amuel endell hillips remittances edmund
+T46 0.003 2.25 46 adams quincy dams uincy stipulation representation correspondents reciprocal 
+T38 0.022 2.22 38 freedmen industrial manual northampton educational accommodations association
+T27 0.012 2.19 27 assortment subscriber phrenological gum retail flour stationery importers che
+
+WeeklyAdvocate
+T11 0.011 1.21 11 colored colonization colonizationists liberia blacks whites freedmen africa c
+T29 0.003 1.07 29 bishop tract recorder conference sabbath canada episcopal toronto canadian bi
+T50 0.003 1.04 50 frederick douglass baptist sermon pastor congregation rev preached unitarian 
+T21 0.002 0.87 21 albany conference bethel utica springfield syracuse buffalo bedford worcester
+T38 0.008 0.86 38 freedmen industrial manual northampton educational accommodations association
+
+WeeklyAdvocate
+T58 0.008 1.56 58 trimmed skirt velvet lace sleeves ribbon corsage satin silk edged
+T37 0.011 1.52 37 table patented stereoscopic cartes druggists tiffany jewellery pianos medical
+T98 0.006 1.47 98 rancis dmund ackson uincy sydney amuel endell hillips remittances edmund
+T02 0.005 1.23 2 knit stitches stitch dc loop seam rows wire ch crochet
+T39 0.004 1.19 39 table flour donations prices photograph nassau soap lecture abby knitting
+
